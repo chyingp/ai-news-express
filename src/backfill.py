@@ -53,6 +53,10 @@ def backfill_file(client: OpenAI, path: Path) -> int:
         batch = todo[i:i + processor.BATCH_SIZE]
         fixed += processor.process_batch_with_fallback(client, batch)
 
+    for a in todo:
+        if a.get("title_zh"):
+            a["processed"] = True
+
     with open(path, "w", encoding="utf-8") as f:
         json.dump(articles, f, ensure_ascii=False, indent=2)
     logger.info(f"{path.name}: backfilled {fixed}/{len(todo)} via AI")

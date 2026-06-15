@@ -21,6 +21,11 @@ CATEGORIES = [
     "行业政策", "开源项目", "技术教程",
 ]
 
+ARTICLES_DIR = Path(__file__).parent.parent / "data" / "articles"
+
+# AI 处理产出的字段；复用已处理文章时只回填这些，其余原始字段保持不变。
+_AI_FIELDS = ("title_zh", "summary_zh", "key_points", "category", "importance", "is_breaking")
+
 SYSTEM_PROMPT = """你是一个 AI 新闻分析助手。针对每篇文章，你需要输出：
 1. title_zh: 中文标题。如果原标题是中文，原样返回；如果是英文，翻译为简洁准确的中文标题。
 2. summary_zh: 中文摘要（50-100 字，简明扼要）
@@ -269,12 +274,36 @@ def _heuristic_score(article: dict) -> dict:
     }
 
 
-def process_articles(articles: list[dict], use_ai: bool = True) -> list[dict]:
+def _already_processed(prev: dict | None) -> bool:
+    return bool(prev) and bool(prev.get("processed") or prev.get("title_zh"))
+
+
+def process_articles(
+    articles: list[dict],
+    use_ai: bool = True,
+    known: dict[str, dict] | None = None,
+) -> list[dict]:
     articles = deduplicate(articles)
     if not articles:
         return []
 
-    if use_ai:
+    known = known or {}
+
+    # 复用此前已处理过的文章结果，不再重复调用模型。这样即便修改网站逻辑、
+    # 重新生成页面或重跑流程，已翻译/摘要过的文章也不会被反复处理，节省 API 调用。
+    reused, todo = [], []
+    for a in articles:
+        prev = known.get(a["id"])
+        if _already_processed(prev):
+            a.update({k: prev[k] for k in _AI_FIELDS if k in prev})
+            a["processed"] = True
+            reused.append(a)
+        else:
+            todo.append(a)
+    if reused:
+        logger.info(f"Reusing {len(reused)} already-processed articles (skipped AI)")
+
+    if use_ai and todo:
         api_key = os.environ.get("DASHSCOPE_API_KEY")
         if not api_key:
             logger.warning("DASHSCOPE_API_KEY not set, falling back to heuristic scoring")
@@ -287,22 +316,27 @@ def process_articles(articles: list[dict], use_ai: bool = True) -> list[dict]:
 
     processed = []
 
-    if not use_ai:
-        for a in articles:
+    if todo and not use_ai:
+        for a in todo:
             a.update(_heuristic_score(a))
             processed.append(a)
         logger.info(f"Heuristic scoring: {len(processed)} articles")
-    else:
+    elif todo:
         ai_count = 0
-        for i in range(0, len(articles), BATCH_SIZE):
-            batch = articles[i:i + BATCH_SIZE]
+        for i in range(0, len(todo), BATCH_SIZE):
+            batch = todo[i:i + BATCH_SIZE]
             logger.info(f"Processing batch {i // BATCH_SIZE + 1} ({len(batch)} articles)")
             ai_count += process_batch_with_fallback(client, batch)
             processed.extend(batch)
         logger.info(
-            f"AI processed {ai_count}/{len(articles)} articles "
-            f"({len(articles) - ai_count} heuristic)"
+            f"AI processed {ai_count}/{len(todo)} articles "
+            f"({len(todo) - ai_count} heuristic)"
         )
+
+    for a in processed:
+        a["processed"] = True
+
+    processed = reused + processed
 
     for a in processed:
         if a.get("is_breaking") and not _is_within_24h(a.get("published", "")):
@@ -319,8 +353,23 @@ def process_articles(articles: list[dict], use_ai: bool = True) -> list[dict]:
     return processed
 
 
+def load_processed_index(limit_files: int = 3) -> dict[str, dict]:
+    """从最近若干个按日存档文件构建 {id: article} 索引。
+
+    用于在处理前识别"已处理过"的文章，避免重复翻译/摘要。
+    """
+    index: dict[str, dict] = {}
+    if not ARTICLES_DIR.exists():
+        return index
+    for path in sorted(ARTICLES_DIR.glob("*.json"), reverse=True)[:limit_files]:
+        with open(path, "r", encoding="utf-8") as f:
+            for a in json.load(f):
+                index[a["id"]] = a
+    return index
+
+
 def save_processed(articles: list[dict], date_str: str):
-    data_dir = Path(__file__).parent.parent / "data" / "articles"
+    data_dir = ARTICLES_DIR
     data_dir.mkdir(parents=True, exist_ok=True)
     path = data_dir / f"{date_str}.json"
 
