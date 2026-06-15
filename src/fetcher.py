@@ -87,6 +87,7 @@ def fetch_rss(source: dict, last_fetch: Optional[str] = None) -> list[dict]:
             "url": link,
             "source": source["name"],
             "source_zh": source.get("name_zh", source["name"]),
+            "source_type": source.get("type", "rss"),
             "category": source.get("category", ""),
             "language": source.get("language", "en"),
             "published": published.isoformat(),

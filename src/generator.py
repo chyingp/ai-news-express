@@ -24,6 +24,14 @@ CST = timezone(timedelta(hours=8))
 # 让新发布的资讯逐步盖过旧的高分资讯，而不是旧新闻永久霸榜。
 HALF_LIFE_HOURS = 18.0
 
+# 首页"专家观点"板块最多展示的推文条数
+EXPERT_LIMIT = 12
+
+
+def _is_expert(a: dict) -> bool:
+    """是否来自 X/Twitter 专家信源（经 Nitter 抓取）。"""
+    return a.get("source_type") == "nitter" or a.get("source", "").endswith("(X)")
+
 
 def _hot_score(article: dict) -> float:
     importance = article.get("importance", 0) or 0
@@ -140,7 +148,12 @@ def generate_index(articles: list[dict] | None = None):
 
     articles = _prepare_articles(articles)
 
-    main_articles = [a for a in articles if a.get("is_cluster_main", True)]
+    # 专家推文（X/Twitter）单独成块，按时间倒序，不与新闻混排
+    expert_articles = [a for a in articles if _is_expert(a)]
+    expert_articles.sort(key=lambda a: a.get("published", ""), reverse=True)
+    experts = expert_articles[:EXPERT_LIMIT]
+
+    main_articles = [a for a in articles if a.get("is_cluster_main", True) and not _is_expert(a)]
 
     headlines = [a for a in main_articles if a.get("importance", 0) >= 3][:10]
 
@@ -157,6 +170,7 @@ def generate_index(articles: list[dict] | None = None):
     html = template.render(
         articles=main_articles,
         headlines=headlines,
+        experts=experts,
         categories=present_cats,
         cat_counts=cat_counts,
         total_count=len(main_articles),
