@@ -50,6 +50,26 @@
   </div>
   {% endif %}
 
+  {% if experts %}
+  <div class="experts">
+    <h2>专家观点 · X 动态</h2>
+    <div class="expert-grid">
+      {% for a in experts %}
+      <div class="expert-card">
+        <div class="expert-head">
+          <span class="expert-name">{{ a.source_zh }}</span>
+          {% if a.published_display %}<time class="article-time" datetime="{{ a.published }}" title="{{ a.published_full }}">{{ a.published_display }}</time>{% endif %}
+        </div>
+        <div class="expert-body">
+          <a href="{{ a.url }}" target="_blank" rel="noopener">{% if a.title_zh %}{{ a.title_zh }}{% else %}{{ a.title }}{% endif %}</a>
+        </div>
+        {% if a.summary_zh %}<p class="expert-summary">{{ a.summary_zh }}</p>{% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
   <div class="filters">
     <button class="active" data-category="all">全部 <span class="filter-count">({{ total_count }})</span></button>
     {% for cat in categories %}
