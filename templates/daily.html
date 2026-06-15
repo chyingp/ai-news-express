@@ -53,7 +53,7 @@
           <span class="tag">{{ a.category }}</span>
           {% if a.is_breaking %}<span class="tag tag-breaking">突发</span>{% endif %}
           <span class="stars">{{ '★' * a.importance }}{{ '☆' * (5 - a.importance) }}</span>
-          <span>{{ a.published_display }}</span>
+          {% if a.published_display %}<time class="article-time" datetime="{{ a.published }}" title="{{ a.published_full }}">{{ a.published_display }}</time>{% endif %}
         </div>
         {% if a.cluster_children %}
         <span class="cluster-toggle" onclick="toggleCluster(this)">还有 {{ a.cluster_children|length }} 篇相关报道 ▸</span>

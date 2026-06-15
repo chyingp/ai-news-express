@@ -147,11 +147,20 @@ header .subtitle {
 
 .headline-meta {
   display: flex;
+  flex-wrap: wrap;
   gap: 8px;
   margin-top: 6px;
   font-size: 0.7rem;
   color: var(--text-tertiary);
   align-items: center;
+}
+
+/* 发布时间：靠右对齐，方便快速扫到内容有多新 */
+.article-time {
+  margin-left: auto;
+  white-space: nowrap;
+  color: var(--text-tertiary);
+  font-variant-numeric: tabular-nums;
 }
 
 /* Filters */

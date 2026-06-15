@@ -68,6 +68,14 @@ def _format_published(iso_str: str) -> str:
         return ""
 
 
+def _format_published_full(iso_str: str) -> str:
+    """绝对发布时间（CST，精确到分），用于 tooltip / 语义化 <time> 标签。"""
+    try:
+        return datetime.fromisoformat(iso_str).astimezone(CST).strftime("%Y-%m-%d %H:%M")
+    except (ValueError, TypeError):
+        return ""
+
+
 def _is_within_24h(iso_str: str) -> bool:
     try:
         dt = datetime.fromisoformat(iso_str)
@@ -80,6 +88,7 @@ def _is_within_24h(iso_str: str) -> bool:
 def _prepare_articles(articles: list[dict]) -> list[dict]:
     for a in articles:
         a["published_display"] = _format_published(a.get("published", ""))
+        a["published_full"] = _format_published_full(a.get("published", ""))
         a.setdefault("importance", 2)
         a.setdefault("is_breaking", False)
         a.setdefault("category", "产品动态")
