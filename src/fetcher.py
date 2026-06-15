@@ -97,6 +97,33 @@ def fetch_rss(source: dict, last_fetch: Optional[str] = None) -> list[dict]:
     return articles
 
 
+DEFAULT_NITTER = "https://nitter.net"
+
+
+def _is_retweet(title: str) -> bool:
+    t = title.strip()
+    return t.startswith("RT @") or t.startswith("RT by ") or t.startswith("R to @")
+
+
+def fetch_nitter(source: dict, config: dict, last_fetch: Optional[str] = None) -> list[dict]:
+    """通过 Nitter 把 X/Twitter 用户时间线桥接为 RSS 抓取。
+
+    X 已无官方 RSS、API 转为付费，故经 Nitter 实例代理。公共实例可能失效，
+    届时只需修改 config 顶层的 nitter_instance。失败时 fetch_rss 会返回空列表，
+    不影响其他信源。
+    """
+    instance = (config.get("nitter_instance") or DEFAULT_NITTER).rstrip("/")
+    handle = source["handle"].lstrip("@")
+    rss_source = {**source, "url": f"{instance}/{handle}/rss"}
+    articles = fetch_rss(rss_source, last_fetch)
+
+    # 过滤转推与纯回复，保留专家本人的原创观点
+    kept = [a for a in articles if not _is_retweet(a["title"])]
+    if len(kept) != len(articles):
+        logger.info(f"[{source['name']}] Filtered retweets/replies: {len(articles)} -> {len(kept)}")
+    return kept
+
+
 def fetch_hackernews(source: dict, last_fetch: Optional[str] = None) -> list[dict]:
     ai_tags = ["artificial-intelligence", "machine-learning", "deep-learning", "llm"]
     query_terms = "AI OR LLM OR GPT OR Claude OR Gemini OR \"machine learning\" OR \"deep learning\" OR \"artificial intelligence\""
@@ -192,6 +219,8 @@ def fetch_all(config: Optional[dict] = None) -> list[dict]:
 
         if source["type"] == "hackernews":
             articles = fetch_hackernews(source, last_fetch)
+        elif source["type"] == "nitter":
+            articles = fetch_nitter(source, config, last_fetch)
         else:
             articles = fetch_rss(source, last_fetch)
 
