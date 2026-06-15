@@ -34,7 +34,9 @@ def run_hourly():
     date_str = datetime.now(CST).strftime("%Y-%m-%d")
     save_processed(processed, date_str)
 
-    generate_index(processed)
+    # 从存档全量重建首页（最近数日），而非只用本次新抓到的文章，
+    # 否则首页会被压缩成仅剩这一批新文章。
+    generate_index()
     logger.info(f"=== Hourly check done: {len(processed)} articles ===")
 
 
