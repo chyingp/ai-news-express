@@ -3287,5 +3287,29 @@
     "cluster_id": 0,
     "is_cluster_main": true,
     "cluster_children": []
+  },
+  {
+    "id": "cf3907daa1a8d50d2a7f478776424d0d",
+    "title": "Concept-Vector: A design framework for human-interpretable word embeddings [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1u6ivt0/conceptvector_a_design_framework_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-15T14:53:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This project distills a model's word embeddings into human-interpretable &quot;concept-vectors&quot;, i.e. vectors in which each component tracks concerns like semantics, syntax, and even statistics potentially, while associating each component with a human readable and human definable label.</p> <p>If you're in a rush, glance at the <a href=\"https://github.com/truehumanexe/concept_vector/blob/main/docs/concept_descriptions.md\">core concepts</a>. Then take a loo",
+    "title_zh": "Concept-Vector：可解释词嵌入的设计框架",
+    "summary_zh": "该项目提出了一个设计框架，将模型的词嵌入提炼为用户可理解的“概念向量”，每个向量分量分别追踪语义、语法等维度，并关联可读性标签，旨在提升模型的可解释性。",
+    "key_points": [
+      "将词嵌入分解为追踪语义、语法等维度的可解释概念向量",
+      "每个概念向量分量关联人类可读标签以提升透明度",
+      "提供一种将黑箱嵌入转化为结构化、可理解表示的方法"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "processed": true,
+    "cluster_id": 0,
+    "is_cluster_main": true,
+    "cluster_children": []
   }
 ]
