@@ -1842,5 +1842,55 @@
     "cluster_id": 74,
     "is_cluster_main": true,
     "cluster_children": []
+  },
+  {
+    "id": "66683b0834c81e74eb88bb1ad37a824f",
+    "title": "Even if you are in favor of AI regulation, you should recognize that opaque and arbitrary regulatory strikes are counter-productive for the whole industry.",
+    "url": "https://nitter.net/fchollet/status/2066554345345147288#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-15T16:12:05+00:00",
+    "content_snippet": "<p>Even if you are in favor of AI regulation, you should recognize that opaque and arbitrary regulatory strikes are counter-productive for the whole industry.</p>",
+    "title_zh": "即使支持AI监管，也应认识到不透明和武断的监管打击对整个行业适得其反",
+    "summary_zh": "François Chollet在社交媒体上发表观点，认为即使人们支持对人工智能进行监管，也应意识到那些不透明、武断的监管措施会对整个AI行业产生负面效果，阻碍其健康发展。",
+    "key_points": [
+      "不透明和武断的监管打击会阻碍AI行业整体发展",
+      "观点来自知名AI研究员François Chollet的社交媒体"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "processed": true,
+    "proc_version": 1,
+    "cluster_id": 0,
+    "is_cluster_main": true,
+    "cluster_children": []
+  },
+  {
+    "id": "6cfdba15005704854ce127343b78b728",
+    "title": "Could AI training be decentralized like Bitcoin mining? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1u6kzby/could_ai_training_be_decentralized_like_bitcoin/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-15T16:09:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been thinking about whether the same basic concept behind Bitcoin could be applied to AI training.<br /> In Bitcoin, miners perform proof-of-work and are rewarded for contributing computational resources to secure the network. The actual computation itself isn’t particularly useful outside of the network, but it creates a decentralized system.<br /> What if a similar incentive structure could be used for training large language models?<br /> Instead of mine",
+    "title_zh": "AI训练能像比特币挖矿一样去中心化吗？",
+    "summary_zh": "一篇Reddit讨论帖探讨了将比特币挖矿的工作量证明概念应用于AI模型训练的可能性，即让参与者通过贡献算力训练模型来获得奖励，从而实现去中心化的AI训练。",
+    "key_points": [
+      "探讨用区块链工作量证明机制实现去中心化AI训练",
+      "构想参与者贡献算力训练模型并获得代币奖励"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "processed": true,
+    "proc_version": 1,
+    "cluster_id": 1,
+    "is_cluster_main": true,
+    "cluster_children": []
   }
 ]
