@@ -1,6 +1,7 @@
 import json
 import logging
 import re
+import time
 from datetime import datetime, timezone, timedelta
 from difflib import SequenceMatcher
 from pathlib import Path
@@ -11,6 +12,7 @@ from openai import OpenAI
 logger = logging.getLogger(__name__)
 
 BATCH_SIZE = 10
+MAX_RETRIES = 3
 SIMILARITY_THRESHOLD = 0.8
 CLUSTER_THRESHOLD = 0.65
 
@@ -140,24 +142,56 @@ def _build_articles_prompt(articles: list[dict]) -> str:
 def _process_batch(client: OpenAI, batch: list[dict]) -> list[dict]:
     prompt = _build_articles_prompt(batch)
 
-    try:
-        response = client.chat.completions.create(
-            model="deepseek-v4-pro",
-            max_tokens=8192,
-            response_format={"type": "json_object"},
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": f"请分析以下 {len(batch)} 篇文章：\n\n{prompt}"},
-            ],
-            extra_body={"enable_thinking": False},
-        )
-    except Exception as e:
-        logger.error(f"API error: {e}")
-        return []
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = client.chat.completions.create(
+                model="deepseek-v4-pro",
+                max_tokens=8192,
+                response_format={"type": "json_object"},
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": f"请分析以下 {len(batch)} 篇文章：\n\n{prompt}"},
+                ],
+                extra_body={"enable_thinking": False},
+            )
+            text = response.choices[0].message.content
+            results = json.loads(text).get("articles", [])
+            if isinstance(results, list):
+                return results
+            logger.warning(f"Unexpected response shape (attempt {attempt}/{MAX_RETRIES})")
+        except Exception as e:
+            logger.warning(f"API/parse error (attempt {attempt}/{MAX_RETRIES}): {e}")
 
-    text = response.choices[0].message.content
-    data = json.loads(text)
-    return data["articles"]
+        if attempt < MAX_RETRIES:
+            time.sleep(2 ** attempt)
+
+    logger.error(f"Batch failed after {MAX_RETRIES} attempts")
+    return []
+
+
+def process_batch_with_fallback(client: OpenAI, batch: list[dict]) -> int:
+    """Update each article in ``batch`` in place with AI results.
+
+    On a count mismatch the batch is retried one article at a time, so a single
+    problematic article can no longer drop the translations for the other nine.
+    Articles that still fail fall back to heuristic scoring (no translation).
+    Returns the number of articles successfully processed by the AI.
+    """
+    results = _process_batch(client, batch)
+    if len(results) == len(batch):
+        for article, ai_result in zip(batch, results):
+            article.update(ai_result)
+        return len(batch)
+
+    if len(batch) > 1:
+        logger.warning(
+            f"Expected {len(batch)} results, got {len(results)}; retrying per-article"
+        )
+        return sum(process_batch_with_fallback(client, [a]) for a in batch)
+
+    logger.warning(f"AI failed for '{batch[0]['title'][:60]}', using heuristic")
+    batch[0].update(_heuristic_score(batch[0]))
+    return 0
 
 
 HIGH_IMPORTANCE_SOURCES = {"OpenAI Blog", "Google DeepMind Blog", "Anthropic News"}
@@ -259,22 +293,16 @@ def process_articles(articles: list[dict], use_ai: bool = True) -> list[dict]:
             processed.append(a)
         logger.info(f"Heuristic scoring: {len(processed)} articles")
     else:
+        ai_count = 0
         for i in range(0, len(articles), BATCH_SIZE):
             batch = articles[i:i + BATCH_SIZE]
             logger.info(f"Processing batch {i // BATCH_SIZE + 1} ({len(batch)} articles)")
-
-            results = _process_batch(client, batch)
-
-            if len(results) != len(batch):
-                logger.warning(f"Expected {len(batch)} results, got {len(results)}, using heuristic")
-                for a in batch:
-                    a.update(_heuristic_score(a))
-                    processed.append(a)
-                continue
-
-            for article, ai_result in zip(batch, results):
-                article.update(ai_result)
-                processed.append(article)
+            ai_count += process_batch_with_fallback(client, batch)
+            processed.extend(batch)
+        logger.info(
+            f"AI processed {ai_count}/{len(articles)} articles "
+            f"({len(articles) - ai_count} heuristic)"
+        )
 
     for a in processed:
         if a.get("is_breaking") and not _is_within_24h(a.get("published", "")):
