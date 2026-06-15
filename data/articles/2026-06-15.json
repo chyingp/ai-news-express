@@ -3311,5 +3311,30 @@
     "cluster_id": 0,
     "is_cluster_main": true,
     "cluster_children": []
+  },
+  {
+    "id": "211d5f1c53d9a4bbb1af9e0e01bf878f",
+    "title": "Someday, AI will confirm whatever you are most likely to believe.",
+    "url": "https://www.reddit.com/r/artificial/comments/1u6jy0d/someday_ai_will_confirm_whatever_you_are_most/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-15T15:32:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Do you trust AI, specifically the frontier LLM's?</p> <p>The answer changes over time. In the beginning, AI basically boiled the ocean called the internet and fed it back to you. So I trusted it to be what it was, distilled internet.</p> <p>From the start, researchers tried to 'correct' AI output. They tried to prevent it from saying things that were illegal, sexy, violent, or politically charged. Basically, they tried to prevent AI from saying anything that mig",
+    "title_zh": "终有一天，AI会确认你最可能相信的任何事",
+    "summary_zh": "Reddit用户讨论了对前沿AI大语言模型的信任演变，指出随着控制加深，AI可能从呈现多元信息转向确认用户既有偏见，最终成为固化个人世界观的工具。",
+    "key_points": [
+      "用户对AI的信任随其控制集中化而改变",
+      "AI可能从信息整合者变为偏见确认者",
+      "未来AI或将强化而非挑战个人既有信念"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "processed": true,
+    "proc_version": 1,
+    "cluster_id": 0,
+    "is_cluster_main": true,
+    "cluster_children": []
   }
 ]
