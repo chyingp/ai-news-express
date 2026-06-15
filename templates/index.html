@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 新闻速递</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>AI 新闻速递</h1>
+    <p class="subtitle">自动聚合全球 AI 资讯 · 更新于 {{ updated_at }}</p>
+  </header>
+
+  <div class="stats-bar">
+    共 <span>{{ total_count }}</span> 条资讯 ·
+    <span>{{ breaking_count }}</span> 条突发 ·
+    覆盖 <span>{{ source_count }}</span> 个信源
+  </div>
+
+  {% if headlines %}
+  <div class="headlines">
+    <h2>今日要点</h2>
+    <div class="headline-grid">
+      {% for a in headlines %}
+      <div class="headline-card{% if a.is_breaking %} breaking{% endif %}">
+        <div class="headline-title">
+          <a href="{{ a.url }}" target="_blank" rel="noopener">{% if a.title_zh %}{{ a.title_zh }}{% else %}{{ a.title }}{% endif %}</a>
+        </div>
+        {% if a.key_points %}
+        <ul class="headline-points">
+          {% for point in a.key_points %}
+          <li>{{ point }}</li>
+          {% endfor %}
+        </ul>
+        {% elif a.summary_zh %}
+        <ul class="headline-points">
+          <li>{{ a.summary_zh }}</li>
+        </ul>
+        {% endif %}
+        <div class="headline-meta">
+          <span class="source-badge">{{ a.source_zh }}</span>
+          <span class="stars">{{ '★' * a.importance }}{{ '☆' * (5 - a.importance) }}</span>
+          {% if a.is_breaking %}<span class="tag tag-breaking">突发</span>{% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <div class="filters">
+    <button class="active" data-category="all">全部 <span class="filter-count">({{ total_count }})</span></button>
+    {% for cat in categories %}
+    <button data-category="{{ cat }}">{{ cat }} <span class="filter-count">({{ cat_counts.get(cat, 0) }})</span></button>
+    {% endfor %}
+  </div>
+
+  {% if articles %}
+  <ol class="article-list" id="article-list">
+    {% for a in articles %}
+    <li class="article-item{% if a.is_breaking %} breaking{% endif %}{% if loop.index > 30 %} hidden-article{% endif %}" data-category="{{ a.category }}"{% if loop.index > 30 %} style="display:none"{% endif %}>
+      <span class="article-rank">{{ loop.index }}</span>
+      <div class="article-content">
+        <div class="article-title">
+          {% if a.title_zh and a.title_zh != a.title %}
+          <a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title_zh }}</a>
+          <div class="article-title-original">{{ a.title }}</div>
+          {% else %}
+          <a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>
+          {% endif %}
+        </div>
+        {% if a.summary_zh %}
+        <p class="article-summary">{{ a.summary_zh }}</p>
+        {% endif %}
+        <div class="article-meta">
+          <span class="source-badge">{{ a.source_zh }}</span>
+          <span class="tag">{{ a.category }}</span>
+          {% if a.is_breaking %}<span class="tag tag-breaking">突发</span>{% endif %}
+          <span class="stars">{{ '★' * a.importance }}{{ '☆' * (5 - a.importance) }}</span>
+          <span>{{ a.published_display }}</span>
+        </div>
+        {% if a.cluster_children %}
+        <span class="cluster-toggle" onclick="toggleCluster(this)">还有 {{ a.cluster_children|length }} 篇相关报道 ▸</span>
+        <div class="cluster-children">
+          {% for child in a.cluster_children %}
+          <div class="cluster-child">
+            <a href="{{ child.url }}" target="_blank" rel="noopener">{% if child.title_zh %}{{ child.title_zh }}{% else %}{{ child.title }}{% endif %}</a>
+            <span class="cluster-child-source">{{ child.source_zh }}</span>
+          </div>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ol>
+
+  {% if articles|length > 30 %}
+  <div class="load-more-wrap" id="load-more-wrap">
+    <button class="load-more-btn" id="load-more-btn" onclick="loadMore()">
+      加载更多（还有 <span id="remaining-count">{{ articles|length - 30 }}</span> 篇）
+    </button>
+  </div>
+  {% endif %}
+
+  {% else %}
+  <div class="empty-state">
+    <p>暂无新闻，稍后再来看看</p>
+  </div>
+  {% endif %}
+
+  <footer>
+    <p>AI 新闻速递 · 数据来源涵盖 {{ source_count }} 个信源 · 由 Claude API 提供智能处理</p>
+    {% if daily_links %}
+    <p style="margin-top: 8px;">
+      往期日报：
+      {% for link in daily_links %}
+      <a href="{{ link.url }}" style="color: var(--accent); margin: 0 4px;">{{ link.label }}</a>
+      {% endfor %}
+    </p>
+    {% endif %}
+  </footer>
+
+  <script>
+    var PAGE_SIZE = 30;
+    var currentFilter = 'all';
+    var loadMoreWrap = document.getElementById('load-more-wrap');
+
+    var shownPerFilter = {};
+
+    function applyFilter(cat) {
+      currentFilter = cat;
+      var items = document.querySelectorAll('.article-item');
+      var matchCount = 0;
+      var showCount = shownPerFilter[cat] || PAGE_SIZE;
+
+      items.forEach(function(item) {
+        var matches = (cat === 'all') || (item.dataset.category === cat);
+        if (matches) {
+          matchCount++;
+          if (matchCount <= showCount) {
+            item.style.display = '';
+          } else {
+            item.style.display = 'none';
+          }
+        } else {
+          item.style.display = 'none';
+        }
+      });
+
+      if (!shownPerFilter[cat]) shownPerFilter[cat] = PAGE_SIZE;
+
+      var remaining = matchCount - Math.min(showCount, matchCount);
+      if (loadMoreWrap) {
+        if (remaining > 0) {
+          loadMoreWrap.style.display = '';
+          document.getElementById('remaining-count').textContent = remaining;
+        } else {
+          loadMoreWrap.style.display = 'none';
+        }
+      }
+    }
+
+    // Category filter
+    document.querySelector('.filters').addEventListener('click', function(e) {
+      if (e.target.tagName !== 'BUTTON' && e.target.closest('button') === null) return;
+      var btn = e.target.tagName === 'BUTTON' ? e.target : e.target.closest('button');
+      document.querySelectorAll('.filters button').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      applyFilter(btn.dataset.category);
+    });
+
+    // Cluster expand/collapse
+    function toggleCluster(el) {
+      var children = el.nextElementSibling;
+      if (children.classList.contains('open')) {
+        children.classList.remove('open');
+        el.textContent = el.textContent.replace('▾', '▸');
+      } else {
+        children.classList.add('open');
+        el.textContent = el.textContent.replace('▸', '▾');
+      }
+    }
+
+    // Load more
+    function loadMore() {
+      shownPerFilter[currentFilter] = (shownPerFilter[currentFilter] || PAGE_SIZE) + PAGE_SIZE;
+      applyFilter(currentFilter);
+    }
+  </script>
+</body>
+</html>

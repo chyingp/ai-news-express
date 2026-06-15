@@ -1,0 +1,132 @@
+sources:
+  # === 国际科技媒体 ===
+  - name: "TechCrunch AI"
+    name_zh: "TechCrunch AI"
+    type: rss
+    url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    category: "科技媒体"
+    language: "en"
+
+  - name: "The Verge AI"
+    name_zh: "The Verge AI"
+    type: rss
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    category: "科技媒体"
+    language: "en"
+
+  - name: "Ars Technica"
+    name_zh: "Ars Technica"
+    type: rss
+    url: "https://feeds.arstechnica.com/arstechnica/index"
+    category: "科技媒体"
+    language: "en"
+    ai_filter: true
+
+  - name: "VentureBeat AI"
+    name_zh: "VentureBeat AI"
+    type: rss
+    url: "https://venturebeat.com/category/ai/feed/"
+    category: "科技媒体"
+    language: "en"
+
+  - name: "MIT Technology Review"
+    name_zh: "MIT 科技评论"
+    type: rss
+    url: "https://www.technologyreview.com/feed/"
+    category: "科技媒体"
+    language: "en"
+    ai_filter: true
+
+  # === 社区与聚合 ===
+  - name: "Hacker News"
+    name_zh: "Hacker News"
+    type: hackernews
+    url: "https://hn.algolia.com/api/v1/search_by_date"
+    category: "技术社区"
+    language: "en"
+
+  - name: "Reddit AI"
+    name_zh: "Reddit AI"
+    type: rss
+    url: "https://www.reddit.com/r/artificial+MachineLearning/hot/.rss"
+    category: "技术社区"
+    language: "en"
+
+  # === AI 公司官方博客 ===
+  - name: "OpenAI Blog"
+    name_zh: "OpenAI 官方博客"
+    type: rss
+    url: "https://openai.com/news/rss.xml"
+    category: "官方博客"
+    language: "en"
+
+  - name: "Google DeepMind Blog"
+    name_zh: "Google DeepMind 博客"
+    type: rss
+    url: "https://deepmind.google/blog/rss.xml"
+    category: "官方博客"
+    language: "en"
+
+  - name: "Anthropic News"
+    name_zh: "Anthropic 官方动态"
+    type: rss
+    url: "https://www.anthropic.com/rss.xml"
+    category: "官方博客"
+    language: "en"
+    enabled: false  # RSS feed no longer available
+
+  # === 国内 AI 媒体 ===
+  - name: "机器之心"
+    name_zh: "机器之心"
+    type: rss
+    url: "https://www.jiqizhixin.com/rss"
+    category: "国内媒体"
+    language: "zh"
+
+  - name: "量子位"
+    name_zh: "量子位"
+    type: rss
+    url: "https://www.qbitai.com/feed"
+    category: "国内媒体"
+    language: "zh"
+
+  - name: "36氪"
+    name_zh: "36氪"
+    type: rss
+    url: "https://36kr.com/feed"
+    category: "国内媒体"
+    language: "zh"
+    ai_filter: true
+
+  # === 开源/研究 ===
+  - name: "Hugging Face Blog"
+    name_zh: "Hugging Face 博客"
+    type: rss
+    url: "https://huggingface.co/blog/feed.xml"
+    category: "开源研究"
+    language: "en"
+
+ai_keywords:
+  - "AI"
+  - "artificial intelligence"
+  - "machine learning"
+  - "deep learning"
+  - "LLM"
+  - "large language model"
+  - "GPT"
+  - "Claude"
+  - "Gemini"
+  - "neural network"
+  - "transformer"
+  - "AGI"
+  - "chatbot"
+  - "generative"
+  - "diffusion"
+  - "computer vision"
+  - "NLP"
+  - "robotics"
+  - "autonomous"
+  - "人工智能"
+  - "大模型"
+  - "机器学习"
+  - "深度学习"

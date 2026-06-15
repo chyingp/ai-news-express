@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 日报 · {{ date }}</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>AI 新闻速递 · 日报</h1>
+    <p class="subtitle">{{ date }} · 共 {{ articles | length }} 条资讯</p>
+  </header>
+
+  {% if overview %}
+  <div class="daily-header">
+    <h2>今日要点</h2>
+    <div class="stats">
+      <span>{{ articles | length }} 条资讯</span>
+      <span>{{ breaking_count }} 条突发</span>
+      <span>{{ source_count }} 个信源</span>
+    </div>
+    <div class="daily-overview">{{ overview }}</div>
+  </div>
+  {% endif %}
+
+  <div class="filters">
+    <button class="active" data-category="all">全部</button>
+    {% for cat in categories %}
+    <button data-category="{{ cat }}">{{ cat }}</button>
+    {% endfor %}
+  </div>
+
+  {% if articles %}
+  <ol class="article-list">
+    {% for a in articles %}
+    <li class="article-item{% if a.is_breaking %} breaking{% endif %}" data-category="{{ a.category }}">
+      <span class="article-rank">{{ loop.index }}</span>
+      <div class="article-content">
+        <div class="article-title">
+          {% if a.title_zh and a.title_zh != a.title %}
+          <a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title_zh }}</a>
+          <div class="article-title-original">{{ a.title }}</div>
+          {% else %}
+          <a href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>
+          {% endif %}
+        </div>
+        {% if a.summary_zh %}
+        <p class="article-summary">{{ a.summary_zh }}</p>
+        {% endif %}
+        <div class="article-meta">
+          <span class="source-badge">{{ a.source_zh }}</span>
+          <span class="tag">{{ a.category }}</span>
+          {% if a.is_breaking %}<span class="tag tag-breaking">突发</span>{% endif %}
+          <span class="stars">{{ '★' * a.importance }}{{ '☆' * (5 - a.importance) }}</span>
+          <span>{{ a.published_display }}</span>
+        </div>
+        {% if a.cluster_children %}
+        <span class="cluster-toggle" onclick="toggleCluster(this)">还有 {{ a.cluster_children|length }} 篇相关报道 ▸</span>
+        <div class="cluster-children">
+          {% for child in a.cluster_children %}
+          <div class="cluster-child">
+            <a href="{{ child.url }}" target="_blank" rel="noopener">{% if child.title_zh %}{{ child.title_zh }}{% else %}{{ child.title }}{% endif %}</a>
+            <span class="cluster-child-source">{{ child.source_zh }}</span>
+          </div>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ol>
+  {% else %}
+  <div class="empty-state">
+    <p>今日暂无新闻</p>
+  </div>
+  {% endif %}
+
+  <footer>
+    <p><a href="../index.html" style="color: var(--accent);">← 返回首页</a></p>
+    <p style="margin-top: 8px;">AI 新闻速递 · 由 Claude API 提供智能处理</p>
+  </footer>
+
+  <script>
+    document.querySelector('.filters').addEventListener('click', function(e) {
+      if (e.target.tagName !== 'BUTTON') return;
+      document.querySelectorAll('.filters button').forEach(function(b) { b.classList.remove('active'); });
+      e.target.classList.add('active');
+      var cat = e.target.dataset.category;
+      document.querySelectorAll('.article-item').forEach(function(item) {
+        item.style.display = (cat === 'all' || item.dataset.category === cat) ? '' : 'none';
+      });
+    });
+
+    function toggleCluster(el) {
+      var children = el.nextElementSibling;
+      if (children.classList.contains('open')) {
+        children.classList.remove('open');
+        el.textContent = el.textContent.replace('▾', '▸');
+      } else {
+        children.classList.add('open');
+        el.textContent = el.textContent.replace('▸', '▾');
+      }
+    }
+  </script>
+</body>
+</html>
