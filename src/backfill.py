@@ -56,6 +56,7 @@ def backfill_file(client: OpenAI, path: Path) -> int:
     for a in todo:
         if a.get("title_zh"):
             a["processed"] = True
+            a["proc_version"] = processor.PROC_VERSION
 
     with open(path, "w", encoding="utf-8") as f:
         json.dump(articles, f, ensure_ascii=False, indent=2)

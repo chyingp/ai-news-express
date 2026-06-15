@@ -26,6 +26,13 @@ ARTICLES_DIR = Path(__file__).parent.parent / "data" / "articles"
 # AI 处理产出的字段；复用已处理文章时只回填这些，其余原始字段保持不变。
 _AI_FIELDS = ("title_zh", "summary_zh", "key_points", "category", "importance", "is_breaking")
 
+# 复用必须齐备的关键字段（缺任一则不能复用，需重新处理）。
+_REQUIRED_FIELDS = ("title_zh", "summary_zh", "category", "importance")
+
+# 处理逻辑版本号。当 prompt、输出结构、分类体系等发生显著变化、
+# 使旧的处理结果不再可信时，递增此值，存档中旧版本结果将自动失效重做。
+PROC_VERSION = 1
+
 SYSTEM_PROMPT = """你是一个 AI 新闻分析助手。针对每篇文章，你需要输出：
 1. title_zh: 中文标题。如果原标题是中文，原样返回；如果是英文，翻译为简洁准确的中文标题。
 2. summary_zh: 中文摘要（50-100 字，简明扼要）
@@ -274,8 +281,19 @@ def _heuristic_score(article: dict) -> dict:
     }
 
 
-def _already_processed(prev: dict | None) -> bool:
-    return bool(prev) and bool(prev.get("processed") or prev.get("title_zh"))
+def _is_reusable(prev: dict | None) -> bool:
+    """已存档的处理结果是否可以直接复用，跳过重新调用 AI。
+
+    不可复用的两类情况，会回退到重新处理：
+    - 缺关键字段（title_zh / summary_zh / category / importance 不全）；
+    - 处理逻辑版本不一致（PROC_VERSION 改变，旧结果视为过期）。
+      早于版本机制的历史数据默认按版本 1 处理。
+    """
+    if not prev:
+        return False
+    if any(prev.get(k) in (None, "", []) for k in _REQUIRED_FIELDS):
+        return False
+    return prev.get("proc_version", 1) == PROC_VERSION
 
 
 def process_articles(
@@ -294,9 +312,10 @@ def process_articles(
     reused, todo = [], []
     for a in articles:
         prev = known.get(a["id"])
-        if _already_processed(prev):
+        if _is_reusable(prev):
             a.update({k: prev[k] for k in _AI_FIELDS if k in prev})
             a["processed"] = True
+            a["proc_version"] = PROC_VERSION
             reused.append(a)
         else:
             todo.append(a)
@@ -335,6 +354,7 @@ def process_articles(
 
     for a in processed:
         a["processed"] = True
+        a["proc_version"] = PROC_VERSION
 
     processed = reused + processed
 
