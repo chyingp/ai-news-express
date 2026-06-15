@@ -1,3 +1,7 @@
+# X/Twitter 无官方 RSS，经 Nitter 实例桥接为 RSS。
+# 公共实例可能失效；若 Twitter 信源抓不到内容，优先替换这一行为可用实例。
+nitter_instance: "https://nitter.net"
+
 sources:
   # === 国际科技媒体 ===
   - name: "TechCrunch AI"
@@ -104,6 +108,77 @@ sources:
     type: rss
     url: "https://huggingface.co/blog/feed.xml"
     category: "开源研究"
+    language: "en"
+
+  # === Twitter/X AI 专家与知名人士（经 Nitter 桥接） ===
+  - name: "Sam Altman (X)"
+    name_zh: "Sam Altman"
+    type: nitter
+    handle: "sama"
+    category: "专家观点"
+    language: "en"
+
+  - name: "Andrej Karpathy (X)"
+    name_zh: "Andrej Karpathy"
+    type: nitter
+    handle: "karpathy"
+    category: "专家观点"
+    language: "en"
+
+  - name: "Demis Hassabis (X)"
+    name_zh: "Demis Hassabis"
+    type: nitter
+    handle: "demishassabis"
+    category: "专家观点"
+    language: "en"
+
+  - name: "Yann LeCun (X)"
+    name_zh: "Yann LeCun"
+    type: nitter
+    handle: "ylecun"
+    category: "专家观点"
+    language: "en"
+
+  - name: "Andrew Ng (X)"
+    name_zh: "吴恩达 Andrew Ng"
+    type: nitter
+    handle: "AndrewYNg"
+    category: "专家观点"
+    language: "en"
+
+  - name: "Fei-Fei Li (X)"
+    name_zh: "李飞飞 Fei-Fei Li"
+    type: nitter
+    handle: "drfeifei"
+    category: "专家观点"
+    language: "en"
+
+  - name: "Jim Fan (X)"
+    name_zh: "Jim Fan"
+    type: nitter
+    handle: "DrJimFan"
+    category: "专家观点"
+    language: "en"
+
+  - name: "Greg Brockman (X)"
+    name_zh: "Greg Brockman"
+    type: nitter
+    handle: "gdb"
+    category: "专家观点"
+    language: "en"
+
+  - name: "François Chollet (X)"
+    name_zh: "François Chollet"
+    type: nitter
+    handle: "fchollet"
+    category: "专家观点"
+    language: "en"
+
+  - name: "Jeff Dean (X)"
+    name_zh: "Jeff Dean"
+    type: nitter
+    handle: "JeffDean"
+    category: "专家观点"
     language: "en"
 
 ai_keywords:
