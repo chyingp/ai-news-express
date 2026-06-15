@@ -14,19 +14,28 @@
 
 ## 快速开始
 
-### 安装依赖
+### 创建虚拟环境
 
 ```bash
-cd Agent实战-AI新闻速递
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
+### 配置环境变量
+
+复制 `.env.example` 创建 `.env` 文件，填入你的 API Key：
+
+```bash
+cp .env.example .env
+# 编辑 .env，填入 DASHSCOPE_API_KEY
+```
+
+> 不设置 API Key 也可运行，会自动降级为启发式评分模式。
 
 ### 本地运行
 
 ```bash
-# 设置 DashScope API Key（可选，不设置则使用启发式评分）
-export DASHSCOPE_API_KEY=your_key_here
-
 # 每小时模式：抓取 + 处理 + 生成首页
 cd src && python main.py --mode hourly
 

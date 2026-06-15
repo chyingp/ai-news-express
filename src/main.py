@@ -1,6 +1,9 @@
 import argparse
 import logging
 from datetime import datetime, timezone, timedelta
+from dotenv import load_dotenv
+
+load_dotenv()
 
 from fetcher import fetch_all
 from processor import process_articles, save_processed
