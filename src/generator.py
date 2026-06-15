@@ -20,6 +20,20 @@ CATEGORIES = [
 
 CST = timezone(timedelta(hours=8))
 
+# 热度分 = 重要性 × 时间衰减。每过 HALF_LIFE_HOURS 小时，热度减半，
+# 让新发布的资讯逐步盖过旧的高分资讯，而不是旧新闻永久霸榜。
+HALF_LIFE_HOURS = 18.0
+
+
+def _hot_score(article: dict) -> float:
+    importance = article.get("importance", 0) or 0
+    try:
+        dt = datetime.fromisoformat(article.get("published", ""))
+        age_hours = max(0.0, (datetime.now(timezone.utc) - dt).total_seconds() / 3600)
+    except (ValueError, TypeError):
+        age_hours = 72.0  # 发布时间缺失时按较旧处理
+    return importance * (0.5 ** (age_hours / HALF_LIFE_HOURS))
+
 
 def _init_output():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -78,7 +92,9 @@ def _prepare_articles(articles: list[dict]) -> list[dict]:
         if a["is_breaking"] and not _is_within_24h(a.get("published", "")):
             a["is_breaking"] = False
 
-    articles.sort(key=lambda a: (a.get("importance", 0), a.get("published", "")), reverse=True)
+        a["hot_score"] = _hot_score(a)
+
+    articles.sort(key=lambda a: (a.get("hot_score", 0), a.get("published", "")), reverse=True)
     return articles
 
 

@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from fetcher import fetch_all
-from processor import process_articles, save_processed
+from processor import process_articles, save_processed, load_processed_index
 from generator import generate_index, generate_daily
 
 CST = timezone(timedelta(hours=8))
@@ -29,7 +29,7 @@ def run_hourly():
         return
 
     logger.info(f"Fetched {len(articles)} articles, processing...")
-    processed = process_articles(articles)
+    processed = process_articles(articles, known=load_processed_index())
 
     date_str = datetime.now(CST).strftime("%Y-%m-%d")
     save_processed(processed, date_str)
@@ -43,7 +43,7 @@ def run_daily():
 
     articles = fetch_all()
     if articles:
-        processed = process_articles(articles)
+        processed = process_articles(articles, known=load_processed_index())
         date_str = datetime.now(CST).strftime("%Y-%m-%d")
         save_processed(processed, date_str)
 
