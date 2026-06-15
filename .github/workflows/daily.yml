@@ -9,6 +9,7 @@ on:
 permissions:
   contents: write
   pages: write
+  id-token: write
 
 jobs:
   daily-digest:
@@ -36,3 +37,19 @@ jobs:
           git add data/ output/
           git diff --staged --quiet || git commit -m "chore: daily digest $(date -u +%Y-%m-%dT%H:%M)"
           git push
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output/
+
+  deploy:
+    needs: daily-digest
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

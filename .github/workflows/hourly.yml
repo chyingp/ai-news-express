@@ -8,6 +8,7 @@ on:
 permissions:
   contents: write
   pages: write
+  id-token: write
 
 jobs:
   hourly-check:
@@ -35,3 +36,19 @@ jobs:
           git add data/ output/
           git diff --staged --quiet || git commit -m "chore: hourly news update $(date -u +%Y-%m-%dT%H:%M)"
           git push
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output/
+
+  deploy:
+    needs: hourly-check
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
