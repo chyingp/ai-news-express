@@ -2655,5 +2655,82 @@
     "cluster_id": 3,
     "is_cluster_main": true,
     "cluster_children": []
+  },
+  {
+    "id": "7dc0e06d5c59e6ef44b1976b6765e064",
+    "title": "I really enjoyed this game today.  Vozinha and the whole Cape Verde team were amazing against Spain!",
+    "url": "https://nitter.net/JeffDean/status/2066726460426158381#m",
+    "source": "Jeff Dean (X)",
+    "source_zh": "Jeff Dean",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-16T03:36:00+00:00",
+    "content_snippet": "<p>I really enjoyed this game today.  Vozinha and the whole Cape Verde team were amazing against Spain!</p>\n<hr />\n<blockquote>\n<b>Georgia✿ (@minwooshi8)</b>\n<p>\n<p>🇨🇻 Cape Verde's  40 years old goalkeeper,  VOZINHA against Spain.🔥👏🏻</p>\n<a href=\"https://nitter.net/minwooshi8/status/2066584669580296313#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2066584422703661056%2Fimg%2FLjQdF6hn-GHD7RQN.jpg\" />\n</a>\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/minwoos",
+    "title_zh": "真的很享受今天的比赛，佛得角和门将沃齐尼亚对阵西班牙的表现令人惊叹！",
+    "summary_zh": "谷歌AI负责人Jeff Dean在X平台发文，称赞佛得角队及其40岁门将沃齐尼亚在对阵西班牙比赛中的出色表现，属于个人社交分享。",
+    "key_points": [
+      "Jeff Dean发文赞赏佛得角队的精彩表现",
+      "特别提及40岁门将沃齐尼亚的出色发挥"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "processed": true,
+    "proc_version": 1,
+    "cluster_id": 0,
+    "is_cluster_main": true,
+    "cluster_children": []
+  },
+  {
+    "id": "ae8d2ca060b24aab1a96ddaa650c00c5",
+    "title": "美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼",
+    "url": "https://36kr.com/newsflashes/3855284930614528?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-16T03:18:38+00:00",
+    "content_snippet": "美国一名联邦法官周一驳回了马斯克的人工智能公司xAI对竞争对手OpenAI提出的诉讼，该诉讼指控OpenAI窃取聊天机器人相关的商业机密。旧金山联邦地区法官Rita Lin表示，xAI未能证明OpenAI诱导前xAI高级工程师Xuechen Li泄露与其Grok聊天机器人相关的机密信息，也未能证明OpenAI的工程师们知晓Xuechen Li可能已泄露了任何机密信息。（新浪财经）",
+    "title_zh": "美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼",
+    "summary_zh": "美国联邦法官驳回了xAI指控OpenAI窃取其Grok聊天机器人商业机密的诉讼，理由是xAI未能提供充分证据证明前工程师泄密及OpenAI知情。",
+    "key_points": [
+      "法官因证据不足驳回xAI对OpenAI的窃密指控",
+      "xAI指控前工程师向OpenAI泄露Grok相关机密",
+      "法院认为OpenAI未知晓任何可能的机密泄露"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "processed": true,
+    "proc_version": 1,
+    "cluster_id": 1,
+    "is_cluster_main": true,
+    "cluster_children": []
+  },
+  {
+    "id": "1d7ab4db7ef5e2472e5073eb8807dcf2",
+    "title": "Inside the fight over Claude Mythos 5",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-16T03:00:00+00:00",
+    "content_snippet": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. At 5:21 PM on Friday, the company received a US export control directive to suspend access to its Mythos 5 and Fable 5 [&#8230;]",
+    "title_zh": "Anthropic与特朗普政府就Claude Mythos 5模型出口管制的博弈内幕",
+    "summary_zh": "Anthropic在发布最新模型Mythos 5时，于周末接到美国政府出口管制指令，要求暂停该模型的访问权限，公司正为此与特朗普政府进行抗争。",
+    "key_points": [
+      "Anthropic最新模型Mythos 5遭美国出口管制指令暂停访问",
+      "公司在周末紧急应对特朗普政府的管制要求",
+      "事件发生在全国庆祝世界杯和NBA总冠军的背景下"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "processed": true,
+    "proc_version": 1,
+    "cluster_id": 2,
+    "is_cluster_main": true,
+    "cluster_children": []
   }
 ]
