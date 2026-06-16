@@ -1,9 +1,11 @@
 import json
 import logging
+import re
 import shutil
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
+import yaml
 from jinja2 import Environment, FileSystemLoader
 
 from processor import cluster_for_display
@@ -14,6 +16,60 @@ PROJECT_ROOT = Path(__file__).parent.parent
 TEMPLATES_DIR = PROJECT_ROOT / "templates"
 OUTPUT_DIR = PROJECT_ROOT / "output"
 DATA_DIR = PROJECT_ROOT / "data" / "articles"
+SOURCES_FILE = PROJECT_ROOT / "config" / "sources.yaml"
+
+
+def _load_companies() -> list[dict]:
+    """读取企业识别表，预编译每家公司的匹配正则。
+
+    英文/ASCII 别名按词边界匹配（避免 'Meta' 命中 'metadata'），中文按子串匹配。
+    返回 [{key, label, pattern}]。
+    """
+    try:
+        with open(SOURCES_FILE, "r", encoding="utf-8") as f:
+            raw = yaml.safe_load(f) or {}
+    except (OSError, yaml.YAMLError) as e:
+        logger.warning(f"Failed to load companies from {SOURCES_FILE}: {e}")
+        return []
+
+    companies = []
+    for c in raw.get("companies", []):
+        parts = []
+        for alias in c.get("aliases", []):
+            esc = re.escape(alias)
+            # 纯 ASCII 别名加词边界；含中文等字符则直接子串匹配
+            if alias.isascii():
+                parts.append(rf"(?<![A-Za-z0-9]){esc}(?![A-Za-z0-9])")
+            else:
+                parts.append(esc)
+        if not parts:
+            continue
+        companies.append({
+            "key": c["key"],
+            "label": c.get("label", c["key"]),
+            "pattern": re.compile("|".join(parts), re.IGNORECASE),
+        })
+    return companies
+
+
+_COMPANIES_CACHE: list[dict] | None = None
+
+
+def _companies() -> list[dict]:
+    global _COMPANIES_CACHE
+    if _COMPANIES_CACHE is None:
+        _COMPANIES_CACHE = _load_companies()
+    return _COMPANIES_CACHE
+
+
+def _tag_companies(articles: list[dict]) -> None:
+    """给每篇文章打上所属企业标记 a['companies'] = [key, ...]（基于标题/摘要别名匹配）。"""
+    companies = _companies()
+    for a in articles:
+        haystack = " ".join(filter(None, [
+            a.get("title", ""), a.get("title_zh", ""), a.get("summary_zh", ""),
+        ]))
+        a["companies"] = [c["key"] for c in companies if c["pattern"].search(haystack)]
 
 CATEGORIES = [
     "模型发布", "产品动态", "融资收购", "研究论文",
@@ -113,6 +169,7 @@ def _prepare_articles(articles: list[dict]) -> list[dict]:
 
         a["hot_score"] = _hot_score(a)
 
+    _tag_companies(articles)
     articles.sort(key=lambda a: (a.get("hot_score", 0), a.get("published", "")), reverse=True)
     return articles
 
@@ -173,6 +230,17 @@ def generate_index(articles: list[dict] | None = None):
 
     breaking_count = sum(1 for a in main_articles if a.get("is_breaking"))
 
+    # 企业筛选：统计每家巨头在当前新闻中的条数，只展示有动态的企业，按条数降序
+    company_counts = {}
+    for a in main_articles:
+        for key in a.get("companies", []):
+            company_counts[key] = company_counts.get(key, 0) + 1
+    company_filters = [
+        {"key": c["key"], "label": c["label"], "count": company_counts[c["key"]]}
+        for c in _companies() if company_counts.get(c["key"])
+    ]
+    company_filters.sort(key=lambda x: x["count"], reverse=True)
+
     template = env.get_template("index.html")
     html = template.render(
         articles=main_articles,
@@ -180,6 +248,7 @@ def generate_index(articles: list[dict] | None = None):
         experts=experts,
         categories=present_cats,
         cat_counts=cat_counts,
+        company_filters=company_filters,
         total_count=len(main_articles),
         breaking_count=breaking_count,
         updated_at=datetime.now(CST).strftime("%Y-%m-%d %H:%M CST"),
