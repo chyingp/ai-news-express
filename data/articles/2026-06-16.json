@@ -21,7 +21,8 @@
     "proc_version": 1,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "4a4e1a467c1fc55a752c7ceeb9fd8c3e",
@@ -45,7 +46,10 @@
     "proc_version": 1,
     "cluster_id": 1,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "5c3d6c8e24a85b0593337f6a3b2c97ec",
@@ -68,7 +72,10 @@
     "proc_version": 1,
     "cluster_id": 2,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "4fedc5f972bf69d7fd253f4448e0c532",
@@ -92,7 +99,10 @@
     "proc_version": 1,
     "cluster_id": 3,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "c89e2852855c544bbef2e410e50c0a40",
@@ -116,7 +126,10 @@
     "proc_version": 1,
     "cluster_id": 4,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "74afa5a9aaded3a724fa77c74582caee",
@@ -140,7 +153,10 @@
     "proc_version": 1,
     "cluster_id": 5,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "952982e0cc7539a6bba0ef4404d83ac8",
@@ -164,7 +180,10 @@
     "proc_version": 1,
     "cluster_id": 6,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "3b5586d41a2e52f8736d104bd8aa447a",
@@ -188,7 +207,8 @@
     "proc_version": 1,
     "cluster_id": 7,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "b6d9b8bc92156e7c168880c0659908f8",
@@ -212,7 +232,8 @@
     "proc_version": 1,
     "cluster_id": 8,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "1f904d849d77093c64378c5739e4c313",
@@ -236,7 +257,8 @@
     "proc_version": 1,
     "cluster_id": 9,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "59cebe8ec89b0a3106e14b3b8486b32e",
@@ -261,7 +283,10 @@
     "proc_version": 1,
     "cluster_id": 10,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic"
+    ]
   },
   {
     "id": "93db0150874446c2221da70cfe61127f",
@@ -286,7 +311,10 @@
     "proc_version": 1,
     "cluster_id": 11,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "61535342dc991c3dfbef454062ba3497",
@@ -311,7 +339,8 @@
     "proc_version": 1,
     "cluster_id": 12,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "f84f5aa205d1dd66503f74a2e1785f1f",
@@ -336,7 +365,10 @@
     "proc_version": 1,
     "cluster_id": 13,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "0caf74fcf44a82b929ea05d92b586aa9",
@@ -361,7 +393,10 @@
     "proc_version": 1,
     "cluster_id": 14,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "d8247ba0bce6c436a7f90437544410ce",
@@ -386,7 +421,8 @@
     "proc_version": 1,
     "cluster_id": 15,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "2a284c4a99238f46d6a1e20eaad7def4",
@@ -411,7 +447,10 @@
     "proc_version": 1,
     "cluster_id": 16,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "5e8239469992eb9caa663518a6672a38",
@@ -436,7 +475,8 @@
     "proc_version": 1,
     "cluster_id": 17,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "c7cfe5348efe77520b9d694648db7244",
@@ -461,7 +501,10 @@
     "proc_version": 1,
     "cluster_id": 18,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "13803d58c11b50f4f0716d76d0173348",
@@ -486,7 +529,10 @@
     "proc_version": 1,
     "cluster_id": 19,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "78f8cec1bc5468af7b494bcf95cb57b4",
@@ -511,7 +557,10 @@
     "proc_version": 1,
     "cluster_id": 20,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "896926c0f1b9430f7d89b4791cb78fcd",
@@ -536,7 +585,10 @@
     "proc_version": 1,
     "cluster_id": 21,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "bcdb1616c44c49b3c3f72001eab75681",
@@ -561,7 +613,8 @@
     "proc_version": 1,
     "cluster_id": 22,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "d53fc27c5d37024c61d665c278763f31",
@@ -586,7 +639,10 @@
     "proc_version": 1,
     "cluster_id": 23,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "30ef4806a9d372440a19d4a02bcaea5b",
@@ -611,7 +667,10 @@
     "proc_version": 1,
     "cluster_id": 24,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "d2b50154694b2908c35d0d43780ad3d4",
@@ -636,7 +695,10 @@
     "proc_version": 1,
     "cluster_id": 25,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "442fdff0feff1fec0e12ce8023220260",
@@ -661,7 +723,10 @@
     "proc_version": 1,
     "cluster_id": 26,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "8cf513b366f9bb4010581b171ff489b8",
@@ -686,7 +751,10 @@
     "proc_version": 1,
     "cluster_id": 27,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "2a448def35bcb07e34a5631435400827",
@@ -711,7 +779,10 @@
     "proc_version": 1,
     "cluster_id": 28,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "a9360ebd09e332ebc0459ac5566c9ebd",
@@ -736,7 +807,11 @@
     "proc_version": 1,
     "cluster_id": 29,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai",
+      "amazon"
+    ]
   },
   {
     "id": "02e402d876dd4a10520417d11952c6bf",
@@ -760,7 +835,11 @@
     "proc_version": 1,
     "cluster_id": 30,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai",
+      "amazon"
+    ]
   },
   {
     "id": "3fa962012ecc5d9c162f7dd184118649",
@@ -784,7 +863,10 @@
     "proc_version": 1,
     "cluster_id": 31,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "606361d30bf8932933c888164d67e040",
@@ -809,7 +891,8 @@
     "proc_version": 1,
     "cluster_id": 32,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "9a69ed58d002c66567c2bdf336f45085",
@@ -833,7 +916,10 @@
     "proc_version": 1,
     "cluster_id": 33,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "4e78079dfd5f9ef2a109fde50c5a43d3",
@@ -857,7 +943,10 @@
     "proc_version": 1,
     "cluster_id": 34,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "2d55e2127f035646473b042692ba710a",
@@ -881,7 +970,10 @@
     "proc_version": 1,
     "cluster_id": 35,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "ad1458829720415923fa325c4e1cb732",
@@ -905,7 +997,8 @@
     "proc_version": 1,
     "cluster_id": 36,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "07cc0d6ff833e6ff491d8a1b686e043d",
@@ -929,7 +1022,10 @@
     "proc_version": 1,
     "cluster_id": 37,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "67f5749d8a6e400765e69809cdbf3d94",
@@ -953,7 +1049,8 @@
     "proc_version": 1,
     "cluster_id": 38,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "8a77df1b341f68ee9a8624e82e57068f",
@@ -977,7 +1074,8 @@
     "proc_version": 1,
     "cluster_id": 39,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "0b50ae79c6268a721c9fe662989df95b",
@@ -1001,7 +1099,10 @@
     "proc_version": 1,
     "cluster_id": 40,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "f6d2fc2362f739d5b2f8ab626e2b440c",
@@ -1025,7 +1126,10 @@
     "proc_version": 1,
     "cluster_id": 41,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "431a5de95944cde0b29dea34044c5b1c",
@@ -1049,7 +1153,10 @@
     "proc_version": 1,
     "cluster_id": 42,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "a2bf8fa50895d1a458373aa22db6b976",
@@ -1073,7 +1180,10 @@
     "proc_version": 1,
     "cluster_id": 43,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "bcf91688b8f639f862d06039e6e77930",
@@ -1097,7 +1207,10 @@
     "proc_version": 1,
     "cluster_id": 44,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic"
+    ]
   },
   {
     "id": "388bf54ed16a1791fbd44980b54f72b8",
@@ -1121,7 +1234,8 @@
     "proc_version": 1,
     "cluster_id": 45,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "96fc161f21a430b9e8daa3dfdd8de86e",
@@ -1145,7 +1259,8 @@
     "proc_version": 1,
     "cluster_id": 46,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "e2319593215d93a71f8b9c5a75880113",
@@ -1169,7 +1284,8 @@
     "proc_version": 1,
     "cluster_id": 47,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "987aa2f54a092fa8c607bc83e18c0df6",
@@ -1193,7 +1309,8 @@
     "proc_version": 1,
     "cluster_id": 48,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "6846a867cd1fe48cbdd9291ca32d097b",
@@ -1217,7 +1334,10 @@
     "proc_version": 1,
     "cluster_id": 49,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "43e551f0bca498a05a7b64f8cd191fe1",
@@ -1242,7 +1362,8 @@
     "proc_version": 1,
     "cluster_id": 50,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "308cf29f86ba089cec4745bb2fc895d0",
@@ -1266,7 +1387,8 @@
     "proc_version": 1,
     "cluster_id": 51,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "1e85a4d1d21436270094dbbaaea22b16",
@@ -1291,7 +1413,8 @@
     "proc_version": 1,
     "cluster_id": 52,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "1f1fbed77021a54996b70a10ef57d826",
@@ -1316,7 +1439,8 @@
     "proc_version": 1,
     "cluster_id": 53,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "c654b9ebd8abc37c47ea3236bc8adae5",
@@ -1341,7 +1465,8 @@
     "proc_version": 1,
     "cluster_id": 54,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "671f2f840a64afe6c948d0ac91c9f1f7",
@@ -1366,7 +1491,8 @@
     "proc_version": 1,
     "cluster_id": 55,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "9be7e7f73fdea4c8ec9be3be86b89cb7",
@@ -1391,7 +1517,8 @@
     "proc_version": 1,
     "cluster_id": 56,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "c69aac705d738f5eb68b65d2040b7938",
@@ -1416,7 +1543,8 @@
     "proc_version": 1,
     "cluster_id": 57,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "6ff87d3ff5ddaa32420de6366daa2472",
@@ -1441,7 +1569,8 @@
     "proc_version": 1,
     "cluster_id": 58,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "153a0e7686b31e119944b3d59f02f3bd",
@@ -1466,7 +1595,8 @@
     "proc_version": 1,
     "cluster_id": 59,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "5f406890a9064c3674b68ebd348e6bf6",
@@ -1491,7 +1621,8 @@
     "proc_version": 1,
     "cluster_id": 60,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "f8a8306c46662b4cc55427ab12865944",
@@ -1516,7 +1647,8 @@
     "proc_version": 1,
     "cluster_id": 61,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "8a08975aa69c15bf83b8e85adfe75c8c",
@@ -1541,7 +1673,8 @@
     "proc_version": 1,
     "cluster_id": 62,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "859551d890f844f2556b845971e04df4",
@@ -1566,7 +1699,8 @@
     "proc_version": 1,
     "cluster_id": 63,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "7cac8b93ca211881654b27c7f1897a29",
@@ -1591,7 +1725,8 @@
     "proc_version": 1,
     "cluster_id": 64,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "725269ec3c7aad64ffa5a712215568e4",
@@ -1616,7 +1751,8 @@
     "proc_version": 1,
     "cluster_id": 65,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "037044f6438f9fd07b6fd855db8e8568",
@@ -1641,7 +1777,8 @@
     "proc_version": 1,
     "cluster_id": 66,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "a1b42a52ddc5ec27b1e77c3cd017eef3",
@@ -1666,7 +1803,8 @@
     "proc_version": 1,
     "cluster_id": 67,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "6e12065ed1bfa9b8a3df47e08a806c9e",
@@ -1691,7 +1829,8 @@
     "proc_version": 1,
     "cluster_id": 68,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "131b917351fa7b039a780d5e105b1d5d",
@@ -1716,7 +1855,8 @@
     "proc_version": 1,
     "cluster_id": 69,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "d192d57ae4b0f09eb6b9eb08e9367fa9",
@@ -1741,7 +1881,8 @@
     "proc_version": 1,
     "cluster_id": 70,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "dd6e5e969ba22439f540bd91b5ae4b6f",
@@ -1766,7 +1907,8 @@
     "proc_version": 1,
     "cluster_id": 71,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "aec2ae4c7a4ef019c58eafaab31648b6",
@@ -1791,7 +1933,8 @@
     "proc_version": 1,
     "cluster_id": 72,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "3c5326c73ec231ca589bfd161d7d59f8",
@@ -1816,7 +1959,10 @@
     "proc_version": 1,
     "cluster_id": 73,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "bfa64e2fe0a7c2f613a9c122b142a3f7",
@@ -1841,7 +1987,10 @@
     "proc_version": 1,
     "cluster_id": 74,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "66683b0834c81e74eb88bb1ad37a824f",
@@ -1866,7 +2015,8 @@
     "proc_version": 1,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "6cfdba15005704854ce127343b78b728",
@@ -1891,7 +2041,8 @@
     "proc_version": 1,
     "cluster_id": 1,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "5137bc88d485412a6130d7a2e8c69b10",
@@ -1917,7 +2068,10 @@
     "proc_version": 1,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic"
+    ]
   },
   {
     "id": "35ea195782a7f878c5053b911e19e4da",
@@ -1943,7 +2097,8 @@
     "proc_version": 1,
     "cluster_id": 1,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "80a2866d1272604c00eae93e9a15e16a",
@@ -1968,7 +2123,8 @@
     "proc_version": 1,
     "cluster_id": 2,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "e16ac4624eb85599eade09f896b55648",
@@ -1993,7 +2149,8 @@
     "proc_version": 1,
     "cluster_id": 3,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "f7ffbaede2a92b936e5bce3234d3a80d",
@@ -2019,7 +2176,10 @@
     "proc_version": 1,
     "cluster_id": 4,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic"
+    ]
   },
   {
     "id": "c6fc96a74d72c33864ac3ca81de8a1e3",
@@ -2044,7 +2204,8 @@
     "proc_version": 1,
     "cluster_id": 5,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "d83995cad4186185b2451b1771436d36",
@@ -2069,7 +2230,8 @@
     "proc_version": 1,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "6e38437152ee033380c44adc329c9071",
@@ -2094,7 +2256,10 @@
     "proc_version": 1,
     "cluster_id": 1,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "meta"
+    ]
   },
   {
     "id": "edc8adeb354c7aef0a7424165998ff34",
@@ -2119,7 +2284,8 @@
     "proc_version": 1,
     "cluster_id": 2,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "b3d63a3a0976786ce810d20969398351",
@@ -2144,7 +2310,8 @@
     "proc_version": 1,
     "cluster_id": 3,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "82ccf0b65fdecc4b2c63b0bfc04aa80d",
@@ -2169,7 +2336,8 @@
     "proc_version": 1,
     "cluster_id": 4,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "6e2077bdbf6edd18aa6c114a9bef2b08",
@@ -2194,7 +2362,10 @@
     "proc_version": 1,
     "cluster_id": 5,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "9b9348265e532f092dc1f3b44d7293ea",
@@ -2219,7 +2390,10 @@
     "proc_version": 1,
     "cluster_id": 6,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic"
+    ]
   },
   {
     "id": "41dd7683f882d02139ff5eace4baaa9f",
@@ -2244,7 +2418,8 @@
     "proc_version": 1,
     "cluster_id": 7,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "2e6677ef75d7b46a16b8f742baa82a96",
@@ -2269,7 +2444,8 @@
     "proc_version": 1,
     "cluster_id": 8,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "9049e2b7f7a903602c6093840edf8fb3",
@@ -2294,7 +2470,8 @@
     "proc_version": 1,
     "cluster_id": 9,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "06bf287dea977291cc0f5c2bd994023b",
@@ -2320,7 +2497,8 @@
     "proc_version": 1,
     "cluster_id": 10,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "a3f67405a75385de5e9cf04623a16b9f",
@@ -2346,7 +2524,10 @@
     "proc_version": 1,
     "cluster_id": 11,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "meta"
+    ]
   },
   {
     "id": "38ba9e36dc46d35bd718fa49fad05c4c",
@@ -2372,7 +2553,8 @@
     "proc_version": 1,
     "cluster_id": 12,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "8df1524f99a64dc87fc3b223ce8f374d",
@@ -2398,7 +2580,10 @@
     "proc_version": 1,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "88e9cf469fce25c33cfb1e607971afe8",
@@ -2424,7 +2609,8 @@
     "proc_version": 1,
     "cluster_id": 1,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "6f6408ef7a282fcb3a3668c2a3f17a64",
@@ -2450,7 +2636,8 @@
     "proc_version": 1,
     "cluster_id": 2,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "c542a0f6d4d9dab0c38ea92c3ee9eb3a",
@@ -2476,7 +2663,10 @@
     "proc_version": 1,
     "cluster_id": 3,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic"
+    ]
   },
   {
     "id": "209dd64fcd7efb7a17a5d5b0ba70499d",
@@ -2502,7 +2692,8 @@
     "proc_version": 1,
     "cluster_id": 4,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "71ed2eea453218c8361228b1ec553146",
@@ -2528,7 +2719,10 @@
     "proc_version": 1,
     "cluster_id": 5,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic"
+    ]
   },
   {
     "id": "4b1177a423dafc006386a919ab81133a",
@@ -2554,7 +2748,8 @@
     "proc_version": 1,
     "cluster_id": 6,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "53d62074a7eeda3d2b3879cc46ee46bb",
@@ -2579,7 +2774,10 @@
     "proc_version": 1,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "689c4b7885bebf2c81309520d776808d",
@@ -2604,7 +2802,10 @@
     "proc_version": 1,
     "cluster_id": 1,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "minimax"
+    ]
   },
   {
     "id": "60d798a543b142838838f5595aa47e7b",
@@ -2629,7 +2830,8 @@
     "proc_version": 1,
     "cluster_id": 2,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "ea8ad6c2bdaa3b9ecdc1dabf4749f9ff",
@@ -2654,7 +2856,10 @@
     "proc_version": 1,
     "cluster_id": 3,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "7dc0e06d5c59e6ef44b1976b6765e064",
@@ -2679,7 +2884,8 @@
     "proc_version": 1,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "ae8d2ca060b24aab1a96ddaa650c00c5",
@@ -2705,7 +2911,11 @@
     "proc_version": 1,
     "cluster_id": 1,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "xai",
+      "openai"
+    ]
   },
   {
     "id": "1d7ab4db7ef5e2472e5073eb8807dcf2",
@@ -2731,7 +2941,10 @@
     "proc_version": 1,
     "cluster_id": 2,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic"
+    ]
   },
   {
     "id": "36d5df67e481646d57fcec7ec6dc872d",
@@ -2757,7 +2970,8 @@
     "proc_version": 1,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "29fadbdade9f2b27390af726b11a8742",
@@ -2782,7 +2996,8 @@
     "proc_version": 1,
     "cluster_id": 1,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "a7f1764c06a01d90052c3ce5cfdb096e",
@@ -2807,7 +3022,8 @@
     "proc_version": 1,
     "cluster_id": 2,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "426a3d3ec6e10463305073536f6b100a",
@@ -2833,7 +3049,8 @@
     "proc_version": 1,
     "cluster_id": 3,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "fa0a1279d0968482a095193b1cd9cb9f",
@@ -2858,7 +3075,8 @@
     "proc_version": 1,
     "cluster_id": 4,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "6059b2167cd09a5d3ff7907c623b85a1",
@@ -2884,7 +3102,8 @@
     "proc_version": 1,
     "cluster_id": 5,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "3c2ee1d037acef05442df1c742531e73",
@@ -2909,7 +3128,8 @@
     "proc_version": 1,
     "cluster_id": 6,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "c51083754de0e199b1260a74a1a1cf91",
@@ -2933,7 +3153,8 @@
     "proc_version": 1,
     "cluster_id": 7,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "a399e347cca78be3448d1b7115ccfa79",
@@ -2958,7 +3179,8 @@
     "proc_version": 1,
     "cluster_id": 8,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "3b3b2909234d3b5a90e2a192dbcc8691",
@@ -2983,7 +3205,10 @@
     "proc_version": 1,
     "cluster_id": 9,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "de5e0c857e95a41ea483b89d99551078",
@@ -3008,7 +3233,8 @@
     "proc_version": 1,
     "cluster_id": 10,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "3f5b03aad70a472f0f21a36b73566b24",
@@ -3033,7 +3259,10 @@
     "proc_version": 1,
     "cluster_id": 11,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "03eac9ffe91ab4c5a23229365d5c7c48",
@@ -3058,7 +3287,8 @@
     "proc_version": 1,
     "cluster_id": 12,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "26460d353cdc5b1e8194dc49a0484f40",
@@ -3083,7 +3313,8 @@
     "proc_version": 1,
     "cluster_id": 13,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "696b829cc0d353e9c1d53b4e0d38d71c",
@@ -3108,7 +3339,8 @@
     "proc_version": 1,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "4fa149813c7c56d265dc1e1f892f9266",
@@ -3134,7 +3366,8 @@
     "proc_version": 1,
     "cluster_id": 1,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "07a96b56158c0e5d0997b7dbb0559218",
@@ -3159,7 +3392,8 @@
     "proc_version": 1,
     "cluster_id": 2,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "85bf85e0574577bfc8d2722cd837db96",
@@ -3184,7 +3418,8 @@
     "proc_version": 1,
     "cluster_id": 3,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "33de989e7dbf7d5ccda6c6c8ad258895",
@@ -3209,7 +3444,10 @@
     "proc_version": 1,
     "cluster_id": 4,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "tencent"
+    ]
   },
   {
     "id": "6f60b1912e1f04e1a707695910e716e0",
@@ -3234,7 +3472,8 @@
     "proc_version": 1,
     "cluster_id": 5,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "77f5281411b756d7697091aa859d729d",
@@ -3259,7 +3498,8 @@
     "proc_version": 1,
     "cluster_id": 6,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "9078b3096958db4aebfe58aec1a363cf",
@@ -3284,7 +3524,8 @@
     "proc_version": 1,
     "cluster_id": 7,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "8f7831b2c3bd467117d7fb47a43f979c",
@@ -3309,7 +3550,8 @@
     "proc_version": 1,
     "cluster_id": 8,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "4c20214fb8436a2706aa6e7204133ec9",
@@ -3334,7 +3576,8 @@
     "proc_version": 1,
     "cluster_id": 9,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "339ea9d4b662ae083a9aa2833cacf3c0",
@@ -3359,7 +3602,8 @@
     "proc_version": 1,
     "cluster_id": 10,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "1593c6cf1b9f394d7a2864c89f7e8fae",
@@ -3384,7 +3628,8 @@
     "proc_version": 1,
     "cluster_id": 11,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "43eaf8173183b17c814d416d3f3f7111",
@@ -3410,7 +3655,8 @@
     "proc_version": 1,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "614004cdd07e4343d7732f48ca5659af",
@@ -3436,7 +3682,8 @@
     "proc_version": 1,
     "cluster_id": 1,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "fcb4c3035dd69f4da3b10c5790e1173b",
@@ -3459,7 +3706,8 @@
     "importance": 2,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": []
   },
   {
     "id": "590298b05a4f9da890b1b7b78df156fd",
@@ -3481,7 +3729,8 @@
     "importance": 2,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": []
   },
   {
     "id": "bdb3b4f7e98cd0594291670d873594d2",
@@ -3504,7 +3753,8 @@
     "importance": 5,
     "is_breaking": true,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": []
   },
   {
     "id": "2b4c89d3385f7506b8f57fde36c33822",
@@ -3527,7 +3777,10 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "xai"
+    ]
   },
   {
     "id": "39294416a114d65207da5b6fdab1bda1",
@@ -3550,7 +3803,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "feb65f9e80a74f47290908649cebc9bb",
@@ -3573,7 +3829,8 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": []
   },
   {
     "id": "f9c4e0583697c3a68e389093726f975d",
@@ -3596,7 +3853,8 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": []
   },
   {
     "id": "af1e32d6a203acd4124552d122465ff1",
@@ -3619,7 +3877,10 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "510ca48bfe1f987c22f5c391a74a6359",
@@ -3642,7 +3903,11 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "nvidia",
+      "google"
+    ]
   },
   {
     "id": "d9c792696944a08678c595cd9972944b",
@@ -3665,7 +3930,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "11892f53bfecfbf8cd80bea33a52eebf",
@@ -3687,7 +3955,10 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "0f45a45a7a5969b26b87d3a00f465d98",
@@ -3709,7 +3980,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "983ca5f5eaa45e900cf403ce069ba027",
@@ -3731,7 +4005,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "7e181edffb1c7b807fbf1abf3cbcdea4",
@@ -3753,7 +4030,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "4932cf32b0556fbd0f59f7eb4b9d445d",
@@ -3775,7 +4055,10 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "4e0fd56f727ab3e5e53c2fcb509853e0",
@@ -3797,7 +4080,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "c7348f9642d733242ff9547511348851",
@@ -3819,7 +4105,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "81fd06eaf8939509aeb705e11b6a5e6e",
@@ -3841,7 +4130,10 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "6bd17cb4d53c083ed0a733605ba49016",
@@ -3863,7 +4155,11 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "nvidia",
+      "microsoft"
+    ]
   },
   {
     "id": "7a8bfae3ab5d7929edba39dff03bc4d7",
@@ -3885,7 +4181,8 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": []
   },
   {
     "id": "d2d3f1a5f8a1ec556dbb58a7d6a7b204",
@@ -3908,7 +4205,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "3d57e92c87e01b0c9eae94430e17142b",
@@ -3930,7 +4230,10 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "e92c63c2d1b8ae471a89cd37d745bc4b",
@@ -3952,7 +4255,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "4191b7459c7e8fc7b64f17c974f884d0",
@@ -3974,7 +4280,8 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": []
   },
   {
     "id": "e971e35f5c801bf84e119b3200f1bd7d",
@@ -3996,7 +4303,10 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "0ba61b2b0612cd1f4e49579d7463e559",
@@ -4018,7 +4328,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "32bae6f13faec716db24497679028cc7",
@@ -4040,7 +4353,10 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "f1e6807ca4a0611e03f94933d842d11f",
@@ -4062,7 +4378,10 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "59aba34638704a66a1f9d93616d66d37",
@@ -4084,7 +4403,10 @@
     "importance": 5,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "02628aa4f7f62231f29a1d68800d557e",
@@ -4106,7 +4428,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "ea4642fe93eb36f59924e6ad08bfe690",
@@ -4129,7 +4454,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "304db664e05fe37eff73b49040810929",
@@ -4152,7 +4480,10 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "c27892a4e2b31b395bbad5d50d2b8530",
@@ -4175,7 +4506,10 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "43674d5effc115b99bf38276cd660714",
@@ -4198,7 +4532,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "58796113c42f2141202b5a2c44c40684",
@@ -4221,7 +4558,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "c90f629b654461c02b1b3709f1653b79",
@@ -4244,7 +4584,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "a74e19a7dc2aeab632636b04a071fbd8",
@@ -4267,7 +4610,10 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "fc03cec7584f9e060b6b96a4d4328240",
@@ -4290,7 +4636,10 @@
     "importance": 4,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "6a6be8fa72fc25195530acdf78fa14b7",
@@ -4313,6 +4662,9 @@
     "importance": 3,
     "is_breaking": false,
     "processed": true,
-    "proc_version": 1
+    "proc_version": 1,
+    "companies": [
+      "alibaba"
+    ]
   }
 ]
