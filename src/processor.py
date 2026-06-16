@@ -9,6 +9,8 @@ from pathlib import Path
 import os
 from openai import OpenAI
 
+import companies as company_registry
+
 logger = logging.getLogger(__name__)
 
 BATCH_SIZE = 10
@@ -24,7 +26,7 @@ CATEGORIES = [
 ARTICLES_DIR = Path(__file__).parent.parent / "data" / "articles"
 
 # AI 处理产出的字段；复用已处理文章时只回填这些，其余原始字段保持不变。
-_AI_FIELDS = ("title_zh", "summary_zh", "key_points", "category", "importance", "is_breaking")
+_AI_FIELDS = ("title_zh", "summary_zh", "key_points", "category", "importance", "is_breaking", "companies")
 
 # 复用必须齐备的关键字段（缺任一则不能复用，需重新处理）。
 _REQUIRED_FIELDS = ("title_zh", "summary_zh", "category", "importance")
@@ -33,7 +35,7 @@ _REQUIRED_FIELDS = ("title_zh", "summary_zh", "category", "importance")
 # 使旧的处理结果不再可信时，递增此值，存档中旧版本结果将自动失效重做。
 PROC_VERSION = 1
 
-SYSTEM_PROMPT = """你是一个 AI 新闻分析助手。针对每篇文章，你需要输出：
+SYSTEM_PROMPT = f"""你是一个 AI 新闻分析助手。针对每篇文章，你需要输出：
 1. title_zh: 中文标题。如果原标题是中文，原样返回；如果是英文，翻译为简洁准确的中文标题。
 2. summary_zh: 中文摘要（50-100 字，简明扼要）
 3. key_points: 核心要点数组（1-3 条，每条 15-25 字，提炼文章最关键的信息）
@@ -45,9 +47,12 @@ SYSTEM_PROMPT = """你是一个 AI 新闻分析助手。针对每篇文章，你
    - 2: 一般性新闻、常规更新
    - 1: 边缘话题、影响有限
 6. is_breaking: 是否为突发热点（同时满足：importance >= 4 且为最近 24 小时内发布的新闻）
+7. companies: 这篇新闻"主要讲述"的巨头公司 key 数组（可为空 []）。只有当文章主要围绕某公司
+   （其产品/动作/发布/财务/表态/人事等）时才列入；若该公司仅作为竞争对手、对比、背景被
+   顺带提及（如"追赶 OpenAI""挑战谷歌"），不要列入。可选 key：{company_registry.prompt_catalog()}
 
 请严格按以下 JSON 格式输出，不要输出任何其他内容：
-{"articles": [{"title_zh": "", "summary_zh": "", "key_points": ["要点1", "要点2"], "category": "", "importance": 3, "is_breaking": false}, ...]}
+{{"articles": [{{"title_zh": "", "summary_zh": "", "key_points": ["要点1", "要点2"], "category": "", "importance": 3, "is_breaking": false, "companies": []}}, ...]}}
 数组中每个元素对应输入中的一篇文章，顺序一致。"""
 
 
@@ -491,6 +496,99 @@ def process_articles(
             logger.info(f"  [{a['importance']}★] {a['title']}")
 
     return processed
+
+
+COMPANY_SYSTEM_PROMPT = f"""你是 AI 行业分析助手。给定若干条新闻（中文标题+摘要），判断每条"主要讲述"的巨头公司。
+规则：只有当文章主要围绕某公司（其产品/动作/发布/财务/表态/人事等）时才归类；若该公司仅作为
+竞争对手、对比、背景被顺带提及（如"追赶 OpenAI""挑战谷歌"），不要归类。可为空。
+可选公司 key：{company_registry.prompt_catalog()}
+严格按以下 JSON 输出，不要其他内容：
+{{"results": [{{"companies": ["key", ...]}}, ...]}}
+数组顺序与输入一致，每条新闻对应一个元素。"""
+
+
+def _keyword_companies(article: dict) -> list[str]:
+    haystack = " ".join(filter(None, [
+        article.get("title", ""), article.get("title_zh", ""), article.get("summary_zh", ""),
+    ]))
+    return company_registry.keyword_tag(haystack)
+
+
+def _assign_companies_batch(client: OpenAI, batch: list[dict]) -> list[list[str]] | None:
+    """对一批已处理文章做"主体公司"判定，返回与 batch 等长的 key 列表；失败返回 None。"""
+    parts = [
+        f"[{i + 1}] 标题：{a.get('title_zh') or a.get('title', '')}\n摘要：{a.get('summary_zh', '')}"
+        for i, a in enumerate(batch)
+    ]
+    user = f"请判断以下 {len(batch)} 条新闻各自主要讲述的公司：\n\n" + "\n\n".join(parts)
+    valid = company_registry.valid_keys()
+
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = client.chat.completions.create(
+                model="deepseek-v4-pro",
+                max_tokens=4096,
+                response_format={"type": "json_object"},
+                messages=[
+                    {"role": "system", "content": COMPANY_SYSTEM_PROMPT},
+                    {"role": "user", "content": user},
+                ],
+                extra_body={"enable_thinking": False},
+            )
+            results = json.loads(response.choices[0].message.content).get("results", [])
+            if isinstance(results, list) and len(results) == len(batch):
+                return [
+                    [k for k in (r.get("companies", []) if isinstance(r, dict) else []) if k in valid]
+                    for r in results
+                ]
+            logger.warning(f"Companies backfill shape mismatch (attempt {attempt}/{MAX_RETRIES})")
+        except Exception as e:
+            logger.warning(f"Companies backfill error (attempt {attempt}/{MAX_RETRIES}): {e}")
+        if attempt < MAX_RETRIES:
+            time.sleep(2 ** attempt)
+    return None
+
+
+def backfill_companies(date_str: str | None = None):
+    """对最近一天的存档补齐 companies 字段（LLM 主体公司判定，无 key 时关键词兜底）。
+
+    只处理尚未带 companies 的文章；已带的（新流程已写入或上轮已补齐）直接跳过，
+    因此部署后仅首轮有一次额外开销，之后基本是空操作。
+    """
+    if not ARTICLES_DIR.exists():
+        return
+    if date_str:
+        path = ARTICLES_DIR / f"{date_str}.json"
+        if not path.exists():
+            return
+    else:
+        files = sorted(ARTICLES_DIR.glob("*.json"), reverse=True)
+        if not files:
+            return
+        path = files[0]
+
+    with open(path, "r", encoding="utf-8") as f:
+        articles = json.load(f)
+    todo = [a for a in articles if not isinstance(a.get("companies"), list)]
+    if not todo:
+        return
+
+    api_key = os.environ.get("DASHSCOPE_API_KEY")
+    if not api_key:
+        for a in todo:
+            a["companies"] = _keyword_companies(a)
+        logger.info(f"Backfilled companies (keyword) for {len(todo)} articles in {path.name}")
+    else:
+        client = OpenAI(api_key=api_key, base_url="https://dashscope.aliyuncs.com/compatible-mode/v1")
+        for i in range(0, len(todo), BATCH_SIZE):
+            batch = todo[i:i + BATCH_SIZE]
+            out = _assign_companies_batch(client, batch)
+            for j, a in enumerate(batch):
+                a["companies"] = out[j] if out is not None else _keyword_companies(a)
+        logger.info(f"Backfilled companies (LLM) for {len(todo)} articles in {path.name}")
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(articles, f, ensure_ascii=False, indent=2)
 
 
 def load_processed_index(limit_files: int = 3) -> dict[str, dict]:
