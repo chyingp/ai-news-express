@@ -246,6 +246,21 @@ header .subtitle {
   margin-left: 2px;
 }
 
+/* 企业筛选条：紧跟分类筛选下方，去掉重复的上边框间距 */
+.company-filters {
+  align-items: center;
+  margin-top: -6px;
+}
+
+.filters-label {
+  font-size: 0.75rem;
+  color: var(--text-tertiary);
+  margin-right: 2px;
+  white-space: nowrap;
+}
+
+.company-filters button.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
 /* Article list */
 .article-list { list-style: none; }
 
