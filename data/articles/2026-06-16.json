@@ -3385,5 +3385,57 @@
     "cluster_id": 11,
     "is_cluster_main": true,
     "cluster_children": []
+  },
+  {
+    "id": "43eaf8173183b17c814d416d3f3f7111",
+    "title": "Probably raises $9M to build a more reliable kind of AI",
+    "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-16T13:15:09+00:00",
+    "content_snippet": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
+    "title_zh": "Probably 获 900 万美元融资，打造更可靠的 AI",
+    "summary_zh": "AI 初创公司 Probably 完成 900 万美元融资，旨在消除 AI 幻觉和事实错误，使其准确率达到确定性系统的水平。",
+    "key_points": [
+      "Probably 获 900 万美元融资以消除 AI 幻觉",
+      "目标让 AI 准确率媲美确定性系统",
+      "防止错误信息触及最终用户"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "processed": true,
+    "proc_version": 1,
+    "cluster_id": 0,
+    "is_cluster_main": true,
+    "cluster_children": []
+  },
+  {
+    "id": "614004cdd07e4343d7732f48ca5659af",
+    "title": "The way we will create a future where powerful AI is open-source and available to all is by making AI radically more efficient, both in terms of inference compute and (more importantly) in terms of training data requirements. This is what symbolic learning will achieve.",
+    "url": "https://nitter.net/fchollet/status/2066867824404860943#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-16T12:57:44+00:00",
+    "content_snippet": "<p>The way we will create a future where powerful AI is open-source and available to all is by making AI radically more efficient, both in terms of inference compute and (more importantly) in terms of training data requirements. This is what symbolic learning will achieve.</p>",
+    "title_zh": "符号学习将实现高效、开源且人人可用的强大 AI",
+    "summary_zh": "AI 专家 François Chollet 表示，通过大幅提升推理和训练数据的效率，符号学习将推动实现开源且人人可及的强大 AI 未来。",
+    "key_points": [
+      "符号学习是实现开源强大 AI 的关键路径",
+      "需大幅提升推理计算与训练数据的效率",
+      "旨在让强大 AI 惠及所有人"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "processed": true,
+    "proc_version": 1,
+    "cluster_id": 1,
+    "is_cluster_main": true,
+    "cluster_children": []
   }
 ]
