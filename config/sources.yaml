@@ -88,9 +88,9 @@ sources:
     ai_filter: true  # 博客含非 AI 内容，过滤后保留 AI 相关
 
   - name: "Microsoft AI Blog"
-    name_zh: "微软 AI 博客"
+    name_zh: "微软官方博客"
     type: rss
-    url: "https://blogs.microsoft.com/ai/feed/"
+    url: "https://blogs.microsoft.com/feed/"  # 旧 /ai/feed/ 已 410 Gone，改用官方博客总站 + AI 过滤
     category: "官方博客"
     language: "en"
     ai_filter: true
