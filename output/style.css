@@ -138,7 +138,7 @@ header .subtitle {
   color: var(--accent);
 }
 
-.expert-head .article-time { margin-left: auto; }
+.expert-head .article-time { margin-left: auto; font-size: 0.7rem; }
 
 .expert-body { font-size: 0.85rem; line-height: 1.4; }
 .expert-body a { color: var(--text); text-decoration: none; }
