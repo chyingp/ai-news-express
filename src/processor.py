@@ -80,25 +80,62 @@ def deduplicate(articles: list[dict]) -> list[dict]:
     return unique
 
 
+def _assign_clusters(articles: list[dict], groups: list[list[int]]) -> list[dict]:
+    """根据分组结果给文章打聚类标记。
+
+    ``groups`` 是下标分组列表，须覆盖每篇文章恰好一次（含单条分组）。
+    每组保留"质量最高"的一条为 main：先比 importance，再比摘要长度，
+    最后比发布时间（取更新的），其余折叠为 cluster_children。
+    """
+    for cid, group in enumerate(groups):
+        if len(group) == 1:
+            a = articles[group[0]]
+            a["cluster_id"] = cid
+            a["is_cluster_main"] = True
+            a["cluster_children"] = []
+            continue
+
+        main_idx = max(group, key=lambda idx: (
+            articles[idx].get("importance", 0),
+            len(articles[idx].get("summary_zh", "") or ""),
+            articles[idx].get("published", ""),
+        ))
+        for idx in group:
+            a = articles[idx]
+            a["cluster_id"] = cid
+            if idx == main_idx:
+                a["is_cluster_main"] = True
+                a["cluster_children"] = [
+                    {"title": articles[j]["title"], "title_zh": articles[j].get("title_zh", ""),
+                     "url": articles[j]["url"], "source_zh": articles[j].get("source_zh", "")}
+                    for j in group if j != main_idx
+                ]
+            else:
+                a["is_cluster_main"] = False
+
+    folded = sum(1 for a in articles if not a["is_cluster_main"])
+    if folded:
+        main_count = sum(1 for a in articles if a["is_cluster_main"])
+        logger.info(f"Clustering: {len(articles)} articles -> {main_count} groups ({folded} folded)")
+    return articles
+
+
 def cluster_articles(articles: list[dict]) -> list[dict]:
+    """词面聚类（兜底）：同分类下标题字符相似度超阈值则归并。
+
+    仅在无法调用模型时使用；正常情况下由 llm_cluster_articles 做语义去重。
+    """
     if not articles:
         return []
 
-    cluster_id = 0
     assigned = [False] * len(articles)
-
-    for i, a in enumerate(articles):
-        a["cluster_id"] = -1
-        a["is_cluster_main"] = True
-        a["cluster_children"] = []
+    groups: list[list[int]] = []
 
     for i in range(len(articles)):
         if assigned[i]:
             continue
-
         group = [i]
         assigned[i] = True
-
         for j in range(i + 1, len(articles)):
             if assigned[j]:
                 continue
@@ -108,33 +145,91 @@ def cluster_articles(articles: list[dict]) -> list[dict]:
             if ratio >= CLUSTER_THRESHOLD:
                 group.append(j)
                 assigned[j] = True
+        groups.append(group)
 
-        if len(group) == 1:
-            articles[i]["cluster_id"] = cluster_id
-            cluster_id += 1
-            continue
+    return _assign_clusters(articles, groups)
 
-        main_idx = max(group, key=lambda idx: articles[idx].get("importance", 0))
-        for idx in group:
-            articles[idx]["cluster_id"] = cluster_id
-            if idx == main_idx:
-                articles[idx]["is_cluster_main"] = True
-                articles[idx]["cluster_children"] = [
-                    {"title": articles[j]["title"], "title_zh": articles[j].get("title_zh", ""),
-                     "url": articles[j]["url"], "source_zh": articles[j].get("source_zh", "")}
-                    for j in group if j != main_idx
-                ]
-            else:
-                articles[idx]["is_cluster_main"] = False
 
-        cluster_id += 1
+CLUSTER_SYSTEM_PROMPT = """你是 AI 资讯去重助手。输入每行是一条资讯，格式为「编号<TAB>标题（来源）」。
+请找出报道**同一个新闻事件**的条目并归为一组。判断标准：
+- 算重复：同一事件/同一动作的不同报道，例如同一笔融资或同一次发债、同一款产品或模型的同一次发布、同一则人事变动、对同一消息的多家报道（哪怕措辞、语言、角度不同）。
+- 不算重复：不同的课程/产品/模型、同一公司或同一个人的不同事件或不同言论、仅主题相关但事件不同的内容。
+只返回包含 2 条及以上的重复分组，单独成条的不要返回。
+严格按如下 JSON 返回，不要输出多余内容：{"groups": [[编号, 编号, ...], ...]}"""
 
-    main_count = sum(1 for a in articles if a["is_cluster_main"])
-    clustered = sum(1 for a in articles if not a["is_cluster_main"])
-    if clustered:
-        logger.info(f"Clustering: {len(articles)} articles -> {main_count} groups ({clustered} folded)")
 
-    return articles
+def _build_cluster_prompt(articles: list[dict]) -> str:
+    lines = []
+    for i, a in enumerate(articles):
+        title = a.get("title_zh") or a.get("title", "")
+        lines.append(f"{i}\t{title}\t（{a.get('source_zh', '')}）")
+    return "\n".join(lines)
+
+
+def _normalize_groups(raw, n: int) -> list[list[int]]:
+    """把模型返回的分组清洗为合法的下标划分。
+
+    剔除越界/重复/非法下标，每个下标至多归入一组；未被分组的下标各自成单条组，
+    保证返回结果覆盖 0..n-1 恰好一次。
+    """
+    seen: set[int] = set()
+    groups: list[list[int]] = []
+    if isinstance(raw, list):
+        for g in raw:
+            if not isinstance(g, list):
+                continue
+            members = []
+            for x in g:
+                if isinstance(x, bool):
+                    continue
+                try:
+                    idx = int(x)
+                except (TypeError, ValueError):
+                    continue
+                if 0 <= idx < n and idx not in seen and idx not in members:
+                    members.append(idx)
+            if len(members) >= 2:
+                seen.update(members)
+                groups.append(members)
+    for i in range(n):
+        if i not in seen:
+            groups.append([i])
+    return groups
+
+
+def llm_cluster_articles(client: OpenAI, articles: list[dict]) -> list[dict]:
+    """用模型按"是否同一事件"做语义去重归并。
+
+    比词面相似度更可靠：能识别跨语言、跨分类、措辞不同的同一事件（如英伟达发债的
+    多家报道），同时不会把"同主题不同事件"（如不同课程、同一人的不同言论）误并。
+    失败时回退到词面聚类 cluster_articles。
+    """
+    if len(articles) < 2:
+        return cluster_articles(articles)
+
+    prompt = _build_cluster_prompt(articles)
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            response = client.chat.completions.create(
+                model="deepseek-v4-pro",
+                max_tokens=4096,
+                response_format={"type": "json_object"},
+                messages=[
+                    {"role": "system", "content": CLUSTER_SYSTEM_PROMPT},
+                    {"role": "user", "content": f"共 {len(articles)} 条资讯：\n\n{prompt}"},
+                ],
+                extra_body={"enable_thinking": False},
+            )
+            raw = json.loads(response.choices[0].message.content).get("groups", [])
+            groups = _normalize_groups(raw, len(articles))
+            return _assign_clusters(articles, groups)
+        except Exception as e:
+            logger.warning(f"LLM clustering error (attempt {attempt}/{MAX_RETRIES}): {e}")
+            if attempt < MAX_RETRIES:
+                time.sleep(2 ** attempt)
+
+    logger.warning("LLM clustering failed, falling back to lexical clustering")
+    return cluster_articles(articles)
 
 
 def _build_articles_prompt(articles: list[dict]) -> str:
@@ -322,7 +417,8 @@ def process_articles(
     if reused:
         logger.info(f"Reusing {len(reused)} already-processed articles (skipped AI)")
 
-    if use_ai and todo:
+    client = None
+    if use_ai:
         api_key = os.environ.get("DASHSCOPE_API_KEY")
         if not api_key:
             logger.warning("DASHSCOPE_API_KEY not set, falling back to heuristic scoring")
@@ -362,7 +458,10 @@ def process_articles(
         if a.get("is_breaking") and not _is_within_24h(a.get("published", "")):
             a["is_breaking"] = False
 
-    processed = cluster_articles(processed)
+    if client is not None:
+        processed = llm_cluster_articles(client, processed)
+    else:
+        processed = cluster_articles(processed)
 
     breaking = [a for a in processed if a.get("is_breaking")]
     if breaking:
