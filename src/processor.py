@@ -549,37 +549,19 @@ def _assign_companies_batch(client: OpenAI, batch: list[dict]) -> list[list[str]
     return None
 
 
-def backfill_companies(date_str: str | None = None):
-    """对最近一天的存档补齐 companies 字段（LLM 主体公司判定，无 key 时关键词兜底）。
-
-    只处理尚未带 companies 的文章；已带的（新流程已写入或上轮已补齐）直接跳过，
-    因此部署后仅首轮有一次额外开销，之后基本是空操作。
-    """
-    if not ARTICLES_DIR.exists():
-        return
-    if date_str:
-        path = ARTICLES_DIR / f"{date_str}.json"
-        if not path.exists():
-            return
-    else:
-        files = sorted(ARTICLES_DIR.glob("*.json"), reverse=True)
-        if not files:
-            return
-        path = files[0]
-
+def _backfill_companies_file(path: Path, client: OpenAI | None):
+    """对单个存档文件补齐缺失的 companies 字段，原地写回。"""
     with open(path, "r", encoding="utf-8") as f:
         articles = json.load(f)
     todo = [a for a in articles if not isinstance(a.get("companies"), list)]
     if not todo:
         return
 
-    api_key = os.environ.get("DASHSCOPE_API_KEY")
-    if not api_key:
+    if client is None:
         for a in todo:
             a["companies"] = _keyword_companies(a)
         logger.info(f"Backfilled companies (keyword) for {len(todo)} articles in {path.name}")
     else:
-        client = OpenAI(api_key=api_key, base_url="https://dashscope.aliyuncs.com/compatible-mode/v1")
         for i in range(0, len(todo), BATCH_SIZE):
             batch = todo[i:i + BATCH_SIZE]
             out = _assign_companies_batch(client, batch)
@@ -589,6 +571,30 @@ def backfill_companies(date_str: str | None = None):
 
     with open(path, "w", encoding="utf-8") as f:
         json.dump(articles, f, ensure_ascii=False, indent=2)
+
+
+def backfill_companies(limit_files: int = 3):
+    """给首页展示窗口内（最近 limit_files 天）的存档补齐 companies 字段。
+
+    用 LLM 判定"主体公司"（无 key 时关键词兜底）。只处理尚未带 companies 的文章，
+    已带的（新流程已写入或上轮已补齐）直接跳过；因此部署后仅首轮有一次额外开销，
+    之后基本是空操作。覆盖与首页一致的多天窗口，避免跨天时旧文章漏补。
+    """
+    if not ARTICLES_DIR.exists():
+        return
+    files = sorted(ARTICLES_DIR.glob("*.json"), reverse=True)[:limit_files]
+    if not files:
+        return
+
+    client = None
+    if os.environ.get("DASHSCOPE_API_KEY"):
+        client = OpenAI(
+            api_key=os.environ["DASHSCOPE_API_KEY"],
+            base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
+        )
+
+    for path in files:
+        _backfill_companies_file(path, client)
 
 
 def load_processed_index(limit_files: int = 3) -> dict[str, dict]:
