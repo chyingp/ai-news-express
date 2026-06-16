@@ -20,7 +20,8 @@
     "is_breaking": false,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "038e739f9720b504bd822e58f70739a7",
@@ -42,7 +43,8 @@
     "is_breaking": false,
     "cluster_id": 1,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "4cf72100e395d21229e88b0e1ba0d9df",
@@ -64,7 +66,8 @@
     "is_breaking": false,
     "cluster_id": 2,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "1f09cbd180938d2713fa0e5da5ecdd59",
@@ -87,7 +90,10 @@
     "is_breaking": false,
     "cluster_id": 3,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "zhipu"
+    ]
   },
   {
     "id": "bfeca2ee1bfe36a7564a3dfc5a90006a",
@@ -109,7 +115,8 @@
     "is_breaking": false,
     "cluster_id": 4,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "325e6a3170a3ef4a61fed83281bae0e1",
@@ -131,7 +138,8 @@
     "is_breaking": false,
     "cluster_id": 5,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "ea63c73666a4eea93a0bc1a22e724cdf",
@@ -153,7 +161,8 @@
     "is_breaking": false,
     "cluster_id": 6,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "da4b5edf73d1134252a7504723ed332d",
@@ -175,7 +184,8 @@
     "is_breaking": false,
     "cluster_id": 7,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "49bbdb07b4962ba09ee10f5d09f2fff5",
@@ -197,7 +207,8 @@
     "is_breaking": false,
     "cluster_id": 8,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "c6ff4a58b79d055010a731b50a6a6c39",
@@ -219,7 +230,8 @@
     "is_breaking": false,
     "cluster_id": 9,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "b07bcd15731774413f1bd487760b689c",
@@ -242,7 +254,8 @@
     "is_breaking": false,
     "cluster_id": 10,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "c432632d1b747e0c7b4f070ee749e6dc",
@@ -265,7 +278,8 @@
     "is_breaking": false,
     "cluster_id": 11,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "cb28301efccc641639fe10ed9e3048e3",
@@ -288,7 +302,8 @@
     "is_breaking": false,
     "cluster_id": 12,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "f1e14ac71d674538b7934296ba8a89df",
@@ -311,7 +326,10 @@
     "is_breaking": true,
     "cluster_id": 13,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "alibaba"
+    ]
   },
   {
     "id": "2559bb20bb1e65a42d9ec4e027ae023b",
@@ -334,7 +352,8 @@
     "is_breaking": false,
     "cluster_id": 14,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "d75dd2efaceacf0dd7e1a378399db7a0",
@@ -357,7 +376,10 @@
     "is_breaking": false,
     "cluster_id": 15,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "931171b59dd3bf2a92ad98b0c167843a",
@@ -380,7 +402,10 @@
     "is_breaking": false,
     "cluster_id": 16,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "huawei"
+    ]
   },
   {
     "id": "7ad7d182aa527799f1e8fcccdbe9e966",
@@ -403,7 +428,8 @@
     "is_breaking": false,
     "cluster_id": 17,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "d49de69b87d3c8db1a6b7e29c7d299b6",
@@ -426,7 +452,10 @@
     "is_breaking": false,
     "cluster_id": 18,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "2860d43c2ff7a014d16a1b980313f0d0",
@@ -449,7 +478,8 @@
     "is_breaking": false,
     "cluster_id": 19,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "0340f2ccb5a1c2fea9794f708069d35d",
@@ -472,7 +502,8 @@
     "is_breaking": true,
     "cluster_id": 20,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "c97ec8d1ebbc599b5c1e588ee7ff3a55",
@@ -495,7 +526,8 @@
     "is_breaking": false,
     "cluster_id": 21,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "4c03a81774a1ba7c6a924b1fc6e44b5f",
@@ -518,7 +550,8 @@
     "is_breaking": false,
     "cluster_id": 22,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "0efaf3e9f8c97bc52b9cf2e8d35bbca6",
@@ -541,7 +574,8 @@
     "is_breaking": false,
     "cluster_id": 23,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "eb630942d4ca937dcb54a5d13f2974fe",
@@ -564,7 +598,11 @@
     "is_breaking": false,
     "cluster_id": 24,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai",
+      "anthropic"
+    ]
   },
   {
     "id": "27eea3a614e133297d3fd2cfb2b4bf3b",
@@ -587,7 +625,8 @@
     "is_breaking": false,
     "cluster_id": 25,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "269c9012f263088fb76ffc7eebd12d9d",
@@ -610,7 +649,8 @@
     "is_breaking": false,
     "cluster_id": 26,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "45abcdd3102ce29d5278700e18000502",
@@ -633,7 +673,8 @@
     "is_breaking": false,
     "cluster_id": 27,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "b9d665e6a18e6e4a8792df9c5315ca47",
@@ -656,7 +697,8 @@
     "is_breaking": false,
     "cluster_id": 28,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "88477ee1fb9039fe1481c05f7815314f",
@@ -679,7 +721,8 @@
     "is_breaking": false,
     "cluster_id": 29,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "874e282624f1232620cd719eb151d808",
@@ -702,7 +745,8 @@
     "is_breaking": false,
     "cluster_id": 30,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "3a69f41af58c25a18599c52bac4d4aa9",
@@ -725,7 +769,8 @@
     "is_breaking": false,
     "cluster_id": 31,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "41d9714de951d427ea746fb3accfcee3",
@@ -748,7 +793,8 @@
     "is_breaking": false,
     "cluster_id": 32,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "9b41ef631f1ccd6e6f98adf14c01b0ba",
@@ -771,7 +817,10 @@
     "is_breaking": true,
     "cluster_id": 33,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "ba7f12545c7f20f769c1bb939ec71dca",
@@ -794,7 +843,8 @@
     "is_breaking": false,
     "cluster_id": 34,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "00352331c320cd53652e01b4a3930416",
@@ -817,7 +867,10 @@
     "is_breaking": false,
     "cluster_id": 35,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic"
+    ]
   },
   {
     "id": "f9f19c63c5abf48de690b119041544b1",
@@ -840,7 +893,10 @@
     "is_breaking": false,
     "cluster_id": 36,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "63d382498633f86d220772a46180d137",
@@ -863,7 +919,8 @@
     "is_breaking": false,
     "cluster_id": 37,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "fc12c862cec55a4d905c773de7d1b965",
@@ -886,7 +943,10 @@
     "is_breaking": false,
     "cluster_id": 38,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic"
+    ]
   },
   {
     "id": "2f693d20368d4d217d939a55b5fbf3b0",
@@ -909,7 +969,8 @@
     "is_breaking": false,
     "cluster_id": 39,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "258e5ef307304f8a1b5b67f69e95c21d",
@@ -932,7 +993,11 @@
     "is_breaking": false,
     "cluster_id": 40,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "amazon",
+      "anthropic"
+    ]
   },
   {
     "id": "2149290c64f5550b3e223a6ef57e986f",
@@ -954,7 +1019,8 @@
     "is_breaking": false,
     "cluster_id": 41,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "0308281aa0fca48522ed64aae729d11b",
@@ -976,7 +1042,11 @@
     "is_breaking": false,
     "cluster_id": 42,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "amazon",
+      "anthropic"
+    ]
   },
   {
     "id": "77cc79f7af53a898eb327ff337f8ad4e",
@@ -998,7 +1068,8 @@
     "is_breaking": false,
     "cluster_id": 43,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "748265de56e10a9f7fbc5dc812f0083d",
@@ -1020,7 +1091,10 @@
     "is_breaking": false,
     "cluster_id": 44,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "9b106dc66a19d3b617d29ce109c99090",
@@ -1042,7 +1116,10 @@
     "is_breaking": false,
     "cluster_id": 45,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "d2ba0669e3fed17c220adf7b867ce6fa",
@@ -1064,7 +1141,8 @@
     "is_breaking": false,
     "cluster_id": 46,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "770ccfe0beda25c1aa5569a9be80d7ea",
@@ -1086,7 +1164,8 @@
     "is_breaking": false,
     "cluster_id": 47,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "db7793e3a6c9928a70d4d7790d855301",
@@ -1108,7 +1187,8 @@
     "is_breaking": false,
     "cluster_id": 48,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "c592597bc948008aedeee1cd4ea606c9",
@@ -1130,7 +1210,10 @@
     "is_breaking": false,
     "cluster_id": 49,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic"
+    ]
   },
   {
     "id": "debd8a7ac5d0b12fcc2fa108c827194f",
@@ -1152,7 +1235,10 @@
     "is_breaking": false,
     "cluster_id": 50,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic"
+    ]
   },
   {
     "id": "56b7b98f42fb1f2282e1b7f07d77a52f",
@@ -1173,7 +1259,10 @@
     "is_breaking": false,
     "cluster_id": 51,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "meta"
+    ]
   },
   {
     "id": "81bd3e46a0f1343cf90874604ea4384c",
@@ -1195,7 +1284,8 @@
     "is_breaking": false,
     "cluster_id": 52,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "8e16264f67e55688652c6306dac995c6",
@@ -1217,7 +1307,10 @@
     "is_breaking": false,
     "cluster_id": 53,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "0ae2fb8f608330c6b50a8c3fbb071bdf",
@@ -1239,7 +1332,8 @@
     "is_breaking": false,
     "cluster_id": 54,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "6cbd86e9edee5adcecea15aeba4cd29a",
@@ -1261,7 +1355,8 @@
     "is_breaking": false,
     "cluster_id": 55,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "ac49e7db99e37116a2cdeaf8fa01d6e0",
@@ -1283,7 +1378,10 @@
     "is_breaking": false,
     "cluster_id": 56,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "mistral"
+    ]
   },
   {
     "id": "54ee8e383b11621e51a26406c3fb468f",
@@ -1305,7 +1403,8 @@
     "is_breaking": false,
     "cluster_id": 57,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "75f5b737d0fc26c9fda62b51c6d76fd1",
@@ -1327,7 +1426,8 @@
     "is_breaking": false,
     "cluster_id": 58,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "16270b9ae7cc048c03e7040fac414eb8",
@@ -1349,7 +1449,10 @@
     "is_breaking": false,
     "cluster_id": 59,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "ae65ff682b916609ea20f792fbd52c79",
@@ -1372,7 +1475,8 @@
     "is_breaking": false,
     "cluster_id": 60,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "aff183af0f1e57e58360d3542ce04b9b",
@@ -1395,7 +1499,11 @@
     "is_breaking": false,
     "cluster_id": 61,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic",
+      "openai"
+    ]
   },
   {
     "id": "244c1c844ed0b0b37d5424c92f76877b",
@@ -1418,7 +1526,12 @@
     "is_breaking": false,
     "cluster_id": 62,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic",
+      "nvidia",
+      "openai"
+    ]
   },
   {
     "id": "a1164e792f42534fb00d6216409b31f9",
@@ -1441,7 +1554,10 @@
     "is_breaking": false,
     "cluster_id": 63,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "60d55ee8121f754d7545c44938d4b348",
@@ -1464,7 +1580,8 @@
     "is_breaking": false,
     "cluster_id": 64,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "2e1e6f85787cc485a2107c5b513e1ab5",
@@ -1487,7 +1604,10 @@
     "is_breaking": true,
     "cluster_id": 65,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "amazon"
+    ]
   },
   {
     "id": "2ad84e39a25305df4541e1d7b38a7d14",
@@ -1510,7 +1630,8 @@
     "is_breaking": false,
     "cluster_id": 66,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "8417fa4ba0336fab822b9bab35ffa6eb",
@@ -1533,7 +1654,8 @@
     "is_breaking": false,
     "cluster_id": 67,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "0c886b22d40cf76545385765c1be82c9",
@@ -1556,7 +1678,8 @@
     "is_breaking": false,
     "cluster_id": 68,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "31e268b2c07ac4d613cdfd5b226ea30b",
@@ -1579,7 +1702,10 @@
     "is_breaking": false,
     "cluster_id": 69,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "3553f6a4a210a05f4f4ce95b398db7a4",
@@ -1601,7 +1727,8 @@
     "is_breaking": false,
     "cluster_id": 70,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "1930a634f4d7996f3dba2363c328ad80",
@@ -1622,7 +1749,8 @@
     "is_breaking": false,
     "cluster_id": 71,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "302fed5dd219beadc025ae6ca950b008",
@@ -1644,7 +1772,8 @@
     "is_breaking": false,
     "cluster_id": 72,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "857b01ba57340160fb4f7afdc440e1a7",
@@ -1666,7 +1795,8 @@
     "is_breaking": false,
     "cluster_id": 73,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "e5e9bd93110473577483334ee2693c72",
@@ -1688,7 +1818,10 @@
     "is_breaking": false,
     "cluster_id": 74,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "2e52d71156eaeb2867182cb316bb5734",
@@ -1710,7 +1843,8 @@
     "is_breaking": false,
     "cluster_id": 75,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "5fa3405179d5d881ff141378321e64ee",
@@ -1732,7 +1866,10 @@
     "is_breaking": false,
     "cluster_id": 76,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "d64a6f7de63c716566f4a80add368541",
@@ -1753,7 +1890,8 @@
     "is_breaking": false,
     "cluster_id": 77,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "8926e37d73b8bac3d76e703e52851880",
@@ -1775,7 +1913,10 @@
     "is_breaking": false,
     "cluster_id": 78,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "9b77dce7b35495256a04548a8efbcbbf",
@@ -1797,7 +1938,10 @@
     "is_breaking": false,
     "cluster_id": 79,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "bfbf641beda560a9dd4240c7c27a4f05",
@@ -1819,7 +1963,10 @@
     "is_breaking": false,
     "cluster_id": 80,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "c6fecd9155677d302ee28cb7fe5b48fc",
@@ -1841,7 +1988,10 @@
     "is_breaking": false,
     "cluster_id": 81,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "277040b31b6e16bad0026c6a3feab50a",
@@ -1863,7 +2013,10 @@
     "is_breaking": false,
     "cluster_id": 82,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "2c872de7fac211879e041a2bb4369ced",
@@ -1885,7 +2038,10 @@
     "is_breaking": false,
     "cluster_id": 83,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "d4285fc1570da44708dd0b4961d09954",
@@ -1907,7 +2063,10 @@
     "is_breaking": false,
     "cluster_id": 84,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "e527af61aff2ffa8bd4fd69e1718a9ff",
@@ -1929,7 +2088,10 @@
     "is_breaking": false,
     "cluster_id": 85,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "9e2b59b245eeb33dd4956652b0ed6180",
@@ -1951,7 +2113,10 @@
     "is_breaking": false,
     "cluster_id": 86,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "4eca20f9abf22da40d3a2925fee833e4",
@@ -1972,7 +2137,10 @@
     "is_breaking": false,
     "cluster_id": 87,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "de0a2342d5aae8686fc1282cac16f250",
@@ -1994,7 +2162,10 @@
     "is_breaking": false,
     "cluster_id": 88,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "6d8d3867b1f2d4e595578cf49ee8ce5e",
@@ -2016,7 +2187,8 @@
     "is_breaking": false,
     "cluster_id": 89,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "fbb44934033164d0cf9a7af53ff519bc",
@@ -2039,7 +2211,8 @@
     "is_breaking": false,
     "cluster_id": 90,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "65edefcb4544d6f43dd6399f0fc893f7",
@@ -2062,7 +2235,10 @@
     "is_breaking": false,
     "cluster_id": 91,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "c39ad57d6bd74b61b111bcdcbdef3a63",
@@ -2085,7 +2261,10 @@
     "is_breaking": true,
     "cluster_id": 92,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "56ac2785e7ef66b33857c5b6bd2d0fad",
@@ -2108,7 +2287,10 @@
     "is_breaking": false,
     "cluster_id": 93,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "536604e9e1fff000320cc65614542f07",
@@ -2131,7 +2313,10 @@
     "is_breaking": false,
     "cluster_id": 94,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "f4ee2a7a3a8ad0b17bcdad8a2d287569",
@@ -2154,7 +2339,10 @@
     "is_breaking": false,
     "cluster_id": 95,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "16b629a3fac6418f4b85a629f890938e",
@@ -2177,7 +2365,10 @@
     "is_breaking": false,
     "cluster_id": 96,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "nvidia"
+    ]
   },
   {
     "id": "ae995b9c3e757be2c6930ea3af2db0f1",
@@ -2200,7 +2391,8 @@
     "is_breaking": false,
     "cluster_id": 97,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "785dbaa6ae56b042a9cc2cf7be7bc366",
@@ -2223,7 +2415,10 @@
     "is_breaking": false,
     "cluster_id": 98,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "5be6c3392056eeba4da59e02321d3d50",
@@ -2246,7 +2441,10 @@
     "is_breaking": false,
     "cluster_id": 99,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "1a654943dc71d850da0ceecc45798327",
@@ -2269,7 +2467,10 @@
     "is_breaking": true,
     "cluster_id": 100,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "6e68da9f855d88981917738ac905470f",
@@ -2291,7 +2492,8 @@
     "is_breaking": false,
     "cluster_id": 101,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "0af0c5c7221882c040c047bd5a4e0a42",
@@ -2314,7 +2516,8 @@
     "is_breaking": false,
     "cluster_id": 102,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "b918a5525a8082e31e84da626707457d",
@@ -2336,7 +2539,10 @@
     "is_breaking": true,
     "cluster_id": 103,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "985e9a4f3bc75715568ab43705cde76f",
@@ -2358,7 +2564,10 @@
     "is_breaking": false,
     "cluster_id": 104,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "fa84d034356c6a69317552779bd6fda1",
@@ -2380,7 +2589,10 @@
     "is_breaking": false,
     "cluster_id": 105,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "9b923bad35afe3ad927ac520d5b48035",
@@ -2402,7 +2614,10 @@
     "is_breaking": false,
     "cluster_id": 106,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "ffa5f8be5836e3d8c51da331d2ee360d",
@@ -2424,7 +2639,10 @@
     "is_breaking": false,
     "cluster_id": 107,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "aaeba9d9642e5043cf9d1697f1fd4fa6",
@@ -2446,7 +2664,10 @@
     "is_breaking": false,
     "cluster_id": 108,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "e4841d06b7f258bfac3f83ce1baa5175",
@@ -2468,7 +2689,10 @@
     "is_breaking": false,
     "cluster_id": 109,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "3cf2c3be558d6990410d76836132cd7b",
@@ -2491,7 +2715,8 @@
     "is_breaking": false,
     "cluster_id": 110,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "287852ed7fbc0e44db75712e78dfa477",
@@ -2514,7 +2739,8 @@
     "is_breaking": false,
     "cluster_id": 111,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "890b25eddf686ad6c6f61268f04e4a71",
@@ -2537,7 +2763,10 @@
     "is_breaking": false,
     "cluster_id": 112,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "0417997d923f07f60836664a90206d23",
@@ -2560,7 +2789,11 @@
     "is_breaking": false,
     "cluster_id": 113,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai",
+      "amazon"
+    ]
   },
   {
     "id": "37be5f050c299a11a44c4348bd73f06d",
@@ -2583,7 +2816,8 @@
     "is_breaking": false,
     "cluster_id": 114,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "0c2850c01e445441e52ab27d9c9ea2a3",
@@ -2606,7 +2840,10 @@
     "is_breaking": false,
     "cluster_id": 115,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "210dad3ca6f9520d86b9b3030fd33260",
@@ -2629,7 +2866,8 @@
     "is_breaking": false,
     "cluster_id": 116,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "50e6453b15f587524eb4d9f4726cee78",
@@ -2652,7 +2890,10 @@
     "is_breaking": false,
     "cluster_id": 117,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "750113e8e05878acd1627ea176870cea",
@@ -2675,7 +2916,10 @@
     "is_breaking": false,
     "cluster_id": 118,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "519b4bba1e125eab75ca893b24437ced",
@@ -2698,7 +2942,10 @@
     "is_breaking": false,
     "cluster_id": 119,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "182491f5bb0fb50c66aedffc7fa5d526",
@@ -2721,7 +2968,10 @@
     "is_breaking": false,
     "cluster_id": 120,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "5effe6badffb1775070c6f8e08d87519",
@@ -2743,7 +2993,10 @@
     "is_breaking": false,
     "cluster_id": 121,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "f7b73f332bd7c205cf414a5dc39a8ce5",
@@ -2765,7 +3018,8 @@
     "is_breaking": false,
     "cluster_id": 122,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "0c6bed52fbbd2fe1c90a3984cf327753",
@@ -2787,7 +3041,10 @@
     "is_breaking": false,
     "cluster_id": 123,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "8ec382739a7dcbfea90df2ec72dd7a61",
@@ -2809,7 +3066,10 @@
     "is_breaking": true,
     "cluster_id": 124,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "15deeae3d860516a1df714addbed793d",
@@ -2831,7 +3091,10 @@
     "is_breaking": false,
     "cluster_id": 125,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "3bee7290591a4075e78bf158dc6c227f",
@@ -2852,7 +3115,10 @@
     "is_breaking": false,
     "cluster_id": 126,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "amazon"
+    ]
   },
   {
     "id": "11e756df6b84c8785d2c727dd85332d7",
@@ -2874,7 +3140,8 @@
     "is_breaking": false,
     "cluster_id": 127,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "c122dcde12a0905650a62debebfafcaf",
@@ -2896,7 +3163,10 @@
     "is_breaking": false,
     "cluster_id": 128,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "b59858efc780e58622f8d18671aa4a15",
@@ -2918,7 +3188,8 @@
     "is_breaking": false,
     "cluster_id": 129,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "59ef3aa9e68bf3fd0c96d21eb430f553",
@@ -2941,7 +3212,8 @@
     "is_breaking": false,
     "cluster_id": 130,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "86d148703bef1770809846192a7e588a",
@@ -2964,7 +3236,10 @@
     "is_breaking": false,
     "cluster_id": 131,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "100e890294240151866bab9a3a8b7382",
@@ -2987,7 +3262,10 @@
     "is_breaking": false,
     "cluster_id": 132,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "openai"
+    ]
   },
   {
     "id": "66bd8767c347e7cfc472c5571e9d7c46",
@@ -3010,7 +3288,8 @@
     "is_breaking": false,
     "cluster_id": 133,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "2447fb670a864ea37183c2d054cd0eb8",
@@ -3033,7 +3312,10 @@
     "is_breaking": false,
     "cluster_id": 134,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "4de0d2dd0860e71434beb5aef13321ed",
@@ -3056,7 +3338,10 @@
     "is_breaking": false,
     "cluster_id": 135,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "1bce4c3eeade6ff3dbc03f957bdfecf3",
@@ -3079,7 +3364,10 @@
     "is_breaking": false,
     "cluster_id": 136,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "f846584e94ff774dd312356d2d2a6612",
@@ -3102,7 +3390,10 @@
     "is_breaking": false,
     "cluster_id": 137,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "google"
+    ]
   },
   {
     "id": "e670024b9a32e878ab282337aaddf6f9",
@@ -3125,7 +3416,10 @@
     "is_breaking": false,
     "cluster_id": 138,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "amazon"
+    ]
   },
   {
     "id": "1bd5d5f60cc30b30eee498627c185f8f",
@@ -3148,7 +3442,10 @@
     "is_breaking": false,
     "cluster_id": 139,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic"
+    ]
   },
   {
     "id": "ca731494b19489d16b3acb90f6d3128d",
@@ -3171,7 +3468,8 @@
     "is_breaking": false,
     "cluster_id": 140,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "db7ff708ed2fd3ffb22714bc4e846e1c",
@@ -3194,7 +3492,8 @@
     "is_breaking": false,
     "cluster_id": 141,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "a102a18a5efc083299a9baaa1b4a8378",
@@ -3217,7 +3516,10 @@
     "is_breaking": false,
     "cluster_id": 142,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": [
+      "anthropic"
+    ]
   },
   {
     "id": "b37d936464575171be4586234d600b41",
@@ -3240,7 +3542,8 @@
     "is_breaking": false,
     "cluster_id": 143,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "83834a0014c1b11ee535b5f2b870d374",
@@ -3263,7 +3566,8 @@
     "is_breaking": false,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "f85f662961de832fb6799ccbb248c16b",
@@ -3286,7 +3590,8 @@
     "is_breaking": true,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "cf3907daa1a8d50d2a7f478776424d0d",
@@ -3310,7 +3615,8 @@
     "processed": true,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   },
   {
     "id": "211d5f1c53d9a4bbb1af9e0e01bf878f",
@@ -3335,6 +3641,7 @@
     "proc_version": 1,
     "cluster_id": 0,
     "is_cluster_main": true,
-    "cluster_children": []
+    "cluster_children": [],
+    "companies": []
   }
 ]
