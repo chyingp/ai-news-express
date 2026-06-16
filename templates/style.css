@@ -451,3 +451,102 @@ footer {
   .article-item.breaking { margin: 0 -12px; padding: 12px; }
   .stats-bar { flex-wrap: wrap; gap: 8px; }
 }
+
+/* ===== 站内导航 ===== */
+.site-nav { margin-top: 8px; }
+.site-nav a {
+  display: inline-block;
+  font-size: 0.85rem;
+  color: var(--accent);
+  text-decoration: none;
+  padding: 3px 10px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+}
+.site-nav a:hover { border-color: var(--accent); }
+
+/* ===== 统计数据页 ===== */
+.stats-group { margin: 28px 0; }
+.stats-group > h2 {
+  font-size: 1.05rem;
+  margin: 0 0 12px;
+  padding-left: 8px;
+  border-left: 3px solid var(--accent);
+}
+
+.indicator-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.indicator-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px 14px 10px;
+}
+.indicator-name { font-size: 0.82rem; color: var(--text-secondary); }
+.indicator-value {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 4px 0 2px;
+  color: var(--text);
+  letter-spacing: -0.5px;
+}
+.indicator-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.75rem;
+  margin-bottom: 6px;
+}
+.change { font-weight: 600; }
+.change.good { color: #16a34a; }
+.change.bad { color: #dc2626; }
+.change.flat { color: var(--text-tertiary); }
+.as-of { color: var(--text-tertiary); }
+.indicator-card .spark { display: block; width: 100%; height: 44px; margin: 2px 0; }
+.indicator-source { font-size: 0.68rem; color: var(--text-tertiary); margin-top: 4px; }
+
+.table-wrap { overflow-x: auto; }
+.stats-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+  min-width: 480px;
+}
+.stats-table th, .stats-table td {
+  padding: 7px 10px;
+  text-align: right;
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+}
+.stats-table th:first-child, .stats-table td:first-child {
+  text-align: left;
+  color: var(--text-secondary);
+  position: sticky;
+  left: 0;
+  background: var(--card-bg);
+}
+.stats-table thead th {
+  color: var(--text-tertiary);
+  font-weight: 600;
+  border-bottom: 2px solid var(--border);
+}
+.stats-table tbody tr:hover td { background: var(--headline-bg); }
+
+.stats-footer {
+  margin: 32px 0 16px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+  font-size: 0.75rem;
+  color: var(--text-tertiary);
+  line-height: 1.6;
+}
+.stats-footer a { color: var(--accent); }
+
+@media (max-width: 600px) {
+  .indicator-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+  .indicator-value { font-size: 1.25rem; }
+}

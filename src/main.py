@@ -8,6 +8,7 @@ load_dotenv()
 from fetcher import fetch_all
 from processor import process_articles, save_processed, load_processed_index, backfill_companies
 from generator import generate_index, generate_daily
+from stats_generator import generate_stats
 
 CST = timezone(timedelta(hours=8))
 
@@ -19,6 +20,14 @@ logging.basicConfig(
 logger = logging.getLogger("main")
 
 
+def _safe_generate_stats():
+    """统计页是独立增量功能；其抓取/渲染失败绝不能影响新闻主流程。"""
+    try:
+        generate_stats()
+    except Exception as e:
+        logger.warning(f"generate_stats failed (non-fatal): {e}")
+
+
 def run_hourly():
     logger.info("=== Hourly check started ===")
 
@@ -27,6 +36,7 @@ def run_hourly():
         logger.info("No new articles, skipping")
         backfill_companies()
         generate_index()
+        _safe_generate_stats()
         return
 
     logger.info(f"Fetched {len(articles)} articles, processing...")
@@ -41,6 +51,7 @@ def run_hourly():
     # 从存档全量重建首页（最近数日），而非只用本次新抓到的文章，
     # 否则首页会被压缩成仅剩这一批新文章。
     generate_index()
+    _safe_generate_stats()
     logger.info(f"=== Hourly check done: {len(processed)} articles ===")
 
 
@@ -55,6 +66,7 @@ def run_daily():
 
     backfill_companies()
     generate_daily()
+    _safe_generate_stats()
     logger.info("=== Daily digest done ===")
 
 

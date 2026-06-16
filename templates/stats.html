@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>中国核心经济数据</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>中国核心经济数据</h1>
+    <p class="subtitle">经济 · 就业 · 民生 · 投资外贸 · 更新于 {{ generated_at }}</p>
+    <nav class="site-nav"><a href="../">← 返回 AI 新闻速递</a></nav>
+  </header>
+
+  <div class="stats-bar">
+    覆盖 <span>{{ indicator_count }}</span> 项核心指标 ·
+    数据源 World Bank / FRED ·
+    数字源自各国官方统计（含国家统计局），经国际机构转载
+  </div>
+
+  {% for g in groups %}
+  <section class="stats-group">
+    <h2>{{ g.name }}</h2>
+
+    <div class="indicator-grid">
+      {% for c in g.cards %}
+      <div class="indicator-card">
+        <div class="indicator-name">{{ c.name_zh }}</div>
+        <div class="indicator-value">{{ c.latest_value }}</div>
+        <div class="indicator-meta">
+          {% if c.change %}<span class="change {{ c.change.tone }}">{{ c.change.arrow }} {{ c.change.text }}</span>{% endif %}
+          <span class="as-of">{{ c.latest_date }}</span>
+        </div>
+        {{ c.spark|safe }}
+        <div class="indicator-source">{{ c.source }} · {{ c.freq }}</div>
+      </div>
+      {% endfor %}
+    </div>
+
+    {% if g.table_dates %}
+    <div class="table-wrap">
+      <table class="stats-table">
+        <thead>
+          <tr><th>指标</th>{% for d in g.table_dates %}<th>{{ d }}</th>{% endfor %}</tr>
+        </thead>
+        <tbody>
+          {% for row in g.table_rows %}
+          <tr><td>{{ row.name_zh }}</td>{% for cell in row.cells %}<td>{{ cell }}</td>{% endfor %}</tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% endif %}
+  </section>
+  {% endfor %}
+
+  <footer class="stats-footer">
+    <p>数据来自 <a href="https://data.worldbank.org" target="_blank" rel="noopener">World Bank Open Data</a>
+    与 <a href="https://fred.stlouisfed.org" target="_blank" rel="noopener">FRED</a>；
+    国家统计局官方接口因反爬限制无法直连，此处采用国际机构转载的同源数据，口径与时效可能与官方原始发布略有差异。</p>
+  </footer>
+</body>
+</html>
