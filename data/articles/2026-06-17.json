@@ -264,5 +264,105 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ec6de238074c30b25ffc9cd711178d4b",
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-16T21:29:50+00:00",
+    "content_snippet": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+    "title_zh": "用AI加速规划解锁英国住房建设",
+    "summary_zh": "英国政府与谷歌DeepMind合作开发AI原型系统，旨在加快住房规划决策流程，以解决英国住房建设缓慢问题。",
+    "key_points": [
+      "英国政府联手Google DeepMind开发AI规划工具",
+      "AI原型旨在加速住房项目审批和决策速度",
+      "该项目聚焦于解决英国住房建设短缺问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3f1f3700100fe8c1c8974e376c497aea",
+    "title": "Apple spent billions on Vision Pro and still couldn't figure out that what we want",
+    "url": "https://www.reddit.com/r/artificial/comments/1u7qhju/apple_spent_billions_on_vision_pro_and_still/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-16T21:18:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Honestly just a rant but I need to get this off my chest.</p> <p>Apple spent years and billions building the Vision Pro. A giant headset you strap to your face. Who is actually going out wearing that thing. It looks like something you put on before surgery. And shocker, nobody bought it.</p> <p>Meanwhile my phone already has a great chip, a great battery, great connectivity. Just let it do the heavy lifting. Build something small that pairs with it and handles t",
+    "title_zh": "苹果斥资数十亿开发Vision Pro，却仍未搞懂用户想要什么",
+    "summary_zh": "Reddit用户吐槽苹果Vision Pro，认为其笨重、不实用，质疑苹果投入巨资却未能理解大众对穿戴设备的真实需求。",
+    "key_points": [
+      "用户批评Vision Pro头显笨重且外观怪异",
+      "质疑苹果巨额投入未能把握用户真实需求",
+      "文章反映部分消费者对空间计算设备接受度低"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "79bbec08bf7aee576be08e4981451e21",
+    "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+    "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-16T21:00:35+00:00",
+    "content_snippet": "Move originally planned for Monday would have heavily increased power users' costs.",
+    "title_zh": "Anthropic暂停Claude Agent SDK的令牌计费模式",
+    "summary_zh": "Anthropic原计划对Claude Agent SDK实施按令牌计费，该变动将大幅增加重度用户成本，但在周一前宣布暂停执行。",
+    "key_points": [
+      "Anthropic暂停Claude Agent SDK的令牌计费计划",
+      "新计费模式原定将大幅提升重度用户使用成本",
+      "暂停决定在计划执行前做出，原因未详细说明"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "89266766ba222357798ec709b6d2feb5",
+    "title": "Exclusive eBook: How AI is becoming the next military advisor",
+    "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-16T20:35:02+00:00",
+    "content_snippet": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O&#8217;Donnell Choose which file format to&#8230;",
+    "title_zh": "独家电子书：AI如何成为下一代军事顾问",
+    "summary_zh": "MIT Technology Review发布独家电子书，收录六篇关于军事领域使用AI模型辅助决策的报道，涵盖2025至2026年的最新发展。",
+    "key_points": [
+      "电子书探讨AI在军事决策中的顾问角色",
+      "内容包含六篇更新报道，追踪军事AI最新进展",
+      "材料来源为2025年4月至2026年4月的原创文章"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
