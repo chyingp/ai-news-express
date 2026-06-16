@@ -77,10 +77,20 @@
     {% endfor %}
   </div>
 
+  {% if company_filters %}
+  <div class="filters company-filters">
+    <span class="filters-label">企业</span>
+    <button class="active" data-company="all">全部</button>
+    {% for c in company_filters %}
+    <button data-company="{{ c.key }}">{{ c.label }} <span class="filter-count">({{ c.count }})</span></button>
+    {% endfor %}
+  </div>
+  {% endif %}
+
   {% if articles %}
   <ol class="article-list" id="article-list">
     {% for a in articles %}
-    <li class="article-item{% if a.is_breaking %} breaking{% endif %}{% if loop.index > 30 %} hidden-article{% endif %}" data-category="{{ a.category }}"{% if loop.index > 30 %} style="display:none"{% endif %}>
+    <li class="article-item{% if a.is_breaking %} breaking{% endif %}{% if loop.index > 30 %} hidden-article{% endif %}" data-category="{{ a.category }}" data-companies="{{ a.companies|join(' ') }}"{% if loop.index > 30 %} style="display:none"{% endif %}>
       <span class="article-rank">{{ loop.index }}</span>
       <div class="article-content">
         <div class="article-title">
@@ -145,32 +155,39 @@
 
   <script>
     var PAGE_SIZE = 30;
-    var currentFilter = 'all';
+    // 两个独立筛选维度：分类 + 企业，二者取交集（AND）
+    var state = { category: 'all', company: 'all' };
     var loadMoreWrap = document.getElementById('load-more-wrap');
 
     var shownPerFilter = {};
 
-    function applyFilter(cat) {
-      currentFilter = cat;
+    function filterKey() { return state.category + '|' + state.company; }
+
+    function itemMatches(item) {
+      if (state.category !== 'all' && item.dataset.category !== state.category) return false;
+      if (state.company !== 'all') {
+        var companies = (item.dataset.companies || '').split(' ');
+        if (companies.indexOf(state.company) === -1) return false;
+      }
+      return true;
+    }
+
+    function applyFilter() {
+      var key = filterKey();
       var items = document.querySelectorAll('.article-item');
       var matchCount = 0;
-      var showCount = shownPerFilter[cat] || PAGE_SIZE;
+      var showCount = shownPerFilter[key] || PAGE_SIZE;
 
       items.forEach(function(item) {
-        var matches = (cat === 'all') || (item.dataset.category === cat);
-        if (matches) {
+        if (itemMatches(item)) {
           matchCount++;
-          if (matchCount <= showCount) {
-            item.style.display = '';
-          } else {
-            item.style.display = 'none';
-          }
+          item.style.display = (matchCount <= showCount) ? '' : 'none';
         } else {
           item.style.display = 'none';
         }
       });
 
-      if (!shownPerFilter[cat]) shownPerFilter[cat] = PAGE_SIZE;
+      if (!shownPerFilter[key]) shownPerFilter[key] = PAGE_SIZE;
 
       var remaining = matchCount - Math.min(showCount, matchCount);
       if (loadMoreWrap) {
@@ -183,14 +200,21 @@
       }
     }
 
-    // Category filter
-    document.querySelector('.filters').addEventListener('click', function(e) {
-      if (e.target.tagName !== 'BUTTON' && e.target.closest('button') === null) return;
-      var btn = e.target.tagName === 'BUTTON' ? e.target : e.target.closest('button');
-      document.querySelectorAll('.filters button').forEach(function(b) { b.classList.remove('active'); });
-      btn.classList.add('active');
-      applyFilter(btn.dataset.category);
-    });
+    function wireFilterBar(selector, dimension) {
+      var bar = document.querySelector(selector);
+      if (!bar) return;
+      bar.addEventListener('click', function(e) {
+        var btn = e.target.tagName === 'BUTTON' ? e.target : e.target.closest('button');
+        if (!btn) return;
+        bar.querySelectorAll('button').forEach(function(b) { b.classList.remove('active'); });
+        btn.classList.add('active');
+        state[dimension] = (dimension === 'category') ? btn.dataset.category : btn.dataset.company;
+        applyFilter();
+      });
+    }
+
+    wireFilterBar('.filters:not(.company-filters)', 'category');
+    wireFilterBar('.company-filters', 'company');
 
     // Cluster expand/collapse
     function toggleCluster(el) {
@@ -206,8 +230,9 @@
 
     // Load more
     function loadMore() {
-      shownPerFilter[currentFilter] = (shownPerFilter[currentFilter] || PAGE_SIZE) + PAGE_SIZE;
-      applyFilter(currentFilter);
+      var key = filterKey();
+      shownPerFilter[key] = (shownPerFilter[key] || PAGE_SIZE) + PAGE_SIZE;
+      applyFilter();
     }
   </script>
 </body>

@@ -79,6 +79,29 @@ sources:
     language: "en"
     enabled: false  # RSS feed no longer available
 
+  - name: "NVIDIA Blog"
+    name_zh: "英伟达官方博客"
+    type: rss
+    url: "https://blogs.nvidia.com/feed/"
+    category: "官方博客"
+    language: "en"
+    ai_filter: true  # 博客含非 AI 内容，过滤后保留 AI 相关
+
+  - name: "Microsoft AI Blog"
+    name_zh: "微软 AI 博客"
+    type: rss
+    url: "https://blogs.microsoft.com/ai/feed/"
+    category: "官方博客"
+    language: "en"
+    ai_filter: true
+
+  - name: "Qwen Blog"
+    name_zh: "阿里通义千问博客"
+    type: rss
+    url: "https://qwenlm.github.io/blog/index.xml"
+    category: "官方博客"
+    language: "en"
+
   # === 国内 AI 媒体 ===
   - name: "机器之心"
     name_zh: "机器之心"
@@ -180,6 +203,65 @@ sources:
     handle: "JeffDean"
     category: "专家观点"
     language: "en"
+
+# 巨头企业识别：按文章标题/摘要中的别名匹配所属企业，用于首页"按企业筛选"。
+# 关键词机制不依赖官方源是否存在，故国内厂商、无 RSS 的公司也能被正确归类。
+# key 为内部标识，label 为展示名，aliases 为匹配别名（英文按词边界、中文按子串匹配）。
+companies:
+  - key: openai
+    label: "OpenAI"
+    aliases: ["OpenAI", "ChatGPT", "GPT-4", "GPT-5", "Codex", "Sora", "DALL-E", "DALL·E", "Altman", "奥特曼"]
+  - key: anthropic
+    label: "Anthropic"
+    aliases: ["Anthropic", "Claude"]
+  - key: google
+    label: "Google"
+    aliases: ["Google", "谷歌", "DeepMind", "Gemini", "Alphabet", "Pichai", "皮查伊", "Hassabis", "哈萨比斯"]
+  - key: nvidia
+    label: "英伟达"
+    aliases: ["Nvidia", "NVIDIA", "英伟达", "黄仁勋", "Jensen Huang", "CUDA", "NVDA", "GeForce", "Blackwell"]
+  - key: microsoft
+    label: "微软"
+    aliases: ["Microsoft", "微软", "Copilot", "Azure", "Nadella", "纳德拉", "MSFT"]
+  - key: meta
+    label: "Meta"
+    aliases: ["Meta", "Facebook", "脸书", "Llama", "Zuckerberg", "扎克伯格", "FAIR"]
+  - key: xai
+    label: "xAI"
+    aliases: ["xAI", "Grok", "x.ai"]
+  - key: alibaba
+    label: "阿里巴巴"
+    aliases: ["Alibaba", "阿里巴巴", "阿里", "Qwen", "通义", "通义千问", "千问", "达摩院"]
+  - key: bytedance
+    label: "字节跳动"
+    aliases: ["ByteDance", "字节跳动", "豆包", "Doubao", "火山引擎", "Coze", "即梦", "Seedance", "Seedream"]
+  - key: tencent
+    label: "腾讯"
+    aliases: ["Tencent", "腾讯", "混元", "Hunyuan", "元宝"]
+  - key: moonshot
+    label: "月之暗面"
+    aliases: ["Moonshot", "月之暗面", "Kimi"]
+  - key: zhipu
+    label: "智谱"
+    aliases: ["Zhipu", "智谱", "GLM", "ChatGLM", "智谱清言"]
+  - key: minimax
+    label: "MiniMax"
+    aliases: ["MiniMax", "海螺", "Hailuo", "稀宇"]
+  - key: deepseek
+    label: "DeepSeek"
+    aliases: ["DeepSeek", "深度求索", "幻方"]
+  - key: huawei
+    label: "华为"
+    aliases: ["Huawei", "华为", "昇腾", "Ascend", "盘古", "鸿蒙", "HarmonyOS"]
+  - key: amazon
+    label: "Amazon"
+    aliases: ["Amazon", "亚马逊", "AWS", "Bedrock", "Alexa", "Bezos", "贝索斯"]
+  - key: mistral
+    label: "Mistral"
+    aliases: ["Mistral", "Le Chat"]
+  - key: cohere
+    label: "Cohere"
+    aliases: ["Cohere", "Command R"]
 
 ai_keywords:
   - "AI"
