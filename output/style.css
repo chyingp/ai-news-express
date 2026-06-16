@@ -98,6 +98,59 @@ header .subtitle {
   gap: 10px;
 }
 
+/* 专家观点 · X 动态 */
+.experts {
+  margin-bottom: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.experts h2 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: var(--text);
+}
+
+.expert-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.expert-card {
+  background: var(--tag-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+}
+
+.expert-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.expert-name {
+  font-weight: 600;
+  font-size: 0.82rem;
+  color: var(--accent);
+}
+
+.expert-head .article-time { margin-left: auto; }
+
+.expert-body { font-size: 0.85rem; line-height: 1.4; }
+.expert-body a { color: var(--text); text-decoration: none; }
+.expert-body a:hover { color: var(--accent); }
+
+.expert-summary {
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  margin: 4px 0 0;
+  line-height: 1.5;
+}
+
 .headline-card {
   background: var(--headline-bg);
   border: 1px solid var(--headline-border);
@@ -378,6 +431,7 @@ footer {
 @media (max-width: 600px) {
   body { padding: 12px; }
   .headline-grid { grid-template-columns: 1fr; }
+  .expert-grid { grid-template-columns: 1fr; }
   .article-rank { display: none; }
   .article-item.breaking { margin: 0 -12px; padding: 12px; }
   .stats-bar { flex-wrap: wrap; gap: 8px; }
