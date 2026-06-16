@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from fetcher import fetch_all
-from processor import process_articles, save_processed, load_processed_index
+from processor import process_articles, save_processed, load_processed_index, backfill_companies
 from generator import generate_index, generate_daily
 
 CST = timezone(timedelta(hours=8))
@@ -25,6 +25,7 @@ def run_hourly():
     articles = fetch_all()
     if not articles:
         logger.info("No new articles, skipping")
+        backfill_companies()
         generate_index()
         return
 
@@ -33,6 +34,9 @@ def run_hourly():
 
     date_str = datetime.now(CST).strftime("%Y-%m-%d")
     save_processed(processed, date_str)
+
+    # 对最近一天的存档补齐"主体公司"标注（新文章已在处理阶段带上，此处只兜旧的）。
+    backfill_companies()
 
     # 从存档全量重建首页（最近数日），而非只用本次新抓到的文章，
     # 否则首页会被压缩成仅剩这一批新文章。
@@ -49,6 +53,7 @@ def run_daily():
         date_str = datetime.now(CST).strftime("%Y-%m-%d")
         save_processed(processed, date_str)
 
+    backfill_companies()
     generate_daily()
     logger.info("=== Daily digest done ===")
 

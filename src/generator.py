@@ -1,13 +1,12 @@
 import json
 import logging
-import re
 import shutil
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-import yaml
 from jinja2 import Environment, FileSystemLoader
 
+import companies as company_registry
 from processor import cluster_for_display
 
 logger = logging.getLogger(__name__)
@@ -16,60 +15,24 @@ PROJECT_ROOT = Path(__file__).parent.parent
 TEMPLATES_DIR = PROJECT_ROOT / "templates"
 OUTPUT_DIR = PROJECT_ROOT / "output"
 DATA_DIR = PROJECT_ROOT / "data" / "articles"
-SOURCES_FILE = PROJECT_ROOT / "config" / "sources.yaml"
-
-
-def _load_companies() -> list[dict]:
-    """读取企业识别表，预编译每家公司的匹配正则。
-
-    英文/ASCII 别名按词边界匹配（避免 'Meta' 命中 'metadata'），中文按子串匹配。
-    返回 [{key, label, pattern}]。
-    """
-    try:
-        with open(SOURCES_FILE, "r", encoding="utf-8") as f:
-            raw = yaml.safe_load(f) or {}
-    except (OSError, yaml.YAMLError) as e:
-        logger.warning(f"Failed to load companies from {SOURCES_FILE}: {e}")
-        return []
-
-    companies = []
-    for c in raw.get("companies", []):
-        parts = []
-        for alias in c.get("aliases", []):
-            esc = re.escape(alias)
-            # 纯 ASCII 别名加词边界；含中文等字符则直接子串匹配
-            if alias.isascii():
-                parts.append(rf"(?<![A-Za-z0-9]){esc}(?![A-Za-z0-9])")
-            else:
-                parts.append(esc)
-        if not parts:
-            continue
-        companies.append({
-            "key": c["key"],
-            "label": c.get("label", c["key"]),
-            "pattern": re.compile("|".join(parts), re.IGNORECASE),
-        })
-    return companies
-
-
-_COMPANIES_CACHE: list[dict] | None = None
-
-
-def _companies() -> list[dict]:
-    global _COMPANIES_CACHE
-    if _COMPANIES_CACHE is None:
-        _COMPANIES_CACHE = _load_companies()
-    return _COMPANIES_CACHE
 
 
 def _tag_companies(articles: list[dict]) -> None:
-    """给每篇文章打上所属企业标记 a['companies'] = [key, ...]（基于标题/摘要别名匹配）。"""
-    companies = _companies()
+    """确定每篇文章所属企业 a['companies'] = [key, ...]。
+
+    优先采用处理阶段 LLM 写入的 companies（语义判定"主体公司"，能排除"追赶
+    OpenAI"这类竞品陪衬提及）；缺失时（旧文章或启发式处理）回退到关键词匹配。
+    无论来源都按注册表校验，丢弃未知 key。
+    """
+    valid = company_registry.valid_keys()
     for a in articles:
-        haystack = " ".join(filter(None, [
-            a.get("title", ""), a.get("title_zh", ""), a.get("summary_zh", ""),
-        ]))
-        a["companies"] = [c["key"] for c in companies if c["pattern"].search(haystack)]
+        if isinstance(a.get("companies"), list):
+            a["companies"] = [k for k in a["companies"] if k in valid]
+        else:
+            haystack = " ".join(filter(None, [
+                a.get("title", ""), a.get("title_zh", ""), a.get("summary_zh", ""),
+            ]))
+            a["companies"] = company_registry.keyword_tag(haystack)
 
 CATEGORIES = [
     "模型发布", "产品动态", "融资收购", "研究论文",
@@ -235,9 +198,10 @@ def generate_index(articles: list[dict] | None = None):
     for a in main_articles:
         for key in a.get("companies", []):
             company_counts[key] = company_counts.get(key, 0) + 1
+    lbls = company_registry.labels()
     company_filters = [
-        {"key": c["key"], "label": c["label"], "count": company_counts[c["key"]]}
-        for c in _companies() if company_counts.get(c["key"])
+        {"key": c["key"], "label": lbls[c["key"]], "count": company_counts[c["key"]]}
+        for c in company_registry.load_companies() if company_counts.get(c["key"])
     ]
     company_filters.sort(key=lambda x: x["count"], reverse=True)
 
