@@ -81,21 +81,6 @@ def _get_jinja_env():
     )
 
 
-def _format_published(iso_str: str) -> str:
-    try:
-        dt = datetime.fromisoformat(iso_str).astimezone(CST)
-        now = datetime.now(CST)
-        diff = now - dt
-        if diff.total_seconds() < 3600:
-            return f"{int(diff.total_seconds() / 60)} 分钟前"
-        if diff.total_seconds() < 86400:
-            return f"{int(diff.total_seconds() / 3600)} 小时前"
-        if diff.days < 7:
-            return f"{diff.days} 天前"
-        return dt.strftime("%m-%d %H:%M")
-    except (ValueError, TypeError):
-        return ""
-
 
 def _format_published_full(iso_str: str) -> str:
     """绝对发布时间（CST，精确到分），用于 tooltip / 语义化 <time> 标签。"""
@@ -116,7 +101,6 @@ def _is_within_24h(iso_str: str) -> bool:
 
 def _prepare_articles(articles: list[dict]) -> list[dict]:
     for a in articles:
-        a["published_display"] = _format_published(a.get("published", ""))
         a["published_full"] = _format_published_full(a.get("published", ""))
         a.setdefault("importance", 2)
         a.setdefault("is_breaking", False)

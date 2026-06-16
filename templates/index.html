@@ -43,7 +43,7 @@
           <span class="source-badge">{{ a.source_zh }}</span>
           <span class="stars">{{ '★' * a.importance }}{{ '☆' * (5 - a.importance) }}</span>
           {% if a.is_breaking %}<span class="tag tag-breaking">突发</span>{% endif %}
-          {% if a.published_display %}<time class="article-time" datetime="{{ a.published }}" title="{{ a.published_full }}">{{ a.published_display }}</time>{% endif %}
+          {% if a.published %}<time class="article-time" datetime="{{ a.published }}" title="{{ a.published_full }}"></time>{% endif %}
         </div>
       </div>
       {% endfor %}
@@ -59,7 +59,7 @@
       <div class="expert-card">
         <div class="expert-head">
           <span class="expert-name">{{ a.source_zh }}</span>
-          {% if a.published_display %}<time class="article-time" datetime="{{ a.published }}" title="{{ a.published_full }}">{{ a.published_display }}</time>{% endif %}
+          {% if a.published %}<time class="article-time" datetime="{{ a.published }}" title="{{ a.published_full }}"></time>{% endif %}
         </div>
         <div class="expert-body">
           <a href="{{ a.url }}" target="_blank" rel="noopener">{% if a.title_zh %}{{ a.title_zh }}{% else %}{{ a.title }}{% endif %}</a>
@@ -110,7 +110,7 @@
           <span class="tag">{{ a.category }}</span>
           {% if a.is_breaking %}<span class="tag tag-breaking">突发</span>{% endif %}
           <span class="stars">{{ '★' * a.importance }}{{ '☆' * (5 - a.importance) }}</span>
-          {% if a.published_display %}<time class="article-time" datetime="{{ a.published }}" title="{{ a.published_full }}">{{ a.published_display }}</time>{% endif %}
+          {% if a.published %}<time class="article-time" datetime="{{ a.published }}" title="{{ a.published_full }}"></time>{% endif %}
         </div>
         {% if a.cluster_children %}
         <span class="cluster-toggle" onclick="toggleCluster(this)">还有 {{ a.cluster_children|length }} 篇相关报道 ▸</span>
@@ -235,6 +235,20 @@
       shownPerFilter[key] = (shownPerFilter[key] || PAGE_SIZE) + PAGE_SIZE;
       applyFilter();
     }
+    function updateTimeAgo() {
+      document.querySelectorAll('time.article-time[datetime]').forEach(function(el) {
+        var dt = new Date(el.getAttribute('datetime'));
+        if (isNaN(dt)) return;
+        var diff = (Date.now() - dt.getTime()) / 1000;
+        if (diff < 60) el.textContent = '刚刚';
+        else if (diff < 3600) el.textContent = Math.floor(diff / 60) + ' 分钟前';
+        else if (diff < 86400) el.textContent = Math.floor(diff / 3600) + ' 小时前';
+        else if (diff < 604800) el.textContent = Math.floor(diff / 86400) + ' 天前';
+        else el.textContent = el.getAttribute('title') || '';
+      });
+    }
+    updateTimeAgo();
+    setInterval(updateTimeAgo, 60000);
   </script>
 </body>
 </html>
