@@ -232,6 +232,27 @@ def llm_cluster_articles(client: OpenAI, articles: list[dict]) -> list[dict]:
     return cluster_articles(articles)
 
 
+def cluster_for_display(articles: list[dict]) -> list[dict]:
+    """在"实际要展示的完整文章集"上做去重归并，供页面生成时调用。
+
+    去重必须在这里做、而非入库时：hourly 模式每次只处理新抓到的少量文章，
+    跨运行/跨天累积的同一事件（如不同小时分别抓到的"英伟达发债"）只有在完整
+    展示集上比较才能发现。有 API key 时用语义去重，否则回退词面聚类。
+    """
+    if len(articles) < 2:
+        return _assign_clusters(articles, [[i] for i in range(len(articles))])
+
+    api_key = os.environ.get("DASHSCOPE_API_KEY")
+    if not api_key:
+        return cluster_articles(articles)
+
+    client = OpenAI(
+        api_key=api_key,
+        base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
+    )
+    return llm_cluster_articles(client, articles)
+
+
 def _build_articles_prompt(articles: list[dict]) -> str:
     parts = []
     for i, a in enumerate(articles):
@@ -458,10 +479,8 @@ def process_articles(
         if a.get("is_breaking") and not _is_within_24h(a.get("published", "")):
             a["is_breaking"] = False
 
-    if client is not None:
-        processed = llm_cluster_articles(client, processed)
-    else:
-        processed = cluster_articles(processed)
+    # 去重归并放到页面生成时进行（见 cluster_for_display）：hourly 模式下这里只
+    # 拿到本次新抓的少量文章，无法发现跨运行/跨天累积的同一事件重复。
 
     breaking = [a for a in processed if a.get("is_breaking")]
     if breaking:
