@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 日报 · 2026-06-17</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>AI 新闻速递 · 日报</h1>
+    <p class="subtitle">2026-06-17 · 共 0 条资讯</p>
+  </header>
+
+  
+
+  <div class="filters">
+    <button class="active" data-category="all">全部</button>
+    
+  </div>
+
+  
+  <div class="empty-state">
+    <p>今日暂无新闻</p>
+  </div>
+  
+
+  <footer>
+    <p><a href="../index.html" style="color: var(--accent);">← 返回首页</a></p>
+    <p style="margin-top: 8px;">AI 新闻速递 · 由 Claude API 提供智能处理</p>
+  </footer>
+
+  <script>
+    document.querySelector('.filters').addEventListener('click', function(e) {
+      if (e.target.tagName !== 'BUTTON') return;
+      document.querySelectorAll('.filters button').forEach(function(b) { b.classList.remove('active'); });
+      e.target.classList.add('active');
+      var cat = e.target.dataset.category;
+      document.querySelectorAll('.article-item').forEach(function(item) {
+        item.style.display = (cat === 'all' || item.dataset.category === cat) ? '' : 'none';
+      });
+    });
+
+    function toggleCluster(el) {
+      var children = el.nextElementSibling;
+      if (children.classList.contains('open')) {
+        children.classList.remove('open');
+        el.textContent = el.textContent.replace('▾', '▸');
+      } else {
+        children.classList.add('open');
+        el.textContent = el.textContent.replace('▸', '▾');
+      }
+    }
+  </script>
+</body>
+</html>
