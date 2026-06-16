@@ -1,0 +1,54 @@
+[
+  {
+    "id": "572842b73c1cbaef8893dbf2499c91a9",
+    "title": "Today, we enable AutoResearch in the physical world for the first time! Introducing ENPIRE: we give 8 Codex agents a fleet of robots, an allocation of GPUs, and generous token budget. We set them free with a simple goal: solve the task as quickly as possible, keep the robots busy but stay safe, don't waste precious compute. Make no mistake.\n\nThen humans step aside and our watch begins. The robot fleet starts to come alive: they learn to look for visual clues, reset the scene, practice novel skills, tinker with control stack, read papers online, debate, reflect, get stuck, and try again directly on the hardware. All we did is to give Codex an API to the world of atoms, and the rest is emergence.\n\nENPIRE is able to solve high-precision tasks like tying zip-ties, organizing fine pins, and installing GPUs all by itself. We also discovered a new type of \"physical scaling\": 8 robots exploring in parallel improves significantly faster than fewer ones. \n\nA part of our NVIDIA GEAR lab now self-improves tirelessly over night. We just read the reports in the morning. \n\n/goal: we all take a holiday and Jensen wouldn't even notice ;)\n\nWe will be open-sourcing everything, so you can host your self-running robot lab at home too! Deep dive in the thread:",
+    "url": "https://nitter.net/DrJimFan/status/2066921736369766762#m",
+    "source": "Jim Fan (X)",
+    "source_zh": "Jim Fan",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-16T16:31:58+00:00",
+    "content_snippet": "<p>Today, we enable AutoResearch in the physical world for the first time! Introducing ENPIRE: we give 8 Codex agents a fleet of robots, an allocation of GPUs, and generous token budget. We set them free with a simple goal: solve the task as quickly as possible, keep the robots busy but stay safe, don't waste precious compute. Make no mistake.<br />\n<br />\nThen humans step aside and our watch begins. The robot fleet starts to come alive: they learn to look for visual clues, reset the scene, prac",
+    "title_zh": "首次实现物理世界自动研究：ENPIRE 让机器人集群自主学习和执行精密任务",
+    "summary_zh": "NVIDIA GEAR 实验室推出 ENPIRE 系统，首次将自动研究扩展到物理世界。8 个 Codex 智能体控制机器人集群，自主探索并学习绑扎带、安装 GPU 等精密任务，发现物理并行探索能显著加速学习进程。",
+    "key_points": [
+      "Codex 智能体控制机器人自主完成绑扎带、安装 GPU 等高精度任务",
+      "8 个机器人并行探索比少量机器人学习速度显著更快，发现物理扩展规律",
+      "项目将完全开源，首次实现物理世界的自动研究"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a8a99da03dcc011c0b045e79f4d5c4ad",
+    "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+    "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-16T16:30:27+00:00",
+    "content_snippet": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NVIDIA Agent Toolkit [&#8230;]",
+    "title_zh": "HPE 与 NVIDIA 扩展 AI 工厂，迎接智能体时代",
+    "summary_zh": "在 HPE Discover 大会上，NVIDIA 与 HPE 宣布扩展 HPE AI Factory，集成 NVIDIA Vera CPU 等新技术，帮助企业将智能体 AI 从概念验证推向生产环境，构建面向智能体时代的新一代 AI 基础设施。",
+    "key_points": [
+      "HPE 与 NVIDIA 扩展 AI 工厂，集成 NVIDIA Vera CPU 等新技术",
+      "旨在帮助企业将智能体 AI 从概念验证部署到生产环境",
+      "新一代 AI 工厂专为智能体时代设计，推动企业级 AI 应用落地"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
