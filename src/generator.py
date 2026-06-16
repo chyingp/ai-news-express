@@ -6,6 +6,8 @@ from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
 
+from processor import cluster_for_display
+
 logger = logging.getLogger(__name__)
 
 PROJECT_ROOT = Path(__file__).parent.parent
@@ -153,7 +155,12 @@ def generate_index(articles: list[dict] | None = None):
     expert_articles.sort(key=lambda a: a.get("published", ""), reverse=True)
     experts = expert_articles[:EXPERT_LIMIT]
 
-    main_articles = [a for a in articles if a.get("is_cluster_main", True) and not _is_expert(a)]
+    # 在完整新闻集上去重归并（近 3 天累积），同一事件只保留质量最高的一条，
+    # 其余折叠为"相关报道"。必须在此处去重，入库时只看得到单次新抓的文章。
+    news = [a for a in articles if not _is_expert(a)]
+    news = cluster_for_display(news)
+
+    main_articles = [a for a in news if a.get("is_cluster_main", True)]
 
     headlines = [a for a in main_articles if a.get("importance", 0) >= 3][:10]
 
@@ -184,7 +191,7 @@ def generate_index(articles: list[dict] | None = None):
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(html)
 
-    logger.info(f"Generated index.html with {len(main_articles)} articles ({len(articles) - len(main_articles)} clustered)")
+    logger.info(f"Generated index.html with {len(main_articles)} articles ({len(news) - len(main_articles)} clustered)")
     return out_path
 
 
@@ -226,6 +233,7 @@ def generate_daily(date_str: str | None = None):
             articles = json.load(f)
 
     articles = _prepare_articles(articles)
+    articles = cluster_for_display(articles)
     main_articles = [a for a in articles if a.get("is_cluster_main", True)]
     overview = generate_daily_overview(main_articles)
     present_cats = sorted(set(a["category"] for a in main_articles if a.get("category")))
