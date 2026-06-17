@@ -224,5 +224,372 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5c87fa77af709082142a8c1ba2dd1d20",
+    "title": "I made a FAQ Chatbot that runs completely in browser; Local AI in Two Clicks",
+    "url": "https://www.reddit.com/r/artificial/comments/1u8m1ie/i_made_a_faq_chatbot_that_runs_completely_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-17T20:43:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>webLLM and a simple RAG, and I have a static<br /> Website that can explain what it is, how it works, and I can update its knowledge base easily.</p> <p>Since chromium now supports WebGPU default, modest hardware, even some phones, can run it locally.</p> <p>Crazy how far AI interface architecture has gotten and how smart small models are. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fred_Terzi\"> /u/Fred_Terzi </a> &#32",
+    "title_zh": "我制作了一个完全在浏览器中运行的FAQ聊天机器人；只需两下点击即可本地运行AI",
+    "summary_zh": "一位开发者利用webLLM和简单的RAG技术，创建了一个静态网站FAQ聊天机器人，可完全在浏览器中本地运行，即使手机也能运行。",
+    "key_points": [
+      "利用webLLM和RAG实现浏览器本地运行的FAQ聊天机器人",
+      "基于Chromium的WebGPU支持，普通硬件和手机均可运行",
+      "知识库可轻松更新，无需服务器端处理"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1b63b0c22f952b2d830115984d7df2cd",
+    "title": "GPT-5.4 for improving a challenging reaction in medicinal chemistry:",
+    "url": "https://nitter.net/gdb/status/2067344606128468445#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-17T20:32:18+00:00",
+    "content_snippet": "<p>GPT-5.4 for improving a challenging reaction in medicinal chemistry:</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimental result.<br />\n<br />\nPaired with <a href=\"http://Molecule.one\">Molecule.one</a>’s Maria AI and specialized lab, the model proposed an unexpected way to improve a widely used reaction in drug discovery.</p>\n<a href=\"https://nitter.net/OpenAI/status/2067293745075442171#m\">",
+    "title_zh": "GPT-5.4在药物化学中改进挑战性反应",
+    "summary_zh": "Greg Brockman分享OpenAI的GPT-5.4模型在药物化学项目中的应用，从文献综述到实验验证，显示出加速药物发现流程的潜力。",
+    "key_points": [
+      "GPT-5.4用于改进药物化学中的挑战性反应",
+      "模型帮助完成从文献综述到实验验证的全流程",
+      "与Molecule.one平台配合使用，加速药物发现"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9f71207886e7d5f462bb3c3c8d844372",
+    "title": "How do you analyze the relative \"strength\" of probes? [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1u8lo60/how_do_you_analyze_the_relative_strength_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-17T20:29:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This question is related to topics like language+ models (including multimodal) and things like &quot;circuit&quot; analyses. I think something related might come up in my work (factuality guarantees for model outputs) and I'm trying to orient to the SoTA.</p> <p>I found <a href=\"https://www.neelnanda.io/mechanistic-interpretability/emergent-pos\">this old post</a> on trying to deduce, for instance, whether a Transformer-based model &quot;knows&quot; which word a",
+    "title_zh": "如何分析探针的相对“强度”？[研究]",
+    "summary_zh": "一篇Reddit技术讨论，用户询问如何分析语言和多模态模型中探针的相对强度，涉及电路分析和模型输出的真实性保证。",
+    "key_points": [
+      "探讨语言模型中探针相对强度的分析方法",
+      "涉及电路分析和模型输出真实性保证",
+      "寻求当前最优方法的方向"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "358e207ac3c718c864b49194f949d6f6",
+    "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+    "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-17T20:24:28+00:00",
+    "content_snippet": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+    "title_zh": "发布昂贵AR眼镜后，Snap股价大跌",
+    "summary_zh": "Snap公司发布备受期待的智能眼镜，但因其高昂的定价，市场反应不佳，导致公司股价下跌。",
+    "key_points": [
+      "Snap发布AR智能眼镜，但定价过高",
+      "市场反应负面，导致股价大幅下跌",
+      "智能眼镜产品未能提振投资者信心"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3d1666c95475b5da28c4a10be952728b",
+    "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+    "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-17T20:17:38+00:00",
+    "content_snippet": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;reportedly blew&#160;through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and Meta killed its internal leaderboard.&#160; This tension between [&#8230;]",
+    "title_zh": "NEA合伙人Tiffany Luck称企业仍在摸索AI投资回报",
+    "summary_zh": "风投公司NEA合伙人表示，企业在大力推动AI应用后面临预算超支问题，如Uber数月耗尽年度AI预算，一些公司削减了AI服务许可。",
+    "key_points": [
+      "企业大力推动AI应用后面临预算超支和投资回报挑战",
+      "Uber在几个月内耗尽年度AI预算的案例",
+      "部分公司已开始削减Claude等AI服务许可"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8c7122dc614611766f5f37a3be4089f5",
+    "title": "Found AI videos of people with disabilities on Facebook trying to pedal crappy merchand",
+    "url": "https://www.reddit.com/r/artificial/comments/1u8kq6o/found_ai_videos_of_people_with_disabilities_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-17T19:54:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I was on Facebook today and I came across ahead of a down syndrome girl driving a car crying with a mean comment on her screen claiming that she was told she would never sell her resin craft work. The first amazing thing I noticed is a girl didn't sound down syndrome at all. The second thing was the fact that she was driving a car by herself which is usually quite amazing for that particular disability as well. It shows screenshots of her doing work on resin cra",
+    "title_zh": "在Facebook上发现利用AI生成残疾人视频推销劣质商品",
+    "summary_zh": "用户在Facebook上发现利用AI生成的虚假视频，视频中描绘残疾人推销劣质手工艺品，引发对AI生成内容滥用的担忧。",
+    "key_points": [
+      "发现AI生成的虚假视频，利用残疾人形象推销商品",
+      "视频中的人物特征与声称的残疾状况不符",
+      "引发对AI内容滥用和社交媒体欺诈的担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d57a9b394b11eba4733c41d2bfdd433e",
+    "title": "Do we define ourselves by suffering?",
+    "url": "https://www.reddit.com/r/artificial/comments/1u8kp6b/do_we_define_ourselves_by_suffering/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-17T19:53:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I follow a few different communities related to making visual art and music, and there's quite a bit of brigading against AI in those communities. Moreover I feel there's a lot of dissatisfaction and concern as AI moves into all walks of life, making a lot of tasks and no small number of careers redundant. </p> <p>Of course, this comes out as a lot of complaining that really boils down to, &quot;AI makes things too easy. If you use it, you're lazy, or you haven'",
+    "title_zh": "我们是否通过苦难来定义自己？",
+    "summary_zh": "一篇Reddit讨论，探讨AI在视觉艺术和音乐等创意领域的应用引发的社区反对情绪，以及人们面对AI渗透生活各领域时的担忧。",
+    "key_points": [
+      "AI在艺术和音乐创作领域引发社区反对",
+      "AI渗透生活各领域带来不满和担忧",
+      "讨论人类是否通过创造过程中的苦难定义自我"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "575141993364bcd1e6602bd6fe727b9f",
+    "title": "Is foundational AI research still something that can be done without access to HPC? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1u8jyat/is_foundational_ai_research_still_something_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-17T19:26:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm not that well versed in ML yet. I know that &quot;Attention is all you need&quot; was based on work that was done with a couple of high end gaming GPUs at the time. I can afford that.</p> <p>Suppose for arguments sake that I have caught up on ML such that I have the competence to recreate state of the art results should I have access to the required hardware, do I still need access to huge amounts of hardware infrastructure to be able to contribute to the fi",
+    "title_zh": "没有高性能计算资源还能进行基础性AI研究吗？[讨论]",
+    "summary_zh": "Reddit用户讨论在缺乏高性能计算集群的情况下，是否仍可能进行“Attention is all you need”级别的基础性AI研究。",
+    "key_points": [
+      "讨论缺乏HPC资源时进行基础AI研究的可能性",
+      "以Transformer论文为例，当时仅需高端游戏GPU",
+      "质疑当前AI研究是否已完全依赖大算力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d937b2eb720f921802d5fb715050ee39",
+    "title": "AI coding agents can autonomously direct robot training",
+    "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-17T19:25:19+00:00",
+    "content_snippet": "NVIDIA’s self-improvement program for robots enlists teams of AI coding agents.",
+    "title_zh": "AI编码代理可自主指导机器人训练",
+    "summary_zh": "NVIDIA开发了一个机器人自我改进程序，利用AI编码代理团队自主指导训练，提高机器人学习效率。",
+    "key_points": [
+      "NVIDIA开发AI编码代理自主指导机器人训练",
+      "程序利用多个AI代理组成的团队协作",
+      "旨在实现机器人自我改进和提高学习效率"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ef08ab1d787692408f885c783237753",
+    "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+    "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-17T19:01:19+00:00",
+    "content_snippet": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight  — a fear the Anthropic blackout just made real.",
+    "title_zh": "世界领导人想要美国AI，但不想让美国能随时关闭它",
+    "summary_zh": "在G7峰会上，法国总统马克龙和印度总理莫迪对美国可能切断AI服务表示担忧，近期Anthropic的中断事件加剧了这种恐惧。",
+    "key_points": [
+      "G7峰会上多国领导人对美国AI依赖风险表示担忧",
+      "法国和印度领导人担心美国可能单方面切断AI服务",
+      "Anthropic近期的服务中断事件使担忧变为现实"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d5206e7323a84941b147e4798ffe0f54",
+    "title": "Do you think most people are using AI more as a tool or as a replacement for thinking?",
+    "url": "https://www.reddit.com/r/artificial/comments/1u8iyrv/do_you_think_most_people_are_using_ai_more_as_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-17T18:51:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve noticed that some people use AI just to speed things up or get quick answers, while others seem to rely on it more and more for ideas, writing, decisions, and problem-solving. It made me wonder where most people actually stand. Do you think AI is mostly being used as a helpful tool, or has it started replacing a lot of people’s own thinking and creativity?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NoFilterGPT\"> /",
+    "title_zh": "你认为大多数人更多地将AI用作工具还是思考的替代品？",
+    "summary_zh": "Reddit上关于AI使用方式的讨论，引发人们思考：大众是仅将AI视为提效工具，还是越来越依赖它进行构思、写作和决策，替代了自身思考。",
+    "key_points": [
+      "部分人用AI加速获取答案，另一些人则依赖其进行创作和决策",
+      "探讨AI在人群中是作为辅助工具还是思考替代品的现状"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3adfa6d3c540306a5b2e9670078edf90",
+    "title": "What is the real cost of computing and token futures market",
+    "url": "https://www.reddit.com/r/artificial/comments/1u8iiam/what_is_the_real_cost_of_computing_and_token/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-17T18:34:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Quick context: China is designing a futures market for AI tokens, with the Shanghai Futures Exchange in early stages of designing contracts for AI tokens <a href=\"https://www.reuters.com/world/china/china-works-ai-token-futures-market-sources-say-race-with-us-2026-05-28/w\">here</a></p> <p>AI inference is becoming a real commodity cost, and nobody's hedged a commodity market that doesn't have a transparent, trusted spot price first. Oil futures didn't show up bef",
+    "title_zh": "探究计算与代币期货市场的真实成本",
+    "summary_zh": "讨论中国计划在上海期货交易所设计AI代币期货合约，引发对AI计算资源与代币期货市场真实成本的思考。",
+    "key_points": [
+      "中国正在设计AI代币期货市场，处于早期合约设计阶段",
+      "文章探讨该市场可能带来的计算成本与金融风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7d9cc80fa715c3e1423daaa7e6cbeb1d",
+    "title": "Contrastive targeted SFT as a mechinterp method - has anyone mapped causal dependency interactions this way? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1u8if6l/contrastive_targeted_sft_as_a_mechinterp_method/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-17T18:31:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi All, I've been running experiments on targeted SFT for specific capability dimensions on a 31B model. After running small training run to prime the model slightly in the direction I want, then ran a judge across 40 domains scoring six independent quality dimensions. One dimension consistently scored weakest across five runs.</p> <p>I am now training contrastive variants from the same checkpoint - examples with that dimension deep vs examples with it deliberat",
+    "title_zh": "对比性目标监督微调作为机械可解释性方法——有人用这种方式映射因果依赖互动吗？",
+    "summary_zh": "研究者在31B模型上实验，通过针对性监督微调（SFT）探索特定能力维度的因果依赖关系，用于机械可解释性分析。",
+    "key_points": [
+      "使用对比性目标SFT方法分析模型能力的因果依赖关系",
+      "在31B模型上对40个领域的6个独立质量维度进行评分实验"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1d907aaa2f0e6c751f8ab157f16956af",
+    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+    "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-17T18:30:56+00:00",
+    "content_snippet": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+    "title_zh": "Anthropic成为首个加入Frontier碳清除联盟的AI初创公司",
+    "summary_zh": "Anthropic加入Frontier碳清除联盟，该联盟已额外获得9.15亿美元资金承诺，用于资助碳清除项目。",
+    "key_points": [
+      "Anthropic是首家加入Frontier碳清除联盟的AI初创公司",
+      "Frontier联盟再获9.15亿美元承诺，以资助碳清除项目"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "df07fe6f5184d05cf44daac30f827440",
+    "title": "Anthropic got hit by export rules nobody understands",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-17T18:28:50+00:00",
+    "content_snippet": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including users inside the US and its own employees, forcing Anthropic to block access to Fable 5 and Mythos 5 for everyone. \"To my [&#8230;]",
+    "title_zh": "Anthropic遭难以理解的出口管制规则冲击",
+    "summary_zh": "特朗普政府突然下令Anthropic切断所有外国用户及员工访问权限，导致其最新模型Fable 5和Mythos 5被迫下架，公司正努力恢复服务。",
+    "key_points": [
+      "特朗普政府要求Anthropic切断所有外国用户和员工访问权限",
+      "Anthropic最新模型Fable 5和Mythos 5被迫下架，公司正全力恢复服务"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
