@@ -731,5 +731,184 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2c1987946f6e13f6352ccf0ceec9b29b",
+    "title": "支付宝：从未授权任何第三方进行内测邀请码的有偿交易",
+    "url": "https://36kr.com/newsflashes/3856668201767942?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-17T02:45:46+00:00",
+    "content_snippet": "36氪获悉，支付宝发文称，随着AI版支付宝“阿宝”启动邀请测试，公司注意到，部分网络平台出现了“AI版支付宝内测邀请码”交易商品，在此温馨提醒：支付宝从未授权任何第三方进行内测邀请码的有偿交易，阿宝邀请码无需付费购买，可通过已激活用户免费分享获得。同时，支付宝正逐步扩大阿宝的邀请测试范围，让更多用户参与体验。",
+    "title_zh": "支付宝：从未授权任何第三方进行内测邀请码的有偿交易",
+    "summary_zh": "支付宝声明AI版支付宝“阿宝”的邀请码完全免费，可通过已激活用户免费分享获得，从未授权第三方进行有偿交易。公司正逐步扩大测试范围。",
+    "key_points": [
+      "AI版支付宝“阿宝”邀请码免费，不可有偿交易",
+      "邀请码通过已激活用户免费分享获得",
+      "支付宝正逐步扩大“阿宝”的邀请测试范围"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8cc36308fba26c4e39c64d31dc057c33",
+    "title": "今年7月中国将在上海举办2026世界人工智能大会",
+    "url": "https://36kr.com/newsflashes/3856652905288960?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-17T02:30:12+00:00",
+    "content_snippet": "6月17日从国新办新闻发布会获悉，今年7月中国将在上海举办2026世界人工智能大会暨人工智能全球治理高级别会议，期待以本次大会为契机，同各方进一步加强国际人工智能合作。（新华社）",
+    "title_zh": "今年7月中国将在上海举办2026世界人工智能大会",
+    "summary_zh": "中国将于2026年7月在上海举办世界人工智能大会暨人工智能全球治理高级别会议，旨在加强国际人工智能合作。",
+    "key_points": [
+      "2026年7月在上海举办世界人工智能大会",
+      "会议包含人工智能全球治理高级别会议",
+      "旨在加强国际人工智能合作"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b536e1aadde3b99b10f3695773f4ce56",
+    "title": "中国正在加紧筹建世界人工智能合作组织",
+    "url": "https://36kr.com/newsflashes/3856646470227201?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-17T02:23:39+00:00",
+    "content_snippet": "从国新办新闻发布会获悉，中国正在加紧筹建世界人工智能合作组织，欢迎各方加入，共促智能向善。（新华社）",
+    "title_zh": "中国正在加紧筹建世界人工智能合作组织",
+    "summary_zh": "中国正加紧筹建世界人工智能合作组织，并欢迎各方加入，共同促进人工智能向善发展。",
+    "key_points": [
+      "中国正筹建世界人工智能合作组织",
+      "欢迎各方加入该组织",
+      "目标为共促智能向善"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8679b46a14acb92fc40a76a4f7320de9",
+    "title": "沐曦股份曦云C系列GPU Day 0 适配智谱GLM-5.2旗舰模型",
+    "url": "https://36kr.com/newsflashes/3856610761233669?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-06-17T01:47:20+00:00",
+    "content_snippet": "36氪获悉，6月17日，智谱AI全新旗舰大模型GLM-5.2正式开源发布。沐曦股份曦云C系列GPU率先完成该模型Day 0适配。",
+    "title_zh": "沐曦股份曦云C系列GPU Day 0 适配智谱GLM-5.2旗舰模型",
+    "summary_zh": "智谱AI发布旗舰大模型GLM-5.2，沐曦股份的曦云C系列GPU在发布当天即完成对该模型的适配。",
+    "key_points": [
+      "智谱AI发布旗舰大模型GLM-5.2",
+      "沐曦曦云C系列GPU实现Day 0适配",
+      "展示国产GPU对最新大模型的快速支持"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "zhipu"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7fa8cf5da01de1f2098993278cfaeab2",
+    "title": "WorkBuddy即将上线湾擎中枢",
+    "url": "https://36kr.com/newsflashes/3856607706535177?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-17T01:44:13+00:00",
+    "content_snippet": "36氪获悉，6月16日，全国首个省级政务智能中枢平台湾擎宣布上线试运行，WorkBuddy作为核心智能办公组件之一，也宣布即将上线湾擎中枢，面向广东省政务系统提供效率办公新标配。WorkBuddy是腾讯自主研发的AI办公智能体。自3月上线以来，WorkBuddy已经成为日活跃用户最多的效率AI智能体工具。",
+    "title_zh": "WorkBuddy即将上线湾擎中枢",
+    "summary_zh": "腾讯的AI办公智能体WorkBuddy将作为核心组件上线广东省政务智能中枢平台“湾擎”，该平台已试运行，WorkBuddy日活跃用户领先。",
+    "key_points": [
+      "腾讯AI办公智能体WorkBuddy将上线政务平台",
+      "湾擎为全国首个省级政务智能中枢平台",
+      "WorkBuddy已成为日活跃用户最多的效率AI工具"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e75257b079d01dd2ebaddc4dd389463f",
+    "title": "VITURE发布全球首款支持英伟达XR AI的工业级AI眼镜Helix",
+    "url": "https://36kr.com/newsflashes/3856595600233733?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-17T01:31:55+00:00",
+    "content_snippet": "36氪获悉， XR眼镜品牌VITURE在世界增强现实博览会（Augmented World Expo / AWE 2026）上正式发布VITURE Helix。作为全球首款支持英伟达XR AI平台的工业级AI眼镜，VITURE Helix AI眼镜可应用于科研、医疗等工业企业级场景。该产品可将佩戴者的第一视角画面实时传输至多模态AI，从而在企业工作流中实现AI实时指导、合规管理与全链路流程溯源等一体化解决方案。",
+    "title_zh": "VITURE发布全球首款支持英伟达XR AI的工业级AI眼镜Helix",
+    "summary_zh": "VITURE在AWE 2026上发布Helix工业级AI眼镜，为首款支持英伟达XR AI平台的产品，可应用于科研、医疗等场景，实现AI实时指导。",
+    "key_points": [
+      "全球首款支持英伟达XR AI平台的工业级AI眼镜",
+      "应用于科研、医疗等工业企业级场景",
+      "可实现AI实时指导与全链路流程溯源"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fa915e9eac38414cf3eb62c6f4105651",
+    "title": "8点1氪丨连涨3天，SpaceX超越亚马逊跻身全球前五；支付宝启动史上最大改版；微信支付“AI专属卡”最快本周内上线",
+    "url": "https://36kr.com/p/3856525981275138?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-17T00:22:06+00:00",
+    "content_snippet": "<h2>今日热点导览</h2>\n  <ul>\n   <li>山姆中国变更董事长</li>\n   <li>海康威视7月1日上调硬盘价</li>\n   <li>5月份全球纯电和插电式混动汽车销量连续三个月增长</li>\n   <li>美国零售经纪商处的SpaceX投资者每人至少分得一股IPO股票</li>\n   <li>传苹果首款折叠屏将延期发布，产业链人士：假的</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>连涨3天，SpaceX超越亚马逊跻身全球前五</strong></p>\n  <p>6月16日，SpaceX开盘迅速拉升，涨幅一度扩大至17%，市值一度超越微软，盘中总市值触及2.94万亿美元，跃居世界第四大市值公司，而第三名的苹果市值为4.37万亿美元。截至收盘，SpaceX股价收涨4.8%，市值达到2.65万亿美元，较亚马逊高出约80亿美元。上市以来，SpaceX已累计飙升49%。这家刚刚完成轰动性IPO的公司，在上市第三天就超越了亚马逊，成为全球市值第五大上市公司。</p>\n  <p>据《福布斯》最新发布的全球富豪榜，特斯拉与Spa",
+    "title_zh": "8点1氪丨连涨3天，SpaceX超越亚马逊跻身全球前五；支付宝启动史上最大改版；微信支付“AI专属卡”最快本周内上线",
+    "summary_zh": "综合新闻摘要，包含SpaceX股价连涨超越亚马逊、支付宝启动史上最大改版、微信支付将上线“AI专属卡”等热点。",
+    "key_points": [
+      "SpaceX股价连涨3天，超越亚马逊跻身全球前五",
+      "支付宝启动史上最大改版",
+      "微信支付“AI专属卡”最快本周内上线"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba",
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
