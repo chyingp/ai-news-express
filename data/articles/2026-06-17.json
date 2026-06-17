@@ -364,5 +364,372 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0080d608384ed5aa3995a6eb01f2f31f",
+    "title": "竞争加剧+成本下降，Token迎降价潮",
+    "url": "https://36kr.com/newsflashes/3856507024872706?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-17T00:12:44+00:00",
+    "content_snippet": "今年以来一路走高的Token（词元）价格迎来反转。进入6月，全球多家大模型厂商开始重新调整Token价格，包括OpenAI在内，多家大厂先后被曝将下调Token价格，以回应企业用户对AI成本暴涨的不满。然而，相较此前声势浩大的推广潮，此次Token价格下调更像是行业新一轮残酷竞赛的序幕。多位市场人士分析称，随着OpenAI及Anthropic等一批头部AI厂商陆续推进IPO，市场对AI公司的估值模型正在调整，能否用更低成本持续获取更多用户，成为每家公司必须面对的考验。（上证报）",
+    "title_zh": "竞争加剧+成本下降，Token迎降价潮",
+    "summary_zh": "全球多家大模型厂商开始下调Token价格，以回应企业用户对AI成本暴涨的不满，此举被视为行业新一轮残酷竞赛的序幕，旨在以更低成本获取用户。",
+    "key_points": [
+      "OpenAI等厂商被曝将下调Token价格，应对成本不满",
+      "降价潮实为行业获客竞赛，因AI公司估值模型调整"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "52b210c023e9bc554fd69f66d9a73309",
+    "title": "多家公司披露MLCC业务进展",
+    "url": "https://36kr.com/newsflashes/3856498681746440?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-17T00:11:12+00:00",
+    "content_snippet": "AI算力与新能源双轮驱动下，多层陶瓷电容器（MLCC）行业正经历新一轮供需紧张。6月16日晚间，宏明电子、斯迪克、信维通信等公司相继披露MLCC业务进展。银河证券最新发布的电子行业中期策略称，AI服务器和新能源车正在拉动MLCC需求高速增长，国产替代空间广阔。（证券时报）",
+    "title_zh": "多家公司披露MLCC业务进展",
+    "summary_zh": "在AI算力与新能源车双轮驱动下，多层陶瓷电容器行业供需紧张，宏明电子、斯迪克等公司相继披露业务进展，国产替代空间广阔。",
+    "key_points": [
+      "AI服务器和新能源车拉动MLCC需求高速增长",
+      "宏明电子、信维通信等公司披露MLCC业务最新进展"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "07493bae129c54328b12f7858a30c52a",
+    "title": "诺基亚将大幅扩建美国宾州先进测试与封装工厂",
+    "url": "https://36kr.com/newsflashes/3856496854078468?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-17T00:06:21+00:00",
+    "content_snippet": "当地时间6月16日，诺基亚宣布大幅扩建位于美国宾夕法尼亚州的半导体先进测试和封装工厂，以促进人工智能业务增长。这是诺基亚在美投资40亿美元用于研发和制造计划的一部分。声明称，此次扩建预计将使诺基亚在宾夕法尼亚州的员工人数几乎翻番，达到500多人，涵盖工程、制造和研发领域，并在未来五年内带来超5亿美元经济效益。（界面）",
+    "title_zh": "诺基亚将大幅扩建美国宾州先进测试与封装工厂",
+    "summary_zh": "诺基亚宣布大幅扩建其位于宾夕法尼亚州的半导体先进测试与封装工厂，以促进AI业务增长，预计将使当地员工人数翻番并带来超5亿美元经济效益。",
+    "key_points": [
+      "扩建美国工厂以促进AI业务增长，为40亿美元在美投资一部分",
+      "预计员工数翻番至500多人，五年内带来超5亿美元经济效益"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fc3be60af8c391096f1f930c267c7915",
+    "title": "中信建投：AI+无人机驱动光纤产业链，材料端有望享受量价齐升大趋势",
+    "url": "https://36kr.com/newsflashes/3856492861658121?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-17T00:01:19+00:00",
+    "content_snippet": "36氪获悉，中信建投研报称，AI大模型训练推动数据中心网络架构从传统的三层汇聚转向全互联的叶脊架构，数据流量由南北向访问转为GPU集群内部的东西向互联。为了满足无阻塞、低时延的通信需求，单机架或单GPU的光纤消耗量快速增长。此外，无人机的快速扩容也使得光纤成为耗材.AI+无人机需求驱动下，上游光纤材料四氯化硅、有机硅D4、光纤涂料、对位芳纶等产品有望迎来量价齐升大趋势。",
+    "title_zh": "中信建投：AI+无人机驱动光纤产业链，材料端有望量价齐升",
+    "summary_zh": "中信建投研报指出，AI大模型训练和无人机快速扩容驱动光纤需求增长，上游光纤材料如四氯化硅、有机硅D4等有望迎来量价齐升趋势。",
+    "key_points": [
+      "AI训练推动数据中心网络架构变革，光纤消耗量快速增长",
+      "AI与无人机需求驱动上游光纤材料量价齐升"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6c58124af926f7c571882f8856277c05",
+    "title": "外资看好中国硬科技资产",
+    "url": "https://36kr.com/newsflashes/3856492382753794?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-16T23:59:51+00:00",
+    "content_snippet": "2026年以来，多重因素持续扰动全球市场，各类资产波动加大。在此背景下，高盛、贝莱德、宏利投资等多家头部外资机构近期密集发声，从权益、固收、房地产等多维度重新评估中国资产。依托经济韧性和独立性、灵活自主的政策调控空间与完整的产业链优势，中国资产的安全溢价获外资机构认可。贝莱德基金权益、多资产及指数首席投资官王晓京在接受记者采访时表示，目前，A股大盘股估值处于合理低位，相比美股具备性价比优势，在低利率环境下，其稳定现金流价值突出。综合来看，考虑到中国资产安全性、AI全产业链竞争力等优势，A股长期投资价值值得期待。 （证券日报）",
+    "title_zh": "外资看好中国硬科技资产",
+    "summary_zh": "高盛、贝莱德等多家头部外资机构密集发声，重新评估中国资产价值，认可其经济韧性、AI全产业链竞争力及安全溢价，看好A股长期投资价值。",
+    "key_points": [
+      "外资认可中国资产安全溢价及AI全产业链竞争力",
+      "贝莱德认为A股大盘股估值合理低位，具性价比优势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9b938f4c8116085d0420112660b599ed",
+    "title": "Anthropic just published data from 400k Claude Code sessions, and the headline buries the real story: your CS degree is becoming optional",
+    "url": "https://www.reddit.com/r/artificial/comments/1u7u9ju/anthropic_just_published_data_from_400k_claude/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-16T23:52:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Anthropric released a research paper today analyzing ~400,000 Claude Code sessions. The findings are wild and I haven’t seen anyone talk about the uncomfortable implications.</p> <p>What they actually found:<br /> -Lawyers, accountants, and managers succeed at coding tasks within 7 percentage points of actual software engineers</p> <p>-Management occupations had the HIGHEST verified success rate. Higher than software engineers.</p> <p>-The gap between experts an",
+    "title_zh": "Anthropic发布40万Claude Code会话数据：计算机科学学位正变得可有可无",
+    "summary_zh": "Anthropic发布研究论文，分析约40万次Claude Code会话，发现律师、会计师和管理者等非专业背景人士也能成功编程，暗示编程门槛正在降低。",
+    "key_points": [
+      "Anthropic分析40万次编码会话，揭示编程大众化趋势",
+      "律师、会计等非专业人士借助AI成功完成编程任务"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "77d528545b46b322350b94108dd62210",
+    "title": "汇丰与谷歌云达成人工智能合作",
+    "url": "https://36kr.com/newsflashes/3856488763053320?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-16T23:52:10+00:00",
+    "content_snippet": "汇丰控股周三宣布与Alphabet旗下的谷歌云达成一项多年合作协议，旨在提升这家英国银行巨头的人工智能能力。此次合作标志着汇丰首席执行官艾桥智（Georges Elhedery）推动利用人工智能创造收入和降低成本的最新举措。人工智能能够处理海量数据，并自动完成以往由人工完成的任务。（新浪财经）",
+    "title_zh": "汇丰与谷歌云达成人工智能合作",
+    "summary_zh": "汇丰控股与谷歌云达成多年合作协议，旨在利用人工智能技术处理海量数据以提升效率、创造收入并降低成本，是其CEO推动AI战略的最新举措。",
+    "key_points": [
+      "汇丰与谷歌云合作，以AI提升收入并降低成本",
+      "合作是CEO艾桥智推动利用AI创收计划的一部分"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "445eed24a268356ddee09d15b1d15f69",
+    "title": "Petition To Change Youtube",
+    "url": "https://www.reddit.com/r/artificial/comments/1u7u35e/petition_to_change_youtube/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-16T23:44:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://c.org/FRv5p4P4qG\">https://c.org/FRv5p4P4qG</a></p> <p>I started a petition to change Youtube. In the petition I detail the issues of non-communication and reliance on automated systems, the far-reaching effects, and the solutions I hope will be implemented.</p> <p>But that'll only happen if we make enough noise.</p> <p>If you have channels you value, help protect them by signing. Youtube has shown that it's only when people make a ruckus that th",
+    "title_zh": "要求改变YouTube的请愿",
+    "summary_zh": "Reddit用户发起请愿，详述YouTube存在沟通不畅、过度依赖自动化系统等问题，并提出希望平台实施的解决方案。",
+    "key_points": [
+      "用户请愿指出YouTube存在沟通不畅和自动化系统问题",
+      "请愿提出了希望YouTube实施的解决方案"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d9b34504b023bf5061c02cfeb66fc9b6",
+    "title": "OpenAI2026年前三个月烧钱37亿美元",
+    "url": "https://36kr.com/newsflashes/3856482732823555?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-06-16T23:43:58+00:00",
+    "content_snippet": "OpenAI向股东披露的文件显示，公司一季度现金消耗达37亿美元，超过其57亿美元营收的半数。现金消耗与营收规模均同比增长两倍，这表明即便人工智能市场需求旺盛，依靠AI业务实现盈利依旧困难重重。当季度末，公司持有现金及有价证券超730亿美元，去年12月末该数值仅为400亿美元，这一变化源于公司三月底完成的巨额融资。若后续现金消耗规模维持一季度水平，OpenAI短期内无需新一轮融资，或将缓解其仓促推进上市的压力。不过，现金消耗金额可能每季度出现波动。据报道，该公司此前预测今年现金消耗250亿美元，明年消耗570亿美元。（新浪财经）",
+    "title_zh": "OpenAI2026年前三个月烧钱37亿美元",
+    "summary_zh": "OpenAI一季度现金消耗达37亿美元，超营收半数，但期末持现超730亿美元，短期内无需融资，缓解了仓促上市压力。",
+    "key_points": [
+      "OpenAI一季度烧钱37亿美元，总现金储备超730亿美元",
+      "巨额融资后现金充足，短期内无新增融资压力"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "73f2de4f48c21b18a08f4ddeb8b99319",
+    "title": "苹果拟明年推出带摄像头的AirPods和新一代折叠屏iPhone",
+    "url": "https://36kr.com/newsflashes/3856478001091593?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-16T23:41:10+00:00",
+    "content_snippet": "据报道，苹果公司计划明年年底推出配备摄像头的耳机AirPods，在此之前将发布下一代折叠屏手机以及一款纪念iPhone问世20周年的新机型。知情人士称，这将是苹果迄今力度最大的新品发布。过去数月，这三款产品均已进入开发后期阶段。（界面）",
+    "title_zh": "苹果拟明年推出带摄像头的AirPods和新一代折叠屏iPhone",
+    "summary_zh": "苹果计划明年年底发布配备摄像头的AirPods、新一代折叠屏手机及20周年纪念版iPhone，三款产品均处于开发后期，为迄今力度最大的新品发布。",
+    "key_points": [
+      "苹果将推出带摄像头AirPods、折叠屏iPhone和20周年纪念机型",
+      "三款新品均已进入开发后期，为苹果迄今力度最大发布"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fe355e1cac97386089e10977ae4deafd",
+    "title": "Your company is probably spending more on coffee than AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1u7ta74/your_company_is_probably_spending_more_on_coffee/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-16T23:09:40+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1u7ta74/your_company_is_probably_spending_more_on_coffee/\"> <img alt=\"Your company is probably spending more on coffee than AI\" src=\"https://preview.redd.it/93zn3tly7q7h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bcd963eee97e6939b857041ca20df562b6c2c51a\" title=\"Your company is probably spending more on coffee than AI\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Substantial-Owl9540\"> ",
+    "title_zh": "你的公司在咖啡上的花费可能比人工智能还多",
+    "summary_zh": "一篇Reddit帖子指出，许多企业日常在员工咖啡上的支出竟然超过了在人工智能方面的投入，讽刺了企业对AI应用的低预算现状。",
+    "key_points": [
+      "企业咖啡支出可能超过AI投入，反映资源错配",
+      "以讽刺方式揭示企业AI应用预算不足的问题",
+      "引发关于企业技术投资优先级的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e56087ba39e543ad5ac76b40c68e0f3c",
+    "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+    "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-16T22:30:41+00:00",
+    "content_snippet": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices. &#160;",
+    "title_zh": "解放双手，AI先行：英伟达XR AI将智能体引入AR眼镜",
+    "summary_zh": "英伟达发布XR AI公开测试版，为开发者提供构建AR眼镜与XR设备多模态AI智能体的框架，推动沉浸式AI交互体验。",
+    "key_points": [
+      "英伟达推出XR AI公开测试版，赋能AR/XR设备",
+      "框架支持构建多模态AI智能体，实现免提交互",
+      "该技术有望加速增强现实领域AI应用的落地"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "59820c51816bba4838c96802ae1b6e83",
+    "title": "Update: DeepSeek AI and the Great Talent Competition",
+    "url": "https://www.reddit.com/r/artificial/comments/1u7s8ze/update_deepseek_ai_and_the_great_talent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-16T22:26:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1u7s8ze/update_deepseek_ai_and_the_great_talent/\"> <img alt=\"Update: DeepSeek AI and the Great Talent Competition\" src=\"https://external-preview.redd.it/BwzFlTK1qCyvrSPQZH_iTdJSgaGYNyQAIvokJvm1d5k.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b2138a0b4e0d91cc2baf4ac467efd4e7a218185a\" title=\"Update: DeepSeek AI and the Great Talent Competition\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user",
+    "title_zh": "最新动态：DeepSeek AI与激烈的人才争夺战",
+    "summary_zh": "Reddit讨论关注DeepSeek AI引发的人才竞争，分析该公司在争夺顶尖AI人才方面的最新动作和行业影响。",
+    "key_points": [
+      "DeepSeek AI加剧了人工智能行业的顶尖人才竞争",
+      "讨论分析了DeepSeek在招聘方面的策略与动态",
+      "反映了中国AI公司对全球人才市场的影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dafe6e506b30bb9b9c55db2660661603",
+    "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+    "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-16T22:22:44+00:00",
+    "content_snippet": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
+    "title_zh": "特朗普政府试图阻止针对xAI燃气轮机的清洁空气法案诉讼",
+    "summary_zh": "Ars Technica报道，特朗普政府介入帮助xAI应对污染诉讼，称军方需要Grok参与战争，因而阻止了未获许可使用燃气轮机的环保指控。",
+    "key_points": [
+      "xAI因数据中心燃气轮机未获许可被NAACP起诉",
+      "特朗普政府以军事需求为由试图阻止环保诉讼",
+      "事件将AI基础设施扩张与环保和政治议题交织"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2e60a48fb1533afd4d762cf1cab65f68",
+    "title": "What are the best AI tools for interactive storytelling?",
+    "url": "https://www.reddit.com/r/artificial/comments/1u7rvr6/what_are_the_best_ai_tools_for_interactive/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-16T22:11:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been researching AI tools that can create interactive stories based on user input.</p> <p>I'm not looking for traditional RPG mechanics or complex game systems. What interests me is the storytelling side. I'd like to start with a character, world, or premise and have the AI build and adapt the narrative based on my choices.</p> <p>The biggest things I case about are story quality, character consistency, memory, and how well the experience holds up over long",
+    "title_zh": "用于互动叙事的最佳人工智能工具有哪些？",
+    "summary_zh": "Reddit用户寻求基于输入创建互动故事的AI工具，专注于角色、世界或前提驱动的叙事体验，而非传统RPG机制或复杂游戏系统。",
+    "key_points": [
+      "用户寻找专注故事生成而非游戏机制的AI叙事工具",
+      "需求侧重从角色或世界设定开始展开互动故事",
+      "引发关于AI在创意写作领域应用的社区讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
