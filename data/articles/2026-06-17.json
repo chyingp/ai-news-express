@@ -2257,5 +2257,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "44a4a592bcaa38faadd80ff265e631d2",
+    "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+    "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-06-17T15:00:00+00:00",
+    "content_snippet": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+    "title_zh": "收集机器人训练数据是脏活累活，一些AI实验室已开始付费外包",
+    "summary_zh": "机器人训练数据收集工作枯燥且不受重视，但它对物理AI的发展至关重要。为获取足够的高质量数据，一些AI实验室已开始向XDOF等平台付费，将数据采集任务外包给普通用户，以解决数据瓶颈问题。",
+    "key_points": [
+      "物理AI发展面临训练数据严重不足的瓶颈",
+      "部分AI实验室通过付费众包平台收集机器人训练数据",
+      "数据采集工作枯燥繁重，正成为新兴的外包产业"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
