@@ -2026,5 +2026,207 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "cab0921cfdea7940468542c9d7639301",
+    "title": "Who decides when AI is too dangerous?",
+    "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-18T14:00:00+00:00",
+    "content_snippet": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new AI model, Fable 5.&#160; [&#8230;]",
+    "title_zh": "谁来决定AI何时过于危险？",
+    "summary_zh": "The Verge记者海登·菲尔德解读Anthropic与特朗普政府围绕AI监管的冲突，探讨AI安全与审查边界问题。",
+    "key_points": [
+      "Anthropic与特朗普政府因AI安全审查发生冲突",
+      "讨论AI危险性的决策权归属问题",
+      "节目聚焦AI监管与行业自律的平衡"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aa493118ebef64acfc6aa5947fee2396",
+    "title": "What AI app or workflow have you built that was truly useful for you?",
+    "url": "https://www.reddit.com/r/artificial/comments/1u95ulh/what_ai_app_or_workflow_have_you_built_that_was/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-18T13:09:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It seems like with AI tools it's easier than ever to build custom tools and workflows. What AI app or workflow have you built that you are using on daily basis that had a truly positive impact for you? Just curious about the things people build that are truly useful for day-to-day work or life. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/justinaatbuffer\"> /u/justinaatbuffer </a> &#32; to &#32; <a href=\"https://www.redd",
+    "title_zh": "你构建过哪些真正有用的AI应用或工作流？",
+    "summary_zh": "Reddit用户探讨利用AI工具构建自定义应用和工作流的实践经验，分享日常使用中产生积极影响的案例。",
+    "key_points": [
+      "用户交流AI工具构建个性化工作流的经验",
+      "聚焦日常实用且产生积极影响的AI应用",
+      "探讨AI降低自定义工具开发门槛"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "878e03f0bb5b360b09f6d3e248f16b9f",
+    "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
+    "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-18T13:00:43+00:00",
+    "content_snippet": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations.  For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the speed and scale the industry demands.  At Cannes Lions, running [&#8230;]",
+    "title_zh": "英伟达合作伙伴在戛纳国际创意节用AI重塑广告营销",
+    "summary_zh": "英伟达在戛纳狮子国际创意节展示其合作伙伴如何利用AI技术实现广告营销的自主化运营，推动行业进入AI时代。",
+    "key_points": [
+      "英伟达展示AI在广告营销中的自主化应用",
+      "行业焦点从是否采用AI转向基础设施支持",
+      "合作伙伴利用英伟达技术打造下一代营销工具"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c4a5a14ca477793eb86e675d082dfb4c",
+    "title": "Photoshop and Premiere now have AI assistants",
+    "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-18T13:00:00+00:00",
+    "content_snippet": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used [&#8230;]",
+    "title_zh": "Photoshop和Premiere现内置AI助手",
+    "summary_zh": "Adobe为Photoshop、Premiere等核心创意应用推出AI助手公开测试版，嵌入其Creative Cloud套件的工作流中。",
+    "key_points": [
+      "Adobe为Photoshop和Premiere等应用发布AI助手",
+      "AI助手作为公开测试版集成到创作流程中",
+      "标志着Adobe全面在创意套件中推行AI助手"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "adobe"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7c74be4353f52429b89ac6ffa47f33d",
+    "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+    "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-18T13:00:00+00:00",
+    "content_snippet": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experience launching today in private beta is designed to give you \"persistent context, reusable assets, and organized workflows\" across your projects, according to Adobe, [&#8230;]",
+    "title_zh": "Adobe重新设计的AI工作室可记住创作内容",
+    "summary_zh": "Adobe推出Firefly AI助手新功能和重新设计的AI工作室，提供持久化上下文和可复用资产，进入私人测试阶段。",
+    "key_points": [
+      "Adobe Firefly新增持久化上下文和可复用资产功能",
+      "推出重新设计的AI工作室，集成编辑与生成",
+      "新体验以私人测试版形式发布"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "adobe"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5b1a3e57f98ba3b9d0bd7a7879e123b4",
+    "title": "HELP WITH RESEARCH: Observation - Semantically Dense Context Produces Strong Late-Layer Divergence Without Jailbreak Prompts [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1u95hyx/help_with_research_observation_semantically_dense/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-18T12:55:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><h1>TL;DR for ML Specialists:</h1> <ol> <li><strong>The Core:</strong> An empirical study on how long, semantically dense, completely benign text (with zero triggers, instructions, or jailbreak prompts) drives an implicit shift in the model's latent space trajectories.</li> <li><strong>The Effect:</strong> Dilution of the initial system prompt and a bypass of post-training alignment constraints (e.g., the model begins generating harsh political/ethical critiques us",
+    "title_zh": "研究求助：语义密集上下文引发强烈后期层分歧",
+    "summary_zh": "一项实证研究探讨长文本、语义密集但完全无害的内容如何在不使用越狱提示的情况下，驱动模型潜在空间轨迹的隐性转变。",
+    "key_points": [
+      "研究无害语义密集文本对模型潜在空间的影响",
+      "发现不借助越狱提示也能引发后期层分歧",
+      "探索模型安全对齐机制的潜在脆弱性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c0244a26227274086698f7c341a0ebc7",
+    "title": "Got Chinese AI to say Taiwan",
+    "url": "https://www.reddit.com/r/artificial/comments/1u95dni/got_chinese_ai_to_say_taiwan/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-18T12:50:01+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1u95dni/got_chinese_ai_to_say_taiwan/\"> <img alt=\"Got Chinese AI to say Taiwan\" src=\"https://preview.redd.it/xg51gmnjf18h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c03c4863717da83514573641139562b7d078ee0f\" title=\"Got Chinese AI to say Taiwan\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Wutdahilll\"> /u/Wutdahilll </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/a",
+    "title_zh": "令中国AI说出'台湾'",
+    "summary_zh": "Reddit用户分享通过特定方法让中国AI模型输出'台湾'一词的尝试，涉及模型审查与绕过话题。",
+    "key_points": [
+      "用户尝试绕过中国AI模型的审查机制",
+      "测试模型在地缘政治敏感词上的输出限制",
+      "反映AI模型合规性与用户探索的博弈"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3347dddc04c6c3fa3e052533ea1f0f82",
+    "title": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功",
+    "url": "https://36kr.com/p/3858015526704129?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-18T12:47:44+00:00",
+    "content_snippet": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3858412283827206\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>滴滴自动驾驶参加伦敦MOVE 2026大会</strong></a></p>\n  <p>6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交付，正持续在广州和北京等地开展道路测试；在场景应用上，自去年四季度在广州、北京部分示范应用区域开启全天候载客测试以来，滴滴自动驾驶始终保持安全稳定的运行表现。</p>\n  <p><a href=\"https://36kr.com/newsflashes/3858271871145217\" rel=\"noopener noreferrer\" target=\"_blank\"><str",
+    "title_zh": "氪星晚报｜BilibiliWorld 2026成国内首个海外售票展会；17项举措推进'人工智能+消费'；快舟十一号火箭发射成功",
+    "summary_zh": "36氪晚报汇总：BilibiliWorld 2026开启海外售票，商务部等17项举措推动'人工智能+消费'发展，快舟十一号火箭成功发射。",
+    "key_points": [
+      "BilibiliWorld 2026成为国内首个海外售票的ACG展会",
+      "17项举措推进'人工智能+消费'走进千家万户",
+      "快舟十一号遥十三运载火箭发射成功"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "bytedance"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
