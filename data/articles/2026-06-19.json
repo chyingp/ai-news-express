@@ -568,5 +568,278 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e3ca749a7529c9563fdefbfab1f11f16",
+    "title": "Fearless Concurrency on the GPU: Safe GPU inference in Rust, competitive with vLLM/SGLang [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1u9j7md/fearless_concurrency_on_the_gpu_safe_gpu/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-18T21:36:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I maintain cuTile Rust and just posted the paper &quot;Fearless Concurrency on the GPU.&quot; </p> <p>As more GPU code gets AI-generated, the bottleneck moves from writing it to trusting it. cuTile Rust lets you write or generate GPU kernels whose memory safety and data-race freedom are verified by the compiler, through Rust's ownership and borrow checking. You get those guarantees by construction. It's a tile-based programming model that lowers to CUDA Tile IR,",
+    "title_zh": "GPU 上的无畏并发：Rust 实现安全 GPU 推理，性能媲美 vLLM/SGLang",
+    "summary_zh": "一篇 Reddit 帖子介绍了 cuTile Rust 项目及相关论文，展示用 Rust 编写 GPU 内核，在保证内存安全的同时实现与主流框架 vLLM 和 SGLang 相当的推理性能。",
+    "key_points": [
+      "cuTile Rust 用 Rust 语言编写安全 GPU 内核",
+      "性能可与 vLLM 和 SGLang 等主流推理框架竞争",
+      "旨在解决 AI 生成 GPU 代码的信任瓶颈"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "604e6465ab62f8103a7ee5bef9eda1bd",
+    "title": "the reasoning paradigm unlocking medical progress for humanity",
+    "url": "https://nitter.net/gdb/status/2067722188027994275#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-18T21:32:40+00:00",
+    "content_snippet": "<p>the reasoning paradigm unlocking medical progress for humanity</p>\n<hr />\n<blockquote>\n<b>Noam Brown (@polynoamial)</b>\n<p>\n<p>When we announced <a href=\"https://nitter.net/OpenAI\" title=\"OpenAI\">@OpenAI</a> o1 some researchers from other labs told me we made a strategic mistake and should have kept it secret so we could accelerate ourselves and pull farther ahead of the competition. Studies like these make me confident we made the right choice.</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nit",
+    "title_zh": "推理范式正在解锁人类医学进步",
+    "summary_zh": "Greg Brockman 转发 Noam Brown 的推文，强调推理范式对医学进步的重要性，并提及 OpenAI o1 模型的发布虽遭其他实验室质疑，但被视为正确方向。",
+    "key_points": [
+      "OpenAI 高管强调推理范式（如 o1 模型）对医学进步的推动作用",
+      "Noam Brown 透露 o1 发布时曾遭其他实验室质疑",
+      "文章暗示推理能力是 AI 在医疗等领域突破的关键"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c7f03eb380cc18bdb5a7ff229e6e0026",
+    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega round",
+    "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-18T21:20:13+00:00",
+    "content_snippet": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+    "title_zh": "AI 推理初创公司 Baseten 据报在上轮巨额融资数月后再次筹集 15 亿美元",
+    "summary_zh": "TechCrunch 报道，AI 推理服务初创公司 Baseten 正接近完成一轮 15 亿美元的融资，估值达 130 亿美元，反映推理市场的火热。",
+    "key_points": [
+      "Baseten 正以 130 亿美元估值完成 15 亿美元新融资",
+      "距上一轮巨额融资仅数月，显示 AI 推理需求激增",
+      "标志着“推理淘金热”仍在持续"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e089c11f8ceb3075a94e4a68ab68ae95",
+    "title": "Bernie Sanders wants to give every American $1000 a year from AI profits and the reasoning actually makes sense",
+    "url": "https://www.reddit.com/r/artificial/comments/1u9ifn2/bernie_sanders_wants_to_give_every_american_1000/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-18T21:05:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Saw this on Gizmodo today and it's been stuck in my head</p> <p>The argument is simple. AI learned from everyone's writing, art, code, conversations and companies are now worth trillions because of that. so why is none of it coming back to the people whose work built it</p> <p>The bill would create a $7 trillion fund, give the public a 50% stake in the biggest AI labs, $1000 a year per person to start, goes up as AI makes more</p> <p>Every time i use chatgpt i t",
+    "title_zh": "伯尼·桑德斯提议用 AI 利润每年给每个美国人发 1000 美元",
+    "summary_zh": "Reddit 讨论 Gizmodo 文章，介绍桑德斯的提议：AI 从大众数据中学习获利，公司市值飙升，应从中抽取利润回馈民众，每人每年 1000 美元。",
+    "key_points": [
+      "桑德斯主张 AI 公司应回馈其训练数据来源的公众",
+      "提议每年向每位美国人发放 1000 美元 AI 红利",
+      "基于 AI 公司利用公共数据获取巨额利润的前提"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2f772b8cf1266b8891f01530617b24a9",
+    "title": "Is there an equivalent to Sora now that it's been taken down?",
+    "url": "https://www.reddit.com/r/artificial/comments/1u9hxsm/is_there_an_equivalent_to_sora_now_that_its_been/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-18T20:46:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am looking for a free app, similar to Sora, that will allow me to generate AI videos for free. No credits no daily system, nothing except the limits like Sora. If there isn't, what is the cheapest good option? Preferably something that operates on Sora. But I really like creating AI backrooms videos because the uncanny-ness of AI is really good at replicating the feel of them.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/us",
+    "title_zh": "Sora 下架后，有没有替代品？",
+    "summary_zh": "Reddit 用户询问在 OpenAI 的 Sora 视频生成服务下架后，是否有免费且无使用限制的类似 AI 视频生成工具，或最便宜的替代方案。",
+    "key_points": [
+      "用户寻求 Sora 下架后的免费 AI 视频生成替代品",
+      "要求无积分或每日限制，类似 Sora 的开放体验",
+      "如无免费选项，则寻求最便宜的选择"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8fd795d8c6daa411fa9513867b681a5d",
+    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+    "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-18T20:30:00+00:00",
+    "content_snippet": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be comprised of current Snap staff who are leaving the social media company to focus on AI video development.",
+    "title_zh": "因成本问题，Snap 将 AI 视频团队剥离成立新公司 Dotmo",
+    "summary_zh": "TechCrunch 报道，Snapchat 母公司 Snap 因成本原因，将其内部 AI 视频开发团队剥离，成立独立新公司 Dotmo，专注于 AI 视频开发。",
+    "key_points": [
+      "Snap 将 AI 视频团队剥离为独立公司 Dotmo",
+      "剥离主因是 AI 视频开发的高昂成本",
+      "Dotmo 团队由原 Snap 员工组成"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "67caa3e37b87d0dfd8d09d32e6b342a5",
+    "title": "Your thoughtful reflection is so inspiring and encouraging @smallfly ! As everyone talks about AI and automation, human creativity, story telling and productivity are even more important and essential to our society. @theworldlabs is founded on the premise of empowering human ingenuity and productivity. We are very grateful to be able to work with people like you! 🙏🌐",
+    "url": "https://nitter.net/drfeifei/status/2067701705827848521#m",
+    "source": "Fei-Fei Li (X)",
+    "source_zh": "李飞飞 Fei-Fei Li",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-18T20:11:17+00:00",
+    "content_snippet": "<p>Your thoughtful reflection is so inspiring and encouraging <a href=\"https://nitter.net/smallfly\" title=\"Hugues Bruyère\">@smallfly</a> ! As everyone talks about AI and automation, human creativity, story telling and productivity are even more important and essential to our society. <a href=\"https://nitter.net/theworldlabs\" title=\"World Labs\">@theworldlabs</a> is founded on the premise of empowering human ingenuity and productivity. We are very grateful to be able to work with people like you! ",
+    "title_zh": "李飞飞：在 AI 和自动化时代，人类创造力与生产力更加重要",
+    "summary_zh": "李飞飞在 X 上回复网友，强调在 AI 和自动化讨论中，人类创造力、讲故事和生产力仍是社会核心，并称其公司 World Labs 的使命正是赋能人类智慧。",
+    "key_points": [
+      "李飞飞强调人类创造力在 AI 时代的重要性",
+      "指出其公司 World Labs 的使命是赋能人类智慧与生产力",
+      "回应社会对 AI 与自动化取代人类的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ea88bfabc5b314a49ac76012a4fea729",
+    "title": "you can now teach Codex by demonstration:",
+    "url": "https://nitter.net/gdb/status/2067700691062464887#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-18T20:07:15+00:00",
+    "content_snippet": "<p>you can now teach Codex by demonstration:</p>\n<hr />\n<blockquote>\n<b>OpenAI Developers (@OpenAIDevs)</b>\n<p>\n<p>Show Codex a workflow once. Reuse it as a skill.<br />\n<br />\nRecord &amp; Replay lets you show Codex a recurring task, like filing an expense report or submitting a time-off request.<br />\n<br />\nCodex turns that demo into an inspectable, editable skill.<br />\n<br />\nYou control when recording starts and stops.</p>\n<a href=\"https://nitter.net/OpenAIDevs/status/2067681320281723113#m",
+    "title_zh": "你现在可以通过演示来教 Codex 了",
+    "summary_zh": "Greg Brockman 宣布 OpenAI 的 Codex 新增“录制与回放”功能，用户可通过演示一次工作流程，将其保存为可复用的技能，用于处理重复性任务。",
+    "key_points": [
+      "OpenAI Codex 新增通过演示教学的功能",
+      "用户可录制工作流程，将其转化为可复用技能",
+      "适用于报销、休假申请等重复性任务"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fdfac61152cad633be15e6b6270cb203",
+    "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
+    "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-18T20:00:27+00:00",
+    "content_snippet": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the grid.  In the era of AI, which NVIDIA founder and CEO Jensen Huang has described as a [&#8230;]",
+    "title_zh": "FERC 大型负荷互联新规如何缓解电网压力并提升经济性",
+    "summary_zh": "英伟达博客介绍美国联邦能源管理委员会（FERC）发布的大型负荷互联新规，该规定将影响 AI 工厂、半导体制造等设施的电网连接，有助于缓解电网压力并控制成本。",
+    "key_points": [
+      "FERC 发布大型负荷互联新规，便利 AI 工厂等接入电网",
+      "新规旨在缓解电网压力并提高电力可负担性",
+      "影响半导体制造和先进制造设施的电力供应"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2446e599d34ea93e2706cf4fb5157043",
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-18T19:59:22+00:00",
+    "content_snippet": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+    "title_zh": "OpenAI 在 IPO 前夕招揽重量级人才",
+    "summary_zh": "TechCrunch 报道，OpenAI 在 IPO 前加强人才储备，本周同时招揽了 Transformer 共同发明人 Noam Shazeer 和前特朗普 AI 政策官员 Dean Ball。",
+    "key_points": [
+      "OpenAI 在 IPO 前招揽 Transformer 共同发明人 Noam Shazeer",
+      "同时聘请前特朗普政府 AI 政策官员 Dean Ball",
+      "此举旨在为即将到来的 IPO 增强实力"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "48da28bfab5b192fecf5ef0c0c4afc94",
+    "title": "Started maintaining a small library at work and now I genuinely understand why maintainers go quiet",
+    "url": "https://www.reddit.com/r/artificial/comments/1u9fwfx/started_maintaining_a_small_library_at_work_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-18T19:28:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Built a little internal utility about a year ago, open sourced it because why not, figured maybe 10 people would find it useful. It slowly picked up a few hundred stars and then the issues started coming in.</p> <p>Not a flood or anything but enough and what surprised me was how much of it wasn't really bugs it was people wanting features that made sense for their use case but would've made zero sense for the original scope of the thing. Or issues that were basi",
+    "title_zh": "我开始维护一个小型开源库后，终于理解为什么维护者会沉默",
+    "summary_zh": "一位开发者分享了自己维护小型开源库的经历，从最初的无心之举到面临用户问题反馈，深刻体会到了开源维护者的压力与沉默背后的原因。",
+    "key_points": [
+      "维护者因用户期望和问题压力而选择沉默，并非不关心项目",
+      "个人小型开源项目从默默无闻到被关注后，维护负担会显著增加"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
