@@ -1083,5 +1083,122 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1f532f10c964194d3401f6dd7e236018",
+    "title": "I gave an AI agent one job — explain hard topics as a single labeled image",
+    "url": "https://www.reddit.com/r/artificial/comments/1u8vi4r/i_gave_an_ai_agent_one_job_explain_hard_topics_as/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-18T03:39:07+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1u8vi4r/i_gave_an_ai_agent_one_job_explain_hard_topics_as/\"> <img alt=\"I gave an AI agent one job — explain hard topics as a single labeled image\" src=\"https://preview.redd.it/k82cnqproy7h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b692853225758d2026175de3d4eb470d63cf7eea\" title=\"I gave an AI agent one job — explain hard topics as a single labeled image\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>You type a q",
+    "title_zh": "我让一个 AI 智能体只做一件事——用一张带标签的图片解释复杂话题",
+    "summary_zh": "用户分享了一个使用 AI 智能体将复杂话题简化并生成单一标注图像的体验，探讨了其在知识可视化领域的应用潜力。",
+    "key_points": [
+      "AI 智能体可将复杂话题转化为单一标注图像",
+      "探索了 AI 在简化知识可视化方面的应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bd9516118630053444948f25d5ae46bc",
+    "title": "Anyone remember Sunbuddy AI before it completely vanished from the internet from the OpenAI lawsuit?",
+    "url": "https://www.reddit.com/r/artificial/comments/1u8v3r0/anyone_remember_sunbuddy_ai_before_it_completely/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-18T03:18:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I vividly remember going to a website like <a href=\"http://sunbuddy.ai/\">sunbuddy.ai</a> late last year at like December 2025 and it being yellowish. It got all my code, style for documents, and so on, right. Unlike other AI systems, I didn't have to ask 9 times in any conversation to get it right, like other AI tools. I wanted to look it up again but the site is completely gone. I genuinely got a little sad from all my conversations being just completely wiped.",
+    "title_zh": "还有人记得因 OpenAI 诉讼而从互联网上彻底消失的 Sunbuddy AI 吗？",
+    "summary_zh": "Reddit 用户回忆了一个名为 Sunbuddy AI 的工具，该工具曾能掌握用户的代码和文档风格，但后来因 OpenAI 的诉讼而从互联网上消失。",
+    "key_points": [
+      "用户回忆 Sunbuddy AI 能学习用户编码与文档风格",
+      "该工具因涉及 OpenAI 诉讼而彻底关闭消失"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6bb412ed386a706b9bf8cde81d0a647f",
+    "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-18T03:12:31+00:00",
+    "content_snippet": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI image generator. Dubbed The Midjourney Scanner, it's an ultrasound-based full-body scanner that uses a ring of sensors to capture vertical [&#8230;]",
+    "title_zh": "Midjourney 医疗：从生成“猫咪图片”到全身超声扫描",
+    "summary_zh": "Midjourney 发布了首款硬件产品“The Midjourney Scanner”，这是一款使用 AI 的全身超声扫描设备，标志着其从图像生成向医疗硬件的重大跨界转型。",
+    "key_points": [
+      "Midjourney 推出首款硬件产品全身超声扫描仪",
+      "公司从 AI 图像生成跨界进军医疗健康硬件领域"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aa51002009098154764e437d7a57f0ea",
+    "title": "Anyone else's coding agent just sit there for 30 minutes?",
+    "url": "https://www.reddit.com/r/artificial/comments/1u8uvlk/anyone_elses_coding_agent_just_sit_there_for_30/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-18T03:07:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Watched a coding agent spend 30 minutes &quot;thinking&quot; on what should've been a 10-minute task — barely touched any tokens, just… sat there. Not the first time I've seen it.</p> <p>How common is this for everyone else? When your AI coding agent stalls like that, what's usually the cause in your setup — context bloat, a tool call hanging, waiting on a confirmation, something else? And do you just kill + restart, or have you found a way to keep it moving?</p",
+    "title_zh": "还有人的编码智能体就干坐 30 分钟不动吗？",
+    "summary_zh": "开发者吐槽 AI 编码智能体执行简单任务时停摆 30 分钟，只是空转“思考”且几乎不消耗 token，引发了对 AI 编码工具效率的讨论。",
+    "key_points": [
+      "AI 编码智能体出现长时间停滞且不消耗 token",
+      "引发开发者对 AI 编码工具实际效率的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "93f58c879306de805922964680b82c1a",
+    "title": "Everyone says AI needs more GPUs. I profiled one and it was sitting idle most of the time, just waiting on data. how much of the \"GPU shortage\" is actually wasted GPUs?",
+    "url": "https://www.reddit.com/r/artificial/comments/1u8ukwf/everyone_says_ai_needs_more_gpus_i_profiled_one/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-18T02:53:40+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1u8ukwf/everyone_says_ai_needs_more_gpus_i_profiled_one/\"> <img alt=\"Everyone says AI needs more GPUs. I profiled one and it was sitting idle most of the time, just waiting on data. how much of the &quot;GPU shortage&quot; is actually wasted GPUs?\" src=\"https://preview.redd.it/lh6ol1c5hy7h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=30983e5b3ee4f88574b030f79f0c59284c6b2a4b\" title=\"Everyone says AI needs more GPUs. I pro",
+    "title_zh": "人人都说 AI 需要更多 GPU，但我分析发现 GPU 大部分时间都在闲置等待数据，所谓“GPU 短缺”有多少其实是浪费？",
+    "summary_zh": "用户通过分析指出 AI 训练或推理中 GPU 大量时间处于空闲等待数据的状态，对当前普遍认为的 GPU 短缺现象提出了质疑，认为存在严重的算力浪费。",
+    "key_points": [
+      "实测发现 GPU 多数时间在空闲等待数据而非全力计算",
+      "质疑当前 AI 算力短缺中存在大量 GPU 资源浪费"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
