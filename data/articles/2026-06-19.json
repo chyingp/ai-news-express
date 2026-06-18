@@ -1,0 +1,191 @@
+[
+  {
+    "id": "1c73b0b46d08a6b69e4aede1e4773da5",
+    "title": "digital artists who complain about AI were not in this industry 20 years ago",
+    "url": "https://www.reddit.com/r/artificial/comments/1u9aw44/digital_artists_who_complain_about_ai_were_not_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-18T16:24:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>When artists complain about AI they are really complaining that the technology is somewhat inaccessible and no one is holding their hands telling them how to use it. There aren't 5,000 verified tutorials online and generally agreed upon workflows. There isn't decades of accumulated knowledge and practices telling them specifically what to do and what works and what doesn't. There aren't dozens of reputable art institutions teaching how to use AI in your pipeline",
+    "title_zh": "抱怨AI的数字艺术家20年前并不在这个行业",
+    "summary_zh": "Reddit讨论指出，当前抱怨AI的艺术家实际上是因技术门槛高、缺乏教程和工作流而感到沮丧，而非真正反对AI本身，类似20年前数字艺术刚兴起时的争议。",
+    "key_points": [
+      "数字艺术家对AI的抱怨源于技术不成熟和缺乏教程",
+      "当前争议与20年前传统艺术对数字艺术的排斥相似"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "59e1432ed888c05a9b1f56e81d5e8550",
+    "title": "Latent space interpretation [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1u9afup/latent_space_interpretation_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-18T16:07:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi all, I have trained a convolutional autoencoder on a set of medical images. Further classified latent feature maps using random forest to find the top scoring feature map. Now my goal is to understand which input image is captured in top scoring latent feature map. Any suggestions? I have tried encoding one image at a time while other images were muted. I then checked spearman between top scoring feature map with the original top scoring feature map. While I ",
+    "title_zh": "潜空间解释研究",
+    "summary_zh": "一篇机器学习讨论帖，作者训练了卷积自编码器处理医学图像，并用随机森林分类潜在特征图，寻求方法理解高评分特征图所捕获的输入图像信息。",
+    "key_points": [
+      "使用卷积自编码器和随机森林进行医学图像特征提取",
+      "目标是理解高评分潜在特征图对应的输入图像内容"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cffdb8f6c88a858284caa92bfd042fa9",
+    "title": "Amazon employees say they’re facing termination for backing data center limits",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-18T16:00:00+00:00",
+    "content_snippet": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking that law by retaliating against them. On June 10th - one week after the hearing, and [&#8230;]",
+    "title_zh": "亚马逊员工因支持数据中心限制而面临解雇",
+    "summary_zh": "三名亚马逊软件工程师在参加西雅图市议会关于数据中心限制的听证会后，指控公司因他们的政治言论进行报复，并试图解雇他们，涉嫌违反当地法律。",
+    "key_points": [
+      "亚马逊员工因公开支持限制数据中心而面临公司报复",
+      "员工引用城市法律声称公司行为涉嫌就业歧视"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b5dd81275ef9a0f615a72327f10e3542",
+    "title": "Microsoft Makes Big AI Inroads in China by Selling OpenAI Models",
+    "url": "https://www.reddit.com/r/artificial/comments/1u9a54p/microsoft_makes_big_ai_inroads_in_china_by/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-18T15:56:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1u9a54p/microsoft_makes_big_ai_inroads_in_china_by/\"> <img alt=\"Microsoft Makes Big AI Inroads in China by Selling OpenAI Models\" src=\"https://external-preview.redd.it/LY_jp8DbQUu7ZCdqBe8ksB2BYCnxXvN291PmdTDUCBY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d31117930e490ced78c9d9f8433a8864fb4af96\" title=\"Microsoft Makes Big AI Inroads in China by Selling OpenAI Models\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"",
+    "title_zh": "微软通过销售OpenAI模型在中国大举进军AI市场",
+    "summary_zh": "微软借助销售OpenAI的模型在中国市场取得重大AI业务进展，通过其平台和渠道将先进AI技术引入中国，拓展商业版图。",
+    "key_points": [
+      "微软在中国销售OpenAI模型以拓展AI市场",
+      "此策略帮助微软在竞争激烈的中国市场取得进展"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "microsoft",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "69ca65faaf13a0d9ff96a2396743f681",
+    "title": "Voice debugging at the conversation level seems far more useful than isolated benchmark metrics [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1u99fe5/voice_debugging_at_the_conversation_level_seems/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-18T15:29:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have been thinking a lot about how poorly isolated benchmark metrics capture real conversational system quality once models are deployed into multi-turn environments. </p> <p>You can have strong STT scores, decent latency, high task completion rates, and still end up with conversations that humans perceive as frustrating or unnatural. In practice, many failures are emergent properties of the interaction itself rather than single model errors. </p> <p>Small tim",
+    "title_zh": "对话级别的语音调试比孤立基准指标更有用",
+    "summary_zh": "一篇讨论帖认为，在多轮对话环境中，孤立的基准指标无法准确反映真实对话系统质量，而对话级别的语音调试更能发现实际部署中的问题。",
+    "key_points": [
+      "孤立基准指标难以捕捉多轮对话系统的真实质量",
+      "对话级别的语音调试能更有效发现系统部署中的问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "173a807b46743ce8e64e6db38f803020",
+    "title": "General Intuition in talks to raise $300M at around $2B valuation",
+    "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-18T15:20:37+00:00",
+    "content_snippet": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
+    "title_zh": "通用直觉公司洽谈融资3亿美元，估值约20亿",
+    "summary_zh": "AI初创公司General Intuition正洽谈以约20亿美元估值融资3亿美元。该公司利用Medal平台每年20亿的视频数据集训练具身AI和世界模型。",
+    "key_points": [
+      "General Intuition寻求以20亿美元估值融资3亿美元",
+      "利用Medal平台的海量视频数据训练具身AI和世界模型"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b63806a8cf1a1f24233cf2d577fb83c8",
+    "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+    "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-18T15:13:21+00:00",
+    "content_snippet": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+    "title_zh": "科技员工支持的PAC以500万美元挑战科技巨头的1亿美元资金",
+    "summary_zh": "一个由科技从业者小额捐款资助的政治行动委员会Guardrails，正试图以500万美元的资金，对抗在AI政策游说上投入超1亿美元的科技巨头，为基层AI从业者发声。",
+    "key_points": [
+      "Guardrails PAC由科技从业者小额捐款支持",
+      "以500万美元资金对抗科技巨头的1亿美元游说活动"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3a6cc45c1d65fb412c807633873e8c20",
+    "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
+    "url": "https://36kr.com/p/3858803016881154?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-18T14:57:40+00:00",
+    "content_snippet": "<p>国内两轮电动车市场正悄然迎来一场深层次的“基因突变”。长期以来，大众对两轮电动车的认知被牢牢框定在“代步工具”与“大众精品”的传统叙事里。然而，在四川省体育馆的一场发布会上，爱玛正式发布了旗下专为年轻男性打造的极速运动品类品牌——“爱玛黑翼”（AIMA BLACK WING）。首位中国F1车手周冠宇化身“全速领航员”在线助力，爱玛黑翼S360电竞版、爱玛黑翼S360赛道版以及爱玛黑翼S790赛博版三款硬核新品集结亮相。这场动作透露出的创投信号再明显不过：在女性和基础通勤赛道筑牢绝对壁垒后，传统头部巨头爱玛正以一种颠覆性的姿态，正式向年轻男性性能与运动电摩赛道发起总攻。36氪通过与爱玛科技集团三位核心高管的深度专访，试图拆解两轮电动车从功能代步全面迈向体验升级的下半场逻辑，看他们如何锚定Z世代的硬核社交货币，打破行业所谓的“天花板”。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260618/v2_c4d0109833fc40ad8bc2609c10a102c8@5178254",
+    "title_zh": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
+    "summary_zh": "爱玛科技发布全新品牌“爱玛黑翼”，专攻年轻男性性能与运动电摩市场，推出多款搭载AI与硬核科技的新品，并由F1车手周冠宇助阵，旨在颠覆传统代步工具形象。",
+    "key_points": [
+      "爱玛发布针对年轻男性的新品牌“爱玛黑翼”及三款新品",
+      "新车搭载AI与硬核科技，并由F1车手周冠宇代言"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
