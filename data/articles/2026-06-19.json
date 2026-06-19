@@ -841,5 +841,100 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e61ac7bb6fb2f9fc0372466d2d8b8d50",
+    "title": "数说故事递表港交所",
+    "url": "https://36kr.com/newsflashes/3859406436783112?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-06-19T02:47:04+00:00",
+    "content_snippet": "36氪获悉，据港交所文件，数说故事人工智能科技股份有限公司向港交所提交上市申请书，独家保荐人为中信建投国际。",
+    "title_zh": "数说故事递表港交所",
+    "summary_zh": "人工智能科技公司数说故事向港交所提交上市申请，独家保荐人为中信建投国际，正式启动IPO进程。",
+    "key_points": [
+      "数说故事人工智能科技公司递表港交所",
+      "独家保荐人为中信建投国际"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6dcb30b3811a26cd71920b56c0083dda",
+    "title": "AI-generated social media has evolved so much that now you can't confidently say that this is AI-generated content.",
+    "url": "https://www.reddit.com/r/artificial/comments/1u9oxg3/aigenerated_social_media_has_evolved_so_much_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-19T01:52:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have been observing AI generated influencer's accounts across all the platforms. The image quality is good enough now that most people can't confidentially tell from photos alone.</p> <p>&#x200b;</p> <p>Here is what actually works is pattern which common in most of those profiles. Three patterns that appear consistently:</p> <p>&#x200b;</p> <p><strong>1. Asymmetric social connection :</strong> Human social media users have relatively balanced follow to followe",
+    "title_zh": "AI生成社交媒体内容进化到难以辨别的程度",
+    "summary_zh": "Reddit用户观察到AI生成的网红账号图片质量已提升至大多数人无法仅凭照片自信分辨真伪的程度，但行为模式仍存在可识别特征。",
+    "key_points": [
+      "AI生成图片质量已让普通人难以辨别真伪",
+      "AI网红账号仍存在可识别的行为模式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b2bcb2e97ae1b4f8c04be39163163aff",
+    "title": "亚马逊拟向第三方数据中心销售AI芯片",
+    "url": "https://36kr.com/newsflashes/3859403678684424?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-19T01:32:15+00:00",
+    "content_snippet": "据报道，亚马逊正洽谈向其他公司的数据中心出售其定制人工智能芯片。亚马逊人工智能业务负责人Peter DeSantis称公司已启动相关讨论，但拒绝透露潜在客户名单。（界面）",
+    "title_zh": "亚马逊拟向第三方数据中心销售AI芯片",
+    "summary_zh": "亚马逊正与外部公司洽谈，计划向其他数据中心出售其定制AI芯片，AI业务负责人已确认启动相关讨论，但未透露潜在客户。",
+    "key_points": [
+      "亚马逊计划向第三方数据中心销售定制AI芯片",
+      "AI业务负责人确认已启动相关讨论"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f7db370cf36fed58abc1eb772e299147",
+    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-19T00:51:11+00:00",
+    "content_snippet": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+    "title_zh": "消息称Elastic拟以最高8500万美元收购AI初创公司DeductiveAI",
+    "summary_zh": "据TechCrunch消息，Elastic已同意收购CRV投资的AI错误检测初创公司DeductiveAI，交易金额最高可达8500万美元，该公司成立仅三年。",
+    "key_points": [
+      "Elastic同意收购AI代码调试初创公司DeductiveAI",
+      "交易金额最高达8500万美元",
+      "DeductiveAI成立仅三年，曾获CRV投资"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
