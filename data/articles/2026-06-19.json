@@ -936,5 +936,300 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d9dc0f8ee2ae913e03ac6475451cf40b",
+    "title": "Why did Google AI forget? Explain this phenomenon please",
+    "url": "https://www.reddit.com/r/artificial/comments/1u9tz1l/why_did_google_ai_forget_explain_this_phenomenon/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-19T06:10:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been using Using Google AI to research something personal &amp; I had discovered that I can ask that it 'remember' things. That way I can pick up the 'conversation' whenever I want and build on previous threads. I asked something this morning &amp; it seemed to have 'forgotten', then when I 'reminded' it here was the response:</p> <p>&quot;I apologize for the oversight on my part; I remember now that you shared...&quot;</p> <p>&#x200b;</p> <p>I'm confused a",
+    "title_zh": "为什么谷歌AI忘记了？解释一下这个现象",
+    "summary_zh": "Reddit用户讨论Google AI对话记忆丢失问题，用户称其能记住之前对话内容以便继续讨论，但某天早上提问时AI似乎遗忘了之前的记录。",
+    "key_points": [
+      "用户反馈Google AI在对话中出现记忆丢失现象",
+      "该功能本应能让AI记住历史对话以便后续跟进"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "407b11f9eaecf976c3b59a8f98700d83",
+    "title": "Launching credit usage analytics and updated spend controls for enterprises, available in our global admin console:",
+    "url": "https://nitter.net/gdb/status/2067843106469515603#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-19T05:33:09+00:00",
+    "content_snippet": "<p>Launching credit usage analytics and updated spend controls for enterprises, available in our global admin console:</p>\n<img src=\"https://nitter.net/pic/media%2FHLJz8YJakAA8Eaq.jpg\" />\n\n<hr />\n<blockquote>\n<b>angel (@angelbrodin)</b>\n<p>\n<p>nothing gets admins more excited than enterprise spend controls and we’re happy to deliver! <br />\n<br />\nadmins can now manage spend controls for codex and that on the workspace, group, and user level; users can also view their credit consumption and requ",
+    "title_zh": "推出企业信用额度使用分析与更新版支出控制，现已在全球管理控制台上线",
+    "summary_zh": "OpenAI联合创始人Greg Brockman宣布面向企业用户推出信用额度使用分析功能和更新的支出控制，这些功能现已在全球管理控制台可用。",
+    "key_points": [
+      "OpenAI为企业客户推出信用额度分析与支出控制功能",
+      "新功能旨在帮助管理员管理企业AI使用成本"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0be6f5f1b79b1d6065ec751a81145021",
+    "title": "Gemini helped me get scammed",
+    "url": "https://www.reddit.com/r/artificial/comments/1u9t7mp/gemini_helped_me_get_scammed/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-19T05:28:16+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1u9t7mp/gemini_helped_me_get_scammed/\"> <img alt=\"Gemini helped me get scammed\" src=\"https://preview.redd.it/h69y3ffnd68h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4e32e1a8aa269159f12fb685b4b90dd545a9025\" title=\"Gemini helped me get scammed\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I'll first acknowledge that this was completely my fault and I should not have trusted the information given to me by Gemini a",
+    "title_zh": "Gemini帮倒忙，让我被诈骗了",
+    "summary_zh": "Reddit用户发帖称在使用Google Gemini时遭遇诈骗，AI助手未能识别风险反而提供了帮助，导致用户蒙受损失。",
+    "key_points": [
+      "用户在使用Gemini时因AI未能识别诈骗信息而受骗",
+      "事件引发对AI助手安全性和风险识别能力的关注"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3494b6904624c33544a8ff731e627042",
+    "title": "[OC] I mapped AI exposure and robotics risk for Japan's 70.5M workers and found two different automation waves",
+    "url": "https://www.reddit.com/r/artificial/comments/1u9sntk/oc_i_mapped_ai_exposure_and_robotics_risk_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-19T04:59:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most AI employment discussions only look at AI exposure. Japan turned out to be interesting because that approach misses half the picture.</p> <p>Using ILO occupation classifications and our task-based AI exposure model, I looked at Japan's 70.5 million workers. The AI side behaves almost exactly like every other country we've studied. Clerical support workers sit at the top with an 8.5/10 exposure score, professionals score 6.5/10, and elementary occupations re",
+    "title_zh": "我绘制了日本7050万劳动力的AI暴露度与机器人风险图，发现两种不同的自动化浪潮",
+    "summary_zh": "Reddit用户利用国际劳工组织分类和任务型AI暴露模型，分析了日本7050万工人的AI暴露度与机器人风险，发现仅关注AI暴露会忽略一半图景，揭示了两种不同的自动化浪潮。",
+    "key_points": [
+      "日本劳动力面临AI和机器人两种不同自动化浪潮",
+      "仅分析AI暴露度会忽略机器人带来的自动化风险",
+      "研究量化了7050万工人的AI暴露度与机器人风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4b49eeba9a48a196fc8942aedb178106",
+    "title": "Barret Zoph is out at OpenAI again after just five months",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-19T04:49:33+00:00",
+    "content_snippet": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned [&#8230;]",
+    "title_zh": "Barret Zoph重返OpenAI仅五个月后再次离职",
+    "summary_zh": "OpenAI企业AI销售负责人Barret Zoph在重返公司仅五个月后再次离职。他曾是前CTO Mira Murati创立的Thinking Machines Lab联合创始人，短暂回归后又选择离开。",
+    "key_points": [
+      "OpenAI企业AI销售负责人Barret Zoph在回归五个月后再次离职",
+      "他此前曾担任Thinking Machines Lab联合创始人兼CTO"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "329ed933a164d80ec94ce5de960fc78a",
+    "title": "Meta或同数据中心公司Crusoe签署AI算力协议",
+    "url": "https://36kr.com/newsflashes/3859409018770438?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-19T03:47:43+00:00",
+    "content_snippet": "据报道，Meta与数据中心公司Crusoe签署AI算力合作协议，预计将获得约1.6吉瓦算力。（界面）",
+    "title_zh": "Meta或同数据中心公司Crusoe签署AI算力协议",
+    "summary_zh": "据报道，Meta与数据中心公司Crusoe签署AI算力合作协议，预计将获得约1.6吉瓦算力，以支撑其人工智能模型训练和推理需求。",
+    "key_points": [
+      "Meta与Crusoe签署协议，将获得约1.6吉瓦AI算力"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "812be2faa2d6beb2a76f0c5843d4eb56",
+    "title": "亚马逊员工遭公司内部调查，曾公开批评数据中心扩张",
+    "url": "https://36kr.com/newsflashes/3859409625256963?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-19T03:47:18+00:00",
+    "content_snippet": "一群亚马逊工程师公开批评企业疯狂扩张人工智能数据中心，并呼吁政府加强监管，如今他们正遭到公司内部调查。本月早些时候，美国西雅图市议会就一项政策征集公众意见：当地计划暂停新建大型数据中心项目为期一年，为城市完善相关监管规则留出时间。共有五名亚马逊员工出席听证会并作证。6月9日，西雅图市议会全票通过了这项暂停建设的禁令。（新浪财经）",
+    "title_zh": "亚马逊员工因公开批评数据中心扩张遭内部调查",
+    "summary_zh": "一群亚马逊工程师公开批评企业疯狂扩张人工智能数据中心并呼吁政府加强监管，此后他们正遭到公司内部调查。此前这些员工曾出席西雅图市议会作证，支持暂停新建大型数据中心。",
+    "key_points": [
+      "亚马逊工程师因公开批评AI数据中心扩张遭内部调查",
+      "员工曾出席市议会支持暂停数据中心建设的禁令",
+      "事件凸显科技公司内部对AI扩张的不同声音"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bd06f888e23346794ff53d06b9910286",
+    "title": "Meilleur IA pour technique et procédé industriel",
+    "url": "https://www.reddit.com/r/artificial/comments/1u9r14p/meilleur_ia_pour_technique_et_procédé_industriel/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-19T03:34:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Quel serais selon vous la meilleur IA (ChatGPT, Gemini etc) pour m’aider à améliorer des paramètres industriels pour la conduite d’une usine de valorisation énergétique (incinération des déchets ) ? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/La-Mentale\"> /u/La-Mentale </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments",
+    "title_zh": "工业技术和工艺领域的最佳AI",
+    "summary_zh": "Reddit用户发帖询问针对工业参数优化和废物能源回收厂运营的最佳AI工具，比较ChatGPT、Gemini等AI助手在工业技术和工艺改进方面的适用性。",
+    "key_points": [
+      "用户寻求用于工业参数优化和工厂运营的最佳AI工具",
+      "讨论涉及ChatGPT、Gemini等AI在工业领域的应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f4ebc0d39573e71364c5228d1f54fefb",
+    "title": "GPT发AI原创新成果了",
+    "url": "https://www.qbitai.com/2026/06/436842.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-06-19T03:34:23+00:00",
+    "content_snippet": "AI实现药物全自动研发，还远吗？",
+    "title_zh": "GPT实现AI药物全自动研发新突破",
+    "summary_zh": "量子位报道GPT在AI药物全自动研发领域取得原创性成果，展示了AI在制药领域从研发到全流程自动化的巨大潜力，引发对AI制药未来的讨论。",
+    "key_points": [
+      "GPT在AI药物全自动研发领域取得原创成果",
+      "AI实现药物全自动研发的进程进一步加速"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "abde44de100e1dcfa48a628aa723b239",
+    "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+    "url": "https://www.qbitai.com/2026/06/436813.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-06-19T03:28:37+00:00",
+    "content_snippet": "人形机器人正式迈入“GPT时代”",
+    "title_zh": "全球首个人形机器人通用小脑发布，基于2万小时人类动作数据实现零样本泛化",
+    "summary_zh": "全球首个人形机器人通用小脑正式发布，该模型基于全球最大规模的2万小时人类动作数据训练，能够实现零样本泛化，标志着人形机器人迈入GPT时代。",
+    "key_points": [
+      "发布全球首个人形机器人通用小脑，实现零样本泛化",
+      "基于2万小时人类动作数据训练，为全球最大规模",
+      "人形机器人正式迈入类似GPT的通用智能时代"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "84f78ee00316f12e370d2a855bc2300e",
+    "title": "因AI安全隐患遭监管，Anthropic承诺加强与美政府沟通",
+    "url": "https://36kr.com/newsflashes/3859408242004996?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-19T03:23:56+00:00",
+    "content_snippet": "据报道，Anthropic高管向商务部长霍华德·卢特尼克提交一份方案，承诺与白宫展开更深度合作，力求尽快消除各类安全隐患；正是相关安全问题，使得该公司高性能AI模型“Mythos”与“Fable”遭到监管整治。一位知情人士周四透露，双方仍在进行整改磋商，Anthropic在会谈中承诺将加强与特朗普政府的沟通，未来更快处置各类安全风险。（新浪财经）",
+    "title_zh": "因AI安全隐患遭监管，Anthropic承诺加强与美政府沟通",
+    "summary_zh": "Anthropic因AI模型Mythos和Fable存在安全隐患遭监管，公司高管向美国商务部提交方案，承诺与白宫加强合作以尽快消除风险，双方仍在进行整改磋商。",
+    "key_points": [
+      "Anthropic模型因安全隐患遭美政府监管整治",
+      "公司承诺加强沟通，更快处置安全风险",
+      "双方仍在就整改方案进行磋商"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bf56c57b816cd75bf0a1fd75c8a0ca31",
+    "title": "Published an edge-ai driver drowsiness detection system with Arduino Uno Q for our high school research",
+    "url": "https://www.reddit.com/r/artificial/comments/1u9qlhi/published_an_edgeai_driver_drowsiness_detection/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-19T03:13:03+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1u9qlhi/published_an_edgeai_driver_drowsiness_detection/\"> <img alt=\"Published an edge-ai driver drowsiness detection system with Arduino Uno Q for our high school research\" src=\"https://preview.redd.it/qxr3trqip58h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7cdb6fb5e749077455b8b407862eba88d01cc979\" title=\"Published an edge-ai driver drowsiness detection system with Arduino Uno Q for our high school research\" /> </a> ",
+    "title_zh": "高中生发布基于Arduino Uno Q的边缘AI驾驶员疲劳检测系统",
+    "summary_zh": "一项高中研究项目发布了一个边缘AI驾驶员疲劳检测系统，该系统使用Arduino Uno Q硬件实现，可在本地进行实时监测。",
+    "key_points": [
+      "高中生使用Arduino Uno Q开发边缘AI疲劳检测系统",
+      "项目已在Reddit AI社区发布展示"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
