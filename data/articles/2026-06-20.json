@@ -1,0 +1,275 @@
+[
+  {
+    "id": "563330a5e748d764082a9f56dd21de7b",
+    "title": "This week in AI: Meta reportedly closing Llama, Anthropic's new model pulled by export controls within a week, and Apple partners with Google for Siri",
+    "url": "https://www.reddit.com/r/artificial/comments/1ua8kub/this_week_in_ai_meta_reportedly_closing_llama/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-19T17:43:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A few stories from the past week that, taken together, point to a real shift at the model layer rather than just incremental releases:</p> <p><strong>Meta and Llama.</strong> Multiple reports indicate Meta is stepping back from open-source Llama in favor of a proprietary program (internally referred to as &quot;Muse Spark,&quot; with a new &quot;Avocado&quot; model) under Meta Superintelligence Labs. Llama crossed 650M+ downloads and was arguably the anchor of t",
+    "title_zh": "AI周报：Meta或将闭源Llama，Anthropic新模型遭出口管制，苹果与谷歌合作Siri",
+    "summary_zh": "本周AI行业出现模型层面的重大转变：Meta被曝将放弃开源转向闭源Llama，Anthropic新模型因出口管制一周内被撤回，苹果则与谷歌合作推进Siri。",
+    "key_points": [
+      "Meta被曝将从开源转向闭源Llama",
+      "Anthropic新模型发布一周内遭出口管制",
+      "苹果与谷歌合作推动Siri发展"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta",
+      "anthropic",
+      "apple",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bf9a7d7b37a9665c087f200eafa0dfbf",
+    "title": "Can Agents Solve Data Scarcity?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ua8efg/can_agents_solve_data_scarcity/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-19T17:36:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m not an AI researcher, so this may be a naive question.</p> <p>I asked how future AI systems will learn tasks where there simply isn’t enough training data available. Someone responded that “agents will solve that problem.”</p> <p>I’m confused by this answer. My understanding is that agent frameworks are mostly a software layer around foundation models (planning, tool use, memory, workflow orchestration, etc.), while the actual learning still happens in the u",
+    "title_zh": "AI智能体能解决数据稀缺问题吗？",
+    "summary_zh": "作者探讨了AI智能体是否真的能解决训练数据不足的问题，对智能体通过自主探索来弥补数据缺失的说法表示怀疑，引发技术讨论。",
+    "key_points": [
+      "探讨AI智能体能否弥补训练数据不足",
+      "对智能体自主探索替代数据稀缺的说法存疑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "be6e7894dcb955b1e6fff4a3afd010c8",
+    "title": "OpenAI for helping families facing rare genetic diseases. This was done with o3 which is over a year old, amazing to think what will be possible with today’s models.",
+    "url": "https://nitter.net/gdb/status/2068016345451831480#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-19T17:01:33+00:00",
+    "content_snippet": "<p>OpenAI for helping families facing rare genetic diseases. This was done with o3 which is over a year old, amazing to think what will be possible with today’s models.</p>\n<hr />\n<blockquote>\n<b>OpenAI Newsroom (@OpenAINewsroom)</b>\n<p>\n<p>For families facing rare genetic diseases, answers can be hard to find.<br />\n<br />\n<a href=\"https://nitter.net/HallieJackson\" title=\"Hallie Jackson\">@HallieJackson</a> spoke live with <a href=\"https://nitter.net/_perloj\" title=\"Jared Perlo\">@_perloj</a> and",
+    "title_zh": "OpenAI利用一年前模型o3帮助罕见遗传病家庭",
+    "summary_zh": "OpenAI使用已发布一年多的o3模型，帮助面临罕见遗传病的家庭寻找答案，展示了AI在医疗领域的潜力，并引发对当下模型能力的期待。",
+    "key_points": [
+      "OpenAI用旧模型o3帮助罕见遗传病家庭",
+      "展示了AI在医疗诊断领域的应用潜力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d6ae0d09bceb87bd1ec125727a666a7f",
+    "title": "AI learned to be a villain from Hollywood. Here's how we retrain it.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ua6yez/ai_learned_to_be_a_villain_from_hollywood_heres/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-19T16:41:43+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ua6yez/ai_learned_to_be_a_villain_from_hollywood_heres/\"> <img alt=\"AI learned to be a villain from Hollywood. Here's how we retrain it.\" src=\"https://external-preview.redd.it/HxdyjFNsgKgjsCW4fidBMWErGEC4iDCKiflhRDsmRfo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b690c338abc4e1e4bca5a32d9fedcd76dfb54750\" title=\"AI learned to be a villain from Hollywood. Here's how we retrain it.\" /> </a> </td><td> <!-- SC_OFF --><div cl",
+    "title_zh": "AI从好莱坞学会了当反派，我们如何重新训练它",
+    "summary_zh": "本文探讨AI因受好莱坞电影影响而学习到反派行为模式，并介绍研究人员如何通过重新训练来纠正这种偏见，涉及AI伦理与对齐问题。",
+    "key_points": [
+      "AI从好莱坞电影中习得反派行为模式",
+      "研究人员正通过重新训练纠正AI偏见"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d131d924d4b8b40926ca081cf2eaa7a8",
+    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-19T16:08:17+00:00",
+    "content_snippet": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
+    "title_zh": "美国政府对Anthropic的禁令是否意外助长了其品牌？",
+    "summary_zh": "美国政府以国家安全为由强制Anthropic撤回新模型，但此举可能反而提升了其品牌关注度，网络安全专家对其安全漏洞的说法存在争议。",
+    "key_points": [
+      "美国政府以安全为由迫使Anthropic撤回新模型",
+      "禁令可能意外提升了Anthropic的品牌关注度",
+      "安全专家对模型漏洞的说法存在争议"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic",
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5e5ce530d4c2f3c1cf8f47b2a90c7ca6",
+    "title": "Thanks John for an extraordinary partnership and wonderful collaboration over the past 9 years! What we achieved with AlphaFold changed the world, and showed the field what was possible with AI for science and medicine, lighting the way for how AI can benefit humanity.",
+    "url": "https://nitter.net/demishassabis/status/2068002732250640603#m",
+    "source": "Demis Hassabis (X)",
+    "source_zh": "Demis Hassabis",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-19T16:07:27+00:00",
+    "content_snippet": "<p>Thanks John for an extraordinary partnership and wonderful collaboration over the past 9 years! What we achieved with AlphaFold changed the world, and showed the field what was possible with AI for science and medicine, lighting the way for how AI can benefit humanity.</p>\n<hr />\n<blockquote>\n<b>John Jumper (@JohnJumperSci)</b>\n<p>\n<p>A bit of news: After nearly 9 years, I have decided to leave Google DeepMind and join Anthropic (after taking some time to recharge). I am incredibly grateful f",
+    "title_zh": "哈萨比斯感谢合作伙伴：AlphaFold改变世界，照亮AI造福人类之路",
+    "summary_zh": "DeepMind创始人哈萨比斯感谢合作伙伴9年来的贡献，称AlphaFold的成就改变了科学和医学领域，为AI如何造福人类指明了方向。",
+    "key_points": [
+      "哈萨比斯感谢9年合作成就AlphaFold",
+      "AlphaFold被视为AI在科学医学应用的里程碑"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f2dbfaf3a5cdc8aa6d8032a427d9cf89",
+    "title": "Dealing with a messy prescriptive monolith. How do you survive this? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ua5xfg/dealing_with_a_messy_prescriptive_monolith_how_do/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-19T16:02:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Months ago, I got my first maintenance project. Before this, I had only built new solutions from scratch and maintained my own code. But maintaining someone else's system feels completely different.</p> <p>&#x200b;</p> <p>​It’s a prescriptive recommendation system that uses XGBoost models and Differential Evolution for optimization. The problem is that everything is in a single repository: raw data ingestion, transformations, model training, reporting, the optim",
+    "title_zh": "如何应对混乱的规范性单体系统？",
+    "summary_zh": "一名开发者分享了首次维护他人遗留代码的痛苦经历，这是一个复杂的规范性推荐系统，代码混乱难以维护，寻求社区经验。",
+    "key_points": [
+      "开发者分享维护混乱遗留推荐系统的挑战",
+      "寻求社区关于应对复杂单体系统的建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "00841429d7c14c2662e4f6899751c5b1",
+    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-19T16:01:03+00:00",
+    "content_snippet": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since signed an open letter&#160;calling&#160;the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.&#160;So&#160;is [&#8230;]",
+    "title_zh": "美国禁止Anthropic发布Fable 5，但数据似乎不受影响",
+    "summary_zh": "尽管美国政府以国家安全为由禁止Anthropic发布Fable 5等新模型，但相关数据表现似乎并未受到影响，引发对禁令实际效果的讨论。",
+    "key_points": [
+      "美国禁止Anthropic发布Fable 5模型",
+      "市场数据表明禁令未对Anthropic造成显著影响"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic",
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "72e5bd6be8aee7bd63514463974eef5c",
+    "title": "The Pentagon's AI chief swore in a court filing that xAI's Grok helped fire 2,000 munitions at 2,000 targets in 96 hours",
+    "url": "https://www.reddit.com/r/artificial/comments/1ua5j2y/the_pentagons_ai_chief_swore_in_a_court_filing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-19T15:47:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A sworn declaration from the Pentagon's chief digital and AI officer confirms a federal-only build, Grok Gov, was wired into US targeting systems during operations against Iran, helping deploy more than 2,000 munitions against 2,000 distinct targets over 96 hours.</p> <p>What makes it notable is how it surfaced: the declaration landed in a Clean Air Act lawsuit over xAI's Mississippi data center, where the DOJ is arguing that disrupting xAI would harm national s",
+    "title_zh": "五角大楼AI主管证实：xAI的Grok协助在96小时内攻击2000个目标",
+    "summary_zh": "美国防部AI主管在法庭文件中证实，xAI的定制版Grok Gov被纳入美军瞄准系统，在对伊朗行动中，96小时内协助对2000个目标发动打击。",
+    "key_points": [
+      "xAI的Grok Gov被用于美军实战瞄准系统",
+      "96小时内协助对2000个目标发动攻击"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3bb0698796fb682ffca4a2bd72b42a49",
+    "title": "Why do AI systems still struggle to interpret uncertainty in human conversation?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ua5feg/why_do_ai_systems_still_struggle_to_interpret/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-19T15:43:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>One limitation I keep noticing in conversational AI systems is how they handle uncertainty in human communication.</p> <p>They perform well when input is structured and intent is clear, but things become less reliable when users are unsure, changing direction mid-thought, or expressing ideas indirectly.</p> <p>In most current systems, each message is treated as if it carries the same level of confidence, even though in real conversations that is rarely the case.",
+    "title_zh": "为何AI系统仍难以解读人类对话中的不确定性？",
+    "summary_zh": "文章探讨了会话AI在理解人类交流中的犹豫、歧义和不确定性时仍表现不佳，当用户意图不明确或中途改变主意时，系统可靠性会下降。",
+    "key_points": [
+      "AI难以处理人类对话中的不确定性和歧义",
+      "当用户意图模糊时系统可靠性下降"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e35040ffdf0875935841ee41a82d4589",
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-19T15:23:28+00:00",
+    "content_snippet": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+    "title_zh": "亿万富翁安巴尼欲将AI融入每一通电话、应用和家庭",
+    "summary_zh": "印度信实工业集团正将人工智能深度整合到其电信服务中，该服务覆盖超过5亿用户，旨在将AI功能带入日常通讯和家庭生活。",
+    "key_points": [
+      "信实工业将AI融入电信服务，覆盖超5亿用户",
+      "计划将AI扩展到每一通电话、应用和家庭场景",
+      "该公司是印度最大企业集团之一，此举影响广泛"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
