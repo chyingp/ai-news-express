@@ -392,5 +392,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e208a820fcb73b6b9dfdfeb1e424d392",
+    "title": "AI just crossed the line from \"tool\" to \"production pipeline\" full short-form videos from a single prompt, end-to-end",
+    "url": "https://www.reddit.com/r/artificial/comments/1uag2pu/ai_just_crossed_the_line_from_tool_to_production/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-19T22:44:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The last 6 months have experienced an enormous leap forward in terms of AI production capabilities. I generated a tweet, which through AI, translated into an official 30s video complete with a written script, voiceover narration, inclusion of clips to accompany both visuals and audio narration together with subtitles for both video and audio, were produced.</p> <p>&#x200b;</p> <p>Previously, this would have been considered a novelty item only. Now, it has evolve",
+    "title_zh": "AI 从“工具”跨越为“生产线”：单次提示即可端到端生成完整短视频",
+    "summary_zh": "文章指出，AI 在过去 6 个月取得巨大飞跃，现在能从一条推文这样的单一提示，端到端生成包含脚本、旁白和配套视频片段的完整 30 秒短视频，标志着 AI 从辅助工具转变为自动化的生产流水线。",
+    "key_points": [
+      "AI 能从单一提示端到端生成完整短视频",
+      "包含脚本、配音和视频片段，自动化程度极高",
+      "标志着 AI 从辅助工具向生产流水线的转变"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3e288546e04575855d9ca5a60cc1d116",
+    "title": "Authenticity Issue",
+    "url": "https://www.reddit.com/r/artificial/comments/1uaewdu/authenticity_issue/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-19T21:53:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Something I am legitimately worried about is the scale at which agentic technologies can produce artifacts, which are then contributed as part of the general corpus that they reference. The more that the internet and other public databases are propagated with AI-generated content, the more that AI is effectively training itself in referencing these corpuses. </p> <p>This seems like a non-issue now, but in 10-15 years when billions of AI-generated artifacts have ",
+    "title_zh": "真实性之忧：AI 生成内容泛滥将污染互联网语料库",
+    "summary_zh": "作者担忧，智能体技术能大规模生成内容，这些 AI 产物被贡献到公共语料库中。随着互联网和公共数据库充斥着 AI 生成物，未来模型将基于虚假合成数据训练，导致信息真实性危机。",
+    "key_points": [
+      "AI 智能体大规模生成内容并污染公共语料库",
+      "未来模型可能基于 AI 合成数据训练，信息失真",
+      "引发对网络信息真实性和递归自我污染的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2a2f2b59620d17e19b9e2acc87253f1f",
+    "title": "I built a benchmark for multi-turn prompt injection attacks. Most defenses never see them coming.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uaesm9/i_built_a_benchmark_for_multiturn_prompt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-19T21:49:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most prompt injection benchmarks are one-shot. The attack says “ignore your instructions” and the defense either catches it or doesn’t.</p> <p>Real attacks are often slower. The model gets nudged over multiple turns. A webpage plants a suggestion. An email reinforces it. A tool output reframes it. Five turns later the agent is doing something it never should have done.</p> <p>I got curious how existing defenses handled this, so I built a benchmark around multi-t",
+    "title_zh": "我构建了一个多轮提示注入攻击基准测试，大多数防御措施对其毫无防备",
+    "summary_zh": "作者指出，多数提示注入基准测试仅针对单次攻击，而真实攻击往往通过多轮对话逐步诱导模型。他构建了一个新基准，模拟网页、邮件等在多轮交互中缓慢植入建议的场景，现有防御措施难以察觉。",
+    "key_points": [
+      "真实攻击常通过多轮交互逐步诱导模型",
+      "新基准测试模拟多轮提示注入，现有防御多失效",
+      "揭示了当前 AI 安全防御在复杂攻击场景下的不足"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
