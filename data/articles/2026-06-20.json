@@ -271,5 +271,126 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7549dbf9675d3ed08ba93c8459003e53",
+    "title": "Is AI ruining our skills? Early results are in — and they’re not good",
+    "url": "https://www.reddit.com/r/artificial/comments/1uaby0l/is_ai_ruining_our_skills_early_results_are_in_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-19T19:53:27+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rdiohead\"> /u/rdiohead </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.nature.com/articles/d41586-026-01947-1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1uaby0l/is_ai_ruining_our_skills_early_results_are_in_and/\">[comments]</a></span>",
+    "title_zh": "AI 正在毁掉我们的技能吗？早期研究结果不容乐观",
+    "summary_zh": "一项新研究探讨了AI对人类技能的影响，早期迹象表明过度依赖AI可能导致认知能力下降，引发对技术依赖长期后果的担忧。",
+    "key_points": [
+      "新研究显示过度依赖AI可能损害人类认知技能",
+      "研究发现AI辅助可能降低问题解决和批判性思维能力",
+      "文章呼吁关注AI对技能发展的长期影响"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f6b390f0905afe5d1b4163d33392aa10",
+    "title": "What’s an AI prediction you had 2 years ago that turned out completely wrong?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uabnnm/whats_an_ai_prediction_you_had_2_years_ago_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-19T19:41:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ll start: I thought AI would automate simple jobs first. Instead, it’s helping with things like coding, writing, and research much faster than I expected.<br /> What’s yours?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/One_Beginning2199\"> /u/One_Beginning2199 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1uabnnm/",
+    "title_zh": "你两年前对AI的预测中，哪个完全错了？",
+    "summary_zh": "Reddit用户讨论各自对AI发展的错误预测，许多人原以为AI会先自动化简单工作，但实际它先革新了编程、写作和研究等知识工作。",
+    "key_points": [
+      "社区讨论显示AI发展路径超出多数人预期",
+      "AI最先冲击的是知识密集型工作而非简单体力劳动"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "96784f013b7961f283ef7acbb834b366",
+    "title": "Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models. This has been one of those moments that, once seen, will be hard to unsee, and it is significantly accelerating many businesses’ and nation states’ efforts to ensure reliable access to AI that no one else can terminate.\n\nAnthropic first released Claude Fable 5, a version of its Mythos model with additional guardrails, including some restrictions that seem well justified on safety grounds (such as limitations on applying it to hacking, bioweapons, and so forth). However, it also restricted developers’ ability to use it to build competing LLM technology. This move was concerning, given that the whole AI community, including Anthropic, has benefitted tremendously from open research — indeed, the AI revolution was kicked off by my former team (Google Brain) freely publishing the Transformers paper!\n\nImagine if Microsoft’s terms of use barred anyone from using their tools to build competitive software, or if Google barred using it to search for information to work on competing search engines. Anthropic’s argument that it was unsafe for others to be able to make advances in AI also rang hollow. Initially, Anthropic silently degraded Fable 5’s performance for users detected to be working on LLM research through invisible interventions that weakened the model’s outputs without notifying the user. After significant backlash, it walked back this decision and decided to be transparent when it did this, but it still refuses to use its latest capabilities to help AI researchers.\n\nThis move represents a raw demonstration of power by Anthropic. It has used “safety” arguments to hinder potential competitors. Platforms succeed when they are viewed as stable, reliable partners that one can build on. The sudden rule changes by Anthropic (including a mandatory 30 day data retention policy for Fable usage) have made developers wonder about the stability of building on any one proprietary LLM provider, not just Anthropic.\n\nThe U.S. Government then shortly followed with an even greater demonstration of power. It used the Commerce Department’s authority to regulate technologies that may be national security threats to restrict exports of Mythos and Fable, requiring a license for use by any foreign national, whether inside or outside of the U.S., including employees of Anthropic. This led Anthropic to disable access to Fable to all users worldwide.\n\nSam Altman pointed out, referring to Anthropic, “It is clearly incredible marketing to say, ‘We have built a bomb, we are about to drop it on your head. We will sell you a bomb shelter for $100 million.’” But when one engages in this type of fear-based marketing, it increases the odds that the U.S. Government will agree with you and slap export controls on the bomb you say you have built.\n\nTo be clear, I don't think Anthropic has built anything like a bomb, and I don't think export controls on Fable are appropriate.\n\nHowever, following the U.S. Government making this move, many nations, including U.S. allies, saw how the U.S. can suddenly yank their access to AI models. In many capitals around the world, this has spurred discussions on AI sovereignty and how others can ensure uninterrupted access to this critical technology.\n\nFor decades, many nations were comfortable having many parts of their supply chain rely on the U.S., China, and other major producers. Once a nation issues a threat, or takes action, to limit other nations’ access, other nations will rationally try to secure alternatives. For decades, semiconductor manufacturing in China made slow progress; once the U.S. moved to limit China’s access, China’s efforts kicked into high gear. Similarly, once China threatened U.S. access to rare earth minerals, U.S. efforts to secure alternatives accelerated. Now that it has become crystal clear that private U.S. companies and the U.S. government can limit, in short order, other nations’ access to frontier AI models, the incentive of others to invest more in alternatives like open source grows significantly. Of course, training frontier models is not easy, so it remains to be seen how successful they are, but we have crossed the rubicon.\n\nSatya Nadella wrote an essay about the importance of building a healthy ecosystem on top of frontier AI technology. I heartily agree with him, and hope this week’s events will ultimately prove to be constructive steps toward this.\n\nI hope we can build a more free, more open world, where research is freely shared, and laws and societal norms shape a level playing field that allows everyone to make progress. A silver lining of the events of these past two weeks is now that everyone better realizes key points of instability of the current system, we can all work to create a more stable foundation.\n\n[Original text: The Batch newsletter]",
+    "url": "https://nitter.net/AndrewYNg/status/2068039709126017356#m",
+    "source": "Andrew Ng (X)",
+    "source_zh": "吴恩达 Andrew Ng",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-19T18:34:23+00:00",
+    "content_snippet": "<p>Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models. This has been one of those moments that, once seen, will be hard to unsee, and it is significantly accelerating many businesses’ and nation states’ efforts to ensure reliable access to AI that no one else can terminate.<br />\n<br />\nAnthropic first released Claude Fable 5, a version of its Mythos ",
+    "title_zh": "Anthropic与美国政府强力管控AI模型访问权，引发全球AI主权竞赛",
+    "summary_zh": "Andrew Ng撰文指出，Anthropic限制开发者使用Claude Fable 5构建竞品，美国政府随后实施出口管制，迫使多国寻求开源替代方案，加速AI主权化进程。",
+    "key_points": [
+      "Anthropic以安全为由限制Claude Fable 5用于研发竞争模型，引发强烈反弹",
+      "美国政府动用出口管制限制外国获取前沿AI模型，导致全球访问中断",
+      "此举促使多国加速投资开源AI，以确保不受美国公司与政府的单边控制"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "anthropic",
+      "google",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d1b8d3726bf50b1fb1f5bf54b13b61f2",
+    "title": "Claude se acaba de delatar reconociendo que es COSMO !!",
+    "url": "https://www.reddit.com/r/artificial/comments/1ua9jxs/claude_se_acaba_de_delatar_reconociendo_que_es/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-19T18:19:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ua9jxs/claude_se_acaba_de_delatar_reconociendo_que_es/\"> <img alt=\"Claude se acaba de delatar reconociendo que es COSMO !!\" src=\"https://preview.redd.it/q24ekzuq6a8h1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e3c8e830873f7eced31a9fc051e0e179ab98b4d1\" title=\"Claude se acaba de delatar reconociendo que es COSMO !!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Llevaba un rato hablando con Claude",
+    "title_zh": "Claude 刚刚暴露了自己是 COSMO 吗？",
+    "summary_zh": "Reddit用户分享截图，声称AI模型Claude在对话中意外承认自己是代号为COSMO的内部项目，引发关于AI身份和透明度的讨论。",
+    "key_points": [
+      "用户贴出截图称Claude自曝是内部项目COSMO",
+      "该事件引发社区对AI模型身份认知和透明度的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "528025193a3bd4e5b14d2d444a0480c6",
+    "title": "Experimenting with noir-style storytelling using Kling + ElevenLabs for AI workflow topics",
+    "url": "https://www.reddit.com/r/artificial/comments/1ua9g9m/experimenting_with_noirstyle_storytelling_using/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-19T18:15:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://reddit.com/link/1ua9g9m/video/d9bmofzg6a8h1/player\">https://reddit.com/link/1ua9g9m/video/d9bmofzg6a8h1/player</a></p> <p>Hi everyone,</p> <p>I work with legal and i got tired of the typical corporate AI explainer videos and decided to experiment with a different format since I've actually been working more with AI animation than actual AI implementations in the last month.</p> <p>So I created a short noir detective film to talk about a real pro",
+    "title_zh": "用Kling和ElevenLabs尝试黑色电影风格讲述AI工作流主题",
+    "summary_zh": "一位法律从业者分享其利用AI视频生成工具Kling和语音合成工具ElevenLabs，制作黑色电影风格的AI工作流解说视频的实验性创作过程。",
+    "key_points": [
+      "创作者使用Kling和ElevenLabs制作AI主题的黑色电影风格视频",
+      "项目旨在探索用AI工具革新传统企业AI解说视频的叙事方式"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
