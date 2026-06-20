@@ -287,5 +287,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "55bec28057e93212670c7a4e6df56f2c",
+    "title": "Python packages for particle swarms, genetic algorithms. Scikit-opt maybe? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ub81us/python_packages_for_particle_swarms_genetic/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-20T21:28:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm working with a client on a curve-fitting optimization problem. They are currently using a constrained Levenburg-Marquardt optimizer for their task which is complex, slow, and sometimes gets stuck in local minima.</p> <p>I suggested using particle swarm optimization (PSO), and the client suggested genetic algorithms (GA). I would like to compare the existing method to at least these two other options. For this first phase, I don't need to worry about speed or",
+    "title_zh": "用于粒子群和遗传算法的Python包：Scikit-opt或其他？",
+    "summary_zh": "用户在Reddit机器学习社区寻求关于Python优化包的建议，其客户当前使用受限的Levenberg-Marquardt优化器处理曲线拟合问题，但该算法复杂、缓慢且易陷入局部最优，用户考虑使用粒子群优化等替代方案。",
+    "key_points": [
+      "客户现有曲线拟合优化器复杂缓慢且易陷入局部最优",
+      "用户寻求粒子群优化和遗传算法的Python包推荐",
+      "提及Scikit-opt作为可能的备选方案"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7ddc78b7ede207c08aa1ae2d68834d31",
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-20T20:32:29+00:00",
+    "content_snippet": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+    "title_zh": "Signal总裁Meredith Whittaker提醒：AI聊天机器人'不是你的朋友'",
+    "summary_zh": "Signal总裁Meredith Whittaker在接受TechCrunch采访时强调，AI聊天机器人并非人类的朋友，它们不是有意识的存在，也不是有感知的对话者，呼吁用户保持清醒认知。",
+    "key_points": [
+      "Signal总裁警示AI聊天机器人不应被视为朋友",
+      "强调AI并非有意识或有感知的实体",
+      "旨在纠正用户对AI聊天机器人的情感依赖误区"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
