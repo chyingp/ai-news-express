@@ -677,5 +677,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "def161abbf2f3f69bcbc1639ff64e467",
+    "title": "Built a Global AQ (PM2.5) Forecaster ML Model [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uar4vc/built_a_global_aq_pm25_forecaster_ml_model_p/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-20T08:20:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I’ve been building an end-to-end Air Quality (PM2.5) forecasting pipeline for 4 countries (US, UK, India, Australia) using 1.6M+ rows of OpenAQ and NASA weather data.</p> <p>The problem i hit (the variance trap):</p> <p>My V7 model was a standard stateless Gradient Boosting Regressor. It worked great for low-variance regions (like the US), but in highly chaotic environments (like India and the UK), the model was mathematically failing. When ",
+    "title_zh": "构建了一个全球空气质量（PM2.5）预测机器学习模型 [项目]",
+    "summary_zh": "作者利用160多万行OpenAQ和NASA天气数据，为美国、英国、印度和澳大利亚四个国家构建了一个端到端的PM2.5空气质量预测管道，并重点解决了模型中的方差陷阱问题。",
+    "key_points": [
+      "使用160万+行多国数据构建全球PM2.5预测模型",
+      "模型基于OpenAQ和NASA天气数据，实现端到端预测",
+      "核心挑战是克服模型开发中的方差陷阱"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5eac9631ffd99c4ba674aee4a7747f09",
+    "title": "Jim Cramer Agrees That Accenture Is “Being Outcompeted By OpenAI and Anthropic”",
+    "url": "https://www.reddit.com/r/artificial/comments/1uapc81/jim_cramer_agrees_that_accenture_is_being/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-20T06:33:02+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uapc81/jim_cramer_agrees_that_accenture_is_being/\"> <img alt=\"Jim Cramer Agrees That Accenture Is “Being Outcompeted By OpenAI and Anthropic”\" src=\"https://external-preview.redd.it/8kZV8OJ9pdl9-Od7Wido9Bby5c7TxqIZRNeFw9GKT_s.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e45cc26ade7d12170bbdd99b539044a64546a6da\" title=\"Jim Cramer Agrees That Accenture Is “Being Outcompeted By OpenAI and Anthropic”\" /> </a> </td><td> &#32;",
+    "title_zh": "Jim Cramer同意埃森哲正被OpenAI和Anthropic超越",
+    "summary_zh": "知名财经评论员Jim Cramer表示，咨询巨头埃森哲在AI领域正面临来自OpenAI和Anthropic的激烈竞争，其传统业务模式可能被新一代AI公司所取代。",
+    "key_points": [
+      "Jim Cramer认为埃森哲正被OpenAI和Anthropic超越",
+      "AI原生公司可能颠覆传统咨询业务模式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8b65e3b1037bf17ffda440136154c746",
+    "title": "Most AI features don't fail because of the model",
+    "url": "https://www.reddit.com/r/artificial/comments/1uaot41/most_ai_features_dont_fail_because_of_the_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-20T06:01:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been sitting on this for a bit after watching an AI feature at my last job basically die a slow death post-launch, and I think the model-failure explanation is usually a red herring tbh. Concrete version of what I mean. We had an agent doing first-pass triage on inbound support tickets, routing + drafting a suggested reply for a human to approve. Launched, looked great for like 6 weeks. Engineering was watching latency (fine, consistently under 2s) and error rat",
+    "title_zh": "大多数AI功能的失败并非模型之过",
+    "summary_zh": "文章指出，AI产品失败的主要原因往往不是模型本身的问题，而是产品设计、集成和用户体验等非模型因素，作者通过一个内部AI客服工单分类功能的失败案例进行了说明。",
+    "key_points": [
+      "AI功能失败常归咎于模型，但模型并非主因",
+      "产品设计、集成和用户体验才是关键失败因素",
+      "作者用内部客服工单分类AI的失败案例佐证"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
