@@ -1,0 +1,22 @@
+# Feature 状态机 —— devflow hooks 据此判断阶段、该卡哪一关。
+feature: NNNN-name          # 与目录名一致
+type: feature               # feature=全流程 | fix | chore（fix/chore 走精简流程）
+branch: feat/xxx            # hook 用 git 分支名定位 current feature
+created: YYYY-MM-DD
+
+# 阶段取值：pending | in_progress | done | n/a
+phases:
+  spec: in_progress         # 需求 + 验收标准已落盘（建议先 /devflow:feature-clarify）
+  design: pending           # design.md 产出
+  adr: n/a                  # 仅当有架构决策时置 in_progress/done
+  code: pending
+  tests: pending            # 测试全绿
+  docs: pending             # 文档已更新
+
+acceptance:
+  - "<验收标准1>"
+
+gates:                      # 覆盖项目级默认；fix/chore 可按需关闭
+  design_required: true
+  tests_required: true
+  docs_required: true

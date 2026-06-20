@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "project_type": "mature",
+  "baseline_mode": true,
+  "modules": [
+    {
+      "name": "src",
+      "language": "python",
+      "source_globs": ["src/**"],
+      "test_cmd": "",
+      "lint_cmd": "ruff check src"
+    }
+  ],
+  "test_cmd": "",
+  "lint_cmd": "ruff check src",
+  "paths": {
+    "specs_dir": "docs/specs",
+    "adr_dir": "docs/adr",
+    "backlog": "docs/_backlog.md",
+    "constitution": "docs/constitution.md"
+  },
+  "gates": {
+    "design_required": true,
+    "tests_required": false,
+    "docs_required": true,
+    "commit_convention": true,
+    "lint_soft_remind": true
+  },
+  "skills": {
+    "clarify": "devflow:devflow-clarify",
+    "design": "",
+    "test": "",
+    "review": ""
+  }
+}
