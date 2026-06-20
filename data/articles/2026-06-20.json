@@ -464,5 +464,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "90dbd2e231d387da4fdf879fabc44d3c",
+    "title": "Engram — a local, private memory your AI assistants share, over MCP (free, open source)",
+    "url": "https://www.reddit.com/r/artificial/comments/1uahueq/engram_a_local_private_memory_your_ai_assistants/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-20T00:05:06+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uahueq/engram_a_local_private_memory_your_ai_assistants/\"> <img alt=\"Engram — a local, private memory your AI assistants share, over MCP (free, open source)\" src=\"https://external-preview.redd.it/D8UDZjPYFhOmTlkfX-kiZ8JgpT_tVmKfHwZeZBEmfdc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e9a710ee4a88db4a35135c26be3cdb5b8b3c798\" title=\"Engram — a local, private memory your AI assistants share, over MCP (free, open source)\" /",
+    "title_zh": "Engram：一款本地私有、AI助手间共享记忆的开源工具，基于MCP协议",
+    "summary_zh": "Engram是一个免费开源项目，允许AI助手在本地通过MCP协议共享私有记忆，旨在增强多AI协作体验并保护隐私。",
+    "key_points": [
+      "本地私有记忆系统，支持AI助手间通过MCP协议共享",
+      "完全免费开源，强调用户数据隐私和本地存储",
+      "旨在提升多AI助手的协作能力和个性化体验"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "324b609b4c1b6a903d90aac66247a533",
+    "title": "Does AI only use language models?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uagxwh/does_ai_only_use_language_models/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-19T23:22:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I was thinking for math. My father was in his 20s in the 70s. And although accepted to Princeton he did not go. IQ about 20 points higher than mine. And trained himself on things he wanted to know reading magazines and reading books on things to solve problems. Like the hubble telescope. Taught himself optics to figure out how to use what was functional. Not sure what they actually did, I guess sent someone up and fixed it. Or same thing he did. I don't know</p>",
+    "title_zh": "AI仅仅使用语言模型吗？",
+    "summary_zh": "一篇讨论帖，作者通过父亲自学数学的经历，探讨AI是否仅依赖语言模型，还是可以像人类一样通过阅读和解决问题来学习。",
+    "key_points": [
+      "探讨AI学习方式是否应超越语言模型，融入人类式自学",
+      "以作者父亲靠阅读杂志和书籍自学数学的经历为引子",
+      "引发对AI学习范式的开放讨论，而非具体技术发布"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
