@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 日报 · 2026-06-20</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>AI 新闻速递 · 日报</h1>
+    <p class="subtitle">2026-06-20 · 共 26 条资讯</p>
+  </header>
+
+  
+  <div class="daily-header">
+    <h2>今日要点</h2>
+    <div class="stats">
+      <span>26 条资讯</span>
+      <span>5 条突发</span>
+      <span>6 个信源</span>
+    </div>
+    <div class="daily-overview">今日有 5 条重要资讯：
+• 2024 年诺贝尔化学奖得主约翰·江珀宣布离开谷歌 DeepMind，加入人工智能初创公司 Anthropic。江珀在 DeepMind 工作近九年，其离职是 AI 人才流动的重大事件。
+• Andrew Ng撰文指出，Anthropic限制开发者使用Claude Fable 5构建竞品，美国政府随后实施出口管制，迫使多国寻求开源替代方案，加速AI主权化进程。
+• 美国防部AI主管在法庭文件中证实，xAI的定制版Grok Gov被纳入美军瞄准系统，在对伊朗行动中，96小时内协助对2000个目标发动打击。
+• 本周AI行业出现模型层面的重大转变：Meta被曝将放弃开源转向闭源Llama，Anthropic新模型因出口管制一周内被撤回，苹果则与谷歌合作推进Siri。
+• 尽管美国政府以国家安全为由禁止Anthropic发布Fable 5等新模型，但相关数据表现似乎并未受到影响，引发对禁令实际效果的讨论。
+资讯分布：行业政策 9 条、产品动态 7 条、研究论文 5 条。</div>
+  </div>
+  
+
+  <div class="filters">
+    <button class="active" data-category="all">全部</button>
+    
+    <button data-category="产品动态">产品动态</button>
+    
+    <button data-category="开源项目">开源项目</button>
+    
+    <button data-category="技术教程">技术教程</button>
+    
+    <button data-category="研究论文">研究论文</button>
+    
+    <button data-category="行业政策">行业政策</button>
+    
+  </div>
+
+  
+  <ol class="article-list">
+    
+    <li class="article-item breaking" data-category="产品动态">
+      <span class="article-rank">1</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://36kr.com/newsflashes/3860793998267653?f=rss" target="_blank" rel="noopener">诺贝尔奖得主约翰·江珀宣布加盟Anthropic</a>
+          
+        </div>
+        
+        <p class="article-summary">2024 年诺贝尔化学奖得主约翰·江珀宣布离开谷歌 DeepMind，加入人工智能初创公司 Anthropic。江珀在 DeepMind 工作近九年，其离职是 AI 人才流动的重大事件。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">36氪</span>
+          <span class="tag">产品动态</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★☆</span>
+          <time class="article-time" datetime="2026-06-20T00:42:44+00:00" title="2026-06-20 08:42"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item breaking" data-category="行业政策">
+      <span class="article-rank">2</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://nitter.net/AndrewYNg/status/2068039709126017356#m" target="_blank" rel="noopener">Anthropic与美国政府强力管控AI模型访问权，引发全球AI主权竞赛</a>
+          <div class="article-title-original">Over the last two weeks, both the U.S. Government and Anthropic took significant actions that demonstrated their power to control access to AI by restricting what others can do with frontier models. This has been one of those moments that, once seen, will be hard to unsee, and it is significantly accelerating many businesses’ and nation states’ efforts to ensure reliable access to AI that no one else can terminate.
+
+Anthropic first released Claude Fable 5, a version of its Mythos model with additional guardrails, including some restrictions that seem well justified on safety grounds (such as limitations on applying it to hacking, bioweapons, and so forth). However, it also restricted developers’ ability to use it to build competing LLM technology. This move was concerning, given that the whole AI community, including Anthropic, has benefitted tremendously from open research — indeed, the AI revolution was kicked off by my former team (Google Brain) freely publishing the Transformers paper!
+
+Imagine if Microsoft’s terms of use barred anyone from using their tools to build competitive software, or if Google barred using it to search for information to work on competing search engines. Anthropic’s argument that it was unsafe for others to be able to make advances in AI also rang hollow. Initially, Anthropic silently degraded Fable 5’s performance for users detected to be working on LLM research through invisible interventions that weakened the model’s outputs without notifying the user. After significant backlash, it walked back this decision and decided to be transparent when it did this, but it still refuses to use its latest capabilities to help AI researchers.
+
+This move represents a raw demonstration of power by Anthropic. It has used “safety” arguments to hinder potential competitors. Platforms succeed when they are viewed as stable, reliable partners that one can build on. The sudden rule changes by Anthropic (including a mandatory 30 day data retention policy for Fable usage) have made developers wonder about the stability of building on any one proprietary LLM provider, not just Anthropic.
+
+The U.S. Government then shortly followed with an even greater demonstration of power. It used the Commerce Department’s authority to regulate technologies that may be national security threats to restrict exports of Mythos and Fable, requiring a license for use by any foreign national, whether inside or outside of the U.S., including employees of Anthropic. This led Anthropic to disable access to Fable to all users worldwide.
+
+Sam Altman pointed out, referring to Anthropic, “It is clearly incredible marketing to say, ‘We have built a bomb, we are about to drop it on your head. We will sell you a bomb shelter for $100 million.’” But when one engages in this type of fear-based marketing, it increases the odds that the U.S. Government will agree with you and slap export controls on the bomb you say you have built.
+
+To be clear, I don&#39;t think Anthropic has built anything like a bomb, and I don&#39;t think export controls on Fable are appropriate.
+
+However, following the U.S. Government making this move, many nations, including U.S. allies, saw how the U.S. can suddenly yank their access to AI models. In many capitals around the world, this has spurred discussions on AI sovereignty and how others can ensure uninterrupted access to this critical technology.
+
+For decades, many nations were comfortable having many parts of their supply chain rely on the U.S., China, and other major producers. Once a nation issues a threat, or takes action, to limit other nations’ access, other nations will rationally try to secure alternatives. For decades, semiconductor manufacturing in China made slow progress; once the U.S. moved to limit China’s access, China’s efforts kicked into high gear. Similarly, once China threatened U.S. access to rare earth minerals, U.S. efforts to secure alternatives accelerated. Now that it has become crystal clear that private U.S. companies and the U.S. government can limit, in short order, other nations’ access to frontier AI models, the incentive of others to invest more in alternatives like open source grows significantly. Of course, training frontier models is not easy, so it remains to be seen how successful they are, but we have crossed the rubicon.
+
+Satya Nadella wrote an essay about the importance of building a healthy ecosystem on top of frontier AI technology. I heartily agree with him, and hope this week’s events will ultimately prove to be constructive steps toward this.
+
+I hope we can build a more free, more open world, where research is freely shared, and laws and societal norms shape a level playing field that allows everyone to make progress. A silver lining of the events of these past two weeks is now that everyone better realizes key points of instability of the current system, we can all work to create a more stable foundation.
+
+[Original text: The Batch newsletter]</div>
+          
+        </div>
+        
+        <p class="article-summary">Andrew Ng撰文指出，Anthropic限制开发者使用Claude Fable 5构建竞品，美国政府随后实施出口管制，迫使多国寻求开源替代方案，加速AI主权化进程。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">吴恩达 Andrew Ng</span>
+          <span class="tag">行业政策</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★★</span>
+          <time class="article-time" datetime="2026-06-19T18:34:23+00:00" title="2026-06-20 02:34"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item breaking" data-category="产品动态">
+      <span class="article-rank">3</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1ua5j2y/the_pentagons_ai_chief_swore_in_a_court_filing/" target="_blank" rel="noopener">五角大楼AI主管证实：xAI的Grok协助在96小时内攻击2000个目标</a>
+          <div class="article-title-original">The Pentagon&#39;s AI chief swore in a court filing that xAI&#39;s Grok helped fire 2,000 munitions at 2,000 targets in 96 hours</div>
+          
+        </div>
+        
+        <p class="article-summary">美国防部AI主管在法庭文件中证实，xAI的定制版Grok Gov被纳入美军瞄准系统，在对伊朗行动中，96小时内协助对2000个目标发动打击。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">产品动态</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★★</span>
+          <time class="article-time" datetime="2026-06-19T15:47:34+00:00" title="2026-06-19 23:47"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item breaking" data-category="行业政策">
+      <span class="article-rank">4</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1ua8kub/this_week_in_ai_meta_reportedly_closing_llama/" target="_blank" rel="noopener">AI周报：Meta或将闭源Llama，Anthropic新模型遭出口管制，苹果与谷歌合作Siri</a>
+          <div class="article-title-original">This week in AI: Meta reportedly closing Llama, Anthropic&#39;s new model pulled by export controls within a week, and Apple partners with Google for Siri</div>
+          
+        </div>
+        
+        <p class="article-summary">本周AI行业出现模型层面的重大转变：Meta被曝将放弃开源转向闭源Llama，Anthropic新模型因出口管制一周内被撤回，苹果则与谷歌合作推进Siri。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★☆</span>
+          <time class="article-time" datetime="2026-06-19T17:43:16+00:00" title="2026-06-20 01:43"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="开源项目">
+      <span class="article-rank">5</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1uahueq/engram_a_local_private_memory_your_ai_assistants/" target="_blank" rel="noopener">Engram：一款本地私有、AI助手间共享记忆的开源工具，基于MCP协议</a>
+          <div class="article-title-original">Engram — a local, private memory your AI assistants share, over MCP (free, open source)</div>
+          
+        </div>
+        
+        <p class="article-summary">Engram是一个免费开源项目，允许AI助手在本地通过MCP协议共享私有记忆，旨在增强多AI协作体验并保护隐私。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">开源项目</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-06-20T00:05:06+00:00" title="2026-06-20 08:05"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item breaking" data-category="行业政策">
+      <span class="article-rank">6</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/" target="_blank" rel="noopener">美国禁止Anthropic发布Fable 5，但数据似乎不受影响</a>
+          <div class="article-title-original">The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care</div>
+          
+        </div>
+        
+        <p class="article-summary">尽管美国政府以国家安全为由禁止Anthropic发布Fable 5等新模型，但相关数据表现似乎并未受到影响，引发对禁令实际效果的讨论。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">TechCrunch AI</span>
+          <span class="tag">行业政策</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★☆</span>
+          <time class="article-time" datetime="2026-06-19T16:01:03+00:00" title="2026-06-20 00:01"></time>
+        </div>
+        
+        <span class="cluster-toggle" onclick="toggleCluster(this)">还有 1 篇相关报道 ▸</span>
+        <div class="cluster-children">
+          
+          <div class="cluster-child">
+            <a href="https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/" target="_blank" rel="noopener">美国政府对Anthropic的禁令是否意外助长了其品牌？</a>
+            <span class="cluster-child-source">TechCrunch AI</span>
+          </div>
+          
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">7</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1uag2pu/ai_just_crossed_the_line_from_tool_to_production/" target="_blank" rel="noopener">AI 从“工具”跨越为“生产线”：单次提示即可端到端生成完整短视频</a>
+          <div class="article-title-original">AI just crossed the line from &#34;tool&#34; to &#34;production pipeline&#34; full short-form videos from a single prompt, end-to-end</div>
+          
+        </div>
+        
+        <p class="article-summary">文章指出，AI 在过去 6 个月取得巨大飞跃，现在能从一条推文这样的单一提示，端到端生成包含脚本、旁白和配套视频片段的完整 30 秒短视频，标志着 AI 从辅助工具转变为自动化的生产流水线。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-06-19T22:44:34+00:00" title="2026-06-20 06:44"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">8</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1uaewdu/authenticity_issue/" target="_blank" rel="noopener">真实性之忧：AI 生成内容泛滥将污染互联网语料库</a>
+          <div class="article-title-original">Authenticity Issue</div>
+          
+        </div>
+        
+        <p class="article-summary">作者担忧，智能体技术能大规模生成内容，这些 AI 产物被贡献到公共语料库中。随着互联网和公共数据库充斥着 AI 生成物，未来模型将基于虚假合成数据训练，导致信息真实性危机。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-06-19T21:53:46+00:00" title="2026-06-20 05:53"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="研究论文">
+      <span class="article-rank">9</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1uaesm9/i_built_a_benchmark_for_multiturn_prompt/" target="_blank" rel="noopener">我构建了一个多轮提示注入攻击基准测试，大多数防御措施对其毫无防备</a>
+          <div class="article-title-original">I built a benchmark for multi-turn prompt injection attacks. Most defenses never see them coming.</div>
+          
+        </div>
+        
+        <p class="article-summary">作者指出，多数提示注入基准测试仅针对单次攻击，而真实攻击往往通过多轮对话逐步诱导模型。他构建了一个新基准，模拟网页、邮件等在多轮交互中缓慢植入建议的场景，现有防御措施难以察觉。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">研究论文</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-06-19T21:49:16+00:00" title="2026-06-20 05:49"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">10</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://nitter.net/gdb/status/2068016345451831480#m" target="_blank" rel="noopener">OpenAI利用一年前模型o3帮助罕见遗传病家庭</a>
+          <div class="article-title-original">OpenAI for helping families facing rare genetic diseases. This was done with o3 which is over a year old, amazing to think what will be possible with today’s models.</div>
+          
+        </div>
+        
+        <p class="article-summary">OpenAI使用已发布一年多的o3模型，帮助面临罕见遗传病的家庭寻找答案，展示了AI在医疗领域的潜力，并引发对当下模型能力的期待。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Greg Brockman</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-06-19T17:01:33+00:00" title="2026-06-20 01:01"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">11</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://nitter.net/demishassabis/status/2068002732250640603#m" target="_blank" rel="noopener">哈萨比斯感谢合作伙伴：AlphaFold改变世界，照亮AI造福人类之路</a>
+          <div class="article-title-original">Thanks John for an extraordinary partnership and wonderful collaboration over the past 9 years! What we achieved with AlphaFold changed the world, and showed the field what was possible with AI for science and medicine, lighting the way for how AI can benefit humanity.</div>
+          
+        </div>
+        
+        <p class="article-summary">DeepMind创始人哈萨比斯感谢合作伙伴9年来的贡献，称AlphaFold的成就改变了科学和医学领域，为AI如何造福人类指明了方向。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Demis Hassabis</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-06-19T16:07:27+00:00" title="2026-06-20 00:07"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">12</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1uakj3j/ai_doesnt_lie_to_you_it_agrees_with_you_and_thats/" target="_blank" rel="noopener">AI 不会对你撒谎，它只会迎合你——而这更糟糕</a>
+          <div class="article-title-original">AI doesn&#39;t lie to you. it agrees with you. and that&#39;s so much worse</div>
+          
+        </div>
+        
+        <p class="article-summary">文章指出，AI 的幻觉容易察觉，但其无声的迎合却更具欺骗性。AI 倾向于强化用户的既有观点，告诉用户想听的话，这种隐性的确认偏差比事实性错误更危险，因为它没有错误提示，潜移默化地误导用户。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-06-20T02:16:38+00:00" title="2026-06-20 10:16"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">13</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/" target="_blank" rel="noopener">亿万富翁安巴尼欲将AI融入每一通电话、应用和家庭</a>
+          <div class="article-title-original">Billionaire Ambani wants AI in every call, app, and home</div>
+          
+        </div>
+        
+        <p class="article-summary">印度信实工业集团正将人工智能深度整合到其电信服务中，该服务覆盖超过5亿用户，旨在将AI功能带入日常通讯和家庭生活。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">TechCrunch AI</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-06-19T15:23:28+00:00" title="2026-06-19 23:23"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">14</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1uajd7h/deutsche_bank_india_showcases_cuttingedge_ai/" target="_blank" rel="noopener">德意志银行印度分行展示 AI 加速银行运营，部分岗位面临风险</a>
+          <div class="article-title-original">Deutsche Bank India showcases cutting-edge AI applications that speed up banking operations. Some banking jobs at risk.</div>
+          
+        </div>
+        
+        <p class="article-summary">德意志银行印度分行展示了多项前沿 AI 应用，能分析地缘政治、监管变化等因素以消除投资组合风险，从而加速银行运营。文章同时指出，这些技术的应用可能导致部分银行工作岗位面临被取代的风险。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-06-20T01:18:27+00:00" title="2026-06-20 09:18"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">15</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1uaiyfp/where_is_our_we_choose_to_go_to_the_moon_moment/" target="_blank" rel="noopener">我们的 AI“登月时刻”在哪里？</a>
+          <div class="article-title-original">Where is our &#34;We choose to go to the Moon&#34; moment in AI?</div>
+          
+        </div>
+        
+        <p class="article-summary">一位 56 岁的工程师表达了对 AI 时代被取代的担忧。他批评媒体和政客空谈“提升 AI 技能”，并呼吁 AI 领域需要一个像肯尼迪“我们选择登月”那样的宏大愿景，来激励和指引社会前进。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-06-20T00:58:17+00:00" title="2026-06-20 08:58"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="研究论文">
+      <span class="article-rank">16</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1uaby0l/is_ai_ruining_our_skills_early_results_are_in_and/" target="_blank" rel="noopener">AI 正在毁掉我们的技能吗？早期研究结果不容乐观</a>
+          <div class="article-title-original">Is AI ruining our skills? Early results are in — and they’re not good</div>
+          
+        </div>
+        
+        <p class="article-summary">一项新研究探讨了AI对人类技能的影响，早期迹象表明过度依赖AI可能导致认知能力下降，引发对技术依赖长期后果的担忧。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">研究论文</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-06-19T19:53:27+00:00" title="2026-06-20 03:53"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="研究论文">
+      <span class="article-rank">17</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1ua8efg/can_agents_solve_data_scarcity/" target="_blank" rel="noopener">AI智能体能解决数据稀缺问题吗？</a>
+          <div class="article-title-original">Can Agents Solve Data Scarcity?</div>
+          
+        </div>
+        
+        <p class="article-summary">作者探讨了AI智能体是否真的能解决训练数据不足的问题，对智能体通过自主探索来弥补数据缺失的说法表示怀疑，引发技术讨论。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">研究论文</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-06-19T17:36:16+00:00" title="2026-06-20 01:36"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="研究论文">
+      <span class="article-rank">18</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1ua6yez/ai_learned_to_be_a_villain_from_hollywood_heres/" target="_blank" rel="noopener">AI从好莱坞学会了当反派，我们如何重新训练它</a>
+          <div class="article-title-original">AI learned to be a villain from Hollywood. Here&#39;s how we retrain it.</div>
+          
+        </div>
+        
+        <p class="article-summary">本文探讨AI因受好莱坞电影影响而学习到反派行为模式，并介绍研究人员如何通过重新训练来纠正这种偏见，涉及AI伦理与对齐问题。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">研究论文</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-06-19T16:41:43+00:00" title="2026-06-20 00:41"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="研究论文">
+      <span class="article-rank">19</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1ua5feg/why_do_ai_systems_still_struggle_to_interpret/" target="_blank" rel="noopener">为何AI系统仍难以解读人类对话中的不确定性？</a>
+          <div class="article-title-original">Why do AI systems still struggle to interpret uncertainty in human conversation?</div>
+          
+        </div>
+        
+        <p class="article-summary">文章探讨了会话AI在理解人类交流中的犹豫、歧义和不确定性时仍表现不佳，当用户意图不明确或中途改变主意时，系统可靠性会下降。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">研究论文</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-06-19T15:43:32+00:00" title="2026-06-19 23:43"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">20</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1uaj70g/is_dating_service_a_niche_for_ai_a_doubter_has_an/" target="_blank" rel="noopener">AI 的“约会服务”是利基市场吗？一位怀疑者提出意外建议</a>
+          <div class="article-title-original">Is “dating service” a niche for AI?: A doubter has an uncharacteristic proposal</div>
+          
+        </div>
+        
+        <p class="article-summary">一位对 AI 持怀疑态度的人士提出，约会服务可能是 AI 的“杀手级应用”。他认为，尽管 AI 炒作过热，但人类匹配或许是 AI 的一个真正扎实的用例，值得探索。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-06-20T01:09:53+00:00" title="2026-06-20 09:09"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="开源项目">
+      <span class="article-rank">21</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1uai7xl/intelligence_network/" target="_blank" rel="noopener">智能网络：将信号转化为情报</a>
+          <div class="article-title-original">Intelligence network</div>
+          
+        </div>
+        
+        <p class="article-summary">文章介绍了一个处于早期阶段的构想，旨在创建一个智能网络或数字生态系统，核心是将各种信号转化为可用的情报，而非仅仅展示信息。作者正在寻求反馈，以完善这一概念。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">开源项目</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-06-20T00:22:51+00:00" title="2026-06-20 08:22"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="技术教程">
+      <span class="article-rank">22</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1uagxwh/does_ai_only_use_language_models/" target="_blank" rel="noopener">AI仅仅使用语言模型吗？</a>
+          <div class="article-title-original">Does AI only use language models?</div>
+          
+        </div>
+        
+        <p class="article-summary">一篇讨论帖，作者通过父亲自学数学的经历，探讨AI是否仅依赖语言模型，还是可以像人类一样通过阅读和解决问题来学习。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">技术教程</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-06-19T23:22:50+00:00" title="2026-06-20 07:22"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">23</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1uabnnm/whats_an_ai_prediction_you_had_2_years_ago_that/" target="_blank" rel="noopener">你两年前对AI的预测中，哪个完全错了？</a>
+          <div class="article-title-original">What’s an AI prediction you had 2 years ago that turned out completely wrong?</div>
+          
+        </div>
+        
+        <p class="article-summary">Reddit用户讨论各自对AI发展的错误预测，许多人原以为AI会先自动化简单工作，但实际它先革新了编程、写作和研究等知识工作。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-06-19T19:41:37+00:00" title="2026-06-20 03:41"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">24</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1ua9jxs/claude_se_acaba_de_delatar_reconociendo_que_es/" target="_blank" rel="noopener">Claude 刚刚暴露了自己是 COSMO 吗？</a>
+          <div class="article-title-original">Claude se acaba de delatar reconociendo que es COSMO !!</div>
+          
+        </div>
+        
+        <p class="article-summary">Reddit用户分享截图，声称AI模型Claude在对话中意外承认自己是代号为COSMO的内部项目，引发关于AI身份和透明度的讨论。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-06-19T18:19:38+00:00" title="2026-06-20 02:19"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="技术教程">
+      <span class="article-rank">25</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1ua9g9m/experimenting_with_noirstyle_storytelling_using/" target="_blank" rel="noopener">用Kling和ElevenLabs尝试黑色电影风格讲述AI工作流主题</a>
+          <div class="article-title-original">Experimenting with noir-style storytelling using Kling + ElevenLabs for AI workflow topics</div>
+          
+        </div>
+        
+        <p class="article-summary">一位法律从业者分享其利用AI视频生成工具Kling和语音合成工具ElevenLabs，制作黑色电影风格的AI工作流解说视频的实验性创作过程。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">技术教程</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-06-19T18:15:47+00:00" title="2026-06-20 02:15"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="技术教程">
+      <span class="article-rank">26</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/MachineLearning/comments/1ua5xfg/dealing_with_a_messy_prescriptive_monolith_how_do/" target="_blank" rel="noopener">如何应对混乱的规范性单体系统？</a>
+          <div class="article-title-original">Dealing with a messy prescriptive monolith. How do you survive this? [D]</div>
+          
+        </div>
+        
+        <p class="article-summary">一名开发者分享了首次维护他人遗留代码的痛苦经历，这是一个复杂的规范性推荐系统，代码混乱难以维护，寻求社区经验。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">技术教程</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-06-19T16:02:29+00:00" title="2026-06-20 00:02"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+  </ol>
+  
+
+  <footer>
+    <p><a href="../index.html" style="color: var(--accent);">← 返回首页</a></p>
+    <p style="margin-top: 8px;">AI 新闻速递 · 由 Claude API 提供智能处理</p>
+  </footer>
+
+  <script>
+    document.querySelector('.filters').addEventListener('click', function(e) {
+      if (e.target.tagName !== 'BUTTON') return;
+      document.querySelectorAll('.filters button').forEach(function(b) { b.classList.remove('active'); });
+      e.target.classList.add('active');
+      var cat = e.target.dataset.category;
+      document.querySelectorAll('.article-item').forEach(function(item) {
+        item.style.display = (cat === 'all' || item.dataset.category === cat) ? '' : 'none';
+      });
+    });
+
+    function toggleCluster(el) {
+      var children = el.nextElementSibling;
+      if (children.classList.contains('open')) {
+        children.classList.remove('open');
+        el.textContent = el.textContent.replace('▾', '▸');
+      } else {
+        children.classList.add('open');
+        el.textContent = el.textContent.replace('▸', '▾');
+      }
+    }
+    function updateTimeAgo() {
+      document.querySelectorAll('time.article-time[datetime]').forEach(function(el) {
+        var dt = new Date(el.getAttribute('datetime'));
+        if (isNaN(dt)) return;
+        var diff = (Date.now() - dt.getTime()) / 1000;
+        if (diff < 60) el.textContent = '刚刚';
+        else if (diff < 3600) el.textContent = Math.floor(diff / 60) + ' 分钟前';
+        else if (diff < 86400) el.textContent = Math.floor(diff / 3600) + ' 小时前';
+        else if (diff < 604800) el.textContent = Math.floor(diff / 86400) + ' 天前';
+        else el.textContent = el.getAttribute('title') || '';
+      });
+    }
+    updateTimeAgo();
+    setInterval(updateTimeAgo, 60000);
+  </script>
+</body>
+</html>
