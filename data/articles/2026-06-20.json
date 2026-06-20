@@ -873,5 +873,97 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9993dc19d258e3a245feeffc44d6c363",
+    "title": "How I Built a $20k/Month Web Design Agency",
+    "url": "https://www.reddit.com/r/artificial/comments/1uawcaf/how_i_built_a_20kmonth_web_design_agency/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-20T13:13:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My philosophy is that the longer you stay in a business, the better you get and the better systems you build.</p> <p>4 years ago I was a complete rookie in the web design niche. My whole workflow was bad and not scalable at all. I used to adapt myself to every client. Some clients paid upfront before seeing the website, others paid half upfront and half after, and others paid after the website was finished. Honestly, I was doing whatever I could to get paid. Loo",
+    "title_zh": "我如何打造一家月收入2万美元的网页设计公司",
+    "summary_zh": "作者分享了自己从零开始建立网页设计公司的经历，强调长期坚持和系统优化是其实现月入2万美元的关键。",
+    "key_points": [
+      "在网页设计领域持续深耕4年实现月入2万美元",
+      "核心经验是长期坚持并不断优化业务系统"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6f8d7e3ec1d3d8091dfc7e5c94721c53",
+    "title": "What has generative Ai acttculy solved?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uawb5d/what_has_generative_ai_acttculy_solved/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-20T13:12:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Cause no matter what I see, generative Ai has sloved nouthing. But people keep saying it's &quot;The future&quot;. </p> <p>What future? Because all that generative Ai had done is:</p> <p>-making it easy for people to spred propoganda</p> <p>-making clean water much harder to accese because of the many data set it need's</p> <p>-stole many artists' artwork </p> <p>-demotivated me from sharing real art I made as generative Ai will just spit out a much uglier and m",
+    "title_zh": "生成式AI到底解决了什么实际问题？",
+    "summary_zh": "Reddit用户对生成式AI的实际价值提出质疑，认为其目前主要被用于传播虚假信息，而非解决实质性问题。",
+    "key_points": [
+      "用户质疑生成式AI的实际社会价值",
+      "指出当前AI主要被用于制造虚假信息等问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6ade5c5a8cb59786d91695d1d553f967",
+    "title": "An open handbook on LLM inference at scale (GPU internals, KV cache, batching, vLLM/SGLang/TensorRT-LLM) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uavduv/an_open_handbook_on_llm_inference_at_scale_gpu/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-20T12:27:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been working through the internals of LLM inference and writing up what I learn as an open, in-progress handbook.</p> <p>Just wrapped another chapter on GPU execution and memory internals: why a GPU sits mostly idle during inference, how the memory hierarchy gates throughput, and where the real bottlenecks live. Added mermaid diagrams for the architecture pieces so the flow is easier to follow than a wall of text.</p> <p>It's a personal learning project, st",
+    "title_zh": "大规模LLM推理开源手册：深入GPU内部与推理框架",
+    "summary_zh": "一个持续更新的开源手册，深入讲解LLM推理的GPU内部机制、KV缓存、批处理等技术，并涵盖vLLM等主流框架。",
+    "key_points": [
+      "开源手册系统讲解LLM推理的GPU与内存底层原理",
+      "内容涵盖vLLM、SGLang等主流推理框架"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "adcdd846435a41e1f6cadafb0771333b",
+    "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+    "url": "https://www.qbitai.com/2026/06/437023.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-06-20T11:56:57+00:00",
+    "content_snippet": "全球最聪明的人之一，成了AI最狂热的布道者",
+    "title_zh": "陶哲轩12年前的预言，现在AI帮他兑现了",
+    "summary_zh": "文章报道了著名数学家陶哲轩利用AI工具实现其多年前的数学研究构想，展示了他对AI技术的积极拥抱。",
+    "key_points": [
+      "数学家陶哲轩用AI实现12年前的数学研究预言",
+      "展示了顶尖学者对AI技术应用的积极实践"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
