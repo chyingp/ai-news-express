@@ -654,5 +654,28 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "42735ff89154ddc504f87b6e92145941",
+    "title": "[R] I built a cognitive architecture that learns like a brain — no backprop, no GPU, no forgetting",
+    "url": "https://www.reddit.com/r/artificial/comments/1uanrcx/r_i_built_a_cognitive_architecture_that_learns/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-20T05:05:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most AI systems are built on three assumptions: you need backpropagation, you need GPUs, and you need to carefully prevent catastrophic forgetting. I wanted to see what happens if you throw all three out.</p> <p>RAVANA is a research prototype that:</p> <ul> <li><strong>Learns through prediction errors</strong> — like Friston's free energy principle, the system feels &quot;pressure&quot; when predictions fail and self-organizes to reduce it</li> <li><strong>Never",
+    "title_zh": "我构建了一个像大脑一样学习的认知架构——无需反向传播、GPU且不会遗忘",
+    "summary_zh": "RAVANA 是一个研究原型，探索抛弃反向传播、GPU 和灾难性遗忘的范式，采用类似大脑的学习机制。当前版本仅为一篇文章，未提供具体技术细节和性能评估。",
+    "key_points": [
+      "抛弃反向传播、GPU与防遗忘机制，探索类脑学习范式",
+      "RAVANA为研究原型，当前状态仅为一篇未完成文章"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
