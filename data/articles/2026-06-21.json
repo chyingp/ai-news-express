@@ -655,5 +655,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4b3a42052c42ff3adc4ed5492f247140",
+    "title": "My personal experience from last 4 years about AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubpzj7/my_personal_experience_from_last_4_years_about_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-21T13:23:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, i don't know it will approve or not btw</p> <p>Im Akash I’ve been building in the AI space for the last 4 years pretty much since ChatGPT first dropped and blew everything up. During that time, my team and we have built a ton of stuff: custom AI chatbots, SaaS platforms, automated customer support systems, and a lot of tailored products.</p> <p>&#x200b;</p> <p>In the beginning, crafting the perfect prompt felt like finding a secret cheat code. If y",
+    "title_zh": "我在AI领域过去4年的个人经历",
+    "summary_zh": "作者分享自ChatGPT发布以来，在AI领域4年的创业与建设经历，包括团队构建的大量AI产品和反思，为从业者提供个人视角的行业见闻。",
+    "key_points": [
+      "作者自ChatGPT发布后投入AI领域4年",
+      "团队构建了大量自定义AI聊天机器人等产品",
+      "分享个人创业经历与行业反思"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
