@@ -209,5 +209,128 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "44cf7ae3b6014c6ece22cb2a4c5eb359",
+    "title": "[ECCV 2026] Paper Decision Appeals Discussion [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uc0m1e/eccv_2026_paper_decision_appeals_discussion_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-21T20:39:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>With the release of meta-reviews, ECCV sent out a google form for dissatisfied authors to submit an appeal for the following reasons:</p> <ol> <li>Policy errors, e.g., reviewers or Area Chairs applied a policy that does not exist, or reviewers or Area Chairs applied policies that are not applicable for the contribution type of the paper; </li> <li>Clerical errors, e.g., it is clear from the meta-review that an Area Chair intended to accept a paper but the paper ",
+    "title_zh": "ECCV 2026 论文决定申诉讨论 [D]",
+    "summary_zh": "随着ECCV 2026会议发布元评审，主办方提供了申诉渠道，允许作者对政策错误、评审或领域主席的不当应用等特定问题进行申诉。",
+    "key_points": [
+      "ECCV 2026 开放论文决定申诉，针对政策错误等特定原因",
+      "作者可通过谷歌表格提交申诉，对评审结果提出异议",
+      "讨论聚焦于申诉流程的合理性和有效性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "11231a7a6c8dabd810356f902e74daa3",
+    "title": "Conflict of Interest",
+    "url": "https://www.reddit.com/r/artificial/comments/1uc0kmx/conflict_of_interest/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-21T20:37:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>Founders Fund’s</strong> tech holdings, including Palantir, SpaceX, DeepMind, OpenAI, Anthropic, and Persona Identities… Thiel’s role as co‑founder/partner linking him to these companies.</p> <p><strong>Persona Identities</strong> is the verification partner for both <strong>Claude (Anthropic)</strong> and <strong>OpenAI</strong>, “chosen for its technology, privacy, and security”.</p> <p><a href=\"https://support.claude.com/en/articles/14328960-identity-",
+    "title_zh": "利益冲突探讨",
+    "summary_zh": "文章讨论Founders Fund及其合伙人彼得·蒂尔持有的科技资产，包括Palantir、SpaceX、DeepMind、OpenAI和Anthropic等，并指出其身份验证合作伙伴Persona Identities可能引发的利益冲突问题。",
+    "key_points": [
+      "Founders Fund 投资组合涵盖OpenAI、Anthropic、Palantir等多家AI和科技公司",
+      "彼得·蒂尔作为合伙人，其角色与多家公司存在利益关联",
+      "其身份验证合作伙伴Persona Identities可能加剧利益冲突担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7299047abd421e13a2636962cb482a15",
+    "title": "Hello!",
+    "url": "https://www.reddit.com/r/artificial/comments/1uc0ank/hello/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-21T20:26:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>First of all, I'd like to apologize if this post doesn't fit this community.</p> <p>Which AI assistant do you think is the best for guided learning? I'd like to learn subjects such as geography, astronomy, and physics purely out of personal interest—not for school—and I'm looking for a great learning experience: accurate information, clear explanations, and coverage of all the important concepts without leaving anything essential out. So far I've tried ChatGPT, ",
+    "title_zh": "你好！寻求最佳AI学习助手",
+    "summary_zh": "一位用户发帖询问，出于个人兴趣（如地理、天文、物理）进行引导式学习时，哪款AI助手效果最佳，并为此前可能离题的帖子致歉。",
+    "key_points": [
+      "用户寻求用于个人兴趣引导式学习的最佳AI助手",
+      "学习领域涉及地理、天文和物理等非学校科目",
+      "帖子反映用户对AI教育工具选择的困惑"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cfdb6772fa723ccf23ffc81875b63fb6",
+    "title": "If you use more than one AI model, how do you keep your context straight across them?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubzzi3/if_you_use_more_than_one_ai_model_how_do_you_keep/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-21T20:13:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've ended up using a few models for different things. One tends to write better, another reasons through problems better, another I just use for quick stuff. On paper that's great, in practice I spend a stupid amount of time getting each one up to speed</p> <p>Every time I switch I'm basically re-explaining the same background. Here's the project, here's what we already figured out, here's the docs that matter. The conversation in any single model is fine, it's",
+    "title_zh": "如果你使用多个AI模型，如何保持上下文一致？",
+    "summary_zh": "用户分享使用多个AI模型（一个擅长写作、一个擅长推理、一个用于快速任务）的体验，并抱怨在不同模型间同步上下文非常耗时，寻求解决方案。",
+    "key_points": [
+      "用户同时使用多个AI模型，各模型专长不同",
+      "在不同模型间传递上下文和背景信息效率低下",
+      "寻求能跨模型保持上下文连贯性的方法或工具"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a3c585f97147cabdef904a385327613d",
+    "title": "AI might make me fail my class",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubzc6m/ai_might_make_me_fail_my_class/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-21T19:47:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I wrote an entire paper over the last few days for my college course. 7 pages with 10 citations to back up my own research. Even though 0% of it was written by AI multiple checkers online are saying it is 100% written by AI. I hate how I might fail a course and get kicked out of college over bs AI checkers saying my 100% handwritten work is fake. One of the checkers said an entire sentence was AI written because I started it with the word &quot;studies&quot;. I ",
+    "title_zh": "AI可能害我挂科",
+    "summary_zh": "一名大学生抱怨自己花费数日、完全手工撰写的7页论文，被多个在线检测工具误判为AI生成，担心因此挂科并面临学术不端指控。",
+    "key_points": [
+      "学生完全自撰的论文被多个AI检测工具误判为AI生成",
+      "AI检测工具的高误报率引发对学术公正性的担忧",
+      "事件凸显了AI内容检测技术在教育领域的局限性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
