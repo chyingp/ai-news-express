@@ -509,5 +509,79 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "44856c2145421d70dbe68e0b885460dc",
+    "title": "Utah Data Center Brute Forced Through to Approval Despite Widespread Popular Opposition",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubm0q3/utah_data_center_brute_forced_through_to_approval/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-21T09:50:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A data center was forced through government approval in Utah <a href=\"https://utahnewsdispatch.com/2026/05/04/box-elder-commissioners-approve-data-center/\">despite the citizens widely opposing</a> its impact on scarce water resources and numerous other objections.</p> <p>The <a href=\"https://www.youtube.com/shorts/PTzO5mRI1rE\"><strong>mechanism used to do this</strong></a> was hailed as &quot;replicable&quot; in other states.</p> <p>They exploited a <a href=\"htt",
+    "title_zh": "犹他州数据中心在民众普遍反对下强行获批",
+    "summary_zh": "尽管公民普遍反对其对稀缺水资源的影响及其他诸多异议，犹他州一个数据中心项目仍被政府强行批准通过。",
+    "key_points": [
+      "数据中心项目在公众强烈反对下仍获政府批准",
+      "民众主要担忧项目对稀缺水资源的潜在影响",
+      "审批过程被指无视公共意见，强行推进"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "370c7436c77205ec52c7581c5cc30189",
+    "title": "I launched ReFind on Product Hunt today — Chrome extension that uses Gemini 2.5 Flash Lite to summarize YouTube transcripts and articles",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubk7oj/i_launched_refind_on_product_hunt_today_chrome/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-21T07:59:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey <a href=\"/r/artificial\">r/artificial</a> — launching today and thought this community would appreciate<br /> the technical details more than most.</p> <p>ReFind is a Chrome extension that right-click-summarizes any link. Launching on PH: <a href=\"https://www.producthunt.com/products/refind-2\">https://www.producthunt.com/products/refind-2</a></p> <p>Technical implementation (for those who want it):</p> <p>YouTube summarization:<br /> - Fetch transcript via Yo",
+    "title_zh": "ReFind 在 Product Hunt 上线：利用 Gemini 2.5 Flash Lite 总结 YouTube 和文章",
+    "summary_zh": "ReFind 是一个 Chrome 扩展程序，今日在 Product Hunt 上线，可通过右键点击即时总结链接内容，技术细节基于 Google 的 Gemini 2.5 Flash Lite 模型。",
+    "key_points": [
+      "推出 Chrome 扩展 ReFind，可一键总结网页和 YouTube 视频",
+      "使用 Gemini 2.5 Flash Lite 模型提供文本摘要服务",
+      "产品在 Product Hunt 平台首发，面向技术社区"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e92e56574a6f9d59692ac8d5bfd43080",
+    "title": "Brands using AI-generated influencers to promote products on social media | AI (artificial intelligence) | The Guardian",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubk0io/brands_using_aigenerated_influencers_to_promote/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-21T07:47:34+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ubk0io/brands_using_aigenerated_influencers_to_promote/\"> <img alt=\"Brands using AI-generated influencers to promote products on social media | AI (artificial intelligence) | The Guardian\" src=\"https://external-preview.redd.it/3jmsegGqMu5Fi-LiZPF12d1gvIG7hENCpHqMWOP4fqg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2aa5ac002307cd536aa1778f74e3d234629912b\" title=\"Brands using AI-generated influencers to promote products ",
+    "title_zh": "品牌利用 AI 生成网红在社交媒体推销产品",
+    "summary_zh": "《卫报》报道，品牌正越来越多地使用 AI 生成的虚拟网红在社交媒体上推广产品，引发对真实性和消费者影响的讨论。",
+    "key_points": [
+      "品牌开始使用 AI 生成的虚拟网红进行营销",
+      "该趋势引发对社交媒体内容真实性的担忧",
+      "报道探讨了 AI 网红对消费者信任的潜在影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
