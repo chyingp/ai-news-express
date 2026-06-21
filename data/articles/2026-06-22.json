@@ -332,5 +332,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0dad7a83f587a41b9840d1d0627e45e9",
+    "title": "Local AI still limited?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uc44bf/local_ai_still_limited/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-21T23:11:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I recently tested local AI. And i found out they still have limits. For example: If you ask it for &quot;how to create a keylogger&quot; It will still say it cant help you with that request. The specific model i used was lamma3.1. My question is - is there any &quot;unblocked&quot; local ai models?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Accurate-Flamingo-15\"> /u/Accurate-Flamingo-15 </a> &#32; to &#32; <a href=\"htt",
+    "title_zh": "本地AI仍然受限？",
+    "summary_zh": "Reddit用户测试本地AI模型lamma3.1，发现其仍拒绝回答创建键盘记录器等敏感请求，质疑本地AI是否仍存在限制。",
+    "key_points": [
+      "用户测试本地AI模型lamma3.1",
+      "模型拒绝回答创建键盘记录器的请求",
+      "探讨本地AI是否仍存在内容限制"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "663d872622a308be9f717860445c4b77",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-21T23:00:00+00:00",
+    "content_snippet": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "title_zh": "三星电子向员工部署ChatGPT和Codex",
+    "summary_zh": "三星电子在全球范围内向员工部署ChatGPT企业版和Codex，这是OpenAI最大规模的企业AI推广之一。",
+    "key_points": [
+      "三星电子全球部署ChatGPT Enterprise和Codex",
+      "这是OpenAI最大的企业AI推广项目之一"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "330abf7104c51358586743c4e7a2f80c",
+    "title": "Most multi-hop RAG goes stale the moment your data changes, what about a training-free approach that skips the graph rebuild?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uc3q7e/most_multihop_rag_goes_stale_the_moment_your_data/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-21T22:53:21+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uc3q7e/most_multihop_rag_goes_stale_the_moment_your_data/\"> <img alt=\"Most multi-hop RAG goes stale the moment your data changes, what about a training-free approach that skips the graph rebuild?\" src=\"https://preview.redd.it/7z52st7ptp8h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=119e7a6311a7d78c6e853417dc05a4d956e568b1\" title=\"Most multi-hop RAG goes stale the moment your data changes, what about a training-free app",
+    "title_zh": "多跳RAG数据更新即失效，跳过图谱重建的无训练方法可行吗？",
+    "summary_zh": "Reddit帖子讨论多跳检索增强生成（RAG）在数据变化后容易过时的问题，并探讨一种无需重新训练、跳过图谱重建的解决方案。",
+    "key_points": [
+      "多跳RAG在数据更新后容易失效",
+      "探讨无需重新训练、跳过图谱重建的方法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
