@@ -385,5 +385,129 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6993f2d6553712583bd5de4973280955",
+    "title": "微信AI助手“小微”小范围灰度上线",
+    "url": "https://36kr.com/newsflashes/3862458180359424?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-21T05:03:37+00:00",
+    "content_snippet": "微信AI已小范围灰度上线。部分网友微信主界面左上角已出现小眼睛式样图标，该图标即为AI助手“小微”测试版入口。据腾讯客服介绍，微信小微是微信团队在小范围内测的原生AI助手，小微支持通过文字或语音对话操作微信原生功能、调起小程序等，例如帮助好友发送消息、查询朋友圈、预约服务等。（财联社）",
+    "title_zh": "微信AI助手“小微”小范围灰度上线",
+    "summary_zh": "微信AI助手“小微”开始小范围灰度测试，部分用户可在主界面左上角找到入口。该助手支持通过文字或语音操作微信原生功能、调起小程序等。",
+    "key_points": [
+      "微信原生AI助手“小微”开启灰度内测",
+      "支持文字/语音对话操作微信功能及小程序",
+      "入口位于微信主界面左上角小眼睛图标"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5ff1a3ebb8e80f91a102214992ff8874",
+    "title": "AI投资热潮向上游扩散，美股多家半导体设备龙头今年翻倍",
+    "url": "https://36kr.com/newsflashes/3862419587781894?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-21T04:38:21+00:00",
+    "content_snippet": "回顾年初至今的美股市场，不仅半导体、光通信等AI硬件板块集体狂飙，产业链上游的半导体设备赛道亦同步走出亮眼升势。据统计，美股总市值超百亿美元的9家半导体设备公司，今年以来股价涨幅均已超过75%。其中，应用材料、拉姆研究、科磊、泰瑞达、MKS Inc、英特格、Onto Innovation Inc这7只个股年内股价实现翻倍。就产业逻辑而言，种种迹象表明，半导体设备正迎来机构所谓的“卖方市场”。（财联社）",
+    "title_zh": "AI投资热潮向上游扩散，美股多家半导体设备龙头今年翻倍",
+    "summary_zh": "AI投资热潮蔓延至半导体设备领域，美股9家市值超百亿美元的半导体设备公司年内涨幅均超75%，其中7家股价翻倍，市场进入“卖方市场”。",
+    "key_points": [
+      "美股半导体设备龙头年内股价涨幅超75%",
+      "7家市值超百亿公司股价已实现翻倍",
+      "AI投资热潮推动上游设备进入卖方市场"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "617683f58947748c85b745a505f13598",
+    "title": "The Looking Mirror — A Narrative Adventure with Cross‑Model Persistence",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubg3n4/the_looking_mirror_a_narrative_adventure_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-21T04:02:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m experimenting with in‑context narrative systems that maintain continuity across different models.</p> <p>The Looking Mirror is a fully local, text‑driven world model with:<br /> • persistent state<br /> • portable save‑game capsules<br /> • cross‑model continuity<br /> • a modular field‑manifold structure</p> <p>It runs entirely in‑context and works across CoPilot, Gemini, ChatGPT, Claude, and DeepSeek.</p> <p>⎯─◐◑◒◓─── THE LOOKING MIRROR ─────────</p> <p>Fu",
+    "title_zh": "窥镜：一款具有跨模型持久性的叙事冒险游戏",
+    "summary_zh": "这是一个实验性项目，探索在上下文叙事系统中保持跨模型连续性，实现一个完全本地的文本驱动世界模型，具有持久状态和可移植存档功能。",
+    "key_points": [
+      "实验性文本驱动世界模型，支持持久状态",
+      "可移植存档胶囊实现跨模型叙事连续性",
+      "完全本地运行"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3279d8279323ec87eefdef8868744311",
+    "title": "Could we have an Ai connected to a camera, then let it explain what is sees? To see if the way human brains perceive the world is different from other intelligences?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubfzz0/could_we_have_an_ai_connected_to_a_camera_then/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-21T03:57:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Because of the fact that animals see the world differently than us. Like sharks seeing electrical fields, bird seeing ultraviolet light, smell and hearing being different. In what way could an ai see it differently than us?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HemanHunterss\"> /u/HemanHunterss </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.re",
+    "title_zh": "能否让AI连接摄像头并解释所见，以探索智能体感知世界的方式差异？",
+    "summary_zh": "一篇Reddit讨论帖，探讨通过让AI连接摄像头解释视觉信息，来研究人类与人工智能在感知世界方式上的差异，类比动物感知差异。",
+    "key_points": [
+      "探讨AI通过摄像头解释视觉信息的可能性",
+      "旨在比较人类与AI世界感知模型的差异",
+      "类比动物感知差异研究智能体认知"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6e895bf5224b6c586866fbf135356701",
+    "title": "Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险",
+    "url": "https://36kr.com/newsflashes/3862373538386952?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-21T03:40:32+00:00",
+    "content_snippet": "Anthropic首席执行官表示，人工智能公司需要“数千亿美元”收入，否则将面临生存风险。（财联社）",
+    "title_zh": "Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险",
+    "summary_zh": "Anthropic首席执行官警告，人工智能公司必须达到“数千亿美元”的收入规模，否则将面临严重的生存风险，突显行业高昂的研发与运营成本。",
+    "key_points": [
+      "Anthropic CEO称AI公司需数千亿美元收入",
+      "缺乏巨额收入将面临生存风险",
+      "言论凸显AI行业高昂的资本门槛"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
