@@ -1,0 +1,98 @@
+[
+  {
+    "id": "acfd3fc86bf7d3dd4cbc91d6ff02ebe4",
+    "title": "Best current methods for finetuning whisper on domain specific vocabulary? [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ubvmdx/best_current_methods_for_finetuning_whisper_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-21T17:18:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I’m wondering whether there are any newer or more effective methods for fine tuning whisper on domain specific speech. I’m working on a project where the model needs to reliably detect certain specific words and technical terms. The vocabulary and context are mostly in spanish.</p> <p>Does anyone have experience with a similar use case? Roughly how many hours of labeled audio would be needed before seeing the model converged?</p> <p>I know a",
+    "title_zh": "针对特定领域词汇微调Whisper的最佳当前方法",
+    "summary_zh": "用户在Reddit上询问，是否有针对特定领域语音微调Whisper模型的新方法或更有效方法，旨在让模型可靠检测特定专业术语和词汇。",
+    "key_points": [
+      "探讨微调Whisper以识别特定领域专业术语的方法",
+      "寻求比现有方法更有效的新技术",
+      "关注点在于提升模型对特定词汇的检测可靠性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fbd5471c86837d2e0a4de3c25b15e20a",
+    "title": "EMA on LoRA ? [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ubv0f5/ema_on_lora_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-21T16:54:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys</p> <p>Does anyone know of papers where EMA on LoRA adapters has been used successfully?</p> <p>Im interested in cases where the EMA adapter acts as a self-teacher generating soft labels for the trainable adapter.</p> <p>On-policy self-distillation [1] uses ema for the teacher. However, they seem to fully fine-tune. Any empirical results showing the idea is working on lora/ left models?</p> <p>[1] <a href=\"https://arxiv.org/abs/2601.19897\">https://arxiv.",
+    "title_zh": "在LoRA上使用指数移动平均(EMA)技术",
+    "summary_zh": "用户在Reddit上询问是否有论文成功应用了在LoRA适配器上使用EMA的方法，特别关注将EMA适配器作为自教师，为可训练适配器生成软标签的案例。",
+    "key_points": [
+      "探索EMA在LoRA适配器上的应用研究",
+      "重点寻找EMA适配器作为自教师模型的方法",
+      "关注基于策略的自蒸馏相关技术"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a1a587d6f3e21103d9381480f32f4aa1",
+    "title": "How do you talk to your management about how to use ai for work management?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubuaou/how_do_you_talk_to_your_management_about_how_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-21T16:25:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We got given ai with no instructions. But all the tools are there to make a work structure rather easily. </p> <p>Where and how to put information so the ai can read it for all the people in the team. </p> <p>And although it's there and fairly seamlessly built in the pattern for how to use it isn't. </p> <p>So I went to talk to my boss about how to apply a structure to integrate AI into the work structure. </p> <p>How? How do you get management to understand whe",
+    "title_zh": "如何与管理层沟通使用AI进行工作管理",
+    "summary_zh": "用户在Reddit上寻求建议，关于如何与公司管理层沟通，以利用已分配的AI工具构建工作结构，并解决团队如何共享信息让AI读取的问题。",
+    "key_points": [
+      "公司已提供AI工具但缺乏使用指导",
+      "讨论如何利用AI为团队构建工作结构",
+      "寻求向管理层沟通AI使用方法及信息共享策略"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "46114acbf79be59337d4b8310518724a",
+    "title": "Where do you see prediction and decision-making separating in AI systems?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubu3cy/where_do_you_see_prediction_and_decisionmaking/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-21T16:17:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A lot of AI systems are used for prediction tasks like forecasting outcomes, generating outputs, or estimating probabilities based on data. One thing I keep thinking about is how these systems are used in practice once they are connected to real workflows. In some cases, they stay focused on prediction, while in others they seem to become part of how decisions are made using those predictions. I am trying to understand where people draw the line between a system",
+    "title_zh": "AI系统中预测与决策的分离点在哪里？",
+    "summary_zh": "用户在Reddit上探讨，在AI预测系统连接实际工作流后，预测与决策功能在实践中的分离点，以及这种分离带来的影响。",
+    "key_points": [
+      "讨论AI预测系统在实际应用中如何与决策分离",
+      "关注预测模型连接现实工作流后的实践问题",
+      "探讨预测与决策功能分离的边界和影响"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
