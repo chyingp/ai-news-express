@@ -583,5 +583,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d248316fd69400135328b59cfd60c2ff",
+    "title": "What do you think is currently the biggest technical limitation in generative AI video?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubne3w/what_do_you_think_is_currently_the_biggest/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-21T11:11:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Generative video quality has improved a lot, but there are still some consistent challenges across different models.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/skannedsykanned\"> /u/skannedsykanned </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1ubne3w/what_do_you_think_is_currently_the_biggest/\">[link]</a></span> &",
+    "title_zh": "当前生成式AI视频最大的技术瓶颈是什么？",
+    "summary_zh": "Reddit用户发起讨论，探讨生成式AI视频在质量提升后仍面临哪些普遍的技术挑战。",
+    "key_points": [
+      "用户讨论生成式AI视频普遍存在的技术挑战",
+      "文章仅为Reddit社区提问，未有具体技术分析"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "704b74195b793703fb8fdafd14076f20",
+    "title": "The Surge of Slop—since the release of ChatGPT-3.5 in late 2022, the number of e-books published on Amazon has skyrocketed, tripling by late 2025. A new scientific analysis shows that this is entirely due to the rise of AI-generated books, which now far outnumber human-written books. [The Economist]",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubnaqo/the_surge_of_slopsince_the_release_of_chatgpt35/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-21T11:06:25+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ubnaqo/the_surge_of_slopsince_the_release_of_chatgpt35/\"> <img alt=\"The Surge of Slop—since the release of ChatGPT-3.5 in late 2022, the number of e-books published on Amazon has skyrocketed, tripling by late 2025. A new scientific analysis shows that this is entirely due to the rise of AI-generated books, which now far outnumber human-written books. [The Economist]\" src=\"https://external-preview.redd.it/pfy0aulf8y7h1.jpeg?w",
+    "title_zh": "AI内容泛滥：自ChatGPT发布以来，亚马逊AI生成电子书数量已远超人类创作",
+    "summary_zh": "《经济学人》报道指出，自2022年底ChatGPT-3.5发布以来，亚马逊平台电子书出版量至2025年底增长三倍，科学分析显示这是由于AI生成书籍数量激增并远超人类创作所致。",
+    "key_points": [
+      "AI生成电子书数量在亚马逊上已远超人类创作",
+      "ChatGPT-3.5发布后电子书出版量至2025年底增长三倍"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "56875514ddb4927ae16235c213950312",
+    "title": "I released a softmax-free attention model at GPT-2 Medium scale (~354M params, 11.5B tokens): structural sparsity + tile-skipping kernels for long-context VRAM savings. Open weights + custom Triton kernels [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ubmybr/i_released_a_softmaxfree_attention_model_at_gpt2/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-21T10:46:36+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1ubmybr/i_released_a_softmaxfree_attention_model_at_gpt2/\"> <img alt=\"I released a softmax-free attention model at GPT-2 Medium scale (~354M params, 11.5B tokens): structural sparsity + tile-skipping kernels for long-context VRAM savings. Open weights + custom Triton kernels [R]\" src=\"https://external-preview.redd.it/fzbusCnVMF6KiLx-XGEbOtJ2hfOGlk4ouLmg5Wsh_8c.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb342a515f36",
+    "title_zh": "我发布了一个无Softmax注意力模型，规模达GPT-2 Medium级别",
+    "summary_zh": "一位开发者开源了一个约3.54亿参数、训练115亿token的无Softmax注意力模型，并附带了用于长上下文VRAM节省的结构化稀疏性和分块跳过内核。",
+    "key_points": [
+      "发布无Softmax注意力机制的开源模型，参数约3.54亿",
+      "采用结构化稀疏与分块跳过内核对长上下文显存进行优化"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
