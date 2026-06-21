@@ -335,5 +335,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5beb4163500e35e6801ad6121bea0d43",
+    "title": "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标",
+    "url": "https://36kr.com/newsflashes/3862280121865219?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-21T01:54:30+00:00",
+    "content_snippet": "据报道，特斯拉已正式提交 “Amazing Abundance” 商标注册申请，此举表明企业将进一步深耕长期发展愿景，核心布局人工智能、人形机器人、自动驾驶系统，并依托自动化技术实现生产成本大幅下降的未来图景。（新浪财经）",
+    "title_zh": "报道：特斯拉加速推进人工智能与机器人战略，申请注册 “Amazing Abundance” 商标",
+    "summary_zh": "特斯拉申请“Amazing Abundance”商标，旨在深化其长期愿景，重点布局人工智能、人形机器人、自动驾驶和自动化技术，以大幅降低生产成本。",
+    "key_points": [
+      "特斯拉申请“Amazing Abundance”商标，布局AI与机器人",
+      "核心战略涵盖人形机器人、自动驾驶与自动化生产",
+      "旨在通过技术实现生产成本大幅下降"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "tesla"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e65082edfd68af2b001fc85b749081f3",
+    "title": "The more you embrace AI, the more you need SaaS. This is not obvious to armchair market analysts who love disruption narratives, but it is obvious to people actually running companies.",
+    "url": "https://nitter.net/fchollet/status/2068488678947918124#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-06-21T00:18:26+00:00",
+    "content_snippet": "<p>The more you embrace AI, the more you need SaaS. This is not obvious to armchair market analysts who love disruption narratives, but it is obvious to people actually running companies.</p>\n<hr />\n<blockquote>\n<b>Podcast Alpha (@PodcastAlphaX)</b>\n<p>\n<p>Levie now uses Salesforce 5x more than at any point before.<br />\n<br />\nThe Box CEO <a href=\"https://nitter.net/levie\" title=\"Aaron Levie\">@levie</a> connected Salesforce's MCP server to Claude Code. Now he runs customer and market intelligen",
+    "title_zh": "越拥抱AI，越需要SaaS：资深人士驳斥颠覆论",
+    "summary_zh": "François Chollet 认为，企业越深入使用AI，对SaaS的需求就越大，这与热衷颠覆叙事的市场分析师观点相悖，但却是企业实际运营者的共识。",
+    "key_points": [
+      "企业深度使用AI反而会增加对SaaS的依赖",
+      "该观点与市场分析师的“颠覆论”形成鲜明对比",
+      "此洞察来自企业实际运营者而非理论分析"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
