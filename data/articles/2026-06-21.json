@@ -681,5 +681,177 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "64e9f8a54c7b1097b9354bf34842ff4f",
+    "title": "Most AI security tools inspect messages. Arc Gate inspects sessions.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubt8qj/most_ai_security_tools_inspect_messages_arc_gate/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-21T15:42:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>One thing that’s always felt weird to me about prompt injection defenses is that they usually evaluate one message at a time.</p> <p>But a lot of the attacks I’m seeing don’t really work that way.</p> <p>A webpage says something subtle. A tool result reinforces it. An email adds another nudge. Nothing looks obviously malicious on its own, but a few turns later the agent is heading somewhere it definitely shouldn’t.</p> <p>That was the motivation behind Arc Gate.",
+    "title_zh": "大多数 AI 安全工具检查消息，Arc Gate 检查会话",
+    "summary_zh": "文章介绍了一种新型 AI 安全工具 Arc Gate，它不同于传统基于单条消息的注入防御，而是通过检查整个会话上下文来检测更复杂的攻击模式，如网页和工具结果协同进行的提示注入。",
+    "key_points": [
+      "传统 AI 安全工具仅检查单条消息，忽略多步攻击",
+      "Arc Gate 通过分析会话级上下文提升防御能力",
+      "方法针对网页、工具结果等协同进行的复杂注入攻击"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a96480a9765615eab87a77168e5215bb",
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-21T15:28:17+00:00",
+    "content_snippet": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+    "title_zh": "特朗普政府打压 Anthropic，谁会受益？",
+    "summary_zh": "TechCrunch 的 Equity 播客讨论了特朗普政府近期对 Anthropic 采取打压行动的原因，并分析了这一事件可能对人工智能生态系统产生的深远影响。",
+    "key_points": [
+      "特朗普政府近期对 Anthropic 发起打压行动",
+      "播客分析打压的具体原因和潜在影响",
+      "探讨此举对 AI 行业竞争格局的改变"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b83ec62ca8579c77e5cc2089f35d46a4",
+    "title": "MaineCoon is the first video model that focuses on social interactions: facial expressions, emotions, fluid conversation, audio-lip sync, etc. Really impressive inference specs: 22B params, 47.5 FPS on a single H100. Generates in real-time at <$0.001/sec. They achieve this with an agentic streaming inference framework with 3 different auxiliary models to manage the cache and lookahead buffer. Super cool work.",
+    "url": "https://nitter.net/fchollet/status/2068716134560616490#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-21T15:22:16+00:00",
+    "content_snippet": "<p>MaineCoon is the first video model that focuses on social interactions: facial expressions, emotions, fluid conversation, audio-lip sync, etc. Really impressive inference specs: 22B params, 47.5 FPS on a single H100. Generates in real-time at &lt;$0.001/sec.<br />\n<br />\nThey achieve this with an agentic streaming inference framework with 3 different auxiliary models to manage the cache and lookahead buffer. Super cool work.</p>\n<hr />\n<blockquote>\n<b>Catnip (@catnips_ai)</b>\n<p>\n<p>Most AI v",
+    "title_zh": "MaineCoon：首个专注于社交互动的视频生成模型",
+    "summary_zh": "MaineCoon 是一个 22B 参数的视频模型，专注于面部表情、情感和音频唇形同步等社交互动，通过代理流式推理框架在单张 H100 上实现实时生成，成本极低。",
+    "key_points": [
+      "首个专注于社交互动的视频模型，参数达 22B",
+      "在单张 H100 上以 47.5 FPS 实时生成，成本低于 $0.001/秒",
+      "采用代理流式推理框架和三个辅助模型优化缓存与缓冲"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b8fb7347312026a226c569cfbf942a6f",
+    "title": "Did AI Deep Research get lazy?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubskzk/did_ai_deep_research_get_lazy/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-21T15:15:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A few months ago, when I ran a deep research query, the Al would actually sit there and grind for 20 to 30 minutes. You could see it pulling from hundreds of different sources to build a massive, detailed report.</p> <p>&#x200b;</p> <p>Now? The entire process wraps up in under 7 minutes.</p> <p>&#x200b;</p> <p>I've recently switched from ChatGPT to Gemini and I taught it was a Gemini specific thing, switched to ChatGPT and it's even worse there.</p> <p>&#x200b;<",
+    "title_zh": "AI 深度研究变懒了吗？",
+    "summary_zh": "用户在 Reddit 上讨论，一些 AI 深度研究工具的处理时间从过去的 20-30 分钟大幅缩短，搜索来源减少，报告质量下降，引发对其是否“变懒”的质疑。",
+    "key_points": [
+      "用户反映 AI 深度研究工具处理时间大幅缩短",
+      "报告质量和来源数量下降，引发功能缩水质疑",
+      "讨论可能由成本优化或模型调整导致"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fed26cfaf22ce6ba101273536b0ea31b",
+    "title": "AIs can do world-modeling now, as seen via the Anthropic Fable standoff",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubs2hj/ais_can_do_worldmodeling_now_as_seen_via_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-21T14:53:58+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ubs2hj/ais_can_do_worldmodeling_now_as_seen_via_the/\"> <img alt=\"AIs can do world-modeling now, as seen via the Anthropic Fable standoff\" src=\"https://external-preview.redd.it/bPiWZR8uvEMu0FvkktN1SZ8m9l4-Do9asapVFhZU7AE.png?width=140&amp;height=73&amp;auto=webp&amp;s=ded511f3e68bb6c57aada056fa2ff035900008d5\" title=\"AIs can do world-modeling now, as seen via the Anthropic Fable standoff\" /> </a> </td><td> <!-- SC_OFF --><div ",
+    "title_zh": "AI 现在能进行世界建模，Anthropic Fable 对峙事件可见一斑",
+    "summary_zh": "Reddit 讨论指出，通过 Anthropic 的 Fable 对峙事件，可以看到 AI 系统已经展现出构建和推理世界模型的能力，这标志着 AI 能力的重要进展。",
+    "key_points": [
+      "Anthropic Fable 对峙事件展示 AI 世界建模能力",
+      "AI 系统能够构建并推理复杂的世界模型",
+      "这一能力被视为 AI 发展的一个重要里程碑"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b893e7b70421ec96f52c3865084a2fae",
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-21T14:40:28+00:00",
+    "content_snippet": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+    "title_zh": "超越 Siri：iOS 27 中即将登陆 iPhone 的实用 AI 功能",
+    "summary_zh": "文章介绍了苹果在 WWDC 上发布的 iOS 27 中，除了 Siri 的重大更新外，还将在系统各处推出多项实用的 AI 功能，旨在提升用户体验。",
+    "key_points": [
+      "iOS 27 将带来多项超越 Siri 更新的实用 AI 功能",
+      "这些功能将集成到 iPhone 系统的各个角落",
+      "旨在通过 AI 提升日常使用的便捷性和效率"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e6ae8d32884c941eba6629040d575c13",
+    "title": "The data black hole at the center of AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1ubrbiu/the_data_black_hole_at_the_center_of_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-21T14:21:56+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ubrbiu/the_data_black_hole_at_the_center_of_ai/\"> <img alt=\"The data black hole at the center of AI\" src=\"https://external-preview.redd.it/LyE55Xtkbi6O5KsDmr40n8QdiSmxUJdxEUUios7791c.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b1e55d1f3b3402a2a1ebc343ec23cf0d4130e061\" title=\"The data black hole at the center of AI\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/adeno_gothilla\"> /u/adeno",
+    "title_zh": "AI 中心的数据黑洞",
+    "summary_zh": "文章探讨了 AI 发展中面临的核心数据困境，即高质量训练数据日益枯竭，而互联网上大量低质量或受版权保护的内容形成了“数据黑洞”，阻碍了模型进步。",
+    "key_points": [
+      "高质量训练数据日益枯竭成为 AI 发展瓶颈",
+      "互联网上大量低质或受版权保护数据形成“黑洞”",
+      "数据困境可能阻碍未来 AI 模型的性能提升"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
