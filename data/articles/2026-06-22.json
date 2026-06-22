@@ -1047,5 +1047,369 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "63a23fafd13179c0586492860f5a656b",
+    "title": "Programming is not about code, just like music is not about notation. It is the art & science of managing complexity through layers of abstraction. AI is simply a part of it.",
+    "url": "https://nitter.net/fchollet/status/2069059823069753486#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-22T14:07:57+00:00",
+    "content_snippet": "<p>Programming is not about code, just like music is not about notation. It is the art &amp; science of managing complexity through layers of abstraction. AI is simply a part of it.</p>",
+    "title_zh": "编程不是关于代码，就像音乐不是关于乐谱",
+    "summary_zh": "François Chollet 类比音乐与乐谱，指出编程的本质是通过抽象层管理复杂性的艺术与科学，而 AI 只是其中的一部分。",
+    "key_points": [
+      "编程是管理复杂性的艺术与科学",
+      "AI 只是编程中的一个组成部分"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4a01f2d27a3f261d53652ff571a25d35",
+    "title": "How Anthropic may have talked itself into an AI export ban",
+    "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-22T13:45:24+00:00",
+    "content_snippet": "The company warned about dangers of advanced AI far more than rival OpenAI.",
+    "title_zh": "Anthropic 如何可能将自己送入 AI 出口禁令",
+    "summary_zh": "Anthropic 对先进 AI 危险性的警告程度远超 OpenAI，这种过度强调安全风险的行为可能导致自身受到 AI 出口管制。",
+    "key_points": [
+      "Anthropic 过度强调 AI 风险引发出口管制争议",
+      "其安全警告力度远超竞争对手 OpenAI"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c997a40c195b82bbbd000b65c737f50e",
+    "title": "India's BharatGen commits to anchor India's role in the AI Alliance's open federated frontier-model project",
+    "url": "https://www.reddit.com/r/artificial/comments/1uckw98/indias_bharatgen_commits_to_anchor_indias_role_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-22T13:40:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The AI Alliance just announced new momentum for Project Tapestry, its open-source platform for building frontier models through globally federated development rather than one centralized lab. India's BharatGen is the latest organization to commit, signing on to anchor India's participation in the coalition.</p> <p>What's notable here is the architecture of the effort, not just the membership news. Tapestry is designed so multiple countries and organizations can ",
+    "title_zh": "印度 BharatGen 加入 AI 联盟开放联邦前沿模型项目",
+    "summary_zh": "印度 BharatGen 承诺加入 AI 联盟的 Tapestry 项目，该开源平台旨在通过全球联邦开发而非集中式实验室构建前沿模型。",
+    "key_points": [
+      "BharatGen 加入开放联邦式前沿模型开发项目",
+      "项目旨在替代集中式 AI 实验室开发模式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1639961c068b0e24328afd8f2e08b15e",
+    "title": "The NSA reportedly agreed to Anthropic's \"red lines\" — no domestic mass surveillance, no autonomous lethal weapons. After the Mythos breach, do those actually hold?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uck8kn/the_nsa_reportedly_agreed_to_anthropics_red_lines/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-22T13:13:07+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uck8kn/the_nsa_reportedly_agreed_to_anthropics_red_lines/\"> <img alt=\"The NSA reportedly agreed to Anthropic's &quot;red lines&quot; — no domestic mass surveillance, no autonomous lethal weapons. After the Mythos breach, do those actually hold?\" src=\"https://external-preview.redd.it/YmxnMWhkODgzdThoMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2ba5f73d983037022e6e495820342c4887",
+    "title_zh": "NSA 据称同意 Anthropic 的“红线”，Mythos 漏洞后是否有效？",
+    "summary_zh": "美国国家安全局据称同意 Anthropic 的“红线”条款，禁止国内大规模监控和自主致命武器，但 Mythos 安全漏洞后这些承诺的有效性受到质疑。",
+    "key_points": [
+      "NSA 承诺不将 Anthropic 技术用于监控和自主武器",
+      "Mythos 漏洞事件引发对安全承诺的信任危机"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3109f2f40579fa25ae0326aa65d93005",
+    "title": "What's the biggest career problem AI still hasn't solved?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uck0l3/whats_the_biggest_career_problem_ai_still_hasnt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-22T13:03:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been thinking about how weird the career space has become.</p> <p>We have AI that can generate code, write essays, and summarize research, yet millions of people are still navigating their careers with a combination of guesswork, job boards, random LinkedIn advice, and YouTube videos.</p> <p>Most people don't actually know:</p> <ul> <li>What skills they're missing</li> <li>Whether they're truly ready for a role</li> <li>Why they keep getting rejected</li> <",
+    "title_zh": "AI 仍未解决的最大职业问题是什么？",
+    "summary_zh": "尽管 AI 能生成代码、写论文和总结研究，但数百万人在职业规划上仍依赖猜测、招聘网站和 LinkedIn 建议，AI 尚未解决这一核心痛点。",
+    "key_points": [
+      "AI 在职业规划领域的应用仍存在巨大空白",
+      "现有工具无法替代系统性的职业导航"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "76f7edffd48923fccb7c6e3751bfde9a",
+    "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+    "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-22T13:00:38+00:00",
+    "content_snippet": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management.  NVIDIA contributed to the NAIRR pilot through a cloud-based resource that gives researchers dedicated access to a [&#8230;]",
+    "title_zh": "NAIRR 科学计划用英伟达 AI 基础设施重塑科研",
+    "summary_zh": "美国国家科学基金会的 NAIRR 试点项目两年内推动了 700 多个科研项目，涵盖蛋白质预测和传染病管理，英伟达提供了关键基础设施支持。",
+    "key_points": [
+      "NAIRR 试点项目支持超 700 个科研项目",
+      "英伟达提供 AI 基础设施推动科学发现"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e98fab613985cb7e0a047dbc2f7bf51d",
+    "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+    "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-22T13:00:20+00:00",
+    "content_snippet": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter.  The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that [&#8230;]",
+    "title_zh": "NVIDIA 发布新 AI 软件解锁从材料模拟到实验天文学的科学发现",
+    "summary_zh": "NVIDIA 在 ISC 大会上发布新 AI 软件，包括 DAQIRI 库、ALCHEMI NIM 微服务和 cuPhoton 参考代码，加速化学、材料科学和暗物质搜索等领域的科研。",
+    "key_points": [
+      "NVIDIA 发布 DAQIRI 和 ALCHEMI 等新 AI 软件",
+      "新工具旨在加速化学、材料及暗物质研究"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2ace5aa8e79c44777402d3cddeaae095",
+    "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+    "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-22T13:00:20+00:00",
+    "content_snippet": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA [&#8230;]",
+    "title_zh": "NVIDIA Vera CPU 为洛斯阿拉莫斯国家实验室的智能体科学 AI 铺路",
+    "summary_zh": "洛斯阿拉莫斯国家实验室将采用 NVIDIA Vera CPU 和 HPE 架构构建新超级计算机，旨在通过智能体 AI 加速科学发现。",
+    "key_points": [
+      "LANL 新超算将采用 NVIDIA Vera CPU",
+      "目标是利用智能体 AI 加速科学探索"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5593704f03dba74f6c78c53169e63ef9",
+    "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
+    "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-22T13:00:13+00:00",
+    "content_snippet": "The next era of AI will not be defined by compute alone. Its growth will be determined by energy.  As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprecedented speed.  In many regions, expanding grid [&#8230;]",
+    "title_zh": "Eco Wave Power 利用 NVIDIA AI 和数字孪生将波浪能转化为电能",
+    "summary_zh": "Eco Wave Power 利用 NVIDIA 的 AI 基础设施和数字孪生技术，旨在优化波浪能转换效率，应对 AI 计算带来的电力需求增长。",
+    "key_points": [
+      "利用 AI 和数字孪生优化波浪能发电",
+      "应对 AI 规模扩张带来的电力需求挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7e1ee48c797d0c36bfdbe58c6951bda",
+    "title": "GPU access is still broken in 2026 — and someone's trying to fix it with a compute futures market",
+    "url": "https://www.reddit.com/r/artificial/comments/1ucje6a/gpu_access_is_still_broken_in_2026_and_someones/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-22T12:36:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>If you've tried to scale any AI workload recently you already know this: getting reliable GPU access outside of big enterprise contracts is still a nightmare. Spot markets get preempted, hyperscaler pricing is opaque, and smaller teams are basically last in line.</p> <p>Came across a project called <strong>Inferra</strong> that's taking a genuinely different angle on this. Rather than building another GPU marketplace, they're creating a derivatives exchange — pe",
+    "title_zh": "2026 年 GPU 访问仍困难重重，有人试图用计算期货市场破解",
+    "summary_zh": "截至 2026 年，小团队依然难以获得可靠的 GPU 算力，面临现货市场抢占和定价不透明等问题，有人提出用计算期货市场来解决这一难题。",
+    "key_points": [
+      "小团队获取 GPU 算力仍面临严重阻碍",
+      "计算期货市场方案被提出以解决访问问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "903e1c42c2c132bbf89ef1799b78e27c",
+    "title": "I’ve been using AI heavily as a software engineer, and honestly, it feels a bit strange.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ucj3nw/ive_been_using_ai_heavily_as_a_software_engineer/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-22T12:23:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m a software engineer, probably somewhere between mid-level+ and senior, and recently I’ve been using tools like Codex for a large part of my work - including complex tasks.<br /> It saves me a lot of time, makes me more efficient, and in many cases it even suggests cleaner or better implementations than I would have written manually at first.<br /> My workflow has changed a lot. Instead of writing every line of code myself, I now spend more time defining the ",
+    "title_zh": "我作为软件工程师重度使用AI，老实说，感觉有点奇怪",
+    "summary_zh": "一位中高级软件工程师分享其重度使用Codex等AI编程工具的感受，AI虽大幅提升效率，但也带来工作方式改变和某种不安感。",
+    "key_points": [
+      "AI编程工具显著提升开发效率，已用于复杂任务",
+      "工程师对AI改变工作方式感到既高效又有些不适"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7e4268ecef5a30b463f52b5c53cc4de3",
+    "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+    "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-22T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weird. And I’m increasingly&#8230;",
+    "title_zh": "The Download：破纪录海底隧道与灵活数据中心",
+    "summary_zh": "本期《The Download》周刊聚焦两大技术新闻：深入世界上最深最长的海底公路隧道内部，以及探讨灵活数据中心的发展。",
+    "key_points": [
+      "深入挪威Rogfast海底隧道，探索其工程壮举",
+      "灵活数据中心技术正成为应对算力需求的新方案"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "50bd9850d93060bea28e03bcf7a78d45",
+    "title": "谷歌云与诺基亚宣布合作",
+    "url": "https://36kr.com/newsflashes/3864298545370121?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-22T12:07:45+00:00",
+    "content_snippet": "谷歌云与诺基亚宣布合作，将谷歌的Gemini模型整合到诺基亚保障中心。（财联社）",
+    "title_zh": "谷歌云与诺基亚宣布合作",
+    "summary_zh": "谷歌云与诺基亚宣布合作，将谷歌的Gemini模型整合到诺基亚的保障中心，以增强其网络保障能力。",
+    "key_points": [
+      "谷歌云与诺基亚达成合作，整合Gemini模型",
+      "合作旨在将AI能力融入诺基亚的网络保障平台"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ebc0df371d736d96dd839c20bc26a02e",
+    "title": "Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos",
+    "url": "https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos/",
+    "source": "Microsoft AI Blog",
+    "source_zh": "微软官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-22T12:06:39+00:00",
+    "content_snippet": "<p>Today, Microsoft is announcing one of the largest single capacity additions in our history. In Pecos, Texas, we will build a new datacenter campus, expanding our global datacenter capacity by approximately 2 gigawatts (GW) to meet strong and sustained customer demand for AI and cloud services across industries and regions. Beyond the technology, this is...</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacent",
+    "title_zh": "为下一波AI浪潮赋能：微软在佩科斯新建数据中心扩充算力",
+    "summary_zh": "微软宣布在德克萨斯州佩科斯建设一个约2吉瓦容量的数据中心园区，这是其历史上最大规模的单次扩容，以满足AI和云服务的强劲需求。",
+    "key_points": [
+      "微软在佩科斯新建2吉瓦数据中心，规模创历史之最",
+      "旨在满足持续增长的AI和云服务客户需求"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "04ab54cd43cc078b1e847c440d820792",
+    "title": "'You can't call it progress': Microsoft CEO Satya Nadella warns against concentration of AI power",
+    "url": "https://www.reddit.com/r/artificial/comments/1uci32k/you_cant_call_it_progress_microsoft_ceo_satya/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-22T11:33:25+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uci32k/you_cant_call_it_progress_microsoft_ceo_satya/\"> <img alt=\"'You can't call it progress': Microsoft CEO Satya Nadella warns against concentration of AI power\" src=\"https://external-preview.redd.it/tR1GpNubcy-QzqG4AJ2UUpH5CfL891OrMQqGJL3T2TQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b02f0aea1eb83b3b88a97ec8c04cf3bbc53e7cc\" title=\"'You can't call it progress': Microsoft CEO Satya Nadella warns against concentrat",
+    "title_zh": "“你不能称其为进步”：微软CEO萨提亚·纳德拉警告AI权力集中",
+    "summary_zh": "微软CEO萨提亚·纳德拉就AI权力过度集中发出警告，表示不能将这种集中化称为进步，引发社区讨论。",
+    "key_points": [
+      "微软CEO纳德拉警告AI权力过度集中化问题",
+      "他认为AI权力的集中化不能被定义为进步"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
