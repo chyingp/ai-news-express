@@ -22,5 +22,324 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c81a1b06b502fea0137b5f619e110bae",
+    "title": "What are people doing with local models?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ucu0gy/what_are_people_doing_with_local_models/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-22T19:16:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm finding it hard to understand the use cases for running AI models locally. I came across this repo today <a href=\"https://github.com/elder-plinius/OBLITERATUS\">https://github.com/elder-plinius/OBLITERATUS</a> which is meant to remove restrictions placed on cloud models. Hugging face has a bunch of models/model types you can download and run locally. Other than removing restrictions or having a non-chat based model (img gen or something), what are people actu",
+    "title_zh": "人们在本地运行AI模型做什么？",
+    "summary_zh": "Reddit用户讨论本地运行AI模型的使用场景，提及一个名为OBLITERATUS的工具，用于移除云端模型限制，引发对本地模型实用性的探讨。",
+    "key_points": [
+      "本地AI模型使用场景引发社区讨论",
+      "OBLITERATUS工具可移除云端模型限制"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "03df3d260c93faa4cd324501b5ed5d91",
+    "title": "Valve's Steam Machine ships June 29 for $1,049, but you probably won't be able to buy one yet",
+    "url": "https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-22T19:02:45+00:00",
+    "content_snippet": "Valve says it's using a randomized purchase queue to make the experience \"less frustrating and more fair.\"",
+    "title_zh": "Valve Steam Machine将于6月29日发售，定价1049美元",
+    "summary_zh": "Valve宣布其Steam Machine游戏设备将于6月29日上市，售价1049美元，但初期将采用随机排队购买机制以确保公平，多数用户可能无法立即买到。",
+    "key_points": [
+      "Steam Machine定价1049美元，6月29日发售",
+      "采用随机排队机制应对初期高需求"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1d80ca07e637db97f018439008fb03eb",
+    "title": "I built an AI social media content generator for small businesses — what do you think?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uctm5x/i_built_an_ai_social_media_content_generator_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-22T19:02:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey <a href=\"/r/artificial\">r/artificial</a>! 👋</p> <p>AI is everywhere right now but most of the conversation is around enterprise use cases — big companies, big budgets, big teams.</p> <p>I'm curious about the other side — small business owners.</p> <p>Are small businesses actually adopting AI tools in meaningful ways? Or is the barrier to entry still too high?</p> <p>From what I've seen, the biggest challenges for small business owners using AI are:</p> <p>❌ ",
+    "title_zh": "我为小企业打造了一款AI社交媒体内容生成器",
+    "summary_zh": "Reddit用户分享其为小企业构建的AI社交媒体内容生成工具，旨在帮助资源有限的小企业主利用AI进行内容创作，并寻求社区反馈。",
+    "key_points": [
+      "面向小企业的AI社交媒体内容生成工具",
+      "作者关注AI在企业市场的非头部长尾应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2eba6f3aeae10ca4ebf3adda1f96e051",
+    "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+    "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-22T18:49:44+00:00",
+    "content_snippet": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+    "title_zh": "Google DeepMind向A24投资7500万美元，押注AI在好莱坞的未来",
+    "summary_zh": "Google DeepMind与独立电影公司A24达成合作，投资7500万美元共同开发AI电影制作工具，探索人工智能在影视创作领域的应用潜力。",
+    "key_points": [
+      "Google DeepMind与A24合作开发AI电影制作工具",
+      "投资金额达7500万美元"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e94b879a8abd90be9ca1adf273f2f8c3",
+    "title": "Codex Security plugin for security teams: deep scans, validating findings, tracing attack paths, building threat models, generating codebase-specific patches for review, and exporting into other tools: https://openai.com/daybreak/codex-security-plugin/",
+    "url": "https://nitter.net/gdb/status/2069128701850386834#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-22T18:41:39+00:00",
+    "content_snippet": "<p>Codex Security plugin for security teams: deep scans, validating findings, tracing attack paths, building threat models, generating codebase-specific patches for review, and exporting into other tools: <a href=\"https://openai.com/daybreak/codex-security-plugin/\">openai.com/daybreak/codex-se…</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://openai.com/daybreak/codex-security-plugin/\">\n<img src=\"https://nitter.net/pic/card_img%2F2069128703167328256%2F7_B3KPdN%3Fformat%3Djpg%26name%3D800x419\" /",
+    "title_zh": "OpenAI发布Codex Security插件，赋能安全团队深度扫描与修复",
+    "summary_zh": "OpenAI推出Codex Security插件，功能包括深度扫描、验证漏洞、追踪攻击路径、构建威胁模型及生成代码级补丁，并支持导出至其他工具。",
+    "key_points": [
+      "Codex Security插件提供从发现到修复的全套安全功能",
+      "可生成代码库特定补丁供团队审查"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4e3ff919de3f2615c23ec6d8e760691e",
+    "title": "It seems almost too dumb to be true, but apparently the literal belief of SaaS bears is \"all software is a 0 because Claude can one-shot these apps\" Just staggering levels of short-sightedness in that statement",
+    "url": "https://nitter.net/fchollet/status/2069122975371284708#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-22T18:18:54+00:00",
+    "content_snippet": "<p>It seems almost too dumb to be true, but apparently the literal belief of SaaS bears is \"all software is a 0 because Claude can one-shot these apps\"<br />\n<br />\nJust staggering levels of short-sightedness in that statement</p>",
+    "title_zh": "François Chollet驳斥“SaaS归零论”：AI无法一键生成所有软件",
+    "summary_zh": "前谷歌研究员François Chollet批评一种观点，即认为Claude等AI能一键生成应用导致所有软件服务价值归零，称其短视且不切实际。",
+    "key_points": [
+      "Chollet驳斥AI能一键生成完整软件应用的观点",
+      "指出该观点严重低估了SaaS的复杂性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "236101be5b229bd4d96c56e649efa9a4",
+    "title": "We want to help all companies be secure, working with the USG and the security ecosystem. *The full version of GPT-5.5-Cyber is here; state of the art performance on CyberGym. *Patch The Planet and Codex Security will help solve security problems instead of just finding them.",
+    "url": "https://nitter.net/sama/status/2069121360744550796#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-22T18:12:29+00:00",
+    "content_snippet": "<p>We want to help all companies be secure, working with the USG and the security ecosystem.<br />\n<br />\n*The full version of GPT-5.5-Cyber is here; state of the art performance on CyberGym.<br />\n<br />\n*Patch The Planet and Codex Security will help solve security problems instead of just finding them.</p>\n<img src=\"https://nitter.net/pic/media%2FHLb-oXnagAEXv7z.png\" />",
+    "title_zh": "Sam Altman宣布GPT-5.5-Cyber全面发布，致力于解决安全问题",
+    "summary_zh": "Sam Altman宣布完整版GPT-5.5-Cyber模型发布，在CyberGym基准测试中表现顶尖，并推出Patch The Planet和Codex Security项目，从发现漏洞转向主动解决安全问题。",
+    "key_points": [
+      "GPT-5.5-Cyber模型正式发布，安全性能顶尖",
+      "新项目将重点从漏洞发现转向主动修复"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24928f848413bff5e82085ad278c6c67",
+    "title": "About ML research collab group post [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ucs2cy/about_ml_research_collab_group_post_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-22T18:05:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>I'm thinking of building a small community of 10-15 people where we can help each other to learn something new. The primary focus will be on ML research and open-source projects.</p> <p>If you're interested, DM me. knowledge of machine learning is a plus, as want to keep this a high-impact, collaborative group.</p> <h1>Only for the moderators, since my last post was removed and I was asked to post in the monthly hiring thread:</h1> <ol> <li><p>This po",
+    "title_zh": "关于组建机器学习研究协作小组的讨论",
+    "summary_zh": "Reddit用户发起倡议，计划组建一个10-15人的小型社区，专注于机器学习研究和开源项目，互相学习新知识，寻找有ML基础的成员加入。",
+    "key_points": [
+      "计划组建小型ML研究与开源协作社区",
+      "规模控制在10-15人，有知识门槛要求"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e5321e5c15e444031cfa9a28606b10f4",
+    "title": "Three things to watch amid Anthropic’s latest feud with the government",
+    "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-22T18:00:00+00:00",
+    "content_snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos&#8230;",
+    "title_zh": "Anthropic与政府最新争端中值得关注的三件事",
+    "summary_zh": "MIT Technology Review分析Anthropic与美国政府之间的最新争端，回顾其曾构建AI模型并引发监管关注的事件，指出当前局势下三个关键观察点。",
+    "key_points": [
+      "Anthropic因AI模型构建问题与美国政府产生争端",
+      "文章梳理事件背景并指出三个关键观察方向"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "735d5110ec16a6612b956215713b5405",
+    "title": "Pinned: We're accelerating patching, in addition to vuln finding, with new tools and models in OpenAI Daybreak. Our models are now discovering and generating patches for critical vulns in major browsers, network infrastructure, and operating systems (such as FreeBSD and the Linux kernel), and patching projects like cURL, Go, Python, Sigstore, and pyca/cryptography. Working together with partners and the ecosystem to help secure the world's software:",
+    "url": "https://nitter.net/gdb/status/2069112120206332130#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-22T17:35:46+00:00",
+    "content_snippet": "<p>We're accelerating patching, in addition to vuln finding, with new tools and models in OpenAI Daybreak.<br />\n<br />\nOur models are now discovering and generating patches for critical vulns in major browsers, network infrastructure, and operating systems (such as FreeBSD and the Linux kernel), and patching projects like cURL, Go, Python, Sigstore, and pyca/cryptography.<br />\n<br />\nWorking together with partners and the ecosystem to help secure the world's software:</p>\n<hr />\n<blockquote>\n<",
+    "title_zh": "OpenAI Daybreak加速漏洞修补：模型已能修复关键系统漏洞",
+    "summary_zh": "OpenAI宣布其Daybreak项目中的新工具和模型，不仅能发现漏洞，还能为主要浏览器、网络基础设施、Linux内核及cURL、Python等开源项目生成补丁。",
+    "key_points": [
+      "OpenAI模型已能为Linux内核等关键系统生成补丁",
+      "从漏洞发现扩展到主动修复，提升软件安全"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3bc52c0883838dd0864600c54368355e",
+    "title": "Amazon is testing Alexa+ in India with Hindi support",
+    "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-22T17:31:29+00:00",
+    "content_snippet": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+    "title_zh": "亚马逊在印度测试支持印地语的Alexa+",
+    "summary_zh": "亚马逊计划将新型对话式AI助手Alexa+拓展至印度，并邀请当地用户测试印地语版本，以扩大其全球市场覆盖。",
+    "key_points": [
+      "Alexa+新增印地语支持，在印度进行测试",
+      "亚马逊旨在扩大AI助手在新兴市场的用户基础"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f7ef68bb6a12df8d6342bd28360502bf",
+    "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+    "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-22T16:51:29+00:00",
+    "content_snippet": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+    "title_zh": "SpaceX与开源AI实验室Reflection AI签署算力协议",
+    "summary_zh": "Reflection AI将从2026年7月起每月支付1.5亿美元至2029年，以使用SpaceX数据中心内英伟达最新GB300 AI芯片，加速其开源AI研究。",
+    "key_points": [
+      "Reflection AI月付1.5亿美元获取英伟达GB300算力",
+      "合作方为SpaceX，协议执行至2029年",
+      "算力用于支持开源AI模型研发"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "57925a259679304f08d9ad4b122a3cc4",
+    "title": "Top AI researcher leaves Google for OpenAI",
+    "url": "https://www.reddit.com/r/artificial/comments/1ucpy0c/top_ai_researcher_leaves_google_for_openai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-22T16:47:40+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ucpy0c/top_ai_researcher_leaves_google_for_openai/\"> <img alt=\"Top AI researcher leaves Google for OpenAI\" src=\"https://external-preview.redd.it/svrkuhR5TKoU8a4U2VilMN0LvXKasU7DCv9Qb1qEs2k.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f58d770aae0e4ae527a97dde69b5de131811a4c7\" title=\"Top AI researcher leaves Google for OpenAI\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/unserious-dude\">",
+    "title_zh": "顶级AI研究员从谷歌离职加盟OpenAI",
+    "summary_zh": "一名顶尖人工智能研究员离开谷歌，转投OpenAI，引发业界对AI人才竞争加剧的关注。",
+    "key_points": [
+      "关键AI人才从谷歌流向OpenAI",
+      "事件凸显AI领域激烈的人才争夺战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
