@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 日报 · 2026-06-23</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>AI 新闻速递 · 日报</h1>
+    <p class="subtitle">2026-06-23 · 共 1 条资讯</p>
+  </header>
+
+  
+  <div class="daily-header">
+    <h2>今日要点</h2>
+    <div class="stats">
+      <span>1 条资讯</span>
+      <span>0 条突发</span>
+      <span>1 个信源</span>
+    </div>
+    <div class="daily-overview">资讯分布：行业政策 1 条。</div>
+  </div>
+  
+
+  <div class="filters">
+    <button class="active" data-category="all">全部</button>
+    
+    <button data-category="行业政策">行业政策</button>
+    
+  </div>
+
+  
+  <ol class="article-list">
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">1</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1ucpgrh/investment_lawyer_breaking_down_how_ai_deepfakes/" target="_blank" rel="noopener">投资律师剖析AI深度伪造如何被用于重大诈骗</a>
+          <div class="article-title-original">Investment lawyer breaking down how AI DeepFakes get used in high profile scams</div>
+          
+        </div>
+        
+        <p class="article-summary">一位投资律师解析了AI深度伪造技术在高知名度骗局中的具体应用手法，揭示了骗子如何利用伪造视频和音频实施欺诈，并探讨了当前法律和监管面临的挑战。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-06-22T16:30:35+00:00" title="2026-06-23 00:30"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+  </ol>
+  
+
+  <footer>
+    <p><a href="../index.html" style="color: var(--accent);">← 返回首页</a></p>
+    <p style="margin-top: 8px;">AI 新闻速递 · 由 Claude API 提供智能处理</p>
+  </footer>
+
+  <script>
+    document.querySelector('.filters').addEventListener('click', function(e) {
+      if (e.target.tagName !== 'BUTTON') return;
+      document.querySelectorAll('.filters button').forEach(function(b) { b.classList.remove('active'); });
+      e.target.classList.add('active');
+      var cat = e.target.dataset.category;
+      document.querySelectorAll('.article-item').forEach(function(item) {
+        item.style.display = (cat === 'all' || item.dataset.category === cat) ? '' : 'none';
+      });
+    });
+
+    function toggleCluster(el) {
+      var children = el.nextElementSibling;
+      if (children.classList.contains('open')) {
+        children.classList.remove('open');
+        el.textContent = el.textContent.replace('▾', '▸');
+      } else {
+        children.classList.add('open');
+        el.textContent = el.textContent.replace('▸', '▾');
+      }
+    }
+    function updateTimeAgo() {
+      document.querySelectorAll('time.article-time[datetime]').forEach(function(el) {
+        var dt = new Date(el.getAttribute('datetime'));
+        if (isNaN(dt)) return;
+        var diff = (Date.now() - dt.getTime()) / 1000;
+        if (diff < 60) el.textContent = '刚刚';
+        else if (diff < 3600) el.textContent = Math.floor(diff / 60) + ' 分钟前';
+        else if (diff < 86400) el.textContent = Math.floor(diff / 3600) + ' 小时前';
+        else if (diff < 604800) el.textContent = Math.floor(diff / 86400) + ' 天前';
+        else el.textContent = el.getAttribute('title') || '';
+      });
+    }
+    updateTimeAgo();
+    setInterval(updateTimeAgo, 60000);
+  </script>
+</body>
+</html>
