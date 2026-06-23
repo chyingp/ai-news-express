@@ -2200,5 +2200,155 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b9381ca289ac3ddb2a1922cfaf2a8d7e",
+    "title": "How to efficiently fact-check AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1udkum0/how_to_efficiently_factcheck_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-23T15:48:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I really appreciate how fast AI can deliver me answers. But I'm concerned about AI's accuracy and, therefore, efficacy. I really don't want to inject a bunch of erroneous information into my knowledge base. But I also want to benefit from the increased efficiency and make myself more knowledgable, faster.</p> <p>Because of this, I am interested in exploring ways to automate fact-checking for AI. I mean, I could do it myself, but that ruins the efficiency gains. ",
+    "title_zh": "如何高效地核查人工智能事实？",
+    "summary_zh": "Reddit用户讨论如何平衡AI生成答案的效率和准确性，担忧错误信息注入知识库，并寻求高效的事实核查方法以提升AI使用的可靠性。",
+    "key_points": [
+      "AI答案快速但准确性存疑，需要高效核查",
+      "用户担忧错误信息影响个人知识库可靠性",
+      "寻求在效率与准确性之间取得平衡的方法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0e3aae832c895e821a3132bfe1f534be",
+    "title": "Rethinking cloud operations with agentic observability",
+    "url": "https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability/",
+    "source": "Microsoft AI Blog",
+    "source_zh": "微软官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-23T15:45:05+00:00",
+    "content_snippet": "<p>Cloud operations are entering a new era as AI-driven and autonomous agents become a larger part of modern software systems. As software becomes increasingly agentic, the challenge is no longer just managing greater scale and complexity. Operators must also contend with systems that evolve faster, act more autonomously and interact across an expanding network of...</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability/\">Reth",
+    "title_zh": "以代理式可观测性重新思考云运营",
+    "summary_zh": "微软博文探讨随着AI驱动的自主代理在软件系统中增多，传统云运营面临挑战，提出代理式可观测性方案，以管理更复杂、演化更快的代理系统。",
+    "key_points": [
+      "AI代理使云运营系统更复杂且演化更快",
+      "提出代理式可观测性来应对新挑战",
+      "传统监控方法已不足以管理现代代理系统"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2efa960feab956027c5b5ef1d26c9da8",
+    "title": "Is Claude down by any chance?",
+    "url": "https://www.reddit.com/r/artificial/comments/1udjqd1/is_claude_down_by_any_chance/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-23T15:06:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to access Claude for some time but am unable to do it, is anyone else facing the same problem?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Technical_Height_237\"> /u/Technical_Height_237 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1udjqd1/is_claude_down_by_any_chance/\">[link]</a></span> &#32; <span><a ",
+    "title_zh": "Claude现在是不是宕机了？",
+    "summary_zh": "Reddit用户询问Anthropic的Claude服务是否出现故障，因无法访问，其他用户可能也在经历相同问题，反映了一次潜在的服务中断事件。",
+    "key_points": [
+      "用户无法访问Claude，怀疑服务宕机",
+      "反映AI服务可能面临稳定性的日常问题",
+      "事件引发社区对服务可用性的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "521723b5cf98a5ab4f28142c2311f5cc",
+    "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
+    "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-23T15:00:00+00:00",
+    "content_snippet": "Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score. My heart rate variability, a measure of how recovered I am, is below baseline. I'm spending too much time in a hot, humid environment, it says, reminding me [&#8230;]",
+    "title_zh": "Fitbit Air以更智能的方式应对AI健康乱象",
+    "summary_zh": "The Verge评测谷歌Fitbit Air，其AI健康教练提供睡眠、心率等深度分析，但可能过度警示用户健康状况，在可穿戴设备中展现了AI健康应用的新思路。",
+    "key_points": [
+      "Fitbit Air的AI健康教练提供全面健康分析",
+      "AI警示可能夸大用户健康风险",
+      "在可穿戴设备中探索AI健康管理新方式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1a68061c3198c71c29348856cffc052c",
+    "title": "Agent Profiles Make AI Runs Safer, More Focused and Reusable",
+    "url": "https://www.reddit.com/r/artificial/comments/1udj43e/agent_profiles_make_ai_runs_safer_more_focused/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-23T14:44:18+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1udj43e/agent_profiles_make_ai_runs_safer_more_focused/\"> <img alt=\"Agent Profiles Make AI Runs Safer, More Focused and Reusable\" src=\"https://preview.redd.it/6u1zrwcco19h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4761023f5613969ec55072216a5c9a6d74b2273b\" title=\"Agent Profiles Make AI Runs Safer, More Focused and Reusable\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I’ve been building Agent Profiles in Row-Bot",
+    "title_zh": "代理配置文件使AI运行更安全、更专注且可复用",
+    "summary_zh": "Reddit帖子讨论代理配置文件如何通过设定约束和上下文，提升AI代理运行的安全性、任务专注度及可复用性，为AI代理部署提供优化思路。",
+    "key_points": [
+      "代理配置文件提升AI运行的安全性和专注度",
+      "配置文件使AI代理任务可复用",
+      "为AI代理的可靠部署提供新方法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b0e8b6cc2126e5857693b63ce9882488",
+    "title": "AI demands more engineering discipline. Not less, Cleaning up after AI rockstar developers, Open source AI must win and many other AI links from Hacker News",
+    "url": "https://www.reddit.com/r/artificial/comments/1udix0l/ai_demands_more_engineering_discipline_not_less/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-23T14:36:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everybody, I just sent <a href=\"https://eomail4.com/web-version?p=1f163acc-6f07-11f1-95d2-af6886d9a8eb&amp;pt=campaign&amp;t=1782223976&amp;s=8f05cad0bd4b1cd7551db43281286b41a585420cfb2c13528bc391775fcc1d40\"><strong>issue #36+#37 of the AI Hacker Newsletter</strong></a>, a weekly round-up of the best Hacker News threads around AI. I missed sending it last week, so a huge issue this week. Some of the titles you can find here:</p> <ul> <li>AI demands more engi",
+    "title_zh": "AI要求更多工程规范，而非更少",
+    "summary_zh": "Reddit分享AI黑客新闻简报，涵盖AI开发需加强工程纪律、清理AI开发遗留问题、开源AI重要性等观点，汇集了行业对AI开发实践的反思。",
+    "key_points": [
+      "AI开发需要更多工程规范而非减少",
+      "讨论清理AI摇滚明星开发者留下的问题",
+      "强调开源AI必须获胜的重要性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
