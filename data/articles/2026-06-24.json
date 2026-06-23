@@ -237,5 +237,125 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1409d04afcbbd064d1b85b81f9682fd3",
+    "title": "Anyone start with Claude then switch to ChatGPT?",
+    "url": "https://www.reddit.com/r/artificial/comments/1udqqve/anyone_start_with_claude_then_switch_to_chatgpt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-23T19:21:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I started using Claude seriously because it felt like the first AI that really clicked with how I think. It was thoughtful, good with long writing projects, good at tone, and good at helping me turn half-formed thoughts into something coherent. For a while it felt less like using a tool and more like having a really sharp writing/thinking partner.</p> <p>But over time I started feeling more and more stressed about usage. Every prompt felt like I had to decide wh",
+    "title_zh": "有人从Claude开始然后转向ChatGPT吗？",
+    "summary_zh": "Reddit用户讨论从Claude转向ChatGPT的使用体验，分享对两款AI助手在写作、思考方式和连贯性方面的感受与比较。",
+    "key_points": [
+      "用户认为Claude更贴合思考方式，擅长长文写作",
+      "社区讨论不同AI助手的使用偏好和切换原因"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b5ce90cc9876b737b35e5b5ed99cdc18",
+    "title": "Why American data centers can't plug in",
+    "url": "https://www.reddit.com/r/artificial/comments/1udqh96/why_american_data_centers_cant_plug_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-23T19:11:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1udqh96/why_american_data_centers_cant_plug_in/\"> <img alt=\"Why American data centers can't plug in\" src=\"https://external-preview.redd.it/OCYmHYHDFn18XJJxf2MVd9SqNXBGmqETs66X1k8mXw0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=38bb8117f71c7d2a18f6fda14901c19f2b7217f2\" title=\"Why American data centers can't plug in\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The AI buildout is bottlenecked by energy. But this do",
+    "title_zh": "为什么美国数据中心无法接入电网",
+    "summary_zh": "探讨美国数据中心面临的电力接入难题，分析电网基础设施、能源政策和审批流程等制约因素，反映AI算力需求的增长与能源供应之间的矛盾。",
+    "key_points": [
+      "美国数据中心扩张受限于电网接入瓶颈",
+      "电力基础设施和审批流程制约AI算力发展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "34b2be1b8738fdd6100ffc93d54c116e",
+    "title": "Certainty Is All You Need",
+    "url": "https://www.reddit.com/r/artificial/comments/1udp5u8/certainty_is_all_you_need/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-23T18:23:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Interesting blog post about how semantic transformations (not agents) will automate a lot of the decision work that happens in the corporate environment.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Disneyskidney\"> /u/Disneyskidney </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.modaic.dev/blog/certainty-is-all-you-need\">[link]</a></span> &#32; <span",
+    "title_zh": "确定性就是你所需要的一切",
+    "summary_zh": "一篇博客文章探讨语义转换而非智能代理将如何自动化企业环境中的大量决策工作，提出新的自动化思路。",
+    "key_points": [
+      "语义转换可替代智能代理实现企业决策自动化",
+      "文章提出非代理式的自动化决策新范式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e1e76a3f6380d32c99e270aa28f732b6",
+    "title": "Gemini kinda sucks... I wanted to find out why...",
+    "url": "https://www.reddit.com/r/artificial/comments/1udp0kd/gemini_kinda_sucks_i_wanted_to_find_out_why/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-23T18:18:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>On vacation you sometimes drive more than you ever normally would. The more I drive with Gemini running Android Auto the more I hated using Android Auto for anything. And since some of my best work is done out of spite — here we are.</p> <p>This is a long one… but I actually paid the money to do some real research not to just say that Gemini sucks… but specifically HOW it sucks… and how even when it is winning it is still losing when compared to GPT-5.5… because",
+    "title_zh": "Gemini有点差劲……我想找出原因……",
+    "summary_zh": "用户通过实际使用体验，详细分析了Gemini在Android Auto中的表现不佳之处，并探究其背后的技术原因。",
+    "key_points": [
+      "用户在驾驶场景中体验Gemini表现不佳",
+      "文章深入分析Gemini在Android Auto中的技术缺陷"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8ad6d7c9c42e21a66e05b36f2e2acfb7",
+    "title": "In software, complexity is a tax you pay on every future change. You might think, \"as long as it works, I'm good, I don't care about aesthetics\", but elegant code is about maintainability, not aesthetics. Elegant code is deeply practical.",
+    "url": "https://nitter.net/fchollet/status/2069483131447738768#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-23T18:10:02+00:00",
+    "content_snippet": "<p>In software, complexity is a tax you pay on every future change. You might think, \"as long as it works, I'm good, I don't care about aesthetics\", but elegant code is about maintainability, not aesthetics. Elegant code is deeply practical.</p>",
+    "title_zh": "在软件中，复杂性是你为未来每次变更所支付的税",
+    "summary_zh": "François Chollet强调代码优雅性关乎可维护性而非美学，复杂性会增加未来修改的成本，简洁代码具有深远的实用性。",
+    "key_points": [
+      "代码复杂性会显著增加未来维护和修改的成本",
+      "代码优雅和简洁是出于实用性的可维护性考量"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
