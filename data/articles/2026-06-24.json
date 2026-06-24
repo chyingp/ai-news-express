@@ -2317,5 +2317,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a465de32c49df377a5448119a395c580",
+    "title": "I made 7 of the best AI models predict and bet on every 2026 World Cup match.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uedhrb/i_made_7_of_the_best_ai_models_predict_and_bet_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-24T13:26:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I built a setup where 7 leading AI models with 100000$ each, compete as rival gamblers across the entire 2026 football World Cup.</p> <p>The setup:</p> <p>- A single intelligence agent (the only one with web/tool access) gathers facts into per-team dossiers and a per-match briefing. All 7 prediction models read the exact same briefing. </p> <p>- Two steps, odds hidden in step one. </p> <p>Step 1: model sees the scouting report (no odds) and commits to {winner, c",
+    "title_zh": "我用7个顶尖AI模型预测并投注了2026年世界杯每一场比赛",
+    "summary_zh": "一位用户构建了一个实验，让7个顶尖AI模型各持10万美元虚拟资金，作为竞争对手对2026年足球世界杯全部比赛进行预测和投注。一个单一智能体负责收集球队资料，各模型基于这些信息独立做出投注决策。",
+    "key_points": [
+      "7个AI模型各持10万美元虚拟资金，模拟竞猜2026年世界杯全部比赛",
+      "单一智能体负责收集球队信息并整理成档案供各模型使用",
+      "实验旨在比较不同AI模型在体育赛事预测和投注策略上的表现"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
