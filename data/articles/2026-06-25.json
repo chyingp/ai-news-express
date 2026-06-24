@@ -728,5 +728,149 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f5baed72aed91a658fe3a450d2c69d65",
+    "title": "Incoming Junior Interested in ML Internships — What Should I Focus on Next? [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ueopwh/incoming_junior_interested_in_ml_internships_what/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-24T20:18:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I'm a Computer Science + Applied Mathematics major at a T15 CS university, focusing on machine learning, and I'll be an incoming junior this fall. My long-term goal is to land ML-focused internships and eventually work in machine learning or AI-related roles.</p> <p>I recently completed an introductory AI/ML course that covered the fundamentals of:</p> <p>* Data preprocessing (handling missing data, feature scaling, train/test splits, categor",
+    "title_zh": "准大三学生求问ML实习方向：下一步该学什么？[R]",
+    "summary_zh": "一名CS与应用数学双专业的学生在Reddit发帖，为即将进入大三并寻求ML实习机会而征求学习方向建议。",
+    "key_points": [
+      "CS与数学双专业学生寻求ML实习方向建议",
+      "讨论聚焦于为ML实习准备技能和知识"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "444e45a48fbe5f2e10c361feb7de07b3",
+    "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+    "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-24T20:09:45+00:00",
+    "content_snippet": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+    "title_zh": "企业正紧急阻止员工用AI处理琐事耗尽预算",
+    "summary_zh": "TechCrunch报道，企业正在限制员工使用AI处理小任务，以控制AI预算，标志着AI使用从“Token挥霍”进入“Token配给”时代。",
+    "key_points": [
+      "企业开始限制员工在琐碎任务上使用AI",
+      "AI预算管理从自由使用转向Token配给",
+      "反映企业对AI成本控制日益关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24cfaca8b01291cf899ad82da4fc5756",
+    "title": "is AI making content creation too easy and distribution the new bottleneck",
+    "url": "https://www.reddit.com/r/artificial/comments/1ueo735/is_ai_making_content_creation_too_easy_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-24T19:59:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>been thinking about this a lot lately. with all the AI tools available now, generating content has become almost trivially easy. blog posts, social captions, video scripts, email sequences, you can spin all of that up in minutes now.</p> <p>but here's what i keep noticing. the creation side got solved and now distribution is the part nobody has really figured out yet. you can produce 10x more content than before but getting it in front of the right people consis",
+    "title_zh": "AI是否让内容创作太容易，分发成为新瓶颈？",
+    "summary_zh": "Reddit用户探讨AI工具使内容生成变得极其容易，但分发和获取关注度可能成为新的挑战和瓶颈。",
+    "key_points": [
+      "AI工具使内容创作效率极高，但分发成为新瓶颈",
+      "关注点从创作能力转向内容传播与获取关注"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "618f67acd3fe66bfa29be58de121a677",
+    "title": "Congresswoman denies staff used AI to write defense funding amendment",
+    "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-24T19:36:46+00:00",
+    "content_snippet": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing screenshots of an amendment summary [&#8230;]",
+    "title_zh": "美国国会女议员否认员工用AI草拟国防拨款修正案",
+    "summary_zh": "美国众议员Anna Paulina Luna否认其员工使用AI起草国防法案修正案文本，仅承认用于'拼写检查'，此前有人发现其摘要含Anthropic Claude的提示语。",
+    "key_points": [
+      "议员承认AI仅用于拼写检查，否认用于立法文本",
+      "事因修正案摘要中出现Anthropic Claude提示语引发质疑"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f1a692c8d619275345eebd1185217279",
+    "title": "MuJoCo derived Simulator for High Fidelity Vision RL training natively on GPU [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uemrch/mujoco_derived_simulator_for_high_fidelity_vision/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-24T19:07:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>For the past couple of weeks I have been working on a simulator project considering the shortcomings of MuJoCo. There are things that people like and also don't like about MuJoCo, like the CPU dependency on MuJoCo which makes the simulation not parallelizable beyond a certain limit (depending on the hardware). I know there exists MJX which is GPU accelerated, however, it is not really made for vision based RL pipelines and training. There is ",
+    "title_zh": "基于MuJoCo的高保真视觉RL训练GPU原生模拟器[D]",
+    "summary_zh": "一位Reddit用户发布了一个改进MuJoCo的模拟器项目，旨在解决其CPU依赖问题，实现在GPU上原生进行高保真视觉强化学习训练。",
+    "key_points": [
+      "新模拟器解决MuJoCo的CPU依赖问题",
+      "支持在GPU上原生进行高保真视觉强化学习训练"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c4dc160eee87ffe50b01c52deba15c28",
+    "title": "This is the strongest ARC-AGI-2 performance to date by an open-source model.",
+    "url": "https://nitter.net/fchollet/status/2069858556552298519#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-24T19:01:50+00:00",
+    "content_snippet": "<p>This is the strongest ARC-AGI-2 performance to date by an open-source model.</p>\n<hr />\n<blockquote>\n<b>ARC Prize (@arcprize)</b>\n<p>\n<p>GLM-5.2 from <a href=\"https://nitter.net/Zai_org\" title=\"Z.ai\">@Zai_org</a> on ARC-AGI (Verified)<br />\n<br />\n - ARC-AGI-2: 22.8%, $0.25<br />\n - ARC-AGI-1: 77.0%, $0.19<br />\n<br />\nPerformance is comparable with GPT-5.4 &amp; 5.5 (Low Reasoning Effort)</p>\n<img src=\"https://nitter.net/pic/media%2FHLmOXMEbsAEWZ2d.jpg\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"ht",
+    "title_zh": "开源模型在ARC-AGI-2测试中取得迄今最强性能",
+    "summary_zh": "François Chollet宣布，来自Z.ai的GLM-5.2模型在ARC-AGI-2基准测试中取得了22.8%的开源模型最高分，单次推理成本仅0.25美元。",
+    "key_points": [
+      "GLM-5.2在ARC-AGI-2上取得开源模型最佳成绩22.8%",
+      "单次推理成本仅为0.25美元",
+      "刷新了开源模型在该基准测试的记录"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "zhipu"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
