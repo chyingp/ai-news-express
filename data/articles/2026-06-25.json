@@ -872,5 +872,125 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "266f847badbec9c4f882d1ef591501b6",
+    "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+    "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-24T21:56:41+00:00",
+    "content_snippet": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+    "title_zh": "AI本应淘汰工程师岗位，新数据却显示其最具韧性",
+    "summary_zh": "尽管AI是裁员叙事的主线，但SignalFire数据显示，工程师在新员工中的占比反而在增加，表明工程类岗位对AI替代具有较强韧性。",
+    "key_points": [
+      "AI未能如预期般削减工程师岗位，需求依然强劲",
+      "SignalFire数据表明工程师在新招聘中占比上升"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "73ecb6bfd59cf759579ca730dfaf007f",
+    "title": "AI researchers continue to leave Google for its rivals",
+    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-24T21:42:07+00:00",
+    "content_snippet": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+    "title_zh": "AI研究人员持续从谷歌跳槽至竞争对手",
+    "summary_zh": "顶尖AI科学家乔纳斯·阿德勒和亚历山大·普里策尔离开谷歌，加入Anthropic，此前诺姆·沙泽尔和约翰·詹珀等重要科学家也已离职。",
+    "key_points": [
+      "谷歌顶级AI研究员接连出走，加入Anthropic等竞争对手",
+      "人才流失加剧谷歌在AI研发竞赛中的压力"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "32515a2db9accfe860b141867f9be927",
+    "title": "Opus 4.8 The Worst Claude Ever",
+    "url": "https://www.reddit.com/r/artificial/comments/1ueqjvq/opus_48_the_worst_claude_ever/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-24T21:27:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have worked with most all of Anthropics LLM's for development, but hands down Opus 4.8 has caused me more grief, aggravation, and it lies in every thing it does - especially near context mid-load and if you're doing deterministic work with no heuristics constraints you can't trust a thing out of it. So I stopped using it a while back, but today I had to do a container rebuild and in VS it slipped back into Opus 4.8 from Sonnet. And without even realizing the s",
+    "title_zh": "Opus 4.8：史上最糟糕的Claude",
+    "summary_zh": "一位开发者吐槽Anthropic的Opus 4.8模型，称其在开发过程中频繁造成困扰，特别是在接近上下文加载中点时容易出现撒谎等问题。",
+    "key_points": [
+      "开发者批评Opus 4.8模型在确定性任务中表现不佳",
+      "模型在上下文中间阶段存在撒谎和可靠性问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0be4b3a7204b2c575fe5e390d2ce1a6e",
+    "title": "Automate your email and calendar",
+    "url": "https://www.reddit.com/r/artificial/comments/1ueq7ff/automate_your_email_and_calendar/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-24T21:14:47+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ueq7ff/automate_your_email_and_calendar/\"> <img alt=\"Automate your email and calendar\" src=\"https://external-preview.redd.it/OHBucDAzYXhxYTloMbqa6xbHz-sM6Hn4miC55seuy4LHdQ0CKuGe7xpWTrNn.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=534a90380c398df19dedbfd4990bd87b6114dfdc\" title=\"Automate your email and calendar\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>In this demo, I walk through how to use Row-Bot as a daily",
+    "title_zh": "自动化你的邮件和日历",
+    "summary_zh": "来自Reddit的一篇帖子，介绍如何利用AI技术实现邮件和日历的自动化处理，提升个人工作效率。",
+    "key_points": [
+      "分享利用AI自动化邮件和日历管理的方法",
+      "旨在帮助用户提升日常工作效率"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3123614bb5cc330cbdbebe3012c87067",
+    "title": "My toy spiking network completely flunked NARMA-10, but a simple neuroscience trick unlocked a 15x compute bargain. [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uepjsz/my_toy_spiking_network_completely_flunked_narma10/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-24T20:50:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>(Disclaimer: This post was drafted with the help of AI to keep it concise, but the research and work are entirely mine.)</p> <p>I’ve been building a spiking neural network (SNN) engine from scratch on my laptop as a solo project. To see if it was actually tracking anything useful outside of my own custom puzzles, I finally tested it on a standard benchmark: NARMA-10.</p> <p>It was a pretty humbling reality check. It flunked completely.</p> <p>The Failure</p> <p>",
+    "title_zh": "我的玩具脉冲网络在NARMA-10上完全失败，但一个简单的神经科学技巧带来了15倍计算优势",
+    "summary_zh": "一位独立研究者分享其构建脉冲神经网络引擎的经验，尽管在NARMA-10基准测试中失败，但通过借鉴神经科学技巧，实现了15倍的计算效率提升。",
+    "key_points": [
+      "个人项目中的脉冲神经网络在NARMA-10测试中表现不佳",
+      "应用神经科学技巧后，计算效率获得15倍提升"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
