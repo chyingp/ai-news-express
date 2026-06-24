@@ -334,5 +334,399 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "57d4290803790efb5c614651b89a5e69",
+    "title": "How distinct are all these new corporate \"AI agents\" under the hood?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uem62s/how_distinct_are_all_these_new_corporate_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-24T18:46:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I see AI agents everywhere now, from Instacart to Confluence to banking apps, and I was curious to know how they actually work behind the scenes. Are they mostly built on the exact same underlying models, or does each company code their own? If multiple companies use the same model, what stops them from acting exactly the same? Also, do they all benefit when the base model gets updated in the case they are running isolated versions? I'd love to know if they shar",
+    "title_zh": "这些新型企业“AI代理”背后到底有多大区别？",
+    "summary_zh": "文章探讨当前各类企业AI代理（如Instacart、Confluence等）的底层技术差异。作者好奇它们是基于相同的底层模型构建，还是各公司自行开发，反映出对AI代理同质化现象的关注。",
+    "key_points": [
+      "企业AI代理泛滥，用户质疑其底层技术是否同质化",
+      "探讨企业自研与通用模型封装之间的实际差异",
+      "反映了AI代理在商业应用中定义模糊的现状"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fe1ff771baa333c775a721648c31905b",
+    "title": "How I learn with AI without affecting my cognitive ability",
+    "url": "https://www.reddit.com/r/artificial/comments/1uelw3e/how_i_learn_with_ai_without_affecting_my/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-24T18:36:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've always worried about using AI for learning or note taking because the process of note taking, like figuring out what is important, the structure etc is part of how we learn and solidify things into memory, but I've found a way to use it without taking away that ability.</p> <p>First, I get the textbook and I read a section. Then I re-read it and figure out what the key points are, and what headings would be relevant for my notes to break down large paragrap",
+    "title_zh": "如何在不影响认知能力的情况下利用AI学习",
+    "summary_zh": "作者分享了一种使用AI辅助学习的方法，旨在避免传统记笔记过程中认知能力的退化。通过特定的策略，既利用AI提高效率，又保留了主动思考和知识内化的过程。",
+    "key_points": [
+      "担心AI辅助学习会削弱认知和记忆能力",
+      "分享既能利用AI又不影响主动思考的学习方法",
+      "强调学习过程中主动筛选和结构化信息的重要性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b9266f6c63be35fe8fcad6ce1ee62447",
+    "title": "How to Survive the AI Shock: A Policy Playbook to Avert Political Crisis",
+    "url": "https://www.reddit.com/r/artificial/comments/1uelieo/how_to_survive_the_ai_shock_a_policy_playbook_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-24T18:22:30+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uelieo/how_to_survive_the_ai_shock_a_policy_playbook_to/\"> <img alt=\"How to Survive the AI Shock: A Policy Playbook to Avert Political Crisis\" src=\"https://external-preview.redd.it/kX3sFdB6efDyqolmRX0wf853EF1-EqaEFsq7qJn5Ln0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=035ea5be65e9d2a65a57c169e96c85d9cff6239d\" title=\"How to Survive the AI Shock: A Policy Playbook to Avert Political Crisis\" /> </a> </td><td> &#32; submit",
+    "title_zh": "如何应对AI冲击：避免政治危机的政策指南",
+    "summary_zh": "文章提出了一套应对AI带来的社会经济冲击的政策指南，旨在防止由此引发的政治危机。探讨了如何通过政策干预来缓解AI对就业和社会结构的影响，维护社会稳定。",
+    "key_points": [
+      "提出应对AI冲击以避免政治危机的政策框架",
+      "关注AI对就业和社会结构的深远影响",
+      "建议通过政策干预缓解转型阵痛"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3bbb922d236bb849090669c79c7d46ca",
+    "title": "Big improvements to GPT-5.5 Instant, including being much more fun to talk to. Give it a try:",
+    "url": "https://nitter.net/gdb/status/2069845493199597944#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-24T18:09:56+00:00",
+    "content_snippet": "<p>Big improvements to GPT-5.5 Instant, including being much more fun to talk to. Give it a try:</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to.<br />\n<br />\nOur most-used model is now better at understanding the intent behind a question and adapting its response accordingly.<br />\n<br />\nIt also handles complex constraints more reliably and makes shopping and local recommendations more useful and cohesiv",
+    "title_zh": "GPT-5.5 Instant迎来重大改进，对话体验更有趣",
+    "summary_zh": "OpenAI联合创始人Greg Brockman宣布，GPT-5.5 Instant模型获得重大更新，在理解能力和对话趣味性上显著提升。该模型是目前使用量最高的版本，OpenAI鼓励用户尝试新版本。",
+    "key_points": [
+      "GPT-5.5 Instant模型更新，对话趣味性和理解能力提升",
+      "这是OpenAI使用量最高的模型版本",
+      "由Greg Brockman亲自宣布更新"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e9c8f52ab3ed34375e0032bd2dfb6eee",
+    "title": "Experiment : Gemini Runs a Pokémon Daycare for 153 Simulated Days",
+    "url": "https://www.reddit.com/r/artificial/comments/1uekyuq/experiment_gemini_runs_a_pokémon_daycare_for_153/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-24T18:03:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>At the very beginning, I found it quite fun, but quickly it became way too simple and predictable. Anyway, I wanted to share my full debrief with you: the successes, the mistakes, the emotional moments, and above all, the AI's limitations that sometimes created inconsistencies!</p> <p>THE EMERGENT MOMENTS – What happened without me expecting it</p> <ol> <li>The Appearance of Charmander (Day 17)</li> </ol> <p>What I said to continue: &quot;Next day.&quot;</p> <p>",
+    "title_zh": "实验：让Gemini运营宝可梦托儿所153天",
+    "summary_zh": "一项有趣的实验，让谷歌Gemini AI模拟运营宝可梦托儿所长达153天。实验初期有趣，但很快变得简单和可预测，揭示了AI在长期模拟中的局限性和偶尔产生的不连贯行为。",
+    "key_points": [
+      "用Gemini模拟运营宝可梦托儿所153天",
+      "实验初期有趣但后期变得简单且可预测",
+      "揭示了AI在长期任务中的局限性和不连贯性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9e3223aa6678327d9b1a632cab26c37e",
+    "title": "The most complex phenomena arise from scalable recombination of very simple rules. Whether it's galaxies, chips, or neural networks, if you find the right primitive building blocks, the complexity takes care of itself.",
+    "url": "https://nitter.net/fchollet/status/2069842045779517644#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-24T17:56:14+00:00",
+    "content_snippet": "<p>The most complex phenomena arise from scalable recombination of very simple rules. Whether it's galaxies, chips, or neural networks, if you find the right primitive building blocks, the complexity takes care of itself.</p>",
+    "title_zh": "François Chollet：复杂现象源于简单规则的可扩展组合",
+    "summary_zh": "前谷歌AI研究员François Chollet发表观点，认为最复杂的现象（如星系、芯片、神经网络）都源于简单规则的可扩展组合。找到正确的原始构建块，复杂性便会自然涌现。",
+    "key_points": [
+      "复杂现象源于简单规则的可扩展组合",
+      "以星系、芯片、神经网络为例阐述观点",
+      "强调寻找正确原始构建块的重要性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b695bbe8f0f8a36a7320ad433c0a8e45",
+    "title": "If AI data centers are exploding nationwide, why are so few being built in California?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uekkms/if_ai_data_centers_are_exploding_nationwide_why/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-24T17:48:58+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uekkms/if_ai_data_centers_are_exploding_nationwide_why/\"> <img alt=\"If AI data centers are exploding nationwide, why are so few being built in California?\" src=\"https://external-preview.redd.it/Rm8_inkXmq4sSj1YTpigmg_ncNaAlAyKBxu9JDnaKxI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d822526d2e74f733eb12ae4f6a816e4deba10960\" title=\"If AI data centers are exploding nationwide, why are so few being built in California?\" /> ",
+    "title_zh": "AI数据中心全美爆发式增长，为何加州建设稀少？",
+    "summary_zh": "文章探讨了美国AI数据中心建设热潮中的一个反常现象：尽管全美数据中心数量激增，但在科技产业发达的加州却鲜有建设，分析了可能的原因，如能源成本、土地政策等。",
+    "key_points": [
+      "全美AI数据中心激增，但加州建设数量稀少",
+      "探讨能源成本、土地和政策等可能原因",
+      "现象与加州科技中心地位形成反差"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4b537db0ac2634ff62027dfb8b098a37",
+    "title": "Claude outputs are insanely bad. Does anyone have a possible explanation about what's been happening mid-June?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uekiqx/claude_outputs_are_insanely_bad_does_anyone_have/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-24T17:47:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'll be direct: in June 18, I input something really important and the output accused me of jailbreak. Then, I learned that almost virtually evrything from Claude has been compromised and accused as jailbreak attempts or fake. Whether it's grey area (provided it's within policies, that is) or benign, anything I try gets refused. I assume it's related to Mythos 5 and Fable 5. But if that's not the case, then what? Could it be Anthropic's extreme fear of governmen",
+    "title_zh": "Claude输出质量严重下降，用户寻求解释",
+    "summary_zh": "用户反映自6月中旬以来，Anthropic的Claude模型输出质量严重恶化，频繁错误地将正常请求判定为越狱尝试。大量用户遭遇类似问题，引发了关于模型是否被调整的讨论。",
+    "key_points": [
+      "用户投诉Claude模型自6月18日起输出质量骤降",
+      "大量正常请求被误判为越狱尝试",
+      "事件引发对模型后台调整的猜测"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2420478b93bbdc69a87ad15dddb9b10a",
+    "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-24T17:25:00+00:00",
+    "content_snippet": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pro-AI super PAC, narrowly lost the Democratic primary to represent New York's 12th Congressional district. Prior to the race, Bores, a former [&#8230;]",
+    "title_zh": "2700万美元AI代理战：Alex Bores初选以平局告终",
+    "summary_zh": "一场由Anthropic和OpenAI参与的2700万美元政治代理战最终以平局收场。被亲AI超级政治行动委员会攻击的纽约州众议员Alex Bores，在民主党初选中以微弱劣势落败。",
+    "key_points": [
+      "Anthropic和OpenAI在纽约初选中投入2700万美元",
+      "被AI超级PAC攻击的候选人Bores以微弱劣势落败",
+      "显示出AI公司在政治领域日益增长的影响力"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e56119b650d57ff477efc872f8ae54c9",
+    "title": "Facebook rolls out an AI companion app for creators",
+    "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-24T17:16:24+00:00",
+    "content_snippet": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+    "title_zh": "Facebook为创作者推出AI伴侣应用",
+    "summary_zh": "Meta旗下的Facebook开始测试一款集成AI创作者助手的新应用，目前面向部分创作者开放。该应用内置了Facebook近期推出的AI功能，旨在帮助创作者更高效地管理和创作内容。",
+    "key_points": [
+      "Facebook测试集成AI助手的新创作者应用",
+      "应用内置AI创作工具，向特定创作者开放",
+      "Meta通过AI工具增强创作者生态的竞争力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "97c642dd855a345080569e07eb79e4a8",
+    "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+    "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-24T16:48:43+00:00",
+    "content_snippet": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+    "title_zh": "Agility Robotics 计划通过 SPAC 上市，估值 25 亿美元",
+    "summary_zh": "人形机器人初创公司 Agility Robotics 计划通过 SPAC 合并上市，交易估值达 25 亿美元，预计将获得 6.2 亿美元收益。该公司于 2015 年从俄勒冈州立大学剥离。",
+    "key_points": [
+      "Agility Robotics 将以 25 亿美元估值通过 SPAC 上市",
+      "此次上市交易预计为公司带来 6.2 亿美元收益",
+      "该公司是 2015 年从俄勒冈州立大学剥离的人形机器人初创企业"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "979967d5dd9decd87e7cc31fe1ea6595",
+    "title": "Elon Musk denies Tesla’s Autopilot caused crash that killed grandmother",
+    "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-denies-teslas-autopilot-caused-crash-that-killed-grandmother/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-24T16:40:32+00:00",
+    "content_snippet": "Tesla, accused of failing to fix design flaws, blames driver pressing accelerator.",
+    "title_zh": "马斯克否认特斯拉 Autopilot 导致祖母死亡的事故",
+    "summary_zh": "特斯拉因未能修复设计缺陷而被指控，但马斯克否认其 Autopilot 系统导致了一起致命事故。特斯拉将事故原因归咎于驾驶员踩下了油门踏板。",
+    "key_points": [
+      "特斯拉被指控未修复设计缺陷导致致命事故",
+      "马斯克否认 Autopilot 系统是事故原因，称驾驶员踩下油门"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "tesla"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8efda96ee963978ff726086705c591e6",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-24T16:30:01+00:00",
+    "content_snippet": "",
+    "title_zh": "Gemini 3.5 Flash 引入计算机使用功能",
+    "summary_zh": "谷歌 DeepMind 宣布在 Gemini 3.5 Flash 模型中引入计算机使用功能，使模型能够直接与计算机界面交互，执行操作任务。",
+    "key_points": [
+      "谷歌 DeepMind 为 Gemini 3.5 Flash 增加计算机使用能力",
+      "新功能使模型能够直接操作计算机界面和执行任务"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "17c79c28f4cb01d275545321465c9ca6",
+    "title": "Educate this newbie about AI please",
+    "url": "https://www.reddit.com/r/artificial/comments/1ueiavi/educate_this_newbie_about_ai_please/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-24T16:26:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi I am about to join a college this year and I just got into programing .</p> <p>My feed is rn all about programing and I see 3 types of content creators regarding AI :</p> <ol> <li>Just vibe code 2. Dont use AI at all 3. Use AI as a tool</li> </ol> <p>So my question is how do u actually use the AI as a tool ?</p> <p>How do you guys use AI ?</p> <p>And as begginer how should i use it ? or even if i should use it ??</p> <p>Someone please educate me on this ....<",
+    "title_zh": "新手请教：如何正确看待和使用 AI 编程？",
+    "summary_zh": "一名即将进入大学的新手程序员在 Reddit 上发帖，对当前 AI 编程的三种态度（完全依赖 AI 编程、完全不用 AI、将 AI 作为工具使用）感到困惑，寻求建议。",
+    "key_points": [
+      "新手程序员对 AI 编程的三种不同态度感到困惑",
+      "寻求关于如何正确使用 AI 学习编程的建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d6844446d43ed96576ab5cd1731ce438",
+    "title": "Find the best open-source OCR models in one place at Papers with Code [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ueiam6/find_the_best_opensource_ocr_models_in_one_place/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-24T16:26:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I've created an overview of the most important OCR benchmarks, along with the top open models, and links to their paper and code: <a href=\"https://paperswithcode.co/tasks/ocr\">https://paperswithcode.co/tasks/ocr</a>.</p> <p>This week, new OCR models were released by Baidu and Mistral. </p> <p>Baidu released <a href=\"https://paperswithcode.co/paper/2606.23050\">Unlimited OCR</a>, a 3B-parameter model that introduces a key innovation called Reference Sliding Wi",
+    "title_zh": "在 Papers with Code 一站式查找最佳开源 OCR 模型",
+    "summary_zh": "一篇 Reddit 帖子分享了一个 OCR 基准测试和最佳开源模型的汇总页面，提供了相关论文和代码链接，并提到本周有新的 OCR 模型发布。",
+    "key_points": [
+      "汇总了 OCR 基准测试和顶级开源模型，附带论文与代码链接",
+      "本周有新的 OCR 模型发布，资源持续更新"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "49eb87e6c5f14dc4067c8c68300b2da6",
+    "title": "How would you all feel about a provider that gave you unlimited tokens?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uei9c6/how_would_you_all_feel_about_a_provider_that_gave/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-24T16:25:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Why dont large providers just let you use their LLM without token limits? </p> <p>Why havent more unlimited llm subscriptions followed up that just give you an openai/v1 compatible endpoint with a monthly subscription? </p> <p>Whats up with all these usage caps and stuff? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Substantial_Ranger_5\"> /u/Substantial_Ranger_5 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/arti",
+    "title_zh": "你对提供无限 Token 的 LLM 服务商怎么看？",
+    "summary_zh": "Reddit 用户讨论为何大型语言模型服务商不提供无限 Token 订阅，并询问为何没有更多类似的服务出现，探讨了使用上限和订阅模式的问题。",
+    "key_points": [
+      "用户质疑为何 LLM 服务商不提供无限 Token 订阅",
+      "讨论当前 API 使用上限和订阅模式的局限性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
