@@ -1,0 +1,338 @@
+[
+  {
+    "id": "ce7b91e4f16790352db2a6d900590787",
+    "title": "I built an AI assistant you can text directly through iMessage/SMS",
+    "url": "https://www.reddit.com/r/artificial/comments/1uei4q0/i_built_an_ai_assistant_you_can_text_directly/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-24T16:20:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Full-time SWE here. I’ve been working on a side project with a small team and wanted to share it here because I think people in this community might actually find it useful.<br /> It’s an AI assistant that you text directly through iMessage/SMS, basically like texting a friend. The difference is that behind the scenes, it can activate a private AWS server for each user, giving the agent access to its own computer.</p> <p>So it’s not just answering questions. It ",
+    "title_zh": "我构建了一个可通过 iMessage/SMS 直接发短信的 AI 助手",
+    "summary_zh": "一位全职软件工程师分享了其团队开发的副项目，一个可通过 iMessage 或 SMS 短信直接交互的 AI 助手，旨在为社区提供实用工具。",
+    "key_points": [
+      "软件工程师团队开发了基于短信的 AI 助手",
+      "用户可通过 iMessage/SMS 直接与 AI 交互"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b2d1e66efb72bea262d807ef40839c67",
+    "title": "Figma adds code layers, support for animations, more AI features in new update",
+    "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-24T16:15:00+00:00",
+    "content_snippet": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plugins for various tasks using AI.",
+    "title_zh": "Figma 更新：新增代码层、动画支持和更多 AI 功能",
+    "summary_zh": "Figma 在 Config 大会上发布更新，引入代码层、动态图形与着色器支持，以及利用 AI 创建自定义插件的能力，旨在简化繁琐的设计开发任务。",
+    "key_points": [
+      "Figma 新增代码层和动态图形/着色器支持",
+      "用户可通过 AI 创建自定义插件来自动化任务"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cfd2abd6965bba1451e064a4bddec1d2",
+    "title": "Figma now has AI motion graphics and shader tools",
+    "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-24T16:15:00+00:00",
+    "content_snippet": "Figma has unveiled some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is a reimagined canvas that's now optimized for full-stack development, according to Figma, bringing teams, AI agents, tools, and materials \"together in [&#8230;]",
+    "title_zh": "Figma 现已推出 AI 动态图形和着色器工具",
+    "summary_zh": "Figma 在年度 Config 大会上发布更新，推出经重新设计的全栈开发画布，以及 AI 驱动的动态图形和着色器工具，帮助创意人员实现更复杂的想法。",
+    "key_points": [
+      "Figma 发布 AI 驱动的动态图形和着色器工具",
+      "新画布针对全栈开发进行了优化"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8b2159025d9f02dfc1195606dc0ed113",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-24T16:00:13+00:00",
+    "content_snippet": "",
+    "title_zh": "使用 NVIDIA NeMo AutoModel 加速 Transformer 微调",
+    "summary_zh": "Hugging Face 博客介绍了如何使用 NVIDIA NeMo AutoModel 工具来加速 Transformer 模型的微调过程，提升训练效率。",
+    "key_points": [
+      "NVIDIA NeMo AutoModel 可用于加速 Transformer 微调",
+      "博客提供了工具使用方法和性能优势说明"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c5fb49696999c01792af64580c792d5f",
+    "title": "I tested 5 AI image generators side-by-side - here's my honest take",
+    "url": "https://www.reddit.com/r/artificial/comments/1ueh7x0/i_tested_5_ai_image_generators_sidebyside_heres/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-24T15:47:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Spent the last two weeks putting Midjourney, DALL-E 3, Stable Diffusion, Ideogram, and Adobe Firefly through the same set of prompts. Same prompts, same categories, no cherry-picking.</p> <p>Here's what I found:</p> <p>Photorealism: Midjourney still wins here, but the gap is narrowing. DALL-E 3 surprised me on faces.</p> <p>Text in images: Ideogram is miles ahead. If your use case involves text, use Ideogram. Full stop.</p> <p>Style consistency: Stable Diffusion",
+    "title_zh": "我横向测试了 5 款 AI 图像生成器——这是我的真实感受",
+    "summary_zh": "一位用户对 Midjourney、DALL-E 3、Stable Diffusion、Ideogram 和 Adobe Firefly 五款 AI 图像生成器进行了为期两周的盲测对比，并分享了其在照片真实感等方面的表现结论。",
+    "key_points": [
+      "用户对五款主流 AI 图像生成器进行横向对比测试",
+      "Midjourney 在照片真实感方面仍占优势"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "228712f415218af0543bdc51ea9725a3",
+    "title": "Pinned: Introducing Jalapeño — designed from scratch for LLM inference over nine months, accelerated by our models. Perf per watt looking incredible.",
+    "url": "https://nitter.net/gdb/status/2069809298612621629#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-24T15:46:06+00:00",
+    "content_snippet": "<p>Introducing Jalapeño — designed from scratch for LLM inference over nine months, accelerated by our models. Perf per watt looking incredible.</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>We’ve designed and built our first AI chip: Jalapeño.<br />\n<br />\nDesigned from the ground up by OpenAI and brought to production with <a href=\"https://nitter.net/Broadcom\" title=\"Broadcom\">@Broadcom</a>, Jalapeño is purpose-built for the LLM workloads powering ChatGPT, Codex, the API, and future a",
+    "title_zh": "OpenAI 发布首款自研 AI 芯片 Jalapeño",
+    "summary_zh": "OpenAI 总裁 Greg Brockman 宣布推出首款自研 AI 芯片 Jalapeño，该芯片专为 LLM 推理设计，历时九个月，由自有模型加速开发，能效比表现出色。",
+    "key_points": [
+      "OpenAI 推出首款自研 AI 芯片 Jalapeño",
+      "该芯片专为 LLM 推理设计，能效比卓越"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d99028ae96c0f154bdd30941c0505a32",
+    "title": "The best way to understand a complex system is via edge cases and failure modes, because they define the contour of the system.",
+    "url": "https://nitter.net/fchollet/status/2069808712890585191#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-24T15:43:46+00:00",
+    "content_snippet": "<p>The best way to understand a complex system is via edge cases and failure modes, because they define the contour of the system.</p>",
+    "title_zh": "理解复杂系统的最佳方式是研究边缘案例和失效模式",
+    "summary_zh": "前谷歌研究员 François Chollet 分享观点，认为通过边缘案例和失效模式可以定义复杂系统的轮廓，是理解系统的最佳方法。",
+    "key_points": [
+      "边缘案例和失效模式定义了复杂系统的轮廓",
+      "这是理解复杂系统模型行为的最佳途径"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "259f1212411745d60bc94551620edd3a",
+    "title": "Is AI making expertise scalable?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ueh19x/is_ai_making_expertise_scalable/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-24T15:40:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The more AI use cases I see, the more I think we've been asking the wrong question. Everyone asks what jobs can AI replace , a more interesting question might be what bottlenecks can AI remove?</p> <p>Every growing company eventually runs into the same problem. The best people become the limiting factor and the best manager can only coach so many people. The best salesperson can only take so many meetings. The best founder can only make so many decisions. What's",
+    "title_zh": "AI 正在让专业知识变得可规模化吗？",
+    "summary_zh": "Reddit 用户探讨 AI 的真正价值在于消除公司成长中的瓶颈，而非直接替代工作，提出了“AI 能否规模化专业知识”的思考。",
+    "key_points": [
+      "AI 的核心价值在于消除成长瓶颈而非替代工作",
+      "AI 可能使专家知识变得可规模化"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "35e08640d28a4c8076ca739a780d431f",
+    "title": "OpenAI Unveils Custom Chip It Designed With Broadcom to Boost Its AI Infrastructure",
+    "url": "https://www.reddit.com/r/artificial/comments/1uegmmx/openai_unveils_custom_chip_it_designed_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-24T15:25:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uegmmx/openai_unveils_custom_chip_it_designed_with/\"> <img alt=\"OpenAI Unveils Custom Chip It Designed With Broadcom to Boost Its AI Infrastructure\" src=\"https://external-preview.redd.it/ymeTnyo19V1yTtQ_IZZhZuM1B-qWi_6jhJ1A7DH2K0w.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f869a7493b917f701d8548bb1f994f683f45dc2\" title=\"OpenAI Unveils Custom Chip It Designed With Broadcom to Boost Its AI Infrastructure\" /> </a> </td>",
+    "title_zh": "OpenAI 发布与 Broadcom 合作设计的定制芯片以增强 AI 基础设施",
+    "summary_zh": "OpenAI 展示了与 Broadcom 合作设计的定制 AI 芯片，旨在加强其 AI 基础设施，提升模型推理与训练能力。",
+    "key_points": [
+      "OpenAI 与 Broadcom 合作设计定制 AI 芯片",
+      "芯片旨在提升 AI 基础设施和模型推理性能"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4bfd31e826e652fa734b3e4510a80563",
+    "title": "Europe’s extreme heat is shutting down power plants",
+    "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-24T15:25:28+00:00",
+    "content_snippet": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.&#8230;",
+    "title_zh": "欧洲极端高温导致发电厂关闭",
+    "summary_zh": "欧洲遭遇创纪录热浪，电网压力剧增，部分发电厂因高温无法正常运行而关闭，导致供电紧张，加剧了能源危机。",
+    "key_points": [
+      "欧洲创纪录高温导致电网压力巨大",
+      "部分发电厂因高温被迫关闭，加剧供电紧张"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4c7987c02062edfd9bfa9c457e8baff9",
+    "title": "Looking for a technical co-founder [R]",
+    "url": "https://www.reddit.com/r/artificial/comments/1uegdp2/looking_for_a_technical_cofounder_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-24T15:16:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm building VentureLync, an AI operating system for venture capital funds. </p> <p>Three agents: Analyst, Associate, Operations. Running on a persistent memory layer. Doing the actual work that junior VC staff do today: sourcing, diligence, portfolio monitoring, LP reporting. </p> <p>Where we are: design partners already signed, more funds in active conversations looking to come on board. The product exists, funds are using it, and we're closing more. </p> <p>W",
+    "title_zh": "寻找技术联合创始人",
+    "summary_zh": "帖子作者正在为名为VentureLync的AI驱动风险投资操作系统寻找技术联合创始人，该系统通过三个AI代理自动化分析师、助理和运营工作。",
+    "key_points": [
+      "构建AI驱动的VC操作系统VentureLync",
+      "三个AI代理可自动化初级VC员工的工作",
+      "正在寻找技术联合创始人加入项目"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "08bb1a7b979ea7b37dd6bb0f67f72401",
+    "title": "$42M grant for Open Source AI Builders by Sentient Foundation",
+    "url": "https://www.reddit.com/r/artificial/comments/1uefv8p/42m_grant_for_open_source_ai_builders_by_sentient/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-24T14:58:13+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uefv8p/42m_grant_for_open_source_ai_builders_by_sentient/\"> <img alt=\"$42M grant for Open Source AI Builders by Sentient Foundation\" src=\"https://preview.redd.it/abte1h9pv89h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f758ea38a1eccdbc6e14a10320461d1a2e499fb0\" title=\"$42M grant for Open Source AI Builders by Sentient Foundation\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi everyone, we at Sentient Foundation",
+    "title_zh": "Sentient基金会为开源AI开发者提供4200万美元资助",
+    "summary_zh": "Sentient基金会宣布了一项4200万美元的资助计划，旨在支持开源AI开发者的发展与创新。",
+    "key_points": [
+      "Sentient基金会提供4200万美元资助",
+      "资助对象为开源AI开发者",
+      "旨在推动开源AI领域的创新"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b2b283d1fdd44d7ce5130f89f6d6be81",
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-24T14:54:46+00:00",
+    "content_snippet": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
+    "title_zh": "OpenAI发布首款定制芯片，由博通制造",
+    "summary_zh": "OpenAI发布了其首款名为Jalapeño的定制AI推理芯片，该芯片由博通合作制造，专为满足OpenAI推理系统的独特需求而设计。",
+    "key_points": [
+      "OpenAI发布首款定制芯片Jalapeño",
+      "芯片由博通制造，专为AI推理优化",
+      "标志着OpenAI向自有硬件迈出重要一步"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6dc584c0ce9aace586a8b93945f50fd5",
+    "title": "OpenAI reveals its first AI processor: Jalapeño",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-24T14:36:47+00:00",
+    "content_snippet": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language models, according to an announcement on Wednesday. Jalape&#241;o is an ASIC (Application-Specific Integrated Circuit), meaning it's designed for a specific purpose: AI inference. With AI [&#8230;]",
+    "title_zh": "OpenAI首款AI处理器亮相：Jalapeño",
+    "summary_zh": "OpenAI揭晓了与博通合作开发的首款AI处理器Jalapeño，这是一款ASIC芯片，旨在为当前和未来的大型语言模型提供动力。",
+    "key_points": [
+      "OpenAI首款AI处理器名为Jalapeño",
+      "与博通合作开发的ASIC智能处理器",
+      "专为驱动大型语言模型而设计"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
