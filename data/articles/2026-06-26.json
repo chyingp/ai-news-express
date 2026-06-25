@@ -537,5 +537,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "cfac8b7094d39600101474e75a9275b4",
+    "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-25T21:57:06+00:00",
+    "content_snippet": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&#38;A that it would release GPT-5.6 in limited preview form - granting access only to a small group of [&#8230;]",
+    "title_zh": "OpenAI将应特朗普政府要求推迟GPT-5.6发布",
+    "summary_zh": "据报道，特朗普政府因担忧潜在安全问题，已要求OpenAI推迟其下一代大模型GPT-5.6的发布。OpenAI CEO萨姆·奥尔特曼在公司内部问答中表示，将先进行有限预览，而非全面上线。",
+    "key_points": [
+      "特朗普政府以安全为由要求OpenAI推迟GPT-5.6发布",
+      "OpenAI CEO确认将改为有限预览而非全面发布",
+      "该决定反映了美国政府对AI安全监管的加强"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
