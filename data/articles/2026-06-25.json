@@ -2434,5 +2434,177 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "587e898a30e5a46c314776c69985a291",
+    "title": "Tool selection at scale is a retrieval problem, and document-style defaults are the wrong starting point [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ufafnw/tool_selection_at_scale_is_a_retrieval_problem/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-25T13:43:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A pattern I keep running into building agents. Posting as a discussion because I think the standard intuition is backwards for this specific case.</p> <p>Setup is an agent with a big set of callable tools (mine are MCP-exposed, but the shape generalises to any function-calling loop). You can't put all of them in front of the model every turn. Past a certain catalog size selection accuracy drops, and just carrying every definition becomes the dominant token cost ",
+    "title_zh": "大规模工具选择是检索问题，文档式默认设置是错误的起点",
+    "summary_zh": "本文讨论在构建AI智能体时，面对大量可调用工具，传统以文档式默认设置作为起点的方式是错误的，应将工具选择视为一个检索问题来解决。",
+    "key_points": [
+      "构建AI智能体时，工具选择应被视为检索问题",
+      "传统的文档式默认设置方法不适用于大规模工具场景",
+      "作者分享了一种基于检索的工具选择模式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e942446e4dbea5a41cbb41e6b2913910",
+    "title": "抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重",
+    "url": "https://36kr.com/p/3868596994069509?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-25T13:42:26+00:00",
+    "content_snippet": "<p>减重1亿斤，是什么概念？&nbsp;</p>\n  <p>简单算一笔“热量账”。按医学建议的安全减重速度（每周1-2斤）计算，一个人单打独斗，全部减完大概要花100多万年。</p>\n  <p>但如果把它拆分到全国人民身上，再加上专业健康AI“带减”，这个几乎不可能完成的目标就变得触手可及。</p>\n  <p>在国家卫健委等16部门联合倡议的“体重管理年”行动背景下，6月25日，AI健康应用“阿福”宣布正式上线“科学减重1亿斤”健康行动，包含三项核心动作：1分钱便能领的体脂秤，升级阿福的AI解读功能、为用户定制饮食和运动方案，以及即将开启的减重挑战赛。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260625/v2_a522483dd549493a8c21d0fd583e066f@19153231_oswg3876693oswg6004oswg4003_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+    "title_zh": "抢体脂秤、AI做「搭子」，第一批网友冲向阿福减重",
+    "summary_zh": "AI健康应用“阿福”响应国家“体重管理年”行动，正式上线“科学减重1亿斤”健康行动，通过1分钱领体脂秤、AI定制饮食运动方案和减重挑战赛等方式，吸引用户参与。",
+    "key_points": [
+      "AI健康应用“阿福”发起“科学减重1亿斤”行动",
+      "用户可1分钱领取体脂秤，并获得AI定制健康方案",
+      "该行动响应了国家卫健委等部门的体重管理倡议"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1ef1bcd1b824c6857219f14156c1f234",
+    "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+    "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-25T13:30:00+00:00",
+    "content_snippet": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+    "title_zh": "Adobe收购图像和视频增强工具制造商Topaz Labs",
+    "summary_zh": "Adobe宣布收购图像和视频增强工具制造商Topaz Labs，并计划将其工具整合到Adobe的各类应用程序中，以增强其创意软件功能。",
+    "key_points": [
+      "Adobe收购了Topaz Labs以增强其AI影像处理能力",
+      "Topaz Labs的工具将被整合进Adobe的应用程序中",
+      "此收购旨在提升Adobe在创意软件领域的竞争力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1976067662fe350b2a14f80a19d0b2f6",
+    "title": "Are our AI models getting dumber/lazier - how do AI companies determine what is \"sufficient thinking\"?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ufa2g0/are_our_ai_models_getting_dumberlazier_how_do_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-25T13:29:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Sorry if this comes across as a rant, I just came off a frustrating session with my LLM, who tries to be &quot;smart&quot; by assuming that their mode of thinking is &quot;sufficient&quot; for my requirement.</p> <p>I recalled in 2024/2025, which new model brought a new excitement to the users than the previous version - &quot;you mean the model can do this now?&quot; Now, it is the inverse - &quot;you mean the models are trying to optimise itself?&quot;</p> <p>",
+    "title_zh": "我们的AI模型是否在变笨/变懒——AI公司如何判断“足够思考”？",
+    "summary_zh": "用户在Reddit上讨论近期AI模型似乎变得“懒惰”，倾向于用自认为“足够”的思考模式来应对复杂需求，引发了对AI公司如何判断和优化模型“思考深度”的探讨。",
+    "key_points": [
+      "用户反映AI模型在处理复杂问题时表现出“偷懒”倾向",
+      "讨论聚焦于AI公司如何定义和优化模型的“足够思考”",
+      "该现象引发了对模型智能水平是否下降的担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7a13fb6726887d1be9d605324b84f810",
+    "title": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-25T13:00:34+00:00",
+    "content_snippet": "Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Elliot: The Millennium Tales. They lead the [&#8230;]",
+    "title_zh": "终极夏日特卖搭档：Steam促销遇上GeForce NOW折扣",
+    "summary_zh": "英伟达宣布GeForce NOW云游戏服务推出会员折扣，配合Steam夏日特卖，为玩家提供双重优惠，并新增了《Dark Scrolls》等游戏。",
+    "key_points": [
+      "GeForce NOW推出会员折扣，与Steam夏日特卖同步",
+      "旨在为云游戏玩家提供更多价值",
+      "云游戏库新增《Dark Scrolls》等作品"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7bb049214804a9c8bb982f6697632fe0",
+    "title": "How to maintain consistent context across ChatGPT, Claude, and other AI tools",
+    "url": "https://www.reddit.com/r/artificial/comments/1uf9818/how_to_maintain_consistent_context_across_chatgpt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-25T12:55:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The core problem with using multiple AI models is that each one only knows what you tell it in that specific conversation. Switch to a different model and you're re-briefing from scratch. By the time you've caught Claude up on what ChatGPT already knows, you've lost ten minutes and half the momentum. Worse, they end up with different versions of your project because you explained it slightly different ways, so you get contradicting outputs.</p> <p>Most people ha",
+    "title_zh": "如何在ChatGPT、Claude和其他AI工具间保持一致的上下文",
+    "summary_zh": "文章探讨了使用多个AI模型时，由于上下文不互通导致需要重复介绍背景信息的问题，并分享了一套在ChatGPT、Claude等工具间保持上下文一致性的方法。",
+    "key_points": [
+      "使用多个AI模型的核心痛点是需要重复介绍背景",
+      "提供了一套在ChatGPT、Claude等工具间保持上下文一致的方法",
+      "旨在解决跨模型工作时的效率和信息断层问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b544cb5f67ed56975fd64a887914f082",
+    "title": "苹果公司：人工智能数据中心的快速扩张导致内存需求激增",
+    "url": "https://36kr.com/newsflashes/3868586020066566?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-25T12:49:12+00:00",
+    "content_snippet": "苹果公司称，人工智能数据中心的快速扩张导致内存需求激增，从未见过某个零部件价格如此大幅快速上涨；电子产品行业面临前所未有的挑战。（财联社）",
+    "title_zh": "苹果公司：人工智能数据中心的快速扩张导致内存需求激增",
+    "summary_zh": "苹果公司指出，人工智能数据中心的快速扩张正导致内存需求激增，并强调从未见过某个零部件价格出现如此大幅且快速的上涨，电子产品行业面临前所未有的挑战。",
+    "key_points": [
+      "苹果公司称AI数据中心扩张导致内存需求激增",
+      "零部件价格出现前所未有的大幅快速上涨",
+      "电子产品行业正面临严峻的供应链挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
