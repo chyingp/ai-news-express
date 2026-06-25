@@ -2606,5 +2606,119 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "50960b146d31b459d6cd0fba1d13e59c",
+    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+    "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-25T14:55:38+00:00",
+    "content_snippet": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+    "title_zh": "Netris 获 a16z 领投 1500 万美元 A 轮融资，加速 AI 新云服务上线",
+    "summary_zh": "Netris 提供网络交换机软件和平台，帮助新云运营商缩短上线时间，近期完成由 a16z 领投的 1500 万美元 A 轮融资。",
+    "key_points": [
+      "Netris 提供网络自动化软件，帮助 AI 新云缩短上线时间。",
+      "该公司完成 1500 万美元 A 轮融资，由 a16z 领投。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "30c28838c04863d7ba95ac6846c24085",
+    "title": "Does anyone else gets this email?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ufc50v/does_anyone_else_gets_this_email/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-25T14:47:10+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ufc50v/does_anyone_else_gets_this_email/\"> <img alt=\"Does anyone else gets this email?\" src=\"https://preview.redd.it/f2n5y5ttyf9h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=da71d6e30d742a75882b780d0eff54cb853c0993\" title=\"Does anyone else gets this email?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I actually got this email like a few days ago and then they sent this to me again just now and when I clicked “",
+    "title_zh": "有人收到这封邮件吗？",
+    "summary_zh": "Reddit 用户发帖询问是否其他人也收到了某封邮件，内容未提供具体细节，仅展示了一张图片。",
+    "key_points": [
+      "Reddit 用户分享一则关于收到某封邮件的疑问。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1235cb807f718282124a0886a47c52ef",
+    "title": "If AI disappeared tomorrow, what part of your daily life would be affected the most?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ufbt84/if_ai_disappeared_tomorrow_what_part_of_your/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-25T14:35:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For me, it would probably be search, writing assistance, and productivity tools.</p> <p>I'm curious-what Al-powered tool do you use most often without even thinking about it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Sandesh_jagtap\"> /u/Sandesh_jagtap </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1ufbt84/if_ai_di",
+    "title_zh": "如果 AI 明天消失，你日常生活中哪个部分受影响最大？",
+    "summary_zh": "Reddit 讨论帖，用户探讨如果 AI 消失，日常生活受影响最大的方面，提及搜索、写作辅助和生产力工具。",
+    "key_points": [
+      "用户讨论 AI 对搜索、写作和生产力工具的影响。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e1a49a3b3614d61edd9a2aca878c7f41",
+    "title": "The Death of \"Vibe Coding\": Why un-monitored AI generation is creating a compounding technical debt.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ufbqxi/the_death_of_vibe_coding_why_unmonitored_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-25T14:32:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, ​We are quickly approaching a major bottleneck in AI-assisted software engineering. Relying on LLMs to spit out thousands of lines of code without a strict, human-driven architectural framework—what many call &quot;Vibe Coding&quot;—is creating brittle, unmaintainable systems. ​I’ve formalized this structural shift into a public document on GitHub: The AI-Powered Developer Manifesto. ​Instead of treating AI as a replacement for software architectur",
+    "title_zh": "“氛围编程”之死：不受监控的 AI 代码生成正制造复利技术债务",
+    "summary_zh": "文章指出，依赖大模型无约束生成代码的“氛围编程”模式正导致脆弱的系统和高昂的技术债务，成为 AI 辅助软件工程的瓶颈。",
+    "key_points": [
+      "“氛围编程”指无架构约束地让 AI 生成大量代码。",
+      "这种模式导致代码脆弱、可维护性差，产生复利技术债务。",
+      "行业正面临 AI 辅助编程中的重大瓶颈。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "21b4b9b70216e76d067b539d16bf7206",
+    "title": "Repositioning retail for the AI era",
+    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-25T14:22:59+00:00",
+    "content_snippet": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
+    "title_zh": "AI 时代零售业的后台重塑",
+    "summary_zh": "MIT 科技评论分析 AI 如何重塑零售业，指出最大变革不在虚拟试穿等前台应用，而在搜索排序、库存管理等后台决策。",
+    "key_points": [
+      "AI 对零售业的最大影响在于后台决策，如搜索结果和库存管理。",
+      "前台应用如虚拟试穿和聊天机器人并非核心变革。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
