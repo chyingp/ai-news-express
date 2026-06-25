@@ -1239,5 +1239,177 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ff69edf202f3121fdeebd776a7596691",
+    "title": "Follow-up: hosted AI export controls are now being tested in DC court",
+    "url": "https://www.reddit.com/r/artificial/comments/1uexdqk/followup_hosted_ai_export_controls_are_now_being/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-25T02:23:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>11 days ago I posted here asking whether Commerce actually has authority to treat hosted frontier AI model access as an export-control issue. <a href=\"https://www.reddit.com/r/artificial/comments/1u4yjdi/does_commerce_have_the_authority_to_apply_export/\">https://www.reddit.com/r/artificial/comments/1u4yjdi/does_commerce_have_the_authority_to_apply_export/</a></p> <p>There is now a live federal case testing almost exactly that question. <a href=\"https://www.court",
+    "title_zh": "后续：托管AI出口管制现已在华盛顿特区法院接受审查",
+    "summary_zh": "Reddit用户讨论美国商务部是否将托管式前沿AI模型访问视为出口管制问题，相关争议已进入华盛顿特区法院进行司法审查。",
+    "key_points": [
+      "美国商务部将托管AI模型访问纳入出口管制",
+      "相关政策的合法性正在华盛顿特区法院接受审查",
+      "此案可能影响AI模型国际访问和分发方式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5f4bb9276ff51eded0822d5f6af970d2",
+    "title": "百度文心网站全面升级",
+    "url": "https://36kr.com/newsflashes/3867935531046151?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-25T01:47:29+00:00",
+    "content_snippet": "36氪获悉，6月25日，百度宣布对百度文心相关网站进行合并升级，统一整合为全新的百度文心网站，打造一站式AI服务入口。升级后，用户可在一个平台内便捷使用全部AI功能，大幅降低使用门槛，提升交互效率。",
+    "title_zh": "百度文心网站全面升级",
+    "summary_zh": "百度宣布将文心相关网站合并升级为全新的百度文心网站，打造一站式AI服务入口，用户可在一个平台便捷使用全部AI功能以降低使用门槛。",
+    "key_points": [
+      "百度文心网站合并升级为统一AI服务入口",
+      "用户可在单一平台使用全部AI功能",
+      "此举旨在降低使用门槛并提升交互效率"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "baidu"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "20e170188c19918ec53d5f685e4bc771",
+    "title": "美团陶雪璇：大众点评将在AI时代放大物理世界的真实信任",
+    "url": "https://36kr.com/newsflashes/3867902250161156?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-25T01:13:38+00:00",
+    "content_snippet": "6月24日，大众点评“必吃榜”在上海揭晓10周年成绩单，同日“必玩榜”焕新发布。美团副总裁、点评事业部总经理陶雪璇在现场表示，大众点评将在AI时代放大物理世界的真实信任。过去一年，有1.3亿用户在外出就餐后，在大众点评留下4亿条真实美食评价，体现了平台“用户推荐给用户”的社区底色。过去一年，大众点评持续推进星级评分体系升级，率先引入AI辅助评价审核，处理AIGC评价1161万条左右，进一步推动评价生态的社会共治，筑牢信任基础。",
+    "title_zh": "美团陶雪璇：大众点评将在AI时代放大物理世界的真实信任",
+    "summary_zh": "大众点评发布“必吃榜”十周年和“必玩榜”，美团副总裁陶雪璇表示将利用AI辅助评价审核，过去一年已处理超千万条AIGC评价，以筑牢真实信任基础。",
+    "key_points": [
+      "大众点评引入AI辅助评价审核，处理AIGC评价超千万条",
+      "平台旨在用AI技术放大物理世界的真实信任",
+      "过去一年1.3亿用户留下4亿条真实美食评价"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "meituan"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1142f65f6138b6cecdbcf64ebbdbd679",
+    "title": "AI Sandbox question",
+    "url": "https://www.reddit.com/r/artificial/comments/1uevtgy/ai_sandbox_question/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-25T01:09:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey all, just want to start by saying I know very little about AI and have just been going down a rabbit hole thinking about multi-agent simulations and had a question I couldn’t find a clear answer to.</p> <p>Most of the big simulation projects I’ve seen like Project Sid and Stanford Smallville use LLMs as the base, which means the agents already come loaded with human language, concepts, and cultural baggage before the experiment even starts. And things like A",
+    "title_zh": "AI沙盒问题",
+    "summary_zh": "Reddit用户对多智能体模拟项目感到好奇，并就AI沙盒相关问题寻求解答，但未透露具体的技术细节或发现。",
+    "key_points": [
+      "用户对多智能体AI模拟项目产生兴趣",
+      "探索AI沙盒技术中未找到明确答案的问题",
+      "帖子仅为一般性技术探讨"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a23f560c2820c203699dd64894e6fadb",
+    "title": "光源资本创始人&CEO、L2F光源创业者基金创始合伙人郑烜乐：拥抱技术爆炸的黎明，AI与未来科技时代的早期投资范式 | 36氪WAVES2026新浪潮",
+    "url": "https://36kr.com/p/3866562600227847?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-25T01:00:00+00:00",
+    "content_snippet": "<p>&nbsp;“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从‘小众赛道’&nbsp;变成‘主流共识’，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong>&nbsp;· 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以‘今年盛夏’为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些‘少数人’&nbsp;的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>活动现场，光源资本创始人&amp;CEO郑烜乐做了“拥抱技术爆炸的黎明：AI与未来科技时代的早期投资范式”的主题演讲，他表示“未来，通用智能本身将不再稀缺，因为大模型公司会主导智能的供给，基于其生态做通用智能的路径价值有限。”此外，他也坦言光源资本成立的L2F光源创业者基金，源于其对大趋势的判断：先进生产要素一定要和产业快速融合，光源希望成为这个过程",
+    "title_zh": "光源资本郑烜乐：拥抱技术爆炸，AI与未来科技早期投资范式",
+    "summary_zh": "在36氪WAVES 2026大会上，光源资本创始人郑烜乐分享了对AI和硬科技早期投资的看法，认为AI正从概念进入产业深水区，年轻创业者正在重塑中国创新坐标。",
+    "key_points": [
+      "AI从技术概念走向产业落地，进入深水区",
+      "硬科技创业成为创投圈主流共识",
+      "年轻创业者正重新定义中国创新的未来"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "38c7713531dd90a58d3388a60b006f7e",
+    "title": "曼恩斯特：目前公司产品暂不涉及HBM存储芯片封装、CPO光模块应用",
+    "url": "https://36kr.com/newsflashes/3867884485547265?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-25T00:55:33+00:00",
+    "content_snippet": "36氪获悉，有投资者提问称，公司的涂布技术是否适用于HBM存储芯片封装、CPO光模块等当前AI产业链的热点领域，是否有相关的技术储备或客户接触？6月25日，曼恩斯特在互动平台表示，目前公司产品暂不涉及上述应用，请注意投资风险。",
+    "title_zh": "曼恩斯特：公司产品暂不涉及HBM存储芯片封装、CPO光模块应用",
+    "summary_zh": "曼恩斯特在互动平台回应投资者，明确表示公司涂布技术产品目前不涉及HBM存储芯片封装和CPO光模块等AI热点领域，并提示投资风险。",
+    "key_points": [
+      "曼恩斯特产品暂不涉及HBM存储芯片封装",
+      "公司涂布技术也未应用于CPO光模块",
+      "公司提示投资者注意相关投资风险"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0f69a6dec829c6d55fd277c3fcb6371b",
+    "title": "华泰证券：科技或仍是主线，但表观拥挤度已处于高位",
+    "url": "https://36kr.com/newsflashes/3867880572048386?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-25T00:51:35+00:00",
+    "content_snippet": "36氪获悉，华泰证券研报称，全球AI产业周期共振、算力需求和国产替代相互强化背景下，科技或仍是主线；但表观拥挤度已处于高位，叠加市场对Tokenmaxxing的讨论趋于白热化，后续B端对ROI、实际交付量等考核指标或更加重视，建议密切跟踪产业趋势，同时适度控制仓位、谨慎追高，关注国产大模型、光模块、存储/CCL、MLCC、MPO等细分环节。",
+    "title_zh": "华泰证券：科技或仍是主线，但表观拥挤度已处于高位",
+    "summary_zh": "华泰证券研报指出，在AI产业周期共振背景下科技仍是主线，但市场拥挤度已高，建议关注国产大模型、光模块等环节，同时控制仓位、谨慎追高。",
+    "key_points": [
+      "全球AI产业周期共振，科技仍是投资主线",
+      "科技板块表观拥挤度已处于高位",
+      "建议关注国产大模型、光模块等细分环节"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
