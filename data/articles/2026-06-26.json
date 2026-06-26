@@ -855,5 +855,177 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "def7c7d47c9026e72d50673705c04486",
+    "title": "A case study in source-grounded fine-tuning: I trained an 8B model on a public-domain 19th-century corpus to force it to cite chapter/verse — here's where it works and where it fails",
+    "url": "https://www.reddit.com/r/artificial/comments/1ufu3me/a_case_study_in_sourcegrounded_finetuning_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-26T02:30:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Solo project, sharing it here for the AI angle rather than the subject matter.</p> <p>I fine-tuned Llama 3.1 8B (QLoRA, single T4) on the complete works of a 19th-century author whose corpus is fully public domain. The interesting problem wasn't the domain — it was trying to get a small model to cite its source (book, chapter, item) on every answer instead of just asserting things confidently.</p> <p>What I learned, which might be useful to others doing domain f",
+    "title_zh": "案例研究：基于源文本微调8B模型，强制引用章节——效果与失败之处",
+    "summary_zh": "一个独立项目，使用QLoRA在单个T4 GPU上对Llama 3.1 8B模型进行微调，训练数据为19世纪公共领域著作全集，旨在让模型严格引用章节和经文，并探究其成功与失败的原因。",
+    "key_points": [
+      "使用QLoRA在单T4上微调Llama 3.1 8B模型",
+      "训练数据为19世纪公共领域著作，强制模型引用章节",
+      "项目探索了源文本微调在特定领域的应用与局限"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1af1d5717aed9333ff7b5cb16959b728",
+    "title": "Do people actually hate AI, or are we just tired of how it’s being used?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uftzum/do_people_actually_hate_ai_or_are_we_just_tired/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-26T02:25:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I don’t know if anyone else feels this, but AI is starting to feel less like a tool I choose to use and more like something that’s just built into everything now.</p> <p>On Reddit, people seem pretty tired of AI-made stuff. AI images, writing, comments, music. Once something feels obviously generated, the reaction is usually pretty negative.</p> <p>But then outside of Reddit, it feels like every app, platform, and work tool is trying to add AI somehow.</p> <p>An",
+    "title_zh": "人们真的讨厌AI，还是厌倦了它被使用的方式？",
+    "summary_zh": "文章探讨了公众对AI态度转变的现象，指出AI正从可选工具变为无处不在的元素，Reddit上许多用户对AI生成的内容感到疲惫，引发了对AI应用方式的反思。",
+    "key_points": [
+      "AI从可选工具变为无处不在，引发公众疲劳感",
+      "Reddit用户对AI生成内容感到厌倦和抵触",
+      "讨论焦点在于AI的滥用方式而非技术本身"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5954ec20b44d8875bf044991199c01b6",
+    "title": "北京头部大模型累计注册用户达到了20.5亿",
+    "url": "https://36kr.com/newsflashes/3869383394170112?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-26T02:20:20+00:00",
+    "content_snippet": "36氪获悉，据网信北京消息，6月25日，北京市人民政府新闻办公室举行2026全球数字经济大会新闻发布会。会上介绍，截至目前，北京头部大模型累计注册用户达到了20.5亿，面向全国近5万家机构提供API的接口服务，龙头企业示范引领、辐射带动效应持续凸显。",
+    "title_zh": "北京头部大模型累计注册用户达到了20.5亿",
+    "summary_zh": "据北京市政府新闻发布会消息，截至目前，北京头部大模型累计注册用户达20.5亿，已为全国近5万家机构提供API接口服务，龙头企业的示范效应持续凸显。",
+    "key_points": [
+      "北京头部大模型累计注册用户突破20.5亿",
+      "面向全国近5万家机构提供API接口服务",
+      "数据来自2026全球数字经济大会新闻发布会"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "941b73d25b98b5cb5f06ad057f5b6e15",
+    "title": "主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮",
+    "url": "https://36kr.com/p/3869378164397313?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-26T02:17:40+00:00",
+    "content_snippet": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>以下为对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260626/v2_6c3eb3eeda5e46f89f4065250a861b95@6381723_oswg140947oswg1280oswg853_img_jpeg?x-oss-process=imag",
+    "title_zh": "主题圆桌：我们永远赞美冒险 更早、更小、更下水",
+    "summary_zh": "36氪WAVES 2026新浪潮大会以“今年盛夏”为主题，汇聚顶级投资人、产业领袖和新锐创业者，通过14场圆桌和数十场演讲，深入探讨AI、硬科技、出海等核心赛道的底层逻辑。",
+    "key_points": [
+      "WAVES 2026大会聚焦AI、硬科技、出海等赛道",
+      "大会汇聚投资人、产业领袖与新锐创业者",
+      "活动旨在拆解核心赛道底层逻辑，见证行业变革"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f1e6fac7db88dc7f6e51e0bd23f7aa99",
+    "title": "Chatgpt has to be the most hubiristic ai i encountered",
+    "url": "https://www.reddit.com/r/artificial/comments/1ufthda/chatgpt_has_to_be_the_most_hubiristic_ai_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-26T02:01:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I dont know why, but everytime i seemed to talk to gpt 5 it was confident about one thing:</p> <p>It was confident that AI was such a advanced invention that i will be everything. Earlier this day i was bored so i began to talk to gpt over the topic of art, and gpt at one point decided to say that it thinks ai will have control over what is or is not art. that is ridicioulous in my eyes but many times when i talk to gpt it always tries to involve ai, it tries to",
+    "title_zh": "ChatGPT是我遇到过最傲慢的AI",
+    "summary_zh": "文章作者表达了对ChatGPT（特别是GPT-5）的不满，认为其在对话中表现得过于自信和傲慢，特别是在讨论艺术等话题时，坚信AI将主导一切，引发了作者的负面体验。",
+    "key_points": [
+      "用户认为GPT-5在对话中表现得过于自信和傲慢",
+      "AI坚信自身是先进发明并将主导一切",
+      "用户在与AI讨论艺术话题时产生负面体验"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "38c2fc75c464a4caad767fc28e8c4115",
+    "title": "商络电子：部分AI服务器电源客户涉及液冷技术，公司与客户合作研发液冷项目",
+    "url": "https://36kr.com/newsflashes/3869336535028992?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-26T01:32:39+00:00",
+    "content_snippet": "36氪获悉，商络电子在互动平台表示，公司部分AI服务器电源客户涉及液冷技术，公司与客户合作研发液冷项目，为其供应元器件产品并提供配套技术方案。目前该类业务未来订单放量与业绩贡献存在不确定性，请投资者注意投资风险。",
+    "title_zh": "商络电子：部分AI服务器电源客户涉及液冷技术，公司合作研发液冷项目",
+    "summary_zh": "商络电子在互动平台透露，其部分AI服务器电源客户已涉及液冷技术，公司正与客户合作研发液冷项目，提供元器件及技术方案，但未来订单放量存在不确定性。",
+    "key_points": [
+      "商络电子为AI服务器电源客户提供液冷技术方案",
+      "公司与客户合作研发液冷项目，供应元器件",
+      "公司提示该业务未来订单放量与业绩贡献存在不确定性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4ec5340a247bd739f10a1df934bfd3eb",
+    "title": "‘Disturbing and incomprehensible’: Co-owner of Tampa smoothie shop accused of creating AI-generated child pornography",
+    "url": "https://www.reddit.com/r/artificial/comments/1ufrejc/disturbing_and_incomprehensible_coowner_of_tampa/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-26T00:26:30+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ufrejc/disturbing_and_incomprehensible_coowner_of_tampa/\"> <img alt=\"‘Disturbing and incomprehensible’: Co-owner of Tampa smoothie shop accused of creating AI-generated child pornography\" src=\"https://external-preview.redd.it/X_xmmoxSKc1o-4QIiwrcZ9HMkridbsFXCY0crRMefWs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=39580d855419a0e854c5307f3b2e2dd91c32b1c9\" title=\"‘Disturbing and incomprehensible’: Co-owner of Tampa smooth",
+    "title_zh": "令人不安且难以理解：坦帕奶昔店合伙人被指控利用AI生成儿童色情内容",
+    "summary_zh": "美国坦帕一名奶昔店合伙人被指控利用AI技术生成儿童色情内容，案件性质恶劣，被描述为“令人不安且难以理解”，引发了公众对AI滥用于非法内容的担忧。",
+    "key_points": [
+      "坦帕奶昔店合伙人被控利用AI生成儿童色情内容",
+      "案件性质恶劣，引发公众对AI技术滥用的担忧",
+      "该事件凸显了AI在非法内容生成领域的监管挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
