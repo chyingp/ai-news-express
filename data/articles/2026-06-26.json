@@ -1736,5 +1736,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ba10f4645d5ac6fe7cdaa57a5c0344ae",
+    "title": "Selling New Websites To Local Businesses With Outdated Websites",
+    "url": "https://www.reddit.com/r/artificial/comments/1ug7is8/selling_new_websites_to_local_businesses_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-26T13:53:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've spoken to a lot of people who want to get into web design, and the one thing I keep hearing is that selling websites to local businesses just isn't worth it. Everyone says they've called business after business, sent hundreds of emails, and nobody is interested in buying a new website.</p> <p>I think the problem is that most people are trying to sell websites to businesses that don't even have one. </p> <p>Selling website redesigns to businesses with outdat",
+    "title_zh": "向使用过时网站的本地企业推销新网站",
+    "summary_zh": "一篇关于网页设计业务的讨论，作者指出向本地企业推销网站常被认为不值得，因为企业主对更换网站缺乏兴趣，但可能隐藏着新的商业机会。",
+    "key_points": [
+      "向本地企业推销新网站的传统方法成功率低",
+      "许多企业主对更新网站缺乏兴趣和意愿",
+      "探索在看似饱和市场中寻找新机会的途径"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2ca6b43a0f3d730b5b68a33122d9e54b",
+    "title": "The underrated part of open weight models isn't running them local, it's being allowed to build on top off them",
+    "url": "https://www.reddit.com/r/artificial/comments/1ug6v99/the_underrated_part_of_open_weight_models_isnt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-26T13:27:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most of the open vs closed talk here is about whether you can run the thing on your own hardware. fair, that's the obvious draw. but the part i think gets slept on is that open weights mean you can actually post train on top of the base, not just run inference.</p> <p>With a closed api you're renting intelligence. you can prompt it, you can rag around it, but you can never make it yours. you cant fine tune the actual weights for your domain, you cant distill it ",
+    "title_zh": "开放权重模型被低估的部分：不是本地运行，而是允许在其基础上构建",
+    "summary_zh": "文章认为开放权重模型的主要价值不仅在于本地运行，更在于允许开发者对基座模型进行后训练，从而在模型之上构建新应用，这比单纯的推理能力更具变革性。",
+    "key_points": [
+      "开放权重模型允许在基座模型上进行后训练",
+      "这比仅本地运行推理具有更大的开发潜力",
+      "开放模型的核心优势在于构建新应用的能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c9d547ab3e5c9e59cce25c93cfdd53ff",
+    "title": "What if context compression is a diffusion noise function? Proposal + honest results from untrained-model experiments [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ug6kyw/what_if_context_compression_is_a_diffusion_noise/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-26T13:16:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm proposing a way to handle massive context longer than a model's context window by treating semantic compression as the noise function of a diffusion-like process. Instead of denoising masked tokens into coherent text (like DiffusionGemma or Nemotron-Diffusion do for generation), the model reads the source document in multiple passes at decreasing compression levels, heavy summary first, verbatim last all the while it iteratively refines an &quot;integration ",
+    "title_zh": "如果上下文压缩是一种扩散噪声函数会怎样？基于未训练模型实验的提案与结果",
+    "summary_zh": "一篇研究提案，探讨将语义压缩视为扩散式噪声函数，以处理超出模型上下文窗口的超长文本。该方法旨在通过非掩码去噪过程实现上下文压缩，并分享了初步实验结果。",
+    "key_points": [
+      "提出用扩散噪声函数处理超长上下文的新方法",
+      "将语义压缩视为扩散过程，而非掩码去噪",
+      "文章分享了基于未训练模型的初步实验结果"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4245f3b72fa3e225fd0bb898157824f7",
+    "title": "Should YouTube and TikTok give established media algorithmic priority during misinformation crises?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ug53s6/should_youtube_and_tiktok_give_established_media/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-26T12:13:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The Guardian reports that the UK government is considering rules that would give established media outlets like the BBC, ITV, Channel 4, and possibly newspapers more visibility on platforms like YouTube and TikTok, especially around misinformation and crisis moments.</p> <p>I understand the logic. During a crisis, reliable information matters. If public-service broadcasters are buried under low-quality content, foreign influence campaigns, or engagement-bait, th",
+    "title_zh": "YouTube和TikTok是否应在虚假信息危机时给予传统媒体算法优先权？",
+    "summary_zh": "英国政府考虑制定规则，在虚假信息或危机时刻，让YouTube和TikTok等平台提高BBC、ITV等传统媒体的内容可见度，引发了关于算法优先权的讨论。",
+    "key_points": [
+      "英国政府考虑在危机时给予传统媒体算法优先权",
+      "此举旨在应对虚假信息传播并使可靠信息更易见",
+      "涉及YouTube和TikTok等平台的内容推荐机制调整"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
