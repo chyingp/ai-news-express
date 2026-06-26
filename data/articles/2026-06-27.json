@@ -365,5 +365,124 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f72ab826575cb215f3c094fa18d443e4",
+    "title": "Decentralized Assessment for Trustworthy AI (DATA)",
+    "url": "https://www.reddit.com/r/artificial/comments/1uggmp3/decentralized_assessment_for_trustworthy_ai_data/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-26T19:34:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Have you ever thought to yourself that sometimes things happen with AI companies in a legal way, but not in an ethically correct way? Have you ever wished you could prove it in an impartial, quantifiable and comparable way? That's what the DATA method is for! </p> <p>The Decentralized Assessment for Trustworthy AI (DATA) is an Ethical evaluation tool, designed in accordance to leading Ethical frameworks (e.g,UNESCO and EU commission guidelines). It works by givi",
+    "title_zh": "可信人工智能的去中心化评估方法（DATA）",
+    "summary_zh": "一个名为 DATA 的去中心化方法旨在以公正、可量化和可比较的方式，评估 AI 公司在法律合规但可能不合伦理的行为。",
+    "key_points": [
+      "提出去中心化方法评估 AI 公司的伦理行为",
+      "旨在提供公正、可量化且可比较的评估"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5d332f61c5eaf7c1f99d729542815434",
+    "title": "FCC accused of hiding Chairman Carr's messages with DOGE and Musk",
+    "url": "https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-26T18:51:04+00:00",
+    "content_snippet": "FCC refuses to provide messages, has \"wasted a year\" of court's time, filing says.",
+    "title_zh": "FCC 被指控隐瞒主席卡尔与 DOGE 及马斯克的通信",
+    "summary_zh": "美国联邦通信委员会（FCC）被指控拒绝提供主席卡尔与政府效率部（DOGE）及马斯克的信息，并因此被指浪费了法院一年时间。",
+    "key_points": [
+      "FCC 被指控隐瞒主席与马斯克及 DOGE 的通信",
+      "FCC 拒绝提供信息，被指浪费法院时间"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f9c0cbd38e550432c42312f27ead7886",
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-26T18:32:14+00:00",
+    "content_snippet": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+    "title_zh": "OpenAI 应政府要求限制 GPT-5.6 推广，称限制不应成为常态",
+    "summary_zh": "OpenAI 在收到政府请求后，限制了其最新模型 GPT-5.6 的推出，但明确表示这种政府介入流程不应成为长期默认选项，认为这会阻碍用户和开发者获取最佳工具。",
+    "key_points": [
+      "OpenAI 应政府要求限制 GPT-5.6 模型推广",
+      "OpenAI 反对政府限制成为常态，称其阻碍创新"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4d06943a6304932c1db8df023813d7b0",
+    "title": "Netflix now requires every user profile to be tied to unique email address",
+    "url": "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-26T18:19:58+00:00",
+    "content_snippet": "Update began June 15 and will no longer allow you to share your login info.",
+    "title_zh": "Netflix 要求每个用户资料绑定唯一邮箱，打击密码共享",
+    "summary_zh": "Netflix 开始实施新规，要求每个用户资料必须关联一个唯一的电子邮件地址，该更新自 6 月 15 日启动，旨在进一步限制用户共享登录信息。",
+    "key_points": [
+      "Netflix 新规要求每个资料关联唯一邮箱",
+      "6 月 15 日起实施，旨在打击密码共享"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aea0b75b503942f476be5d9a0e278c4f",
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-26T18:19:36+00:00",
+    "content_snippet": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+    "title_zh": "OpenAI 挖角优步印度负责人，领导其美国以外最大市场",
+    "summary_zh": "OpenAI 聘请优步印度业务负责人，以领导其在印度这一美国以外最大市场的扩张，包括拓展办公室、建立合作伙伴关系和招聘。",
+    "key_points": [
+      "OpenAI 挖角优步印度负责人以拓展印度市场",
+      "印度是 OpenAI 在美国以外的最大市场"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
