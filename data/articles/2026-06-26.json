@@ -1832,5 +1832,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6f05e56b48f182da4f9d70abe4478397",
+    "title": "Live Continual Learning in Machine Learning [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ug7vxs/live_continual_learning_in_machine_learning_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-26T14:08:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My question on live continual learning use cases was removed by moderators here because they think i asked basic level question about live continual learning which i thought is a frontier level research. But anyways. Is anyone interested in talking about continual learning (live) and catastrophic forgetting? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/fourwheels2512\"> /u/fourwheels2512 </a> &#32; to &#32; <a href=\"http",
+    "title_zh": "机器学习中的实时持续学习 [讨论]",
+    "summary_zh": "一篇Reddit讨论帖，用户对实时持续学习的使用案例进行提问，但被版主以基础问题为由删除。用户认为这是前沿研究，并寻求其他人讨论该话题。",
+    "key_points": [
+      "用户询问实时持续学习的使用案例",
+      "帖子被版主当作基础问题删除",
+      "用户认为这是前沿研究并寻求讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
