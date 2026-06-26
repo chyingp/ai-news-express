@@ -1027,5 +1027,173 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1c2797543b3acec2dab65694fa2c74c3",
+    "title": "Showcase: geolocating a dashcam video without GPS, only from the footage [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ufx8nx/showcase_geolocating_a_dashcam_video_without_gps/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-26T05:03:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Sharing a project I have been working on called Third Eye. It does visual geolocation. Given a video, it figures out where it was filmed using only the image content, and draws the route on a map.</p> <p>Pipeline in short:</p> <ul> <li>per frame place recognition against a street imagery index</li> <li>a trajectory search that stitches the frames into one coherent path</li> <li>a geometric verification step to catch false matches</li> </ul> <p>per frame confiden",
+    "title_zh": "展示：无需GPS，仅凭视频画面定位行车记录仪路线",
+    "summary_zh": "一个名为Third Eye的项目，利用视觉地理定位技术，仅根据视频图像内容推断拍摄地点，并在地图上绘制出行车路线。",
+    "key_points": [
+      "项目通过逐帧地点识别实现视觉地理定位",
+      "仅依靠图像内容，无需GPS等其他定位数据",
+      "最终结果可在地图上展示完整的拍摄路线"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9399e3644d2cf6f24269101e1dc4fc9a",
+    "title": "4K花园宣布旗下AI工具“蝶变3.0”将于7月1日上线公测",
+    "url": "https://36kr.com/newsflashes/3869475772257542?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-26T04:10:11+00:00",
+    "content_snippet": "36氪获悉，日前，国内超高清技术应用企业4K花园正式宣布，旗下AI短剧画质提升工具“蝶变3.0”将于7月1日正式上线开放公测。与此同时，由其发起的“AI短剧超高清专项扶持计划”同步启动。",
+    "title_zh": "4K花园宣布旗下AI工具“蝶变3.0”将于7月1日上线公测",
+    "summary_zh": "国内超高清技术企业4K花园宣布，其AI短剧画质提升工具“蝶变3.0”将于7月1日上线公测，并同步启动AI短剧超高清专项扶持计划。",
+    "key_points": [
+      "AI短剧画质提升工具“蝶变3.0”即将开放公测",
+      "同步启动“AI短剧超高清专项扶持计划”"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0571370ed51e7bda4b8484a2eed27c42",
+    "title": "What is the best way to hire someone to create an agent to help with my job?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ufw5h0/what_is_the_best_way_to_hire_someone_to_create_an/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-26T04:09:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This is somewhat of a job post. I hope thats not against this subs rules (I tiredly read through and didnt see it as a problem). I am looking for someone to create something to help me with summarizing emails and possibly take different sources to create reports. </p> <p>As a new dad and a working manager, I am falling behind on emails (currently 2400 unread!!😆😆🤣🤣...honestly fuck'em at this point). Im assuming that AI can also take the data from some of those em",
+    "title_zh": "如何雇人开发一个帮助我工作的AI代理？",
+    "summary_zh": "一位Reddit用户发帖询问，如何雇佣开发者来创建一个AI代理，以帮助其总结邮件并从不同来源整理报告。",
+    "key_points": [
+      "用户寻求雇佣开发者创建AI代理",
+      "代理主要用于总结邮件和生成报告"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a81ae1c269b84d8e16d1017ad74211fe",
+    "title": "more models more better. one expensive model is losing to three cheap ones, and there's a paper on it",
+    "url": "https://www.reddit.com/r/artificial/comments/1ufw3ch/more_models_more_better_one_expensive_model_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-26T04:06:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>ok this one bugged me. there's a mixture-of-agents paper (arxiv 2406.04692) where a stack of open models, none of them frontier, get layered into a committee and beat gpt-4o on alpacaeval 2.0, 65.1 to 57.5. cheaper parts, better result. and it lines up uncomfortably well with something we tripped into ourselves.</p> <p>our setup is a few models reviewing each change and only merging if they agree. we did not pick it because it's elegant, we picked it because one",
+    "title_zh": "模型越多越好：一个昂贵模型输给了三个廉价模型",
+    "summary_zh": "一篇论文指出，由多个非前沿开源模型组成的混合代理委员会，在AlpacaEval 2.0基准测试中击败了GPT-4o，得分65.1比57.5，证明了组合廉价模型的有效性。",
+    "key_points": [
+      "多个廉价开源模型组合的表现超越了昂贵的GPT-4o",
+      "相关论文揭示了混合代理架构的潜力",
+      "在AlpacaEval 2.0测试中得分为65.1对57.5"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "20779e343c3ba8866f347638deee6bdf",
+    "title": "英伟达MoE新开源：一行import，微调加速3.7倍",
+    "url": "https://www.qbitai.com/2026/06/438703.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "zh",
+    "published": "2026-06-26T03:23:35+00:00",
+    "content_snippet": "在Transformers v5的基础上，增加了专家并行、DeepEP和TransformerEngine",
+    "title_zh": "英伟达MoE新开源：一行import，微调加速3.7倍",
+    "summary_zh": "英伟达在Transformers v5基础上开源MoE技术，通过增加专家并行、DeepEP和TransformerEngine，实现微调速度提升3.7倍，大幅简化使用流程。",
+    "key_points": [
+      "基于Transformers v5，增加专家并行和DeepEP技术",
+      "实现微调速度提升3.7倍，加快模型训练",
+      "使用仅需一行import，极大简化开发流程"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8dcb98f6bc4de8e2600a6c151381e581",
+    "title": "腾讯云助力印尼XLSMART实现AI全链路云转型",
+    "url": "https://36kr.com/newsflashes/3869433547216130?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-26T03:11:21+00:00",
+    "content_snippet": "36氪获悉，6月26日，印尼运营商XLSMART宣布完成大规模公有云转型。基于XLSMART的长期数字化战略，腾讯云作为其核心云战略合作伙伴，将AI融入迁移全链路，助力项目4.5个月完成平稳迁移。迁移过程中，腾讯云团队也基于代码助手CodeBuddy和效率智能体WorkBuddy，开发了20多个云迁移Skills，覆盖从资源发现到割接验证的完整迁移生命周期。本次迁移涉及1200个微服务、1100个API及900个业务接口，平稳处理超15TB核心数据资产。",
+    "title_zh": "腾讯云助力印尼XLSMART实现AI全链路云转型",
+    "summary_zh": "印尼运营商XLSMART在腾讯云助力下完成大规模云转型，4.5个月内迁移1200个微服务及15TB数据，利用AI工具开发了20多个云迁移技能，实现高效平稳迁移。",
+    "key_points": [
+      "腾讯云助力XLSMART完成涉及1200个微服务的大规模云迁移",
+      "迁移过程中使用AI代码助手开发了20多个专用技能",
+      "成功处理超15TB核心数据，历时4.5个月"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "631a26c3745cffcc6b5b3161c03c0456",
+    "title": "Voice AI top blockbuster deals of the month",
+    "url": "https://www.reddit.com/r/artificial/comments/1ufutco/voice_ai_top_blockbuster_deals_of_the_month/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-26T03:04:17+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ufutco/voice_ai_top_blockbuster_deals_of_the_month/\"> <img alt=\"Voice AI top blockbuster deals of the month\" src=\"https://external-preview.redd.it/mNtseL7x_sPFqazcd6SUEjzwGUXXB0ShKXhjq8U6fMU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f04d4644d89f74ca45c260ac29649d3a6381ff40\" title=\"Voice AI top blockbuster deals of the month\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Some-Technolo",
+    "title_zh": "本月语音AI顶级重磅交易汇总",
+    "summary_zh": "一篇Reddit帖子汇总了本月语音AI领域的重要交易和融资事件，展示了该细分市场的资本活跃度。",
+    "key_points": [
+      "汇总本月语音AI领域的重大交易"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
