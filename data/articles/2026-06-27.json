@@ -484,5 +484,156 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "da361267410cb8d75d21c0a7ddf1dd60",
+    "title": "team cooked, spicily",
+    "url": "https://nitter.net/sama/status/2070614666288795703#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-26T21:06:21+00:00",
+    "content_snippet": "<p>team cooked, spicily</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>We’ve designed and built our first AI chip: Jalapeño.<br />\n<br />\nDesigned from the ground up by OpenAI and brought to production with <a href=\"https://nitter.net/Broadcom\" title=\"Broadcom\">@Broadcom</a>, Jalapeño is purpose-built for the LLM workloads powering ChatGPT, Codex, the API, and future agentic products.<br />\n<br />\nChips are foundational to the AI economy. Building our own expands our full-stack platform ",
+    "title_zh": "OpenAI团队成功打造首款AI芯片Jalapeño",
+    "summary_zh": "OpenAI宣布设计并制造了其首款AI芯片Jalapeño，由OpenAI从头设计并与博通合作实现量产。此举标志着OpenAI向硬件领域迈出关键一步，可能降低对英伟达等外部芯片供应商的依赖。",
+    "key_points": [
+      "OpenAI发布首款自研AI芯片Jalapeño",
+      "芯片由OpenAI设计并与博通合作生产",
+      "此举旨在增强计算独立性并优化模型性能"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "67ebc13ead0695df8e647b253923bdee",
+    "title": "in other news, we updated the 5.5 instant model used in chatgpt this week. i like its vibes.",
+    "url": "https://nitter.net/sama/status/2070612055225483692#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-26T20:55:58+00:00",
+    "content_snippet": "<p>in other news, we updated the 5.5 instant model used in chatgpt this week.<br />\n<br />\ni like its vibes.</p>",
+    "title_zh": "ChatGPT本周更新GPT-5.5即时模型，Sam Altman称喜欢其风格",
+    "summary_zh": "Sam Altman在社交媒体上透露，本周ChatGPT中使用的GPT-5.5即时模型已更新。他表示个人很喜欢新模型的'vibes'，暗示其在交互体验或性能上有所提升。",
+    "key_points": [
+      "ChatGPT本周更新了GPT-5.5即时模型",
+      "Sam Altman对新模型表现表示满意"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "34e1d088442067a5d1ebdac9ae8f7147",
+    "title": "A good chunk of Tokyo is also reclaimed from the bay, a process that continues to this day but has slowed down significantly (peak was in the 1960s-1970s alongside other major infrastructure buildups). It's not due to regulation: land reclamation has diminishing returns and conflicts with existing coastline usage. Easier to do when you're also building the rest of the city at the same time.",
+    "url": "https://nitter.net/fchollet/status/2070611679281557992#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-26T20:54:29+00:00",
+    "content_snippet": "<p>A good chunk of Tokyo is also reclaimed from the bay, a process that continues to this day but has slowed down significantly (peak was in the 1960s-1970s alongside other major infrastructure buildups).<br />\n<br />\nIt's not due to regulation: land reclamation has diminishing returns and conflicts with existing coastline usage. Easier to do when you're also building the rest of the city at the same time.</p>\n<img src=\"https://nitter.net/pic/media%2FHLxJi06a8AAA99D.jpg\" />\n\n<hr />\n<blockquote>\n",
+    "title_zh": "东京填海造地历史及现状分析",
+    "summary_zh": "文章指出东京大部分地区为填海造地所得，该进程在1960-70年代达到高峰后显著放缓。放缓原因并非监管，而是填海成本与收益递减，且与现有海岸线用途存在冲突，在城市同步建设时期更容易实施。",
+    "key_points": [
+      "东京填海造地在1960-70年代达高峰后放缓",
+      "放缓主因是回报递减和海岸线使用冲突，而非监管"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "063ec02c961eaadf748b35663517d7de",
+    "title": "Good new first: Sol is a smart, efficient, and a significant step forward. It is the same price as GPT-5.5. Also launching in the GPT-5.6 family is Terra, with 5.5-level performance at half the price. Bad news: at the request of the US government, it is launching today in limited preview instead of the open access launch we were planning on. We are working with the government to get to general availability as fast as we can. I think it is quite reasonable to roll out models--especially as they reach significant new levels of capability--in this way. It fits with our long-held strategy of iterative deployment. But this isn't quite the process that we think is optimal. Now we will with the government to attempt to get to a transparent, reliable process for early access, and to ensure that as long as our safeguards work as intended we can release widely. We want to be a reliable, dependable partner that works with all stakeholders, and we also want to live by our mission of benefiting all of humanity. I believe the government shares most of our goals, and that they are overall doing a good job in a very difficult situation. We will work as quickly as we can to get this model in your hands and we hope you will love it.",
+    "url": "https://nitter.net/sama/status/2070607488274358364#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-26T20:37:49+00:00",
+    "content_snippet": "<p>Good new first: Sol is a smart, efficient, and a significant step forward. It is the same price as GPT-5.5. Also launching in the GPT-5.6 family is Terra, with 5.5-level performance at half the price.<br />\n<br />\nBad news: at the request of the US government, it is launching today in limited preview instead of the open access launch we were planning on. We are working with the government to get to general availability as fast as we can.<br />\n<br />\nI think it is quite reasonable to roll out",
+    "title_zh": "OpenAI发布GPT-5.6系列模型Sol和Terra，但应美国政府要求限制公开访问",
+    "summary_zh": "OpenAI推出GPT-5.6系列，包括性能与GPT-5.5持平但价格减半的Terra，以及性能更强的Sol。Sam Altman宣布，应美国政府要求，模型上线初期采用有限预览而非原计划的完全开放，公司正与政府协商以尽快实现全面开放。",
+    "key_points": [
+      "OpenAI发布GPT-5.6系列模型Sol和Terra",
+      "Terra性能与GPT-5.5相当但价格减半",
+      "应美国政府要求，新模型采用有限预览而非全面开放"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6676e195d81cf61be6ba8c5cfa0d5d17",
+    "title": "NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+    "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-26T20:04:55+00:00",
+    "content_snippet": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
+    "title_zh": "纽约时报抨击微软为OpenAI构建侵权超级计算机",
+    "summary_zh": "在最高法院对索尼案作出裁决后，纽约时报调整了针对OpenAI和微软的版权诉讼策略，指控微软为OpenAI构建了用于侵犯版权的超级计算机，将法律冲突焦点从模型训练转向基础设施。",
+    "key_points": [
+      "纽约时报指责微软构建超级计算机助OpenAI侵权",
+      "诉讼策略在最高法院裁决后转向基础设施"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "microsoft",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e74bb6a704480a0c42c3cc8c23e0f9f8",
+    "title": "Stronger AI models may mean slower releases, not faster ones",
+    "url": "https://www.reddit.com/r/artificial/comments/1ughbdf/stronger_ai_models_may_mean_slower_releases_not/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-26T20:00:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>OpenAI’s GPT-5.6 Sol preview is interesting because the main signal is not just “new model.”</p> <p>The model is getting stronger in areas like coding and cyber, but the release is limited, phased, and surrounded by safeguards.</p> <p>That feels like an important shift.</p> <p>As models get more capable, the bottleneck may not be capability anymore. It may be control.</p> <p>Who gets access?<br /> How is misuse monitored?<br /> How do you know what the model did",
+    "title_zh": "更强的AI模型可能导致更慢而非更快的发布节奏",
+    "summary_zh": "文章认为，OpenAI的GPT-5.6 Sol预览版发布表明，随着AI模型在编码和网络等领域能力增强，发布方式正变得有限、分阶段且充满安全防护。这预示着AI模型迭代速度可能因安全考虑而放缓。",
+    "key_points": [
+      "GPT-5.6 Sol的有限发布预示更强模型将更谨慎推出",
+      "安全考虑可能导致AI模型发布节奏放缓"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
