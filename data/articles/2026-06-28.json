@@ -1,0 +1,151 @@
+[
+  {
+    "id": "1facd80fd98c97157459bf44774fe23a",
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-27T16:45:09+00:00",
+    "content_snippet": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+    "title_zh": "苹果Vision Pro高管据报将跳槽至OpenAI",
+    "summary_zh": "据TechCrunch报道，苹果负责Vision Pro头显的副总裁Paul Meade将离开公司，加入OpenAI的硬件团队，引发外界对两家科技巨头人才竞争及AI硬件战略的关注。",
+    "key_points": [
+      "苹果Vision Pro业务负责人Paul Meade即将离职。",
+      "他将加入OpenAI，负责硬件团队相关工作。",
+      "此举凸显科技巨头在AI硬件领域的人才争夺。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c43ae00d7cdfc76651f1cd556e3f1d8c",
+    "title": "Built an LLM training framework that actually runs on older GPUs without crashing [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uh7ib3/built_an_llm_training_framework_that_actually/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-27T16:44:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys,</p> <p>I was playing around with Nanotron recently and got super frustrated by how many heavy, hardware-specific dependencies it imports at the module level ( flash-attn , triton, functorch , etc.). If you try to run it on older or budget GPUs like a T4 or V100, it just crashes on import.</p> <p>So I wrote Picotron (<a href=\"https://github.com/Syntropy-AI-Labs/picotron\">https://github.com/Syntropy-AI-Labs/picotron</a>) to solve this. It's a clean-room ",
+    "title_zh": "自建LLM训练框架，可在旧款GPU上稳定运行",
+    "summary_zh": "一位Reddit用户因不满现有框架对硬件的苛刻要求，自己动手构建了一个轻量级大语言模型训练框架，无需flash-attn等重度依赖，即可在T4等旧款或入门级GPU上运行。",
+    "key_points": [
+      "开发者自建轻量级LLM训练框架。",
+      "框架移除了对特定高性能硬件的依赖。",
+      "可让模型在T4等旧款GPU上稳定训练。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "84d6ec567f4bfec1de174f9a8bb73870",
+    "title": "No, im N-word-son, Thanks OpenAI Youre the worst at that",
+    "url": "https://www.reddit.com/r/artificial/comments/1uh79q0/no_im_nwordson_thanks_openai_youre_the_worst_at/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-27T16:34:44+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uh79q0/no_im_nwordson_thanks_openai_youre_the_worst_at/\"> <img alt=\"No, im N-word-son, Thanks OpenAI Youre the worst at that\" src=\"https://preview.redd.it/yjzbz93cru9h1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=2650acfe36ca3adff7dd440307da8b17b47e2677\" title=\"No, im N-word-son, Thanks OpenAI Youre the worst at that\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Thanks, OpenAI, im A**Hole right",
+    "title_zh": "网友吐槽OpenAI：称其敏感词过滤最差",
+    "summary_zh": "Reddit上一条帖子抱怨OpenAI的语音/文本模型在识别用户输入时，将人名错误地解释为种族歧视词汇，反映了用户对AI内容审核机制不够智能的不满。",
+    "key_points": [
+      "用户反映OpenAI模型将姓名误识别为敏感词。",
+      "事件暴露了AI内容过滤机制存在缺陷。",
+      "引发社区对AI内容审核准确性的讨论。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "13836e973993a3a7720a46666e18e70f",
+    "title": "What's one AI capability you think is still massively underrated?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uh6b2j/whats_one_ai_capability_you_think_is_still/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-06-27T15:55:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We hear a lot about AI generating text, images, and code, but I feel some of its most useful capabilities don't get much attention.</p> <p>For me, AI has been surprisingly helpful for breaking down complex topics, organizing messy information, and speeding up research. Those aren't the flashy features that make headlines, but they've had the biggest impact on my day-to-day work.</p> <p>What's one AI capability or use case that you think deserves more recognition",
+    "title_zh": "哪项AI能力仍被严重低估？",
+    "summary_zh": "Reddit社区发起讨论，探讨AI在文本、图像和代码生成之外被低估的能力。用户认为AI在分解复杂主题、整理杂乱信息和加速研究方面有出人意料的帮助。",
+    "key_points": [
+      "社区讨论AI在热门应用之外的能力。",
+      "分解复杂概念和整理信息被认为作用被低估。",
+      "AI在辅助研究和提升效率方面潜力巨大。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8e40a6f2fb2864a6400d2a5e63cc476a",
+    "title": "Are we locked on a path to AGI/ASI in our lifetime?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uh5mnv/are_we_locked_on_a_path_to_agiasi_in_our_lifetime/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-06-27T15:28:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have noticed that from the last time I checked up on AI discourse a few months ago, everyone has seemingly shifted to thinking that AGI and shortly after ASI are foregone conclusions. I don't know much about the internals of the actual field and was wondering if any actual AI experts here could walk me through what is actually going on. From what I have been reading, we are guaranteed to reach AGI in a decade at most, and after that, the AGIs can make the ASI ",
+    "title_zh": "我们是否已锁定通往AGI/ASI的道路？",
+    "summary_zh": "Reddit用户注意到，近几个月来AI社区的讨论风向似乎已转向认为通用人工智能（AGI）和超级智能（ASI）是必然趋势，发帖询问这是否已成为既定事实及背后的原因。",
+    "key_points": [
+      "社区观点趋于认为AGI和ASI是必然结果。",
+      "用户对技术发展路径的确定性提出疑问。",
+      "讨论反映了公众对AI发展速度的普遍认知。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cdef6f0206adcee1d06801d99e789aef",
+    "title": "the metric that flipped for me wasn't benchmark scores, it was how many apps one answer has to touch",
+    "url": "https://www.reddit.com/r/artificial/comments/1uh5f1i/the_metric_that_flipped_for_me_wasnt_benchmark/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-06-27T15:19:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For most of my real tasks the answer lives across three or four apps. A single 'what do i tell this customer' pulls from gmail, a drive doc, and a slack thread, and not one of those is the chat window i'm typing the question into.</p> <p>i asked chatgpt and slack ai the same thing and both gave the architectural shrug: no access to your computer, no access to the other app. fair, that's just where they run. but it leaves me as the courier carrying context betwee",
+    "title_zh": "改变我判断AI的标准：不是跑分，而是答案需跨应用检索",
+    "summary_zh": "一位Reddit用户认为，评估AI的真正标准已不再是基准测试得分，而是看一个答案需要整合多少不同应用（如邮件、文档、聊天记录）中的数据，才能解决实际问题。",
+    "key_points": [
+      "用户认为AI的实用性比基准测试更重要。",
+      "真实任务往往需要AI跨越多个应用检索信息。",
+      "ChatGPT和Slack AI等工具被用来举例说明。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
