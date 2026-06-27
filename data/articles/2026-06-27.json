@@ -1310,5 +1310,100 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b7b5e7e6a00de0ba836915126aa634d7",
+    "title": "Same memory, different model. Why do local 8B models use memory worse?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uh1xbs/same_memory_different_model_why_do_local_8b/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-27T12:48:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been building <strong>FERNme</strong>, an open-source, brain-inspired memory engine for AI agents.</p> <p>While testing, I noticed something interesting. With the same FERNme memory, graph, and retrieval pipeline, a stronger API reasoning model performed very well in my initial tests, while a lightweight local 8B model occasionally made mistakes. The memory itself didn’t change, only the reasoning model did.</p> <p>This made me think memory and reasoning ar",
+    "title_zh": "相同记忆，不同模型：为何本地 8B 模型记忆利用更差？",
+    "summary_zh": "作者在测试其开源记忆引擎 FERNme 时发现，相同记忆和检索流程下，更强大的 API 推理模型表现优异，而本地 8B 模型效果较差，探讨了其中的原因。",
+    "key_points": [
+      "开源记忆引擎 FERNme 测试中发现模型表现差异",
+      "本地 8B 模型在同等记忆检索条件下表现不如云端 API 模型"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1fff5bcf591ecfcfbccf87523de70a0a",
+    "title": "Anyone else feel like a ghost in the machine? The bizarre isolation of AI training.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uh1swn/anyone_else_feel_like_a_ghost_in_the_machine_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-27T12:42:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have been working in the AI training and data annotation space for a while now, and it is easily one of the strangest industries I have ever been a part of.</p> <p>On one hand, the perks are real. The flexibility is unmatched, you can work in your sweatpants, and sometimes you get genuinely fascinating prompts that actually challenge your brain, whether you are grading complex code, checking historical facts, or analyzing legal logic. But on the other hand, th",
+    "title_zh": "有人觉得自己像机器中的幽灵吗？AI 训练所特有的怪异隔离感",
+    "summary_zh": "一位长期从事 AI 训练和数据标注的从业者分享感受，认为该行业虽有灵活工作的好处，但存在一种难以言喻的隔离感和怪异体验。",
+    "key_points": [
+      "AI 训练与数据标注行业具有极高的工作灵活性",
+      "从业者长期处于工作环境造成的心理隔离与怪异感"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4209c1889e4c8d181147b1a378ff863c",
+    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-27T12:00:00+00:00",
+    "content_snippet": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+    "title_zh": "亚洲 AI 初创公司趁 Anthropic 出口禁令僵局推类 Mythos 模型",
+    "summary_zh": "由于 Anthropic 的出口管制持续，亚洲市场涌现出具备类似 Mythos 能力的新模型，美国 AI 实验室可能因此永久失去这一巨大市场。",
+    "key_points": [
+      "Anthropic 出口禁令导致亚洲市场出现替代品",
+      "多款具备 Mythos 强推理能力的亚洲新模型发布",
+      "美国 AI 实验室可能永久失去亚洲这一重要市场"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a3907dec2a4ee503834c6ebdfa0f3889",
+    "title": "at what point do logs and dashboards stop being enough for llm costs?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uh0hu2/at_what_point_do_logs_and_dashboards_stop_being/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-27T11:36:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone, currently digging into workflow-layer economics and trying to figure out how people track unexpected runtime spikes at scale.</p> <p>At an early stage simple margin buffers are fine because volume is bounded. But once you move past basic apps, factors like failed loops, retries, and context window inflation create a ton of cost variance that is hard to forecast or map to clean client billing.</p> <p>For those running agent or voice workflows in p",
+    "title_zh": "日志和仪表盘何时对 LLM 成本管控失效？",
+    "summary_zh": "探讨在规模化应用中，当 LLM 推理请求量激增时，简单的日志和仪表盘已不足以分析和控制运行时成本，需要更深入的工作流层面经济学分析。",
+    "key_points": [
+      "规模化 LLM 应用导致简单日志和仪表盘成本管控失效",
+      "引发运行时成本激增的因素包括调用量扩大和复杂工作流"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
