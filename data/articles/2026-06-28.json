@@ -316,5 +316,56 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0a56b28a05e53bc3ffcc7b5b75b10fe4",
+    "title": "Dwell",
+    "url": "https://www.reddit.com/r/artificial/comments/1uhe2rs/dwell/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-27T21:10:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A while back I almost bought a house I was in love with. The listing was gorgeous. What it didn't tell me: the &quot;updated&quot; roof was at end-of-life, the comps it was priced against weren't really comps, and the repair list I eventually got was going to eat my entire reno budget. I found all of that out the slow, expensive way — one surprise at a time.</p> <p>So I built <strong>Dwell</strong> — basically the tool I wish I'd had standing in that driveway.<b",
+    "title_zh": "Dwell",
+    "summary_zh": "一篇Reddit帖子，作者分享了自己差点购买一套心仪房屋的经历，但后来发现房屋存在屋顶老化、定价虚高和大量维修问题，实际成本远超预期。",
+    "key_points": [
+      "房屋挂牌信息未披露屋顶老化等关键问题",
+      "实际定价对比的房源并非真正可比",
+      "维修清单将消耗大量预算"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ce40abe580e0d1ca800aa3dc9d55dc5a",
+    "title": "Benchmarking Self-Hosted Gemma 2 9B vs. Frontier APIs: The FP8 Quantization Prefill Tax and VRAM Realities on an NVIDIA L4 [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uhdxnb/benchmarking_selfhosted_gemma_2_9b_vs_frontier/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-27T21:05:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>When evaluating migrating production LLM workloads off commercial cloud APIs, the conversation usually gets oversimplified into a trade-off between quality and infrastructure cost. To look past clean, isolated averages, I built a repeatable evaluation matrix using a real-world workload: cold outreach and contextual profile re-engineering for my resume generation platform.</p> <p>I benchmarked an unquantized <strong>Gemma 2 9B</strong> against an optimized <stron",
+    "title_zh": "自托管Gemma 2 9B与前沿API基准测试：FP8量化预填充成本和英伟达L4 GPU上的显存现实",
+    "summary_zh": "本文通过构建可重复的评估矩阵，对比了在英伟达L4 GPU上自托管Gemma 2 9B模型与使用商业云API之间的性能，重点分析了FP8量化带来的预填充延迟和显存占用等实际成本问题。",
+    "key_points": [
+      "对比自托管Gemma 2 9B与商业云API的推理性能",
+      "重点分析FP8量化导致的预填充延迟和显存成本",
+      "在英伟达L4 GPU上构建可重复的评估矩阵"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
