@@ -899,5 +899,102 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "13a462ad6f5ed3b95eb54f0ae37305c3",
+    "title": "Same, I don't have any magical abilities. In dream, my ancestors show me the way. I just write it down.",
+    "url": "https://nitter.net/fchollet/status/2070705585499382196#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-06-27T03:07:38+00:00",
+    "content_snippet": "<p>Same, I don't have any magical abilities. In dream, my ancestors show me the way. I just write it down.</p>\n<hr />\n<blockquote>\n<b>Mathematica (@mathemetica)</b>\n<p>\n<p>\"I don't have any magical ability. I look at a problem, play with it, work out a strategy.\"<br />\n<br />\n—  Terence Tao</p>\n<img src=\"https://nitter.net/pic/media%2FHLWWdHBakAA1TBv.jpg\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/mathemetica/status/2068860520023699927#m\">https://nitter.net/mathemetica/status/2068860",
+    "title_zh": "我没有魔法能力，祖先在梦中指引我，我只需写下来",
+    "summary_zh": "François Chollet 引用数学家陶哲轩关于解决问题无魔法、靠策略的说法，并以幽默口吻回应，称自己在梦中得到祖先指引后写下代码。",
+    "key_points": [
+      "Chollet 幽默回应陶哲轩关于无魔法解决问题的说法",
+      "调侃自己靠祖先梦境指引而非魔法能力"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6261e4c4a009b3700e7ffd35a4ecb41d",
+    "title": "国家统计局：1—5月份电子行业利润同比增长103.9%",
+    "url": "https://36kr.com/newsflashes/3870821042312192?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-27T02:42:47+00:00",
+    "content_snippet": "财联社6月27日电，国家统计局工业司首席统计师于卫宁解读2026年1—5月份工业企业利润数据。于卫宁表示，电子行业支撑作用明显。1—5月份，规模以上装备制造业利润同比增长14.1%，拉动全部规模以上工业企业利润增长5.2个百分点。从行业看，全球人工智能技术变革带来高端算力芯片和存储芯片需求爆发，推动电子行业利润高速增长，1—5月份，电子行业利润增长103.9%，对全部规模以上工业企业利润增长的贡献率达43.1%，是规模以上工业企业利润较快增长的重要支撑。（财联社）",
+    "title_zh": "国家统计局：1—5月份电子行业利润同比增长103.9%",
+    "summary_zh": "国家统计局数据显示，2026年1-5月电子行业利润同比激增103.9%，主要受全球AI技术变革推动高端算力芯片和存储芯片需求爆发的影响，对工业企业利润增长贡献显著。",
+    "key_points": [
+      "电子行业利润增长103.9%，由AI算力与存储芯片需求推动",
+      "电子行业贡献了全部规上工业企业利润增长的43.1%"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f5228a1d8a65e6caea7f63bcbf4c60d3",
+    "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+    "url": "https://36kr.com/newsflashes/3870811056821506?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-06-27T02:32:37+00:00",
+    "content_snippet": "6月27日，OpenAI宣布已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。据介绍，Terra性能与GPT-5.5相当但价格便宜一半，Luna则以最低成本提供较强能力。OpenAI表示，计划在未来几周内全面开放GPT-5.6 Sol、Terra和Luna。在今天发布前OpenAI与美国政府沟通了模型能力及发布计划。应美方要求，此次将先向少量经审核的可信合作方进行预览。（界面新闻）",
+    "title_zh": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+    "summary_zh": "OpenAI 宣布限量预览 GPT-5.6 系列模型，包括旗舰 Sol、均衡 Terra 和快速低价 Luna，其中 Terra 以一半价格提供 GPT-5.5 级别性能，全面开放前需与美国政府合作。",
+    "key_points": [
+      "GPT-5.6 系列包含 Sol、Terra、Luna 三款模型",
+      "Terra 性能比肩 GPT-5.5 但价格减半，Luna 成本最低",
+      "应美国政府要求，预览仅对少量可信合作方开放"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6fef9aa7fe7f02ec42f874c621387840",
+    "title": "Anthropic：获批将Mythos 5重新部署至部分美国机构",
+    "url": "https://36kr.com/newsflashes/3870807206663171?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-27T02:28:42+00:00",
+    "content_snippet": "6月27日，Anthropic发文称，自6月12日以来公司一直与美国政府紧密合作，以恢复对Claude Mythos 5和Fable 5的访问。今日收到美国政府通知，Mythos 5可重新部署至一批美国机构。公司正在继续与政府合作，扩大对Mythos 5的访问，并使Fable 5再次可供公众使用。（界面新闻）",
+    "title_zh": "Anthropic：获批将Mythos 5重新部署至部分美国机构",
+    "summary_zh": "Anthropic 宣布已获美国政府通知，可将其模型 Mythos 5 重新部署至一批美国机构，并正在为扩大访问范围和恢复 Fable 5 的公众使用而努力。",
+    "key_points": [
+      "Mythos 5 获准重新部署至部分美国机构",
+      "Anthropic 正与美国政府合作扩大访问并恢复 Fable 5"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
