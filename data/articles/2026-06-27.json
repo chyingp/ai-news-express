@@ -750,5 +750,154 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a230cd1554c5a671f0c00233a6ed9cb8",
+    "title": "Built an AI script because adulting killed my free time. Helpz test and improve please",
+    "url": "https://www.reddit.com/r/artificial/comments/1ugprqe/built_an_ai_script_because_adulting_killed_my/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-27T01:54:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Life got busy. I don't have the hours to run long AI sessions anymore, so I built something to handle the repetitive parts for me. Looping, prompt queues, personas, crash recovery, planning. Works across ChatGPT, Claude, Gemini, Perplexity, Grok, Copilot, DeepSeek and a few others.</p> <p>It's called Ghost in the Loop. Free, no account, installs like any userscript.</p> <p>New prototype at the repo: <a href=\"https://raw.githubusercontent.com/MShneur/ghost-in-the",
+    "title_zh": "因生活忙碌自制AI脚本，自动化处理重复性AI任务",
+    "summary_zh": "一位开发者因无暇长时间操作AI工具，开发了一款脚本，可跨ChatGPT、Claude、Gemini等多个平台实现循环、提示词队列、崩溃恢复等功能，并寻求社区反馈。",
+    "key_points": [
+      "开发者自制跨平台AI自动化脚本以节省时间",
+      "脚本支持提示词队列、崩溃恢复和计划任务",
+      "项目寻求社区测试和改进反馈"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3028fda2e153b0b2ff5d49dd6b2dd303",
+    "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
+    "url": "https://36kr.com/p/3869740772316162?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-27T01:40:53+00:00",
+    "content_snippet": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。</p>\n  <p>从“看见车上”到“看见车下”，物流AI的应用场景正在完成一次关键跨越。</p>\n  <p>物流行业的AI化进程加速。据中国物流与采购联合会等机构统计，2025年全球物流与供应链管理AI市场规模已超过340亿美元，预计2026年将增长至479.2亿美元，年复合增长率高达40.8%。其中在中国，AI于物流供应链领域的渗透率已超过37%</p>\n  <p>过去几年，行业花了大量精力把车上的事“看见”。位置、温度、驾驶行为、货物状态等环节的数字化程度相对成熟。其中，G7易流于2025年发布的AI主机“紫宝盒”便是这一阶段的产品之一，目前累计服务超150家客户，装车超万台。</p>\n  <p>但G7易流创始人兼CEO翟学魂在穿戴式AI硬件拍拍豆的发布会上直言：“如果货还在车上，这件事还没",
+    "title_zh": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”",
+    "summary_zh": "G7易流发布重30克的磁吸穿戴式AI硬件“拍拍豆”，司机佩戴后可自动录制车下交付过程，放回底座即上传云端，旨在解决物流交付最后环节的可视化问题。",
+    "key_points": [
+      "G7易流发布首款货运穿戴式AI硬件，重量仅30克",
+      "磁吸设计实现熄火自动录制，放回底座自动上传",
+      "产品旨在解决物流交付“最后两米”的可视化问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6d68697792f51e6212209de8a30ef366",
+    "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+    "url": "https://36kr.com/p/3870720040588295?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-27T01:02:37+00:00",
+    "content_snippet": "<h2><strong>今日热点导览</strong></h2>\n  <p>OpenAI官宣推出GPT-5.6</p>\n  <p>亚洲“果链”股价几乎全线大幅下跌</p>\n  <p><strong>SpaceX计划为美国消费者推出新的星链移动服务</strong></p>\n  <p><strong>美团股价低迷，王兴回应</strong></p>\n  <p><strong>小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人</strong></p>\n  <p><strong>微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹</strong></p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>苹果涨价引山姆代购潮，部分门店已卖断货</strong></p>\n  <p>近日，社交媒体上多名网友反馈，多地山姆会员超市的iPad及Mac系列产品出现抢购、代购的情况。原因在于，苹果宣布上调iPad及Mac系列产品价格后，山姆超市并未进行价格调整。6月26日，有多名代购称可加价45元至300元不等前往山姆代购，并表示代购需求超级多，",
+    "title_zh": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
+    "summary_zh": "36氪资讯摘要，涵盖苹果涨价引发代购潮、DeepSeek开启大规模招聘、黄金价格跌破4000美元、OpenAI推出GPT-5.6等多条热点新闻。",
+    "key_points": [
+      "OpenAI官宣推出GPT-5.6模型",
+      "DeepSeek进行大规模招聘，扩充团队",
+      "苹果涨价引发山姆会员店代购潮"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "35f7cf30b85ff53f03117725b75e5dc9",
+    "title": "OpenAI absolutely HUMILIATES claude MYTHOS 5 in the trust me bro benchmarks with their new GPT-5.6 Sol",
+    "url": "https://www.reddit.com/r/artificial/comments/1ugnhft/openai_absolutely_humiliates_claude_mythos_5_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-27T00:07:51+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ugnhft/openai_absolutely_humiliates_claude_mythos_5_in/\"> <img alt=\"OpenAI absolutely HUMILIATES claude MYTHOS 5 in the trust me bro benchmarks with their new GPT-5.6 Sol\" src=\"https://preview.redd.it/unypgvdqvp9h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d89b7d0e575ebbc4862c4bfbacdb623e7cd68811\" title=\"OpenAI absolutely HUMILIATES claude MYTHOS 5 in the trust me bro benchmarks with their new GPT-5.6 Sol\" /> </a> </t",
+    "title_zh": "OpenAI的GPT-5.6在“相信我”基准测试中碾压Claude",
+    "summary_zh": "Reddit用户调侃式宣称，OpenAI发布的新模型GPT-5.6在非正式基准测试中完全碾压了Anthropic的Claude模型，标题带有讽刺和戏谑口吻。",
+    "key_points": [
+      "OpenAI发布新模型GPT-5.6",
+      "在非正式测试中对比Claude模型取得显著优势",
+      "帖子标题和内容带有社区调侃和戏谑性质"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2fcd1736f89e1623545b2e8c4f07a3d7",
+    "title": "We put a design question to ten models: what’s the best way to reach a correct answer? They didn’t take a side — they prescribed the right tool for each kind of question. RoundTable already had one. So we built the other.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ugn627/we_put_a_design_question_to_ten_models_whats_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-26T23:54:50+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/stuffx87\"> /u/stuffx87 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://reports.thert.ai/the-council-wrote-the-spec\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1ugn627/we_put_a_design_question_to_ten_models_whats_the/\">[comments]</a></span>",
+    "title_zh": "向十个模型提出设计问题：它们不选边站，而是为每种问题指定正确工具",
+    "summary_zh": "一个团队向10个AI模型提出设计问题，发现模型们并未直接选择方案，而是根据不同问题类型推荐了最合适的工具，展示了AI在决策辅助中的新思路。",
+    "key_points": [
+      "团队向10个AI模型测试设计问题解答能力",
+      "模型们倾向于为不同问题类型推荐对应工具",
+      "该项目旨在探索AI辅助决策的最佳实践"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bc1ab04c9e64d6e5ac82494e97fe71d4",
+    "title": "追赶FSD V14，理想在补哪些课？｜最前线",
+    "url": "https://36kr.com/p/3870292939658242?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-26T23:30:20+00:00",
+    "content_snippet": "<p>过去几年，智能驾驶行业的竞争重心经历了几次明显变化。</p>\n  <p>最早比的是硬件：激光雷达要不要上、摄像头装几个、算力做到多少 TOPS；随后进入大模型时代，竞争开始转向端到端、VLA（Vision-Language-Action）、World Model（世界模型）等路线。</p>\n  <p>到了今天，越来越多公司发现，仅仅拥有更大的模型已经不足以形成代际优势，真正决定上限的，开始变成模型、数据、算力和芯片之间能否形成一个持续迭代的闭环。</p>\n  <p>这也是为什么越来越多车企开始走向自研。</p>\n  <p>特斯拉几乎覆盖了从数据采集、训练基础设施、FSD模型到Dojo、自研芯片的全部环节。国内，无论小鹏、蔚来，还是理想，也都在不断向更底层延伸。</p>\n  <p>今年发布的 L8、L9 车型上，理想已经用上了自研的马赫M100芯片，这个采用数据流架构的芯片被理想认为是for AI的一个大的技术方向。在马赫M100上，理想也跑了自研的马赫 VLA 模型。</p>\n  <p>但对于行业而言，更值得关注的问题并不是\"有没有自研\"，而是这些投入究竟能够解决什么问题。</p",
+    "title_zh": "追赶FSD V14，理想在补哪些课？",
+    "summary_zh": "文章分析理想汽车在智能驾驶领域追赶特斯拉FSD V14所需弥补的短板，指出行业竞争已从硬件、大模型转向构建数据、算力、模型和芯片的持续迭代闭环，车企自研成为趋势。",
+    "key_points": [
+      "智能驾驶竞争重心转向模型、数据、算力、芯片的闭环迭代",
+      "理想汽车为追赶特斯拉FSD V14正加速自研布局",
+      "行业共识是仅靠大模型已不足以形成代际优势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
