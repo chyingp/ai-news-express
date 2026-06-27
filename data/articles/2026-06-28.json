@@ -147,5 +147,104 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "62acbcbb9cfbdbf21e42a40cfcf14882",
+    "title": "MathFormer: Testing whether symbolic math is pattern matching or reasoning [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uhatw8/mathformer_testing_whether_symbolic_math_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-27T18:57:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Repo link and results - <a href=\"https://github.com/Abhinand20/MathFormer\">https://github.com/Abhinand20/MathFormer</a></p> <p>Task: Given a factorized expression like (7-3*z)*(-5*z-9), predict the expanded form -&gt; 15*z\\*2-8\\*z-63</p> <p>Key takeaway: A tiny (4M param) seq2seq model trained with no math knowledge reaches ~98.6% accuracy on symbolic math tasks, suggesting it learns structural token transformations rather than any notion of operators or variabl",
+    "title_zh": "MathFormer：测试符号数学是模式匹配还是推理",
+    "summary_zh": "一个名为MathFormer的小型模型（400万参数）被训练用于展开因式分解表达式，旨在测试符号数学任务是基于模式匹配还是真正的推理能力。",
+    "key_points": [
+      "使用400万参数的小模型测试符号数学本质",
+      "任务是将因式分解表达式展开为标准形式",
+      "旨在区分模式匹配与逻辑推理的差异"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "299a59cd3d9083bc121fe275c34b0837",
+    "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-27T18:39:32+00:00",
+    "content_snippet": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to Deadline's recap, Atwood said she'd used an AI [&#8230;]",
+    "title_zh": "玛格丽特·阿特伍德称AI的问题在于“垃圾进，垃圾出”",
+    "summary_zh": "著名作家玛格丽特·阿特伍德在文学节上批评AI，指出其核心问题在于训练数据的质量，即“垃圾进，垃圾出”，并表达了对AI创作的看法。",
+    "key_points": [
+      "阿特伍德直言AI面临“垃圾进，垃圾出”的根本问题",
+      "她在葡萄牙文学节上讨论AI对创作的影响",
+      "作为《使女的故事》作者，她担忧AI内容质量"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1312e2f49ece57467c76b07de466ca76",
+    "title": "Should I switch from Claude to ChatGPT 5.6? Here's how I'm thinking about it.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uhaawl/should_i_switch_from_claude_to_chatgpt_56_heres/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-27T18:36:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>OpenAI dropped the 5.6 announcement and I've been going through what we actually know so far.</p> <p>Three models: Sol, Terra, Luna. None are public yet so we're working off what OpenAI put out. From what they've shared, Terra is supposed to match 5.5 capability at about half the cost, Luna cheaper and faster but less capable. OpenAI is genuinely winning on the cost side right now. Anthropic keeps shipping smarter models but without the pricing coming down, and ",
+    "title_zh": "我该从Claude切换到ChatGPT 5.6吗？我的思考过程",
+    "summary_zh": "Reddit用户讨论是否应从Claude转用OpenAI新发布的ChatGPT 5.6系列模型，分析了Sol、Terra、Luna三款模型的已知信息，并权衡其能力与当前使用的优劣。",
+    "key_points": [
+      "OpenAI发布ChatGPT 5.6系列，包含Sol、Terra、Luna三款模型",
+      "用户对比Claude与ChatGPT 5.6的能力与适用场景",
+      "Terra模型据称能以更低成本达到5.5级别的性能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2b1155791bcaafa881e05c0397e49c20",
+    "title": "I built 8 specialist AI agents that share one memory of a user health history",
+    "url": "https://www.reddit.com/r/artificial/comments/1uh8rma/i_built_8_specialist_ai_agents_that_share_one/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-27T17:34:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So, I built a thing for myself that I'd like to share with others. The common pattern for AI health tools is one general chatbot answering questions with no real context. I went the other way and built eight specialist agents, training, nutrition, longevity, recovery, biohacking, running, and so on, that all read from one shared memory of the full history and synced wearable data.</p> <p>The interesting design problem was that a search box that knows nothing abo",
+    "title_zh": "我构建了8个共享用户健康历史记忆的专业AI智能体",
+    "summary_zh": "一位开发者构建了8个AI健康专家智能体，涵盖训练、营养、长寿、恢复等领域，它们共享一个用户健康历史记忆，以提供更个性化的上下文感知服务。",
+    "key_points": [
+      "构建8个AI健康智能体，分别负责训练、营养等不同领域",
+      "所有智能体共享一个用户健康历史记忆，提供上下文",
+      "旨在解决通用健康聊天机器人缺乏个性化背景的问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
