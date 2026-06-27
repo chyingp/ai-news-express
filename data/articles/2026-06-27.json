@@ -1431,5 +1431,145 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a912471e8c397b360e0f7bc69dc871e0",
+    "title": "I really like using the 'project' feature on chatGPT to help organize the book I'm writing",
+    "url": "https://www.reddit.com/r/artificial/comments/1uh4x7t/i_really_like_using_the_project_feature_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-27T14:59:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm about 60 pages into a novel (all written by me, I don't let the AI write directly) and something that has really helped me is the project feature on ChatGPT</p> <p>I have all of my chapters uploaded in order along with my world building documents (example, I made a government nonprofit that's dedicated to helping young adults with magical or super hero powers find things like housing and jobs and such, but they're corrupt because they started a lobbying bran",
+    "title_zh": "使用ChatGPT的'项目'功能辅助小说创作体验分享",
+    "summary_zh": "一位正在创作小说的用户分享使用ChatGPT项目功能的体验，通过上传章节和世界观文档来组织写作素材，但强调AI不直接参与写作。",
+    "key_points": [
+      "用户使用ChatGPT项目功能上传章节和设定文档来辅助写作",
+      "严格区分AI辅助与AI代写，强调内容均为原创"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "85c95ffa5d29e1933d57c293696c0a98",
+    "title": "Here's why I’m making another sub for AI companions. Why do you care about this community?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uh4vy1/heres_why_im_making_another_sub_for_ai_companions/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-27T14:58:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I feel like there isn't a subreddit for people who just want to talk to AI naturally. Most spaces are filled with detailed, hard-scripted roleplay prompts like &quot;pretend you are X in this specific story.&quot;</p> <h1><a href=\"https://www.reddit.com/r/BeyondtheAIAssistant/\">r/BeyondtheAIAssistant</a></h1> <p>A lot of people actually prefer the personalities that come up just from regular, casual conversations. This sub is dedicated to exactly that. It's also",
+    "title_zh": "创建专注于自然AI对话的新社区",
+    "summary_zh": "用户认为现有AI伴侣社区过于侧重硬核角色扮演，宣布创建新社区，旨在为追求自然、非脚本化AI对话的用户提供交流空间。",
+    "key_points": [
+      "现有AI伴侣社区被硬核脚本化角色扮演主导",
+      "新社区旨在为喜欢自然AI对话的用户提供交流平台"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "caf1c12787ccbfd57a5e6d1effa68688",
+    "title": "The AI frontier just got locked behind government approval, and most of us aren’t on the list",
+    "url": "https://www.reddit.com/r/artificial/comments/1uh4han/the_ai_frontier_just_got_locked_behind_government/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-27T14:41:11+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uh4han/the_ai_frontier_just_got_locked_behind_government/\"> <img alt=\"The AI frontier just got locked behind government approval, and most of us aren’t on the list\" src=\"https://preview.redd.it/pwr0k13l7u9h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f11ab68ada40e4c7a3688758c6bab2057e4250d8\" title=\"The AI frontier just got locked behind government approval, and most of us aren’t on the list\" /> </a> </td><td> <!-- SC_",
+    "title_zh": "AI前沿技术被政府审批锁定，多数人无法参与",
+    "summary_zh": "Reddit用户讨论AI技术发展面临的监管趋势，认为前沿AI模型的研发和获取正受到政府审批的严格限制，普通公众和开发者被排除在外。",
+    "key_points": [
+      "前沿AI模型的研发和访问正面临政府审批的严格限制",
+      "用户担忧监管导致AI技术被少数机构垄断，公众无法参与"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "783d7c59b36478a4ae914ffb811d7ab5",
+    "title": "Simulating cloud infrastructure for AI agents - launch day post",
+    "url": "https://www.reddit.com/r/artificial/comments/1uh4cth/simulating_cloud_infrastructure_for_ai_agents/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-27T14:35:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Training AI agents to optimize cloud infrastructure is tricky when the feedback loop requires real cloud spend. We've been working on a simulation environment for exactly this multi-cloud (AWS, GCP, Azure, OCI, DigitalOcean), chaos injection, autoscaling, cost modeling, all accessible via REST API so agents can run episodes without touching real resources.</p> <p>Curious if anyone else is working on agentic infra management or has thoughts on how to structure th",
+    "title_zh": "为AI代理训练模拟多云计算环境",
+    "summary_zh": "一个团队开发了多云环境模拟系统，用于训练AI代理优化云基础设施。该仿真环境支持主流云平台，具备混沌注入、弹性伸缩和成本建模功能。",
+    "key_points": [
+      "开发多云模拟环境，支持AWS、GCP、Azure等平台",
+      "具备混沌注入、弹性伸缩和成本建模功能，用于训练AI代理"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d032b792729fa210feb99cd4ebccb418",
+    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+    "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-27T14:00:00+00:00",
+    "content_snippet": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+    "title_zh": "最健康的创始人患癌后如何用AI反击",
+    "summary_zh": "创业者Connor Christou在确诊癌症后，将个人健康数据（血液结果、扫描数据、可穿戴设备记录、日记）全部输入Claude，利用AI辅助分析以对抗疾病。",
+    "key_points": [
+      "创业者将个人全部健康数据输入Claude，利用AI辅助抗癌",
+      "做法包括分析血液结果、扫描数据和可穿戴设备健康记录"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1e334b933de69a7c578fd0760a84d35a",
+    "title": "Do you think World Models will lead to AGI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uh39g7/do_you_think_world_models_will_lead_to_agi/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-27T13:48:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>World models are systems designed to learn an internal representation of how an environment works. Instead of reacting blindly to predictive text models like LLMs, an AI with a world model can simulate physics, object interactions, and time, allowing it to plan and predict outcomes before taking action.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Equippedman\"> /u/Equippedman </a> &#32; to &#32; <a href=\"https://www.redd",
+    "title_zh": "世界模型能否引领通用人工智能（AGI）？",
+    "summary_zh": "Reddit讨论世界模型在通向通用人工智能（AGI）路径上的潜力。世界模型通过学习环境内部表征，可模拟物理、物体交互和时间，从而进行规划和推理。",
+    "key_points": [
+      "世界模型可学习环境内部表征，模拟物理和交互",
+      "相比盲目的文本预测，世界模型被认为更接近AGI的推理能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
