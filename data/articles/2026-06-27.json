@@ -996,5 +996,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7efd4cccede32d837bcd0430707ff116",
+    "title": "I silently break training codes or configs so I made pybench [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ugv7u3/i_silently_break_training_codes_or_configs_so_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-27T06:33:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It is like pytest but for statistical tests: it ensures no regression of your metrics at a statistical level.</p> <p>It manages tedious things such that seeds, past benchmark results, ...</p> <p>Simple CLI working like pytest but with benchmarks/ directory instead of tests/:</p> <pre><code>pybench # 1st time: samples seeds, saves a baseline, marks NEW pybench # later: reruns on the same seeds, marks PASS / FAIL pybench update # re-baseline after an intended chan",
+    "title_zh": "我总在无声地破坏训练代码，所以我做了 Pybench",
+    "summary_zh": "作者推出了 Pybench，一个类似 pytest 但专为统计测试设计的工具，用于确保模型指标在统计层面不发生回归，并自动管理种子和过往基准结果。",
+    "key_points": [
+      "Pybench 是一个针对统计测试的基准回归工具，类似 pytest",
+      "可自动处理随机种子和历史基准结果等繁琐事项",
+      "旨在防止训练代码或配置修改导致指标静默退化"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "663d5e5add7776c87096d7009ebf7bad",
+    "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
+    "url": "https://www.qbitai.com/2026/06/439032.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-27T04:48:02+00:00",
+    "content_snippet": "28页干货爆炸",
+    "title_zh": "微软年度AI职场报告：员工已经准备好了，公司还没有",
+    "summary_zh": "微软发布年度AI职场报告，指出员工已准备好拥抱AI，但企业在组织变革、战略规划和基础设施建设上仍显滞后，揭示了AI落地的关键瓶颈。",
+    "key_points": [
+      "微软报告指出员工对AI的接受度很高，但企业准备不足",
+      "组织变革和战略缺失是AI落地的主要障碍",
+      "报告共28页，揭示了AI应用现状与理想之间的差距"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
