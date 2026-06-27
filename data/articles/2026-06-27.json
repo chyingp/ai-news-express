@@ -1238,5 +1238,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0912efa81fa68b81142dc46a576814a3",
+    "title": "华为途灵平台完成3轮升级，覆盖鸿蒙智行五界",
+    "url": "https://36kr.com/newsflashes/3871321432527875?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-27T11:11:48+00:00",
+    "content_snippet": "36氪获悉，6月26日，鸿蒙智行举办了一场华为途灵平台专场TECH DAY技术沟通会。华为途灵平台依托华为在AI和通信领域的技术优势，将调校经验通过算法与软件沉淀，提升机械性能上限，并基于车型定位不断开放新的特性，快速迭代。在操控层面，华为途灵平台的全维感知系统融合了ADS感知信息、车辆状态信息、驾驶意图信息、云端数据信息、车身域信息和座舱域信息等多维度数据。底盘可以提前预判、主动调整。从2023年11月至今，华为途灵平台已完成3轮升级，覆盖鸿蒙智行五界车型。",
+    "title_zh": "华为途灵平台完成3轮升级，覆盖鸿蒙智行五界",
+    "summary_zh": "华为途灵平台自2023年11月起已完成三轮升级，覆盖鸿蒙智行五界车型。该平台利用AI和通信技术，通过全维感知系统融合多维度数据，实现底盘预判与主动调整，提升车辆操控性能。",
+    "key_points": [
+      "途灵平台融合ADS感知等多维数据，实现底盘主动预判调整。",
+      "从2023年11月至今已完成3轮升级，覆盖鸿蒙智行五界车型。",
+      "依托华为AI与通信技术优势，通过算法沉淀调校经验提升机械性能。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "18459185000d18d22242b2b5f5c650ff",
+    "title": "GNOME AI assistant adds image generation support",
+    "url": "https://www.reddit.com/r/artificial/comments/1ugzpi1/gnome_ai_assistant_adds_image_generation_support/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-27T10:54:59+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ugzpi1/gnome_ai_assistant_adds_image_generation_support/\"> <img alt=\"GNOME AI assistant adds image generation support\" src=\"https://external-preview.redd.it/ABIlPwpiMzjm2G1Tt8xuROlpdXCU2VjQ6lXuRfnAlpA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5c228794e71805c0ba2815c5fabda0d5dcbff26\" title=\"GNOME AI assistant adds image generation support\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/use",
+    "title_zh": "GNOME AI助手新增图像生成功能",
+    "summary_zh": "GNOME桌面环境的AI助手获得了功能更新，现在支持图像生成。这一新增功能旨在提升用户在桌面环境中的AI交互体验，具体技术细节和接入的模型尚未在摘要中披露。",
+    "key_points": [
+      "GNOME桌面环境的AI助手新增了图像生成功能。",
+      "该更新旨在增强桌面环境下的AI交互与创作体验。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a8214b23a510d1c62d07234249e89397",
+    "title": "What \"AI Layoffs\" Tell Us About the Companies Claiming Them",
+    "url": "https://www.reddit.com/r/artificial/comments/1ugysid/what_ai_layoffs_tell_us_about_the_companies/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-27T10:03:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What all the &quot;AI Layoffs&quot; are telling us is that companies would rather compete by being cheaper than by being better.</p> <p>There are really two main competitive pathways for businesses:</p> <ol> <li><p>Do the same thing as your competition, but for a lower cost.</p></li> <li><p>Do something better than your competition at a reasonable cost.</p></li> </ol> <p>No one who has experience using AI for anything should say they feel comfortable letting it ",
+    "title_zh": "“AI裁员潮”揭示了企业的真实竞争策略",
+    "summary_zh": "文章探讨了企业以AI为名进行裁员的深层原因，指出这反映了企业更倾向于通过降低成本而非提升产品或服务质量来进行竞争。企业选择以更便宜的方式运营，而非追求卓越。",
+    "key_points": [
+      "企业以AI裁员实则反映其优先选择低成本竞争而非追求卓越。",
+      "两条主要商业竞争路径为：做得更好或做得更便宜，许多公司选择后者。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
