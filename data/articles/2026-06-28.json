@@ -246,5 +246,75 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c88f01ee0d7add3e7b34d0ab275b0d97",
+    "title": "Do you think AI is making people worse at writing and thinking clearly?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uhckxv/do_you_think_ai_is_making_people_worse_at_writing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-27T20:09:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Some people are now using AI to write emails, messages, essays, and even personal thoughts. While it saves time, I wonder if it’s also making people less skilled at organizing their own ideas or expressing themselves clearly without help.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NoFilterGPT\"> /u/NoFilterGPT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"htt",
+    "title_zh": "你认为AI正在让人们写作和思考能力退化吗？",
+    "summary_zh": "Reddit用户讨论AI工具是否导致人们组织思路和清晰表达的能力下降，尽管AI节省了时间，但可能削弱了独立创作和思考的技能。",
+    "key_points": [
+      "AI辅助写作可能削弱人类独立组织思想和表达的能力",
+      "人们使用AI撰写邮件、文章甚至个人想法，引发对思维退化的担忧",
+      "讨论聚焦于效率提升与认知技能损失之间的权衡"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "71f10621340b32e7c787f11cb843d315",
+    "title": "I built an AI macro intelligence engine that maps how shocks move through the economy",
+    "url": "https://www.reddit.com/r/artificial/comments/1uhcjbn/i_built_an_ai_macro_intelligence_engine_that_maps/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-27T20:07:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been building <strong>ORBIS</strong>, an AI intelligence engine for reading the economy as a connected system instead of a pile of disconnected headlines.<br /> The core idea is simple:<br /> Most market tools tell you <em>what moved</em>.<br /> ORBIS tries to answer:<br /> <strong>What caused it? What does it affect next? What are the second-order consequences?</strong><br /> For example, if there’s an AI demand shock, ORBIS doesn’t just say “tech bullish.",
+    "title_zh": "我构建了一个AI宏观智能引擎，用于绘制经济冲击的传导路径",
+    "summary_zh": "开发者介绍ORBIS系统，一个AI驱动的经济智能引擎，能将经济视为互联系统来分析冲击传导，而非孤立理解市场动态。",
+    "key_points": [
+      "ORBIS引擎旨在将经济解读为互联系统，而非零散新闻",
+      "该工具专注于分析经济冲击如何传导，超越传统市场工具"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "08bd47b1b184e930a1da48de0ff336cd",
+    "title": "Only Art and Science raise humanity to the sublime. But the magic isn't in the output. It's in the process of creation and discovery, and the experience of feeling and understanding.",
+    "url": "https://nitter.net/fchollet/status/2070958512281415960#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-27T19:52:40+00:00",
+    "content_snippet": "<p>Only Art and Science raise humanity to the sublime. But the magic isn't in the output. It's in the process of creation and discovery, and the experience of feeling and understanding.</p>",
+    "title_zh": "唯有艺术与科学能将人类提升至崇高境界，但其魔力在于创造与发现的过程",
+    "summary_zh": "François Chollet发帖认为，艺术与科学提升人类境界，但真正的魔力不在于最终产出，而在于创造、发现的过程以及体验和理解。",
+    "key_points": [
+      "艺术与科学使人类达到崇高境界，但核心在于过程而非结果",
+      "强调创造、发现的体验和理解比最终输出更重要"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
