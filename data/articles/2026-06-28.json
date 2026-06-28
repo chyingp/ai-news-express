@@ -437,5 +437,51 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5f4d327f6040980c10e586561c3333bd",
+    "title": "What’s the biggest gap between AI tool demos and actual daily use?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uhlz6m/whats_the_biggest_gap_between_ai_tool_demos_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-28T03:10:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been testing different AI tools in real business workflows, mostly for writing, research, content planning, and repetitive office tasks.</p> <p>One thing I noticed is that demos usually look impressive, but daily use often fails in small places: inconsistent output, lack of context, too much manual checking, or poor integration with existing workflows.</p> <p>For people using AI at work, what is the biggest gap you see between demo videos and real productiv",
+    "title_zh": "AI工具演示和实际日常使用之间最大的差距是什么？",
+    "summary_zh": "作者在真实业务工作流中测试各类AI工具，发现演示通常令人印象深刻，但日常使用在一致性、细节和可靠性等方面经常出现小故障，探讨了演示与实际应用之间的差距。",
+    "key_points": [
+      "AI工具在演示中表现惊艳，但日常使用常因细节不一致而失败",
+      "实际业务场景对AI工具的稳定性和可靠性要求远高于演示环境"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f3a332c0cc94273d60a45d519daeb047",
+    "title": "NagaTranslate: Building a translation and voice pipeline for low-resource Nagaland creoles (Whisper, VITS, LLMs) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uhlvjv/nagatranslate_building_a_translation_and_voice/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-28T03:05:48+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1uhlvjv/nagatranslate_building_a_translation_and_voice/\"> <img alt=\"NagaTranslate: Building a translation and voice pipeline for low-resource Nagaland creoles (Whisper, VITS, LLMs) [P]\" src=\"https://preview.redd.it/bu6xsk4hvx9h1.jpg?width=140&amp;height=63&amp;auto=webp&amp;s=0a4c589616d351d10d735940874706494e48d408\" title=\"NagaTranslate: Building a translation and voice pipeline for low-resource Nagaland creoles (Whispe",
+    "title_zh": "NagaTranslate：为低资源那加兰邦克里奥尔语构建翻译和语音流水线",
+    "summary_zh": "该项目利用Whisper、VITS和LLM等模型，为印度那加兰邦的低资源克里奥尔语构建了一个翻译和语音合成流水线，旨在保护和推广濒危语言。",
+    "key_points": [
+      "结合Whisper、VITS和LLM构建低资源语言的翻译与语音流水线",
+      "项目专注于那加兰邦克里奥尔语，解决濒危语言的技术支持问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
