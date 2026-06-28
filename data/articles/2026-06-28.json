@@ -483,5 +483,58 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5271ca798a7e1ec234c9d5525686a70e",
+    "title": "美国即将允许Anthropic恢复其最新大模型Fable 5访问权限",
+    "url": "https://36kr.com/newsflashes/3872423038080004?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-28T05:52:25+00:00",
+    "content_snippet": "据最新消息，美国政府即将允许Anthropic恢复其最新大模型Fable 5的访问权限。\n\n此前6月12日，美国政府以国家安全为由，向AI公司Anthropic发出紧急出口管制指令，要求其立即禁止外国主体访问最新大模型Fable 5和Mythos 5。该消息一度引发市场对AI和算力概念股的广泛担忧。\n\n今年5月底，AI巨头Anthropic宣布完成H轮650亿美元融资，投后估值达9650亿美元（约合人民币6.56万亿元），成为全球估值最高的AI初创企业。（人民财讯）",
+    "title_zh": "美国即将允许Anthropic恢复其最新大模型Fable 5访问权限",
+    "summary_zh": "美国政府即将解除对Anthropic最新大模型Fable 5的出口管制，允许恢复访问权限。此前该禁令曾引发市场担忧，Anthropic近期完成650亿美元融资，估值达9650亿美元。",
+    "key_points": [
+      "美国政府即将解除Fable 5的出口管制禁令",
+      "禁令曾引发AI和算力概念股市场广泛担忧",
+      "Anthropic此前完成650亿美元融资，估值9650亿美元"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5f20278d80021451a9d20e92d8b72a56",
+    "title": "谷歌对Meta Gemini模型的使用设限，因人工智能需求紧张导致算力吃紧",
+    "url": "https://36kr.com/newsflashes/3872321240700160?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-28T04:44:44+00:00",
+    "content_snippet": "谷歌对Meta Gemini模型的使用设限，因人工智能需求紧张导致算力吃紧。（新浪财经）",
+    "title_zh": "谷歌对Meta Gemini模型的使用设限，因人工智能需求紧张导致算力吃紧",
+    "summary_zh": "谷歌因人工智能需求暴涨导致算力资源紧张，已对Meta公司的Gemini模型使用进行限制。此举反映出AI行业对计算资源的激烈争夺。",
+    "key_points": [
+      "谷歌因算力紧张限制Meta使用Gemini模型",
+      "AI需求暴涨导致计算资源供不应求",
+      "事件凸显科技巨头间对算力的激烈争夺"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
