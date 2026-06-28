@@ -1,0 +1,102 @@
+[
+  {
+    "id": "df386eb09950d5c7b1e46ee4861471bf",
+    "title": "Anything like ChatGPT where I can upload audio for translation?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ui0u6p/anything_like_chatgpt_where_i_can_upload_audio/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-28T15:53:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have some audio recordings and videos in French and Spanish a max of 2 min each and looking to have the audio transcribed to English. Wondering if there's any AI software that can do this. I tried ChatGPT and it doesn't look like it's possible.</p> <p>It's just like 10 recordings not looking to pay for a subscription if possible.\\</p> <p>macOS Tahoe M2 MacBook Air or iPhone</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/",
+    "title_zh": "有没有类似ChatGPT的工具可以上传音频进行翻译？",
+    "summary_zh": "Reddit用户询问是否存在能上传法语/西班牙语音频并转录为英文的AI工具，并提及ChatGPT似乎不支持此功能，寻求替代方案。",
+    "key_points": [
+      "用户寻求支持音频上传翻译的AI工具",
+      "测试表明ChatGPT不支持该功能",
+      "涉及法语和西班牙语短音频转录英文"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4fa3a10679b3ccb841ced49cbb3e69d2",
+    "title": "28 point compliance checklist for shipping AI agents into enterprise environments",
+    "url": "https://www.reddit.com/r/artificial/comments/1ui052c/28_point_compliance_checklist_for_shipping_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-28T15:26:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We keep getting the same question from teams trying to close enterprise deals. <strong>What do we actually need to pass a security review?</strong></p> <p>So we compiled the checklist. 28 items across 6 categories, each mapped to at least one framework (EU AI Act, SOC 2 Type II, ISO 42001, or NIST AI RMF).</p> <p><strong>Quick summary</strong></p> <p><strong>Logging (6 items)</strong> - log every prompt/response with timestamps, capture the full decision chain (",
+    "title_zh": "向企业环境交付AI代理的28项合规检查清单",
+    "summary_zh": "Reddit帖子分享了一份面向企业AI代理部署的28项合规检查清单，涵盖6个类别，每项均与EU AI Act等框架映射，以应对常见的安全审查问题。",
+    "key_points": [
+      "整理28项合规检查点以通过企业安全审查",
+      "覆盖6大类别并映射EU AI Act等框架",
+      "旨在帮助团队满足企业客户的合规要求"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "88b82ce3f12f08d2b1c25e3d0a868fbf",
+    "title": "[D] Could AI alignment benefit from “transformational” training instead of mostly transactional reward training?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ui02bg/d_could_ai_alignment_benefit_from/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-28T15:23:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been thinking about a possible bridge between AI alignment, reward hacking, and transformational leadership.</p> <p>A lot of AI training seems behaviorally transactional at a simplified level:</p> <blockquote> </blockquote> <p>That makes sense, and I’m not arguing against it. But recent alignment work on reward hacking and emergent misalignment raises a deeper question: are we only shaping outputs, or are we also shaping something like a model’s functional ",
+    "title_zh": "[D] AI对齐能否从“变革型”训练而非交易型奖励训练中受益？",
+    "summary_zh": "Reddit讨论帖探讨AI对齐与奖励攻击问题，提出将变革型领导力理念引入AI训练，以作为传统交易型奖励训练的补充，建立更稳健的AI行为模式。",
+    "key_points": [
+      "探讨用变革型领导力理念改进AI对齐训练",
+      "反思交易型奖励训练可能导致的奖励攻击行为",
+      "寻求AI对齐与行为心理学之间的理论桥梁"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c954eb691633a052cd4a48d5b73352a2",
+    "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+    "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-28T15:00:00+00:00",
+    "content_snippet": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+    "title_zh": "华尔街为何认为美国内存制造商美光将成为下一个英伟达",
+    "summary_zh": "华尔街投资者寻找英伟达之后的AI概念股，认为内存制造商美光科技有望成为下一个高增长公司，因其在AI基础设施中的关键角色而备受关注。",
+    "key_points": [
+      "华尔街在AI领域寻找继英伟达后的高增长股票",
+      "美光科技被视为最有潜力的AI相关公司之一",
+      "美光在AI内存和存储市场的核心地位受关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
