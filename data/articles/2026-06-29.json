@@ -197,5 +197,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4cd6d8f79d5e6b0be68fd203a25cd133",
+    "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-28T21:42:51+00:00",
+    "content_snippet": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of [&#8230;]",
+    "title_zh": "中国智谱AI发布GLM-5.2，声称在网络安全方面可媲美Mythos",
+    "summary_zh": "中国智谱AI（Z.ai）发布了开源模型GLM-5.2，研究人员称其在查找漏洞和网络安全场景中可媲美Mythos模型，但在通用任务上仍落后于Anthropic和OpenAI的模型。",
+    "key_points": [
+      "智谱发布GLM-5.2开源模型，在特定网络安全任务中表现突出",
+      "该模型在漏洞查找方面与Mythos相当，但通用能力仍有差距",
+      "此举显示中国在缩小AI模型差距方面取得显著进展"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "zhipu"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "863beb6b5eb1e3302857636b01246122",
+    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-28T20:27:36+00:00",
+    "content_snippet": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists need to be an unsigned singer, songwriter, or [&#8230;]",
+    "title_zh": "Suno推出Spark孵化器计划，为独立艺术家提供AI音乐支持",
+    "summary_zh": "AI音乐公司Suno推出Spark孵化器计划，为独立艺术家提供资助、指导和营销支持，旨在将自身打造为流媒体平台并培养新艺术家，申请者需为未签约的独立音乐人。",
+    "key_points": [
+      "Suno发起Spark计划，向独立艺术家提供资金和推广资源",
+      "该计划意图将Suno从AI工具转型为音乐流媒体和造星平台",
+      "申请仅限未签约的独立音乐人，引发行业关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
