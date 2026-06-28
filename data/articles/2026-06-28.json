@@ -705,5 +705,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b499f1a934be14346b9fe334fb4e2317",
+    "title": "I shrank a transformer until every number fitted on the screen and made the weights editable [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uhw7fu/i_shrank_a_transformer_until_every_number_fitted/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-28T12:35:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been teaching myself how LLMs actually work, not at the API level, but down to the matrix multiplications. To force myself to really understand the forward pass, I first built a complete transformer by hand in a spreadsheet from embeddings through to the loss. Then I turned the forward pass into a web page so it's easier to share.</p> <p>It's a full transformer (single attention head, single block) shrunk to the smallest size where every single number still",
+    "title_zh": "我把一个Transformer缩小到所有数字都能显示在屏幕上，并让权重可编辑",
+    "summary_zh": "作者通过自学深入理解LLM的工作原理，从矩阵乘法层面动手构建了一个完整的Transformer模型，将其缩小到电子表格中展示，并实现了权重的可编辑功能，以直观理解前向传播过程。",
+    "key_points": [
+      "作者在电子表格中手工构建了一个完整的Transformer模型",
+      "目的是通过可视化方式深入理解Transformer的前向传播过程",
+      "该模型被缩小至所有权重数字可显示和编辑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
