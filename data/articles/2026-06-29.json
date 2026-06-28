@@ -98,5 +98,54 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "03787e7350118e686309241856aed051",
+    "title": "Evaluating long-term memory limits in stateless LLM chatbots — feedback needed [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ui27i1/evaluating_longterm_memory_limits_in_stateless/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-28T16:48:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>I’m working on a research project exploring how stateless LLM-based chatbots handle long conversations and whether important earlier information is still reliably retained over time.</p> <p>My idea is to:</p> <ul> <li>Run a chatbot using an LLM API without any external memory system</li> <li>Introduce key facts early in a long conversation</li> <li>Continue with many unrelated messages (hundreds of turns)</li> <li>Later test whether the model can ",
+    "title_zh": "评估无状态 LLM 聊天机器人的长期记忆限制——寻求反馈 [讨论]",
+    "summary_zh": "这是一个 Reddit 上的研究项目讨论帖，作者正在探索无状态 LLM 聊天机器人如何处理长对话，并评估其是否可靠地保留早期重要信息。帖子旨在寻求社区的反馈和建议。",
+    "key_points": [
+      "研究项目评估无状态 LLM 聊天机器人在长对话中的信息保留能力",
+      "作者通过 API 运行聊天机器人进行实验，并寻求社区反馈"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bcf419a0d25c3c66c0e43f7942982bde",
+    "title": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on",
+    "url": "https://www.reddit.com/r/artificial/comments/1ui1wci/asian_ai_startups_launch_mythoslike_models_as/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-28T16:36:08+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ui1wci/asian_ai_startups_launch_mythoslike_models_as/\"> <img alt=\"Asian AI startups launch Mythos-like models as Anthropic's export ban drags on\" src=\"https://external-preview.redd.it/NFO9Hkp_blnQtTc5xvrbcPxqNu0C5lm1h8HacQm9NGo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1e220a8adc3ea69a2469c2211d1bfe06af86f55\" title=\"Asian AI startups launch Mythos-like models as Anthropic's export ban drags on\" /> </a> </td><td> &#3",
+    "title_zh": "亚洲 AI 初创公司在 Anthropic 出口禁令持续期间推出类 Mythos 模型",
+    "summary_zh": "由于 Anthropic 的出口禁令持续，亚洲 AI 初创公司开始推出类似 Mythos 的模型，以填补市场空白，反映了地缘政治因素对 AI 行业竞争格局的影响。",
+    "key_points": [
+      "Anthropic 的出口禁令促使亚洲 AI 初创公司推出替代模型",
+      "新模型旨在模仿 Anthropic 的 Mythos 系列功能",
+      "显示了地缘政治紧张局势如何影响 AI 模型的全球可用性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
