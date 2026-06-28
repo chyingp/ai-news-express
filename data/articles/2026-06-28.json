@@ -729,5 +729,124 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9d8a0b40cd0d3e9b1ff87417eb1f213c",
+    "title": "What AI capability do you think is still surprisingly underdeveloped?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uhz5h0/what_ai_capability_do_you_think_is_still/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-28T14:46:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We've seen huge progress in coding assistants, image generation, reasoning, and voice AI over the last few years.</p> <p>But what's one capability that you expected AI to be much better at by now, yet still feels disappointing?</p> <p>For me, it's long-term memory and maintaining context across complex, ongoing tasks. It has improved, but it still isn't as seamless as I'd hoped.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/us",
+    "title_zh": "你认为哪项AI能力至今仍出人意料地不成熟？",
+    "summary_zh": "Reddit论坛讨论当前AI发展中仍令人失望的能力短板。用户指出，尽管编程助手、图像生成等领域进步显著，但长期记忆等能力依然远未达到预期，引发了社区对AI发展瓶颈的广泛探讨。",
+    "key_points": [
+      "用户认为AI长期记忆能力发展严重滞后于预期",
+      "社区讨论AI在编程、图像等领域之外的能力短板"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "77b4ba728af468c21bd5e976265b758b",
+    "title": "Which model is the most worthy of the big names?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uhyooh/which_model_is_the_most_worthy_of_the_big_names/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-28T14:27:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi all!</p> <p>I'm a little bit confused by all the benchmark results, the cheatings and whatnot, so I was wondering about which model do you guys think is the best one to subscribe to from the big names. </p> <p>Which one do you think is the best for everyday tasks, reasoning, coding, etc and why do you think that? </p> <p>For example, Google Gemini is 20 bucks, but comes with 5TB of storage and an agentic system, claude is similar but does not have a storage p",
+    "title_zh": "大厂模型中，哪个最名副其实？",
+    "summary_zh": "Reddit用户因对各类基准测试结果及作弊行为感到困惑，发起讨论询问哪些大公司出品的AI模型最值得订阅。用户希望抛开宣传，了解在日常生活任务中实际表现最佳的模型。",
+    "key_points": [
+      "用户质疑AI模型基准测试的公正性，寻求真实体验反馈",
+      "讨论聚焦于日常任务中表现最好的大厂AI模型订阅选择"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6e7f4c864b7c5f7eb119128087c353e0",
+    "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-28T14:12:06+00:00",
+    "content_snippet": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that [&#8230;]",
+    "title_zh": "帕利塞兹大火审判中，检方使用ChatGPT日志作为证据",
+    "summary_zh": "在洛杉矶历史上最致命的山火之一帕利塞兹大火的纵火案审判中，检察官除了使用iPhone位置数据、监控录像和证人证词外，还将被告的ChatGPT对话记录作为关键证据提交法庭。",
+    "key_points": [
+      "检方在纵火案审理中首次将ChatGPT日志作为证据",
+      "案件涉及2025年元旦发生的洛杉矶致命山火帕利塞兹大火"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d7ab3d53407ac0c5dc49d800a2af4ff8",
+    "title": "The Government Built the Internet. Why Didn’t It Build AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uhxhsq/the_government_built_the_internet_why_didnt_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-28T13:36:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys,</p> <p>I just red an article from the CEO of Microsoft who said:<br /> <em>“It will cost 'hundreds of billions' to keep up with frontier AI in the next decade.”</em></p> <p>The article sent me in a rabbit hole and made me think how other life changing events in our history kick-started. And every single time - the government played a big role in making it possible.</p> <p>Take for example the internet…<br /> DoD funded early networking research during ",
+    "title_zh": "政府建造了互联网，为什么没有建造AI？",
+    "summary_zh": "一篇Reddit帖子探讨了公共部门在AI发展中的角色。文章引用微软CEO关于前沿AI需要数千亿美元投入的言论，对比了互联网由政府主导研发的历史，思考为何AI发展由私营企业主导。",
+    "key_points": [
+      "文章对比互联网由政府主导研发与AI由私企主导的现状",
+      "引用微软CEO观点，指出前沿AI研发需耗资数千亿美元"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b6739071684552f9e91387692babc9ad",
+    "title": "AI subscriptions are cheap now—but will they stay that way by 2026?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uhxex9/ai_subscriptions_are_cheap_nowbut_will_they_stay/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-28T13:32:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uhxex9/ai_subscriptions_are_cheap_nowbut_will_they_stay/\"> <img alt=\"AI subscriptions are cheap now—but will they stay that way by 2026?\" src=\"https://preview.redd.it/kypp0c5701ah1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=29b8f3240079f48fe7d1be0a4b081949645cc2c4\" title=\"AI subscriptions are cheap now—but will they stay that way by 2026?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Many AI tools today come wit",
+    "title_zh": "AI订阅服务现在很便宜——但到2026年还会保持吗？",
+    "summary_zh": "Reddit讨论当前AI订阅服务的低价策略能否持续。用户对各家AI公司目前提供的廉价订阅服务表示关注，并担忧随着技术成本上升和市场变化，到2026年这些服务的价格是否会大幅上涨。",
+    "key_points": [
+      "用户担忧AI订阅服务的低价现状难以长期维持",
+      "讨论聚焦于2026年AI服务价格可能上涨的趋势"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
