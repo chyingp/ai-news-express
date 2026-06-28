@@ -367,5 +367,75 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "041c7c91d530399c17556b4393611db5",
+    "title": "郭明錤：iOS 27将进一步深化与Apple Intelligence的系统级整合",
+    "url": "https://36kr.com/newsflashes/3872170864334086?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-28T02:28:46+00:00",
+    "content_snippet": "跟踪苹果产业链多年的分析师郭明錤发布报告指出，iOS 27将进一步深化与Apple Intelligence的系统级整合。其最新产业调查显示，为确保在AI负载下系统仍能顺畅运作，1H27新款配备A20处理器的较低阶iPhone之DRAM规格将升级至9GB（1.5GB×6-die），高于目前A19机型的8GB（2GB×4-die）。2H26配备A20Pro处理器的三款高阶机型（折叠机与两款18Pro机型）则维持12GB（1.5GBx8-die）。（财联社）",
+    "title_zh": "郭明錤：iOS 27将进一步深化与Apple Intelligence的系统级整合",
+    "summary_zh": "分析师郭明錤预测iOS 27将深度整合Apple Intelligence，并指出为确保AI负载下的系统流畅，2027年上半年新款低阶iPhone内存将升级至9GB，高阶机型则维持12GB。",
+    "key_points": [
+      "iOS 27将深化与Apple Intelligence的系统级整合",
+      "低阶iPhone内存将升级至9GB以应对AI负载",
+      "高阶iPhone机型维持12GB内存配置"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3bb5408a2b294559c1e6c1c4b3fd6904",
+    "title": "华泰证券：5月工业企业利润总体向好，行业分化加剧",
+    "url": "https://36kr.com/newsflashes/3872141380080643?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-28T01:27:33+00:00",
+    "content_snippet": "华泰证券研报称，5月工业企业盈利增速较4月的24.7%略回落至21.1%，但仍高于一季度的15.5%且营收增速延续回升，显示企业盈利总体向好，其中能源及AI链相关行业为利润增长的主要支撑，而随着霍尔木兹海峡封锁超过三个月，供给冲击的影响深化，部分中下游企业产能利用率进一步走弱，行业盈利表现分化加剧。5月油价边际回落但整体上游石化链盈利增速仍在高位，而受益于全球AI投资需求强劲，电子计算机行业持续引领盈利及收入增长，对总体工业企业盈利的贡献从6.7个百分点提升至9.6个百分点，有色冶炼及化学制品分别贡献6.4、4.2个百分点，三者合计贡献约20.2个百分点，而内需相关下游制造业，利润增速仍偏弱，尤其是汽车、家具制造降幅进一步走阔。（界面）",
+    "title_zh": "华泰证券：5月工业企业利润总体向好，行业分化加剧",
+    "summary_zh": "华泰证券研报显示，5月工业企业利润增速略有回落但总体向好，AI及能源相关行业等成为利润增长主要支撑，而内需下游制造业利润增速偏弱，行业分化加剧。",
+    "key_points": [
+      "5月工业企业利润增速略回落至21.1%但总体向好",
+      "AI电子计算机行业对利润增长贡献显著",
+      "能源及AI相关行业与下游制造业利润分化加剧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "39163ef85a120cbbaef0ad593b9c5a71",
+    "title": "Koboldcpp v1.116 released",
+    "url": "https://www.reddit.com/r/artificial/comments/1uhix4f/koboldcpp_v1116_released/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-28T00:42:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uhix4f/koboldcpp_v1116_released/\"> <img alt=\"Koboldcpp v1.116 released\" src=\"https://external-preview.redd.it/8XPcq_oYA6J9thMlDt3urfRXRaiznOdxNQ80nkmhneE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=166045a8969647deb057ffce42a68fee30d6e6a8\" title=\"Koboldcpp v1.116 released\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fcking_Chuck\"> /u/Fcking_Chuck </a> &#32; to &#32; <a href=\"https://w",
+    "title_zh": "Koboldcpp v1.116 发布",
+    "summary_zh": "开源AI推理软件Koboldcpp发布了v1.116版本，该版本可能包含性能优化和新功能，但具体更新内容未在摘要中提及。",
+    "key_points": [
+      "开源AI推理工具Koboldcpp发布v1.116版本"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
