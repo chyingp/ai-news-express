@@ -1320,5 +1320,456 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b3f09c065ef6d4d17c9d80d67250712f",
+    "title": "If AI creates huge productivity gains, how do we keep people bought in?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uium73/if_ai_creates_huge_productivity_gains_how_do_we/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-29T14:49:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m optimistic about AI, but I think one practical issue needs more serious discussion: public fear.</p> <p>A lot of people are not just afraid of “new technology.” They are afraid that AI will make companies more productive while making ordinary workers less economically necessary.</p> <p>That fear matters because even if AI creates massive long-term benefits, people will resist the transition if they believe the upside only goes to a small owner class.</p> <p>",
+    "title_zh": "如果AI带来巨大生产力提升，我们如何保持人们的参与感？",
+    "summary_zh": "文章探讨了AI引发的公众恐惧：当企业生产力大幅提升而普通劳动者经济价值下降时，社会如何维持人们的参与感和购买力，这是一个需要严肃讨论的实践问题。",
+    "key_points": [
+      "公众恐惧源于AI使企业增效而削弱劳动者经济价值",
+      "需讨论如何在社会层面维持人们的参与感和购买力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ef6aaf649b11fe051fc68206c32da32c",
+    "title": "My interview with Rebellions CEO: Five things I learned from the man going toe to toe with NVIDIA",
+    "url": "https://www.reddit.com/r/artificial/comments/1uitng3/my_interview_with_rebellions_ceo_five_things_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-29T14:12:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Last week, I interviewed <a href=\"https://www.linkedin.com/company/rebellions-ai/\"><strong>Rebellions</strong></a> Co-Founder and CEO <a href=\"https://www.linkedin.com/in/sunghyun-park-21049160/\"><strong>Sunghyun Park</strong></a> in NYC</p> <p>Korea's first AI chip unicorn, Rebellions is going toe to toe with <a href=\"https://www.linkedin.com/company/nvidia/\"><strong>NVIDIA</strong></a> for AI inference, with a big bet on memory-centric architectures for greate",
+    "title_zh": "专访Rebellions CEO：与英伟达正面竞争的五个要点",
+    "summary_zh": "文章分享了作者对韩国AI芯片初创公司Rebellions联合创始人兼CEO Sunghyun Park的采访，该公司正试图在AI芯片领域挑战英伟达的主导地位。",
+    "key_points": [
+      "韩国首家AI芯片公司Rebellions挑战英伟达市场地位",
+      "CEO在纽约访谈中分享了公司战略与五个关键洞察"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5b16d647948fe6ea36906b895197d620",
+    "title": "I think AI agents need a \"web access layer\" instead of dozens of integrations",
+    "url": "https://www.reddit.com/r/artificial/comments/1uitmns/i_think_ai_agents_need_a_web_access_layer_instead/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-29T14:11:23+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uitmns/i_think_ai_agents_need_a_web_access_layer_instead/\"> <img alt=\"I think AI agents need a &quot;web access layer&quot; instead of dozens of integrations\" src=\"https://preview.redd.it/ifov5jxsy7ah1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b417320e1be45d42adb1e9d5114160bfb467f665\" title=\"I think AI agents need a &quot;web access layer&quot; instead of dozens of integrations\" /> </a> </td><td> <!-- SC_OFF --><div c",
+    "title_zh": "AI代理需要一个“网络访问层”来替代数十个集成",
+    "summary_zh": "文章提出观点，认为AI代理不应依赖大量单独的应用集成，而是需要一个统一的“网络访问层”来更高效地与各类服务进行交互。",
+    "key_points": [
+      "AI代理目前依赖过多独立集成，增加了复杂性",
+      "建议构建统一的“网络访问层”以简化交互流程"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d847e44ff01ae7e660ceaedc7b3a0e2c",
+    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-29T14:00:08+00:00",
+    "content_snippet": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+    "title_zh": "机器人手公司解决特斯拉商业秘密诉讼，并宣布1100万美元融资",
+    "summary_zh": "机器人初创公司Proception解决了与特斯拉的商业秘密诉讼，并宣布获得1100万美元融资。该公司专注于通过独特方法收集训练数据，以解决机器人手部操作这一难题。",
+    "key_points": [
+      "Proception解决与特斯拉的商业秘密诉讼并获1100万美元融资",
+      "该公司采用独特方法收集训练数据，专注于机器人手部研发"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "591f92823df2e9c566d9f8a5e60acf57",
+    "title": "A language model that runs on 5$ chip. Comes with 12 AI applications. No cloud, no internet. Universal installer + Open source Github + Huggingface available. Test it yourself.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uit9ug/a_language_model_that_runs_on_5_chip_comes_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-29T13:58:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We've been working on something slightly ridiculous. A language model for MCUs. </p> <p>After V1, Atome LM v2 (SuperESP) turns an ESP32 into a tiny AI appliance capable of running:</p> <p>• Voice commands</p> <p>• Motion recognition</p> <p>• Machine anomaly detection</p> <p>• Air-quality classification</p> <p>• Energy disaggregation</p> <p>• Occupancy sensing</p> <p>• Water leak detection</p> <p>• Predictive maintenance</p> <p>• Wearable activity recognition</p>",
+    "title_zh": "在5美元芯片上运行的语言模型，配备12个AI应用",
+    "summary_zh": "一个名为Atome LM v2的开源项目，将语言模型移植到ESP32微控制器上，使其能在5美元芯片上本地运行语音指令、运动识别等12个AI应用，无需联网或云端。",
+    "key_points": [
+      "能够在5美元的ESP32芯片上本地运行语言模型",
+      "开源项目，配备12个离线AI应用，无需云端或网络"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a8c44c1709ade9757c6fbd4138e4f588",
+    "title": "Unpopular opinion: Most 'AI agencies' are going to zero. Here's why domain specialists will eat their lunch",
+    "url": "https://www.reddit.com/r/artificial/comments/1uistou/unpopular_opinion_most_ai_agencies_are_going_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-29T13:40:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>When you try to serve everyone you end up competing on price. This is because the buyer can't tell you apart from the many shops in their DMs. You become like a product that can be easily replaced and such products usually get cheaper.</p> <p>I've built around 40 automations for my clients and I think most AI agencies will go out of business. Not because there is no work but because saying &quot;we build chatbots for anyone&quot; is a strategy. It's a race to th",
+    "title_zh": "相反观点：多数AI开发机构将归零，领域专家将胜出",
+    "summary_zh": "文章认为，服务于所有人的通用型AI开发机构缺乏差异化，终将陷入价格战。而专注于特定垂直领域、拥有深厚专业知识的专家型机构将更具竞争力。",
+    "key_points": [
+      "通用型AI机构因缺乏差异化将陷入价格战并走向失败",
+      "专注于垂直领域的专家型AI机构将凭借专业知识胜出"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c69bd65de0ab06199acf9796a0654a76",
+    "title": "My AI Predictions, Two Years Later: The Ones That Landed | LinuxBlog.io",
+    "url": "https://www.reddit.com/r/artificial/comments/1uispql/my_ai_predictions_two_years_later_the_ones_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-29T13:35:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uispql/my_ai_predictions_two_years_later_the_ones_that/\"> <img alt=\"My AI Predictions, Two Years Later: The Ones That Landed | LinuxBlog.io\" src=\"https://external-preview.redd.it/_M1WllbHhZOFV-93Rt5agX7xkYySTmtknI78aEdO4QU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=48925ba182ba5ab0916d9f5cb7837f343a5d2a35\" title=\"My AI Predictions, Two Years Later: The Ones That Landed | LinuxBlog.io\" /> </a> </td><td> &#32; submitted",
+    "title_zh": "我的AI预测，两年后：哪些成真了",
+    "summary_zh": "一篇博客文章回顾了作者在两年前做出的关于人工智能的预测，并评估哪些预测已经实现，反映了当前AI实际发展状况。",
+    "key_points": [
+      "作者回顾并评估两年前所做AI预测的准确性",
+      "通过对比预测与现实，反映AI行业的实际发展轨迹"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a7dae18bed757f4fc69b2b1005e89aae",
+    "title": "Palantir and Nvidia Expand Sovereign AI Partnership for US Government",
+    "url": "https://www.reddit.com/r/artificial/comments/1uismgu/palantir_and_nvidia_expand_sovereign_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-29T13:31:58+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uismgu/palantir_and_nvidia_expand_sovereign_ai/\"> <img alt=\"Palantir and Nvidia Expand Sovereign AI Partnership for US Government\" src=\"https://external-preview.redd.it/TSJ6pSoleVEI8zB33x51iv_X4AZqCJ7rbWPKtE-1hmY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=86dc7cfa5d372f21ca7c78dd707f364cf4833bd3\" title=\"Palantir and Nvidia Expand Sovereign AI Partnership for US Government\" /> </a> </td><td> &#32; submitted by &#32; <a",
+    "title_zh": "Palantir与英伟达扩大主权AI合作伙伴关系，面向美国政府",
+    "summary_zh": "Palantir和英伟达宣布扩大主权AI合作伙伴关系，旨在为美国政府机构提供更强大的AI解决方案，强化其在国家安全和公共部门的人工智能能力。",
+    "key_points": [
+      "Palantir与英伟达扩大合作，聚焦于美国政府领域的AI应用",
+      "合作旨在为美国政府提供增强的主权AI解决方案"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "85c3f90dcf408dd489efd08fe68e78f9",
+    "title": "Omen AI’s plan to optimize data centers is all wet",
+    "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-29T13:00:00+00:00",
+    "content_snippet": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+    "title_zh": "Omen AI的数据中心优化计划全靠“水”",
+    "summary_zh": "Omen AI获得3100万美元A轮融资，其技术方案是通过监控数据中心冷却液来预防细菌滋生，以此优化数据中心运行效率，方法独特且与水相关。",
+    "key_points": [
+      "Omen AI获3100万美元A轮融资，用于数据中心冷却液监控",
+      "技术核心是通过监控冷却液并抑制细菌滋生来优化数据中心"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8ce7114d6009c2f1bb306e4a9af3befd",
+    "title": "I recorded every Claude Code session for 3 months and let agents write it up for me",
+    "url": "https://www.reddit.com/r/artificial/comments/1uirk5i/i_recorded_every_claude_code_session_for_3_months/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-29T12:47:58+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uirk5i/i_recorded_every_claude_code_session_for_3_months/\"> <img alt=\"I recorded every Claude Code session for 3 months and let agents write it up for me\" src=\"https://preview.redd.it/1z2cimv4x7ah1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2385cacae971888998131c7c9474664ec08f8d33\" title=\"I recorded every Claude Code session for 3 months and let agents write it up for me\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md",
+    "title_zh": "我记录了三个月所有Claude Code会话，并让AI代理撰写报告",
+    "summary_zh": "作者记录了自己三个月内使用Claude Code进行编程的全部会话，并以这些数据为基础，让AI代理来分析和撰写一份关于其使用情况的总结报告。",
+    "key_points": [
+      "作者记录了三个月内使用Claude Code的完整编程会话数据",
+      "利用记录的数据，让AI代理进行分析并撰写使用总结报告"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f4dc9b2462e7771a8cc28c666e6c0de9",
+    "title": "Working on my first fully featured Ai companion with Vision for games and movies n all that!",
+    "url": "https://www.reddit.com/r/artificial/comments/1uir7p5/working_on_my_first_fully_featured_ai_companion/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-29T12:32:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uir7p5/working_on_my_first_fully_featured_ai_companion/\"> <img alt=\"Working on my first fully featured Ai companion with Vision for games and movies n all that!\" src=\"https://external-preview.redd.it/dTIzaWdlMGh1N2FoMZXcaWIhnUJQqyTWC6M2lDj7CAacckZSLizbcDbXYf3N.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f5c6f63e659aee5d57d5f27bcab9e9f953cad04\" title=\"Working on my first fully featured Ai companion with Vision for games",
+    "title_zh": "开发首个具备视觉功能的AI伴侣，用于游戏和电影",
+    "summary_zh": "一位开发者正在开发一款具有视觉功能的AI伴侣，旨在为游戏和电影提供互动体验，目前尚处于初始开发阶段。",
+    "key_points": [
+      "开发者正在打造一款具备视觉功能的AI伴侣",
+      "该AI伴侣主要面向游戏和电影等娱乐场景"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "79ea0be21eacd09169ce30201e1d3d5f",
+    "title": "宏微科技：目前公司布局的AIDC、人形机器人新兴领域相关业务尚处于前期拓展、技术研发或小批量试点阶段",
+    "url": "https://36kr.com/newsflashes/3874215653659649?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-29T12:28:53+00:00",
+    "content_snippet": "36氪获悉，宏微科技发布股票交易风险提示公告，目前公司布局的AIDC、人形机器人、核聚变等新兴领域相关业务尚处于前期拓展、技术研发或小批量试点阶段，相关业务营收占公司整体营业收入比重较小，尚未形成规模化营收及利润贡献，对公司当期经营业绩的提振作用有限，短期内无法成为公司核心盈利增长点，上述新兴领域未来收入及盈利兑现存在较大不确定性。",
+    "title_zh": "宏微科技：AIDC、人形机器人等新兴业务尚处前期阶段",
+    "summary_zh": "宏微科技发布公告称，公司在AIDC、人形机器人等新兴领域的业务处于早期拓展或研发阶段，尚未形成规模收入，短期业绩贡献有限，存在较大不确定性。",
+    "key_points": [
+      "公司AIDC、人形机器人业务尚在前期拓展或小批量试点",
+      "相关业务营收占比小，短期内无法成为核心盈利增长点"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1ee98c7515148d3c8541851f6c1c9bf4",
+    "title": "美国加州州长纽森与Anthropic签约，全州政务半价普及Claude大模型",
+    "url": "https://36kr.com/newsflashes/3874214392386564?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-06-29T12:23:32+00:00",
+    "content_snippet": "加州州长加文・纽森已与人工智能企业Anthropic达成合作，以优惠采购价在加州各级政府全面推广Claude系列大模型产品。落地后Claude将成为首个面向加州全部州属部门、市县地方政府开放使用的AI工具。此前数月，Anthropic与特朗普联邦政府持续博弈：美方限制该企业顶尖模型落地推广，并将其认定为国家供应链风险主体。纽森政府此次合作旨在大幅降低政务AI使用成本、推动Claude普及：州政府部门、自愿参与的加州各市县采购该对话机器人可享五折优惠；合作条款同时包含Anthropic免费人力培训、专属技术支持服务。（新浪财经）",
+    "title_zh": "加州州长与Anthropic签约，全州政务半价普及Claude大模型",
+    "summary_zh": "加州州长纽森与Anthropic达成合作，以五折优惠向全州各级政府推广Claude大模型，并提供免费培训和技术支持。此举旨在降低政务AI成本，并绕开联邦政府对Anthropic的限制。",
+    "key_points": [
+      "加州政府以半价采购Claude大模型，覆盖全州各级部门",
+      "合作包含Anthropic提供的免费人力培训与技术支持"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "664c8715096e8effc14c38c31279fa0a",
+    "title": "The Download: metric weaknesses and AI elephant warnings",
+    "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-29T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people bitten&#8230;",
+    "title_zh": "MIT科技评论：指标的弱点和AI的隐性警告",
+    "summary_zh": "本期《The Download》探讨了衡量指标的固有缺陷，指出指标虽能揭示有用信息，但也可能掩盖或歪曲更重要的真相，并结合AI技术发展中的潜在风险进行了讨论。",
+    "key_points": [
+      "探讨了衡量指标在揭示和掩盖真相方面的双重性",
+      "结合AI技术发展，警示可能存在的隐性风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ae4b6f6d7bfc0552fa0126691736d2c0",
+    "title": "神工股份：股票交易异常波动，市盈率显著高于行业水平",
+    "url": "https://36kr.com/newsflashes/3874195977901062?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-29T12:01:52+00:00",
+    "content_snippet": "36氪获悉，神工股份公告，公司股票连续三个交易日(6月25日、26日、29日)收盘价格涨幅偏离值累计达30%，属于股票交易异常波动。截至6月29日，公司收盘价194.33元/股，滚动市盈率334.60倍，静态市盈率324.35倍，显著高于所属行业平均市盈率（滚动66.97倍、静态73.27倍），存在估值较高风险。半导体行业结构性行情显著，受全球经济、技术迭代等因素综合影响。目前行业景气度主要受到海外科技巨头对人工智能业务的巨额资本开支所带动，未来发展方向仍存在不确定性，叠加贸易摩擦、地缘冲突等因素，一旦上游资本开支减少或终端消费市场需求承压萎缩，都将会影响公司业务。",
+    "title_zh": "神工股份：股票交易异常波动，市盈率显著高于行业水平",
+    "summary_zh": "神工股份公告称，其股票连续三个交易日涨幅偏离值累计达30%，静态和滚动市盈率均超300倍，远超行业平均水平，并提示半导体行业受AI资本开支等影响，存在不确定性。",
+    "key_points": [
+      "公司股票连续三日涨幅偏离值累计达30%，触发异常波动",
+      "公司市盈率超300倍，显著高于行业平均的66-73倍"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a9b3857187622325aa3802c4b9aeaa8f",
+    "title": "Cerebras OpenAI deal capacity has effectively killed the waitlist for everyone else [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-29T12:00:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m pretty annoyed. We’re a small AI startup building a real-time coding agent. Our p95 latency requirements are tight (and self imposed, but thats the product). We need sustained high-throughput inference with ~1-2k tokens/second. Been on the Cerebras waitlist for months trying to get API access. We’re not doing training so don’t need a warehouse of H100s. We need fast, high-throughput ASIC inference for a specific production workload. Cerebras’ just went publi",
+    "title_zh": "Cerebras与OpenAI合作导致算力排他，其他客户等待名单停止推进",
+    "summary_zh": "一家小型AI初创公司抱怨，由于Cerebras与OpenAI达成大规模交易，其算力资源被大量占用，导致其他客户尽管已在等待名单上，也无法获得所需的高吞吐量推理服务。",
+    "key_points": [
+      "Cerebras与OpenAI的交易挤占了大量算力资源",
+      "其他客户等待名单停摆，无法获得高吞吐量推理服务"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cdf894cd5cb12ce44c4a4402e33f0276",
+    "title": "国家超算互联网推出万卡共创者激励计划",
+    "url": "https://36kr.com/newsflashes/3874178187875335?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-06-29T11:44:22+00:00",
+    "content_snippet": "36氪获悉，近日，国家超算互联网正式启动SCNet万卡共创者激励计划，将基于scaleX万卡超集群，面向全球AI开发者、初创团队、科研机构提供最高亿级词元（Tokens）额度与千卡时国产算力资源。该计划围绕AI、AI4S两大核心主题，开展国产算力最佳实践、开发者竞赛、AI应用孵化等共创项目，覆盖民生应用、工业仿真、生物医药等多元场景。",
+    "title_zh": "国家超算互联网推出万卡共创者激励计划",
+    "summary_zh": "国家超算互联网启动SCNet万卡共创者激励计划，为全球AI开发者、初创团队等提供最高亿级词元额度和千卡时国产算力资源，聚焦AI、AI4S等领域，覆盖多元应用场景。",
+    "key_points": [
+      "计划提供亿级Tokens额度和千卡时国产算力资源",
+      "围绕AI、AI4S主题，覆盖民生、工业仿真等场景"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "345d59544a1cb87ffba8ba597dca8af3",
+    "title": "Wait, so OpenAI is bragging about usage numbers that are basically just... locked out free users?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uipt96/wait_so_openai_is_bragging_about_usage_numbers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-29T11:27:26+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uipt96/wait_so_openai_is_bragging_about_usage_numbers/\"> <img alt=\"Wait, so OpenAI is bragging about usage numbers that are basically just... locked out free users?\" src=\"https://preview.redd.it/v7ggrlsti7ah1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=305b7273cb283a70b5c46f53cae7a25623c20991\" title=\"Wait, so OpenAI is bragging about usage numbers that are basically just... locked out free users?\" /> ",
+    "title_zh": "OpenAI炫耀的用户数据，其实只是被锁定的免费用户？",
+    "summary_zh": "Reddit上有用户质疑，OpenAI公布的庞大使用数据，可能大部分来自那些被使用限制锁定、无法有效使用服务的免费用户，质疑其数据的真实价值和代表性。",
+    "key_points": [
+      "用户质疑OpenAI公布的使用数据可能包含大量受限免费用户",
+      "讨论聚焦于OpenAI用户增长数据的真实价值"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "00c305c618d092597ea375f945980c1d",
+    "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+    "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-29T10:59:38+00:00",
+    "content_snippet": "Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership.  In 1969, DARPA connected four university computers — from UCLA, Stanford, UCSB [&#8230;]",
+    "title_zh": "开放模型，封闭环境：Palantir携手NVIDIA Nemotron为美国机构提供安全AI",
+    "summary_zh": "Palantir发布基于NVIDIA Nemotron开放模型构建的新型智能引擎，旨在为美国政府机构提供安全、可信的AI服务，彰显开源创新在美国AI领域的重要性。",
+    "key_points": [
+      "Palantir利用NVIDIA Nemotron开源模型为美国政府机构构建AI引擎",
+      "该方案强调在封闭环境中安全部署开放模型"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
