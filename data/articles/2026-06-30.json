@@ -234,5 +234,195 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6e0dbec31b286fba59c72659daf62ee4",
+    "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+    "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-29T19:47:35+00:00",
+    "content_snippet": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today those tracks will no longer be monetizable. \"Tidal's [&#8230;]",
+    "title_zh": "Tidal 将不给 AI 生成音乐付版税，但不会完全禁止",
+    "summary_zh": "Tidal 公布新 AI 音乐政策，自 7 月 15 日起为纯 AI 生成曲目标注图标，并停止支付版税，旨在保护艺术家并告知听众。",
+    "key_points": [
+      "Tidal 将为识别出的纯 AI 生成音乐添加标签",
+      "从 7 月 15 日起，AI 生成音乐将不再获得版税"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d4377941c232e77e6c7064e4169179a2",
+    "title": "OpenAI is teasing new hardware… for Codex",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-29T18:52:03+00:00",
+    "content_snippet": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This isn't the mysterious AI-powered device OpenAI is working on with [&#8230;]",
+    "title_zh": "OpenAI 预告 Codex 新硬件，将于 7 月 15 日发布",
+    "summary_zh": "OpenAI 在社交媒体发布视频，预告一款与 AI 编程工具 Codex 相关的方形实体设备，配备多个按钮，将于 7 月 15 日推出。",
+    "key_points": [
+      "OpenAI 预告一款方形 Codex 实体硬件设备，配有多个按钮",
+      "该设备将于 7 月 15 日正式发布，定位为 Codex 快捷键升级"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3f011a30345029de3e45193f9019630b",
+    "title": "Google warns EU's plans to weaken its monopoly could expose user data",
+    "url": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-29T18:21:31+00:00",
+    "content_snippet": "The EU wants Google to share search data with competitors and open up AI on Android, but Google alleges major privacy risks.",
+    "title_zh": "谷歌警告欧盟削弱其垄断的计划可能泄露用户数据",
+    "summary_zh": "谷歌对欧盟要求其与竞争对手共享搜索数据、在安卓上开放 AI 的计划提出警告，称这可能带来严重的隐私风险。",
+    "key_points": [
+      "欧盟希望谷歌向竞争对手开放搜索数据及安卓 AI 访问权限",
+      "谷歌声称此举将导致严重的隐私泄露风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a4fc79ea8f5a40efe7bbcb82fef36314",
+    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-29T18:10:26+00:00",
+    "content_snippet": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+    "title_zh": "Anthropic 与加州州长达成协议，政府可半价使用 Claude",
+    "summary_zh": "Anthropic 与加州州长纽森达成协议，允许加州政府以半价使用其 AI 模型 Claude，双方关系日益紧密，但联邦政府对其持敌对态度。",
+    "key_points": [
+      "Anthropic 与加州政府达成半价使用 Claude 的协议",
+      "此举加深了 Anthropic 与加州的关系，但与联邦政府关系紧张"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cb683670244266bd70a4e73b7ff3234f",
+    "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+    "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-29T18:07:48+00:00",
+    "content_snippet": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+    "title_zh": "韩国科技巨头承诺超 5500 亿美元投资以缓解“RAM 危机”",
+    "summary_zh": "全球两大内存芯片制造商三星和 SK 海力士承诺巨额投资，大举建设内存实验室和晶圆厂，以巩固韩国在 AI 时代的技术强国地位。",
+    "key_points": [
+      "全球两大内存芯片巨头承诺投资超 5500 亿美元",
+      "投资旨在建设更多内存实验室，应对 AI 对内存的需求"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7eccecbfa902e4090fab32e0ce3c2fc9",
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "url": "https://huggingface.co/blog/allenai/discoformer",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-29T18:02:48+00:00",
+    "content_snippet": "",
+    "title_zh": "DiScoFormer：一个 Transformer 同时处理密度和得分，跨分布使用",
+    "summary_zh": "Hugging Face 博客介绍了 DiScoFormer 模型，它使用单个 Transformer 架构，能够跨不同分布处理密度估计和得分函数。",
+    "key_points": [
+      "DiScoFormer 使用单一 Transformer 统一处理密度和得分",
+      "该模型能够跨不同分布工作，提高效率"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "70b9fae892c61179bb7cd1cb0b3b15d7",
+    "title": "AI agents are not your “coworkers”",
+    "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-29T18:00:00+00:00",
+    "content_snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an&#8230;",
+    "title_zh": "AI 代理不是你的“同事”",
+    "summary_zh": "MIT 科技评论文章探讨了将 AI 工具拟人化为“同事”Alex 的现象，指出这种称呼可能带来误解，AI 代理本质上仍是工具而非人类员工。",
+    "key_points": [
+      "将 AI 代理称为“同事”的拟人化趋势可能造成误导",
+      "文章强调 AI 本质上是工具，不应与人类员工混淆"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "917b29e0a7c151052a2af0119774b387",
+    "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+    "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-29T17:39:17+00:00",
+    "content_snippet": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+    "title_zh": "众人皆用的 AI 排行榜 Arena 已成为价值 1 亿美元的业务",
+    "summary_zh": "运营广受欢迎的免费 AI 模型排行榜的初创公司 Arena，自去年 9 月推出商业服务后，其业务估值已达 1 亿美元。",
+    "key_points": [
+      "Arena 凭借其免费 AI 排行榜，商业化后估值已达 1 亿美元",
+      "其商业服务于去年 9 月推出，迅速获得市场认可"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
