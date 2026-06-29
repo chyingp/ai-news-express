@@ -424,5 +424,130 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "555ffa964c5281be366d05bc2def9064",
+    "title": "AI Companies Will Become Profitable Eventually. Here's why.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uj5g3n/ai_companies_will_become_profitable_eventually/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-29T21:24:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I work in security, and AI has changed the landscape permanently. I know people making so much money from AI-assisted bug hunting that it would make some people sick.</p> <p>And that's just the people I know. There are countless individuals and companies building businesses that rely on AI in one form or another.</p> <p>Right now, many AI companies aren't particularly profitable. But I think that will eventually flip. The big investors are aware of this.</p> <p>",
+    "title_zh": "AI公司终将实现盈利：原因在此",
+    "summary_zh": "文章从安全领域从业者视角出发，指出AI已永久改变行业格局，许多人通过AI辅助漏洞猎取获得巨额收入，并认为这只是冰山一角，预示AI公司盈利前景广阔。",
+    "key_points": [
+      "AI已永久改变安全行业格局并创造巨大财富",
+      "AI辅助漏洞猎取等应用已产生可观经济回报",
+      "大量个人和公司正利用AI构建盈利业务"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1aeeb967a65516a778569697385d3d00",
+    "title": "ORBIS",
+    "url": "https://www.reddit.com/r/artificial/comments/1uj5dqr/orbis/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-29T21:22:05+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The edge was never one data point — it's assembling a hundred small public ones into a picture nobody else has bothered to draw. That's the mosaic. </p> <p>The problem is you can't reassemble it by hand every time the world moves.<br /> ORBIS does. Macro (FRED), live tape, global news, supply shocks — all fragments feeding one 26-node causal graph. </p> <p>A shock lands, the mosaic recomposes, and the assets actually exposed surface ranked by pressure and mispri",
+    "title_zh": "ORBIS：动态拼凑公开数据碎片的分析工具",
+    "summary_zh": "介绍名为ORBIS的工具，其核心价值在于将成百上千个分散的公开数据点动态整合成完整图景，解决了手动重组数据无法跟上世界变化的问题，能处理宏观、实时等多源数据。",
+    "key_points": [
+      "ORBIS能动态整合大量公开数据点形成洞察",
+      "解决手动重组数据效率低下的问题",
+      "可处理宏观经济、实时等多源数据流"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "03e61e71a7ac49dfeeca4524951adc89",
+    "title": "Meta was secretly running on Google's Gemini the whole time and then got cut off for using too much",
+    "url": "https://www.reddit.com/r/artificial/comments/1uj45np/meta_was_secretly_running_on_googles_gemini_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-29T20:36:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Saw this article today and it genuinely surprised me</p> <p>Meta has been using Gemini for customer service, ad tools, content moderation, all of it. and apparently chose it because it worked better than their own Llama models and then Google cut them off because Meta was consuming too much capacity.</p> <p>Now employees are being told to watch their token usage. This is the same company that was pushing staff to use more AI just a few months ago. Idk man, of al",
+    "title_zh": "Meta秘密使用谷歌Gemini模型，因用量过大被切断",
+    "summary_zh": "Meta一直秘密使用谷歌的Gemini来驱动其客服、广告工具和内容审核，原因是Gemini表现优于自家Llama模型。最终因用量过高被谷歌切断服务，事件令人意外。",
+    "key_points": [
+      "Meta因Gemini性能优于Llama，秘密用于内部多项业务",
+      "应用范围涵盖客服、广告工具和内容审核",
+      "谷歌因Meta用量过大而切断其Gemini访问权限"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6e26addce97b6e65249a9412b5da2573",
+    "title": "Gemini’s personalized AI image generation is now free for US users",
+    "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-29T20:12:59+00:00",
+    "content_snippet": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+    "title_zh": "Gemini个性化AI图像生成功能向美国免费用户开放",
+    "summary_zh": "谷歌将其Gemini的个性化AI图像生成功能扩展至美国符合条件的免费用户，该功能可根据用户兴趣和关联谷歌应用的数据来创建定制化图像。",
+    "key_points": [
+      "Gemini个性化图像生成功能向美国免费用户开放",
+      "功能基于用户兴趣和谷歌应用数据生成图像",
+      "此前该功能仅限付费用户使用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e1fb1119e1506691eee76113f3c9bdda",
+    "title": "Rejected MICCAI paper: workshop -> journal/conference or directly journal/conference [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uj35gh/rejected_miccai_paper_workshop_journalconference/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-29T19:58:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Premise: this work is my first year PhD, and I dropped out for personal reasons. I still want to do research but independently.</p> <p>I have tried to submit my explainability paper to MICCAI. Sadly, for doubtful/good reasons, it got rejected.</p> <p>Among the reviewers, one explicitly suggested to make it stronger and that the work is &quot;novel&quot;. </p> <p>I was wondering if a good strategy would be to work on it more (maybe improving also the time it take",
+    "title_zh": "被MICCAI拒稿后：转投研讨会还是直接投期刊/会议",
+    "summary_zh": "一位前博士生分享其可解释性论文被MICCAI会议拒稿的经历，并寻求关于应转投研讨会后再投期刊/会议，还是直接投稿的建议，涉及独立研究的学术发表策略。",
+    "key_points": [
+      "作者的可解释性AI论文被MICCAI会议拒稿",
+      "寻求被拒后转投研讨会或期刊的发表策略建议",
+      "作者为独立研究者，面临学术发表路径选择问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
