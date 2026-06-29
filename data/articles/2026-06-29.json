@@ -1771,5 +1771,56 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ba82b8c829f3ec634fcb5b0caf8510f2",
+    "title": "Over 20 publishers sue OpenAI, Microsoft for training ChatGPT with their content",
+    "url": "https://www.reddit.com/r/artificial/comments/1uiveao/over_20_publishers_sue_openai_microsoft_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-29T15:17:46+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uiveao/over_20_publishers_sue_openai_microsoft_for/\"> <img alt=\"Over 20 publishers sue OpenAI, Microsoft for training ChatGPT with their content\" src=\"https://external-preview.redd.it/GbmXSRFvaUV4G5lzDj5demabhxwWpkVp_v1qlh-rU54.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53475dd9319af70873052d39e7a274f01fc399db\" title=\"Over 20 publishers sue OpenAI, Microsoft for training ChatGPT with their content\" /> </a> </td><td> &",
+    "title_zh": "超20家出版商起诉OpenAI和微软，指控其用版权内容训练ChatGPT",
+    "summary_zh": "二十多家出版商联合对OpenAI和微软提起诉讼，指控这两家公司未经授权使用其受版权保护的新闻内容来训练ChatGPT等AI模型，构成大规模侵权。",
+    "key_points": [
+      "超过20家出版商联合起诉OpenAI和微软",
+      "指控未经许可使用版权内容训练AI模型",
+      "诉讼涉及ChatGPT训练数据的版权侵权问题"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9971776ce2c36e1a6745b0648d411582",
+    "title": "I do historical swordfighting and noticed AI struggles to track it. I’m building an open dataset to help fix this. Does my schema make sense? [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uivddx/i_do_historical_swordfighting_and_noticed_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-29T15:16:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I’m a historical swordfighter (HEMA practitioner), and while I’m not a computer vision engineer or a roboticist, I’ve been reading a lot about the current bottlenecks in embodied AI, specifically around the Sim2Real gap and thin-object tracking.</p> <p>It occurred to me that high-level swordfighting is basically a perfect nightmare scenario for computer vision. We move at maximum athletic output, we shift our weight rapidly in non-linear ways",
+    "title_zh": "历史剑术爱好者发现AI追踪困难，正构建开放数据集以改进",
+    "summary_zh": "一位历史欧洲武术（HEMA）练习者注意到AI在追踪剑术动作时存在困难，尤其是细薄物体追踪和仿真到现实的差距，因此计划构建一个开放数据集来帮助解决这一问题。",
+    "key_points": [
+      "AI在追踪细薄物体如剑术动作时表现不佳",
+      "个人发起开放数据集项目以改善AI动作追踪",
+      "聚焦解决仿真到现实（Sim2Real）差距问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
