@@ -1554,5 +1554,124 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7e9d594c03c0183d68e9a715e61852a5",
+    "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+    "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-30T13:00:27+00:00",
+    "content_snippet": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from the physical world into operational intelligence in factories, [&#8230;]",
+    "title_zh": "走进Omniverse：利用合成数据和微调提升视觉AI代理准确性的三种工作流程",
+    "summary_zh": "NVIDIA博客介绍了利用Omniverse和合成数据提升视觉AI代理技能的最新工作流程，帮助开发者通过微调等方式提高AI代理在视频分析中的准确性。",
+    "key_points": [
+      "NVIDIA展示利用合成数据和微调优化视觉AI代理的工作流程",
+      "技术结合OpenUSD和Omniverse平台，提升视频分析精度"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "16c2a8030112eb093e2952456c501135",
+    "title": "Open vs Closed AI Models: How the Gap Collapsed in 2025-2026 and Where It's Heading",
+    "url": "https://www.reddit.com/r/artificial/comments/1ujokka/open_vs_closed_ai_models_how_the_gap_collapsed_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-30T13:00:10+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ujokka/open_vs_closed_ai_models_how_the_gap_collapsed_in/\"> <img alt=\"Open vs Closed AI Models: How the Gap Collapsed in 2025-2026 and Where It's Heading\" src=\"https://external-preview.redd.it/nJrLee5DBhiwRaPvg0iEQq_i-DXFuScM85GnP0szVzI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=54ea8f1828cbe1f1bd6898f3640922c5b8102614\" title=\"Open vs Closed AI Models: How the Gap Collapsed in 2025-2026 and Where It's Heading\" /> </a> ",
+    "title_zh": "开源与闭源AI模型之争：2025-2026年差距如何消失及未来走向",
+    "summary_zh": "一篇Reddit热帖讨论了开源和闭源AI模型在2025至2026年间性能差距显著缩小的趋势，并分析了该领域的未来发展方向。",
+    "key_points": [
+      "开源与闭源AI模型之间的性能差距在2025-2026年基本消失",
+      "文章探讨了促使差距缩小的关键因素和未来模型竞争格局"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ac3851c0002583e0586a6e7be60a3669",
+    "title": "Copilot agents can take actions. But who verifies the results?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ujo832/copilot_agents_can_take_actions_but_who_verifies/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T12:45:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>As Copilot agents become more autonomous, validation seems just as important as automation. How are you handling it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TeamAlphaBOLD\"> /u/TeamAlphaBOLD </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1ujo832/copilot_agents_can_take_actions_but_who_verifies/\">[link]</a></span>",
+    "title_zh": "Copilot智能体能自主执行操作，但谁来验证结果？",
+    "summary_zh": "随着微软Copilot等AI代理变得更加自主，一篇Reddit帖子引发了对代理执行操作后结果验证机制的讨论，强调验证与自动化同等重要。",
+    "key_points": [
+      "AI代理自主性增强，其操作结果的验证问题凸显",
+      "业界关注如何建立有效的验证机制以确保代理可靠性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c789643ec2fd333638403f09f4255d61",
+    "title": "杰创智能：拟向特定对象发行A股股票募资不超19.65亿元，用于智算云服务中心建设项目等",
+    "url": "https://36kr.com/newsflashes/3875626486526214?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-06-30T12:11:08+00:00",
+    "content_snippet": "36氪获悉，杰创智能公告，公司拟向不超过35名特定投资者发行A股股票，募集资金总额不超过19.65亿元，扣除发行费用后用于智算云服务中心建设项目、AI+安全装备研发及产业化建设项目及补充流动资金。本次发行不会导致公司控制权发生变化。",
+    "title_zh": "杰创智能：拟向特定对象发行A股股票募资不超19.65亿元，用于智算云服务中心建设项目等",
+    "summary_zh": "杰创智能公告拟非公开发行股票募资不超过19.65亿元，资金将主要用于智算云服务中心建设、AI+安全装备研发及产业化项目，并补充流动资金。",
+    "key_points": [
+      "杰创智能拟募资19.65亿元，主投智算云服务中心建设",
+      "资金还将用于AI+安全装备研发，推动公司战略布局"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ecf57bff995bfb87cb35c3cb5e867f42",
+    "title": "The Download: AI “coworkers” and stratospheric internet",
+    "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-30T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one&#8230;",
+    "title_zh": "AI“同事”与平流层互联网：MIT科技评论今日精选",
+    "summary_zh": "MIT Technology Review的每日通讯探讨了AI代理并非真正的“同事”这一观点，并分析了将AI工具视为人类劳动力替代品的误导性，同时提及平流层互联网等技术动态。",
+    "key_points": [
+      "文章指出将AI代理称为“同事”是一种误导，应视为工具",
+      "通讯还涵盖了太阳能互联网等前沿技术话题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
