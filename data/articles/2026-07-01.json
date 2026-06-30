@@ -1,0 +1,241 @@
+[
+  {
+    "id": "01496d14f80c55358fa89f3d9a9db884",
+    "title": "Acti puts AI agents directly into your smartphone keyboard",
+    "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T17:52:46+00:00",
+    "content_snippet": "Startup Acti is betting the smartphone keyboard is the next home for AI assistants. Its new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
+    "title_zh": "Acti 将 AI 智能体直接植入你的智能手机键盘",
+    "summary_zh": "初创公司 Acti 推出了一款适用于 iOS 和 Android 的 AI 键盘，可跨应用运行，并允许用户使用自然语言创建自定义的 AI 快捷操作。",
+    "key_points": [
+      "Acti 推出可在 iOS 和 Android 上跨应用使用的 AI 键盘",
+      "用户可使用自然语言创建自定义 AI 快捷操作"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "389e66e449410ba4b4ce21060e8fab15",
+    "title": "Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer as clueless as solving its first. Coding agents observe multimodal sensory traces from simulation and real robots, launch an evolutionary search over control programs, and distill the best know-how into an ever-expanding library. ASPIRE is a new type of continual learning: \"training\" is skill refinement instead of gradient descent. \"Trained model\" is a repo of sensorimotor skills instead of floating weights. “Distributed training” is a panel of agents each practicing a different skill instead of sharded minibatches. Here's the beauty: ASPIRE gives the tired terms \"sim2real transfer\" and \"cross-embodiment transfer\" a whole new meaning. Bridging the sim-to-real gap is notoriously brutal. An end-to-end policy has to swallow both the visual shift (sim looks toyish next to a real camera) and the subtle contact physics it never quite gets right. ASPIRE sidesteps the mess, because it doesn't ship pixels or weights across the gap, but ships the know-how. The robot still has to practice in the real world, not zero-shot, but it gets there way faster because it isn't rediscovering the strategy from scratch. Same for going single-arm to bimanual hardware, which usually requires new data and retraining from zero. ASPIRE achieves up to ~10x cut in \"transfer learning” tokens (yes, tokens are the new unit of *training* compute ;) Check out our gallery of 150+ tasks and 90+ skills the robots taught themselves, all on the website! Kind of wild that we can ship the \"learned weights\" as an HTML page rather than a GGUF. We'll open-source the full stack so your own robot library starts compounding from ours! Deep dive in thread:",
+    "url": "https://nitter.net/DrJimFan/status/2072004190856212902#m",
+    "source": "Jim Fan (X)",
+    "source_zh": "Jim Fan",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-30T17:07:49+00:00",
+    "content_snippet": "<p>Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer as clueless as solving its first. Coding agents observe multimodal sensory traces from simulation and real robots, launch an evolutionary search over control programs, and distill the best know-how into an ever-expanding library. <br />\n<br />\nASPIRE is a new type of continual learning: \"training\" is skill refinement instead of gradient descent.",
+    "title_zh": "NVIDIA 提出 ASPIRE：让机器人拥有可自我进化的技能库",
+    "summary_zh": "NVIDIA 研究员 Jim Fan 发布了 ASPIRE，一个能让机器人通过编码智能体持续进化、积累技能的框架。它通过传递技能而非权重来弥合仿真与现实差距，使机器人学习新任务不再从零开始。",
+    "key_points": [
+      "ASPIRE 框架让机器人能将技能积累成库，实现持续学习",
+      "通过传递技能知识而非模型权重，大幅缩短仿真到现实的迁移时间",
+      "项目将完全开源，已展示 150+ 任务和 90+ 自学技能"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "140d37cc241699e064604e455f2f1418",
+    "title": "Are all LLM research papers nowadays 100+ pages beasts?[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ujv03i/are_all_llm_research_papers_nowadays_100_pages/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-06-30T17:04:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Was reading some research papers put out by Anthropic (and some other organizations/researchers) and one thing I've noticed is that these research papers consistently all share the same quality:</p> <ul> <li>Oftentimes over 100 pages of pure words, interspersed with screenshots of very dense/hard to read prompts and replies. Extremely-dry writing style.</li> <li>Oftentimes almost zero math or even math symbol to be seen.</li> <li>Uses some proprietary model with",
+    "title_zh": "如今的大模型研究论文是否都是超过 100 页的巨著？",
+    "summary_zh": "Reddit 用户讨论当下 LLM 研究论文（如 Anthropic 发布的论文）篇幅普遍超过 100 页的现象，质疑其必要性。",
+    "key_points": [
+      "用户观察到 Anthropic 等机构的 LLM 研究论文篇幅常超 100 页",
+      "社区对这一趋势展开讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "59fa268a2ae39df76c4b0c06fdd0d329",
+    "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+    "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T17:00:38+00:00",
+    "content_snippet": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterate faster. This week, Anthropic announced Claude Science, an AI workbench for science [&#8230;]",
+    "title_zh": "NVIDIA BioNeMo 智能体工具包登陆 Claude Science，为生命科学研究加速",
+    "summary_zh": "NVIDIA 的 BioNeMo 智能体工具包现在集成到 Claude Science 中，为生命科学研究者提供 GPU 加速的 AI 能力，助力更复杂的计算研究工作流。",
+    "key_points": [
+      "NVIDIA BioNeMo 智能体工具包为 Claude Science 提供加速",
+      "旨在帮助生命科学研究者运行更复杂的工作流"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8ea70b35b5cde4c1b54de02bad9a283f",
+    "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+    "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T17:00:00+00:00",
+    "content_snippet": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+    "title_zh": "Anthropic 的 Claude Science 押注工作流优化，而非新模型",
+    "summary_zh": "Anthropic 发布了 Claude Science，一个为科学家提供的统一计算研究工作台，旨在通过优化工作流程而非推出新模型来吸引科学用户。",
+    "key_points": [
+      "Claude Science 是一个统一的计算研究工作台，避免在多个工具间切换",
+      "Anthropic 的策略是通过改善工作流体验来服务科学家，而非依赖新模型"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24c73db098f354a49a8cd49cc7134aaa",
+    "title": "Are Redditors influencing AI the most?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-06-30T16:40:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ujuckz/are_redditors_influencing_ai_the_most/\"> <img alt=\"Are Redditors influencing AI the most?\" src=\"https://preview.redd.it/hu2a8zbn7gah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a3f59b7da6c4868b6b6d447857b2e2b0e61f1ee\" title=\"Are Redditors influencing AI the most?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/xJouissance\"> /u/xJouissance </a> &#32; to &#32; <a href=\"https://ww",
+    "title_zh": "Reddit 用户对 AI 的影响力最大吗？",
+    "summary_zh": "一篇 Reddit 帖子引发讨论，探讨 Reddit 用户群体是否对人工智能的发展方向产生了最大的影响。",
+    "key_points": [
+      "社区讨论 Reddit 用户在训练数据和行业讨论中的影响力"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "338d896b0bc26fe54950d9dcb5d2ffed",
+    "title": "“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) went viral on social media. Loops are now a key part of how we get AI agents to iterate at length to build software. In this letter, I’d like to share my 3 key loops, shown in the image below, for building 0-to-1 products. These loops guide not just how I build software, but also how I decide what software to build. Agentic coding loop: Given a product specification and optionally a set of evals (that is, a dataset against which to measure performance), we can have an AI agent write code, test its work, and keep iterating until the code is bug-free and meets its specification. This idea of closing the loop took off around the end of last year, and it has been a game changer in enabling coding agents to work longer productively without human intervention. For example, over the weekend, I was building an app for my daughter to practice typing, and my coding agent could easily work for around an hour, using a web browser to check what it had built multiple times before getting back to me, without needing my intervention. The engineering loop executes quickly. Every few minutes, the coding agent might build and test a new version of the software. I hear frequently from developers who are finding new ways to engineer more effective engineering loops. This is an active area of invention! Developer feedback loop: In this loop, a developer examines the current product and steers the coding agent to improve it. Last year, a lot of developers (including me) were acting as the QA (quality assurance) function for our coding agents, manually finding bugs and then asking the agent to fix them. But with coding agents much more able to test their own code, the amount of time we need to spend on this function has decreased significantly. This allows us to make higher-level product decisions, such as what key features to offer, where the UI needs improvement, and so on. The developer-feedback loop operates over time intervals between tens of minutes and hours — that's how frequently a developer might review a product and give feedback. In the case of the typing app, I changed my mind a few times about the visual design, what cat costumes she can unlock as she learns (she loves cats), and the user flow for a grown-up to log in and steer the child's learning experience. When a developer has a clear vision for what to build, it is still a lot of work to translate that vision into a specification for a coding agent to implement. Further, after the developer has seen an implementation, they might update (or perhaps clarify) the spec to steer it toward what they want. If you find that the system repeatedly runs into certain problems, building a set of evals for the agent becomes useful. AI-native teams are increasingly using AI to help shape product direction, for example, automating the gathering and analysis of usage data, summarizing written and verbal customer feedback, or carrying out competitive analysis. However, for pretty much all the products I’m involved in, I see humans as having a significant context advantage over current AI systems — we know a lot more than the AI system about the users and the context the product has to operate in — and thus humans play a critical role. Many people describe this human contribution as “taste,” but I prefer to think of it as humans having a context advantage, since that gives us a clearer path to helping AI systems get better. This also speaks to why this step can’t be automated: So long as the human knows something the AI does not, human-in-the-loop is needed to to inject that knowledge into the system. External feedback loop: This includes a wide range of tactics like asking a few friends for feedback, launching to alpha testers, or putting the code into production with A/B testing. These tactics are usually slow, rarely taking less than hours and sometimes taking days or even weeks. This data informs the developer vision, which in turn continues to drive the detailed product spec, which in turn drives the coding agent. With coding agents speeding up software development, more engineers are starting to play a partial product management role. For many engineers who are growing into this role, the hardest part is shaping the product vision and striking a balance between building (bridging the gap between vision and spec) and getting user feedback to evolve the vision. It is important to do both! I will write more about how to do this in future posts, but for now, I find it encouraging that engineers are playing an expanded role (just as product managers and designers now do more engineering). [Original text: The Batch]",
+    "url": "https://nitter.net/AndrewYNg/status/2071988145667928442#m",
+    "source": "Andrew Ng (X)",
+    "source_zh": "吴恩达 Andrew Ng",
+    "source_type": "nitter",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-30T16:04:04+00:00",
+    "content_snippet": "<p>“Loop engineering” is a hot buzzphrase after mentions of it by Boris Cherny (Claude Code’s creator) and Peter Steinberger (OpenClaw's creator) went viral on social media. Loops are now a key part of how we get AI agents to iterate at length to build software. In this letter, I’d like to share my 3 key loops, shown in the image below, for building 0-to-1 products. These loops guide not just how I build software, but also how I decide what software to build.<br />\n<br />\nAgentic coding loop: Gi",
+    "title_zh": "吴恩达详解构建 AI 产品的三个关键循环",
+    "summary_zh": "吴恩达分享了其构建 0 到 1 产品的三个关键循环：智能体编码循环、开发者反馈循环和外部反馈循环。他认为开发者需承担更多产品管理角色，并强调人类在上下文中的优势。",
+    "key_points": [
+      "三个关键循环：智能体编码、开发者反馈、外部反馈，驱动产品迭代",
+      "人类在掌握用户和产品上下文方面仍具优势，反馈环节不可或缺",
+      "随着编码智能体进步，开发者正承担更多产品管理职责"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d866a21bc3340953fe735d0c5221952a",
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-30T16:02:40+00:00",
+    "content_snippet": "",
+    "title_zh": "开始使用 Nano Banana 2 Lite 和 Gemini Omni Flash 进行构建",
+    "summary_zh": "Google DeepMind 博客宣布开始提供 Nano Banana 2 Lite 和 Gemini Omni Flash 模型，供开发者构建使用。",
+    "key_points": [
+      "Google DeepMind 发布 Nano Banana 2 Lite 和 Gemini Omni Flash 模型供开发者使用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0460f8f816b63b631c0670c9a4b3a72f",
+    "title": "Libby will filter out AI content, kind of",
+    "url": "https://www.theverge.com/column/959433/libby-ai-filter",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T15:30:00+00:00",
+    "content_snippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week. OverDrive is best known for the ebook lending app [&#8230;]",
+    "title_zh": "Libby 将过滤 AI 生成内容，但效果有限",
+    "summary_zh": "数字阅读平台 OverDrive 旗下应用 Libby 计划推出过滤 AI 内容的功能，但实施细节和效果尚不明确。",
+    "key_points": [
+      "Libby 计划推出过滤 AI 生成内容的功能",
+      "OverDrive 新任 CEO 将 AI 视为新前沿"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "22a72864cc85bc25b5a3d1cfa38017f2",
+    "title": "Stopped switching models every time output got worse, fixed my prompts instead",
+    "url": "https://www.reddit.com/r/artificial/comments/1ujsehp/stopped_switching_models_every_time_output_got/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-30T15:28:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>been using ai daily for about a year now and kept falling into the trap of blaming the model when output got mediocre. switched between three or four different tools chasing better results before realizing the actual problem was almost always on my end.</p> <p>few things that made a bigger difference than any model upgrade ever did:</p> <p>keeping a running doc of context for ongoing projects instead of re-explaining everything each session. sounds obvious but m",
+    "title_zh": "停止频繁更换模型，改而优化提示词",
+    "summary_zh": "一位 Reddit 用户分享经验，称其在使用 AI 一年后，发现输出质量下降的主要原因往往是提示词问题，而非模型本身，优化提示词比频繁更换模型更有效。",
+    "key_points": [
+      "用户发现 AI 输出质量下降时，问题通常出在提示词而非模型",
+      "优化提示词比在不同模型间切换更能有效提升结果"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
