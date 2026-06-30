@@ -1673,5 +1673,218 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b516565aa862f51afacac4aaf89ced66",
+    "title": "AI has made me ask better questions than search engines ever did. Anyone else?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ujs6wp/ai_has_made_me_ask_better_questions_than_search/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T15:20:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>One thing I didn't expect from using AI regularly is that it's changed how I think.</p> <p>Instead of searching for quick answers, I spend more time figuring out how to ask better questions. Even when I'm researching something without AI, I notice I'm breaking problems into smaller steps instead of just looking for one perfect answer.</p> <p>Has anyone else experienced this, or has AI changed a different habit for you?</p> </div><!-- SC_ON --> &#32; submitted by",
+    "title_zh": "AI让我学会了提出比搜索引擎时代更好的问题，有人同感吗？",
+    "summary_zh": "一位Reddit用户分享使用AI的意外收获：AI改变了其思维方式，使其更注重如何提出更好的问题，而非仅仅搜索快速答案，这种习惯甚至影响了非AI辅助的研究过程。",
+    "key_points": [
+      "AI改变了用户的思维习惯，从搜索答案转向提出好问题",
+      "这种提问习惯的改善影响到了用户不使用AI时的研究方式"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fdb4e43bcfbf8de26fa22719e9b0c409",
+    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+    "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T15:08:42+00:00",
+    "content_snippet": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+    "title_zh": "X平台推出MCP服务器，让AI工具更容易接入其平台",
+    "summary_zh": "X平台（原Twitter）正式发布了一个托管式MCP服务器，旨在简化开发者将AI应用程序与X平台API连接的过程，方便AI工具读取和使用平台数据。",
+    "key_points": [
+      "X平台推出托管MCP服务器，简化AI应用与平台API的连接",
+      "此举旨在降低开发者接入门槛，让AI工具更易使用X平台数据"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a6194844280b21f270e727ffcda1847d",
+    "title": "if AI became 100% reliable tomorrow, what task would save you the most time by automating completely?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ujrp2q/if_ai_became_100_reliable_tomorrow_what_task/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T15:02:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>just wondering, if AI becomes as reliable as a human what task would you automate completely?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/StatusTiger2808\"> /u/StatusTiger2808 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1ujrp2q/if_ai_became_100_reliable_tomorrow_what_task/\">[link]</a></span> &#32; <span><a href=\"h",
+    "title_zh": "如果AI明天变得100%可靠，哪项任务的完全自动化能为您节省最多时间？",
+    "summary_zh": "一位Reddit用户发起讨论，假设AI的可靠性达到人类水平，询问大家会优先将哪项任务完全自动化，以最大程度节省时间。",
+    "key_points": [
+      "Reddit用户讨论AI完全可靠时的自动化场景",
+      "问题聚焦于最能节省时间的任务自动化选择"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e55d81a85db4483a6fdcd1647da2080c",
+    "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+    "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-30T15:00:57+00:00",
+    "content_snippet": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and systems, and strengthened by a broad open source ecosystem, NVIDIA’s [&#8230;]",
+    "title_zh": "NVIDIA推理软件栈如何实现最低的Token成本",
+    "summary_zh": "NVIDIA官方博客阐述其推理软件栈如何通过软硬件协同设计，帮助企业从关注芯片峰值规格转向关注每美元、每瓦特功耗下能交付的有用Token数量，以降低整体运营成本。",
+    "key_points": [
+      "NVIDIA强调推理成本已从关注芯片性能转向token成本",
+      "通过GPU、CPU、网络和软件的协同设计实现最低token成本"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a75ae417bce1cdf82521b040fcb8e7a8",
+    "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
+    "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-30T15:00:49+00:00",
+    "content_snippet": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot&#8217;s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind [&#8230;]",
+    "title_zh": "NVIDIA工程师Jaiveer Singh如何帮助机器人和开发者加速前进",
+    "summary_zh": "NVIDIA官方博客介绍机器人工程师Jaiveer Singh的工作，他专注于机器人底层基础设施，如内部电路板、相机软件等，这些是机器人走出演示、实现实际应用的基础。",
+    "key_points": [
+      "NVIDIA工程师专注于机器人底层硬件和软件基础设施建设",
+      "强调工程实践是实现机器人从演示到实际应用的关键"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ba1797ae41939664eefbac4f5be4111a",
+    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-30T15:00:00+00:00",
+    "content_snippet": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+    "title_zh": "亚马逊效仿OpenAI和Anthropic，成立10亿美元的新部门",
+    "summary_zh": "亚马逊宣布成立一个价值10亿美元的新组织（FDE），该团队工程师将嵌入客户公司内部，为其部署定制化AI代理，重点关注快速部署和客户自给自足能力。",
+    "key_points": [
+      "亚马逊斥资10亿美元成立新部门，专注为客户部署AI代理",
+      "新部门效仿OpenAI和Anthropic的模式，工程师将嵌入客户公司"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2919bc4057bf1d8c0cb18e6e1bf768c0",
+    "title": "Podcasting platform Riverside enters the newsletter publishing game",
+    "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T15:00:00+00:00",
+    "content_snippet": "Users will be able use AI to create newsletters based on their recordings.",
+    "title_zh": "播客平台Riverside进军新闻通讯出版业务",
+    "summary_zh": "播客制作平台Riverside扩展业务，进入新闻通讯出版领域，允许用户利用AI技术，基于其播客录音自动生成新闻通讯内容。",
+    "key_points": [
+      "Riverside平台新增AI功能，可将播客录音转化为新闻通讯",
+      "此举标志着播客平台向内容出版领域的跨界拓展"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ffe37190d833018fcd2fef0c34de447a",
+    "title": "I taught myself to code 5 months ago and built an autonomous AI red-team tester — testyourllm.com",
+    "url": "https://www.reddit.com/r/artificial/comments/1ujqzb1/i_taught_myself_to_code_5_months_ago_and_built_an/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-30T14:35:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Piano teacher. Zero coding background. 5 months ago I started building.</p> <p> </p> <p> Just launched <a href=\"http://testyourllm.com\">testyourllm.com</a> — point it at any OpenAI-compatible LLM endpoint</p> <p> and an autonomous AI tries to break it. </p> <p> </p> <p> The attack AI (Tron) broke Llama 3.3 70B on the first throw in live testing.</p> <p> Built on a 7-layer defense stack running on live infrastructure processing</p> <p> real attacker traffic.</p> ",
+    "title_zh": "自学编程5个月，我构建了一个自主AI红队测试工具",
+    "summary_zh": "一位钢琴老师自学编程5个月后，发布了一个AI红队测试网站（testyourllm.com），用户可接入任何兼容OpenAI的LLM端点，由自主AI尝试对其进行攻击和漏洞测试。",
+    "key_points": [
+      "零编程背景的用户自学5个月后开发出AI红队测试工具",
+      "该工具可对任何兼容OpenAI的LLM端点进行自主安全测试"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ce0e4d6477b9628b0008bc370e8eb2a8",
+    "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+    "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T14:00:00+00:00",
+    "content_snippet": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+    "title_zh": "Proton推出隐私保护AI聊天机器人Lumo的升级版",
+    "summary_zh": "注重隐私的Proton公司本周推出其AI聊天机器人Lumo的2.0版本，为用户提供更广泛的功能，强调在AI交互中的隐私保护。",
+    "key_points": [
+      "Proton发布Lumo 2.0，主打隐私保护的AI聊天机器人",
+      "升级版为用户带来更广泛的功能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
