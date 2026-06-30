@@ -237,5 +237,218 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ee6c50661691a546b074d44a4051b2b0",
+    "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+    "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T19:24:51+00:00",
+    "content_snippet": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example shared by Google details Australia's unsuccessful war [&#8230;]",
+    "title_zh": "谷歌NotebookLM新增AI短视频总结功能，60秒内掌握研究要点",
+    "summary_zh": "谷歌为NotebookLM推出类似TikTok风格的AI视频摘要功能，可为用户上传的资料来源生成60秒竖屏短片，目前已向AI Ultra和Pro订阅用户开放。",
+    "key_points": [
+      "NotebookLM新增基于上传资料的60秒AI竖屏视频生成功能",
+      "该功能面向Google AI Ultra和Pro订阅用户推出"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9e47277c200d7a7608917b77962e8b7d",
+    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T19:02:38+00:00",
+    "content_snippet": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+    "title_zh": "谷歌推出更快更便宜的AI图像生成器Nano Banana 2 Lite",
+    "summary_zh": "谷歌更新其图像生成工具，推出Nano Banana 2 Lite版本，旨在提升生成速度和降低使用成本，使其成为创作者制作AI内容的高效工具。",
+    "key_points": [
+      "谷歌发布Nano Banana 2 Lite，提升AI图像生成速度和成本效益",
+      "新模型旨在为创作者提供更实用的AI内容创作工具"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "356bd13cc5f682153bcf9a173219f78a",
+    "title": "Dwell",
+    "url": "https://www.reddit.com/r/artificial/comments/1ujxv7p/dwell/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T18:47:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>The house, told straight.</strong><br /> Every claim a listing makes — roof, foundation, reno costs, contractor quotes — checked against the record before you sign. Not another listing site. The verdict on the one you're about to buy.<br /> <strong><em><a href=\"https://dwell.aurochthryx.com\">https://dwell.aurochthryx.com</a></em></strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CarterBirchll\"> /u/CarterBirch",
+    "title_zh": "Dwell：用AI验证房产信息，提供购房前的最终裁决",
+    "summary_zh": "Reddit帖子介绍了一款名为Dwell的AI工具，它并非传统房产列表网站，而是通过交叉核验屋顶、地基、翻新成本和承包商报价等房产记录，为即将购房的用户提供信息验证和最终裁决。",
+    "key_points": [
+      "AI工具Dwell能交叉核验房产记录，验证房屋信息的真实性",
+      "该工具旨在为购房者提供签约前关于房屋状况的最终结论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9d697f00fb6cd6557b545256643393b8",
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-30T18:32:50+00:00",
+    "content_snippet": "",
+    "title_zh": "ScarfBench：评估AI代理在企业级Java框架迁移中表现的基准测试",
+    "summary_zh": "Hugging Face博客介绍了IBM Research发布的ScarfBench基准测试，该基准旨在评估AI代理在处理企业级Java框架迁移任务时的性能和能力。",
+    "key_points": [
+      "IBM Research发布ScarfBench，评估AI代理的企业Java框架迁移能力",
+      "该基准专注于衡量AI代理在复杂企业级任务中的表现"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ffde7cf4c1120cdc960288ae02e8c65e",
+    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+    "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-30T18:13:02+00:00",
+    "content_snippet": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+    "title_zh": "英伟达竞争对手Etched估值达50亿美元，AI芯片销售额突破10亿",
+    "summary_zh": "AI芯片初创公司Etched宣布其估值已达50亿美元，并已签订价值10亿美元的合同，为其AI推理芯片系统提供支持，成为英伟达的有力竞争者。",
+    "key_points": [
+      "AI芯片公司Etched估值达50亿美元，已获10亿美元订单",
+      "该公司专注于AI推理芯片，直接挑战英伟达的市场地位"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7f0342c0c6bdfadf1e9ca61ca2c2a727",
+    "title": "Will You Need AI for Your AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ujwwj2/will_you_need_ai_for_your_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-30T18:13:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I wrote this article because I assume many people are having running multiple AIs and getting their minds blown.</p> <p>Welcome any feedback</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CitizenOctopus\"> /u/CitizenOctopus </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://journal.citizenoctopus.com/will-you-need-ai-for-your-ai/\">[link]</a></span> &#32; <span",
+    "title_zh": "你会需要AI来管理你的AI吗？",
+    "summary_zh": "这是一篇Reddit用户讨论文章，作者提出当人们运行多个AI并感到震撼时，是否需要另一个AI来管理这些AI，并寻求反馈。",
+    "key_points": [
+      "文章探讨了运行多个AI时是否需要AI来管理的可能性",
+      "作者假设多AI并行使用带来的复杂性可能催生管理型AI的需求"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2b92189d8ce7f114bb7eef244bf6d186",
+    "title": "What's the best AI for AI retranscription based on an audio file",
+    "url": "https://www.reddit.com/r/artificial/comments/1ujwr0f/whats_the_best_ai_for_ai_retranscription_based_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-30T18:07:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I need 100 % of what was said in a meeting. It's a native audio Teams recording. What's the best AI for this ? I used AI Sembly a few months back and it worked quite well but I guess there's been some progress since. Any recommendations ? Many thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Legitimate-Key-5541\"> /u/Legitimate-Key-5541 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </",
+    "title_zh": "基于音频文件的最佳AI转写工具推荐",
+    "summary_zh": "Reddit用户发帖寻求建议，希望找到一款能够100%准确转写本地Teams会议录音的AI工具，并提及曾使用过Sembly，但想了解最新的技术进步。",
+    "key_points": [
+      "用户寻求高精度AI会议转写工具，要求100%准确率",
+      "提及曾使用Sembly，并寻求更新、更好的替代方案"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "302f40558b9493ab353ba3480f84a7f0",
+    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+    "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-06-30T18:00:00+00:00",
+    "content_snippet": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+    "title_zh": "Anthropic发布Claude Sonnet 5，提供更经济的AI代理运行方案",
+    "summary_zh": "Anthropic推出Claude Sonnet 5模型，具备更强的代理能力、更低的定价和更高的安全性，定位为比Opus、GPT-5.5和Gemini Pro更经济的代理运行选择。",
+    "key_points": [
+      "Claude Sonnet 5发布，增强代理能力并降低使用成本",
+      "新模型在定价上对标GPT-5.5和Gemini Pro，主打经济性"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6fa011d5a499390e4d9e8db76e07349a",
+    "title": "Research on the 'effort heuristic' and AI content: people instinctively value AI-generated content less even when quality is identical, because they associate less effort with less worth",
+    "url": "https://www.reddit.com/r/artificial/comments/1ujwfix/research_on_the_effort_heuristic_and_ai_content/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-30T17:56:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The effort heuristic is a well-documented cognitive bias where people assign more value to things they believe required more work. It shows up in everything from handmade goods to professional services, and we're seeing it in AI content creation, too. </p> <p>The gist: Two articles can contain identical ideas, similar insights, and comparable quality. But if one took ten hours to produce and the other took ten seconds with AI, audiences instinctively perceive th",
+    "title_zh": "研究显示：因“努力启发式”偏见，人们本能地低估AI生成内容的价值",
+    "summary_zh": "Reddit分享的研究探讨了“努力启发式”认知偏差，即人们因认为AI生成内容所需努力较少，即使在质量相同的情况下，也会本能地赋予其更低的价值。",
+    "key_points": [
+      "研究发现“努力启发式”偏差导致人们低估AI生成内容的价值",
+      "即使质量相同，人们仍认为AI作品因缺乏人类努力而价值较低"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
