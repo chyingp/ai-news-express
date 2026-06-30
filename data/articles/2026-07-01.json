@@ -544,5 +544,173 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ee9d5b6ae3408c3a7e93d700c436a43e",
+    "title": "AI模型以更少数据精准预测RNA三维结构",
+    "url": "https://36kr.com/newsflashes/3876272460509192?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-06-30T23:08:15+00:00",
+    "content_snippet": "美国弗吉尼亚理工大学科学家团队开发出一种名为“RNAbpFlow”的AI模型，在RNA结构预测任务中的表现可媲美谷歌旗下“深度思维”公司开发的“阿尔法折叠3”，且无需依赖海量进化序列数据库，有望加速RNA靶向药物研发。相关研究发表于新一期《自然·方法》杂志。（科技日报）",
+    "title_zh": "AI模型以更少数据精准预测RNA三维结构",
+    "summary_zh": "美国团队开发AI模型RNAbpFlow，预测RNA三维结构媲美AlphaFold 3，且无需海量进化序列数据库，有望加速RNA靶向药物研发。",
+    "key_points": [
+      "新模型RNAbpFlow在RNA结构预测上媲美谷歌AlphaFold 3",
+      "无需依赖海量进化序列数据库，降低数据需求",
+      "研究成果发表于《自然·方法》，有望加速RNA药物研发"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7c233d65a7ad3bc6d138db86a3c96a15",
+    "title": "how do most of you view the ai world & landscape in 2030?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uk3fr8/how_do_most_of_you_view_the_ai_world_landscape_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-30T22:16:47+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uk3fr8/how_do_most_of_you_view_the_ai_world_landscape_in/\"> <img alt=\"how do most of you view the ai world &amp; landscape in 2030?\" src=\"https://preview.redd.it/6b7or174vhah1.png?width=140&amp;height=93&amp;auto=webp&amp;s=6e1fb51c350d7e62b0efce050535019e7d9c221d\" title=\"how do most of you view the ai world &amp; landscape in 2030?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>im very young, and sometimes i still get",
+    "title_zh": "你如何看待2030年的AI世界与格局？",
+    "summary_zh": "Reddit用户发起讨论，探讨对2030年人工智能行业格局和未来发展的看法，属于社区互动话题。",
+    "key_points": [
+      "Reddit社区讨论2030年AI行业格局展望"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "be61e7a52c8152dc480f41b9f165813c",
+    "title": "OpenClaw is finally available on Android and iOS",
+    "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-30T21:53:28+00:00",
+    "content_snippet": "The free open source agentic program is finally invading your phone.",
+    "title_zh": "开源AI代理程序OpenClaw终于登陆安卓和iOS",
+    "summary_zh": "免费开源代理程序OpenClaw正式发布移动端版本，支持安卓和iOS平台，进一步扩展其影响力。",
+    "key_points": [
+      "OpenClaw作为开源AI代理程序推出移动端版本",
+      "同时支持安卓和iOS两大主流移动平台",
+      "免费提供，意在扩大用户覆盖范围"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8ab83b560bcb788a15cc112cbcc25554",
+    "title": "We went from \"AI says something embarrassing\" to \"$25M deepfake fraud\" in about two years",
+    "url": "https://www.reddit.com/r/artificial/comments/1uk2sbm/we_went_from_ai_says_something_embarrassing_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-06-30T21:51:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>The Arup case wasn't a hack in the traditional sense — it was a deepfake convincing someone to authorize a transfer. No exploit code, no malware, just sufficiently good synthetic media plus normal human trust. Feels like the conversation around AI risk is still stuck on hallucinations and bias while the actual money being lost is going through social engineering supercharged by generation quality. Are we just behind on naming the real threat mode",
+    "title_zh": "从AI说错话到2500万美元的深度伪造诈骗，仅用了两年",
+    "summary_zh": "讨论AI安全风险快速升级，从最初的尴尬对话发展到利用深度伪造技术骗取2500万美元的案件，突显合成媒体威胁。",
+    "key_points": [
+      "深度伪造技术已能用于实施高达2500万美元的诈骗",
+      "AI安全风险从轻微尴尬升级为重大金融犯罪威胁",
+      "Arup案作为典型案例，引发对AI合成媒体风险的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "78c501247f18c641fbf9a1d7cfcfa5b2",
+    "title": "Claude Science is Anthropic’s newest flagship product",
+    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T21:50:04+00:00",
+    "content_snippet": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
+    "title_zh": "Claude Science成为Anthropic最新旗舰产品",
+    "summary_zh": "Anthropic发布面向科研领域的新旗舰产品Claude Science，可自主支持科学实验，类似Claude Code辅助软件工程。",
+    "key_points": [
+      "Anthropic推出Claude Science，专为科学研究设计",
+      "产品可自主执行实验，定位类似Claude Code的科研版",
+      "面向制药高管、生物技术创始人和研究员群体发布"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "33fdea7cca38ee74af1f04c0e3db6292",
+    "title": "Best NSFW AI Image Generators 2026",
+    "url": "https://www.reddit.com/r/artificial/comments/1uk2pd1/best_nsfw_ai_image_generators_2026/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T21:47:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Firstly, do no listen to posts that have links, those are almost always affiliates or brands. Im a true user, that spends a little too much time exploring this rabbit hole. Anyways, please tell me if im missing any or if you think my list is inaccurate. </p> <ol> <li><p>Secrets AI - You may be thinking that this looks a little different then the rest, and you would be right. However, they have an entire generations page / dashboard that is dedicated for content ",
+    "title_zh": "2026年最佳NSFW AI图像生成器推荐",
+    "summary_zh": "Reddit用户分享个人整理的2026年NSFW AI图像生成器列表，并提醒注意规避广告和推广链接，寻求社区反馈。",
+    "key_points": [
+      "用户分享个人整理的NSFW AI图像生成器推荐列表",
+      "提醒其他用户注意辨别广告和推广链接",
+      "寻求社区对列表准确性和完整性的反馈"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "938978eddcf7ce8e66a538fb306a5870",
+    "title": "So how to start understanding all that AI coding stuff",
+    "url": "https://www.reddit.com/r/artificial/comments/1uk2j4x/so_how_to_start_understanding_all_that_ai_coding/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-30T21:41:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I want to start in AI coding as Iam watching videos I start hearing some strange words Tokens and ect is there any video that introduce you to that stuff?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Professional-Ebb700\"> /u/Professional-Ebb700 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1uk2j4x/so_how_to_start_un",
+    "title_zh": "如何入门理解AI编程相关概念",
+    "summary_zh": "Reddit用户发帖求助，表示想学习AI编程但遇到Token等专业术语理解困难，寻求推荐入门教程视频。",
+    "key_points": [
+      "初学者寻求AI编程入门资源，了解Token等术语"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
