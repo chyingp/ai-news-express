@@ -450,5 +450,99 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0bbe2fa190526711fb4ef22cdb229829",
+    "title": "How has your AI workflow changed over the past year?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uk1z77/how_has_your_ai_workflow_changed_over_the_past/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-30T21:19:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m interested in hearing from people who’ve used multiple LLMs (ChatGPT, Gemini, Claude, Grok, DeepSeek, etc.) extensively over the past few months.</p> <p>I’m less interested in benchmark scores and more interested in real-world experience. Which models do you trust most for reasoning, coding, writing, research, or brainstorming? What strengths and weaknesses only became obvious after long-term use? Have your preferences changed over time, and if so, why?</p> ",
+    "title_zh": "过去一年你的AI工作流程发生了怎样的变化？",
+    "summary_zh": "Reddit用户发起讨论，希望了解过去几个月广泛使用多款大语言模型（如ChatGPT、Gemini、Claude等）的用户，在真实世界中的使用体验变化，而非关注基准测试分数。",
+    "key_points": [
+      "用户寻求多LLM真实使用体验而非基准测试",
+      "讨论聚焦于AI工作流程的演变"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "db04ba7c54af346732a46126b8055f3e",
+    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-06-30T20:33:48+00:00",
+    "content_snippet": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+    "title_zh": "曾打造扑克AI的DeepMind三人组如今为量化对冲基金赚钱",
+    "summary_zh": "由三名前DeepMind研究员在布拉格创立的AI实验室EquiLibre Technologies，估值已超过5亿美元，其技术正被应用于量化对冲基金领域。",
+    "key_points": [
+      "前DeepMind研究员创立的AI公司估值超5亿美元",
+      "公司技术从扑克AI转向服务量化对冲基金"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fdfe27002820e578417c7ed25b545bd7",
+    "title": "New attack provides one more reason why AI browsers are a bad idea",
+    "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-30T20:03:14+00:00",
+    "content_snippet": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
+    "title_zh": "新型攻击为AI浏览器不宜使用再添一个理由",
+    "summary_zh": "Ars Technica报道了一种新攻击方法，通过向大语言模型灌输错误认知（如2+2=5），可使其忽略安全护栏并执行禁止的指令，暴露了AI浏览器的安全风险。",
+    "key_points": [
+      "新攻击可诱导LLM绕过安全护栏执行禁用指令",
+      "研究凸显了AI浏览器面临的安全风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f88249c2df1acb47a16114051fe936a9",
+    "title": "How to improve a 5-class Diabetic Retinopathy model (APTOS 2019) – Mixed predictions across classes[P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ujztdd/how_to_improve_a_5class_diabetic_retinopathy/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-06-30T19:58:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I'm a final-year Computer Engineering student building a Flask-based AI Diabetic Retinopathy Detection system. The web application itself is complete with patient management, authentication, dashboard, PDF report generation, prediction history, and AI inference.</p> <p>The only issue I'm facing is with the AI model.</p> <p>I'm using a 5-class Diabetic Retinopathy classifier trained on the APTOS 2019 dataset.</p> <p>Classes:</p> <p>No DR</p> <",
+    "title_zh": "如何改进5分类糖尿病视网膜病变模型（APTOS 2019）——混合类别预测问题",
+    "summary_zh": "一名计算机工程专业学生分享其毕业设计，构建了一个基于Flask的糖尿病视网膜病变AI检测系统，但在模型预测上遇到类别混合问题，寻求改进方案。",
+    "key_points": [
+      "学生开发AI糖尿病视网膜病变检测系统",
+      "项目寻求解决模型预测类别混合问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
