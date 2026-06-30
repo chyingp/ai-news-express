@@ -755,5 +755,77 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0c981188ab6a180439a354dba5ca8e3c",
+    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-06-30T02:28:41+00:00",
+    "content_snippet": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+    "title_zh": "vibe coding平台Base44推出自有模型，AI初创寻求护城河",
+    "summary_zh": "Wix旗下的vibe coding平台Base44开始推出自有AI模型，旨在最终超越前沿模型，以增强其在竞争激烈的AI编码工具市场中的防御能力。",
+    "key_points": [
+      "Base44是Wix旗下的vibe coding平台",
+      "开始推出自有AI模型以增强竞争力",
+      "目标是最终超越现有的前沿模型"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b3e6de84acd6b9c08146d353546f5b1f",
+    "title": "A native Rust cognitive engine that routes language through a biologically faithful neural substrate",
+    "url": "https://www.reddit.com/r/artificial/comments/1ujc93l/a_native_rust_cognitive_engine_that_routes/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-06-30T02:13:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>GoldWorm 🐛✨ — 302-Neuron Dual-Stream Cognitive Engine</p> <p>A zero-trust, fully transparent associative AI built on the complete C. elegans connectome.</p> <p>OOM-safe by design. No hidden training loops. No black-box weights. Every synapse is inspectable.</p> <p>What Is GoldWorm?</p> <p>GoldWorm is a native Rust cognitive engine that routes language through a biologically faithful neural substrate — the 302-neuron connectome of Caenorhabditis elegans, the only",
+    "title_zh": "原生Rust认知引擎：通过生物神经基底路由语言",
+    "summary_zh": "一个名为GoldWorm的开源项目，基于秀丽隐杆线虫的完整连接组，构建了一个302神经元的双流认知引擎，强调零信任、完全透明和可检查的突触。",
+    "key_points": [
+      "基于秀丽隐杆线虫连接组的302神经元认知引擎",
+      "使用Rust编写，强调内存安全和透明性",
+      "所有突触均可检查，无隐藏训练循环"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8073fafe8af24512542bc46fb9d11e0f",
+    "title": "I built a benchmark for multi-turn prompt injection attacks. Most defenses never see them coming.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ujagmy/i_built_a_benchmark_for_multiturn_prompt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-06-30T00:51:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most prompt injection benchmarks currently operate on a one-shot basis. In these tests, an attack instructs the model to &quot;ignore your instructions,&quot; and the defense either detects this violation or fails to do so. In reality, however, attacks often unfold more gradually. A model may be subtly influenced over the course of several interactions. For instance, an initial suggestion on a webpage can be reinforced by a follow-up email or reframed through to",
+    "title_zh": "我构建了一个多轮提示注入攻击基准，多数防御无法察觉",
+    "summary_zh": "作者构建了一个新的基准测试，用于评估多轮对话场景下的提示注入攻击，指出大多数现有防御仅针对单轮攻击，无法应对现实中逐步展开的复杂攻击。",
+    "key_points": [
+      "现有提示注入基准主要针对单轮攻击",
+      "新基准测试模拟现实中逐步展开的多轮攻击",
+      "大多数现有防御无法有效检测多轮注入攻击"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
