@@ -481,5 +481,150 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2828f0aa19aea84ae0a6a31e44e5843f",
+    "title": "苹果或明年将推出新款iPad Pro和重新设计的入门版MacBook Pro",
+    "url": "https://36kr.com/newsflashes/3877693547900930?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-01T23:13:51+00:00",
+    "content_snippet": "7月1日消息，据报道，苹果正测试四款新一代iPad Pro，计划于2027年春季发布，维持11英寸和13英寸两种尺寸，升级重点包括更快的处理器，并可能采用均热板散热系统以提升持续性能。同时，苹果还计划最早于2027年上半年推出重新设计的14英寸入门版MacBook Pro，外观将向未来高端触控版MacBook靠拢。报道称，苹果还计划于2027年上半年推出首款M7芯片，并发布第二代iPhone Air、入门版iPhone 18等产品。不过，由于内存和芯片供应紧张，部分产品发布时间仍可能调整。（界面）",
+    "title_zh": "苹果或明年将推出新款iPad Pro和重新设计的入门版MacBook Pro",
+    "summary_zh": "苹果计划于2027年春季发布新一代iPad Pro，升级处理器和散热系统；同时将在2027年上半年推出重新设计的14英寸入门版MacBook Pro及首款M7芯片。",
+    "key_points": [
+      "新款iPad Pro将升级处理器并采用均热板散热系统",
+      "重新设计的14英寸入门版MacBook Pro将于2027年上半年推出",
+      "首款M7芯片及第二代iPhone Air等产品也在计划中"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "45817fd597cabb069ac5545935af4ecd",
+    "title": "Valar与英伟达合作建设节水核能数据中心",
+    "url": "https://36kr.com/newsflashes/3877684640428034?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-01T23:04:47+00:00",
+    "content_snippet": "核能初创公司Valar Atomics与英伟达宣布，双方已在犹他州成功演示了首个由微型核反应堆供电的AI数据中心，旨在应对AI算力激增带来的用水和能源挑战。此次演示将Valar的高温气冷微型反应堆与英伟达的Blackwell芯片平台相结合。该反应堆采用氦气而非水进行冷却，配合英伟达DSX数据中心的闭环液冷设计，将设施年用水量从传统的每兆瓦约260万加仑降至接近零。（新浪财经）",
+    "title_zh": "Valar与英伟达合作建设节水核能数据中心",
+    "summary_zh": "核能初创公司Valar Atomics与英伟达合作，在犹他州成功演示了由微型核反应堆供电的AI数据中心，利用氦气冷却将年用水量降至接近零。",
+    "key_points": [
+      "微型核反应堆结合英伟达Blackwell芯片，实现AI数据中心供电",
+      "采用氦气冷却技术，将年用水量从260万加仑降至接近零"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cfc86298718f9b2ca3aaf8848475f7ef",
+    "title": "马斯克否认SpaceX在IPO前展示AI手持设备原型",
+    "url": "https://36kr.com/newsflashes/3877682422116352?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-01T23:02:32+00:00",
+    "content_snippet": "马斯克周三否认了某知名财经媒体关于SpaceX在IPO前向投资者展示AI手持设备原型的报道，称其“完全不实”。（新浪财经）",
+    "title_zh": "马斯克否认SpaceX在IPO前展示AI手持设备原型",
+    "summary_zh": "马斯克否认某财经媒体关于SpaceX在IPO前向投资者展示AI手持设备原型的报道，称其完全不实。",
+    "key_points": [
+      "马斯克驳斥SpaceX展示AI手持设备原型的传闻",
+      "称相关报道完全不实"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7a40fe6c3c662a9adae5e7a445ba099e",
+    "title": "you can just reset rate limits on things",
+    "url": "https://nitter.net/gdb/status/2072443674307535239#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-01T22:14:10+00:00",
+    "content_snippet": "<p>you can just reset rate limits on things</p>\n<hr />\n<blockquote>\n<b>dominik kundel @aiDotEngineer (@dkundel)</b>\n<p>\n<p>🖲️ We love our community! To celebrate getting together with many of you we brought <a href=\"https://nitter.net/thsottiaux\" title=\"Tibo\">@thsottiaux</a>'s reset button to AIE World's Fair.<br />\n<br />\nCongrats Melanie for pushing the button 🎉 <br />\n<br />\nAll Codex Go/Plus/Pro subscribers around the world are receiving a reset in the bank! Happy Codexing!</p>\n<img src=\"htt",
+    "title_zh": "你可以直接重置速率限制",
+    "summary_zh": "Greg Brockman在X上回应一条关于重置按钮的推文，表示可以直接重置速率限制，内容轻松幽默。",
+    "key_points": [
+      "Greg Brockman分享趣味性技术建议",
+      "提及重置速率限制的简单方法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ed52cd24f4e629d8430c9490cdf75c38",
+    "title": "Hamiltonian Neural Networks from a Differential Geometry Perspective",
+    "url": "https://www.reddit.com/r/artificial/comments/1ukzk3k/hamiltonian_neural_networks_from_a_differential/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-01T22:02:54+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ukzk3k/hamiltonian_neural_networks_from_a_differential/\"> <img alt=\"Hamiltonian Neural Networks from a Differential Geometry Perspective\" src=\"https://external-preview.redd.it/7q8iktqnOmHdHgGNxMCQbvHkXz6extXfcSIuznTr8CA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=158ee06f289fc1e95a2efb1e71a67adbc515092f\" title=\"Hamiltonian Neural Networks from a Differential Geometry Perspective\" /> </a> </td><td> &#32; submitted by &#3",
+    "title_zh": "从微分几何视角看哈密顿神经网络",
+    "summary_zh": "一篇Reddit帖子分享了关于哈密顿神经网络的研究，从微分几何角度探讨其理论基础，可能涉及物理与机器学习交叉领域。",
+    "key_points": [
+      "从微分几何视角分析哈密顿神经网络",
+      "探讨物理与机器学习交叉理论基础"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "132c89f1b7148babf8c60e0191d4b19f",
+    "title": "Kitboga posted an interesting guide on how to mess with scam chatbots",
+    "url": "https://www.reddit.com/r/artificial/comments/1ukyxs1/kitboga_posted_an_interesting_guide_on_how_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-01T21:38:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.youtube.com/watch?v=lk3jCuITwcE\">https://www.youtube.com/watch?v=lk3jCuITwcE</a></p> <p>TLDR: If you give a chatbot a few recursive instructions, it will start using a large number of tokens and hallucinating. I wonder if this applies to all LLMs or if it's just the cheap scammer versions. If it works for all LLMs, it might be this generation of AI's version of &quot;This sentence is false&quot;.</p> </div><!-- SC_ON --> &#32; submitted by &",
+    "title_zh": "Kitboga发布有趣指南教人如何扰乱诈骗聊天机器人",
+    "summary_zh": "Kitboga通过视频指南分享了一种方法，通过递归指令导致诈骗聊天机器人消耗大量令牌并产生幻觉，可能适用于所有大语言模型。",
+    "key_points": [
+      "递归指令可使聊天机器人消耗大量令牌并产生幻觉",
+      "该方法可能适用于所有大语言模型，用于扰乱诈骗机器人"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
