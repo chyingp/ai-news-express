@@ -385,5 +385,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6e9152b8c4c099878c519e5c61d286b3",
+    "title": "Im starting to think small models are smarter than large models",
+    "url": "https://www.reddit.com/r/artificial/comments/1ukxurf/im_starting_to_think_small_models_are_smarter/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-01T20:57:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>ive been working with different models a lot &amp; when it comes to reasoning it seems like a smaller model is actually better. Ive learned more from having a converation with an open source model vs asking Claude or GPT the same questions and im starting to think they may potentially be designed to mislead you when creating your own models .. not too much with ChatGPT but Claude seems to have it bad, especially with the finetuning for uncertainty of consciousne",
+    "title_zh": "我开始认为小模型比大模型更聪明",
+    "summary_zh": "一位用户分享使用不同AI模型的经验，认为在推理任务上，与开源小模型对话比询问Claude或GPT等大模型学到更多，引发对小模型能力的讨论。",
+    "key_points": [
+      "用户认为小模型在推理表现上优于大模型",
+      "开源模型对话带来的学习收获超过Claude和GPT",
+      "观点引发社区对模型规模与智能关系的探讨"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2c99e0cf3358f3582ccfd061fc686dba",
+    "title": "ServiceNow's customer chief just called \"tokenmaxxing\" an AI hype cycle",
+    "url": "https://www.reddit.com/r/artificial/comments/1ukxfb6/servicenows_customer_chief_just_called/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-01T20:41:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>ServiceNow's customer chief called tokenmaxxing an AI hype cycle in the Observer last week. Not some startup founder flexing contrarian creds — the guy who runs their customer org telling everyone the wrong meter is running the show.</p> <p>Salesforce announced $2 per resolved issue last Wednesday. Same direction, different side of the negotiating table.</p> <p>Stop measuring how much work you did. Start measuring what actually got done.</p> <p>I've sat in enoug",
+    "title_zh": "ServiceNow客户主管称“token最大化”是AI炒作周期",
+    "summary_zh": "ServiceNow的客户主管在《观察家》报上将“token最大化”现象称为AI炒作周期，认为业界正用错误的指标衡量AI发展，并提及Salesforce宣布的20亿美元AI投资。",
+    "key_points": [
+      "ServiceNow高管批评用token消耗衡量AI价值是炒作",
+      "指出业界过度关注错误指标，而非实际业务成效",
+      "新闻提及Salesforce的20亿美元AI相关投资"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "86d3f223cb9594f3efacc31905d1eb07",
+    "title": "Do you find yourself genuinely building skills with AI assistance, or do you notice your baseline abilities getting softer over time because you reach for the tool first?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ukwwtb/do_you_find_yourself_genuinely_building_skills/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-01T20:22:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been thinking about this a lot lately. There's a real tension between using AI as a learning tool versus using it as a shortcut that bypasses learning entirely.</p> <p>When I use something like ChatGPT or Claude to understand a new concept, sometimes I come away genuinely understanding it better than I would have from a textbook. Other times I just copy the output and move on, having learned nothing.</p> <p>The question is whether that's a problem with AI i",
+    "title_zh": "AI辅助下你是在真正构建技能，还是能力在退化？",
+    "summary_zh": "一位用户反思使用AI的矛盾心理：作为学习工具时能加深理解，但作为捷径时可能绕过学习过程，导致基础能力软化，询问社区的真实体验。",
+    "key_points": [
+      "用户探讨AI作为学习工具与捷径之间的张力",
+      "反思过度依赖AI是否会导致个人技能退化",
+      "提及使用ChatGPT或Claude辅助学习的个人体验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3a297a0d38e71174f4c30f102553fdcb",
+    "title": "NASA chief praises progress Blue Origin is making after launch failure",
+    "url": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-01T19:57:36+00:00",
+    "content_snippet": "\"We've got time into 2027 before we're getting nervous.\"",
+    "title_zh": "NASA局长称赞蓝色起源发射失败后取得的进展",
+    "summary_zh": "NASA局长比尔·纳尔逊对蓝色起源在近期发射失败后展现的进步表示赞赏，称在2027年之前仍有时间窗口，不必过度紧张。",
+    "key_points": [
+      "NASA局长肯定蓝色起源失败后的恢复进展",
+      "强调2027年前仍有时间解决技术问题",
+      "暗示对蓝色起源未来项目的信心和耐心"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
