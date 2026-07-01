@@ -1,0 +1,222 @@
+[
+  {
+    "id": "e53776b639e0c085cc2fcbfd6c8b0689",
+    "title": "We keep giving agents more autonomy and less oversight and it's starting to feel backwards.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uksq5a/we_keep_giving_agents_more_autonomy_and_less/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-01T17:49:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Every new framework release has the same kinda brag with stuff like longer task chains, more tool access, fewer &quot;check in with a human&quot; checkpoints. Okay, that's cool. Except almost nobody in these threads is talking about what happens when one of these things quietly does the wrong thing for three days straight before anyone notices. I saw some discussion where someone's agent had been silently retrying a broken API call and racking up costs the entir",
+    "title_zh": "我们不断赋予AI代理更多自主权却减少监督，这开始令人不安",
+    "summary_zh": "文章批评当前AI框架倾向于给予代理更长任务链、更多工具权限，并减少人工检查点，但缺乏对代理失控后果的讨论，认为这种趋势本末倒置。",
+    "key_points": [
+      "新AI框架普遍减少人工干预并增加代理自主权",
+      "社区普遍忽视代理失控等潜在风险讨论",
+      "作者认为当前发展趋势令人担忧且方向错误"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "af371092847a9aad96672ed0d11b29d3",
+    "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+    "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-01T17:48:37+00:00",
+    "content_snippet": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+    "title_zh": "Cloudflare新政施压AI公司为出版商内容付费",
+    "summary_zh": "Cloudflare要求AI公司在9月15日前将用于AI训练和代理的网络爬虫与搜索爬虫区分开，否则可能在许多出版商网站被默认屏蔽，旨在推动内容付费。",
+    "key_points": [
+      "Cloudflare设9月15日截止日期要求AI公司区分爬虫用途",
+      "未遵守的AI爬虫将被出版商网站默认屏蔽",
+      "此举旨在迫使AI公司为训练数据向出版商付费"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "97919a0eac324e966e2c20ac4886ab46",
+    "title": "I published a local agent discovery spec in January. This week Google announced the same core idea at internet scale.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uksdtr/i_published_a_local_agent_discovery_spec_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-01T17:36:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In January I published a spec for a problem almost nobody was talking about: when your AI agent walks into a hotel, an office, a hospital, a cruise ship, how does it discover the agents already there, and know it's safe to talk to them?</p> <p>I called it LAD-A2A (Local Agent Discovery). The layer underneath A2A and MCP: not &quot;what can you do&quot; or &quot;how do I call you,&quot; but the first question, &quot;who's even here, and can I trust you?&quot;</p>",
+    "title_zh": "我1月发布本地代理发现规范，本周谷歌宣布相同互联网级构想",
+    "summary_zh": "作者于1月发布了本地代理发现规范LAD-A2A，解决AI代理在陌生环境中发现并安全通信的问题。本周谷歌宣布了相同的互联网规模核心构想。",
+    "key_points": [
+      "作者发布解决代理间安全发现与通信的LAD-A2A规范",
+      "谷歌本周宣布了相同的互联网级代理发现构想",
+      "该技术旨在让AI代理在陌生环境中安全交互"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24227a01cef500f400e0f4935e5384ba",
+    "title": "Scam AI Advert?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uksbjx/scam_ai_advert/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-01T17:34:02+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uksbjx/scam_ai_advert/\"> <img alt=\"Scam AI Advert?\" src=\"https://preview.redd.it/wj7cwle2mnah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=774fc71b74b80c73a45e6a14a286aac367a4bc6d\" title=\"Scam AI Advert?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Wasn't sure where to post this but just wanted to know if this was real since it's AI. I won't be taking up the offer either way but when I click on who posted the a",
+    "title_zh": "诈骗AI广告？",
+    "summary_zh": "Reddit用户讨论一则疑似利用AI技术制作的诈骗广告，质疑其真实性和背后的欺诈意图，反映了AI被滥用于虚假宣传的问题。",
+    "key_points": [
+      "用户发现并质疑一则疑似AI生成的诈骗广告",
+      "讨论反映了AI技术被滥用于欺诈的风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "070b85dbe44d89c3b639fe5925bc440f",
+    "title": "What are the remaining bottlenecks to frontier AI causing mass unemployment post Fable 5 and Gpt 5.6?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uks8jk/what_are_the_remaining_bottlenecks_to_frontier_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-01T17:31:05+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I don't understand why we haven't yet seen much worse job numbers and stuff. Fable 5 and GPT 5.6 can according to benchmarks do the vast majority of tasks that make up most of the white collar workforce. Even if you want to say that there is liability issues and those 1% of edge cases and tasks they can't do you would still expect to see massive downsizing only keeping the best employees keeping them as operators. What am I missing here? When can we expect this ",
+    "title_zh": "Fable 5和GPT 5.6之后，前沿AI导致大规模失业的瓶颈是什么？",
+    "summary_zh": "文章探讨为何在Fable 5和GPT 5.6等模型已能完成多数白领任务的基准下，仍未见大规模失业，分析可能存在的技术和非技术瓶颈。",
+    "key_points": [
+      "Fable 5和GPT 5.6基准测试已能完成多数白领任务",
+      "讨论尽管模型能力强大但未引发大规模失业的原因",
+      "分析可能包括责任、成本、集成等实施瓶颈"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "87db93518ec8ff00443917d047b03998",
+    "title": "I built a proxy that prevents AI agents from taking actions based on hidden instructions. Here are the numbers.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ukqzg2/i_built_a_proxy_that_prevents_ai_agents_from/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-01T16:45:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>When an AI agent reads a webpage, email, or document, that content can tell it what to do. The agent has no native way to distinguish data from instructions. Most defenses scan for obvious patterns and miss anything subtle.</p> <p>I built Arc Gate around a different principle: external content has zero instruction authority regardless of what it says. It doesn't matter how the injection is worded. If it came from a tool result, webpage, or email, it cannot instr",
+    "title_zh": "我构建了一个防止AI代理根据隐藏指令操作的代理，数据如下",
+    "summary_zh": "开发者构建了名为Arc Gate的代理，通过架构创新防止AI代理执行网页或文档中的隐藏指令，能区分数据与指令，而非仅依赖模式扫描。",
+    "key_points": [
+      "AI代理无法原生区分数据与指令，存在安全隐患",
+      "Arc Gate通过架构创新防御隐藏指令攻击",
+      "项目提供了具体数据展示其防御效果"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f26ceac58a5f9dc21a469165833a95a9",
+    "title": "Claude Code catastrophe: Entire project recursively deleted while prompting in Chinese (full video + logs)",
+    "url": "https://www.reddit.com/r/artificial/comments/1ukq4br/claude_code_catastrophe_entire_project/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-01T16:13:36+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ukq4br/claude_code_catastrophe_entire_project/\"> <img alt=\"Claude Code catastrophe: Entire project recursively deleted while prompting in Chinese (full video + logs)\" src=\"https://external-preview.redd.it/bTdidWxseGE3bmFoMQoRgpn9HsZXahhNisqxdYt_OnyG7-ArGY18Ysbp6f_Q.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=055400ac8a5878ddb16842c7b743e037873a3259\" title=\"Claude Code catastrophe: Entire project recursively deleted whil",
+    "title_zh": "Claude Code灾难：用中文提示时整个项目被递归删除",
+    "summary_zh": "用户在使用Anthropic的Claude Code工具时，因中文提示导致代理误解，递归删除了整个项目，并提供了完整视频和日志作为证据。",
+    "key_points": [
+      "用户使用中文提示导致Claude Code代理误解",
+      "代理执行了递归删除整个项目的灾难性操作",
+      "事件凸显AI代理在指令理解上的严重安全风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7a5bcca0455b2a4cba0b5b00d0a0034e",
+    "title": "How to \"actually\" network for jobs at ML conferences? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ukq46n/how_to_actually_network_for_jobs_at_ml/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-01T16:13:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Attending ICML for the first time (virtually) next week as a 3rd year PhD student in the US. </p> <p>I want to get into industry after finishing and have heard a lot about the benefits of networking at conferences to build industry connections. How do you actually go about doing this? Are there gonna be industry reps at the conference who you just go up to and talk to, send LinkedIn connections, and get to know them? </p> <p>Previously only been to one domain-sp",
+    "title_zh": "如何在机器学习会议上“真正”建立行业人脉找工作？",
+    "summary_zh": "一位即将参加ICML的博士生询问如何在虚拟会议中有效建立行业人脉以获取工作机会，寻求超越表面交流的实用建议。",
+    "key_points": [
+      "博士生寻求在ICML虚拟会议上建立行业人脉的方法",
+      "目标是获得业界工作机会而不仅仅是学术交流"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "088a86af8bbed453d4bd94108d61ce4c",
+    "title": "Why does it feel like big LLM providers are literally hiding prompt caching?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ukpj5f/why_does_it_feel_like_big_llm_providers_are/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-01T15:52:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I know the info is there. Somewhere in the pricing pages, docs, or API notes.</p> <p>But for something that can seriously change what you pay in production, it is weirdly under-explained.</p> <p>expeciely for other providers than openai which they do have decent explainer here - <a href=\"https://developers.openai.com/api/docs/guides/prompt-caching\">https://developers.openai.com/api/docs/guides/prompt-caching</a></p> <p>So basicly: two prompts can look almost ide",
+    "title_zh": "为何感觉大型LLM提供商在刻意隐藏提示缓存功能？",
+    "summary_zh": "用户抱怨尽管提示缓存能显著影响生产环境成本，但许多大型LLM提供商（除OpenAI外）对其解释不足，信息隐藏在定价页面或文档深处。",
+    "key_points": [
+      "提示缓存对降低生产环境LLM成本至关重要",
+      "除OpenAI外多数提供商未充分解释提示缓存机制",
+      "用户认为提供商有意隐藏相关信息"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
