@@ -1181,5 +1181,440 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4c27d847a811da6ff02f691d6668627f",
+    "title": "Netflix uses AI to recreate Gene Wilder's voice for new Willy Wonka competition show",
+    "url": "https://www.reddit.com/r/artificial/comments/1ukfejv/netflix_uses_ai_to_recreate_gene_wilders_voice/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-01T08:02:59+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ukfejv/netflix_uses_ai_to_recreate_gene_wilders_voice/\"> <img alt=\"Netflix uses AI to recreate Gene Wilder's voice for new Willy Wonka competition show\" src=\"https://external-preview.redd.it/w2Ked7kqz4QgBQj-d97zODeaSPANnlQvK4pm3UZ6c9Y.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f499aa8572ba46e84e079fa328bce39293d3dbed\" title=\"Netflix uses AI to recreate Gene Wilder's voice for new Willy Wonka competition show\" /> </a> <",
+    "title_zh": "Netflix 使用 AI 为新的《威利·旺卡》竞赛节目重现吉恩·怀尔德的声音",
+    "summary_zh": "Netflix 在一档新的《威利·旺卡》主题竞赛节目中，利用人工智能技术重现了已故演员吉恩·怀尔德的声音，引发关于 AI 应用伦理的讨论。",
+    "key_points": [
+      "Netflix 用 AI 重现吉恩·怀尔德声音用于新节目",
+      "涉及已故演员声音的 AI 使用伦理问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "34ac91fc11bd910ff5e7aac57ff08fb7",
+    "title": "中昊芯英正式发布新一代高性能TPU AI专用算力芯片“须臾®”",
+    "url": "https://36kr.com/newsflashes/3876796652253442?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-01T08:01:29+00:00",
+    "content_snippet": "36氪获悉，中昊芯英近日正式发布新一代全自研高性能TPU AI专用算力芯片“须臾®”，同步推出搭载“须臾®”芯片构建的软硬件一体化智算底座泰则®2.0 AI高性能智算平台。目前，公司产品已成功部署于由深圳联通、天津移动、太极股份、江西上饶等运营商、政府机构、及科技企业建设的多个超大规模智算中心，并已在高校、科研机构等的科研计算平台与教学实验环境中投入使用。",
+    "title_zh": "中昊芯英正式发布新一代高性能TPU AI专用算力芯片“须臾®”",
+    "summary_zh": "中昊芯英推出自研高性能 TPU 芯片“须臾®”及智算平台泰则®2.0，已部署于多个超大规模智算中心，并投入科研与教学使用。",
+    "key_points": [
+      "发布全自研 TPU 芯片“须臾”及配套智算平台",
+      "已在运营商、政府及高校的智算中心部署使用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "77d601548870d2bbcfc9d984380016a3",
+    "title": "Claude Fable 5 is back — but it’ll block your regular coding requests (here’s why)",
+    "url": "https://www.reddit.com/r/artificial/comments/1ukfdmg/claude_fable_5_is_back_but_itll_block_your/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-01T08:01:25+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ukfdmg/claude_fable_5_is_back_but_itll_block_your/\"> <img alt=\"Claude Fable 5 is back — but it’ll block your regular coding requests (here’s why)\" src=\"https://external-preview.redd.it/GLPHC2KY-qNFfR15yM0D56sWNC1fhXzXIHlFl5PlvTU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ee66c64f45d8b66dc3163d3dd6898176780fc61\" title=\"Claude Fable 5 is back — but it’ll block your regular coding requests (here’s why)\" /> </a> </td><td",
+    "title_zh": "Claude Fable 5 回归，但会阻止常规编程请求",
+    "summary_zh": "Anthropic 的 Claude Fable 5 模式重新上线，但将主动屏蔽用户的常规编程请求，或为引导其特定用途。",
+    "key_points": [
+      "Claude Fable 5 模式重新上线",
+      "该模式会阻止不符合其定位的编程请求"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4b0086712ff988222948665d074e32b1",
+    "title": "西门子将在德国投资3亿欧元，扩大用于AI数据中心等的技术产能",
+    "url": "https://36kr.com/newsflashes/3876777898979593?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-01T07:42:24+00:00",
+    "content_snippet": "西门子7月1日宣布将在德国投资3亿欧元，大幅扩大用于全球能源转型及AI数据中心的关键技术产能。投资项目包括在德国奥芬巴赫新建一处供应商设施，以及扩建位于法兰克福的两家现有工厂。工程将于今年7月动工，供应商设施预计于2027年春季投产。该投资项目将在2030年底前创造700个新的就业岗位。（界面）",
+    "title_zh": "西门子将在德国投资3亿欧元扩大AI数据中心相关技术产能",
+    "summary_zh": "西门子宣布投资3亿欧元在德国新建供应商设施并扩建工厂，以扩大能源转型和 AI 数据中心关键技术产能，预计创造 700 个就业岗位。",
+    "key_points": [
+      "投资3亿欧元扩大 AI 数据中心关键技术产能",
+      "将在德国新建设施及扩建工厂，创造 700 个岗位"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eb9d1fdfbbd3f0c5095892184da4e952",
+    "title": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
+    "url": "https://www.qbitai.com/2026/07/441246.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-01T07:41:42+00:00",
+    "content_snippet": "Taste，决定天花板。",
+    "title_zh": "金融AI武道大会开赛，四道业务真题考验最优解",
+    "summary_zh": "一场金融 AI 领域的竞赛开幕，通过四道真实业务场景题目，测试 AI 模型寻找最优解的能力，强调算法品味决定上限。",
+    "key_points": [
+      "金融 AI 竞赛以真实业务命题测试模型能力",
+      "强调算法品味是决定模型表现天花板的关键"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d2b7c605557a3abe9c7149cb53ca8d54",
+    "title": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”",
+    "url": "https://www.qbitai.com/2026/07/441240.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "zh",
+    "published": "2026-07-01T07:32:23+00:00",
+    "content_snippet": "OpenSquilla 上线后数周内 GitHub star 增至数千量级",
+    "title_zh": "OpenSquilla 发布 0.4.0：AI 代码生成首次实现自我验证",
+    "summary_zh": "开源项目 OpenSquilla 发布 0.4.0 版本，实现了 AI 在编写代码后能进行自我验证的功能，短期内 GitHub 星标快速增长。",
+    "key_points": [
+      "AI 代码生成工具首次具备自我验证能力",
+      "OpenSquilla 发布新版后在 GitHub 获数千星标"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1442185cc166277c5837409b04915376",
+    "title": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台",
+    "url": "https://www.qbitai.com/2026/07/441237.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-07-01T07:29:32+00:00",
+    "content_snippet": "共同推进物理AI前沿技术探索。",
+    "title_zh": "群核科技三项成果入选ECCV 2026，联手英伟达探索物理AI仿真",
+    "summary_zh": "群核科技三篇论文被 ECCV 2026 收录，并与英伟达合作，共同推进物理 AI 仿真平台的前沿技术探索。",
+    "key_points": [
+      "三项研究成果入选计算机视觉顶会 ECCV 2026",
+      "与英伟达合作探索物理 AI 仿真平台"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e831768c854deb2b32ce4bddb5337b34",
+    "title": "秋声 | 31岁学霸冲港股IPO，李泽湘成最大赢家",
+    "url": "https://36kr.com/p/3876760686309385?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-01T07:25:33+00:00",
+    "content_snippet": "<p>本文约2500字，建议阅读5分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <blockquote>\n   <p><strong>编者按：</strong>AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。</p>\n   <p>鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第五期，本末动力。</p>\n  </blockquote>\n  <p>6月最后一周，本末动力（北京）科技股份有限公司通过港交所聆讯。</p>\n  <p>此次IPO，本末是以18C特专科技公司身份冲刺港交所主板，<strong>独家保荐人为中信证券（香港）。</strong>招股书显示，本末拟发行不超过约1.22亿股H股。</p>\n  <p>本末做的是“卖电机模组”生意，不同于做整机的机器人公司，本末核心壁垒在机器人关节上，即<strong>机器人直驱动力模组。</strong>相当于不需要外部减速器、直接输出扭矩的那颗集成运动",
+    "title_zh": "秋声 | 31岁学霸冲港股IPO，李泽湘成最大赢家",
+    "summary_zh": "本末动力通过港交所聆讯，其 31 岁的创始人冲刺 IPO，早期投资者李泽湘成为最大赢家，文章剖析了其上市路。",
+    "key_points": [
+      "本末动力通过港交所聆讯，冲刺 IPO",
+      "31 岁创始人带领公司上市，李泽湘为最大赢家"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "69467ff041178b9938d68fca9644d6ad",
+    "title": "最前线｜光子跃迁发布个人智能影像生态，推出AI戒指等产品布局多设备协同",
+    "url": "https://36kr.com/p/3876758574018822?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-01T07:25:13+00:00",
+    "content_snippet": "<p>6月30日，智能影像公司光子跃迁在深圳举行影像技术发布会，发布个人智能影像生态，并展示了包括运动相机LEAPTIC Cube、AI戒指在内的多款产品及未来生态规划。</p>\n  <p>光子跃迁表示，<strong>公司希望通过全链路AI能力连接不同影像设备，将传统影像设备从单纯的记录工具，升级为具备场景理解和智能协同能力的创作终端。</strong></p>\n  <p>发布会上，光子跃迁进一步介绍了今年推出的首款产品——LEAPTIC Cube。这款产品定位为8K AI拇指运动相机，重量约55.9克，搭载1/1.3英寸传感器，支持8K/30fps视频录制和4K/120fps慢动作拍摄，并采用磁吸式模块化设计，可搭配挂脖支架、帽檐夹、自拍杆、电池模块等配件，以适配运动、Vlog等不同拍摄场景。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260701/v2_51a05ed7163f48a1bdc42f20755ebf5e@5920579_oswg606101oswg1265os",
+    "title_zh": "光子跃迁发布个人智能影像生态，推出AI戒指等产品",
+    "summary_zh": "光子跃迁发布个人智能影像生态，并推出 8K AI 运动相机和 AI 戒指等产品，旨在通过 AI 连接多设备，实现从记录到智能创作的升级。",
+    "key_points": [
+      "发布个人智能影像生态及 AI 戒指、运动相机等新品",
+      "通过 AI 连接多设备，实现智能协同创作"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c8f72e0b9e6a568dd30cd52eb761999f",
+    "title": "Loop世界模型论文登顶Hugging Face，来自中国一家初创，周鸿祎陆奇都投了",
+    "url": "https://www.qbitai.com/2026/07/441225.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-07-01T07:24:48+00:00",
+    "content_snippet": "重写“AI如何反复推演世界”",
+    "title_zh": "中国初创公司提出Loop世界模型，论文登顶Hugging Face",
+    "summary_zh": "一篇关于 Loop 世界模型的论文在 Hugging Face 上登顶，该模型能重写 AI 推演世界的方式，来自一家获周鸿祎和陆奇投资的中国初创公司。",
+    "key_points": [
+      "Loop 世界模型论文在 Hugging Face 排名第一",
+      "该模型可重塑 AI 对世界的推演方式",
+      "来自获周鸿祎、陆奇投资的中国初创公司"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fbf47451df1c468e0b96c65a99d1cf8b",
+    "title": "卡帕西李飞飞辛顿都投了的Transformer专用芯片，签下10亿美元大单",
+    "url": "https://www.qbitai.com/2026/07/441183.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-01T07:15:29+00:00",
+    "content_snippet": "已流片",
+    "title_zh": "卡帕西李飞飞辛顿都投了的Transformer专用芯片，签下10亿美元大单",
+    "summary_zh": "一款由AI领域多位知名人士投资的Transformer专用芯片已成功流片，并获得了价值10亿美元的大额订单，标志着AI专用硬件商业化取得重大进展。",
+    "key_points": [
+      "获卡帕西、李飞飞、辛顿等AI专家投资",
+      "芯片已流片并签下10亿美元大单",
+      "专为Transformer架构设计，瞄准AI计算需求"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "baf469a0856c8a069cb5396f048f48bc",
+    "title": "软银完成对OpenAI的100亿美元追加投资",
+    "url": "https://36kr.com/newsflashes/3876748840677638?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-01T07:12:51+00:00",
+    "content_snippet": "软银集团7月1日发布声明称，已于当日通过软银愿景基金二号完成对OpenAI的100亿美元追加投资，计划10月1日完成金额为100亿美元的第三笔投资。（界面）",
+    "title_zh": "软银完成对OpenAI的100亿美元追加投资",
+    "summary_zh": "软银集团通过愿景基金二号完成了对OpenAI的100亿美元追加投资，并计划在10月1日再完成一笔100亿美元的投资，持续加码AI领域。",
+    "key_points": [
+      "软银完成对OpenAI的100亿美元追加投资",
+      "计划10月1日完成第三笔100亿美元投资",
+      "投资通过软银愿景基金二号执行"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bb0ac8f2ae49dcc497de9d110ffd064d",
+    "title": "which of this month's ai releases changed your actual workflow, not just your feed",
+    "url": "https://www.reddit.com/r/artificial/comments/1ukecei/which_of_this_months_ai_releases_changed_your/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-01T07:01:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>feels like every week this month theres a new model or a new robot demo and the feed just resets. sonnet 5, geminis video editing thing, the ubtech robots, whatever fable ends up being once its back. curious which of these actually changed something in your day to day versus which ones you watched a demo of once and moved on from.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/agiblox\"> /u/agiblox </a> &#32; to &#32; <a hr",
+    "title_zh": "本月哪些AI发布真正改变了你的工作流，而不只是信息流？",
+    "summary_zh": "Reddit用户讨论本月众多AI新品中，哪些真正融入了日常工作流，而非仅仅停留在新闻推送里，引发了对AI工具实用性的反思。",
+    "key_points": [
+      "讨论AI发布对实际工作流的改变程度",
+      "用户反思AI工具的实用价值",
+      "提及Sonnet 5、Gemini等近期发布"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9b4867b15161a0afea9fc4b8ef162785",
+    "title": "Anthropic launches Claude Sonnet 5, most agentic Sonnet yet, priced at $2/$10 per million tokens through August",
+    "url": "https://www.reddit.com/r/artificial/comments/1uke6n2/anthropic_launches_claude_sonnet_5_most_agentic/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-01T06:52:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Anthropic released Claude Sonnet 5 on June 30, positioning it as the most agentic model in the Sonnet line so far. It's a step up from Sonnet 4.6 on reasoning, tool use, coding, and general knowledge work, and Anthropic says it narrows the performance gap to the larger Opus 4.8 model while running at a fraction of the cost.</p> <p>Safety testing found Sonnet 5 has a lower rate of hallucination, sycophancy, and other undesirable behaviors than its predecessor, th",
+    "title_zh": "Anthropic发布Claude Sonnet 5：迄今为止最具智能体能力的Sonnet模型",
+    "summary_zh": "Anthropic于6月30日发布Claude Sonnet 5模型，在推理、工具使用、编码等方面提升显著，缩小了与大型模型的性能差距，价格具竞争力。",
+    "key_points": [
+      "Sonnet 5在推理、工具使用和编码能力上大幅提升",
+      "被定位为最具智能体能力的Sonnet模型",
+      "定价为每百万Tokens输入2美元/输出10美元"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c0d89f2a71b2a45b16efc891029091c3",
+    "title": "When does using AI stop being collaboration and start being outsourcing your thinking?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ukdp8x/when_does_using_ai_stop_being_collaboration_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-01T06:25:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been thinking a lot lately about how I personally use AI tools in creative and professional work, and I'm genuinely curious where others draw the line.</p> <p>There's a real difference between using AI to brainstorm, get unstuck, or pressuretest ideas versus just outsourcing the thinking entirely. But in practice that line gets blurry fast. You start by asking for a rough outline, then you're editing its draft, then you're mostly just accepting suggestions,",
+    "title_zh": "使用AI何时从协作变为外包思考？",
+    "summary_zh": "一篇讨论AI使用边界的文章，探讨在创意和工作中，利用AI进行头脑风暴与完全依赖AI输出之间的界限，引发对独立思考的反思。",
+    "key_points": [
+      "探讨AI协作与外包思考的界限",
+      "反思AI在创意和职业工作中的角色",
+      "强调保持独立思考的重要性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "07b261a5d31296dc7eed53c20361baf8",
+    "title": "卖Token也不是稳赚不赔！硅基流动招股书来了",
+    "url": "https://www.qbitai.com/2026/07/441127.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-01T05:52:09+00:00",
+    "content_snippet": "AI推理时代的Token工厂",
+    "title_zh": "卖Token也不是稳赚不赔！硅基流动招股书来了",
+    "summary_zh": "AI推理服务商‘硅基流动’发布招股书，揭示了AI Token销售业务的财务细节，表明该行业并非稳赚不赔，并展现了其‘Token工厂’的商业模式。",
+    "key_points": [
+      "AI推理服务商硅基流动发布招股书",
+      "招股书显示卖Token并非稳赚不赔",
+      "公司定位为AI推理时代的Token工厂"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9bf18fd7766b67ddb7cb6b2797660b6d",
+    "title": "Introducing GeneBench-Pro — testing whether models can handle the kind of judgment-heavy analysis that real-world computational biology requires. Problems would take a human expert around 20-40 hours to complete. GPT-5.6 Sol is a big step forward.",
+    "url": "https://nitter.net/gdb/status/2072191801122038207#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-01T05:33:19+00:00",
+    "content_snippet": "<p>Introducing GeneBench-Pro — testing whether models can handle the kind of judgment-heavy analysis that real-world computational biology requires.<br />\n<br />\nProblems would take a human expert around 20-40 hours to complete.<br />\n<br />\nGPT-5.6 Sol is a big step forward.</p>\n<img src=\"https://nitter.net/pic/media%2FHMHnCRNaQAAsOlp.jpg\" />\n\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well",
+    "title_zh": "推出GeneBench-Pro基准：GPT-5.6 Sol在计算生物学判断型分析上取得重大进步",
+    "summary_zh": "OpenAI总裁Greg Brockman宣布推出GeneBench-Pro基准测试，用于评估模型在真实计算生物学中的判断力，并指出GPT-5.6 Sol在此任务上取得了巨大进步。",
+    "key_points": [
+      "GeneBench-Pro测试模型的计算生物学判断分析能力",
+      "测试问题需人类专家20-40小时完成",
+      "GPT-5.6 Sol在此基准上表现突出"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "84dcf6cd672b4c61e24c83514a37b126",
+    "title": "Codex has gotten very good",
+    "url": "https://nitter.net/gdb/status/2072186947515355283#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-01T05:14:02+00:00",
+    "content_snippet": "<p>Codex has gotten very good</p>\n<hr />\n<blockquote>\n<b>Corey Quinn (@QuinnyPig)</b>\n<p>\n<p>Okay I owe my <a href=\"https://nitter.net/OpenAI\" title=\"OpenAI\">@OpenAI</a> friends an apology for sleeping on Codex. I was not aware how strong your game was. This is... really quite something.</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/QuinnyPig/status/2072132613196898714#m\">https://nitter.net/QuinnyPig/status/2072132613196898714#m</a>\n</footer>\n</blockquote>",
+    "title_zh": "Codex已变得非常出色",
+    "summary_zh": "OpenAI总裁Greg Brockman转发评论，称Codex编程能力已变得非常强大，其表现令人印象深刻，获得了用户的认可。",
+    "key_points": [
+      "Codex编程能力获得用户高度评价",
+      "OpenAI总裁转发了对Codex的称赞",
+      "表明Codex的代码生成能力有显著提升"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
