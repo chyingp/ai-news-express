@@ -416,5 +416,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "37a05be6fdb4114cb4a91cf056c69a43",
+    "title": "Eventually, much of AI will converge towards intuition-guided symbolic world modeling, i.e. deep learning-guided program synthesis. It is inevitable. Symbolic modeling lets a system construct a compact, reusable, highly generalizable mental model of a problem space using minimal data.",
+    "url": "https://nitter.net/fchollet/status/2072779641639875048#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-02T20:29:11+00:00",
+    "content_snippet": "<p>Eventually, much of AI will converge towards intuition-guided symbolic world modeling, i.e. deep learning-guided program synthesis. It is inevitable. Symbolic modeling lets a system construct a compact, reusable, highly generalizable mental model of a problem space using minimal data.</p>",
+    "title_zh": "AI 终将走向直觉引导的符号化世界建模",
+    "summary_zh": "AI 专家 François Chollet 预测，AI 的发展将最终收敛到深度学习引导的程序合成，即直觉引导的符号化世界建模，这种方法能用极少数据构建紧凑且可复用的心智模型。",
+    "key_points": [
+      "AI 未来将趋向直觉引导的符号化世界建模",
+      "该方法结合深度学习与程序合成，数据效率高",
+      "符号模型能构建可复用、高度泛化的系统"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f4b4508296004a842e3deb7086bba681",
+    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-02T20:11:59+00:00",
+    "content_snippet": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+    "title_zh": "Jersey Mike's 三明治连锁店 IPO 文件竟也提及 AI",
+    "summary_zh": "TechCrunch 评论称，三明治连锁店 Jersey Mike's 的 IPO 文件中竟也出现 AI 相关表述，这反映出当前 AI 炒作已渗透到完全无关的传统行业，泡沫现象明显。",
+    "key_points": [
+      "连锁三明治店 IPO 文件也提及 AI 概念",
+      "凸显 AI 炒作已渗透非科技传统行业",
+      "TechCrunch 以此批评 AI 泡沫现象"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e237b6b22b242c8e4d4814a3858c9dad",
+    "title": "CollegeConnekt Passport: AI that turns a conversation into a full Common App profile (activities, essays, college list)",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulryuj/collegeconnekt_passport_ai_that_turns_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-02T19:26:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Thought this AI application might be interesting to share here given the use case.</p> <p>CollegeConnekt Passport (<a href=\"https://collegeconnekt.com/\">https://collegeconnekt.com/</a>) is a conversational AI tool for high school students applying to college. Instead of filling out forms, you just talk — and it extracts your activities list, honors, essay angles, and college list from the conversation.</p> <p>A few things that stood out:</p> <p>• Activities are ",
+    "title_zh": "CollegeConnekt Passport：用对话 AI 自动生成大学申请材料",
+    "summary_zh": "Reddit 上介绍了一款面向高中生的 AI 工具 CollegeConnekt Passport，它能通过对话将学生的经历转化为完整的通用申请档案，包括活动列表、文书和选校清单。",
+    "key_points": [
+      "AI 工具通过对话自动生成大学申请材料",
+      "可将经历转化为活动列表、文书和选校清单",
+      "面向高中生，简化复杂申请流程"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
