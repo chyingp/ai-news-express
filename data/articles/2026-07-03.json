@@ -488,5 +488,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1d8ad946abc17edabc8cf96ad339f05b",
+    "title": "特朗普称人工智能需要护栏，但应尽量减少限制",
+    "url": "https://36kr.com/newsflashes/3879099501981952?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-02T23:04:04+00:00",
+    "content_snippet": "美国总统唐纳德·特朗普表示，他认为人工智能技术需要一定标准，但希望避免施加可能妨碍美国企业的繁重限制。特朗普周四在白宫接受采访时表示：“你需要一些护栏，但你希望尽可能少做一些。”“当我们认为存在一个不良参与者，并且存在一定风险时，我们就会迅速且有效地制止它。我们最近就处理过这样一起案例，”他还表示，但并未说明具体所指对象。（新浪财经）",
+    "title_zh": "特朗普称人工智能需要护栏，但应尽量减少限制",
+    "summary_zh": "美国总统特朗普表示，AI技术需要一定标准，但希望避免过度监管，以免妨碍美国企业。他称政府会迅速制止不良行为者和风险，但未具体说明。",
+    "key_points": [
+      "特朗普主张AI需少量护栏，避免繁重监管",
+      "强调快速制止不良行为者，但未指明案例",
+      "表态旨在平衡风险管控与企业竞争力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1c5ce28ecc00f2271ac6c448f1edf961",
+    "title": "Seraph",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulwxlw/seraph/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-02T22:39:05+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For the past several months we’ve been building something different inside Auroch.<br /> We’ve been working on Seraph — our autonomous reasoning core. The idea was simple but ambitious: create an intelligence layer that doesn’t just wait for instructions. One that, when it has no active goals, looks at its own capabilities and decides what it should learn next.<br /> Today that loop came alive.<br /> We cleared Seraph’s goals and took it fully offline. Instead o",
+    "title_zh": "Seraph：Auroch 打造的自主推理核心",
+    "summary_zh": "Auroch 团队开发了名为 Seraph 的自主推理核心，旨在创建一个不等待指令、能主动推理的智能层，其理念简单但雄心勃勃。",
+    "key_points": [
+      "Auroch 构建 Seraph 自主推理核心，历时数月",
+      "目标打造不被动等待指令的主动智能层",
+      "项目理念简单但野心大，强调自主推理能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "48a7df8608c2811d3f6ae5688500ec16",
+    "title": "I used I-JEPA to generate SVG's and here is my code!",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulw51g/i_used_ijepa_to_generate_svgs_and_here_is_my_code/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-02T22:06:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>You may be familiar with Yann LeCunn's idea of JEPA and how it may be the real future of the artificial intelligence. </p> <p>I was reading the articles and watching his work on the topic and I was like it is one thing I could always use in my project of &quot;SVG generation&quot;. Well, before that I used a model like FLUX or SD (finetuned on vector styles) and then used vtracer. Which is not really bad. </p> <p>But when I saw I-JEPA and how it behaves with ima",
+    "title_zh": "我使用 I-JEPA 生成 SVG，附上代码！",
+    "summary_zh": "作者借鉴 Yann LeCun 的 JEPA 理念，将 I-JEPA 应用于 SVG 生成项目，并分享了实现代码，探索了图像生成的新可能。",
+    "key_points": [
+      "基于 Yann LeCun 的 JEPA 理念进行实践",
+      "将 I-JEPA 应用于 SVG 生成，提供代码分享",
+      "探索 JEPA 在图像生成领域的未来潜力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b9c581c9fbb3f61b698c81670952882f",
+    "title": "Independent benchmark shows big drops on Claude Fable 5 after its relaunch, here’s the actual context",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulvegw/independent_benchmark_shows_big_drops_on_claude/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-02T21:38:11+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ulvegw/independent_benchmark_shows_big_drops_on_claude/\"> <img alt=\"Independent benchmark shows big drops on Claude Fable 5 after its relaunch, here’s the actual context\" src=\"https://preview.redd.it/56ptyxfjyvah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9b5b9f385e33e99c0c634397daf4d255e12115e\" title=\"Independent benchmark shows big drops on Claude Fable 5 after its relaunch, here’s the actual context\" /> </a> </td",
+    "title_zh": "独立基准测试显示 Claude Fable 5 重新发布后性能大幅下降",
+    "summary_zh": "独立基准测试显示，Claude Fable 5 模型在重新发布后性能出现显著下降，文章提供了对此现象的实际背景和上下文分析。",
+    "key_points": [
+      "Claude Fable 5 重新发布后性能大幅下滑",
+      "独立基准测试揭示了性能下降问题",
+      "文章提供实际背景，分析性能下降原因"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
