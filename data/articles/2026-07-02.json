@@ -861,5 +861,76 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b47bc92a92329c7fd907e37c0845674f",
+    "title": "恒生指数公司联同数码港推出主题指数探索计划，促进以人工智能驱动指数创新",
+    "url": "https://36kr.com/newsflashes/3877929435082752?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-02T03:13:48+00:00",
+    "content_snippet": "36氪获悉，恒生指数公司与数码港于2026年6月30日宣布推出主题指数探索计划，与创科公司共同开发人工智能解决方案，加快主题指数的设计流程。本次计划为指数创新实验室第二阶段项目。实验室由恒生指数公司与数码港于2024年成立，旨在探索利用人工智能等前沿技术支援恒生指数公司的指数营运，并提供更切合市场需求的指数方案。",
+    "title_zh": "恒生指数公司联同数码港推出主题指数探索计划，促进以人工智能驱动指数创新",
+    "summary_zh": "恒生指数公司与数码港合作推出主题指数探索计划，旨在利用AI加速指数设计，为指数创新实验室第二阶段项目，以提供更适配市场需求的指数方案。",
+    "key_points": [
+      "恒生指数公司与数码港合作开发AI解决方案以加快主题指数设计",
+      "该计划为指数创新实验室第二阶段项目，旨在利用前沿技术优化指数运营"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8ca096c8fb9414a81482b2f38750f80d",
+    "title": "Follow-up 2: Commerce withdrew the Fable/Mythos controls, but the wording dodges the hosted-access question",
+    "url": "https://www.reddit.com/r/artificial/comments/1ul5x5r/followup_2_commerce_withdrew_the_fablemythos/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-02T02:43:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A week ago I posted that the Legion LegalTech case in D.C. was testing whether Commerce can treat access to a hosted frontier AI model as an export-control issue.</p> <p><a href=\"https://www.reddit.com/r/artificial/comments/1uexdqk/followup_hosted_ai_export_controls_are_now_being/\">https://www.reddit.com/r/artificial/comments/1uexdqk/followup_hosted_ai_export_controls_are_now_being/</a></p> <p>Which was a followup to an initial post about the export control rest",
+    "title_zh": "后续：美国商务部撤回Fable/Mythos管制，但措辞回避了托管访问问题",
+    "summary_zh": "有关美国商务部是否能将托管前沿AI模型的访问权视为出口管制问题，Legion LegalTech案出现新进展，商务部撤回管制但回避了核心问题。",
+    "key_points": [
+      "美国商务部撤回对Fable/Mythos的管制但未解决托管访问的出口管制问题",
+      "该案测试了将托管AI模型访问权视为出口管制事项的合法性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a2d584d17ab65e3bcb104ffd05b880a6",
+    "title": "钉钉凭借悟空入选Gartner首份《企业AI助手市场指南》报告",
+    "url": "https://36kr.com/newsflashes/3877897421991937?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-02T02:41:15+00:00",
+    "content_snippet": "36氪获悉，近日，国际商业技术洞察机构Gartner发布首份《企业AI助手市场指南》（Market Guide for Enterprise AI Assistants），（下简称“《报告》”），聚焦企业级AI助手的市场现状及发展趋势。钉钉凭借企业级 AI 原生工作平台“悟空”被认可为代表供应商，也是唯一一家中国厂商。",
+    "title_zh": "钉钉凭借悟空入选Gartner首份《企业AI助手市场指南》报告",
+    "summary_zh": "钉钉的企业级AI原生工作平台“悟空”作为唯一中国厂商，入选Gartner首份《企业AI助手市场指南》报告，成为代表供应商。",
+    "key_points": [
+      "钉钉凭借“悟空”成为入选Gartner企业AI助手市场指南的唯一中国厂商",
+      "Gartner发布首份报告聚焦企业级AI助手市场现状及发展趋势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
