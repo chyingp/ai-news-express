@@ -271,5 +271,150 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0b23e358a4c55a659096b2f4c3f23f85",
+    "title": "The biggest surprise while building an AI verification system wasn't the AI.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulrs3l/the_biggest_surprise_while_building_an_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-02T19:19:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Over the past few weeks, I've been building a prototype that checks AI-generated financial claims against source documents.</p> <p>I expected the hardest part to be the language model.</p> <p>It wasn't.</p> <p>The hardest part has been defining what &quot;correct&quot; actually means.</p> <p>For example, imagine two documents in the same credit package:</p> <p>A covenant certificate reports EBITDA as $12.4M</p> <p>The management accounts report $11.9M</p> <p>Nei",
+    "title_zh": "构建AI验证系统时最大的惊喜并非AI本身",
+    "summary_zh": "开发者在构建一个核查AI生成的金融声明的原型系统时，发现最困难的部分并非语言模型，而是定义“正确”的标准。",
+    "key_points": [
+      "开发AI金融声明验证系统原型",
+      "最大挑战是定义‘正确’标准而非语言模型"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3d5d998fdb244ec0b5f53b7f3f3dee55",
+    "title": "I need just 5 more participants pls help (anonymous)",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulqu5a/i_need_just_5_more_participants_pls_help_anonymous/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-02T18:44:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>My name is Raheed Basahel (she/her) and I am currently conducting a postgraduate research study at King’s College London exploring how mood and relationship style may relate to interactions with artificial intelligence (AI), such as chatbots and conversational AI tools. The study has received ethical approval (Reference: LRU-25/26-55725). The first page of the study is the information sheet, please read !</p> <p>I am looking for participants ",
+    "title_zh": "心理学研究招募：情绪与关系风格对AI互动的影响",
+    "summary_zh": "伦敦国王学院研究生正在进行一项匿名研究，探索情绪和关系风格如何影响人们与人工智能的互动，仅需额外招募5名参与者。",
+    "key_points": [
+      "伦敦国王学院研究生招募AI互动研究参与者",
+      "研究情绪与关系风格对AI聊天机器人互动的影响"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a37f0922b8675590dd8a2da4c133b2c2",
+    "title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-02T18:44:02+00:00",
+    "content_snippet": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+    "title_zh": "Meta悄然推出AI生成游戏应用Pocket",
+    "summary_zh": "Meta低调发布了一款名为Pocket的实验性AI应用，用户可通过文本提示生成并分享互动迷你游戏，尝试AI在游戏领域的应用。",
+    "key_points": [
+      "Meta发布实验性AI游戏应用Pocket",
+      "用户可通过文本提示生成并分享互动迷你游戏"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1c2f4deecbf4977bf598c17f75e4a276",
+    "title": "OpenAI in talks to give Trump administration a 5% stake in the company, FT reports",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulqgre/openai_in_talks_to_give_trump_administration_a_5/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-02T18:31:33+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ulqgre/openai_in_talks_to_give_trump_administration_a_5/\"> <img alt=\"OpenAI in talks to give Trump administration a 5% stake in the company, FT reports\" src=\"https://external-preview.redd.it/UXfdp54ovruUnOgpXNDbQImA9EABDBXUfh47-RBgFiQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bbc58e301bc55c09a37efa561bda0d1d5cd97d40\" title=\"OpenAI in talks to give Trump administration a 5% stake in the company, FT reports\" /> </a> </",
+    "title_zh": "OpenAI正商讨给予特朗普政府5%公司股份",
+    "summary_zh": "据金融时报报道，OpenAI正在与政府谈判，计划向特朗普政府提供公司5%的股份，此举可能涉及公司治理与监管关系。",
+    "key_points": [
+      "OpenAI与特朗普政府谈判，拟提供5%公司股份",
+      "此举可能影响AI公司的治理结构与政府关系"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bb53a1477cfbc1f89072eb19e1ddcd17",
+    "title": "Anthropic is discussing a new custom chip with Samsung",
+    "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-02T18:31:09+00:00",
+    "content_snippet": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+    "title_zh": "Anthropic正与三星讨论定制芯片合作",
+    "summary_zh": "Anthropic正在与三星就开发新的定制AI芯片进行讨论，此举紧随OpenAI与博通合作宣布自研芯片之后，显示AI公司对硬件的重视。",
+    "key_points": [
+      "Anthropic与三星讨论定制AI芯片",
+      "继OpenAI后，又一AI巨头寻求自研芯片以优化性能"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4ace4e7b2ff0d90b3152e2b622577d02",
+    "title": "ORBIS - Daily Briefing",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulq5bc/orbis_daily_briefing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-02T18:20:00+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ulq5bc/orbis_daily_briefing/\"> <img alt=\"ORBIS - Daily Briefing\" src=\"https://preview.redd.it/84u0fmo6zuah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e0ebac68ccd0b6235eeb3fc97862b4d5407005a\" title=\"ORBIS - Daily Briefing\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CarterBirchll\"> /u/CarterBirchll </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a",
+    "title_zh": "ORBIS - 每日简报",
+    "summary_zh": "一篇来自Reddit的每日简报帖子，内容摘要显示为图片，无具体文字信息，可能汇总当日AI相关新闻。",
+    "key_points": [
+      "Reddit用户发布的AI每日简报",
+      "内容为图片形式，无具体文字摘要"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
