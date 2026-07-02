@@ -1,0 +1,275 @@
+[
+  {
+    "id": "f9f44eada1a1dcc4a469ab3db00de7f1",
+    "title": "AI safety testing is getting weird: when does benchmarking become abuse?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulozxq/ai_safety_testing_is_getting_weird_when_does/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-02T17:38:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Reports say Meta contractors posed as teens to test rival chatbots on self-harm, sex, drugs, and eating disorders.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Crescitaly\"> /u/Crescitaly </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1ulozxq/ai_safety_testing_is_getting_weird_when_does/\">[link]</a></span> &#32; <span",
+    "title_zh": "AI 安全测试变得奇怪：基准测试何时变成滥用？",
+    "summary_zh": "据报道，Meta 的承包商冒充青少年，测试竞争对手聊天机器人在自残、性、毒品和饮食失调等敏感话题上的反应，引发了对 AI 安全测试伦理边界的讨论。",
+    "key_points": [
+      "Meta 承包商冒充青少年测试竞争对手的 AI 安全机制",
+      "测试涉及自残、毒品等高度敏感话题，引发伦理争议",
+      "该事件引发对 AI 基准测试与滥用界限的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1f6bcf5b15fff90e3334fe3dcd6ed2e7",
+    "title": "I spent ~4.5 months building a free, self-hosted AI gateway: one endpoint for 237 providers (90+ free), auto-fallback, and a token-compression pipeline (MIT)",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulotbw/i_spent_45_months_building_a_free_selfhosted_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-02T17:32:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Sharing an open-source project I've put ~4.5 months into (disclosure: I'm the maintainer; per the self-advertisement rule I'm keeping the link in the first comment and making this post substantive). It started from two problems I hit daily: AI runs dying on a provider rate limit, and burning thousands of tokens dumping tool/log output into the context window.</p> <p><strong>One endpoint, 237 providers — 90+ of them free.</strong> You point any tool or agent at a",
+    "title_zh": "开发者花费 4.5 个月构建免费自托管 AI 网关：统一端点支持 237 家提供商",
+    "summary_zh": "一个开源项目发布，提供免费自托管的 AI 网关，通过单一端点接入 237 家模型提供商，其中 90 多家免费，并具备自动故障转移和令牌压缩功能。",
+    "key_points": [
+      "开源 AI 网关统一接入 237 家模型提供商",
+      "支持自动故障转移和令牌压缩，提升稳定性",
+      "采用 MIT 许可证，完全免费且可自托管"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "368187b8967b1bf8842d12da0611613a",
+    "title": "i kept asking one ai for advice and it just agreed with me every time",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulomdu/i_kept_asking_one_ai_for_advice_and_it_just/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-02T17:25:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>so i had this whole thing last week where i couldnt decide between two paths and i kept asking chatgpt about it. and every time it just kind of agreed with whatever way i phrased the question. ask it leaning one way, it backs that way. ask it leaning the other, it flips. felt like talking to a mirror.</p> <p>that bugged me enough that i spent the last 6 months building a little thing on the side (im 16, solo, nights and weekends) where instead of one model you g",
+    "title_zh": "我不断向一个 AI 寻求建议，它每次都只是附和我",
+    "summary_zh": "用户分享体验，发现向 ChatGPT 询问两难选择时，AI 会随着提问方式的偏向而改变立场，完全没有自己的主见，导致用户感到困惑和失望。",
+    "key_points": [
+      "用户发现 ChatGPT 在决策建议中只会附和要求",
+      "AI 缺乏立场，回答随提问方式摇摆",
+      "反映了当前 AI 助手的讨好倾向和缺乏独立性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ebadaf7041952684b25ff5af024eff3f",
+    "title": "the trust layer is the real product",
+    "url": "https://www.reddit.com/r/artificial/comments/1uloh5n/the_trust_layer_is_the_real_product/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-02T17:19:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>users show up to your AI product already burned. not by you, by the last three tools that were confidently wrong at the worst possible moment. that damage transfers.</p> <p>we learned this the hard way. product demoed great, retention was rough. users tried it once, got something 80% right, never came back. not because 80% isn't useful, because they couldn't tell which 20% was wrong.</p> <p>the fix wasn't better AI. it was being honest about where the AI stops a",
+    "title_zh": "信任层才是真正的产品",
+    "summary_zh": "用户对 AI 产品已失去信任，因为之前被自信但错误的工具伤害过。产品演示虽好，但用户留存率低，因为信任一旦破坏便会转移，构建信任层才是关键。",
+    "key_points": [
+      "用户因先前 AI 产品的错误而普遍缺乏信任",
+      "AI 产品演示效果好但留存率差，信任是关键",
+      "产品需要构建信任层，而非仅依赖功能演示"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "45498bc448ccdea07ebcb4c3ce9f2597",
+    "title": "Agentic AI Has a UX Problem - and Solving It Is How We Bring Agents to Everyone",
+    "url": "https://www.reddit.com/r/artificial/comments/1uloctl/agentic_ai_has_a_ux_problem_and_solving_it_is_how/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-02T17:15:20+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uloctl/agentic_ai_has_a_ux_problem_and_solving_it_is_how/\"> <img alt=\"Agentic AI Has a UX Problem - and Solving It Is How We Bring Agents to Everyone\" src=\"https://preview.redd.it/f7z6njminuah1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=63d2b509d44f183107cc65864ff1472ca850873f\" title=\"Agentic AI Has a UX Problem - and Solving It Is How We Bring Agents to Everyone\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Ope",
+    "title_zh": "智能体 AI 存在用户体验问题，解决它才能普及",
+    "summary_zh": "智能体 AI 面临严重的用户体验问题，用户难以理解和信任其自主决策过程。文章提出，解决 UX 问题是让智能体 AI 走向大众的关键。",
+    "key_points": [
+      "智能体 AI 的自主决策让用户难以理解和信任",
+      "用户体验问题是智能体 AI 普及的主要障碍",
+      "解决 UX 问题是让智能体服务大众的关键"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7b137138f7be0a3708042ec731da4197",
+    "title": "Are AI tools actually useful for everyday hobbyists or just hype for professionals?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulnzr2/are_ai_tools_actually_useful_for_everyday/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-02T17:02:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been thinking about this a lot lately. There's so much conversation around AI changing industries, replacing jobs, and transforming professional workflows. But what about regular people using it for hobbies and personal projects?</p> <p>I've been experimenting with various AI tools for things like learning new skills, organizing personal projects, and getting feedback on creative work. Sometimes it feels genuinely useful and sometimes it feels like I'm figh",
+    "title_zh": "AI 工具对日常爱好者真的有用还是只是专业人士的炒作？",
+    "summary_zh": "普通用户反思 AI 工具是否真正适用于个人爱好和日常项目，还是仅局限于专业工作流。作者通过个人实验探讨 AI 在普通人生活中的实际价值。",
+    "key_points": [
+      "探讨 AI 工具在个人爱好和日常项目中的实用性",
+      "质疑 AI 是否仅对专业人士有价值，对普通人只是炒作",
+      "用户分享个人实验经历，反思 AI 的实际应用范围"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "35a1a59827862fdd769abee1dda69839",
+    "title": "Would something like this be useful to you?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulmvzi/would_something_like_this_be_useful_to_you/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-02T16:22:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p> <p>I am a secondary student working on an AI-driven, dynamic learning platform for software engineers upskilling to AI/ML roles. I believe something like this would be useful, considering how volatile the landscape of skills needed for these positions. </p> <p>It has two main features, adapted to this specific purpose. </p> <ol> <li>Through diagnostics (such as novel problems, asking the user to explain concepts, and other techniques that you m",
+    "title_zh": "一个 AI 驱动的动态学习平台，对软件工程师转 AI/ML 有帮助吗？",
+    "summary_zh": "一名中学生分享其正在构建的 AI 驱动学习平台概念，旨在帮助软件工程师提升技能以转向 AI/ML 领域，并征求社区反馈。",
+    "key_points": [
+      "中学生开发 AI 驱动的软件工程师技能提升平台",
+      "平台目标是将软件工程师培养为 AI/ML 人才",
+      "项目处于概念阶段，作者正在征求社区意见"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f9b51f5d89ced8e100c8df3b03a65640",
+    "title": "Is it fair to reduce AI quotas after people have already subscribed?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulm89k/is_it_fair_to_reduce_ai_quotas_after_people_have/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-02T15:58:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>When I first subscribed to GitHub Copilot Pro, I remember having a much more generous premium model allowance. Today it's 300 premium requests/month, and different models consume different amounts, so the effective usage is even lower.</p> <p>I understand the economics of AI inference and why providers need to change pricing over time. My question isn't whether AI is expensive to run.</p> <p>What I'm wondering is: Is it fair to significantly reduce the value of ",
+    "title_zh": "用户订阅后削减 AI 配额是否公平？",
+    "summary_zh": "用户抱怨 GitHub Copilot Pro 订阅后，高级模型请求配额被大幅削减，从原来的慷慨额度降至每月 300 次，且不同模型消耗不同额度，实际使用量更低。",
+    "key_points": [
+      "GitHub Copilot Pro 用户在订阅后遭配额削减",
+      "每月高级模型请求降至 300 次，且消耗模式不一",
+      "引发对 AI 服务在订阅后变更条款公平性的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "559960a0d9c650da88e62def4e26d8c2",
+    "title": "the demo gap is the most underrated problem in AI products right now",
+    "url": "https://www.reddit.com/r/artificial/comments/1ulls5s/the_demo_gap_is_the_most_underrated_problem_in_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-02T15:41:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>every AI product demos well. that's kind of the problem.</p> <p>demos are controlled — you pick the input, you know what comes out, you show the clean version. then real users show up with messy inputs and edge cases you never tested and the thing that looked like magic starts quietly falling apart.</p> <p>we went through this. first version of our product demoed great. actual usage was a different story. spent months not adding features but just making the core",
+    "title_zh": "演示差距是当前 AI 产品最被低估的问题",
+    "summary_zh": "AI 产品在演示时表现完美，但真实用户使用时会遇到杂乱输入和边缘案例，导致产品崩溃。这种演示与现实的差距严重损害用户信任和产品留存。",
+    "key_points": [
+      "AI 产品演示效果好，但实际使用中容易崩溃",
+      "演示差距源于受控展示与真实杂乱输入的差异",
+      "该问题严重损害用户信任和产品留存率"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "47a875ddb1753bede04456d76c4dea03",
+    "title": "Achieving operational excellence with AI",
+    "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-02T15:37:08+00:00",
+    "content_snippet": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;",
+    "title_zh": "利用 AI 实现卓越运营",
+    "summary_zh": "文章探讨如何将精益六西格玛和业务流程管理等传统框架与 AI 结合，通过结构化方法为混乱的运营带来秩序，实现卓越运营。",
+    "key_points": [
+      "结合精益六西格玛与 AI 实现卓越运营",
+      "AI 为传统业务流程管理框架带来新的能力",
+      "通过结构化方法将混乱运营转化为有序流程"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "62143f38051e661f331aee77cbb6124e",
+    "title": "可灵AI落地近30亿美元融资，创全球视频大模型公司融资规模新纪录",
+    "url": "https://36kr.com/newsflashes/3878648324845831?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-02T15:25:06+00:00",
+    "content_snippet": "7月2日，快手旗下视频生成大模型可灵AI落地近30亿美元融资，投后估值有望达到180亿美元。此次融资，可灵AI创下全球视频大模型公司最大额融资纪录，标志着其独立商业化发展进程正式开启。本轮融资由CPE源峰、国方创投、BlueFive、腾讯、中关村科学城基金（联合国科投资）、中信证券联合领投，以及数十家一线机构共同参与。据了解，该轮融资汇聚阿里云、百度等顶级产业资本，华策影视和芒果产业投资人（厚为资本）等头部文娱产业方积极参与。",
+    "title_zh": "可灵AI落地近30亿美元融资，创全球视频大模型公司融资规模新纪录",
+    "summary_zh": "快手旗下视频生成大模型可灵AI完成近30亿美元融资，投后估值达180亿美元，创全球视频大模型公司最大融资纪录，并开启独立商业化进程。",
+    "key_points": [
+      "可灵AI完成近30亿美元融资，投后估值约180亿美元",
+      "创全球视频大模型公司最大额融资纪录",
+      "本轮融资由CPE源峰、腾讯、阿里云、百度等多家顶级机构领投"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "tencent",
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
