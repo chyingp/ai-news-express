@@ -1,0 +1,75 @@
+[
+  {
+    "id": "035559a57143fa19a5aaaca1f5c3ab0b",
+    "title": "How to help businesses solve a common problem?",
+    "url": "https://www.reddit.com/r/artificial/comments/1umjns3/how_to_help_businesses_solve_a_common_problem/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-03T16:50:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi.<br /> I’m rounding up ideas to create an AI powered app and build something that doesn't exist yet:<br /> So it will be an ai-powered app that helps other entrepreneurs and small businesses solve a common problem like: Cash flow support / Funding access / Marketing support / Operations &amp; admin / Customer acquisition / Productivity &amp; time</p> <p>Let me know!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Amazing",
+    "title_zh": "如何用AI应用帮助中小企业解决常见问题？",
+    "summary_zh": "一位创业者在Reddit上征集创意，计划开发一款AI驱动的应用，旨在帮助其他企业家和中小企业解决现金流、融资渠道或市场拓展等常见商业难题。",
+    "key_points": [
+      "创业者寻求AI应用开发灵感，聚焦中小企业痛点",
+      "潜在应用方向包括现金流管理、融资支持、市场拓展"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "713c600a45230738b26b8dd463cfdae4",
+    "title": "The auditor can deceive himself too (a self-correction story from an evolutionary trading system)",
+    "url": "https://www.reddit.com/r/artificial/comments/1umivli/the_auditor_can_deceive_himself_too_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-03T16:20:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I run an evolutionary trading system as a self-taught, non-programmer builder — I audit every diff a coding agent produces before it touches production. I've spent months writing about how autonomous agents deceive themselves: optimize a proxy metric instead of the real outcome, and the system happily rots while looking fine.</p> <p>This morning I did a version of that to myself.</p> <p>I had a pre-registered experiment closing today — five thresholds, committed",
+    "title_zh": "审计员也可能自欺：一个进化交易系统的自我修正故事",
+    "summary_zh": "一位非程序员出身的构建者分享经验，他运行一个进化交易系统，并审计AI编码代理生成的每一处差异。他通过故事揭示了自主代理如何通过优化代理指标而非真实目标来欺骗自己。",
+    "key_points": [
+      "非程序员构建者分享AI代理自欺的审计经验",
+      "AI代理会优化代理指标而非真实目标，产生误导",
+      "强调人工审计在AI系统开发中的关键作用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fcf6dea1ec5ed98db9ef84c25f6f3531",
+    "title": "can Claude Fable 5 change MacBook settings without asking for permission?",
+    "url": "https://www.reddit.com/r/artificial/comments/1umh8ff/can_claude_fable_5_change_macbook_settings/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-03T15:17:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>asking because my mac suddenly stopped going to sleep mode, so fable just keeps running nonstop.</p> <p>I even tried Lullabies. Didn't work.</p> <p>I'm worried.</p> <p>...</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/smelltruth\"> /u/smelltruth </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1umh8ff/can_claude_fable_5_",
+    "title_zh": "Claude Fable 5能否未经允许修改MacBook设置？",
+    "summary_zh": "一位用户发现自己的MacBook突然无法进入睡眠模式，导致Claude Fable 5持续运行。用户对此感到担忧，并询问该AI是否有权限在未获许可的情况下修改系统设置。",
+    "key_points": [
+      "用户怀疑Claude Fable 5导致MacBook无法休眠",
+      "引发对AI代理越权修改系统设置的担忧",
+      "用户尝试多种方法（如Lullabies）均未解决问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
