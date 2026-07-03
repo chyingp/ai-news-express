@@ -1551,5 +1551,100 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "904403b16cdeb13753f9c8ba53e2dab4",
+    "title": "Freedom AI - Zero Guardrail LLM.",
+    "url": "https://www.reddit.com/r/artificial/comments/1umgik6/freedom_ai_zero_guardrail_llm/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-03T14:49:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1umgik6/freedom_ai_zero_guardrail_llm/\"> <img alt=\"Freedom AI - Zero Guardrail LLM.\" src=\"https://preview.redd.it/g7fe1e1511bh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f331dc0ceab7567f013808f476442b6dac18cfec\" title=\"Freedom AI - Zero Guardrail LLM.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi guys!</p> <p>My mate and I have fiddled around and decided to piece together a model that has a zero prompt refusa",
+    "title_zh": "自由 AI - 零护栏大语言模型",
+    "summary_zh": "Reddit 用户讨论一款名为 Freedom AI 的大语言模型，声称其不设任何安全护栏，引发社区关注。",
+    "key_points": [
+      "Reddit 社区出现一款名为 Freedom AI 的无护栏大语言模型",
+      "该模型声称完全移除安全限制，引发伦理讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "05c6c5e50ff830c97b981f0060c7f84f",
+    "title": "the scariest part of AI isn't that it'll replace us — it's that we'll stop checking its work",
+    "url": "https://www.reddit.com/r/artificial/comments/1umg44p/the_scariest_part_of_ai_isnt_that_itll_replace_us/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-03T14:33:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>started using AI for first drafts of everything — emails, code, summaries. caught myself skimming instead of reading last week. the tool got better; my attention got worse. anyone else noticing this trade-off?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Few_Kaleidoscope5672\"> /u/Few_Kaleidoscope5672 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.re",
+    "title_zh": "AI 最可怕之处不是取代人类，而是我们不再检查它的工作",
+    "summary_zh": "Reddit 用户反思过度依赖 AI 导致注意力下降，开始略读 AI 生成内容而非仔细审查，担心人类批判性思维被侵蚀。",
+    "key_points": [
+      "用户承认使用 AI 处理邮件、代码后，已开始略读而非审查",
+      "担忧 AI 工具越好，人类注意力和批判性思维越差"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0dd8553936cd897471806c37b72d200d",
+    "title": "Want a make chordify st. app with Claude",
+    "url": "https://www.reddit.com/r/artificial/comments/1umfypg/want_a_make_chordify_st_app_with_claude/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-03T14:27:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been working on an LSTM-based chord recognition model trained on the McGill Billboard dataset . Am I on the right track?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Jesusliveinmotelroom\"> /u/Jesusliveinmotelroom </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1umfypg/want_a_make_chordify_st_app_with_claude/\">[link]</",
+    "title_zh": "想用 Claude 制作类似 Chordify 的乐谱识别应用",
+    "summary_zh": "Reddit 用户发帖称正基于 McGill Billboard 数据集训练 LSTM 和弦识别模型，并询问技术路线是否正确。",
+    "key_points": [
+      "用户展示基于 LSTM 的和弦识别项目，使用 McGill Billboard 数据集",
+      "寻求社区关于模型训练方向的技术建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a77a7282a377a687a69adca3a5ae8275",
+    "title": "Anthropic wants to develop its own drugs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-03T13:56:52+00:00",
+    "content_snippet": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it [&#8230;]",
+    "title_zh": "Anthropic 计划自主研发药物",
+    "summary_zh": "Anthropic 宣布推出 Claude Science，一个为科学家打造的 AI 工作台，整合碎片化工具和数据集，并可生成图表，标志着其进军 AI 辅助药物研发领域。",
+    "key_points": [
+      "Anthropic 发布专为科学家设计的 Claude Science AI 工作台",
+      "该平台整合科研工具与数据，支持生成图表和可视化内容",
+      "此举标志着 Anthropic 正式进军 AI 驱动的药物研发领域"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
