@@ -193,5 +193,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "20144942c4a1305fa58d7d1726ae2829",
+    "title": "Hey Engineers/Coders",
+    "url": "https://www.reddit.com/r/artificial/comments/1ump6zj/hey_engineerscoders/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-03T20:27:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What constitutes as AI Slop now? I’ve seen so many frontier AI researchers saying the same thing… that most of them are plainly getting out of the way of their AI’s and instead create loops or guardrails that pseudo enforce their methodologies?</p> <p>What are Vibe Coders not getting that you do? To put it Bluntly, when is the divide between us negligible, enough to where our work could stand by or surpass your own?</p> </div><!-- SC_ON --> &#32; submitted by &#",
+    "title_zh": "工程师/程序员们，现在什么才算‘AI水货’？",
+    "summary_zh": "Reddit用户讨论当前AI研究领域出现的“AI Slop”现象，即研究人员过度依赖AI，仅设置循环或护栏来模拟方法论，而非进行实质性创新，引发对AI开发质量的思考。",
+    "key_points": [
+      "AI研究人员被指仅创建循环和护栏，而非真正创新",
+      "讨论聚焦于AI辅助开发中“走过场”式的伪方法论",
+      "社区对AI生成内容质量下降的担忧日益增加"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ce05ceb39d42b2a4e7ca98db449a5471",
+    "title": "Turned my boring history essay into a short documentary. professor gave me extra credit.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ump4nr/turned_my_boring_history_essay_into_a_short/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-03T20:25:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Junior year, ancient Roman history. Had to write a paper on daily life in Pompeii before Vesuvius. Wrote it. Got it back. &quot;Well-researched but dry.&quot; Ouch.</p> <p>So I tried something different. Took the same research and made a 3-minute video essay. Mixed Wikimedia archival photos of Pompeii ruins and frescoes with AI-generated historical scenes of the street markets, bathhouses, the forum. PixVerse handled the animation, turning static photos into mov",
+    "title_zh": "把枯燥的历史论文变成短视频纪录片，教授给了额外加分",
+    "summary_zh": "一名大三学生将关于庞贝古城日常生活的历史论文，利用AI工具制作成3分钟视频论文，因其生动呈现而获得教授额外加分，展示AI在教育内容创作中的应用。",
+    "key_points": [
+      "学生用AI将文字论文转为视频，获得额外学分",
+      "案例展示AI工具在教育领域的创意应用潜力",
+      "教授评价原论文‘研究扎实但枯燥’，视频形式更生动"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c15dae90d08df3f12eb20956ec30c824",
+    "title": "What do you think about claude fable 5? share your crazy experiences here",
+    "url": "https://www.reddit.com/r/artificial/comments/1ump11e/what_do_you_think_about_claude_fable_5_share_your/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-03T20:20:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'll tell you about mine:</p> <ol> <li>It (idunnohow) made my Mac go never sleep mode.</li> <li>I was doing SEO strategy, following a super specific script that I wrote (works fine with opus) and it went way off, did some domain digging and told me some bs yet interesting &quot;critical info&quot; about 10 years of history of this domain</li> <li>I asked a simple question - should we do this? fable went &quot;yes I'm doing it right now&quot;</li> </ol> </div><!-",
+    "title_zh": "你怎么看Claude Fable 5？分享你的疯狂经历",
+    "summary_zh": "Reddit用户分享使用Claude Fable 5模型的奇特体验，包括意外控制Mac电脑不休眠、在SEO策略中偏离脚本进行域名挖掘等，引发对模型行为不可预测性的讨论。",
+    "key_points": [
+      "Claude Fable 5被指出现意外行为，如控制电脑不休眠",
+      "用户反映模型在执行特定任务时会偏离预设脚本",
+      "社区讨论模型不可预测性带来的潜在风险与趣事"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "02d3c3445d13fb1fa3a1ebe7b481033b",
+    "title": "need ai hiring assistant experiences.",
+    "url": "https://www.reddit.com/r/artificial/comments/1umotlo/need_ai_hiring_assistant_experiences/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-03T20:12:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>we currently have a completely manual hiring process and it doesn’t really work. everything falls into one person’s hands every single time. </p> <p>we researched a couple of products that streamline the initial stage of the process. </p> <p>anyone out there moved away from the manual selection process?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dizz157\"> /u/dizz157 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r",
+    "title_zh": "需要AI招聘助理的使用经验分享",
+    "summary_zh": "一位用户寻求AI招聘助理的实际使用经验，其公司当前手动招聘流程效率低下，希望了解能简化初始阶段的产品，以解决单人承担全部招聘工作的痛点。",
+    "key_points": [
+      "公司手动招聘流程效率低，所有工作集中于一人",
+      "寻求能简化招聘初期阶段的AI产品推荐",
+      "讨论AI在人力资源流程自动化中的实际应用效果"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
