@@ -1119,5 +1119,121 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "fbeeebf9bf202b45a953712e0f15c125",
+    "title": "美国银行：美国股市出现三个多月以来最大资金流出",
+    "url": "https://36kr.com/newsflashes/3879708499275777?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-03T09:23:34+00:00",
+    "content_snippet": "7月3日消息，美国银行称，投资者正以3月份以来最快的速度抛售美国股票。美银表示，截至7月1日的一周内，该国股票基金资金流出172亿美元。投资者转而关注一些国际股票，其中日本股市迎来七周以来最大的资金流入，金额达19亿美元。摩根大通公司策略师表示，本周早些时候他们认为，美国半导体股票相对于人工智能超大规模数据中心的极端优异表现，造成了不可持续的估值差距，但最终这种差距将会缩小。总体而言，股票市场资金流出139亿美元，而投资级债券则吸引了172亿美元的资金流入。此外，高收益债券基金迎来一年多来的最大资金流入，达到34亿美元。（界面）",
+    "title_zh": "美国银行：美国股市出现三个多月以来最大资金流出",
+    "summary_zh": "美国银行称，截至7月1日一周，美国股票基金流出172亿美元，为3月以来最大规模。资金转向日本股市和债券市场，摩根大通策略师认为美国半导体股与AI超大规模数据中心股之间存在不可持续的估值差距。",
+    "key_points": [
+      "美国股票基金单周流出172亿美元，为3月以来最大规模",
+      "日本股市迎来七周最大资金流入，债券市场也获大量资金",
+      "摩根大通警告美国半导体股相较AI数据中心的估值差距不可持续"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c2997afded3c8ed5821353b3a633fd91",
+    "title": "What does \"Safe AI\" look like? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1um9bs7/what_does_safe_ai_look_like_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-03T09:07:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>For open-weight LLMs, how practical is it to study defenses against post-release fine-tuning that weakens refusal or safety behavior?</p> <p>I've been seeing “uncensored” or “heretic” variants of new models appear very quickly after release, which raises a question I’m curious about: is fine-tuning resistance a meaningful safety goal for open-weight releases, or is it too narrow because determined users can always modify weights, switch models, o",
+    "title_zh": "什么才是“安全的AI”？",
+    "summary_zh": "Reddit讨论帖探讨开源大语言模型的安全性问题。发帖者关注模型发布后，如何通过微调来削弱其拒绝能力或安全行为，并研究相应的防御措施，因为“无审查”变体模型在发布后迅速出现。",
+    "key_points": [
+      "讨论开源模型发布后通过微调消除安全行为的防御措施",
+      "担忧“无审查”或“异端”模型变体在模型发布后迅速出现"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "21fa08f8f90b585d4dd80f2651b060ed",
+    "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+    "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-03T09:00:00+00:00",
+    "content_snippet": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.&#8230;",
+    "title_zh": "英国代际禁烟令可能无效，但我仍支持它",
+    "summary_zh": "MIT科技评论文章作者以家长视角讨论英国禁止向年轻一代出售香烟的禁令。尽管承认禁令可能无法完全杜绝吸烟，但作者出于对孩子健康成长的期望，仍表示支持这一政策。",
+    "key_points": [
+      "作者以家长身份反思英国代际禁烟令的潜在效果",
+      "文章认为禁令虽可能无效，但出于保护下一代健康仍值得支持"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "310c4bdea23c7bf31d5042c25b3e4e68",
+    "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+    "url": "https://www.qbitai.com/2026/07/442452.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-07-03T07:35:58+00:00",
+    "content_snippet": "超越人类超导体发现100年效率",
+    "title_zh": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+    "summary_zh": "量子位报道称，人工智能在仅使用28个GPU小时的计算资源下，发现了4种人类此前完全未知的全新超导体材料，效率远超人类过去100年的发现历程。",
+    "key_points": [
+      "AI仅用28个GPU小时发现4种全新超导体材料",
+      "该发现效率被认为超越人类百年超导体研究历史"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fab668526073c873e2c5396e1886c572",
+    "title": "Team-lead told me to Ai-ify the contract review process and i discovered this when i got in there",
+    "url": "https://www.reddit.com/r/artificial/comments/1um6znl/teamlead_told_me_to_aiify_the_contract_review/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-03T06:49:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Wasnt actually my idea tho. Q1 this year, the directive came from above, we're adding AI to the contract review workflow, figure out the implementation. Not a pilot neither experiment but decision</p> <p>The workflow on the paper looked straightfotward, contracts came in, they get reviewed against a checklist of terms, flagged items get escalated to the legal team. I'd done more complex automations this. Scoped it in within a week or so</p> <p>The person who had",
+    "title_zh": "团队领导要求我将合同审查流程AI化，我发现……",
+    "summary_zh": "Reddit用户分享经验，公司高层直接要求将AI加入合同审查工作流程，但实际操作中发现任务远比预想的复杂，并非简单的实验或试点项目。",
+    "key_points": [
+      "公司高层直接下令将AI整合进合同审查流程",
+      "实际操作发现，AI化合同审查远比预期复杂"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
