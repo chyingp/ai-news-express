@@ -586,5 +586,270 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e0f7140756828686e9a6cdb33b64b74f",
+    "title": "It feels like there are way more ways AGI goes wrong than right for us (please try change my mind)",
+    "url": "https://www.reddit.com/r/artificial/comments/1um16sw/it_feels_like_there_are_way_more_ways_agi_goes/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-03T01:54:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong><em>I really don't want to be a doomer, so if you think you can change the way I think about this, please reply in the comments!</em></strong></p> <p><strong><em>TL;DR really smart things that aren't human can be really dangerous (at least from a human-centric perspective), regardless of whether it is controlled by the few or the many.</em></strong></p> <p>I usually consider myself an optimist, but I feel that treating AGI as something that is more likel",
+    "title_zh": "感觉AGI对我们来说出错的概率远大于正确的概率（请尝试改变我的想法）",
+    "summary_zh": "Reddit用户发帖表达对AGI风险的担忧，认为非人类的高智能实体可能对人类构成严重危险，寻求他人观点以改变其悲观看法。",
+    "key_points": [
+      "用户表达对AGI潜在风险的深切担忧",
+      "寻求社区讨论以改变其悲观看法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "67b03d98bb76bd43266130179843995b",
+    "title": "Hierarchos: Preliminary Findings From a 232M Recurrent Memory-Augmented Assistant Model [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1um123n/hierarchos_preliminary_findings_from_a_232m/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-03T01:48:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><h1>Project Release / Research Draft] Hierarchos at 232M Parameters: Preliminary Findings From a Recurrent Memory-Augmented Assistant Model</h1> <p><strong>Technical Report: July 2nd, 2026</strong></p> <p><strong>Project:</strong> Hierarchos / KortexHOS</p> <p><strong>Authors:</strong> Makhi Burroughs / netcat420, Lost Time, and the Hierarchos project team</p> <h1>TL;DR:</h1> <p>We built and trained <strong>Hierarchos</strong>, an experimental 232M-parameter recurr",
+    "title_zh": "Hierarchos：2.32亿参数递归记忆增强助手模型的初步发现",
+    "summary_zh": "一个名为Hierarchos的2.32亿参数递归记忆增强模型的研究项目发布初步发现，该模型专注于提升助手能力。",
+    "key_points": [
+      "发布2.32亿参数递归记忆增强模型初步研究",
+      "模型名为Hierarchos，专注于助手功能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0b8cd1eeb8fce40f3e55a8e37a7d5e23",
+    "title": "Cheap and privacy-friendly AI for API usage?",
+    "url": "https://www.reddit.com/r/artificial/comments/1um0wr8/cheap_and_privacyfriendly_ai_for_api_usage/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-03T01:40:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>I am doing a project and I want an AI to be used via API which is privacy-friendly. Although I like Deepseek, it seems they use the prompts for learning etc, so it would be a big no for my project as it handles user info.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Designer_Holiday3284\"> /u/Designer_Holiday3284 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span>",
+    "title_zh": "寻求廉价且保护隐私的API使用AI方案",
+    "summary_zh": "Reddit用户寻求成本低且注重隐私的AI API服务，因项目涉及用户信息，排除了使用用户数据学习的DeepSeek。",
+    "key_points": [
+      "用户因隐私问题排除DeepSeek API",
+      "寻求廉价且不利用用户数据训练模型的AI服务"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e2265e63ed39a07e3c7118ac77106fb3",
+    "title": "阿里云宣布AI原生数据库服务产品Databridge Agent功能收费",
+    "url": "https://36kr.com/newsflashes/3879236702433537?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-03T01:23:38+00:00",
+    "content_snippet": "36氪获悉，阿里云官网显示，AI原生数据库服务产品Databridge Agent将于2026年8月1日正式转商业化计费。",
+    "title_zh": "阿里云宣布AI原生数据库服务产品Databridge Agent功能收费",
+    "summary_zh": "阿里云官网显示，其AI原生数据库服务Databridge Agent将于2026年8月1日起正式转为商业化计费。",
+    "key_points": [
+      "阿里云Databridge Agent功能即将结束免费",
+      "2026年8月1日起正式开始商业化计费"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0ff88339e0c3a8a86dd24edf0e459797",
+    "title": "迅策：拟配售新H股净筹7.71亿港元，用于强化全链路AI数据基础设施等",
+    "url": "https://36kr.com/newsflashes/3879221076340997?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-03T01:07:44+00:00",
+    "content_snippet": "36氪获悉，迅策公告，于2026年7月2日（交易时段后），公司与配售代理订立配售协议，同意以每股107.70港元配售股份。假设所有配售股份获全数配售，配售事项所得款项总额预期合共约为7.84亿港元，而配售事项所得款项净额预期合共约为7.71亿港元。公司拟将配售事项所得款项用于强化全链路AI数据基础设施、扩大跨产业商业化及可扩展解决方案的部署、透过以客户为导向的国际化策略拓展海外部署，以及用作营运资金及一般企业用途。",
+    "title_zh": "迅策拟配售新H股净筹7.71亿港元，用于强化全链路AI数据基础设施",
+    "summary_zh": "迅策宣布通过配售新H股预计净筹7.71亿港元，资金将主要用于强化其全链路AI数据基础设施、扩大商业化部署及拓展海外市场。",
+    "key_points": [
+      "迅策配售H股净筹7.71亿港元",
+      "资金将强化AI数据基础设施并拓展海外"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "10864d82d4a849ec4e780f0a835a04cd",
+    "title": "Best AI for learning bedroom music production?",
+    "url": "https://www.reddit.com/r/artificial/comments/1um04fw/best_ai_for_learning_bedroom_music_production/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-03T01:03:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hope this is the right place to ask.</p> <p>I basically want to learn the Reaper DAW and the fundamentals of putting together a bass music track.</p> <p>I'm learning from absolute scratch, and I've been wondering about having AI as a mentor.</p> <p>I've got free accounts on Claude and Chatgpt.</p> <p>Would either of these services be better than the other?</p> <p>And what about local LLM's?<br /> Are there any LLM's that I could get running with ollama that migh",
+    "title_zh": "学习卧室音乐制作的最佳AI工具？",
+    "summary_zh": "Reddit用户咨询用于学习Reaper数字音频工作站和贝斯音乐制作基础知识的AI工具，希望获得AI作为导师的建议。",
+    "key_points": [
+      "用户寻求用于学习音乐制作的AI助手或工具",
+      "询问使用AI作为音乐制作入门导师的经验"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "367fea83e71de3b2d80835d80e0fdb79",
+    "title": "光大证券：Meta算力出租是资源优化手段，不改中长期扩产规划",
+    "url": "https://36kr.com/newsflashes/3879199133151232?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-03T00:45:25+00:00",
+    "content_snippet": "36氪获悉，光大证券最新研报表示，Meta进军云计算的底层逻辑，是希望为巨额的AI基础设施投资创造新的变现通道，侧面反映出云计算为当前最快、最明确的收回巨额前期投入、提高当期回报率的方式，说明对外变现能力本身已成为支撑Meta持续扩大AI投资的现金流保证。Meta中长期持续加码AI算力的整体规划并未转向。",
+    "title_zh": "光大证券：Meta算力出租是资源优化手段，不改中长期扩产规划",
+    "summary_zh": "光大证券研报分析认为，Meta进军云计算出租算力是为其巨额AI投资创造变现通道，此举并非转向，而是支持其持续扩大AI投资的现金保证。",
+    "key_points": [
+      "Meta算力出租旨在为AI投资创造变现通道",
+      "研报认为Meta中长期AI算力扩产规划未变"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "12e41f4614bedd4850ec735b82d293a9",
+    "title": "多只ETF拆分份额，公募产品普惠性凸显",
+    "url": "https://36kr.com/newsflashes/3879194317762817?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-03T00:40:31+00:00",
+    "content_snippet": "近期泛AI行情强势演绎，相关基金净值也水涨船高。在此情形下，多只产品选择拆分份额。业内人士分析，降低投资门槛、活跃场内流动性、降低基金做市成本是份额拆分背后的主要考量。经份额拆分后，每份基金价格从2元、3元、4元降至1元及以下，购买门槛调低，便于更多投资者参与，公募基金“普惠金融”属性进一步凸显。（中证网）",
+    "title_zh": "多只ETF拆分份额，公募产品普惠性凸显",
+    "summary_zh": "因AI行情推动基金净值上涨，多只ETF进行份额拆分以降低购买门槛和活跃交易，凸显公募基金的普惠金融属性。",
+    "key_points": [
+      "AI行情推动基金净值上涨，多只ETF拆分份额",
+      "拆分旨在降低投资门槛，提升流动性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3e0139fe1c8346dab366c64b4832ddf5",
+    "title": "中金：非农降温支持联储不加息、不降息",
+    "url": "https://36kr.com/newsflashes/3879184154505219?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-03T00:36:07+00:00",
+    "content_snippet": "36氪获悉，中金研报指出，6月美国新增非农就业5.7万人，低于市场预期，表明就业增长的加速势头有所降温。前值下修后，近三个月平均新增就业仍达11.1万人，显示劳动力市场仍在扩张。与此同时，失业率降至4.2%，劳动参与率继续回落，反映就业需求稳健与劳动力供给收缩并存，整体失业压力不大。中金认为，这份数据给了美联储等待观望的时间，因此维持年内既不加息、也不降息的判断。中期来看，今年美国就业改善更多源于AI投资推动的经济周期修复，而非世界杯等短期因素。",
+    "title_zh": "中金：非农降温支持联储不加息、不降息",
+    "summary_zh": "中金公司研报认为，美国6月非农就业数据降温但失业率仍低，给了美联储维持现状的空间，维持年内不加息不降息的判断。",
+    "key_points": [
+      "美国6月新增非农就业5.7万人，低于预期",
+      "中金维持美联储年内不加息不降息的判断"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5256777e7c4e6defb5936c8325f9d30c",
+    "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+    "url": "https://36kr.com/p/3879158039834629?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-03T00:06:38+00:00",
+    "content_snippet": "<h2>今日热点导览</h2>\n  <p>苹果拟于今明两年推出至少五款新iPhone</p>\n  <p>AI版支付宝开放公测，上线72项办事技能</p>\n  <p>特朗普回应“利用职位牟利”：股市在涨，大家都在赚钱</p>\n  <p>LV起诉茉莉奶白，茉莉奶白被判赔1030万元</p>\n  <p>6月赴日航班取消1488个</p>\n  <p>安克创新港股上市首日破发</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>证监会同意宇树科技科创板IPO注册</strong></p>\n  <p>7月2日，证监会网站显示，同意宇树科技首次公开发行股票注册。这意味着，全球首家在IPO前实现人形机器人规模化盈利的企业正式拿到A股“入场券”，将成为A股“人形机器人第一股”。&nbsp;</p>\n  <p>宇树科技从今年3月20日科创板IPO申请获受理，再到7月2日注册生效，仅用时104天。其创下科创板预先审阅机制落地以来的最快审核纪录，也成为科创板预先审阅机制落地以来继长鑫科技之后的又一标杆案例。（科创板日报）&nbsp;</p>\n  <p><strong>亚太股指重挫，SK海力",
+    "title_zh": "8点1氪丨“具身智能第一股”宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
+    "summary_zh": "每日新闻摘要：证监会同意宇树科技科创板IPO注册，使其成为全球首家具身智能上市公司；AI版支付宝开放公测，上线72项办事技能；苹果拟推出多款新iPhone。",
+    "key_points": [
+      "证监会同意宇树科技科创板IPO注册",
+      "AI版支付宝开放公测，集成72项办事技能",
+      "苹果计划今明两年推出至少五款新iPhone"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bbb33a2166fa0050d407eb6a6a9b7fbf",
+    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+    "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-02T23:38:10+00:00",
+    "content_snippet": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+    "title_zh": "扎克伯格对员工表示AI代理进展未达预期",
+    "summary_zh": "Meta CEO 扎克伯格在内部会议上坦承，AI 代理的开发进展速度不如预期，反映出大模型在落地应用和复杂任务自主执行上的挑战。",
+    "key_points": [
+      "扎克伯格内部承认AI代理开发进度慢于预期",
+      "反映大模型从技术突破到实际应用的落地鸿沟",
+      "Meta 在AI领域的大规模投入与即时回报之间存在落差"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
