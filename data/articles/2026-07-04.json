@@ -71,5 +71,127 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1035e6f5390702bea58b4d58c24466be",
+    "title": "Contrastive Decoding Diffing (CDD): recovering verbatim finetuning data from logits alone, no weight access needed[R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1umn2dk/contrastive_decoding_diffing_cdd_recovering/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-03T19:01:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We built a model diffing method that recovers verbatim content from narrowly finetuned LLMs using only grey-box logit access (no weights, no activations, no probe corpus).</p> <p>Recent work (Minder, Dumas et al., &quot;Narrow Finetuning Leaves Clearly Readable Traces in Activation Differences&quot;) showed that finetuning leaves detectable traces in activation differences between base and finetuned models. Their method, Activation Difference Lens (ADL), steers ",
+    "title_zh": "对比解码差分法（CDD）：仅凭 logits 即可恢复微调数据，无需访问模型权重",
+    "summary_zh": "研究人员提出 CDD 方法，在无需访问模型权重、激活值或探测语料库的情况下，仅通过灰色盒子的 logits 访问，就能从经过窄领域微调的大语言模型中恢复出逐字训练内容。",
+    "key_points": [
+      "仅凭 logits 访问即可恢复窄领域微调 LLM 的逐字训练数据",
+      "无需模型权重、激活值或额外探测语料库",
+      "这是一种新颖的模型差分攻击方法"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5447e4464144a939c0d1569d6c86a425",
+    "title": "One feature we removed from our prototype before writing a single line of code",
+    "url": "https://www.reddit.com/r/artificial/comments/1ummy9r/one_feature_we_removed_from_our_prototype_before/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-03T18:57:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>One of the first ideas I had while planning our AI verification prototype was to add a confidence score to every result.</p> <p>The more I thought about it, the less I liked the idea.</p> <p>Imagine an AI says:</p> <p>&quot;EBITDA = $12.3M (96% confidence)&quot;</p> <p>What does 96% actually tell the person reviewing a borrower package?</p> <p>It doesn't explain:</p> <p>where the number came from,</p> <p>whether another document reports a differe",
+    "title_zh": "在写下第一行代码前，我们从原型中删掉的一个功能",
+    "summary_zh": "作者在开发 AI 验证原型时，最初计划为每个结果添加置信度评分，但经过深思熟虑后决定放弃该功能，因为简单的百分比数字可能会误导用户，让他们对 AI 的确定性产生错误认知。",
+    "key_points": [
+      "AI 验证原型中移除了置信度评分功能",
+      "数值化的置信度容易让用户对 AI 结果产生误解",
+      "强调产品设计中对 AI 确定性表达方式的反思"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d73edeec0b887eb76939fc472ddd59ed",
+    "title": "How to explain agentic AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1ummly7/how_to_explain_agentic_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-03T18:44:07+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ummly7/how_to_explain_agentic_ai/\"> <img alt=\"How to explain agentic AI\" src=\"https://preview.redd.it/rqumhew582bh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2cd1d31e48adb5cb7a08f7167e0900bec612301\" title=\"How to explain agentic AI\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/whenyoupeeupsidedown\"> /u/whenyoupeeupsidedown </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artif",
+    "title_zh": "如何向大众解释智能体 AI",
+    "summary_zh": "文章探讨了如何更通俗易懂地解释智能体 AI（Agentic AI）的概念，帮助非技术背景的人群理解其与传统 AI 的区别，以及它如何自主执行任务和做出决策。",
+    "key_points": [
+      "阐述智能体 AI 的自主执行任务和决策能力",
+      "旨在向非技术背景人群科普智能体 AI 概念"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f5e18ba468bebc67c0dd75defb4b9d7e",
+    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+    "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-03T18:43:00+00:00",
+    "content_snippet": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "title_zh": "浏览器大战不再围绕搜索，这里是 Chrome 和 Safari 的最佳替代品",
+    "summary_zh": "TechCrunch 盘点了 2026 年挑战 Chrome 和 Safari 市场地位的最热门替代浏览器，指出当前浏览器竞争已从单纯的搜索引擎之争转向更全面的功能与隐私体验。",
+    "key_points": [
+      "盘点 2026 年可替代 Chrome 和 Safari 的主流浏览器",
+      "浏览器竞争焦点已从搜索转向功能与隐私体验"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "microsoft",
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3869c17fc3afe0b71ef38b6c32800c34",
+    "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+    "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-03T17:34:37+00:00",
+    "content_snippet": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and&#8230;",
+    "title_zh": "一种能复活死者眼球供体的设备，或使全眼移植成为可能",
+    "summary_zh": "MIT Technology Review 报道了一种新型设备，能够复活从已故捐献者身上取出的眼球并使其保持活性，有望解决全眼移植手术中供体眼球迅速退化的问题，为未来实现恢复视力的移植手术铺平道路。",
+    "key_points": [
+      "新设备可复活并维持已故捐献者眼球的活性",
+      "解决供体眼球离体后迅速退化的难题",
+      "为未来实现全眼移植并恢复视力提供可能"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
