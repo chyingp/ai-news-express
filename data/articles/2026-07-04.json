@@ -774,5 +774,79 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bff589aaf33b5268418ea83fbe9fe130",
+    "title": "What artificial intelligence should I use daily? I'm lost?",
+    "url": "https://www.reddit.com/r/artificial/comments/1un45qj/what_artificial_intelligence_should_i_use_daily/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-04T08:59:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone,</p> <p>There are many artificial intelligences on the market. There are the most well-known, but there are also others.</p> <p>I have an iPhone as well as an iMac, but today I am disappointed with ChatGPT and I am looking to replace ChatGPT with another artificial intelligence. I have no idea where to go. I do not know what would be, in your opinion, the best artificial intelligence if you know the prices, the advantages or other. I really need y",
+    "title_zh": "我每天应该使用哪种人工智能？我迷茫了",
+    "summary_zh": "一位iPhone和iMac用户对ChatGPT感到失望，在Reddit发帖询问市场上众多AI工具中，哪款适合日常使用，寻求替代方案。",
+    "key_points": [
+      "用户因对ChatGPT失望而寻求日常AI替代方案",
+      "发帖人使用苹果设备，列举了市场上多种AI工具",
+      "帖子反映了普通用户面对众多AI选择时的困惑"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "df4ed99fd417c9e19b255dfcf2800491",
+    "title": "BaryGraph - knowledge graph where every relationship is its own embedded document (not an edge) [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1un3lsf/barygraph_knowledge_graph_where_every/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-04T08:24:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Instead of <code>node --edge--&gt; node</code>, every relationship is a first-class document with its own vector, called a BaryEdge. Stack pairs of BaryEdges recursively and you get &quot;MetaBary&quot; triads that surface structural bridges between concepts that live nowhere near each other in embedding space. Running locally on MongoDB Community + mongot + nomic-embed-text over the full English Wiktionary (6.6M docs). MCP server is live if you want to poke at ",
+    "title_zh": "BaryGraph：将每条关系作为独立嵌入文档的知识图谱",
+    "summary_zh": "介绍了一种新型知识图谱结构BaryGraph，其中关系不再是简单的边，而是拥有自己向量的独立文档，通过递归堆叠可揭示概念间的结构性桥梁。",
+    "key_points": [
+      "提出BaryGraph概念，将关系视为拥有独立向量的文档",
+      "通过递归堆叠BaryEdge和MetaBary三元组发现深层结构",
+      "该方法旨在超越传统节点-边模式的局限性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c825c85dc8945896503530403c65843f",
+    "title": "业内首个AI-eSIM产业协同平台成立",
+    "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-04T07:20:31+00:00",
+    "content_snippet": "36氪获悉，据人民邮电报，7月3日，在中国信息通信业发展高层论坛上，由中国移动发起的业内首个AI-eSIM产业协同平台——“中国通信企业协会AI-eSIM专业委员会”（以下简称：专委会）正式成立，中国移动物联网公司担任主任单位，天翼物联、联通华盛、火山引擎、腾讯云、观安信息等担任副主任单位。据介绍，专委会汇聚了运营商、芯片设计、算法研究、安全服务及模型应用等领域的头部企业40余家。",
+    "title_zh": "业内首个AI-eSIM产业协同平台成立",
+    "summary_zh": "中国移动发起成立业内首个AI-eSIM产业协同平台，汇聚40余家运营商、芯片、算法等头部企业，旨在推动AI与eSIM技术融合。",
+    "key_points": [
+      "中国移动发起成立首个AI-eSIM专业委员会",
+      "火山引擎、腾讯云等担任副主任单位，汇聚40余家企业",
+      "平台旨在促进AI与eSIM技术在通信业的融合应用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
