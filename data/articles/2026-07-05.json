@@ -224,5 +224,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4aeb7d2c2c2424535911a393be0f1bfb",
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-04T20:55:25+00:00",
+    "content_snippet": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+    "title_zh": "谷歌新广告设想：美国独立宣言在AI帮助下撰写",
+    "summary_zh": "谷歌发布新广告，以美国独立宣言签署250周年为背景，设想如果开国元勋们当时能用上Google Workspace会怎样，借此展示AI在日常办公中的潜力。",
+    "key_points": [
+      "谷歌新广告假想开国元勋用AI写独立宣言",
+      "广告旨在推广Google Workspace的AI功能",
+      "广告于美国独立日发布，引发科技与历史融合的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "858fd0af292746d3579d3fc75a3384fb",
+    "title": "What performs the operations coordinated within each layer or head of a Transformer?",
+    "url": "https://www.reddit.com/r/artificial/comments/1unilm4/what_performs_the_operations_coordinated_within/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-04T20:02:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I want to train a Transformer layer to perform specific tasks, but I’m not sure how to coordinate them or determine when to use one versus the other. </p> <p>Does anyone have experience with this? How have you handled it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/New-Competition-3106\"> /u/New-Competition-3106 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href",
+    "title_zh": "Transformer各层或注意力头内部的操作由什么执行？",
+    "summary_zh": "一位Reddit用户发帖询问，如何训练Transformer层去执行特定任务，以及如何协调不同层或注意力头之间的操作，寻求社区的经验分享。",
+    "key_points": [
+      "提问者想训练Transformer层执行特定任务",
+      "核心问题是如何协调层与注意力头之间的操作",
+      "帖子寻求社区关于Transformer内部机制的经验"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ba9e1c1dde035073aa5d04de92bd7a5e",
+    "title": "What are you using for AI marketing content (product visuals + animated trailers)?",
+    "url": "https://www.reddit.com/r/artificial/comments/1unhutd/what_are_you_using_for_ai_marketing_content/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-04T19:31:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Launching my SaaS soon and I'm putting together promo content for Instagram (primary) and TikTok.</p> <p>What I need:</p> <ol> <li>Aesthetic product pictures. Basically polished screenshots and mockups that look premium, not just raw screen grabs on a white background.</li> <li>A 2D animated product trailer with captions. I'll record the voice over myself since I want the product to feel premium, so no AI voices needed there.</li> </ol> <p>The goal is an aesthet",
+    "title_zh": "你用什么工具做AI营销内容（产品图+动画预告片）？",
+    "summary_zh": "一位即将发布SaaS产品的Reddit用户发帖，询问社区推荐用于制作高质量产品图、动画预告片等AI营销内容的工具，主要面向Instagram和TikTok平台。",
+    "key_points": [
+      "用户寻求AI工具制作高质量产品图和动画预告片",
+      "内容主要用于Instagram和TikTok的平台推广",
+      "需求是制作精美、付费感的产品展示素材"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
