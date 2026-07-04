@@ -848,5 +848,101 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0532c3b3eab67659a5e9594e61450e41",
+    "title": "Proposal: Use semantic compression as input diffusion to read sessions larger than the context window [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1un63hv/proposal_use_semantic_compression_as_input/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-04T10:56:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been trying to come up with a solution for keeping extremely long ai sessions coherent. Sometimes there is too much substance to risk compaction. With so much buzz around diffusion going on it got me thinking, what if we treat the context like a progressive render, blurry&gt;sharp.</p> <p>The practical way to make text &quot;blurry&quot; is compression. This is a &quot;diffusion inspired&quot; system which borrows the coarse-to-fine process, not the formal ",
+    "title_zh": "提议：使用语义压缩作为输入扩散以读取超出上下文窗口的长会话",
+    "summary_zh": "Reddit用户提出一种解决超长AI会话上下文限制的新思路：将上下文视为渐进式渲染过程，利用语义压缩结合扩散模型来处理超出上下文窗口的大量信息，以保持会话连贯性。",
+    "key_points": [
+      "提出使用语义压缩和扩散模型处理长上下文",
+      "旨在解决超长AI会话中上下文窗口受限问题",
+      "该思路将上下文内容视为渐进式渲染过程"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ecfd2273bc9e937293bb0a501fab4d0",
+    "title": "Other than writing emails and summarizing reports, what else do you use AI for at your office if you are not the tech side of the business?",
+    "url": "https://www.reddit.com/r/artificial/comments/1un62q0/other_than_writing_emails_and_summarizing_reports/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-04T10:55:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Since I am not building any tech products or coding, other than email and repots, I am not sure what else to use AI for. Are there any other creative ways you use AI for genuinely help with day to day work. Please share your ideas.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LowVegetable8299\"> /u/LowVegetable8299 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"",
+    "title_zh": "除了写邮件和总结报告，你在办公室还用AI做什么？",
+    "summary_zh": "Reddit上非技术背景用户发帖询问，除了撰写邮件和总结报告外，在日常工作中还有哪些创造性使用AI来真正帮助提高效率的方法，希望获得灵感分享。",
+    "key_points": [
+      "非技术背景用户寻求AI在日常办公中的创造性应用",
+      "讨论超越写邮件和总结报告等常规用途",
+      "旨在收集提高工作效率的实用AI使用案例"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0f5ba5562e158c7b169e39d3363b2875",
+    "title": "How ai models actually perform when forced to make real decisions instead of just answering questions",
+    "url": "https://www.reddit.com/r/artificial/comments/1un5rl2/how_ai_models_actually_perform_when_forced_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-04T10:36:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am curious about how artificial intelligence models really work when they have to make real decisions instead of just answering questions. Most of the time I see artificial intelligence models being tested on how they answer questions or solve puzzles.. I think that making decisions when things are not certain and you do not get feedback right away is a totally different thing. This is a skill that is not really tested anywhere.</p> <p>I mean decision making w",
+    "title_zh": "当AI模型被迫做出真实决策时实际表现如何",
+    "summary_zh": "用户好奇AI模型在被迫做出真实决策而非仅仅回答问题时表现如何。当前测试多聚焦于问答或解谜，该用户希望探讨AI在更具现实决策压力场景下的实际能力。",
+    "key_points": [
+      "探讨AI模型从回答问题到做出真实决策的能力差异",
+      "当前AI测试大多局限于问答和解题场景",
+      "关注AI在现实决策压力下的实际表现"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "94ea7beba99e6f711b044e47ab22f5eb",
+    "title": "Built a web app that maps song structure (Verse, Chorus, Bridge, etc.) — here's a demo",
+    "url": "https://www.reddit.com/r/artificial/comments/1un4s7a/built_a_web_app_that_maps_song_structure_verse/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-04T09:37:05+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Upload any track and it instantly maps the structure — Verse, Chorus, Bridge, and more. Also gives AI feedback and exports a PDF. Would love to hear what you think!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WhichYoung6026\"> /u/WhichYoung6026 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1un4s7a/built_a_web_app_th",
+    "title_zh": "构建了一个映射歌曲结构的网页应用，可识别主歌、副歌等",
+    "summary_zh": "开发者展示了一款网页应用，上传任意曲目后能即时映射出歌曲结构（主歌、副歌、桥段等），并提供AI反馈和PDF导出功能，邀请社区用户给予评价。",
+    "key_points": [
+      "发布可自动识别歌曲结构的网页应用",
+      "支持上传曲目并映射主歌、副歌、桥段等结构",
+      "提供AI反馈和PDF导出功能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
