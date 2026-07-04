@@ -944,5 +944,106 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f87cfe76151d6d28d3b19b0060f0c3e5",
+    "title": "The fanfiction community is at war with AI — and itself",
+    "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-04T12:00:00+00:00",
+    "content_snippet": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a [&#8230;]",
+    "title_zh": "同人小说社区正与AI及自身开战",
+    "summary_zh": "一场旨在清除使用生成式AI作者的粉丝作品运动兴起，但其检测方法备受质疑，可能误伤无辜写手，引发社区内部对Claude、ChatGPT等工具使用的广泛争议。",
+    "key_points": [
+      "新运动试图用AI检测工具根除同人创作中的生成式AI使用",
+      "现有检测方法准确性存疑，可能导致大量作者被错误标记"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3f32eeaee972f22de7444920856e9d40",
+    "title": "This week in AI: GPT-5.6, Gemini 3.5 Flash, Claude Science, and a Qwen price war — inference cost is collapsing across every tier at once",
+    "url": "https://www.reddit.com/r/artificial/comments/1un6v9c/this_week_in_ai_gpt56_gemini_35_flash_claude/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-04T11:39:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Lot dropped this week and there's a pretty clear through-line, so figured I'd pull it together.</p> <p>Model releases:</p> <p>- OpenAI launched GPT-5.6 (Sol/Terra/Luna). The bit worth noting isn't the flagship — it's Terra, reportedly matching GPT-5.5 quality at ~2x cheaper, with Luna aimed at the low-cost end.</p> <p>- Google shipped Gemini 3.5 Flash (beats 3.1 Pro on several benchmarks), plus Nano Banana 2 Lite (images ~$0.034/1K-res) and Gemini Omni Flash (vi",
+    "title_zh": "本周AI动态：GPT-5.6、Gemini 3.5 Flash、Claude Science及Qwen价格战，推理成本全面崩溃",
+    "summary_zh": "本周AI模型密集发布，OpenAI推出GPT-5.6系列，其Terra模型以更低的推理成本达到GPT-5.5级别质量。同时，Gemini 3.5 Flash、Claude Science及Qwen模型引发价格战，各级别推理成本同步大幅下降。",
+    "key_points": [
+      "OpenAI GPT-5.6的Terra模型以GPT-5.5质量实现了约2倍性价比提升",
+      "Gemini 3.5 Flash、Claude Science等新模型发布加剧市场竞争",
+      "从高端到低端，AI模型推理成本正在全线急剧下降"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "google",
+      "anthropic",
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5ec17e8310139aa6c4e10a6978c6a259",
+    "title": "Built an AI workspace to simplify my SEO workflow — looking for honest feedback",
+    "url": "https://www.reddit.com/r/artificial/comments/1un6nas/built_an_ai_workspace_to_simplify_my_seo_workflow/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-04T11:27:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Over the past few months, I've been building a project to solve a problem I kept running into.</p> <p>My SEO workflow was scattered across too many tools:</p> <ul> <li>Keyword research in one place</li> <li>SERP analysis in another</li> <li>Content briefs somewhere else</li> <li>AI writing in ChatGPT</li> <li>Competitor research across multiple tabs</li> </ul> <p>It felt like I was spending more time switching tools than actually creating content.</p> <p>So I st",
+    "title_zh": "构建AI工作区以简化SEO流程——寻求真实反馈",
+    "summary_zh": "一位开发者因SEO工作流分散在多个工具中，耗时数月构建了一个集成关键词研究、SERP分析和内容简报的AI工作区，现就其项目寻求社区反馈。",
+    "key_points": [
+      "项目旨在解决SEO工作流中工具分散、效率低下的问题",
+      "该AI工作区集成了关键词研究、SERP分析和内容简报功能"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "58aabd0438556b820ac8189c4942de94",
+    "title": "Thoughts on this ?",
+    "url": "https://www.reddit.com/r/artificial/comments/1un6mw6/thoughts_on_this/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-04T11:26:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I got tired of seeing fly tipping near where I live so I started building an AI system to detect it. Computer vision, YOLOv8, trail cameras.</p> <p>95% vehicle detection on first model. Building toward automatic alerts and evidence packaging for council prosecution.</p> <p>I’m 14 and doing this from my bedroom in Manchester.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NeuroDash\"> /u/NeuroDash </a> &#32; to &#32; <a href",
+    "title_zh": "对此有何看法？",
+    "summary_zh": "一名用户因不堪忍受非法倾倒垃圾，正利用计算机视觉、YOLOv8和狩猎相机构建AI系统，以实现95%的车辆检测率，并计划开发自动警报和证据打包功能以供市政起诉。",
+    "key_points": [
+      "利用YOLOv8和狩猎相机开发非法倾倒垃圾AI检测系统",
+      "首版模型实现95%车辆检测率，目标是自动生成证据以协助市政起诉"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
