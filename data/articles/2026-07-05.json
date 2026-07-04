@@ -100,5 +100,129 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5a6c60be6b1b7407aa61ac68892956bf",
+    "title": "We'll benchmark an Open weights LLM on any GPU you choose — drop your model + hardware and we'll run it. [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ungvxu/well_benchmark_an_open_weights_llm_on_any_gpu_you/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-04T18:51:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We run HexGrid Cloud, a platform for deploying open-source models on GPUs, and we're heads-down optimizing our serving/deployment layer.</p> <p>To pressure-test it we're benchmarking real models under real concurrency — and instead of guessing, we'd rather run what you actually want to see.</p> <p>---</p> <p><strong>Models available for benchmarking</strong>:</p> <ul> <li>Nemotron-3 Super 120B-A12B (only NVFP4)</li> <li>Nemotron-3 Nano 30B A3B</li> <li>Qwen-3.6 ",
+    "title_zh": "我们将为你选择的任何GPU基准测试开源大语言模型——留下你的模型和硬件，我们运行。",
+    "summary_zh": "HexGrid Cloud平台为优化服务部署，公开征集用户指定的开源大模型和GPU组合，进行真实并发压力测试，并承诺发布结果。",
+    "key_points": [
+      "HexGrid Cloud平台主动邀请用户提交模型和GPU组合进行基准测试",
+      "测试旨在优化开源模型在GPU上的服务部署层性能",
+      "结果将公开透明地展示不同硬件上的模型表现"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4e921ef0f8e1f2d074363c15d76cccc6",
+    "title": "Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content",
+    "url": "https://www.reddit.com/r/artificial/comments/1ungqh7/meta_paid_hundreds_of_contractors_to_pretend_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-04T18:44:49+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ungqh7/meta_paid_hundreds_of_contractors_to_pretend_to/\"> <img alt=\"Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content\" src=\"https://external-preview.redd.it/yWH03dVtbvwyUJnngUCQyl8_3Q5CkXg5WDw1mWI4sxk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa62c9e3ba0d0f5ef50ed8d5fab09cdecc7aa326\" title=\"Meta Paid Hundreds of Contractors to Pretend to Be Teenag",
+    "title_zh": "Meta被曝雇佣数百名承包商伪装青少年，向竞争对手AI投喂不良内容",
+    "summary_zh": "据报道，Meta雇佣数百名承包商模拟青少年行为，向竞争对手的人工智能系统发送令人不安的内容，以测试或干扰其AI模型。",
+    "key_points": [
+      "Meta被指雇佣承包商伪装青少年攻击竞争对手AI",
+      "行为涉及向竞争AI模型投喂不良内容",
+      "事件引发对AI安全测试伦理边界的新争议"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6bc4201610207f8c2599114214d13a6a",
+    "title": "Meta Reportedly Strikes $6.5 Billion Deal with Samsung Foundry for 2nm AI Chips",
+    "url": "https://www.reddit.com/r/artificial/comments/1unfzi9/meta_reportedly_strikes_65_billion_deal_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-04T18:13:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Meta Platforms is reportedly investing <strong>$6.5 billion</strong> with Samsung Foundry to produce its third-generation <strong>MTIA (Meta Training and Inference Accelerator)</strong> chips using a <strong>2nm process</strong>. This strategic move signifies a shift from TSMC and aims to reduce reliance on NVIDIA GPUs, lower supply chain risks, and support Meta's ambitious goal of <strong>5 gigawatts of computing capacity by 2030</strong> for its AI and cloud i",
+    "title_zh": "Meta与三星代工达成65亿美元合作，将量产2nm AI芯片",
+    "summary_zh": "Meta计划投资65亿美元与三星代工合作，为其第三代MTIA训练和推理加速器芯片采用2nm工艺，这标志着其自研AI芯片的重大战略转变。",
+    "key_points": [
+      "Meta砸65亿美元委托三星代工生产2nm AI芯片",
+      "新芯片为第三代MTIA训练和推理加速器",
+      "此举旨在减少对英伟达等外部供应商的依赖"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "81db9c8e2dbcafeee5010e38b8efea3b",
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-04T18:00:05+00:00",
+    "content_snippet": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+    "title_zh": "Midjourney要求好莱坞片厂披露其AI使用详情",
+    "summary_zh": "在与三家好莱坞片厂的法律纠纷中，Midjourney正向法院申请，强制这些片厂公开自身如何使用AI技术，试图将争议焦点引向对方。",
+    "key_points": [
+      "Midjourney在诉讼中要求好莱坞片厂公开AI使用细节",
+      "此举旨在反击片厂对Midjourney的版权侵权指控",
+      "争议核心在于电影工业中AI生成内容的角色与界限"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d70d1bee8526db7ac4920444723d8caa",
+    "title": "Can AI Avatars Change How We Perceive Information? (Academic Research)",
+    "url": "https://www.reddit.com/r/artificial/comments/1unf5gk/can_ai_avatars_change_how_we_perceive_information/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-04T17:40:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello Everyone!</p> <p>You are invited to take part in a study exploring whether different AI avatars can shift people’s perceptions when they watch information online. The survey takes about 10 minutes to complete and is open to anyone aged 18 or older.</p> <p>Link to the study: <a href=\"https://surveyswap.io/s/ZYHW-JGAP-9UQD\">https://surveyswap.io/s/ZYHW-JGAP-9UQD</a></p> <p>Thank you very much in advance for your participation!</p> </div><!-- SC_ON --> &#32; ",
+    "title_zh": "AI虚拟形象能否改变我们感知信息的方式？（学术研究）",
+    "summary_zh": "一项学术研究正在招募参与者，旨在探索不同的AI虚拟形象是否会改变人们观看在线信息时的感知和看法，调查约需10分钟。",
+    "key_points": [
+      "研究探索AI虚拟形象对信息感知的影响",
+      "通过在线调查收集公众对不同AI形象的反馈",
+      "研究结果可能应用于优化AI信息传播设计"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
