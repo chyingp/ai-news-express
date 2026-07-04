@@ -676,5 +676,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "eb1a5a4d3f1153b38494c445283a5e03",
+    "title": "I built my 'first' flow matching image generator, here's what I learned [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1un0v49/i_built_my_first_flow_matching_image_generator/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-04T05:46:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Today I put out my first flow matching image generation model!</p> <p>This is a toy example trained on a 2024 MPS Macbook Pro using a small sample of images—specifically, the Apple emoji library and their text labels. Because of this, it’s not a massive model (clocking in at ~4.7 million parameters), but it was an incredible learning experience.</p> <p><strong>My original approach (which failed):</strong></p> <p>I initially tried taking the emoji images, convert",
+    "title_zh": "我构建了第一个'流匹配'图像生成器，以下是经验总结",
+    "summary_zh": "作者分享在MacBook Pro上训练一个基于流匹配的玩具级图像生成模型的经历，模型使用苹果表情符号库进行训练，规模较小，旨在实践技术。",
+    "key_points": [
+      "使用流匹配技术训练图像生成模型",
+      "在MacBook Pro上使用苹果表情符号数据集进行实验",
+      "文章分享个人技术实践心得"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "573c936f9f399ecc3e7c485e400da6b4",
+    "title": "Anthropic vs Opensourced model",
+    "url": "https://www.reddit.com/r/artificial/comments/1umysgl/anthropic_vs_opensourced_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-04T03:55:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Anthropic vs Open weight Chinese AI</p> <p>[<a href=\"https://youtube.com/shorts/XZCWFNNiKgY?si=DViuG1xVptLTYDdQ%5C%5D(https://youtube.com/shorts/XZCWFNNiKgY?si=DViuG1xVptLTYDdQ)\">https://youtube.com/shorts/XZCWFNNiKgY?si=DViuG1xVptLTYDdQ\\](https://youtube.com/shorts/XZCWFNNiKgY?si=DViuG1xVptLTYDdQ)</a></p> <p>When Alex Karp goes off on one of his rants, you usually have to filter through a lot of Palantir theater, but his recent take on AI safety was actually in",
+    "title_zh": "Anthropic对比开源模型",
+    "summary_zh": "一篇Reddit帖子讨论Anthropic与开放权重中国AI模型的对比，通过YouTube短视频链接引发社区对闭源与开源模型性能的争论。",
+    "key_points": [
+      "对比Anthropic模型与中国开源AI模型",
+      "讨论聚焦于闭源与开放权重模型的优劣",
+      "内容基于YouTube短视频对比展示"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d94d03122fb3e8dcc6c7dcf891d8da54",
+    "title": "Do you agree with Palantir CEO Alex Karp that the enterprise \"tokenmaxxing\" business model has \"gone completely wrong\" with minimal ROI? Will open-weight models inevitably win?",
+    "url": "https://www.reddit.com/r/artificial/comments/1umy4g6/do_you_agree_with_palantir_ceo_alex_karp_that_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-04T03:20:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Palantir CEO Alex Karp recently went on CNBC’s <em>Squawk Box</em> and delivered a brutal takedown of the API token pricing model pushed by commercial frontier labs like OpenAI and Anthropic.</p> <p>His core argument is that American enterprises are quietly &quot;livid&quot; because they are burning massive cash on skyrocketed token costs without seeing a clear return on investment. He noted that the industry’s incentive structure has completely devolved into me",
+    "title_zh": "你同意Palantir CEO关于企业'Token最大化'商业模式已失败的观点吗？",
+    "summary_zh": "Palantir CEO Alex Karp批评OpenAI和Anthropic等实验室的API代币定价模式，认为其投资回报率极低，并质疑开放权重模型是否会最终胜出。",
+    "key_points": [
+      "Palantir CEO批评API代币定价模式投资回报率低",
+      "论点直指OpenAI和Anthropic等前沿AI公司",
+      "引发对开放权重模型未来主导地位的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2f5c6231c0f2cab02087fff4f7cea5cb",
+    "title": "4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单",
+    "url": "https://36kr.com/newsflashes/3880717381382148?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-04T03:16:30+00:00",
+    "content_snippet": "据报道，业内人士称，随着AI半导体需求升温、全球大型科技公司订单增加，三星电子晶圆代工部门已针对部分制程启动配额机制（allocation），将有限产能集中分配给较重要的客户和制程，将产能优先分配给现有客户，新客户订单则选择性承接。（新浪财经）",
+    "title_zh": "4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单",
+    "summary_zh": "因AI半导体需求激增，三星电子晶圆代工产能紧张，4nm和部分8nm制程接近满载，已启动配额机制，优先供应现有重要客户。",
+    "key_points": [
+      "三星4nm制程产能接近售罄",
+      "AI半导体需求增长导致产能紧张",
+      "三星启动配额机制，新客户订单选择性承接"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "samsung"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
