@@ -1,0 +1,104 @@
+[
+  {
+    "id": "c96bb518e6f9f2db47445b632dc29302",
+    "title": "What's a task people think AI agents are ready for, but really aren't?",
+    "url": "https://www.reddit.com/r/artificial/comments/1une7tz/whats_a_task_people_think_ai_agents_are_ready_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-04T17:02:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There's a handful of use cases that get pitched nonstop in demos and decks, and then completely fall apart the second you try running them for real.</p> <p>For me it's anything involving reading intent from ambiguous human input. When you give it a clear support ticket everything would be fine. But give it a message where the person's clearly annoyed but not saying why, and it either overreacts or misses it completely.</p> <p>What are those kinda use-cases for y",
+    "title_zh": "人们认为AI代理已准备好但实际仍不成熟的任务有哪些？",
+    "summary_zh": "Reddit讨论揭示了AI代理在理解模糊人类意图等任务上的不足，演示中看似完美的用例在实际运行中经常失败，引发社区热议。",
+    "key_points": [
+      "AI代理在处理模糊人类意图的任务上表现不佳",
+      "许多演示用例在实际应用中完全崩溃",
+      "Reddit用户讨论AI代理的当前能力边界"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ffdf2d6e4cd4b8b971f0599e0d7e4a57",
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-04T16:32:08+00:00",
+    "content_snippet": "Alibaba has reportedly classified Claude Code as high-risk software.",
+    "title_zh": "阿里巴巴据报禁止员工使用Claude Code",
+    "summary_zh": "阿里巴巴已将Claude Code归类为高风险软件，并禁止员工使用，此举可能出于数据安全或合规方面的考量。",
+    "key_points": [
+      "阿里巴巴将Claude Code列为高风险软件并禁止使用",
+      "此举反映了对AI编码工具安全性的担忧",
+      "报道来自TechCrunch，发布时间为2026年7月4日"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a00e4ef278625b986a9fcbd765e84ef4",
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-04T15:51:32+00:00",
+    "content_snippet": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+    "title_zh": "什么是Mistral AI？关于这家OpenAI竞争对手的一切",
+    "summary_zh": "Mistral AI作为OpenAI的竞争对手，自2023年成立以来已筹集巨资，并开源部分模型，致力于让前沿AI惠及大众。",
+    "key_points": [
+      "Mistral AI是欧洲的OpenAI竞争对手，提供开源模型",
+      "公司自2023年成立以来已获得大量资金支持",
+      "其使命是让前沿AI变得人人可用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "mistral"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "da18d67ec6c4f1b8861d1ff2a9d3d7ec",
+    "title": "Wait what?",
+    "url": "https://www.reddit.com/r/artificial/comments/1unbuu4/wait_what/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-04T15:25:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://thenextweb.com/news/alibaba-bans-claude-code-anthropic-tracking-chinese-users\">https://thenextweb.com/news/alibaba-bans-claude-code-anthropic-tracking-chinese-users</a></p> <p>Anthropic is tracking People who are known to track everyone? 😂</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/base64-encode\"> /u/base64-encode </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br",
+    "title_zh": "等等，什么？",
+    "summary_zh": "Reddit用户转发新闻称阿里巴巴禁用Claude Code，并调侃Anthropic在追踪中国用户，而中国用户本身就以追踪他人著称。",
+    "key_points": [
+      "用户转发阿里巴巴禁用Claude Code的新闻",
+      "讨论Anthropic追踪中国用户的做法",
+      "带有调侃性质的社区讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
