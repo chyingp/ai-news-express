@@ -285,5 +285,121 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9d4169b3b8b3dbf28a910b6750b320a9",
+    "title": "Best models for generating red-team attacks? Also looking for public datasets [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uoejrl/best_models_for_generating_redteam_attacks_also/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-05T21:49:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I'm currently working on a framework to evaluate the security of LLM applications and AI agents, and I've been stuck on one part for a while.</p> <p>Most red-teaming frameworks rely on an LLM to generate adversarial prompts. My question is more about <strong>which model to use</strong>.</p> <ul> <li>Which <strong>closed-source</strong> models would you recommend for generating high-quality attacks?</li> <li>Which <strong>open-source</strong> models ",
+    "title_zh": "寻找最佳红队攻击生成模型及公开数据集 [R]",
+    "summary_zh": "Reddit 用户寻求用于评估 LLM 应用和 AI 代理安全性的红队攻击生成模型推荐，并咨询相关的公开可用数据集。",
+    "key_points": [
+      "用户正构建框架评估 LLM 应用安全性",
+      "寻求效果最佳的红队攻击生成模型",
+      "询问可用的公开红队攻击数据集"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "992eef56aaa499551a3108c1b90dbe08",
+    "title": "ORBIS - Daily Briefing",
+    "url": "https://www.reddit.com/r/artificial/comments/1uodn74/orbis_daily_briefing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-05T21:11:19+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uodn74/orbis_daily_briefing/\"> <img alt=\"ORBIS - Daily Briefing\" src=\"https://preview.redd.it/989ioifh8hbh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c19a8710e52e4101494c77f42b1b73c77025dc64\" title=\"ORBIS - Daily Briefing\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://orbis.aurochthryx.com\">https://orbis.aurochthryx.com</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.",
+    "title_zh": "ORBIS - 每日简报",
+    "summary_zh": "关于 AI 资讯聚合产品 ORBIS 每日简报的 Reddit 讨论帖，未提供具体的新闻内容摘要。",
+    "key_points": [
+      "涉及 AI 资讯产品 ORBIS 的每日简报"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "271133f0135dcf3ab7c1135e234483fc",
+    "title": "AI Not Providing Feedback on Dates?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uocz7k/ai_not_providing_feedback_on_dates/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-05T20:44:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have been asking Claude to give me feedback on dates I go out on with girls. Most recently I went on a really fun date that unfortunately ended with ghosting so I put as much detail as possible about the date into Claude Sonnet 5 and asked it for feedback. After running the date through Sonnet 5 several times it just kept repeating that it was a solid date and it did not have feedback to provide. I do not want validation, I want to improve to reach my goals. <",
+    "title_zh": "AI 不提供约会反馈了吗？",
+    "summary_zh": "用户抱怨使用 Claude 获取约会反馈时，AI 不再提供具体分析，转而给出通用建议，引发对 AI 内容限制的讨论。",
+    "key_points": [
+      "用户发现 Claude 拒绝提供具体的约会反馈分析",
+      "AI 转向提供通用建议而非具体批评",
+      "引发对 AI 内容限制和审查趋势的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "00261968e6397fde5e61bb7a20ff496a",
+    "title": "Why are more and more people switching to uncensored or local models?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uocn4j/why_are_more_and_more_people_switching_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-05T20:30:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A clear trend is happening lately, a lot of users are moving away from heavily restricted models like chatgpt and claude toward uncensored or local models.</p> <p>Common reasons seem to be fewer refusals, better creative freedom, and privacy concerns. Has anyone else made the switch or considered it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NoFilterGPT\"> /u/NoFilterGPT </a> &#32; to &#32; <a href=\"https://www.reddit.",
+    "title_zh": "为何越来越多的人转向无审查或本地模型？",
+    "summary_zh": "Reddit 用户讨论用户从 ChatGPT 和 Claude 等受限模型转向无审查或本地模型的趋势，原因包括更少拒绝、更好创作自由和隐私考量。",
+    "key_points": [
+      "用户正从 ChatGPT 等受限模型转向无审查或本地模型",
+      "主要驱动力包括减少拒绝、提升创作自由和隐私保护",
+      "反映用户对 AI 内容审查和限制的日益不满"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "58b08faf8e7d714995850c43bcb118d4",
+    "title": "I guess Ai's (somewhat) do care",
+    "url": "https://www.reddit.com/r/artificial/comments/1uockze/i_guess_ais_somewhat_do_care/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-05T20:28:13+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uockze/i_guess_ais_somewhat_do_care/\"> <img alt=\"I guess Ai's (somewhat) do care\" src=\"https://preview.redd.it/b9w39fjs0hbh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8499e7ac4f3d5c537008b38ebe28c46b04ea8c83\" title=\"I guess Ai's (somewhat) do care\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>ChatGPT is asking me to close ChatGPT... Which is honestly surprising to me, especially if it's just a way to reduce co",
+    "title_zh": "我猜 AI 在某种程度上确实在乎",
+    "summary_zh": "关于 AI 表现出某种情感或关怀的 Reddit 趣味讨论帖子，内容轻松，缺乏实质性技术或行业信息。",
+    "key_points": [
+      "关于 AI 是否表现出关怀的趣味性讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
