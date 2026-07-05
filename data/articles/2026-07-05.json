@@ -656,5 +656,99 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "505bc360f6b4327befa8cdbb66975aa3",
+    "title": "Is machine learning research worth it for now? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uo0dqi/is_machine_learning_research_worth_it_for_now_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-05T11:58:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am a scientist who just applied machine learning to my research (JEPA/Representation/Geometric branch) and it did wonder! Allowed me to see so many papers that I am still struggling to write up.</p> <p>From what I see, there are clearly a million possibilities not done yet, e.g., industrial data, patterns in nature, etc.</p> <p>Why is the job perspective so pessimistic? We clearly have problems unsolved, and for many, the potential of ML will be proven for sur",
+    "title_zh": "现在做机器学习研究还值得吗？",
+    "summary_zh": "一位科学家在 Reddit 讨论机器学习研究的价值，分享其应用 JEPA 等技术取得显著成果，但认为该领域仍有大量未探索的可能性，引发社区对研究方向的思考。",
+    "key_points": [
+      "一位科学家应用 JEPA 等机器学习技术取得显著研究突破",
+      "发帖者认为该领域仍有大量未探索的可能性，但面临发文压力"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ad6306868a9972b1e43e8f86baab4a7a",
+    "title": "What should people learn today to stay relevant in an AI-driven future?",
+    "url": "https://www.reddit.com/r/artificial/comments/1unzymd/what_should_people_learn_today_to_stay_relevant/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-05T11:36:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>With AI advancing so quickly, I'm trying to understand how to prepare for the next 5–10 years.</p> <p>A few questions I'd love to hear your thoughts on:</p> <p>What skills should people focus on learning now to stay relevant alongside AI?</p> <p>Beyond prompting, what are the most valuable AI-related skills (automation, coding, workflows, AI agents, etc.)?</p> <p>Which jobs or industries are likely to benefit the most, and which are at the highest risk?</p> <p>D",
+    "title_zh": "在 AI 驱动的未来，现在应该学习什么才能保持竞争力？",
+    "summary_zh": "Reddit 用户发帖探讨在 AI 快速发展的背景下，未来 5-10 年应学习哪些技能，除了提示工程外，还寻求更根本的思维方式和知识体系。",
+    "key_points": [
+      "探讨 AI 时代下需培养的长期技能，而非仅依赖提示工程",
+      "关注未来 5-10 年个人如何与 AI 协作并保持职业相关性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6a48c8032d3e92cb8027160f3ccb081e",
+    "title": "AI as coworkers tools not just coding agents",
+    "url": "https://www.reddit.com/r/artificial/comments/1unzwk7/ai_as_coworkers_tools_not_just_coding_agents/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-05T11:33:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey all</p> <p>​I've been evaluating the &quot;AI coworker&quot; approach between the new Databricks Genie One interface and Anthropic's Claude Cowork desktop agent. While both claim to move past standard chat prompts into autonomous execution, they handle data from opposite ends of the stack. Claude Cowork operates right on your computer, meaning it's incredible for unblocking local workflow bottlenecks like organizing a messy folder of exports or synthesizing ",
+    "title_zh": "AI 作为同事工具，而不仅是编程代理",
+    "summary_zh": "用户比较了 Databricks Genie One 和 Anthropic Claude Cowork 两种 AI 协作工具，分析它们从传统聊天提示转向自主执行时，如何处理数据交互。",
+    "key_points": [
+      "比较 Databricks Genie One 与 Anthropic Claude Cowork 的协作方式",
+      "探讨 AI 工具从聊天式交互向自主执行代理的转变趋势"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2242a3809cce2500bddd2ec6e0576636",
+    "title": "Question regarding Xournal++ and software 4 taking university notes during class [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1unzaxg/question_regarding_xournal_and_software_4_taking/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-05T11:00:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi. I have a question, could this plan and pipeline work?. I will be attending university master's classes on AI (thankfully got accepted a few days ago) and computers in a few months. There will be university lectures on machine learning, computer vision, robotics, video games and AI etc, i wanted to take notes using my laptop instead of the classical approach of pen and paper. i have a 500$ hp laptop (it doesnt have touch screen though so it's screen is not re",
+    "title_zh": "关于 Xournal++ 及大学课堂笔记软件的问题",
+    "summary_zh": "一位即将攻读 AI 硕士学位的学生询问使用 Xournal++ 等软件进行课堂笔记记录的工作流程是否可行，涉及机器学习、计算机视觉等课程。",
+    "key_points": [
+      "准硕士生询问 Xournal++ 用于 AI 课程笔记的可行性",
+      "涉及机器学习、计算机视觉等课程的笔记工具选择"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
