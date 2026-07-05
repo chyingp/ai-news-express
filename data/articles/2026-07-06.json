@@ -1,0 +1,124 @@
+[
+  {
+    "id": "5687d0c5b5477dd89d25ff96cd37ac49",
+    "title": "Why I built a proactive context curator instead of a compactor — and what I got wrong for three months [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uo5r0b/why_i_built_a_proactive_context_curator_instead/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-05T15:57:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Two ways to handle a context window that's filling up.</p> <p>Reactive: wait until it's full, then compact everything. Proactive: be picky about what gets added every turn so noise never piles up in the first place.</p> <p>Most coding agents take the reactive path. I spent months building the proactive one, and I want to be honest about what actually worked and what didn't.</p> <p><strong>What held up</strong></p> <p>A decision your agent made on turn 3 is worth",
+    "title_zh": "为什么我构建了一个主动式上下文筛选器，而不是压缩器——以及我三个月来错在哪里",
+    "summary_zh": "作者分享了处理AI上下文窗口的两种策略：被动等待装满后压缩，和主动在每轮添加时筛选信息以避免噪声堆积。大多数编码助手采用被动方式，作者探索了主动方法并反思了开发中的错误。",
+    "key_points": [
+      "主动式上下文筛选器在信息添加时过滤噪声，避免后续压缩",
+      "大多数编码助手采用被动压缩策略，作者实践了相反路径",
+      "作者分享了三个月开发过程中的经验教训和错误认知"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b137eba049d21c64a81b54c36ea7e057",
+    "title": "We are Focused on the Wrong Problems!",
+    "url": "https://www.reddit.com/r/artificial/comments/1uo5oiq/we_are_focused_on_the_wrong_problems/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-05T15:54:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most of the focus is on AI being bad rather than how major companies are deploying AI. My concern isn't that AI is becoming more powerful. I mean, that is a concern, of course, but since most of the implications are speculative, you can't exactly take any stance or action on that problem other than countries coming together and setting rules and policies for how they distribute and use frontier models and capabilities, especially in warfare.</p> <p>My largest co",
+    "title_zh": "我们关注错了问题！",
+    "summary_zh": "文章认为当前AI讨论过度聚焦于AI本身变坏的风险，而忽视了大型公司正在如何部署AI技术。作者担忧这些实际部署行动的影响，而非仅停留在对AI能力增强的猜测上。",
+    "key_points": [
+      "当前焦点过度关注AI变坏，忽视了大公司实际部署AI的行为",
+      "作者担忧的是正在发生的AI部署实践，而非对未来的推测",
+      "呼吁将关注点从AI能力本身转向其被如何应用和部署"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2c08cfa3c653d3dbf7c80ba71896dad6",
+    "title": "Is Intrinsic Motivation a Viable PhD Topic in 2026? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uo5kg6/is_intrinsic_motivation_a_viable_phd_topic_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-05T15:50:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I started a PhD in CS about a year an a half ago. Generally speaking my topic is on intrinsic motivation (more commonly people refer to it as unsupervised RL).</p> <p>Intrinsic motivation (IM) is a niche field within AI. It seeks to develop reward signals which are not specific to any task but rather something closer to the low level motivators that drive intelligent behaviors in animals. Some prominent examples are:</p> <ul> <li>Empowerment: <a href=\"https://ar",
+    "title_zh": "2026年，内在动机作为博士课题还可行吗？",
+    "summary_zh": "一位在读博士生咨询内在动机（IM）作为博士课题的可行性。该领域在AI中较为小众，旨在开发无需外部奖励的强化学习信号。作者关心其研究前景和就业机会。",
+    "key_points": [
+      "内在动机是AI中的小众领域，专注于开发无监督的奖励信号",
+      "在读博士生咨询该课题在2026年的研究前景和可行性",
+      "讨论涉及该领域的学术价值和未来就业方向"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8ef3469970c7bf1fc258fe465c9787a8",
+    "title": "our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math",
+    "url": "https://nitter.net/sama/status/2073791666553844074#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-05T15:30:37+00:00",
+    "content_snippet": "<p>our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math</p>",
+    "title_zh": "Sam Altman：孩子第一次说出两个词，与 GPT-5.6 发现新数学一样令我惊叹",
+    "summary_zh": "Sam Altman 在社交媒体上分享了个人时刻，表达对孩子语言能力首次发展的惊奇，并将其与 GPT-5.6 发现新数学的认知壮举相提并论，展现了对人类与AI认知发展的双重感慨。",
+    "key_points": [
+      "Sam Altman 将孩子首次说出两个词与 GPT-5.6 发现新数学类比",
+      "推文隐含提及 GPT-5.6 版本，暗示其具备发现新数学的能力",
+      "展现了OpenAI CEO对人类认知和AI进展的双重赞叹"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f6e7fea5a5583ea37298d3460d57f9a7",
+    "title": "Un modello 100% locale sul tuo smartphone!",
+    "url": "https://www.reddit.com/r/artificial/comments/1uo4dyo/un_modello_100_locale_sul_tuo_smartphone/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-05T15:02:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Devo dirlo, sono diventato matto...questa volta pensavo di mollare sul serio, ma poi stamattina il miracolo. (almeno per me). Ho fatto fine tuning e scritto tools per due modelli: un Qwen 3 da 1.5B e un altro da 4B quantizzati all'estremo. Il 4B è per smartphone con almeno 12Gb di RAM, mentre il piccolo è per la fascia media (occupa appena 2,5 GB di RAM)...sto creando un LoRa in bilingua per aiutare il piccolo a usare al meglio i tools, e lo sto distillando da u",
+    "title_zh": "在你的智能手机上运行100%本地模型！",
+    "summary_zh": "作者分享了在智能手机上部署本地AI模型的成功经历，通过对 Qwen 3 1.5B 和 4B 模型进行极致量化微调，实现了在本地设备上的运行，过程充满挑战但最终成功。",
+    "key_points": [
+      "作者成功对 Qwen 3 1.5B 和 4B 模型进行极致量化微调",
+      "模型可在智能手机上100%本地运行，无需网络连接",
+      "开发过程充满挑战，作者分享了实现突破后的喜悦"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
