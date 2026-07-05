@@ -212,5 +212,78 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "fe221a84ea5c0e67e9138aed211452c3",
+    "title": "A war between Anthropic and Alibaba?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uoana3/a_war_between_anthropic_and_alibaba/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-05T19:10:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html\">Anthropic has accused Alibaba</a> of creating tens of thousands of fake Claude accounts to scrape Claude of its intellectual property via <a href=\"https://www.youtube.com/watch?v=9fIElCTlfrk\">distillation attacks</a>.</p> <p><a href=\"https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/\">Alibaba retaliates</a> by telling their official (no",
+    "title_zh": "Anthropic 与阿里巴巴之间的知识产权战争？",
+    "summary_zh": "Anthropic 指控阿里巴巴创建数万个虚假 Claude 账户，通过知识蒸馏方式窃取其知识产权。该事件引发业内对 AI 模型知识产权保护的关注。",
+    "key_points": [
+      "Anthropic 指控阿里巴巴通过虚假账户蒸馏窃取 Claude IP",
+      "事件涉及数万个虚假账户，规模较大",
+      "凸显 AI 模型知识产权保护与竞争加剧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d9c20e020424a522cbe2ea9483616bb3",
+    "title": "Is it true they’ve developed ai for stock and gambling ?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uoakwr/is_it_true_theyve_developed_ai_for_stock_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-05T19:07:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I was in the ai industry but realized my mind and ai could create something dangerous so now I’m hearing about all this is it worth it or what’s going on really in the industry </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/First-Ocelot9528\"> /u/First-Ocelot9528 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1uoakwr/i",
+    "title_zh": "AI 已用于股票交易和赌博是真的吗？",
+    "summary_zh": "Reddit 用户询问 AI 是否已被用于股票交易和赌博领域，表达了对 AI 潜在危险性的担忧，但文章本身未提供具体信息或结论。",
+    "key_points": [
+      "用户提问 AI 是否已应用于股票和赌博"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "47d991d62b53f3bfb687560aaa8053ba",
+    "title": "I built an open, from-scratch MT pipeline + parallel corpus for Tunisian Darija (Arabizi) early baseline, and I'm growing it into a curated community corpus [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uo92vz/i_built_an_open_fromscratch_mt_pipeline_parallel/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-05T18:08:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm an 18-year-old independent student from Tunisia. I built and I'm leading an open, from-scratch machine-translation pipeline and parallel corpus for Tunisian Darija. Sharing it for feedback.</p> <p>Why: Tunisian Darija, written in Arabizi (Latin letters + numerals like 3/7/9/5 for Arabic phonemes), has almost no open NLP resources. Existing Arabic tools route it through MSA and mishandle the orthography. To the best of my knowledge there was no open parallel ",
+    "title_zh": "我构建了一个开源的突尼斯 Darija 方言机器翻译管线和平行语料库",
+    "summary_zh": "一名 18 岁突尼斯学生独立构建并开源了针对突尼斯 Darija 方言（Arabizi）的机器翻译管线和平行语料库，旨在打造一个社区驱动的精选语料库。",
+    "key_points": [
+      "开源从零构建的突尼斯 Darija 方言翻译管线",
+      "包含平行语料库，支持 Arabizi 书写形式",
+      "项目由 18 岁独立学生主导，寻求社区反馈"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
