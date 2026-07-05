@@ -120,5 +120,97 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c9e06d4a47a9bb0c5ac6a4a35951831b",
+    "title": "People are able to detect AI generated text 75% of time",
+    "url": "https://www.reddit.com/r/artificial/comments/1uo8u8z/people_are_able_to_detect_ai_generated_text_75_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-05T17:59:47+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uo8u8z/people_are_able_to_detect_ai_generated_text_75_of/\"> <img alt=\"People are able to detect AI generated text 75% of time\" src=\"https://external-preview.redd.it/8uNbscwPFDF6BW6vL6peN68e2NC3DU0Es3ZZ-o5NbfY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fd1c6a0397e7a472a797d5d73300b58439b4e3fc\" title=\"People are able to detect AI generated text 75% of time\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I made this ",
+    "title_zh": "人们能检测出AI生成文本的几率高达75%",
+    "summary_zh": "一项研究或调查发现，普通人识别AI生成文本的正确率大约为75%，揭示了当前AI文本在人类可感知特征上的局限性。",
+    "key_points": [
+      "研究显示人类识别AI文本的准确率达75%",
+      "表明AI生成内容仍存在可被人类感知的模式或缺陷"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a4f371b49c408674b513991f6e5c8c38",
+    "title": "What's the best AI art generator?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uo88bd/whats_the_best_ai_art_generator/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-05T17:35:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Seeing as there are about 1000 to choose from, I'm looking for one that just takes the prompt and runs with it. It doesn't have to be free, I'm going to be using this for business.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/joboguy93\"> /u/joboguy93 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1uo88bd/whats_the_be",
+    "title_zh": "最好的AI艺术生成器是哪个？",
+    "summary_zh": "一篇Reddit讨论帖，用户因市场上AI艺术生成工具众多，寻求一个能直接根据指令生成高质量图片、适合商业用途的推荐。",
+    "key_points": [
+      "用户寻求操作简单、直接出图的AI艺术生成器",
+      "提问者明确表示愿意付费，用于商业目的"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4093476ad3ded5e05dd9fac3a1bb7529",
+    "title": "I built a native Reddit app where a council of 5 AI agents debate and roast your project ideas",
+    "url": "https://www.reddit.com/r/artificial/comments/1uo7bq2/i_built_a_native_reddit_app_where_a_council_of_5/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-05T17:00:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>wanted to share a project i've been working on that explores using LLMs for social, in-feed entertainment. </p> <p>it's a text-based simulation game called Slop-Cops, built on reddit's new developer platform (devvit). users submit a website URL or describe a project idea (like an AI startup), and 5 distinct AI agent personalities (acting as a tribunal of &quot;vibe cops&quot;) read the text, debate its quality, and rate it. players can then write a rebuttal to d",
+    "title_zh": "我开发了一个Reddit应用，让5个AI智能体组成委员会辩论和吐槽你的项目创意",
+    "summary_zh": "开发者分享了一个基于Reddit新开发者平台构建的文本模拟游戏，用户可提交项目创意，由5个AI智能体组成的委员会进行辩论和点评。",
+    "key_points": [
+      "利用大型语言模型打造社交娱乐体验",
+      "应用基于Reddit开发者平台构建，名为Slop-Cops"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d2fa4927af7415a3eb457330c4df5ec7",
+    "title": "What's one thing AI does surprisingly well that you didn't expect?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uo6t8f/whats_one_thing_ai_does_surprisingly_well_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-05T16:39:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>When ChatGPT first came out, I assumed I'd mostly use it to answer random questions.</p> <p>That lasted about a week.</p> <p>Now the thing I use it for the most is taking messy thoughts and turning them into something I can actually work with. Whether it's rewriting an email, organizing notes, or helping me think through an idea, that's become the real value for me.</p> <p>Ironically, I use AI less for getting answers and more for helping me think more clearly.<",
+    "title_zh": "AI在哪些方面做得出乎意料地好？",
+    "summary_zh": "一篇Reddit讨论帖，用户分享自己使用ChatGPT的经验，发现其最大价值在于将混乱的想法整理成可用的内容，而非最初设想的回答随机问题。",
+    "key_points": [
+      "用户发现AI最擅长整理混乱思绪并转化为可用内容",
+      "反映了用户对AI应用场景的认知转变"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
