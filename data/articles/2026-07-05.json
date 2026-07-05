@@ -774,5 +774,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "73f9b8cb51c75e209a79610e1dfe3913",
+    "title": "The Revenge of the Philosophy Majors. A.I. labs are hiring contrarian, chin-stroking, finger-steepling sages. Who’s underemployed now? (Gift Article)",
+    "url": "https://www.reddit.com/r/artificial/comments/1uo3f4x/the_revenge_of_the_philosophy_majors_ai_labs_are/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-05T14:21:02+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uo3f4x/the_revenge_of_the_philosophy_majors_ai_labs_are/\"> <img alt=\"The Revenge of the Philosophy Majors. A.I. labs are hiring contrarian, chin-stroking, finger-steepling sages. Who’s underemployed now? (Gift Article)\" src=\"https://external-preview.redd.it/Y6caOxfJI6NPpUAEQa1nDiTh1Ri-ap1QIHIarovXEZw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=adc31e5489039c6925d60e6cdcf78e400bf879a9\" title=\"The Revenge of the Philosop",
+    "title_zh": "哲学专业复仇记：AI实验室高薪聘请反主流思想者",
+    "summary_zh": "文章探讨人工智能实验室正在积极招聘哲学、伦理学等文科背景人才，用于评估AI安全性、偏见和伦理问题，这一趋势扭转了传统认知中理工科主导的就业格局。",
+    "key_points": [
+      "AI实验室正大量招聘哲学专业人才处理伦理与安全问题",
+      "反主流思维和深度思考能力在AI研发中变得至关重要",
+      "此举改变了传统就业市场对文科专业的低估印象"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "80376e288e9c9a1c721d6edc32a1cbcb",
+    "title": "i automated my entire social media content production with cloud mcp. heres what actually changed",
+    "url": "https://www.reddit.com/r/artificial/comments/1uo26nd/i_automated_my_entire_social_media_content/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-05T13:26:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>i run a few accounts at decent volume and the content production was tough<br /> what was helpfyl was connecting the claude mcp from a social media management tool. a lot of them are rolling this out right now</p> <p>you connect the mcp once, and after that you just chat with it. you build the content plan out in plain conversation, it generates the posts with consistent branding and a human sounding voice, and you approve everything from one place the stuff mos",
+    "title_zh": "我用云端MCP自动化了社交媒体内容生产，这些是实际变化",
+    "summary_zh": "作者分享通过连接Claude的MCP（模型上下文协议）与社交媒体管理工具，实现全自动内容生产，显著提升了多账号运营效率，反映AI工具正在简化内容创作流程。",
+    "key_points": [
+      "通过Claude MCP连接社交媒体工具实现全自动内容生产",
+      "该技术解决了多账号运营中内容生产的瓶颈问题",
+      "多家社交媒体管理工具正在推出类似的MCP集成服务"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
