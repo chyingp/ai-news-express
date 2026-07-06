@@ -418,5 +418,52 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a1f1ed5bcf523bd9e4777de91de20d4d",
+    "title": "The cheapest option for coding with AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1upafyz/the_cheapest_option_for_coding_with_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-06T21:14:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I recently subscribed to OpenCode Go and wrote a post about my experience. I hope you find it useful: <a href=\"https://byandrev.dev/en/blog/the-cheapest-way-to-code-with-ai/\">https://byandrev.dev/en/blog/the-cheapest-way-to-code-with-ai/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/byandrev\"> /u/byandrev </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https:",
+    "title_zh": "体验分享：使用AI编码最省钱的选择",
+    "summary_zh": "一篇Reddit用户分享的个人博客，介绍了使用OpenCode Go进行AI辅助编码的体验，并探讨了最经济的AI编码方案。",
+    "key_points": [
+      "用户分享了使用OpenCode Go的体验",
+      "文章探讨最省钱的AI编码方式"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "269116ef9d598cbc220b8f0eb6f53e5b",
+    "title": "How should I encode both target and feature variable for a multiclass classification? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1upa8yc/how_should_i_encode_both_target_and_feature/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-06T21:07:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am preprocessing a CSV dataset for multiclass classification with XGBoost. My <strong>Feature variable</strong> contain <strong>numerical and categorical values</strong>, while <strong>the target variable contain many categorical value.</strong> For example, <strong>feature variables contain patient name, phone number, and exercise history,</strong> while <strong>Target variable contain different disease name</strong> such as heart attack, stroke, Alzheimer's ",
+    "title_zh": "多分类任务中如何对目标变量和特征变量进行编码？",
+    "summary_zh": "一个Reddit用户在机器学习子版块提问，询问在使用XGBoost进行多分类时，如何对包含数值和类别特征的数据集进行预处理编码。",
+    "key_points": [
+      "用户正在进行多分类数据预处理",
+      "问题涉及特征变量和目标变量的编码方法",
+      "计划使用XGBoost模型"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
