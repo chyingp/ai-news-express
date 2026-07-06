@@ -598,5 +598,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "96f912625dfb2f24842573c2d8d8ed68",
+    "title": "We're building agents that can read millions of documents, but still forget a video they watched yesterday.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uoj3eg/were_building_agents_that_can_read_millions_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-06T01:06:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>One thing has felt odd to me while working with AI agents.</p> <p>We've gotten pretty good at giving them memory for text.</p> <p>They can search documentation, index repositories, retrieve past conversations, and even build long-term memory over time.</p> <p>Videos, though, are still treated as temporary input.</p> <p>The agent watches a recording, answers a few questions, and when the session ends, that understanding is usually gone. Next session, the same vid",
+    "title_zh": "我们正在构建能阅读百万文档的AI代理，但它们仍会忘记昨天看过的视频",
+    "summary_zh": "文章讨论了当前AI代理在文本记忆方面取得显著进展，能够搜索文档和索引代码库，但在视频等多模态内容的记忆与理解上仍存在明显短板，引发对AI记忆能力发展不均衡的思考。",
+    "key_points": [
+      "AI代理对文本的记忆和检索能力已相当成熟",
+      "对视频等多模态内容的记忆仍是重大挑战",
+      "AI记忆能力发展不均衡，存在明显短板"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "da59dee21b6c1c18151eb0af42a7cc8d",
+    "title": "华泰证券：关注港股高沽空叠加盈利预期改善的方向",
+    "url": "https://36kr.com/newsflashes/3883444946956551?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-06T01:00:21+00:00",
+    "content_snippet": "36氪获悉，华泰证券研报指出，港股短期建议关注沽空压力较重、盈利预期边际企稳或改善的超跌品种（创新药、电力公用事业等）及高股息防御（银行）。其中创新药基本面继续向上，全球风格再平衡中开始出现补涨，短期空头回补有望延续，建议重点关注业绩指引积极的CXO以及BD潜力大的龙头。对于AI硬件链，短期进一步增配的性价比不高，下一个关键窗口在7月的美股财报季，建议根据浮盈程度对应调整配置敞口。AI软件方面更多是模型领先的个股Alpha机会。",
+    "title_zh": "华泰证券：关注港股高沽空叠加盈利预期改善的方向",
+    "summary_zh": "华泰证券研报建议关注港股中沽空压力大但盈利预期改善的超跌品种，如创新药和电力公用事业。指出创新药基本面向上，AI硬件链短期增配性价比不高，AI软件存在个股Alpha机会。",
+    "key_points": [
+      "建议关注创新药、电力公用事业等盈利预期改善的港股超跌品种",
+      "AI硬件链短期增配性价比不高，需等待美股财报季窗口",
+      "AI软件方向更多是模型领先的个股Alpha机会"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e69dac31e53cb1691ec6bd91b8b4f41f",
+    "title": "华泰证券：韩国出口高增表明全球AI链贸易仍处上行通道，亚洲AI供应链有望持续受益",
+    "url": "https://36kr.com/newsflashes/3883440823578889?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-06T00:51:13+00:00",
+    "content_snippet": "36氪获悉，华泰证券研报指出，AI链出口高景气继续推动韩国6月出口大超预期，贸易顺差再创历史新高。展望后续，领先指标显示AI链贸易维持高增，韩国出口有望延续亮眼表现，或推动韩国名义GDP维持较高增速。短期看，领先韩国半导体出口约四个月的费城半导体指数同比仍处高位，指向韩国半导体出口景气有望延续；同时，在AI需求强劲的背景下，存储价格仍在上涨，价格将继续支撑名义出口。韩国出口高增表明全球AI链贸易仍处上行通道，韩国、中国等亚洲AI供应链有望持续受益。",
+    "title_zh": "华泰证券：韩国出口高增表明全球AI链贸易仍处上行通道",
+    "summary_zh": "华泰证券指出，AI需求推动韩国6月出口与贸易顺差创新高，存储芯片价格持续上涨。领先指标显示全球AI供应链贸易景气度将延续，韩国、中国等亚洲AI供应链有望持续受益。",
+    "key_points": [
+      "AI需求推动韩国6月出口和贸易顺差创历史新高",
+      "全球AI链贸易仍处上行通道，存储芯片价格持续上涨",
+      "韩国、中国等亚洲AI供应链有望持续受益于AI景气度"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
