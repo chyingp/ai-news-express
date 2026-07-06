@@ -465,5 +465,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2aa13df02028370b4f65803fbbb421c0",
+    "title": "英伟达AI服务器架构据传将延后推出，公司回应称路线图并没有改变",
+    "url": "https://36kr.com/newsflashes/3884758749016329?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-06T23:00:57+00:00",
+    "content_snippet": "由于有消息称英伟达的下一代人工智能（AI）服务器机架架构因制造困难将推迟一年以上推出，亚洲印刷电路板（PCB）板制造商的股价重挫。研究机构SemiAnalysis在X平台发文称，英伟达Kyber NVL144架构系统在PCB制造环节遭遇挫折。英伟达发言人通过书面声明回应称，“我们的路线图并没有改变”。（新浪财经）",
+    "title_zh": "英伟达AI服务器架构据传将延后推出，公司回应称路线图并没有改变",
+    "summary_zh": "市场传闻英伟达下一代AI服务器架构Kyber NVL144因制造困难将推迟一年以上，导致亚洲PCB厂商股价下跌。英伟达官方回应称路线图未变。",
+    "key_points": [
+      "传闻英伟达Kyber NVL144架构因PCB制造问题推迟发布",
+      "消息导致亚洲PCB制造商股价大幅下挫",
+      "英伟达发言人书面声明否认延期，称路线图未改变"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fc371ffe004ecaca7926b524305cc84d",
+    "title": "Are returns a fair way to judge the quality of Artificial Intelligence decision making when things are not certain?",
+    "url": "https://www.reddit.com/r/artificial/comments/1upaw6u/are_returns_a_fair_way_to_judge_the_quality_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-06T21:31:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Artificial Intelligence systems are becoming more able to act on their own and make decisions that affect the world. We need to find ways to figure out if these decisions are good or not.</p> <p>Financial markets are a place to test this because they are very unpredictable and people are working against each other. There is also a lot of uncertainty. We do not always know right away if a decision was good or not. These are the kinds of conditions that Artificial",
+    "title_zh": "在不确定的情况下，回报是评判AI决策质量的公平方式吗？",
+    "summary_zh": "文章探讨了随着AI系统自主决策能力增强，如何评估其决策质量。提出金融市场可作为测试环境，因其高度不可预测性。",
+    "key_points": [
+      "AI系统自主决策能力增强，需要评估其决策质量",
+      "金融市场的不可预测性使其成为测试AI决策的理想场所",
+      "探讨回报率作为评判AI决策标准的公平性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
