@@ -670,5 +670,170 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9d387277dc366c23f36059437980a78d",
+    "title": "Anyone else noticed how broken enterprise AI + PII handling actually is?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uontnl/anyone_else_noticed_how_broken_enterprise_ai_pii/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-06T05:03:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We've been building an AI gateway for the past few months and hit a problem we didn't expect.</p> <p>Most enterprises we talked to either banned LLM tools completely or are quietly using them and hoping compliance doesn't notice. When we dug into why, it kept coming back to the same thing — they can't send raw customer or patient data to an external LLM, and the tools that claim to solve this only do half the job.</p> <p>They redact before sending. Fine. But the",
+    "title_zh": "有人注意到企业AI和个人身份信息处理实际上有多糟糕吗？",
+    "summary_zh": "文章讨论企业在使用AI工具时普遍面临个人身份信息处理的合规难题，多数企业要么完全禁用大模型，要么暗中使用，期望不被合规部门发现。",
+    "key_points": [
+      "多数企业因PII合规风险禁用或暗中使用AI工具",
+      "AI网关在解决企业数据隐私问题中面临挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1d54568e48edfd363e6d2c3195235b0d",
+    "title": "高德AI专车完成升级",
+    "url": "https://36kr.com/newsflashes/3883677805375745?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-06T04:48:16+00:00",
+    "content_snippet": "36氪获悉，高德AI专车最近完成一次能力升级。升级后，用户只需用自己的话完整表达出行需求，其搭载的“AI专车管家”即可从语句中自动识别关键信息，并匹配一辆符合个性化要求的专车。",
+    "title_zh": "高德AI专车完成升级",
+    "summary_zh": "高德AI专车近日完成能力升级，用户可用自然语言表达出行需求，AI专车管家能自动识别关键信息并匹配符合个性化要求的专车服务。",
+    "key_points": [
+      "用户可用自然语言表达出行需求",
+      "AI管家自动识别并匹配个性化专车"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a2c1570fb3dc6214bd3947e11da55212",
+    "title": "沙利文全栈AI云服��报告：阿里云占比40.1%",
+    "url": "https://36kr.com/newsflashes/3883658638405896?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-06T04:35:45+00:00",
+    "content_snippet": "36氪获悉，7月6日，国际市场调研机构沙利文发布《开箱即用的AI云服务——2025中国全栈AI云服务市场报告》。报告显示，2025年中国IaaS、PaaS、MaaS总市场规模达595.9亿元，其中阿里云总收入达239亿元，以40.1%的市场份额位列第一，稳居中国最大AI云服务厂商。",
+    "title_zh": "沙利文全栈AI云服务报告：阿里云占比40.1%",
+    "summary_zh": "沙利文报告显示，2025年中国全栈AI云服务市场总规模达595.9亿元，阿里云以239亿元收入和40.1%的市场份额稳居第一。",
+    "key_points": [
+      "中国全栈AI云服务市场总规模达595.9亿元",
+      "阿里云以40.1%市场份额位列第一"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8be72aa634ca7aa80e0c5d009f507231",
+    "title": "Does anyone have a name for that subtle \"Sameness\" creeping into model outputs lately? [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uon503/does_anyone_have_a_name_for_that_subtle_sameness/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-06T04:27:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been running a lot of comparative evals across recent model releases—both API and open-weight—and there's a pattern I can't unsee.</p> <p>After a certain number of turns, or when you push into niche territory, the outputs start converging. Same cadence. Same hedging phrases. Same blind spots. It's not full collapse. It's a kind of... homogenization. A creep.</p> <p>My working theory: we're deep enough into the synthetic data flywheel now that we're seeing t",
+    "title_zh": "有人能为最近模型输出中那种微妙的“同质化”现象命名吗？",
+    "summary_zh": "研究者在对比评测近期多个模型（包括API和开源版本）时发现，随着对话轮次增加或进入小众领域，模型输出在节奏、用词上趋同，出现“同质化”现象。",
+    "key_points": [
+      "多个模型在长对话或小众领域输出趋同",
+      "研究者发现模型输出存在节奏和用词的同质化现象"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d27c5dfcd2487454aaf1bb3ed3d39560",
+    "title": "SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模",
+    "url": "https://36kr.com/newsflashes/3883579215458567?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-06T03:01:04+00:00",
+    "content_snippet": "据报道，SK海力士将以约44万亿韩元规模的美国存托凭证（ADR）在纳斯达克上市，挑战外资企业在美国股市上市的历史最大规模。纳斯达克上市后，SK海力士可在美国正规市场进行交易，并获得纳入纳斯达克100等主要指数的资格，追踪相关指数的交易所交易基金（ETF）的买入资金流入也备受期待。不过，也有声音对AI存储半导体板块的急涨势头是否过热提出警示。随着大型科技企业持续通过债券和股票市场筹集数据中心投资资金，外界对存储行业景气能否持续的担忧与日俱增。（界面）",
+    "title_zh": "SK海力士290亿美元ADR登陆纳斯达克，创外资企业上市规模纪录",
+    "summary_zh": "SK海力士以约290亿美元规模的美国存托凭证在纳斯达克上市，创外资企业美股上市历史最大规模，上市后有望纳入纳斯达克100等主要指数。",
+    "key_points": [
+      "SK海力士以290亿美元ADR创外资企业美股上市规模纪录",
+      "上市后可获纳指100等主要指数资格，吸引ETF资金"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "73a49e15f1b7d1364379c74ce80cad8e",
+    "title": "跨境电商风向转变：新生代不再只拼价格，开始争“定价权”丨最前线",
+    "url": "https://36kr.com/p/3883561480876297?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-06T02:43:23+00:00",
+    "content_snippet": "<p>作者丨欧雪</p>\n  <p>编辑丨最前线</p>\n  <p>6月30日，亚马逊全球开店与福布斯中国联合发布“2026福布斯中国新生代跨境电商30人评选”，30位入选者平均年龄仅35岁，95后已开始崭露头角。</p>\n  <p>入选者既有3D打印、庭院机器人、AI助听器等硬核科技赛道的开拓者，也有家具、家居、服装等传统产业的变革者。他们来自广东、浙江、江苏三省，占比超过75%。更重要的是，这些年轻创业者共同票选出了三个年度关键词：“星辰大海”、“快与慢”和“定价权”。</p>\n  <p>这三个词背后的指向也很有意思：全球化视野、长期主义决心，以及跳出价格战的野心。</p>\n  <p>过去一年，昂听ELEHEAR在美国亚马逊助听器类目做到品牌第一。创始人苗健彰长期深耕AI声学算法，2021年切入助听器赛道，走了一条“很慢”的路——全栈自研。</p>\n  <p>硬氪了解到，助听器行业有一个长期矛盾：传统医疗级产品性能好但价格高昂，线上廉价产品体验糟糕，啸叫、降噪差等问题普遍存在。</p>\n  <p>昂听ELEHEAR的做法是打造全新的AI助听器+远程实时验配模式，自研VOCCLEAR",
+    "title_zh": "跨境电商风向转变：新生代不再只拼价格，开始争“定价权”",
+    "summary_zh": "新生代跨境电商创业者不再依赖价格战，转而追求全球化视野、长期主义决心和品牌定价权，硬核科技赛道如3D打印、AI助听器等表现突出。",
+    "key_points": [
+      "新生代跨境电商创业者追求品牌定价权而非价格战",
+      "硬核科技赛道如3D打印、AI助听器受关注"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a6016c97f7e51f0dcbed439c1f36645f",
+    "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P｜深氪",
+    "url": "https://36kr.com/p/3883456791163138?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-06T02:26:34+00:00",
+    "content_snippet": "<p>访谈｜任彩茹 兰杰 彭倩</p>\n  <p>文｜任彩茹</p>\n  <p>编辑｜乔芊 杨轩</p>\n  <h3><strong>“630”减员，AI是祸首还是替罪羊?</strong></h3>\n  <p>“现在公司有（减员）名单，你在这里面。”5月中的一天，林越被组长叫进会议室，对方开门见山。</p>\n  <p>林越的第一反应是平静，他早有预料。早在今年三四月，一些互联网公司内部便传出要裁员的风声。开年以来，中国互联网大公司围绕AI提效激进开展的token竞赛、培训会、隐形考核等，无处不在。当所有人都被卷入一场“all in AI”的运动时，“裁员一定会发生”就是大家心照不宣的共识。</p>\n  <p>但站在HR门口时，他还是迎来了情绪崩溃的瞬间：手开始发抖，犹豫了很长时间，想着怎么开头，怎么调整自己的举止表情。“我再也不想经历这样的事。”</p>\n  <p>林越月薪2万5，一年前本科毕业，入职携程当后端工程师——当时看，他是极其幸运的一个。互联网招聘红利不再，携程几千份简历只录取不到500人，但他进入的是公司最赚钱的酒店部门，负责为商业化产品写代码。</p>\n  <p>但现在",
+    "title_zh": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
+    "summary_zh": "中国互联网大厂因AI提效竞赛开展裁员，首批受影响者为高薪高绩效员工，文章探讨AI是裁员祸首还是替罪羊。",
+    "key_points": [
+      "互联网大厂因AI提效竞赛进行裁员",
+      "首批被裁员工多为高薪、高绩效、高P级别"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
