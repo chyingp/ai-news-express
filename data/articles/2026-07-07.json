@@ -319,5 +319,104 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9a6c2c941935a6460769ef3c9c384ace",
+    "title": "Ant's Robbyant open-sourced its LingBot-Vision family under Apache-2.0; the Meta DINOv3 models it benchmarks against ship under a custom license",
+    "url": "https://www.reddit.com/r/artificial/comments/1up6mva/ants_robbyant_opensourced_its_lingbotvision/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-06T18:55:29+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1up6mva/ants_robbyant_opensourced_its_lingbotvision/\"> <img alt=\"Ant's Robbyant open-sourced its LingBot-Vision family under Apache-2.0; the Meta DINOv3 models it benchmarks against ship under a custom license\" src=\"https://preview.redd.it/8blz80l2pnbh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb49885243c9d8912937b01c265fc0b86f3c7b09\" title=\"Ant's Robbyant open-sourced its LingBot-Vision family under Apache-2.0; the M",
+    "title_zh": "蚂蚁集团 Robbyant 在 Apache-2.0 许可下开源 LingBot-Vision 系列",
+    "summary_zh": "蚂蚁集团的 Robbyant 团队以 Apache-2.0 许可开源了其 LingBot-Vision 系列模型，该模型在基准测试中对比的 Meta DINOv3 模型则采用自定义许可。",
+    "key_points": [
+      "蚂蚁集团开源 LingBot-Vision 系列视觉模型",
+      "采用宽松的 Apache-2.0 开源许可证",
+      "基准测试中对比的 Meta DINOv3 使用限制性许可"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba",
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1fae758ade9415537892c703a15b7e56",
+    "title": "Every major tech layoff in 2026 that has name-checked AI",
+    "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-06T18:35:00+00:00",
+    "content_snippet": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "title_zh": "2026 年各大科技公司以 AI 为由的裁员一览",
+    "summary_zh": "TechCrunch 整理了一份按时间倒序排列的名单，列出了 2026 年那些在宣布重大裁员时明确将 AI 列为主要因素的大型科技公司。",
+    "key_points": [
+      "汇总 2026 年明确以 AI 为由进行裁员的科技巨头",
+      "反映 AI 技术发展对科技行业就业结构的冲击"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e930f63d2b6117cb70a74ffff488a6fa",
+    "title": "Your family’s $300 stake in OpenAI",
+    "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-06T18:00:00+00:00",
+    "content_snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;",
+    "title_zh": "你的家庭在 OpenAI 的 300 美元股份",
+    "summary_zh": "文章探讨了 OpenAI 首席执行官 Sam Altman 关于美国人将分享 AI 财富的承诺，分析了该承诺的实际影响和普通家庭可能从中获得的利益。",
+    "key_points": [
+      "探讨 Sam Altman 关于 AI 财富全民共享的言论",
+      "分析普通美国家庭在 OpenAI 中可能获得的潜在利益"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f74f3f11ff3a160c88cec1b46af66199",
+    "title": "after months of building, i shipped my first ever iOS app today!!",
+    "url": "https://www.reddit.com/r/artificial/comments/1up4kww/after_months_of_building_i_shipped_my_first_ever/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-06T17:46:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>kept using AI for actual decisions, not &quot;write my email&quot; but real ones like whether to take a contract or an idea worth building, and i realized the answer just depended on which model i happened to open. one says go, one says wait, one hedges. i wasn't getting an answer, i was getting one model's opinion in a confident voice and treating it like it settled things.</p> <p>so i built the opposite. you give it one hard decision and five different models ",
+    "title_zh": "历经数月开发，我今天发布了我的第一个 iOS 应用！！",
+    "summary_zh": "一位开发者分享其发布首个 iOS 应用的经历，描述在使用不同 AI 模型进行决策时得到相互矛盾的建议，最终促使他独立完成开发。",
+    "key_points": [
+      "个人开发者发布首个 iOS 应用",
+      "在开发过程中发现不同 AI 模型给出的决策建议相互矛盾",
+      "分享使用 AI 辅助实际决策的个人经验"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
