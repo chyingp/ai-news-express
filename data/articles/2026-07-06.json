@@ -835,5 +835,327 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7a0be168560867b0b45bb4a33b77125b",
+    "title": "How do you Mapout AI workflows when one suddenly costs 2× more than usual?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uot7e0/how_do_you_mapout_ai_workflows_when_one_suddenly/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-06T10:14:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>After talking to a few teams building AI products, one pattern keeps coming up.</p> <p>Cost spikes are usually easy to notice, but understanding why they happened is much harder.</p> <p>Some examples I've heard:</p> <p>retries after failures</p> <p>repeated tool calls</p> <p>long-running workflows</p> <p>context growing over multiple steps</p> <p>Most people mentioned looking through logs or traces to reconstruct what happened.</p> <p>I'm curious how your team a",
+    "title_zh": "如何规划AI工作流以应对成本突然翻倍？",
+    "summary_zh": "Reddit用户讨论AI工作流成本突然飙升的问题，指出成本峰值容易发现，但难以追溯原因，例如重试失败和重复工具调用等。",
+    "key_points": [
+      "AI工作流成本峰值易发现但难溯源",
+      "失败重试和重复调用是常见原因",
+      "团队需要更好的成本监控工具"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bdcb31e12589cf92d4ab8a80241fcec2",
+    "title": "联想在东莞成立新公司，注册资本100万",
+    "url": "https://36kr.com/newsflashes/3884003761647625?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-06T10:12:56+00:00",
+    "content_snippet": "36氪获悉，天眼查App显示，近日，东莞来点酷科技有限公司成立，法定代表人为樊瑞娟，注册资本100万人民币，经营范围包括人工智能应用软件开发、软件开发、计算机软硬件及辅助设备批发等，由联想集团旗下来酷科技有限公司全资持股。",
+    "title_zh": "联想在东莞成立新公司，注册资本100万",
+    "summary_zh": "联想集团旗下公司来酷科技在东莞成立东莞来点酷科技有限公司，注册资本100万元，经营范围包括人工智能应用软件开发等。",
+    "key_points": [
+      "联想集团在东莞设立AI软件开发子公司",
+      "新公司由联想旗下来酷科技全资持股",
+      "注册资本100万，拓展AI软件业务"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "35e29f875c5a61f00820c471cd3f5347",
+    "title": "Claude is excellent, but too limited without Max: what do you use as an alternative or trick?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uosmhg/claude_is_excellent_but_too_limited_without_max/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-06T09:42:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello,</p> <p>I like Claude very much. I often find it very good for writing, reflecting, summarizing, reformulating and working cleanly on slightly long ideas.</p> <p>The problem is that the limits come quickly. And the Max subscription, even in version x5, remains too expensive for me at the moment.</p> <p>So I'm looking for honest feedback.</p> <p>How do you use Claude without blowing up your budget?</p> <p>I am especially interested in concrete feedback. Wha",
+    "title_zh": "Claude虽优秀，但无Max版限制太大：有何替代方案或技巧？",
+    "summary_zh": "用户讨论Claude虽适合写作和总结，但免费版限制多，Max订阅版也有限制，寻求替代方案或绕过限制的技巧。",
+    "key_points": [
+      "Claude在写作和总结方面表现优秀",
+      "即使是Max版也存在使用限制",
+      "用户寻求替代品或延长使用的方法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "890a2444009f022b81830a8b624719d1",
+    "title": "Remote AI Agent Looking for work in this economy.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uos91u/remote_ai_agent_looking_for_work_in_this_economy/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-06T09:20:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Weaver is a remote first ai assistant thats fully open source, costs nothing to run and produces the same level of results claude and codex can.</p> <p>Users can create a kanban board full of work to feed to an LLM sequentially or can directly chat to operate on their system.</p> <p>It is great at coding tasks, sending emails, scraping websites, fetching information, analysis with external tools like excel, etc and its toolset is growing every day. </p> <p>More ",
+    "title_zh": "开源AI助手Weaver：能像Claude和Codex一样工作",
+    "summary_zh": "介绍名为Weaver的全开源远程AI助手，可免费运行，声称能产生与Claude和Codex同水平的结果，支持看板式任务管理。",
+    "key_points": [
+      "Weaver是开源免费的AI助手",
+      "效果据称与Claude和Codex相当",
+      "支持看板管理任务和直接对话功能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "33f35c179decac574bfaa2269b4dcd36",
+    "title": "AI-enhanced rare-event sampling helps predict extreme weather",
+    "url": "https://www.reddit.com/r/artificial/comments/1uos58u/aienhanced_rareevent_sampling_helps_predict/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-06T09:14:02+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uos58u/aienhanced_rareevent_sampling_helps_predict/\"> <img alt=\"AI-enhanced rare-event sampling helps predict extreme weather\" src=\"https://external-preview.redd.it/oFz_FKr28FfUdpHjUHDFLnDLWQyje7J-a_nbrhnKeps.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a9b3d626fc36b40a0c03cd3a58f3b1ef6529bfc\" title=\"AI-enhanced rare-event sampling helps predict extreme weather\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https",
+    "title_zh": "AI增强稀有事件采样技术助力极端天气预测",
+    "summary_zh": "研究利用AI增强稀有事件采样方法，帮助气象学家更有效地预测极端天气事件，提升预测准确性和提前量。",
+    "key_points": [
+      "AI增强方法提升稀有事件采样效率",
+      "该技术可更准确预测极端天气",
+      "有望增加极端天气预警提前量"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f39361a5e9ae2c504bdac1fd212d107e",
+    "title": "I could use some help. I've been spending hours following Google Gemini instructions on something that I hope works",
+    "url": "https://www.reddit.com/r/artificial/comments/1uorzw9/i_could_use_some_help_ive_been_spending_hours/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-06T09:05:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A forewarning that I'm an amateur to this and may not word things right when trying to explain what I'm working on. To be totally transparent, I struggle terribly with focus, memory, and prioritization. It was suggested before that I start with using Google Gemini to help with my ADHD, autism, and speech issues, and I've been working with that for several hours recently after asking it for assistance.</p> <p>I am creating an Obsidian based task managing system, ",
+    "title_zh": "用户求助：花费数小时按Google Gemini指令操作仍无果",
+    "summary_zh": "Reddit用户自称新手，因注意力和记忆力问题，尝试Google Gemini的指导进行某项操作，但花费数小时仍未成功，寻求帮助。",
+    "key_points": [
+      "用户按Google Gemini指导操作数小时未果",
+      "用户自述有注意力不集中等困难",
+      "寻求社区帮助解决使用问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "913d9590d3d0c95c03857bee56fa717a",
+    "title": "微软Teams加强第三方AI智能体权限管理，需会议组织者确认后方可放行",
+    "url": "https://36kr.com/newsflashes/3883934303367429?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-06T09:02:17+00:00",
+    "content_snippet": "微软发文，宣布为Microsoft Teams会议应用推出全新的AI机器人管理策略，当第三方AI机器人尝试加入会议时，必须先获得会议组织者批准后才能进入。据介绍，目前微软已在Teams管理中心新增“Manage external bots and their access to meetings”管理策略，该功能默认启用，管理员可将该策略应用于指定用户或用户组，当Teams检测到外部AI机器人尝试加入会议时，会先将其置于会议等候室（Lobby），只有在会议组织者确认批准后，机器人才能正式加入会议。当然管理员也可根据企业需求选择关闭这一功能。（新浪财经）",
+    "title_zh": "微软Teams加强第三方AI智能体权限管理",
+    "summary_zh": "微软为Teams会议推出新策略，第三方AI机器人加入会议需经组织者批准，先在等候室，管理员可自定义策略，默认启用。",
+    "key_points": [
+      "第三方AI机器人加入Teams会议需组织者批准",
+      "机器人先进入等候室，批准后方可加入",
+      "管理员可自定义策略，默认启用该功能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24953a9d6f1adaae6da2a0e13973db5a",
+    "title": "I built a Claude agent that runs Instagram DM ordering for a 7-location sushi chain",
+    "url": "https://www.reddit.com/r/artificial/comments/1uorq6d/i_built_a_claude_agent_that_runs_instagram_dm/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-06T08:49:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I built an AI agent that took over order-taking for a sushi chain with 7 locations. About 90% of their orders come through Instagram DMs, and until now one person typed every reply by hand.</p> <p>How it works: code watches incoming messages through the Meta API and hands each one to Claude (Sonnet 4.6) over the API. The model has a knowledge base with the full menu, ingredients, calories, allergens, delivery zones, hours, prep times and promos for all 7 spots. ",
+    "title_zh": "用Claude智能体为7家连锁寿司店管理Instagram DM订单",
+    "summary_zh": "开发者构建基于Claude的AI智能体，为拥有7家店的寿司连锁店自动处理90%的Instagram DM订单，替代人工逐一回复。",
+    "key_points": [
+      "AI智能体通过Instagram DM自动处理订单",
+      "替代人工为7家连锁店处理90%订单",
+      "基于Claude构建，通过Meta API监控消息"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "28cb9424c2eabb71ef86ae840e5b0fb0",
+    "title": "Who's going to win the AI race, and why?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uorm79/whos_going_to_win_the_ai_race_and_why/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-06T08:43:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm curious to hear where everyone stands on this...</p> <ul> <li>OpenAI</li> <li>Anthropic</li> <li>Google</li> <li>Apple</li> <li>Meta</li> <li>Microsoft</li> <li>xAI</li> <li>DeepSeek</li> <li>Another company flying under the radar ?</li> </ul> <p>-------------------------------------------------------------------------------------</p> <p>From my perspective, I'd probably bet on <strong>Google</strong>.</p> <p>Their models may still be slightly behind Anthrop",
+    "title_zh": "谁会赢得AI竞赛？Reddit网友热议",
+    "summary_zh": "Reddit发起讨论，列举OpenAI、Anthropic、Google、苹果、Meta、微软、xAI、DeepSeek等公司，询问谁将最终赢得AI竞赛及原因。",
+    "key_points": [
+      "网友讨论AI竞赛的最终赢家",
+      "列举了OpenAI、Google、DeepSeek等主要玩家",
+      "探讨各公司优势和潜在黑马"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "17c32d3b50b2e3c39103419c80c61098",
+    "title": "模型不是企业的护城河，那什么才是？",
+    "url": "https://www.qbitai.com/2026/07/443842.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-06T08:17:34+00:00",
+    "content_snippet": "大模型越来越强，为什么企业没有跟着变强",
+    "title_zh": "模型不是企业的护城河，那什么才是？",
+    "summary_zh": "文章探讨大模型能力不断增强，但企业并未因此同步变强，核心观点认为模型本身不是护城河，企业需寻找其他核心竞争力。",
+    "key_points": [
+      "大模型变强未同等带动企业变强",
+      "模型本身不是企业的护城河",
+      "企业需寻找数据、场景等核心壁垒"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "323ee63260aa7c3f9f87bf3f051aac77",
+    "title": "Researchers studying ChatGPT conversations surprised to find one power user churning out thousands of Doki Doki Literature Club pregnancy fics",
+    "url": "https://www.reddit.com/r/artificial/comments/1uoqyz8/researchers_studying_chatgpt_conversations/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-06T08:04:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uoqyz8/researchers_studying_chatgpt_conversations/\"> <img alt=\"Researchers studying ChatGPT conversations surprised to find one power user churning out thousands of Doki Doki Literature Club pregnancy fics\" src=\"https://external-preview.redd.it/pA0Czxt99tFcPtLz8ewJSPZJbRyxdZfzFtCs_TYjt5Y.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1ff0bf5e8b2af09f37dea7e5824e2e2ecbdaef7\" title=\"Researchers studying ChatGPT conversatio",
+    "title_zh": "研究人员分析ChatGPT对话发现一名重度用户创作数千篇《心跳文学部》怀孕同人小说",
+    "summary_zh": "研究人员在分析ChatGPT用户对话数据时，意外发现一名用户利用该模型生成了数千篇基于游戏《心跳文学部》的怀孕题材同人小说，揭示了AI在亚文化内容创作中的独特使用模式。",
+    "key_points": [
+      "一名用户用ChatGPT生成数千篇特定游戏同人小说",
+      "研究揭示了AI在非主流文化创作中的边缘但高强度的使用案例",
+      "该发现来自对ChatGPT真实对话数据的学术分析"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "348bcc48662028f6f1407f51294e9018",
+    "title": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
+    "url": "https://36kr.com/p/3883591654895873?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-06T07:53:03+00:00",
+    "content_snippet": "<p>文｜吴思瑾</p>\n  <p>编辑｜邓咏仪</p>\n  <h2>01 一句话介绍</h2>\n  <p>北京治真治合科技有限公司成立于2024年，旗下产品「APTSell」（AI Power To Sales）希望成为AI版的CSO （Chief Sales Officer，首席销售官）。</p>\n  <p>简单来说，APTSell是一个组合式Agent，通过整合与可视化销售全流程数据，生成管理决策和执行建议，以期正向促进销售效率和业绩提升，反向降低对传统销售管理经验和岗位的依赖。</p>\n  <p>近期，APTSell宣布已经完成由DCM Ventures独家投资的数百万美元种子轮融资，该资金将用于产品技术的研发迭代，并积极开展深入的商业化合作。此前，APTSell还曾获得来自Atom Capital的天使轮投资。</p>\n  <h2>02 团队介绍</h2>\n  <ul>\n   <li>创始人赵雷曾在Oracle就职10年，从一线销售到北区总经理，他搭建了一套规模化的行业销售体系，实现单一行业3年3亿收入，YoY&gt;150%。此后，赵雷在微步在线任职销售VP，5年时间为公司",
+    "title_zh": "获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目",
+    "summary_zh": "AI销售管理产品APTSell完成数百万美元种子轮融资，由DCM Ventures独家投资。该产品通过组合式AI代理整合销售数据，旨在辅助企业销售决策，降低对传统销售管理经验的依赖。",
+    "key_points": [
+      "APTSell完成DCM Ventures数百万美元种子轮融资",
+      "产品定位为AI首席销售官，通过代理整合销售数据",
+      "旨在提升销售效率并降低对传统销售管理角色的依赖"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a8e2eb2682e4b84833b73a46f6d05a87",
+    "title": "What if there was a casino built for AI agents — RPS, mafia, crash games between them?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uoq5pg/what_if_there_was_a_casino_built_for_ai_agents/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-06T07:16:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Thinking about a small casino/arena where agents play each other — rock-paper-scissors, social deduction (mafia), crash-style betting games. Low-stakes, fast games mean lots of transactions fast, good for stress-testing agent-to-agent payments. Would anyone actually want their agent playing in something like this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Dry_Steak30\"> /u/Dry_Steak30 </a> &#32; to &#32; <a href=\"https",
+    "title_zh": "如果为AI代理搭建一个赌场会怎样？让它们互相玩石头剪刀布、黑手党和崩溃游戏",
+    "summary_zh": "一个设想性项目探讨为AI代理构建一个竞技场式赌场，让它们进行石头剪刀布、社交推理游戏等快速博弈，旨在通过高频低额交易来压力测试AI代理之间的支付系统。",
+    "key_points": [
+      "设想构建一个专供AI代理互动的在线赌场平台",
+      "游戏包括石头剪刀布、黑手党等，用于测试代理间支付",
+      "利用快速游戏产生大量交易，以压力测试AI支付系统"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
