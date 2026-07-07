@@ -1487,5 +1487,51 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "dc13598b43c2c519b591055ce57daa93",
+    "title": "I spent a while trying to get an LLM to make a podcast that's actually listenable. The hard part wasn't the model.",
+    "url": "https://www.reddit.com/r/artificial/comments/1upw0d1/i_spent_a_while_trying_to_get_an_llm_to_make_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-07T14:01:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I wanted to know if an LLM could generate a podcast I'd actually <em>choose</em> to listen to — turning Hacker News threads into audio, in my case. Turns out writing the script is the easy 20%. The rest is fighting everything the model wants to do by default.</p> <p>Two things made the biggest difference:</p> <p><strong>1. Constraints beat instructions.</strong> Telling a model &quot;be conversational&quot; does nothing. What worked was giving the two hosts <em>",
+    "title_zh": "我花了不少时间尝试让大语言模型生成真正可听的播客，难点不在于模型本身",
+    "summary_zh": "作者尝试用大语言模型将Hacker News帖子转化为可听的播客，发现编写脚本只占20%的工作量，真正困难的是对抗模型默认的生成倾向，以制作出人类愿意主动收听的内容。",
+    "key_points": [
+      "LLM生成播客脚本仅占20%工作量，核心挑战在于克服模型默认行为",
+      "制作真正可听的播客需大量后期调整，而非单纯依赖模型输出"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1f5248c559f6781f3e90ff266f44b0de",
+    "title": "Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1upvkp5/phd_thesis_on_differentiable_ray_tracing_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-07T13:45:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I recently finished my Ph.D. thesis on <strong>Differentiable Ray Tracing for Radio Propagation Modeling</strong>. Instead of just compiling my published papers, I tried to write it as an accessible, self-contained textbook for anyone interested in the intersection of radio propagation simulation, autodiff, and ML.</p> <ul> <li><strong>Permanent handle</strong>: <a href=\"https://hdl.handle.net/2078.5/278727\">https://hdl.handle.net/2078.5/278727</a><",
+    "title_zh": "面向无线电传播建模的可微光线追踪博士论文",
+    "summary_zh": "一篇关于可微光线追踪用于无线电传播建模的博士论文，作者将其撰写为面向初学者和专家的自包含教材，而非简单汇编已发表论文，旨在为感兴趣者提供系统性参考。",
+    "key_points": [
+      "将可微光线追踪应用于无线电传播建模，以教材形式系统呈现",
+      "论文旨在成为自包含的学习资源，便于相关领域研究者入门"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
