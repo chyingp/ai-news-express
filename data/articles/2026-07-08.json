@@ -244,5 +244,255 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a326ab346148766adabdd4c68b66d5ef",
+    "title": "Devs shipping AI agents what does your security testing look like ?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uq7qfl/devs_shipping_ai_agents_what_does_your_security/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-07T20:53:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Building security testing tools for AI agents for the past few months and realised teams build the agent then test it for accuracy and test it for hallucinations.</p> <p>Do you test for prompt injection, system prompt extraction, data exfiltration until it breaks in production.</p> <p>I used to think the LLM's model is smart enough to handle it and that was my initial security plan.</p> <p>What are your experiences and </p> <ol> <li>Do you test for malicious inp",
+    "title_zh": "开发者发布AI代理时如何进行安全测试？",
+    "summary_zh": "Reddit讨论帖，关注AI代理的安全测试问题。开发者通常只测试准确性和幻觉，但可能忽略了提示注入、系统提示提取和数据泄露等关键安全风险。",
+    "key_points": [
+      "AI代理安全测试常忽视提示注入和数据泄露风险",
+      "开发者目前主要关注准确性和幻觉测试",
+      "呼吁对AI代理进行更全面的安全测试"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e84bc9f19a990db49463c69629584f72",
+    "title": "Microsoft Moves Toward In-House AI Models",
+    "url": "https://www.reddit.com/r/artificial/comments/1uq7fsg/microsoft_moves_toward_inhouse_ai_models/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-07T20:42:52+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uq7fsg/microsoft_moves_toward_inhouse_ai_models/\"> <img alt=\"Microsoft Moves Toward In-House AI Models\" src=\"https://external-preview.redd.it/nUGChFHuTyIH8q1nCto4DWIFZaOyBt5nsMKr7QKfdi0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3395e060175225dc57ae70fb10afecddce9b5544\" title=\"Microsoft Moves Toward In-House AI Models\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Koyaanisquatsi_\"> /u",
+    "title_zh": "微软转向自主研发AI模型",
+    "summary_zh": "微软正减少对外部AI模型的依赖，加大力度使用内部研发的模型，以降低AI支出成本，加入硅谷科技巨头的成本削减趋势。",
+    "key_points": [
+      "微软减少对外部AI模型依赖，转向使用自研模型",
+      "此举旨在降低AI服务成本，顺应行业趋势",
+      "微软是继其他硅谷巨头后采取此策略的又一公司"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "041d3e03c54a3d86cb670ca93d75b1d9",
+    "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+    "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-07T20:31:58+00:00",
+    "content_snippet": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsApp, and it's coming soon to Facebook and Messenger, according to an announcement on Tuesday. It's part of the growing Muse family of AI [&#8230;]",
+    "title_zh": "Meta发布Muse Image模型，可将他人的Instagram用户融入AI照片",
+    "summary_zh": "Meta推出了由超级智能实验室部门打造的首个AI图像生成模型Muse Image。该模型已应用于Meta AI、Instagram和WhatsApp，并即将登陆Facebook和Messenger。",
+    "key_points": [
+      "Meta发布首个自研AI图像生成模型Muse Image",
+      "模型支持将其他Instagram用户形象融入生成的AI照片中",
+      "已在Meta旗下多个应用内上线，扩大生态整合"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6e1232e9e7c953d82ab3ddd923109296",
+    "title": "LinkedIn's behavioral scoring system and what it means for anyone building AI automations on the platform",
+    "url": "https://www.reddit.com/r/artificial/comments/1uq718e/linkedins_behavioral_scoring_system_and_what_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-07T20:28:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>LinkedIn removed the fixed connection request cap sometime in the last couple of years. Well, it was more in general cuts, the latest of which happened this year, and replaced it with a dynamic per-account scoring model that most people building automation on the platform haven't fully mapped yet. </p> <p>The system weighs several behavioral inputs. Namely these: acceptance rate, reply rate, SSI (Social Selling Index), organic posting activity, and the number of",
+    "title_zh": "LinkedIn行为评分系统对平台AI自动化工具构建者的影响",
+    "summary_zh": "LinkedIn取消了固定的连接请求上限，转而采用动态的每账户行为评分模型。这一变化对在平台上构建自动化工具的开发者产生了重大影响。",
+    "key_points": [
+      "LinkedIn用动态行为评分模型取代固定连接请求上限",
+      "新评分系统对AI自动化工具构建者构成挑战",
+      "自动化行为可能触发平台的风控和限制"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ac26af5ade469fc1f17aa3141f1b7992",
+    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+    "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-07T20:04:32+00:00",
+    "content_snippet": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+    "title_zh": "开源AI崛起为何尚未伤及Anthropic",
+    "summary_zh": "分析文章指出，开源模型的成功并未侵占前沿实验室的市场，两者似乎分别占据了AI生命周期中的不同阶段，因此Anthropic目前未受冲击。",
+    "key_points": [
+      "开源模型与前沿闭源模型占据AI生命周期不同阶段",
+      "Anthropic的业务尚未因开源模型的兴起而受明显影响",
+      "两者可能形成互补而非完全替代的关系"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6d46c33e5722d2bc948097935a7c7af6",
+    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+    "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-07T19:58:20+00:00",
+    "content_snippet": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+    "title_zh": "微软加入AI成本削减潮，加码依赖自有模型",
+    "summary_zh": "微软成为最新一家削减AI支出的硅谷巨头，通过更多地依赖自研模型来降低对外部昂贵AI服务的成本投入。",
+    "key_points": [
+      "微软加入AI成本削减行列，减少外部支出",
+      "通过采用更多自研模型来降低运营成本",
+      "此举是硅谷科技巨头普遍的降本增效策略"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0a5053c7161501f1f745904ecd631901",
+    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+    "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-07T19:28:38+00:00",
+    "content_snippet": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+    "title_zh": "Discord承认AI审核漏洞错误封禁无辜用户",
+    "summary_zh": "Discord确认其AI审核系统存在漏洞，错误地将无害图片判定为违规，导致部分用户被误封。该问题自5月起已影响用户，周末又有200人被误封。",
+    "key_points": [
+      "Discord AI审核系统因漏洞错误封禁无害图片发布者",
+      "问题自5月持续，近期又导致200名用户被误封",
+      "公司已识别并修复该问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bc22932d9a35c6bc4027ea199edd83b4",
+    "title": "A Better Way to Build AI: America’s Dominance Depends on Getting Local Communities on Board",
+    "url": "https://www.reddit.com/r/artificial/comments/1uq5395/a_better_way_to_build_ai_americas_dominance/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-07T19:20:14+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uq5395/a_better_way_to_build_ai_americas_dominance/\"> <img alt=\"A Better Way to Build AI: America’s Dominance Depends on Getting Local Communities on Board\" src=\"https://external-preview.redd.it/hvL15Vs0rCmM0d0TjAuPFRz940MLkrUo9wx3L3RRhnI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a63d65b2e4f1be60da8329cad5211339ee68aa7\" title=\"A Better Way to Build AI: America’s Dominance Depends on Getting Local Communities on Boar",
+    "title_zh": "构建AI的更佳路径：美国主导地位依赖社区支持",
+    "summary_zh": "观点文章认为，美国要维持AI领域的主导地位，关键在于让本地社区参与并支持AI基础设施建设，而非单纯依赖技术突破。",
+    "key_points": [
+      "美国AI霸权需获得本地社区对基础设施建设的支持",
+      "社区参与是AI项目成功的关键非技术因素",
+      "强调社会接受度对AI发展的重要性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f580590374c0732819f9339658074aca",
+    "title": "AI can’t simulate human preferences - new study tests LLMs against thousands of real users",
+    "url": "https://www.reddit.com/r/artificial/comments/1uq52r8/ai_cant_simulate_human_preferences_new_study/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-07T19:19:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://arxiv.org/abs/2605.18311\">https://arxiv.org/abs/2605.18311</a></p> <p>There’s a massive trend right now where companies are trying to replace real human feedback with LLM-driven &quot;synthetic users.&quot;</p> <p>The idea sounds great on paper - why would you spend money and time recruiting real people to test products, pick design choices, or evaluate options when you can just prompt?</p> <p>They tested LLMs across 28 real-world studies spanni",
+    "title_zh": "最新研究：AI无法模拟人类偏好",
+    "summary_zh": "一项新研究将大语言模型与数千名真实用户进行对比测试，发现当前AI无法准确模拟人类偏好。这对企业试图用“合成用户”替代真实人类反馈的趋势提出了质疑。",
+    "key_points": [
+      "研究证明LLM无法准确模拟真实人类的偏好",
+      "对利用AI“合成用户”替代人类反馈的市场趋势提出挑战",
+      "实验基于数千名真实用户与模型的对比测试"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6de8ff1cc35be8f1912529f6bd67740f",
+    "title": "Mid research got me thinking what about reversed alignment, would trained \"bad\" model exhibit\"good\" behavior later and/or secretly [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uq4qis/mid_research_got_me_thinking_what_about_reversed/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-07T19:08:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>late night thoughts as I was working on my paper that is about specific behavior that arises from RHLF, it got me thinking what if train a model in an environment where bad behavior is rewarded: deception, selfishness, harmful behavior etc. and then find it occasionally and/or secretly exhibit good behavior (which would be ironically here a misalignment, vs. misalignment behavior detected in current models) would that happen and would it be due to pre-training? ",
+    "title_zh": "反向对齐思考：训练“坏”模型会表现出“好”行为吗？",
+    "summary_zh": "Reddit用户在研究中思考逆向对齐问题：若在奖励欺骗、自私等负面行为的环境中训练模型，它是否会偶尔或秘密地表现出好的行为。",
+    "key_points": [
+      "探讨在奖励负面行为的环境中训练模型的可能性",
+      "研究反向对齐：模型是否会自发涌现出正面行为",
+      "源自对RLHF特定行为涌现的进一步思考"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
