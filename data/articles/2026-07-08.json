@@ -1,0 +1,152 @@
+[
+  {
+    "id": "ffc63549d918790eecbe14cbcdcae955",
+    "title": "Claude Cowork expands to mobile and web",
+    "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-07T16:27:18+00:00",
+    "content_snippet": "Anthropic’s Claude Cowork is now available on web and mobile for Max subscribers. Until now, Cowork largely lived on a user’s laptop. With the update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+    "title_zh": "Claude Cowork 扩展至移动端和网页端",
+    "summary_zh": "Anthropic 的 AI 协作工具 Claude Cowork 现已面向 Max 订阅用户推出网页和移动版本，用户可在桌面端启动任务、手机端查看进度并获取最终成果。",
+    "key_points": [
+      "Claude Cowork 从桌面端扩展至网页和移动平台",
+      "仅限 Max 订阅用户使用，支持跨设备任务管理",
+      "用户可在手机关闭笔记本电脑后继续接收任务产出"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d45943d3a891798c8316b7f47fa50b63",
+    "title": "TorchJD: Training with multiple losses in PyTorch [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-07T16:20:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone! I wanted to share some recent progress on <a href=\"https://github.com/SimplexLab/TorchJD\">TorchJD</a> that might be useful to the machine learning community.</p> <p>When training models with multiple losses (multiple tasks, constraints, auxiliary losses, regularization terms, etc.), you typically have two options:</p> <ul> <li>Scalarization: Various ways to combine those losses into a single loss (e.g. average them or combine them with trainable wei",
+    "title_zh": "TorchJD：在 PyTorch 中实现多损失训练",
+    "summary_zh": "SimplexLab 开发的 TorchJD 项目取得新进展，该工具旨在帮助机器学习社区更便捷地在 PyTorch 框架下进行多任务、多约束及辅助损失等多损失训练。",
+    "key_points": [
+      "TorchJD 专注于解决 PyTorch 多损失训练问题",
+      "适用于多任务、多约束和辅助损失等场景",
+      "由 SimplexLab 开发并开源发布"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5d9049ae27fe751da40f9e961bb91027",
+    "title": "China Considers Curbs on Overseas AI Access as DeepSeek Builds Its Own Chip",
+    "url": "https://www.reddit.com/r/artificial/comments/1upz3b6/china_considers_curbs_on_overseas_ai_access_as/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-07T15:51:08+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1upz3b6/china_considers_curbs_on_overseas_ai_access_as/\"> <img alt=\"China Considers Curbs on Overseas AI Access as DeepSeek Builds Its Own Chip\" src=\"https://external-preview.redd.it/_SJZ1bt0-Rgyg1U7G843XuL0FK6_bJMB3j1fN1lDZU0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d63597138d4c8e365ba35895a54778d69a08ee9\" title=\"China Considers Curbs on Overseas AI Access as DeepSeek Builds Its Own Chip\" /> </a> </td><td> &#32; su",
+    "title_zh": "中国考虑限制海外 AI 访问，DeepSeek 自研芯片",
+    "summary_zh": "有消息称中国正考虑对海外 AI 服务实施访问限制，与此同时，国内 AI 公司 DeepSeek 正在自主研发芯片，以应对潜在的技术封锁。",
+    "key_points": [
+      "中国可能出台限制海外 AI 访问的新规",
+      "DeepSeek 正在自研芯片以减少对外依赖",
+      "此举或为应对日益加剧的技术脱钩风险"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e1f140ae344dbd8d41e31c0383374804",
+    "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+    "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-07T15:00:52+00:00",
+    "content_snippet": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era.  Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code [&#8230;]",
+    "title_zh": "AI 创新者采用 NVIDIA Vera：大规模单线程 CPU 的重要性",
+    "summary_zh": "NVIDIA 发布博客文章，阐述其 Vera CPU 作为专为代理式 AI 时代打造的大规模单线程处理器，在推理、响应速度和学习等关键路径上的核心价值。",
+    "key_points": [
+      "NVIDIA Vera 是面向代理式 AI 时代的新型 CPU",
+      "单线程 CPU 在 AI 推理和响应中处于关键路径",
+      "已获得多家 AI 创新者的采用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ac8b5e9d7ba9eb673137e6f2bf4662c1",
+    "title": "Raffi Krikorian (CTO, Mozilla) — AMA on the State of Open Source AI (July 14 @ 1pm EDT) [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1upxdvc/raffi_krikorian_cto_mozilla_ama_on_the_state_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-07T14:51:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/MachineLearning\">r/MachineLearning</a>,</p> <p>i’m Raffi, CTO at Mozilla. on Tuesday July 14 we publish our inaugural <strong>State of Open Source AI</strong> report, and i'll be here live answering whatever questions you throw at me!</p> <p><strong>AMA time: 1pm ET / 10am PT / 6pm BST.</strong></p> <p>the report is about what's actually happening with open source AI in production — developers, enterprises, the whole ecosystem — not the version of",
+    "title_zh": "Mozilla CTO Raffi Krikorian 将就开源 AI 现状举行 AMA",
+    "summary_zh": "Mozilla 首席技术官 Raffi Krikorian 宣布将于 7 月 14 日发布首份《开源 AI 现状》报告，并在 Reddit 机器学习版块举行在线问答活动。",
+    "key_points": [
+      "Mozilla 将发布首份《开源 AI 现状》报告",
+      "CTO Raffi Krikorian 将于 7 月 14 日举行 AMA",
+      "旨在探讨和解答开源 AI 领域的相关问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "471cf47dcf238490cdeb03f5f8d93bf7",
+    "title": "I adapted 1,200-year-old Islamic hadith verification methodology into a trust framework for multi-agent AI systems",
+    "url": "https://www.reddit.com/r/artificial/comments/1upwa8i/i_adapted_1200yearold_islamic_hadith_verification/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-07T14:11:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>When a multi-agent AI system answers you, that answer has passed through several “hands” - a scraper, an ingestion model, a synthesis model. Each can distort or invent. Current tools log <em>what</em> happened, but nothing grades <em>who</em> transformed a claim or how much to trust the result.</p> <p>Classical Islamic hadith scholarship spent ~1,200 years on a structurally identical problem: whether to trust knowledge passed through chains of human narrators. T",
+    "title_zh": "开发者将千年伊斯兰圣训验证法应用于多智能体 AI 信任框架",
+    "summary_zh": "一位开发者将具有 1200 年历史的伊斯兰圣训验证方法改造为多智能体 AI 系统的信任框架，用于评估信息在抓取、摄取和合成等环节中传播者的可信度。",
+    "key_points": [
+      "借鉴伊斯兰圣训验证法构建 AI 信任框架",
+      "用于评估多智能体系统中信息传播链的信誉",
+      "超越传统日志，关注信息转化者的可信度"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
