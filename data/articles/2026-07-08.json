@@ -494,5 +494,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "43c24424eacf387e2d13cad2cf1a6d2c",
+    "title": "Meta rolls out Muse, a new AI image generator",
+    "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-07T22:18:10+00:00",
+    "content_snippet": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+    "title_zh": "Meta推出Muse，一款新型AI图像生成器",
+    "summary_zh": "Meta发布新型AI图像生成模型Muse，适用于广告、装饰和创作者经济等多种场景，旨在为用户提供更丰富的视觉内容创作工具。",
+    "key_points": [
+      "Meta发布新型AI图像生成模型Muse",
+      "模型应用于广告、装饰和创作者场景",
+      "该发布强化了Meta在生成式AI领域的布局"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "35700ae4825a8aff17a2f278e5b2c77c",
+    "title": "Looking for a niche use case",
+    "url": "https://www.reddit.com/r/artificial/comments/1uq9i5p/looking_for_a_niche_use_case/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-07T21:59:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm looking for an AI that can take a floor plan of an apartment building and return a floor plan that has absolutely everything removed except for exterior walls, corridor walls, unit demising walls, and the unit number. Kinda running into roadblocks with this one. Common issues are models saying yes I can do that and ending up with circular answers and no solution </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SanchoRan",
+    "title_zh": "寻找小众用例：如何用AI简化公寓平面图",
+    "summary_zh": "Reddit用户寻求AI工具，能够自动处理公寓平面图，仅保留外墙、走廊墙、单元隔墙和门牌号，移除其他所有元素，但遇到技术瓶颈。",
+    "key_points": [
+      "用户寻求AI自动简化公寓平面图",
+      "需求是仅保留结构墙体和单元标识",
+      "反映AI在特定建筑设计任务中的挑战"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "82d9d73b352d20f2d248c8743fae4808",
+    "title": "Air Force Engineer Accused of Cutting Down Flock AI Surveillance Cameras, Says U.S. is Becoming Police State",
+    "url": "https://www.reddit.com/r/artificial/comments/1uq91lr/air_force_engineer_accused_of_cutting_down_flock/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-07T21:42:15+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uq91lr/air_force_engineer_accused_of_cutting_down_flock/\"> <img alt=\"Air Force Engineer Accused of Cutting Down Flock AI Surveillance Cameras, Says U.S. is Becoming Police State\" src=\"https://external-preview.redd.it/BqHCtDZqcx4As69Oe_9oIKsUZ_3F5GZkJOysG_DKBhA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=406a39832e72d4cffd76d7fcfb29941a510845c8\" title=\"Air Force Engineer Accused of Cutting Down Flock AI Surveillance Cam",
+    "title_zh": "空军工程师被指控破坏Flock AI监控摄像头，称美国正变成警察国家",
+    "summary_zh": "一名美国空军工程师因涉嫌破坏Flock AI监控摄像头而被指控，他声称此举是抗议美国日益加剧的监控型警察国家倾向，引发对AI监控与社会自由的讨论。",
+    "key_points": [
+      "空军工程师因破坏AI摄像头被指控",
+      "行为动机是抗议监控型警察国家趋势",
+      "事件引发对AI监控与公民自由的争议"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
