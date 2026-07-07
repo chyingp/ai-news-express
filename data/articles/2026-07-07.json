@@ -515,5 +515,206 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "edb3a77bc3607022306fa63acc8d709e",
+    "title": "Please help - I saw a reel about how to better use Anthropic models in tandem with something on your local desktop. I thought it was very motivating and exciting, but now I cant find the reel again, and I don't even know the search terms to use to search for it",
+    "url": "https://www.reddit.com/r/artificial/comments/1uphaxt/please_help_i_saw_a_reel_about_how_to_better_use/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-07T01:54:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I know part of it was about persistent memory, using files stored on your local machine, and part of it was about how to make your agents better and more useful by something saved on your local machine, and there were other cool sounding features, something about ways to save tokens, but I don't remember the rest. I see there is &quot;no tool request&quot; rule, so can someone without saying a product name, just say what the category name for this type of tool i",
+    "title_zh": "求助：寻找关于在本地电脑上更好地使用Anthropic模型的教程视频",
+    "summary_zh": "一位Reddit用户发帖求助，称曾看过一个关于如何将Anthropic模型与本地桌面文件结合使用，以实现持久记忆和增强智能体功能的教程视频，但无法再次找到。",
+    "key_points": [
+      "用户寻求关于Anthropic模型本地化使用的教程",
+      "视频内容涉及持久记忆和智能体功能增强",
+      "用户因忘记视频名称和搜索词而无法找回"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "212fd5d79fd28781129b158ff472581c",
+    "title": "Claude的脑子里，也长出了一块「意识」",
+    "url": "https://www.qbitai.com/2026/07/444741.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-07-07T01:38:18+00:00",
+    "content_snippet": "内部发现「类脑空间」，删掉就变傻",
+    "title_zh": "Claude的脑子里，也长出了一块「意识」",
+    "summary_zh": "研究发现Anthropic的Claude模型内部存在一个“类脑空间”，删除该空间会导致模型性能显著下降，揭示了大型语言模型内部可能具有类似意识的结构化表征。",
+    "key_points": [
+      "Claude模型内部发现类似意识的“类脑空间”",
+      "删除该空间会使模型性能变差",
+      "研究为理解大模型内部机制提供新视角"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6482017e26bf317600397cc6b91a0140",
+    "title": "用AI“复刻”人类细胞、预判药效，「华源智因」获千万级人民币种子轮融资｜36氪首发",
+    "url": "https://36kr.com/p/3883943959621634?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-07T01:05:00+00:00",
+    "content_snippet": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪获悉，AI虚拟细胞（AIVC）企业华源智因近期已完成千万级人民币种子轮融资。本轮融资由水木创投领投，募集资金将主要用于多模态测序底层技术迭代，进一步拓展与头部三甲医院的合作，以及团队扩充等。此外，华源智因团队已计划启动新一轮融资。</p>\n  <p>华源智因创始团队由资深医药产业从业者、计算生物学研发人员组成，并邀请到深圳国家基因库等单位专家组成科学顾问委员会，形成科研与产业协同的团队架构。公司CEO杜润诗就读于加州大学洛杉矶分校，是AI领域连续创业者；CTO王艺璇为香港中文大学计算机科学与工程专业博士生，曾在百图生科牵头搭建基因扰动转录效应的预测模型xTrimoSC Perturb。此外，香港中文大学算机科学与工程系助理教授李煜任华源智因首席AI科学家。</p>\n  <p>在新药研发领域，“10年、10亿美金”是公认困境。其中，九成资源流向人体临床试验阶段，但最终仅有10%左右的候选药物能够顺利通过全部临床、成功上市。造成超高失败率的核心原因之一，是动物实验与人体真实生理环境的巨大差异。</p>\n  <p>那么",
+    "title_zh": "用AI“复刻”人类细胞、预判药效，「华源智因」获千万级人民币种子轮融资",
+    "summary_zh": "AI虚拟细胞企业华源智因完成千万级人民币种子轮融资，由水木创投领投，资金将用于技术迭代、拓展医院合作和团队扩充，并已计划启动新一轮融资。",
+    "key_points": [
+      "华源智因完成千万级种子轮融资",
+      "融资用于多模态测序技术和医院合作",
+      "公司专注于AI虚拟细胞技术以预判药效"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2de82161446c76dc06126f575fa92527",
+    "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don’t Exist",
+    "url": "https://www.reddit.com/r/artificial/comments/1upfz1n/scammers_sell_seeds_for_exotic_aigenerated/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-07T00:54:36+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1upfz1n/scammers_sell_seeds_for_exotic_aigenerated/\"> <img alt=\"Scammers Sell Seeds for Exotic AI-Generated Flowers That Don’t Exist\" src=\"https://external-preview.redd.it/-MRdFHas36EGz0kPgk7SlSOAwYtEQCotCRgWsfkxpYk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3172325e85a73691985bfd3dddacc773ea952614\" title=\"Scammers Sell Seeds for Exotic AI-Generated Flowers That Don’t Exist\" /> </a> </td><td> &#32; submitted by &#32; <",
+    "title_zh": "骗子出售不存在的AI生成异域花卉种子",
+    "summary_zh": "有骗子利用AI生成不存在的异域花卉图片，在网上销售虚假种子，提醒消费者警惕此类利用AI技术的新型诈骗手段。",
+    "key_points": [
+      "骗子利用AI生成虚假花卉图片进行诈骗",
+      "所售种子对应的花卉在现实中并不存在",
+      "警示AI技术被用于新型消费欺诈"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4c2fdd2023557d601277143457d74a23",
+    "title": "8点1氪丨SK海力士本周五将登陆纳斯达克；99万机器人“伴侣”续航撑不过一晚？优必选回应；青海省博物馆回应“国家一级文物发现TCL字样”",
+    "url": "https://36kr.com/p/3884831072514309?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-07T00:15:11+00:00",
+    "content_snippet": "<h2>今日热点导览</h2>\n  <p>华为Mate90系列有望搭载基于韬定律的新麒麟芯片</p>\n  <p>央视曝光滴眼液涉事企业被立案，对滴眼液乱象开展调查处置&nbsp;</p>\n  <p>千问大模型升级实时语音识别大模型Fun-ASR-Realtime</p>\n  <p>WPS回应“滥收费、背刺用户”言论</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>SK海力士10日在纳斯达克上市290亿美元规模ADR，创外资企业史上最大规模</strong></p>\n  <p>据报道，SK海力士将以约44万亿韩元规模的美国存托凭证（ADR）在纳斯达克上市，挑战外资企业在美国股市上市的历史最大规模。纳斯达克上市后，SK海力士可在美国正规市场进行交易，并获得纳入纳斯达克100等主要指数的资格，追踪相关指数的交易所交易基金（ETF）的买入资金流入也备受期待。不过，也有声音对AI存储半导体板块的急涨势头是否过热提出警示。随着大型科技企业持续通过债券和股票市场筹集数据中心投资资金，外界对存储行业景气能否持续的担忧与日俱增。（界面新闻）</p>\n  <p><strong>99",
+    "title_zh": "8点1氪丨SK海力士本周五将登陆纳斯达克",
+    "summary_zh": "SK海力士将以约44万亿韩元规模的美国存托凭证在纳斯达克上市，成为外资企业史上最大规模上市案。此外，华为Mate90系列或搭载新麒麟芯片，千问大模型升级实时语音识别功能。",
+    "key_points": [
+      "SK海力士创纪录规模ADR本周五登陆纳斯达克",
+      "华为Mate90系列有望搭载新麒麟芯片",
+      "千问大模型升级实时语音识别模型"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "huawei",
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bd206ca68985755ccb9bcc41a95c67cb",
+    "title": "The ‘first’ AI-run ransomware attack still needed a human",
+    "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-06T23:56:14+00:00",
+    "content_snippet": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
+    "title_zh": "“首例”AI驱动的勒索软件攻击仍需人类介入",
+    "summary_zh": "一次真实的勒索软件攻击中，AI智能体首次执行了技术攻击，但最新细节显示，人类仍需选择受害者、搭建基础设施并提供凭证，因此并非完全自主的网络犯罪。",
+    "key_points": [
+      "AI智能体首次参与真实勒索软件攻击的技术执行",
+      "攻击中人类仍负责选择目标和提供关键凭证",
+      "表明完全自主的AI网络犯罪尚未实现"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "96c1da360c59b7029c6c9b7c83fe63ff",
+    "title": "you can just watch a language model think now. i built a way to visualize the words AI doesn’t say",
+    "url": "https://www.reddit.com/r/artificial/comments/1upejv3/you_can_just_watch_a_language_model_think_now_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-06T23:52:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>anthropic published the J-space paper today. tl;dr: models have a small emergent set of internal “silent words” (~a few dozen concepts at a time, &lt;10% of activations) that they can report on, control, and use for reasoning. the measurement tool is the jacobian lens and they open sourced it, and neuronpedia posted pre-fitted lenses for qwen. so the obvious next step was to wire it into a chat UI and just… look at it.</p> <p>subtext runs qwen3.5-4B in bf16 on a",
+    "title_zh": "你现在可以直观看到语言模型如何“思考”",
+    "summary_zh": "一位开发者基于Anthropic发布的J-space论文构建工具，可可视化语言模型内部未说出的“沉默词语”，这些概念对模型推理至关重要，占激活量不到10%。",
+    "key_points": [
+      "开发者构建工具可视化语言模型的内部思考过程",
+      "基于Anthropic揭示模型内部“沉默词语”的论文",
+      "这些内部概念仅占激活量很小部分但关键"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d4e9be0269bb278c67195ab8a9675eda",
+    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+    "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-06T23:21:03+00:00",
+    "content_snippet": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+    "title_zh": "美国投资者将很快能投资另一家乘AI东风的存储芯片制造商SK海力士",
+    "summary_zh": "受益于AI热潮，SK海力士业绩飙升，并计划于本周五在美国进行数十亿美元的首次公开募股，为美国投资者提供新的AI投资标的。",
+    "key_points": [
+      "SK海力士因AI热潮业绩大增",
+      "公司计划本周五在美进行数十亿美元IPO",
+      "为美国投资者提供参与AI存储芯片市场的机会"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
