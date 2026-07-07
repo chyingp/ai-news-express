@@ -148,5 +148,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "38d526f47ccf2d4cce5839c9e7c1c1c0",
+    "title": "Chinese AI models are catching up to their western competitors",
+    "url": "https://www.reddit.com/r/artificial/comments/1uq410n/chinese_ai_models_are_catching_up_to_their/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-07T18:44:30+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uq410n/chinese_ai_models_are_catching_up_to_their/\"> <img alt=\"Chinese AI models are catching up to their western competitors\" src=\"https://preview.redd.it/lwx71pq4rubh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=8052a238c44ac0bff1b7dfb525e6f1d76e07f1f3\" title=\"Chinese AI models are catching up to their western competitors\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/lwx71pq4rubh",
+    "title_zh": "中国AI模型正在追赶西方竞争对手",
+    "summary_zh": "Reddit讨论指出，中国研发的AI模型在性能上正快速缩小与西方顶级模型的差距，引发行业关注。",
+    "key_points": [
+      "中国AI模型性能提升显著，与西方模型差距缩小",
+      "社区热议中国AI进展对全球竞争格局的影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "20e249cc61744cb5357ea1b9d5762235",
+    "title": "I stopped treating business setup like five separate chores",
+    "url": "https://www.reddit.com/r/artificial/comments/1uq2wgs/i_stopped_treating_business_setup_like_five/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-07T18:06:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I kept putting off the business setup side because every step felt like another tool, account or subscription</p> <p>This time I tried running it through Claude and kept the whole thing in one workflow: setup, verification, bank account and basic finance admin after.</p> <p>Still early but it’s been way easier than jumping between random sites and notes. The nice part is not needing a bunch of separate tools just to get the business side ready.</p> <p>Am I the o",
+    "title_zh": "我如何用Claude一站式搞定公司设立流程",
+    "summary_zh": "用户分享使用Anthropic的Claude将公司设立、账户验证、银行开户等繁琐步骤整合为单一工作流的经验，提升效率。",
+    "key_points": [
+      "利用Claude整合多个公司设立步骤为单一工作流",
+      "涉及账户验证、银行开户和财务管理的自动化处理"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d05c6e7f561713d711d9bb1a46fd7606",
+    "title": "Anthropic is launching Claude Cowork on mobile and web",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-07T17:46:59+00:00",
+    "content_snippet": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, [&#8230;]",
+    "title_zh": "Anthropic在移动端和网页端推出Claude Cowork",
+    "summary_zh": "Anthropic宣布其AI平台Claude Cowork首次登陆移动和网页端，先向Max订阅用户开放，数周内扩展至其他计划用户。",
+    "key_points": [
+      "Claude Cowork首次在移动和网页端上线",
+      "优先向Max订阅用户推出，后续将覆盖更多用户"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "13483c08338b34b0f5a024529c63071e",
+    "title": "Scaling AI agents seems much harder than building the first agent",
+    "url": "https://www.reddit.com/r/artificial/comments/1uq0r38/scaling_ai_agents_seems_much_harder_than_building/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-07T16:50:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Building an agent has become much easier now. Half the frameworks out there get you a demo in a day, sometimes less.</p> <p>The hard part is everything that comes after. Versioning, deployment, environment management, monitoring, rollbacks, access control, all of it. We learned this the hard way after our first pilot actually worked and we had no plan for what came next.</p> <p>Anyone here actually made it past the pilot stage? What broke first for you and what ",
+    "title_zh": "扩展AI智能体比构建首个智能体难得多",
+    "summary_zh": "Reddit用户讨论构建AI智能体后，在版本控制、部署、环境管理等规模化运维方面面临的巨大挑战远超初期开发。",
+    "key_points": [
+      "AI智能体构建容易，但规模化运维难度极高",
+      "主要挑战包括版本控制、部署、监控和访问管理"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
