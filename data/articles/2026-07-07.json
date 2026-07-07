@@ -787,5 +787,265 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "fd53fc9ad375264c44d0eb87462b4650",
+    "title": "申昊科技成立智算科技公司，注册资本5000万",
+    "url": "https://36kr.com/newsflashes/3885265403064581?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-07T07:36:20+00:00",
+    "content_snippet": "36氪获悉，天眼查App显示，7月7日，杭州申昊智算科技有限公司成立，法定代表人为陶志锋，注册资本5000万人民币，经营范围包括技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广，数字技术服务，数据处理和存储支持服务，云计算装备技术服务，大数据服务，人工智能行业应用系统集成服务等，由申昊科技全资持股。",
+    "title_zh": "申昊科技成立智算科技公司，注册资本5000万",
+    "summary_zh": "申昊科技全资持股成立杭州申昊智算科技有限公司，注册资本5000万元，经营范围涵盖数字技术服务、数据处理、云计算及人工智能行业应用系统集成服务等。",
+    "key_points": [
+      "申昊科技出资5000万元成立全资智算子公司",
+      "新公司业务聚焦数字技术、云计算与AI应用集成"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b3d936d1cdb7ed0540bce6ea5ee811d8",
+    "title": "揭秘字节 Seedance：中国第一台大模型印钞机启动了 | 深氪",
+    "url": "https://36kr.com/p/3885177884078083?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-07-07T07:30:26+00:00",
+    "content_snippet": "<p><strong>采访 | 邓咏仪 肖思佳 李小霞</strong></p>\n  <p><strong>文 | 张雨忻 邓咏仪</strong></p>\n  <p><strong>编辑 | 张雨忻 杨轩</strong></p>\n  <p>2025 年底，在一次模型团队的聚餐上，Seedance 模型的负责人曾妍向 leader 提到，她还是想试试训一个更大尺寸的模型，至少达到 200B（2000亿参数）。</p>\n  <p>曾妍是字节 Seed 一位非常年轻的研究员，2021 年校招生，研究方向始终聚焦在视频理解与生成上。“她一直都挺有自己的技术判断。” 一位与曾妍打过交道的人告诉 36 氪，“而且很主动，对于相信的事情比较坚持，会想办法争取资源去实现。”</p>\n  <p>这个评价几乎复现了曾妍做 Seedance2.0 训练时的处境。“她想训一个参数量更大的模型，但当时团队内部有一些分歧，有人觉得把模型直接 scale up 到 200B-300B 的级别有点冒进了，并且整体的训练资源也紧张，可能先训一个 100B 级别的模型技更安全。”一位知情人士告诉 36 氪。</p>\n",
+    "title_zh": "揭秘字节 Seedance：中国第一台大模型印钞机启动了 | 深氪",
+    "summary_zh": "深度报道字节跳动视频生成模型Seedance的研发历程，模型负责人曾妍坚持训练2000亿参数大尺寸模型，展现字节在视频AI领域的商业野心与技术布局。",
+    "key_points": [
+      "字节跳动Seedance团队尝试训练2000亿参数视频生成模型",
+      "报道称Seedance或将成为中国大模型商业化标杆"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "bytedance"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f0e151b8dd55713fa5525021852beeaa",
+    "title": "腾讯“吐司” iOS版正式上线",
+    "url": "https://36kr.com/newsflashes/3885205259317511?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-07T06:35:10+00:00",
+    "content_snippet": "36氪获悉，7月6日，腾讯旗下的AI应用生成及灵感共创平台“吐司” iOS版正式上线。作为一款零门槛的Vibe Coding产品，用户只需用自然语言描述需求，就能借助吐司生成并调整专属App。据了解，吐司将于8月面向开发者生态全量开放一站式上架服务、商业化组件能力以及更多API能力。",
+    "title_zh": "腾讯“吐司” iOS版正式上线",
+    "summary_zh": "腾讯旗下AI应用生成及灵感共创平台“吐司”iOS版正式上线，用户可通过自然语言描述需求生成专属App，预计8月将向开发者开放上架与商业化服务。",
+    "key_points": [
+      "腾讯“吐司”iOS版上线，主打零门槛Vibe Coding应用生成",
+      "平台将于8月向开发者开放上架服务及商业化组件"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "434efda17748c6ce44d1e316f4f392ae",
+    "title": "高德打车：已首批接入支付宝AI开放平台",
+    "url": "https://36kr.com/newsflashes/3885195630424072?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-07T06:25:22+00:00",
+    "content_snippet": "36氪获悉，7月7日，支付宝正式上线AI开放平台，面向商家、机构、服务商、智能终端、大模型平台等生态伙伴开放AI接入能力。作为首批加入支付宝AI生态的出行品牌，高德打车宣布正式接入支付宝AI开放平台。",
+    "title_zh": "高德打车：已首批接入支付宝AI开放平台",
+    "summary_zh": "支付宝正式上线AI开放平台，向生态伙伴开放AI能力，高德打车作为首批接入的出行品牌，已加入该平台。",
+    "key_points": [
+      "支付宝AI开放平台正式上线，开放AI接入能力",
+      "高德打车成为首批接入该平台的出行服务商"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "48d60788192c1f0da9c08f8d1fd7672d",
+    "title": "\"龙虾\"为什么这么火？OpenClaw登顶GitHub后，AI Agent时代真的来了？",
+    "url": "https://36kr.com/p/3885061350617350?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "zh",
+    "published": "2026-07-07T06:23:00+00:00",
+    "content_snippet": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260707/v2_8697ba07ba554ad9b304c03d1c07bd39@6390519_oswg137495oswg830oswg619_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">GitHubStar-history</p>\n  <h2>最近Openclaw以25.2万星标，超越Meta的React登顶GitHub开源项目历史第一！</h2>\n  <p>要知道React是Facebook(现改名Meta）打造的经典前端框架，过去十余年间，互联网上绝大多数我们熟知的网站与App，底层技术架构皆由它构筑。Openclaw官方更是高调发文嘲讽Meta“我们在迭代创新，而你只在办会议”。</p>\n  <p>这只被全球开发者亲昵称作“龙虾”的OpenClaw，凭一己之力点燃了AI Agent领域的全民狂欢，成为2026年科技圈最",
+    "title_zh": "\"龙虾\"为什么这么火？OpenClaw登顶GitHub后，AI Agent时代真的来了？",
+    "summary_zh": "文章分析开源项目OpenClaw以25.2万星标超越Meta React登顶GitHub历史星标榜首的现象，探讨其火爆原因及对AI Agent时代到来的标志性意义。",
+    "key_points": [
+      "OpenClaw以25.2万星标登顶GitHub开源项目历史星标榜",
+      "OpenClaw火爆被视为AI Agent时代到来的重要信号"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6eddd883f174f7816018232363014ebe",
+    "title": "零一万物推出三款“一号位决策AI”产品",
+    "url": "https://36kr.com/newsflashes/3885184582414600?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-07T06:14:08+00:00",
+    "content_snippet": "36氪获悉，7月7日，零一万物宣布推出的三款“一号位决策AI”产品：老板AI、销冠AI、投资官AI，分别面向经营一号位、销售一号位和投资者一号位。",
+    "title_zh": "零一万物推出三款“一号位决策AI”产品",
+    "summary_zh": "零一万物发布三款面向企业决策层的AI产品：老板AI、销冠AI、投资官AI，分别服务于经营、销售和投资领域的核心决策者。",
+    "key_points": [
+      "零一万物推出三款一号位决策AI产品，瞄准企业核心决策场景",
+      "产品分别面向经营、销售和投资负责人，提供专项AI辅助"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9c9443e032d1585e799342b7e989c1b5",
+    "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+    "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-07T06:00:26+00:00",
+    "content_snippet": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, compute and validation tools. NVIDIA and Hugging Face are [&#8230;]",
+    "title_zh": "英伟达与Hugging Face合作，为机器人开放社区带来新模型与框架",
+    "summary_zh": "英伟达与Hugging Face合作，将新模型与框架引入LeRobot开放机器人平台，旨在通过共享模型、数据和工具，加速机器人领域的开源创新。",
+    "key_points": [
+      "英伟达与Hugging Face合作推动开源机器人发展",
+      "新模型和框架将集成到LeRobot平台，降低开发门槛"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a98204ff3517ddce9158d9e8c1aa2126",
+    "title": "AI should be private and optional!",
+    "url": "https://www.reddit.com/r/artificial/comments/1uplbps/ai_should_be_private_and_optional/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-07T05:07:05+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uplbps/ai_should_be_private_and_optional/\"> <img alt=\"AI should be private and optional!\" src=\"https://preview.redd.it/flfzoju9qqbh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c6e3c1b19fa27ec7958fd6014fc9a043889932c1\" title=\"AI should be private and optional!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>AI should be private and optional.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.red",
+    "title_zh": "AI应该保持隐私和可选性！",
+    "summary_zh": "Reddit网友讨论AI技术应用中隐私保护与用户选择权的重要性，主张AI服务应尊重用户隐私并提供可选而非强制性的使用方式。",
+    "key_points": [
+      "Reddit讨论强调AI应保障用户隐私和数据安全",
+      "用户主张AI功能应作为可选项，而非强制使用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5e023550ec3bfb86616fec18acceb73d",
+    "title": "ICML Position Track: Want Better ML Reviews? Stop Asking Nicely and Start Incentivizing with a Credit System [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1upjftu/icml_position_track_want_better_ml_reviews_stop/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-07T03:32:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>“Maybe the real AGI was the friends we made along the way” is a sentiment that always hits me, and conferences are the places where I reunite with old friends and meet new ones. However, when it comes to the submission/review experience, it might not be much of an exaggeration to say that almost everyone has many unpleasant experiences to share.</p> <p>So I wrote a position paper to discuss this. I argue that current conference organizers lack proper tools to in",
+    "title_zh": "ICML立场论文：想要更好的机器学习评审？停止礼貌请求，开始用积分系统激励",
+    "summary_zh": "ICML发表立场论文，探讨通过引入积分激励机制来改善机器学习学术会议的同行评审质量，替代当前低效的“礼貌请求”模式。",
+    "key_points": [
+      "论文提出用积分系统激励高质量同行评审",
+      "旨在解决当前学术会议评审机制的低效问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2853c2442e09a4a1606d3a2f1c59f5d2",
+    "title": "征程赶超｜WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
+    "url": "https://www.qbitai.com/2026/07/445067.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-07T03:24:55+00:00",
+    "content_snippet": "",
+    "title_zh": "WAIC 2026科学智能：AI4S从“辅助计算”到“自主发现”，中国如何重塑全球科研版图？",
+    "summary_zh": "报道世界人工智能大会科学智能议题，探讨AI for Science正从辅助计算工具转向自主科学发现，分析中国在该领域如何重塑全球科研格局。",
+    "key_points": [
+      "WAIC 2026聚焦AI4S从辅助计算向自主科学发现转变",
+      "分析中国在AI驱动科学研究领域的全球竞争地位"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "213032428450f4da681f873ed613c01e",
+    "title": "why do companies lay off human employees and replace them with ai agents without even knowing they'll do good, like why not create a new branch to experiment on the ai agents performance before going all in",
+    "url": "https://www.reddit.com/r/artificial/comments/1upj9jf/why_do_companies_lay_off_human_employees_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-07T03:23:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Then when the ai agents don't perform as good as they think they just rehire human employees lmao</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Spirited-Internet940\"> /u/Spirited-Internet940 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1upj9jf/why_do_companies_lay_off_human_employees_and/\">[link]</a></span> &#32; <s",
+    "title_zh": "为何公司直接裁员用AI代理替代，而不先设分支实验评估其表现？",
+    "summary_zh": "一篇Reddit帖子质疑企业为何急于用AI代理全面取代人类员工，而非先在小范围试点评估其实际效果，并讽刺当AI表现不佳时，企业又重新招聘人类员工。",
+    "key_points": [
+      "企业缺乏耐心，倾向于直接大规模裁员并用AI替代。",
+      "帖子讽刺企业因AI表现不佳而重新雇佣人类员工的现象。",
+      "讨论呼吁应先设立实验分支来验证AI代理的实际效能。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
