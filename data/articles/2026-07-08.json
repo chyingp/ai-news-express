@@ -568,5 +568,251 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "cbe79fd7fe9919a295900b2bd0841460",
+    "title": "Momenta港股上市，总市值突破700亿港元",
+    "url": "https://36kr.com/newsflashes/3886332173561862?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-08T01:41:31+00:00",
+    "content_snippet": "36氪获悉，7月8日，物理AI公司Momenta正式在港交所挂牌上市，股票代码为6880.HK，成为“物理AI第一股”。股价开盘涨超6%，总市值突破700亿港元。根据Momenta此前公布的配售结果，上市定价为295.6港元/股，假设“绿鞋”（超额配股权）全额行使，此次全球发售约2293万股，募集资金总额约68亿港元。前一日，Momenta宣布，其量产业务搭载规模已突破100万台。",
+    "title_zh": "Momenta港股上市，总市值突破700亿港元",
+    "summary_zh": "物理AI公司Momenta在港交所挂牌上市，成为“物理AI第一股”，股价开盘涨超6%，总市值突破700亿港元，全球发售募集资金约68亿港元。",
+    "key_points": [
+      "Momenta成为“物理AI第一股”在港交所上市",
+      "总市值突破700亿港元，募资约68亿港元",
+      "量产业务搭载规模已突破100万台"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bae2547ebb277ef2fe34e5b8d708a6b7",
+    "title": "TigrimOSR v0.6.2 — Open Loop Engineering: create your own custom agent loop with Rust browser + LINE/Telegram bots",
+    "url": "https://www.reddit.com/r/artificial/comments/1uqed9g/tigrimosr_v062_open_loop_engineering_create_your/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-08T01:20:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I’m building <strong>TigrimOSR</strong>, a Rust-native multi-agent AI workspace.</p> <p>The core idea is <strong>Open Loop Engineering</strong>: instead of using a fixed hidden agent loop, users should be able to create, edit, inspect, and control their own custom loop.</p> <p>In TigrimOSR, the agent loop is not locked inside the code. You can define it as a <strong>YAML profile</strong>:</p> <ul> <li>which tools the agent can use</li> <li>wh",
+    "title_zh": "TigrimOSR v0.6.2发布：用Rust构建自定义AI代理循环",
+    "summary_zh": "TigrimOSR发布新版本，这是一个基于Rust的多智能体AI工作区，核心理念是“开放循环工程”，允许用户创建、编辑、检查和控制自定义代理循环，并集成浏览器和聊天机器人。",
+    "key_points": [
+      "基于Rust的多智能体AI工作区TigrimOSR发布新版本",
+      "核心理念为“开放循环工程”，支持自定义代理循环",
+      "集成了Rust浏览器和LINE/Telegram机器人"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6f084e2e5f8671aa4346d8aac9714ba3",
+    "title": "Codex for creating the first video of a black hole:",
+    "url": "https://nitter.net/gdb/status/2074662918944366840#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-08T01:12:39+00:00",
+    "content_snippet": "<p>Codex for creating the first video of a black hole:</p>\n<hr />\n<blockquote>\n<b>OpenAI Newsroom (@OpenAINewsroom)</b>\n<p>\n<p>You may remember the first image of a black hole that computational astrophysicist Chi-kwan Chan helped capture. <br />\n<br />\nNow he’s working toward something no one has made before: the first video of one. <a href=\"https://piped.video/watch?v=4XSI4SClBMA\">piped.video/watch?v=4XSI4SCl…</a></p>\n<img src=\"https://nitter.net/pic/media%2FHMqSxbebsAAvtD5.jpg\" />\n\n\n</p>\n<foo",
+    "title_zh": "OpenAI Codex助力创建首个黑洞视频",
+    "summary_zh": "OpenAI首席技术官Greg Brockman分享，计算天体物理学家正利用OpenAI Codex，致力于创建史上首个黑洞视频，此前该团队曾帮助捕捉首张黑洞图像。",
+    "key_points": [
+      "科学家利用OpenAI Codex创建首个黑洞视频",
+      "此前该团队曾参与捕捉首张黑洞图像",
+      "展示了AI在科学研究中的前沿应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1f690a75b5a889cb919c0beae5e0ba5f",
+    "title": "36氪首发 | 获上海国投领投，这家量子传感企业产品已落地惯性导航、气体监测等",
+    "url": "https://36kr.com/p/3886301334630407?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-08T01:10:36+00:00",
+    "content_snippet": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260708/v2_7d290a69b7d74c58a7ac5cdb3d51b253@6221844_oswg529905oswg804oswg535_img_jpg?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，上海量感智能科技有限公司（以下简称“量感智能”）近日已完成数千万元天使轮融资，由孚腾资本（上海国投旗下）领投，六禾创投跟投。</p>\n  <p>量感智能公司于2023年9月成立，由上海交通大学量子感知研究所成员孵化。公司聚焦量子传感方向，已推出的产品覆盖惯性导航、气体监测等市场。公司同步深耕量子 AI 技术研发与应用，推动相关算法和硬件模块快速实现商业化落地。同时，公司结合量子传感与量子智算，致力于打造量子智能传感器",
+    "title_zh": "量子传感企业获上海国投领投，产品落地惯性导航与气体监测",
+    "summary_zh": "上海量感智能科技有限公司获得由上海国投领投的融资，其量子传感产品已在惯性导航、气体监测等领域实现落地应用。",
+    "key_points": [
+      "上海量感获上海国投领投的融资",
+      "量子传感产品已落地惯性导航和气体监测",
+      "属于量子传感领域的早期商业化进展"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1c21ae0af09e8eb9be26873356d9740f",
+    "title": "AI Star Wars",
+    "url": "https://www.reddit.com/r/artificial/comments/1uqdshs/ai_star_wars/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-08T00:54:24+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uqdshs/ai_star_wars/\"> <img alt=\"AI Star Wars\" src=\"https://external-preview.redd.it/bmZkeXI1eXRsd2JoMfBOITwbC_6BDk0bFea9SRr1P1TeWQ1mhsIsRdG5_3tv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=621e5eca0bc2f2bc0e669903db039e5b24027843\" title=\"AI Star Wars\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I mean it's close enough right?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user",
+    "title_zh": "AI星战",
+    "summary_zh": "Reddit上关于“AI星战”的讨论帖，内容主要为AI生成或与《星球大战》相关的AI应用或创意，偏向社区娱乐内容。",
+    "key_points": [
+      "Reddit社区关于AI与《星球大战》结合的讨论",
+      "内容偏向娱乐或创意展示"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7b9201dd193a998e99f1884e4ce50470",
+    "title": "SpaceX申请部署10万颗卫星组成的第三代卫星星座",
+    "url": "https://36kr.com/newsflashes/3886272815722496?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-08T00:41:08+00:00",
+    "content_snippet": "据美国联邦通信委员会（FCC）披露，SpaceX已在本周正式申请FCC批准其发射并运营一个由10万颗卫星组成的第三代（Gen3）卫星星座。据介绍，第三代星座将由10万颗卫星组成，部署在两组薄层、紧密堆叠的运行轨道壳层中，标称高度分别位于323至327.5公里之间，以及473至477.5公里之间。SpaceX将第三代星座描述为“一个强大、有韧性、无处不在的通信基础设施”，具备“承载全球大部分互联网流量的能力”，为全球政府用户、企业、消费者，以及数十亿台AI驱动设备提供极低延迟、多吉比特级别的上下行对称吞吐能力。（界面）",
+    "title_zh": "SpaceX申请部署由10万颗卫星组成的第三代星座",
+    "summary_zh": "SpaceX向美国联邦通信委员会申请部署第三代卫星星座，由10万颗卫星组成，旨在为全球提供极低延迟、多吉比特级别的通信服务，并支持数十亿台AI设备。",
+    "key_points": [
+      "SpaceX申请部署10万颗卫星的第三代星座",
+      "旨在为全球AI驱动设备提供高速通信",
+      "星座将部署在323至477公里高度的轨道上"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2bf0635df6f3e758df59293de29dbc92",
+    "title": "银河证券：建议关注头部算力租赁厂商",
+    "url": "https://36kr.com/newsflashes/3886268119265545?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-08T00:36:21+00:00",
+    "content_snippet": "36氪获悉，银河证券指出，伴随AI推理算力需求爆发，token工厂商业模式提速，与传统的算力租赁相比，token工厂更加强调与下游大模型推理需求的绑定，定价从“算力资源与时长”逐渐转向“token产出和单位成本”，上游算力基础设施更加能参与到下游模型厂商的价值分配，强化了上游算力基础设施环节的议价能力，并且能共享token经济时代红利。银河证券认为，算力租赁厂商目前与大模型厂商尝试探索“token工厂”合作模式，将从算力租赁的底层“卖资源”的模式逐渐向“卖产出”的模式演变，算力租赁厂商将提供Maas服务，通过采用token分成的盈利模式，共享token爆发的时代红利，有望提升算力租赁厂商的利润率，估值中枢有望进一步提升，建议关注头部算力租赁厂商。",
+    "title_zh": "银河证券：建议关注头部算力租赁厂商，Token工厂模式兴起",
+    "summary_zh": "银河证券指出，AI推理算力需求爆发，算力租赁厂商正从“卖资源”向“卖产出”的Token工厂模式演变，通过token分成盈利，有望提升利润并共享时代红利。",
+    "key_points": [
+      "算力租赁模式从“卖资源”转向“卖产出”的Token工厂",
+      "Token工厂模式强化上游议价能力并共享AI红利",
+      "银河证券建议关注头部算力租赁厂商"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fca9119bc8788ba584d6992ae6c1c36c",
+    "title": "Very excited to help chart the future of Git (and SCM generally) for the agentic future with Taylor!",
+    "url": "https://nitter.net/gdb/status/2074652518135804321#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-08T00:31:20+00:00",
+    "content_snippet": "<p>Very excited to help chart the future of Git (and SCM generally) for the agentic future with Taylor!</p>\n<hr />\n<blockquote>\n<b>Taylor Blau (@ttaylorr_b)</b>\n<p>\n<p>First day at <a href=\"https://nitter.net/OpenAI\" title=\"OpenAI\">@OpenAI</a> today!<br />\n<br />\nCouldn’t be more excited to start working on SCM tools. Many thanks to <a href=\"https://nitter.net/tnm\" title=\"Ted Nyman\">@tnm</a>, <a href=\"https://nitter.net/gdb\" title=\"Greg Brockman\">@gdb</a>, <a href=\"https://nitter.net/aglover\" ti",
+    "title_zh": "前Git维护者Taylor Blau加入OpenAI，探索AI时代的版本控制未来",
+    "summary_zh": "前Git维护者Taylor Blau宣布加入OpenAI，Greg Brockman表示期待与他共同描绘AI时代Git及软件配置管理的未来。",
+    "key_points": [
+      "前Git核心维护者Taylor Blau加入OpenAI",
+      "目标是探索AI代理时代的版本控制未来",
+      "Greg Brockman对此表示欢迎和期待"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "83795d28d9968d8801e0650fb474d223",
+    "title": "8点1氪丨前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭；苹果折叠屏已在量产；特朗普呼吁购买戴尔电脑，引发戴尔暴涨百亿美元",
+    "url": "https://36kr.com/p/3886238403129353?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-08T00:09:01+00:00",
+    "content_snippet": "<h2>今日热点导览</h2>\n  <p>网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言</p>\n  <p>商业银行不良处置仍在加速，上半年全行业转让核销合计至少5000亿</p>\n  <p>国家外汇管理局：截至2026年6月末，中国外汇储备规模为34163亿美元</p>\n  <p>汇丰暂停向风险较高的私募信贷客户提供贷款</p>\n  <p>SpaceX公布AI数据中心计划，同步推进星链卫星脱轨</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭</strong></p>\n  <p>7月6日，前华为“天才少年”李博杰在社交平台公开吐槽DeepSeek的面试流程，提及流程较慢且繁琐，面试官存在态度问题，质疑他抄袭，他感到“被严重冒犯”。面试过程并不愉快，他还被面试官质疑抄袭。“因为在代码面试中有两个屏幕，面试官说我不断在瞟左边的屏幕，说我在抄代码，让我停止抄代码，并说如果我不能证明我没有在抄代码，面试就无法继续下去了。”李博杰选择了终止面试，并认为面试官的表现，与他想象中的DeepSeek不同。",
+    "title_zh": "前华为天才少年吐槽DeepSeek面试，称面试官质疑其抄袭",
+    "summary_zh": "前华为“天才少年”在社交媒体上吐槽DeepSeek的面试经历，称面试官质疑其抄袭，此事引发讨论。文章还提及苹果折叠屏量产、特朗普呼吁购买戴尔电脑等新闻。",
+    "key_points": [
+      "前华为天才少年公开吐槽DeepSeek面试官质疑其抄袭",
+      "引发关于招聘和开源技术贡献的讨论",
+      "同日还报道了苹果和戴尔的其他新闻"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "deepseek",
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "789ce5d592ca3e20b92ff42af3b12465",
+    "title": "「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发",
+    "url": "https://36kr.com/p/3885479689465858?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-08T00:00:00+00:00",
+    "content_snippet": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36 氪获悉，德睿智药近期已完成 5200 万美元B轮融资，投资方包括头部人民币和美元基金，凯乘资本为独家财务顾问。募集资金将用于AI制药引擎Molecule Arts Platform（MAP）升级迭代，完善其多智能体（Multi-Agent）协同体系与临床数据闭环（Clinical Data-in-the-Loop），以及推进自研口服GLP-1小分子MDR-001的III期临床和商业化、拓展其他差异化创新药管线。</p>\n  <p>德睿智药的愿景是成为AI Native生物制药公司，创始人兼CEO牛张明拥有多年德国AI医疗上市公司CTO经验。他认为，传统新药研发高度依赖资深专家经验，需要合成数百上千个分子反复试错。但如今，AI技术的突破正有望不断颠覆这一传统路径，将大海捞针般的“试错式”新药研发模式，转变为由数据驱动的可计算、可迭代的“标准化创造”。</p>\n  <p>这也是德睿智药搭建MAP的初衷。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36kr",
+    "title_zh": "AI制药公司“德睿智药”获5200万美元B轮融资，减肥药进入3期临床",
+    "summary_zh": "AI制药公司德睿智药完成5200万美元B轮融资，用于升级AI制药引擎，并推进其AI设计的口服减肥药MDR-001的III期临床试验和商业化。",
+    "key_points": [
+      "德睿智药完成5200万美元B轮融资",
+      "自研AI设计的口服减肥药已进入3期临床",
+      "资金将用于AI平台升级和药物管线推进"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
