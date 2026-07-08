@@ -1852,5 +1852,53 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "38c1bf74e10cda012d1407eca1074146",
+    "title": "Free AI Resources Worth Bookmarking:",
+    "url": "https://www.reddit.com/r/artificial/comments/1uqtlav/free_ai_resources_worth_bookmarking/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-08T14:02:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Free Resources Worth Bookmarking:</p> <ol> <li><p>Generative AI Explained — Perfect for leaders who want strategic AI understanding.<br /> <a href=\"https://deepcog.ai/e/generative-ai-explained.html\">https://deepcog.ai/e/generative-ai-explained.html</a></p></li> <li><p>Building A Brain in 10 Minutes — Learn how neural networks actually work.<br /> <a href=\"https://deepcog.ai/e/building-a-brain-in-10-minutes.html\">https://deepcog.ai/e/building-a-brain-in-10-minute",
+    "title_zh": "值得收藏的免费 AI 资源",
+    "summary_zh": "一篇 Reddit 帖子分享了一系列免费 AI 学习资源，包括面向领导者的生成式 AI 讲解等，为用户提供入门和进阶的学习路径。",
+    "key_points": [
+      "分享多个免费 AI 学习资源链接",
+      "包含面向领导者的生成式 AI 战略讲解",
+      "内容源自 Reddit 社区用户推荐"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9a6df68e63109db286d4ef1744d4684e",
+    "title": "DINOv2 way worse than SigLIP in k-NN. Is this expected? [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uqtamz/dinov2_way_worse_than_siglip_in_knn_is_this/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-08T13:51:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Doing a bachelor thesis on fine-grained car classification (telling apart VW Golf generations from listing photos). Simple setup: frozen encoder → embeddings → weighted k-NN.</p> <p>On my small dataset (175 train / 132 test):</p> <ul> <li>SigLIP2 SO400M: ~92%</li> <li>CLIP ViT-L: ~59%</li> <li>DINOv2 Giant: ~41%</li> </ul> <p>I thought maybe it was a cosine vs euclidean thing, but my embeddings are L2-normalized so both give the same ranking. Tried both, DINOv2 ",
+    "title_zh": "在 k-NN 任务中 DINOv2 表现远逊于 SigLIP，这正常吗？",
+    "summary_zh": "一位学生在进行汽车细粒度分类的学士论文研究时发现，使用冻结编码器配合 k-NN 分类，SigLIP2 模型准确率达到 92%，而 DINOv2 表现差很多，引发社区讨论。",
+    "key_points": [
+      "在细粒度汽车分类中 SigLIP2 准确率达 92%",
+      "DINOv2 在相同 k-NN 任务中表现明显更差",
+      "对比实验引发社区对模型特性的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
