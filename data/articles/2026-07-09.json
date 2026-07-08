@@ -355,5 +355,231 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5fef5e6e426a8ab930c4406b9099b768",
+    "title": "LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-08T17:58:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Single-stream diffusion transformer with a DeepSeek-V3-style sparse MoE (128 experts, top-8 routing, 1.4B active of 13B total). Six-reward RL post-training including a physical-plausibility reward, plus an action-to-video mode that predicts robot rollouts from action and hand-pose conditions. Weights, code, and a Diffusers/SGLang stack are open under the LingBot-Video name.</p> <p>Two things I would push on, and would genuinely like this sub's read:</p> <ol> <li",
+    "title_zh": "LingBot-Video：基于稀疏MoE的视频扩散世界模型，总参数130亿，活跃参数14亿",
+    "summary_zh": "LingBot-Video 是一个单流扩散Transformer，采用DeepSeek-V3风格的稀疏MoE架构（128个专家，Top-8路由），总参数130亿，活跃参数14亿。模型通过六种奖励的强化学习进行后训练，包括物理合理性奖励，并支持动作到视频的预测模式，用于机器人动作推演。",
+    "key_points": [
+      "采用稀疏MoE架构，总参数130亿，活跃参数仅14亿。",
+      "通过包含物理合理性奖励的六种强化学习进行后训练。",
+      "支持动作到视频的预测，可作为机器人世界模型。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1e9d0df00d1e791a9456c30fc6625459",
+    "title": "Why this CEO thinks video games make better training data than the internet",
+    "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-08T17:47:55+00:00",
+    "content_snippet": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&#160;—&#160;an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled&#160;by&#160;gaming data.&#160;That&#8217;s&#160;the bet behind General Intuition, a",
+    "title_zh": "这位CEO为何认为电子游戏比互联网更适合训练AI",
+    "summary_zh": "本文采访了一位CEO，他主张电子游戏是比互联网文本更好的AI训练数据来源。他认为，大型语言模型虽擅长文本，但缺乏对物体在时空中的运动理解，而游戏数据能帮助AI学习物理世界的动态和交互，是实现通用人工智能的关键。",
+    "key_points": [
+      "CEO认为游戏数据比文本数据更能教会AI理解物理世界。",
+      "大型语言模型缺乏对时空和物体运动的理解。",
+      "游戏数据是实现通用人工智能的关键训练材料。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d202421fb8da15e72e4b3feb4ed33883",
+    "title": "GPT-Live — intelligent voice AI that feels like having a natural conversation. Feel like we’re still just scratching the surface of how to use it in our own testing. Rolling into ChatGPT now, and working on bringing to API and Codex.",
+    "url": "https://nitter.net/gdb/status/2074910365377568948#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-08T17:35:55+00:00",
+    "content_snippet": "<p>GPT-Live — intelligent voice AI that feels like having a natural conversation. Feel like we’re still just scratching the surface of how to use it in our own testing.<br />\n<br />\nRolling into ChatGPT now, and working on bringing to API and Codex.</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>Introducing GPT-Live, a new generation of voice models for natural human-AI interaction.<br />\n<br />\nRolling out in ChatGPT starting today.<br />\n<br />\nYou’ll want to turn the sound on for this",
+    "title_zh": "GPT-Live：能进行自然对话的智能语音AI，正在向ChatGPT和API推出",
+    "summary_zh": "OpenAI总裁Greg Brockman宣布GPT-Live智能语音功能上线，表示其对话体验犹如与真人交流，并称目前的应用仅为冰山一角。该功能正在向ChatGPT推送，并计划未来引入API和Codex。",
+    "key_points": [
+      "GPT-Live提供自然流畅的实时语音对话体验。",
+      "功能正在向ChatGPT用户推出，并计划接入API和Codex。",
+      "OpenAI认为当前对该功能的应用探索尚处于早期。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d52d7a032cbd798084c3a77a7efa3a45",
+    "title": "GPT-live (next-generation voice) launches today in ChatGPT. it feels magical and 'real'. i have always preferred typing to talking to an AI, now i think that's going to shift.",
+    "url": "https://nitter.net/sama/status/2074909079450050629#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-08T17:30:49+00:00",
+    "content_snippet": "<p>GPT-live (next-generation voice) launches today in ChatGPT.<br />\n<br />\nit feels magical and 'real'.<br />\n<br />\ni have always preferred typing to talking to an AI, now i think that's going to shift.</p>",
+    "title_zh": "Sam Altman：GPT-Live在ChatGPT上线，体验“神奇而真实”",
+    "summary_zh": "OpenAI CEO Sam Altman宣布新一代语音功能GPT-Live在ChatGPT上线。他表示该功能的使用体验“神奇而真实”，让他个人偏好从打字转向与AI对话，并认为这种互动方式将逐渐成为主流。",
+    "key_points": [
+      "GPT-Live新一代语音功能在ChatGPT正式上线。",
+      "Sam Altman称其体验神奇且真实，改变了他对AI交互的偏好。",
+      "预示着语音对话可能成为未来AI交互的主要方式。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "37f4b4095c9e89f1dee559268f3f0b06",
+    "title": "The metadata tells that reveal AI-generated images",
+    "url": "https://www.reddit.com/r/artificial/comments/1uqz9pm/the_metadata_tells_that_reveal_aigenerated_images/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-08T17:22:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Here's a short field guide on the three metadata signals that out a lot of AI images: C2PA content credentials (Adobe/OpenAI/Google/MS, since early 2024), the XMP DigitalSourceType flag, and the old EXIF Software field. Including a 2026 comparison of what each major generator tags.</p> <p>The method breaks the moment someone screenshots or re-saves the image, so it's a confirm-not-deny tool. Spelled out in the post.</p> <p>Disclosure: I make the iOS app it refer",
+    "title_zh": "识别AI生成图像的元数据线索",
+    "summary_zh": "一篇指南文章，介绍了识别AI生成图像的三种关键元数据信号：C2PA内容凭证、XMP DigitalSourceType标记和旧的EXIF Software字段。文章还提供了2026年各大AI图像生成工具在这些元数据上的对比情况。",
+    "key_points": [
+      "揭示了C2PA、XMP和EXIF三种识别AI图像的元数据。",
+      "提供2026年主流AI图像工具元数据对比。",
+      "帮助用户通过元数据辨别图像是否为AI生成。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8cb577da43c6189439a059671f9a356e",
+    "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+    "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-08T17:11:18+00:00",
+    "content_snippet": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+    "title_zh": "Meta想让它的人工智能眼镜不那么吓人，但其AI战略却背道而驰",
+    "summary_zh": "Meta为其AI眼镜增加了新的隐私保护措施，以防止用户偷拍他人。但与此同时，公司仍在扩大其AI产品对个人数据的收集和使用范围，其保护隐私的举措与整体数据驱动的AI战略形成了鲜明对比。",
+    "key_points": [
+      "Meta为AI眼镜新增防偷拍隐私保护功能。",
+      "公司整体AI战略仍在扩大个人数据收集和使用。",
+      "隐私保护措施与数据驱动的AI战略存在矛盾。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "94537172180cdef8aa78eeafd6dd85d9",
+    "title": "this one is just delightful, tune in to the livestream now:",
+    "url": "https://nitter.net/gdb/status/2074901915738264058#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-08T17:02:21+00:00",
+    "content_snippet": "<p>this one is just delightful, tune in to the livestream now:</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>Listen up.<br />\n<br />\nLivestream at 10am.</p>\n<a href=\"https://nitter.net/OpenAI/status/2074871151302774869#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/media%2FHMttZeeaEAAvJdn.jpg\" />\n</a>\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/OpenAI/status/2074871151302774869#m\">https://nitter.net/OpenAI/status/2074871151302774869#m</a>\n</footer>\n</blockquote>",
+    "title_zh": "Greg Brockman 预告 OpenAI 直播：这次的内容令人愉悦",
+    "summary_zh": "OpenAI总裁Greg Brockman在社交媒体上预告即将开始的直播，称其内容“令人愉悦”，并邀请观众收看。推文转发自OpenAI官方账号“Listen up. Livestream at 10am.”的直播通知，内容与GPT-Live发布相关。",
+    "key_points": [
+      "Greg Brockman 为 OpenAI 即将开始的直播预热。",
+      "直播内容与 GPT-Live 语音功能发布相关。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c1f0680921410606571c1098c0b5f00e",
+    "title": "OpenAI releases new voice models for more natural live conversations",
+    "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-08T17:00:00+00:00",
+    "content_snippet": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+    "title_zh": "OpenAI发布新语音模型，实现更自然的实时对话",
+    "summary_zh": "OpenAI发布了新一代语音模型，显著提升了实时对话的自然度。新模型具备边听边说的能力，这是实现实时翻译等应用的关键功能，能够带来更像人类之间交流的互动体验。",
+    "key_points": [
+      "新语音模型可同时进行听说，支持实时翻译。",
+      "旨在提供更自然、更像人类交流的语音对话体验。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4fa3484613a6b58d7ad0503519ae0e12",
+    "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-08T17:00:00+00:00",
+    "content_snippet": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to continue speaking if you pause mid-conversation. During a press briefing, OpenAI research lead Kundan Kumar called GPT-Live-1 the company's [&#8230;]",
+    "title_zh": "ChatGPT升级版语音模式更懂得何时保持安静",
+    "summary_zh": "OpenAI对ChatGPT的语音模式进行了重大升级，推出GPT-Live-1模型。新模型旨在减少不必要打断，并能在用户暂停时等待其继续发言，使得对话更加流畅自然，如同与真人交谈。",
+    "key_points": [
+      "GPT-Live-1模型旨在减少对用户的打断。",
+      "新模型能在用户停顿时等待，使对话更流畅。",
+      "升级让AI语音交互体验更接近与真人对话。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
