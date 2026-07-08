@@ -723,5 +723,181 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "efd4d4b7a77b98ade20d00d276def491",
+    "title": "AIP v1.1.0: a spec for verifiable, auditable, private-by-structure coordination (with a ZK principal-attestation primitive) [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ur76mz/aip_v110_a_spec_for_verifiable_auditable/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-08T22:03:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello <a href=\"/r/machinelearning\">r/machinelearning</a>! </p> <p>I've been working on a protocol for a bit now and have just released a whitepaper with the implementation on GitHub.</p> <p>It's a spec and reference implementation for a coordination layer where every message is signed, <strong>every state change is hash-chained</strong> into an audit log, and a <strong>privacy guarantee</strong> <strong>is enforced by routing precedence</strong> rather than by p",
+    "title_zh": "AIP v1.1.0: 可验证、可审计、结构私密的协调协议规范",
+    "summary_zh": "发布了一个名为AIP v1.1.0的协议规范，旨在实现可验证、可审计且结构上保护隐私的协调层，并包含了零知识证明原语，已在GitHub开源实现。",
+    "key_points": [
+      "发布AIP v1.1.0协议规范，用于可验证和可审计的协调",
+      "协议采用零知识证明原语实现结构上的隐私保护",
+      "已在GitHub上开源参考实现，侧重于去中心化协调"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1b1e979a9b25dfba193c1d0d9499d0ef",
+    "title": "\"We cannot choose to become idiots\": The AI cheating scandal roiling Brown University",
+    "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-08T21:42:44+00:00",
+    "content_snippet": "AI cheating leads to \"a failed society,\" professor says.",
+    "title_zh": "布朗大学AI作弊丑闻引发教授哀叹：我们不能选择成为白痴",
+    "summary_zh": "布朗大学正面临一场AI作弊丑闻，教授对此表示强烈谴责，认为AI作弊将导致社会失败，引发关于学术诚信与AI使用的广泛讨论。",
+    "key_points": [
+      "布朗大学发生大规模AI作弊事件，引发学术诚信危机",
+      "教授严厉批评AI作弊，称其将导致'失败的社会'",
+      "事件凸显AI在教育领域带来的伦理和监管挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e015c33aca4a96427d4fc4aca6f83ff8",
+    "title": "Guess which row is Meta's new 'Muse' Image Model",
+    "url": "https://www.reddit.com/r/artificial/comments/1ur6h98/guess_which_row_is_metas_new_muse_image_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-08T21:36:16+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ur6h98/guess_which_row_is_metas_new_muse_image_model/\"> <img alt=\"Guess which row is Meta's new 'Muse' Image Model\" src=\"https://preview.redd.it/aw7fuhhwq2ch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=635321a5e2332a84bbe292ee49e95d1763912ec1\" title=\"Guess which row is Meta's new 'Muse' Image Model\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Meta released Muse Image this week so I ran it against OpenAI's gpt-i",
+    "title_zh": "Meta发布新图像模型'Muse'，画质逼真难辨真假",
+    "summary_zh": "Meta推出了名为'Muse'的新图像模型，其生成图像的逼真度极高，引发用户通过猜测哪一行图片是AI生成的方式来测试其能力。",
+    "key_points": [
+      "Meta发布名为'Muse'的新图像生成模型",
+      "模型画质极其逼真，用户难以区分AI生成与真实图片",
+      "该模型展示了Meta在生成式AI领域的最新进展"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ea70264f4aaf9fe6d4d5fb59f24614ab",
+    "title": "OpenAI debuts more conversational ChatGPT voice models",
+    "url": "https://www.reddit.com/r/artificial/comments/1ur5mhj/openai_debuts_more_conversational_chatgpt_voice/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-08T21:04:53+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ur5mhj/openai_debuts_more_conversational_chatgpt_voice/\"> <img alt=\"OpenAI debuts more conversational ChatGPT voice models\" src=\"https://external-preview.redd.it/KHFrDoqYDyXBIqQm1ydyFlOAMI3UUGy1ZRlzSoWkFx0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7d576dcfcfda897abd5c5b607b11873fec511e7\" title=\"OpenAI debuts more conversational ChatGPT voice models\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>OpenAI on Wedne",
+    "title_zh": "OpenAI推出更具对话感的ChatGPT语音模型",
+    "summary_zh": "OpenAI发布了新一代ChatGPT语音模型，大幅提升了对话的自然度和流畅性，使人机交互体验更加接近真人对话。",
+    "key_points": [
+      "OpenAI推出新一代ChatGPT语音模型，对话更自然流畅",
+      "新模型旨在提升人机交互的沉浸感和真实感",
+      "这是OpenAI在语音交互领域的重要产品更新"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7d9fad2d819f32692ae296e693b7595a",
+    "title": "Meta AI now lets people create deepfakes from other users’ Instagram photos without explicit consent",
+    "url": "https://www.reddit.com/r/artificial/comments/1ur53vv/meta_ai_now_lets_people_create_deepfakes_from/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-08T20:46:36+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ur53vv/meta_ai_now_lets_people_create_deepfakes_from/\"> <img alt=\"Meta AI now lets people create deepfakes from other users’ Instagram photos without explicit consent\" src=\"https://external-preview.redd.it/C6sClsJlel86uN1X-Inx8KfCwU3HoK5M9Lj5Yv5oLS4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6fdab737e27c868f188a891b08d0c237e625e23d\" title=\"Meta AI now lets people create deepfakes from other users’ Instagram photos wit",
+    "title_zh": "Meta AI允许用户用他人Instagram照片制作深度伪造内容",
+    "summary_zh": "Meta AI被曝出允许用户未经他人明确同意，利用其Instagram照片创建深度伪造内容，引发了严重的隐私和伦理争议。",
+    "key_points": [
+      "Meta AI功能允许用户用他人Ins照片生成深度伪造内容",
+      "该功能未经他人明确同意，引发巨大的隐私和伦理担忧",
+      "事件可能加剧公众对AI滥用和平台责任的质疑"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "16f0c7d55a20c5dd905027e41b7ad6bd",
+    "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+    "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-08T20:37:03+00:00",
+    "content_snippet": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+    "title_zh": "谷歌深度伪造检测系统成功识破参议员麦康奈尔虚假照片",
+    "summary_zh": "谷歌的深度伪造检测系统被用于揭露一张广泛传播的参议员麦康奈尔病危的虚假照片，证明了其技术在识别AI生成内容方面的有效性。",
+    "key_points": [
+      "谷歌的深度伪造检测系统成功识别出虚假政治人物照片",
+      "该虚假照片显示参议员麦康奈尔处于极度痛苦状态",
+      "此次成功应用验证了谷歌检测工具在对抗虚假信息中的作用"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "67b85986427d69ddfede31b5d4b43ba8",
+    "title": "Crucible. A judgment engine: register a thesis, steelman each claim, measure against a substrate, refine the weakest axis.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ur4mp1/crucible_a_judgment_engine_register_a_thesis/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-08T20:28:46+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ur4mp1/crucible_a_judgment_engine_register_a_thesis/\"> <img alt=\"Crucible. A judgment engine: register a thesis, steelman each claim, measure against a substrate, refine the weakest axis.\" src=\"https://preview.redd.it/xq27po2kf2ch1.png?width=140&amp;height=37&amp;auto=webp&amp;s=3bc39ce7613ceb8cc12186a33c07a556cbb896b0\" title=\"Crucible. A judgment engine: register a thesis, steelman each claim, measure against a substrate, r",
+    "title_zh": "Crucible：一个注册论点、强化声明并优化最弱环节的评判引擎",
+    "summary_zh": "介绍了一个名为Crucible的评判引擎，其工作流程包括注册一个论点，通过'钢化'方式强化每个声明，在特定基础上进行衡量，并改进最薄弱的环节。",
+    "key_points": [
+      "发布名为Crucible的评判引擎，用于系统化论证分析",
+      "工作流程包括注册论点、强化声明、衡量基础和优化弱点",
+      "该工具旨在帮助用户构建和检验更严谨的逻辑论证"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
