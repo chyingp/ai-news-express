@@ -581,5 +581,147 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b7ded22fd775efc8df1e9c46c41ba6e1",
+    "title": "Can AI Avatars Change How We Perceive Information? (Academic Research)",
+    "url": "https://www.reddit.com/r/artificial/comments/1ur3g0w/can_ai_avatars_change_how_we_perceive_information/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-08T19:46:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello Everyone!</p> <p>I would like to kindly invite you to take part in my study exploring whether different AI avatars can shift people’s perceptions when they watch information online. The survey takes about 10 minutes to complete and is open to anyone aged 18 or older.</p> <p>Link to the study: <a href=\"https://surveyswap.io/s/ZYHW-JGAP-9UQD\">https://surveyswap.io/s/ZYHW-JGAP-9UQD</a></p> <p>Thank you very much in advance for your participation!</p> </div><!",
+    "title_zh": "AI头像能否改变我们对信息的感知？(学术研究)",
+    "summary_zh": "一项学术研究项目邀请参与者调查不同AI头像如何影响人们对在线信息的感知，旨在探索虚拟形象对信息接受度的潜在改变。",
+    "key_points": [
+      "研究探讨AI头像对在线信息感知的影响",
+      "调查面向18岁以上人群，耗时约10分钟"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e265f51e2cb78ffe1a88c87869577fab",
+    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-08T19:30:16+00:00",
+    "content_snippet": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+    "title_zh": "SpaceXAI发布Grok 4.5，马斯克称其为“Opus级模型”",
+    "summary_zh": "埃隆·马斯克的科技公司发布了最新版Grok 4.5模型，承诺提供更便宜、更高效的替代方案，定位为对标其他强大AI模型的竞争者。",
+    "key_points": [
+      "Grok 4.5定位为更便宜高效的强大AI模型",
+      "马斯克将其描述为“Opus级”模型"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9c57f755e18092e180a760cc7492131c",
+    "title": "This startup thinks robotics is about to have its ChatGPT moment",
+    "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-08T19:19:15+00:00",
+    "content_snippet": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+    "title_zh": "这家初创公司认为机器人即将迎来“ChatGPT时刻”",
+    "summary_zh": "初创公司General Intuition押注数百万小时视频游戏数据能训练出物理AI的基础模型，从而更轻松地使用少量真实世界数据构建更智能的机器人。",
+    "key_points": [
+      "利用视频游戏数据训练机器人基础模型",
+      "旨在减少机器人对真实世界数据的依赖"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "208565ed834d8b3800c5c4af17eee2c1",
+    "title": "Agentic safety triggers aren't textual safety triggers — MCP attacks that beat SOTA guardrails more than half the time (code + dataset) [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-08T18:36:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most safety alignment work treats &quot;detect the attack&quot; as a text classification problem — does the prompt contain language the model's safety guardrails should catch. That assumption breaks down for LLM agents with real tool access.</p> <p>Here's a concrete case: take a known, public security vulnerability (a CVE), work out the sequence of tool calls that would exploit it, then have an LLM rewrite that as an ordinary-sounding request. Nothing in the res",
+    "title_zh": "智能体安全触发器并非文本安全触发器——MCP攻击可超半数时间击败SOTA护栏",
+    "summary_zh": "一项研究指出，当前将安全检测视为文本分类问题的假设，在LLM代理拥有实际工具访问权限时会失效，并公开了相关代码和数据集。",
+    "key_points": [
+      "现有安全对齐方法在LLM代理工具访问时失效",
+      "研究公开了新的攻击代码和数据集"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ebc57c7f22f2b2a3cab5383fd9368b8e",
+    "title": "A Chinese lab open-sourced a video model they are calling a step toward a robot's brain. This clip is fully generated, no camera involved.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ur1e41/a_chinese_lab_opensourced_a_video_model_they_are/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-08T18:34:34+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ur1e41/a_chinese_lab_opensourced_a_video_model_they_are/\"> <img alt=\"A Chinese lab open-sourced a video model they are calling a step toward a robot's brain. This clip is fully generated, no camera involved.\" src=\"https://external-preview.redd.it/eTI4ZGlodjZ2MWNoMX8JIvfXHFnsY4mOcYCb5-0akOrrfhF4Rg_cIxPoygwJ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c633755a00ce7e65e8e9b1b99cd33b935dc3a166\" title=\"A Chinese lab open-sou",
+    "title_zh": "中国实验室开源视频模型，称其为迈向机器人“大脑”的一步",
+    "summary_zh": "一个中国实验室开源了一个视频生成模型，该模型完全由AI生成，无需摄像机参与，被视为迈向机器人“大脑”的关键一步。",
+    "key_points": [
+      "中国实验室开源了纯AI生成的视频模型",
+      "该模型被视为机器人“大脑”的探索性步骤"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cb9673c1314630438146e4e27672e40a",
+    "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+    "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-08T18:30:08+00:00",
+    "content_snippet": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+    "title_zh": "谷歌相册新增AI“视频混剪”工具",
+    "summary_zh": "谷歌相册推出一项AI功能，可对视频进行电影级重新布光、替换背景或添加艺术风格，增强视频编辑的趣味性和创造性。",
+    "key_points": [
+      "谷歌相册新增AI视频混剪工具",
+      "支持电影布光、背景替换和艺术风格添加"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
