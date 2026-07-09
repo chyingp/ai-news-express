@@ -1665,5 +1665,203 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6f33270ef66d55441a7be5d5f62cab42",
+    "title": "In a new open VLA, the biggest success jump came from relative vs absolute joint actions (+21.3), not the architecture[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1urjx7t/in_a_new_open_vla_the_biggest_success_jump_came/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-09T08:11:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Robbyant just open-sourced LingBot-VLA 2.0 (Robbyant is an embodied AI company under Ant Group), and the most useful thing in the paper is not the headline architecture. It is a boring representation choice that outweighed the fancy parts.</p> <p>In their ablations, switching the policy from absolute joint targets to relative joint actions moved average success from 33.7 to 55.0 (+21.3). That single swing was larger than what any of their architecture changes bo",
+    "title_zh": "新开源VLA中，相对动作表示的增益超过架构设计",
+    "summary_zh": "蚂蚁集团旗下Robbyant开源LingBot-VLA 2.0，论文最大亮点是采用相对关节动作表示而非绝对动作，带来21.3%的成功率提升，远超架构改进的贡献。",
+    "key_points": [
+      "相对关节动作表示使成功率提升21.3%，效果显著",
+      "该发现来自蚂蚁集团旗下具身智能公司Robbyant",
+      "表示方法的选择可能比模型架构本身更重要"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0f59db94f5b68df1a56eaa2f294f265a",
+    "title": "泰国批准近20亿美元投资项目，涉雀巢、泰航、日本AI基础设施公司Datasection等企业",
+    "url": "https://36kr.com/newsflashes/3888105963567616?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-09T07:45:55+00:00",
+    "content_snippet": "泰国投资委员会7月8日发布声明称，已批准9个投资促进项目，总额663亿泰铢（约合20亿美元），涵盖食品、航空运输、先进电子材料、数据存储与处理以及可再生能源等行业。其中，雀巢泰国有限公司将投资6.88亿美元建设一座咖啡工厂和配送中心。这座位于北榄府的新自动化设施计划于2028年第四季度投入运营，年产能为17万公吨，产品包括速溶咖啡、咖啡混合饮料和即饮饮料。 （界面）",
+    "title_zh": "泰国批准近20亿美元投资项目，涉雀巢、泰航、日本AI基础设施公司Datasection等企业",
+    "summary_zh": "泰国投资委员会批准了总额663亿泰铢的9个投资项目，涵盖食品、航空、电子材料、AI基础设施等领域，其中雀巢将投资6.88亿美元建设咖啡工厂。",
+    "key_points": [
+      "泰国批准663亿泰铢投资项目，涉及多个行业",
+      "雀巢将投资6.88亿美元建设自动化咖啡工厂",
+      "日本AI基础设施公司Datasection获得投资"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cf2286c522fcfd1ed5aecafdd44e5b55",
+    "title": "淡马锡最新投资风向：不碰加密货币，看好AI应用与欧洲资产",
+    "url": "https://36kr.com/newsflashes/3888073421584900?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-09T07:12:48+00:00",
+    "content_snippet": "淡马锡全球投资总裁纳吉·哈米耶表示，受加密货币交易所FTX巨额亏损事件影响，该公司正努力消化这笔损失，目前加密货币投资仍 “不在考虑范围内”。同时他也分享了淡马锡在人工智能、欧洲市场、中东地区及防务赛道的布局思路。（）理财",
+    "title_zh": "淡马锡最新投资风向：不碰加密货币，看好AI应用与欧洲资产",
+    "summary_zh": "淡马锡全球投资总裁表示，因FTX亏损影响，不再考虑加密货币投资。公司看好人工智能应用、欧洲市场、中东及防务赛道的布局机会。",
+    "key_points": [
+      "淡马锡因FTX亏损，不再考虑加密货币投资",
+      "看好AI应用、欧洲、中东及防务赛道",
+      "分享了在新兴领域的投资布局思路"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7141214f9ce194c6ce955900a8fffc4c",
+    "title": "轻松健康集团发布“证音”循证医学智能录音卡",
+    "url": "https://36kr.com/newsflashes/3888054692297481?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-09T06:53:45+00:00",
+    "content_snippet": "7月9日，轻松健康集团正式发布旗下循证医学智能硬件产品证音。作为围绕证元芳循证医学智能体打造的AI医学语音入口，证音通过低摩擦语音采集、安全传输、循证推理与结构化输出，覆盖门诊问诊、住院查房等多类医疗工作场景，探索AI能力进入真实医疗工作流的新路径。以证音为新的入口，轻松健康集团希望进一步打通语音、证据链与结构化输出，让AI真正服务于医生效率提升、医学证据应用与医疗服务质量优化。",
+    "title_zh": "轻松健康集团发布“证音”循证医学智能录音卡",
+    "summary_zh": "轻松健康集团发布AI医学语音入口产品“证音”，基于循证医学智能体，通过语音采集与推理，覆盖门诊、查房等场景，旨在提升医生工作效率和医疗服务质量。",
+    "key_points": [
+      "“证音”是AI医学语音入口，覆盖门诊、查房等场景",
+      "产品基于循证医学智能体，实现结构化输出",
+      "旨在提升医生效率与医疗服务质量"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0c8646dd92d478630ae1e342dce4efd6",
+    "title": "Questionable optics of Grok 4.5 being \"cheap\"",
+    "url": "https://www.reddit.com/r/artificial/comments/1uri9mo/questionable_optics_of_grok_45_being_cheap/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-09T06:37:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Grok 4.5 is out and performs well. </p> <p>What bothers me is that it's reported as being much cheaper than GPT or Anthropic's.</p> <p>One might be mislead to think the model is miraculously efficient, but that final price per million tokens doesn't factor in decisions such as artificial subsidization from xAI - making it not really a true win.</p> <p>Do you agree? What's your take on this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.r",
+    "title_zh": "Grok 4.5“廉价”的背后：定价可能未反映真实成本",
+    "summary_zh": "Grok 4.5发布后表现良好，其低价引发讨论。文章质疑其运营成本是否被低估，用户可能被误导以为模型效率极高，而实际定价未完全反映决策成本。",
+    "key_points": [
+      "Grok 4.5性能良好但低价引发质疑",
+      "其定价可能未包含完整决策成本",
+      "用户可能被误导认为模型效率极高"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1983b1e7c6765367344e0f2101207379",
+    "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
+    "url": "https://www.qbitai.com/2026/07/446658.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-09T06:29:30+00:00",
+    "content_snippet": "To safe AGI.",
+    "title_zh": "OpenAI首席未来学家离职，曾与马斯克交恶",
+    "summary_zh": "OpenAI首席未来学家宣布离职，该人士此前曾与马斯克发生公开争执，被马斯克辱骂。",
+    "key_points": [
+      "OpenAI首席未来学家离职",
+      "该人士曾与马斯克公开争执",
+      "离职原因尚未明确"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e54ed3a5b4afe5b806134722d65ec054",
+    "title": "I finally understood why AI uses so much electricity, so I made this.",
+    "url": "https://www.reddit.com/r/artificial/comments/1urhmg3/i_finally_understood_why_ai_uses_so_much/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-09T06:02:13+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1urhmg3/i_finally_understood_why_ai_uses_so_much/\"> <img alt=\"I finally understood why AI uses so much electricity, so I made this.\" src=\"https://preview.redd.it/ei5x65m895ch1.png?width=140&amp;height=93&amp;auto=webp&amp;s=907617ed3f2c9affea5851451e52c099f9bea332\" title=\"I finally understood why AI uses so much electricity, so I made this.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I was always wondering why people",
+    "title_zh": "我终于搞懂了AI为什么这么耗电，于是做了这个",
+    "summary_zh": "一篇Reddit用户分享的科普内容，作者通过可视化方式解释了人工智能高电力消耗的原因，属于个人理解与创作分享。",
+    "key_points": [
+      "用户通过可视化方式解释AI高耗电原因",
+      "属于个人科普创作，非正式研究",
+      "旨在帮助更多人理解AI能耗问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fad73f895159040eefb6ae414e41f87b",
+    "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+    "url": "https://www.qbitai.com/2026/07/436498.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-09T05:33:28+00:00",
+    "content_snippet": "180家企业携成果入驻",
+    "title_zh": "2026年世界人工智能大会将于7月17-20日在上海举办",
+    "summary_zh": "2026年世界人工智能大会定于7月17日至20日在上海举行，届时将有180家企业携成果参展。",
+    "key_points": [
+      "大会将于7月17-20日在上海举办",
+      "180家企业将携成果参展",
+      "是人工智能领域的重要行业盛会"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
