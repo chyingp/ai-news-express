@@ -600,5 +600,77 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "20fd84910f7b5b687bbba3328c256421",
+    "title": "While the writing style of LLMs is still as recognizable as ever, a new trend is that humans have started organically writing like them, too (which makes sense: of course you would end up imitating the style you are constantly reading). That makes telling the difference between humans and clankers a bit more challenging.",
+    "url": "https://nitter.net/fchollet/status/2075322891886063841#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-09T20:55:09+00:00",
+    "content_snippet": "<p>While the writing style of LLMs is still as recognizable as ever, a new trend is that humans have started organically writing like them, too (which makes sense: of course you would end up imitating the style you are constantly reading). That makes telling the difference between humans and clankers a bit more challenging.</p>",
+    "title_zh": "LLM 写作风格仍可辨识，但人类开始自然模仿 AI 文风",
+    "summary_zh": "François Chollet 指出，虽然大语言模型的写作风格依然有辨识度，但一个新的趋势是人类开始无意识地模仿其风格，使得区分人机写作变得更加困难。",
+    "key_points": [
+      "人类因频繁阅读 AI 文本而开始模仿其写作风格",
+      "区分人类与 AI 写作的难度正在增加"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a90a0d3e9300d25fe5bbd645cda5bfda",
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-09T20:22:28+00:00",
+    "content_snippet": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;",
+    "title_zh": "Anthropic 发现 Claude 模型内部隐藏的“概念推理”空间",
+    "summary_zh": "Anthropic 开发了一种新工具，首次清晰窥探了大型语言模型在回答问题时的内部运作机制，发现了一个模型用来琢磨概念的隐藏空间，结果既平凡又令人不安。",
+    "key_points": [
+      "Anthropic 开发出新工具揭示 LLM 内部运作机制",
+      "发现 Claude 在回答问题时存在一个处理概念的隐藏空间",
+      "该发现对理解 AI 推理过程具有重要意义"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aed1fb4989c1d6c5b94a0b6adad295ef",
+    "title": "Most \"best AI tool\" ranking pages are SEO funnels, here is how to spot them",
+    "url": "https://www.reddit.com/r/artificial/comments/1us17zx/most_best_ai_tool_ranking_pages_are_seo_funnels/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-09T19:57:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There are too many &quot;best AI tool&quot; ranking pages now. After getting fooled by a few, I started paying attention to the business model behind these pages rather than just the content.</p> <p>The page exists to rank, not to test. A real benchmark starts with a methodology and produces rankings as output. A funnel starts with the desired ranking and builds a page around it. You can usually tell by checking whether a methodology section even exists, and if ",
+    "title_zh": "大多数“最佳 AI 工具”排行榜实为 SEO 引流陷阱，如何识别",
+    "summary_zh": "Reddit 用户提醒，大量“最佳 AI 工具”排名页面是为了搜索引擎优化而存在的引流工具，并非真正的测试结果，并分享了如何通过分析其商业模式来识别这些陷阱。",
+    "key_points": [
+      "“最佳 AI 工具”排名页面多为 SEO 引流，而非真实评测",
+      "识别方法应关注其商业模式而非页面内容本身"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
