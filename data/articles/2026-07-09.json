@@ -2437,5 +2437,131 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3683866bbe239209d1c6c06e3355c3af",
+    "title": "If you’d like to be a design partner as we test our GPT-Live API (either by making a creative new app or integrating into your existing product), please reach out — gdb@openai.com. Very excited to see what new ideas this technology can unlock for developers.",
+    "url": "https://nitter.net/gdb/status/2075233835802071467#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-09T15:01:17+00:00",
+    "content_snippet": "<p>If you’d like to be a design partner as we test our GPT-Live API (either by making a creative new app or integrating into your existing product), please reach out — gdb@openai.com. Very excited to see what new ideas this technology can unlock for developers.</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>Introducing GPT-Live, a new generation of voice models for natural human-AI interaction.<br />\n<br />\nRolling out in ChatGPT starting today.<br />\n<br />\nYou’ll want to turn the sound",
+    "title_zh": "OpenAI寻找GPT-Live API设计合作伙伴",
+    "summary_zh": "OpenAI联合创始人Greg Brockman公开邀请开发者成为GPT-Live API的设计合作伙伴，用于创建新应用或集成到现有产品中，共同探索该技术的创新潜力。",
+    "key_points": [
+      "OpenAI为GPT-Live API测试招募设计合作伙伴",
+      "邀请开发者开发新应用或集成至现有产品",
+      "旨在探索实时AI技术的新应用场景"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "553be1e06f8f8184f9dcd7f2316e7c69",
+    "title": "Zuck Says AI Will Run Your Whole Business",
+    "url": "https://www.reddit.com/r/artificial/comments/1urslko/zuck_says_ai_will_run_your_whole_business/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-09T14:53:57+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1urslko/zuck_says_ai_will_run_your_whole_business/\"> <img alt=\"Zuck Says AI Will Run Your Whole Business\" src=\"https://preview.redd.it/veva18jft7ch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f692b58daa5704bb5da83be1fbefd5eb8c4491c\" title=\"Zuck Says AI Will Run Your Whole Business\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Meta recently launched a new AI agent for businesses that’s designed to handle custome",
+    "title_zh": "扎克伯格称AI将运营你整个业务",
+    "summary_zh": "Meta CEO马克·扎克伯格发表观点，认为人工智能未来将全面接管企业运营，引发Reddit社区热议。",
+    "key_points": [
+      "扎克伯格预测AI将全面运营企业业务",
+      "Reddit社区对此展开广泛讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "78b4dd47066f83bdce4b4a1b6b5c7a21",
+    "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+    "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-09T14:53:09+00:00",
+    "content_snippet": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
+    "title_zh": "Anthropic新Claude功能悄然推销AI依赖",
+    "summary_zh": "Anthropic推出的Claude Reflect仪表板不仅可视化用户使用AI的方式，还潜移默化地强化用户对Claude聊天机器人的日常依赖。",
+    "key_points": [
+      "Claude新增Reflect仪表板功能",
+      "该功能在展示AI使用数据的同时加强用户依赖",
+      "被视为一种巧妙的AI产品推销策略"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24accd016592ba52e5e3ed8ab583c60b",
+    "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+    "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-09T14:51:00+00:00",
+    "content_snippet": "Three big AI IPOs are set to generate more value than all the U.S. VC backed exits since 2000.",
+    "title_zh": "Anthropic、OpenAI和SpaceX估值超过过去25年科技退出总和",
+    "summary_zh": "Anthropic、OpenAI和SpaceX三家公司的IPO预计将产生超过美国自2000年以来所有风投支持科技退出总和的巨大价值。",
+    "key_points": [
+      "三家AI/科技巨头IPO估值将超历史总和",
+      "反映了AI领域前所未有的资本聚集"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2f5b533601f03de503dfa89e3bca3720",
+    "title": "Conspiracies and regrets abound in Dune: Part Three trailer",
+    "url": "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-09T14:45:44+00:00",
+    "content_snippet": "\"You promised me that you would never take power in your name.\"",
+    "title_zh": "《沙丘：第三部》预告片充满阴谋与悔恨",
+    "summary_zh": "《沙丘：第三部》发布预告片，揭示影片核心主题围绕阴谋与悔恨展开，并包含一句关键台词。",
+    "key_points": [
+      "《沙丘：第三部》预告片发布",
+      "剧情聚焦于阴谋与人物悔恨"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
