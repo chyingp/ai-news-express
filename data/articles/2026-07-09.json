@@ -1863,5 +1863,173 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "353a3550c9b7265fcb25497e1282ac68",
+    "title": "报道称Meta计划于9月开始生产AI芯片，并计划将计算能力翻倍",
+    "url": "https://36kr.com/newsflashes/3888342478748160?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-09T11:46:30+00:00",
+    "content_snippet": "备忘录显示，Meta计划于9月开始生产“Iris”AI芯片，计划明年将计算能力翻倍至14吉瓦，Meta今年计划部署7吉瓦的计算基础设施。为了扩展计算基础设施，Meta已达成长期、多年的供应协议，备忘录显示。其中包括与三星电子的内存芯片协议、与Sandisk的闪存存储协议，以及与住友电工的光纤设备协议。（财联社）",
+    "title_zh": "报道称Meta计划于9月开始生产AI芯片，并计划将计算能力翻倍",
+    "summary_zh": "Meta计划9月生产自研AI芯片“Iris”，并计划明年将计算能力翻倍至14吉瓦，为此已与三星等供应商签订长期协议。",
+    "key_points": [
+      "Meta将于9月启动自研AI芯片生产",
+      "计划明年将计算基础设施能力翻倍至14吉瓦",
+      "已与三星、Sandisk等签订长期供应协议"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6f24a579c23bdbd5742872fc849299a9",
+    "title": "What prevents people including devs and enterprises from using ai agents for production in some situations?and keeps them up at night when deployed to production??",
+    "url": "https://www.reddit.com/r/artificial/comments/1urnv0n/what_prevents_people_including_devs_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-09T11:43:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Let's be real. The demo always looks insanely cool, but putting an autonomous agent in production is terrifying. </p> <p>You've got agents deciding to execute tool calls on their own, hallucinating logic, or hallucinating tool requirements. And when it fails, it rarely crashes with a nice stack trace—it just fails silently or goes off the rails into unpredictable territory.For the devs and enterprises out there actually shipping these things: What is the nightma",
+    "title_zh": "是什么阻碍了开发者及企业将AI智能体投入生产环境？",
+    "summary_zh": "Reddit讨论指出，AI智能体在演示中表现出色，但在生产环境中自主执行工具调用时可能出现幻觉、逻辑错误等问题，导致部署困难。",
+    "key_points": [
+      "AI智能体在生产环境中易出现幻觉和逻辑错误",
+      "自主工具调用带来的不可预测性是主要担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "920d51ceee5de43a90684ad4a9cc9a06",
+    "title": "2026年度「中国股权投资行业投资机构」系列名册正式发布",
+    "url": "https://36kr.com/p/3888289009678854?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-09T10:53:27+00:00",
+    "content_snippet": "<p>Alpha will be made, not found。</p>\n  <p>麦肯锡在2026年初发布的全球私募市场报告中给出了一个精准的判断。Alpha（超额收益）不再是找到的，而是做出来的。持续走低的利率、不断膨胀的估值倍数、唾手可得的廉价融资，这些放大利润的旧杠杆们，在过去十年间逐一消失。以至于，全球封闭式PE募资在2025年同比下滑17%，亚太地区的跌幅接近一半。</p>\n  <p>中国市场的故事更加复杂。钱的源头变了，美元基金退潮之后，国资和产业资本接过了定价权，也接过了游戏规则的书写权。退出的通道也变了，PPT里的“多元化退出策略”，变成了真实发生的交易（至少是一部分GP不得不学会的新手艺）。</p>\n  <p>与此同时，主线变了。<strong>一级市场关于人工智能的叙事，已悄然完成了一次逻辑的更替。</strong></p>\n  <p>2025年，仅具身智能一个方向就吸纳了超过656亿元融资，涌入了近千家公司。更长期看，硬科技在VC投资中的占比五年内从38%攀升至62%。毫无疑问，资本的重心正在沿着技术栈向下游迁移。AI不再是众多赛道之一。它正在以一种几乎不可逆",
+    "title_zh": "2026年度「中国股权投资行业投资机构」系列名册正式发布",
+    "summary_zh": "麦肯锡报告指出，全球私募市场环境变化，超额收益不再靠发现，而需创造。中国市场面临资金源头和退出通道的变化。",
+    "key_points": [
+      "全球私募市场Alpha收益需主动创造而非发现",
+      "中国市场由国资和产业资本主导定价与规则"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fd86e5666944de538f519b34e3974875",
+    "title": "星巴克利用AI开发内部工具，以减少对微软和IBM的依赖",
+    "url": "https://36kr.com/newsflashes/3888276968930052?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-09T10:39:52+00:00",
+    "content_snippet": "星巴克正利用人工智能开发内部工具，以取代微软的一款库存追踪系统和IBM的一款维护管理工具。视测试结果而定，部分由星巴克自主开发的软件可能会在明年年底前投入使用。（财联社）",
+    "title_zh": "星巴克利用AI开发内部工具，以减少对微软和IBM的依赖",
+    "summary_zh": "星巴克正利用AI自研内部工具，以替代微软的库存追踪系统和IBM的维护管理工具，部分软件预计明年年底前投入使用。",
+    "key_points": [
+      "星巴克用AI自研软件替代微软和IBM的工具",
+      "涉及库存追踪和维护管理系统",
+      "自研软件预计明年底前可能投入使用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "46c16cf981abe9c9e8b41c7474fabf21",
+    "title": "What's your actual workflow for keeping context consistent across multiple AI tools?",
+    "url": "https://www.reddit.com/r/artificial/comments/1urmekh/whats_your_actual_workflow_for_keeping_context/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-09T10:31:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been thinking about this a lot lately and can't find a clean answer anywhere.</p> <p>Most people I know are running at least 3-4 different AI tools. Claude for writing and reasoning, Cursor or Copilot for code, ChatGPT for whatever, maybe Perplexity for research. Each one has its own memory, its own context, none of them talk to each other.</p> <p>So every time you switch tools you're basically starting from scratch. Re-explaining who you are, what you're w",
+    "title_zh": "在多个AI工具间保持上下文一致性的实际工作流程是什么？",
+    "summary_zh": "Reddit用户讨论如何在使用Claude、Cursor、ChatGPT等多个AI工具时，保持项目上下文的一致性，目前缺乏清晰的解决方案。",
+    "key_points": [
+      "用户常在多个AI工具间切换导致上下文断裂",
+      "目前缺乏保持跨工具上下文一致性的有效方法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4de1e508d98fb57a0e6336078b3a7b20",
+    "title": "PC gamers remain skeptical of Steam's AI disclaimers, poll shows many believe game devs are hiding it",
+    "url": "https://www.reddit.com/r/artificial/comments/1urlq10/pc_gamers_remain_skeptical_of_steams_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-09T09:55:14+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1urlq10/pc_gamers_remain_skeptical_of_steams_ai/\"> <img alt=\"PC gamers remain skeptical of Steam's AI disclaimers, poll shows many believe game devs are hiding it\" src=\"https://external-preview.redd.it/cYU79kutVm-pnFYGeO_p7_-DX1ajFXNjXJJXu66sezY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=51da659b93c560fadec9ea32e353a803659f211b\" title=\"PC gamers remain skeptical of Steam's AI disclaimers, poll shows many believe game d",
+    "title_zh": "PC玩家对Steam的AI声明仍持怀疑态度，调查显示多数人认为开发者隐瞒使用情况",
+    "summary_zh": "一项调查显示，尽管有Steam的AI内容披露政策，多数PC玩家仍怀疑游戏开发者在使用AI生成内容时有所隐瞒。",
+    "key_points": [
+      "多数PC玩家不相信Steam的AI内容声明",
+      "认为游戏开发者可能隐瞒AI工具的使用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e2fa303cf39626b23201dcfa630d4643",
+    "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
+    "url": "https://36kr.com/p/3888180493318921?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-09T09:01:56+00:00",
+    "content_snippet": "<p>特斯拉FSD（Full Self-Driving）每迭代出一个新版本，自动驾驶公司Momenta的创始人曹旭东都会飞去美国亲自体验。</p>\n  <p>“他还不光是去坐车，还会找一切能接触到特斯拉的人聊。”接触到曹旭东的人士告诉36氪，马斯克是曹旭东最常提到的人。</p>\n  <p>在内部，许多员工对曹旭东的一个共同感受，就是“马斯克式CEO”。</p>\n  <p>创业十年，Momenta赴港股IPO，上市首日（7月8日）市值达700亿港元。Momenta创始人曹旭东对36氪用两个数据，概括Momenta的阶段性成绩：定点车型市占率超50%，量产搭载车辆市占率超60%。</p>\n  <p>在这个节点回望，多位在职或者离职人士都向36氪总结，Momenta的内核和这家公司的经营底色，几乎都指向曹旭东，这位掌舵者的目标感和决策力。</p>\n  <p>Momenta如今在辅助驾驶量产市占率上大幅度领跑，业界往往认为跟两件事有关。</p>\n  <p>第一，是在其他自动驾驶公司都押宝L4方向时，曹旭东选择了先做L2级别的量产交付，这个与众不同的选择，让Momenta获得了占领量产市场的先机",
+    "title_zh": "揭秘Momenta：马斯克式CEO、AI执念和量产机器",
+    "summary_zh": "Momenta赴港上市首日市值达700亿港元，其创始人曹旭东被内部视为“马斯克式CEO”，公司定点车型市占率超50%。",
+    "key_points": [
+      "Momenta在港股上市，首日市值达700亿港元",
+      "创始人曹旭东推崇马斯克，被称为马斯克式CEO",
+      "公司定点车型市占率超50%，量产搭载量市占率超60%"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
