@@ -341,5 +341,264 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "aca1fb615a00129ed4fce4be2edf9ea7",
+    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-09T19:40:45+00:00",
+    "content_snippet": "Meta's new Muse Spark 1.1. will go up against similar products offered by Anthropic and OpenAI.",
+    "title_zh": "Meta 携 Muse Spark 1.1 加入 AI 编程激战",
+    "summary_zh": "Meta 发布 AI 编程工具 Muse Spark 1.1，与 Anthropic 和 OpenAI 的同类产品展开竞争，正式进军 AI 辅助编程领域。",
+    "key_points": [
+      "Meta 推出 Muse Spark 1.1 进军 AI 编程市场",
+      "直接对标 Anthropic 和 OpenAI 的同类产品",
+      "行业竞争加剧，巨头纷纷布局 AI 编程工具"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1db8020f654e326c06bf19f55816b481",
+    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+    "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-09T19:05:58+00:00",
+    "content_snippet": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+    "title_zh": "《纽约时报》指控 OpenAI 在版权案中隐瞒证据",
+    "summary_zh": "《纽约时报》等新闻出版商指控 OpenAI 隐藏了本可识别 ChatGPT 输出中受版权保护内容的工具和数据集，并申请对 OpenAI 实施制裁。",
+    "key_points": [
+      "出版商指控 OpenAI 隐藏关键训练数据工具",
+      "被指删除 ChatGPT 日志以规避版权侵权证据",
+      "案件升级，出版商申请对 OpenAI 进行制裁"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "56a8867d9462ee549a995d5d07aa5322",
+    "title": "check this out! you can get some amazing things done. codex is the core of our new work product and what makes it so good. codex is not going anywhere.",
+    "url": "https://nitter.net/sama/status/2075293792048136572#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-09T18:59:31+00:00",
+    "content_snippet": "<p>check this out! you can get some amazing things done.<br />\n<br />\ncodex is the core of our new work product and what makes it so good. codex is not going anywhere.</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6.<br />\n<br />\nIt can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.<br />\n<br />\nIt’s a whole new way to get work done.</p>\n<a hr",
+    "title_zh": "Sam Altman 力挺 Codex：ChatGPT Work 核心驱动力",
+    "summary_zh": "Sam Altman 在社交平台宣传新工作产品，强调 Codex 是其核心组件，并宣布基于 Codex 和 GPT-5.6 的智能体 ChatGPT Work。",
+    "key_points": [
+      "Sam Altman 强调 Codex 是新产品工作核心",
+      "宣布推出基于 Codex 和 GPT-5.6 的 ChatGPT Work",
+      "表态 Codex 不会被取代，持续发力编程智能体"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f36577910077d6c322be7d4aac3b0a56",
+    "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+    "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-09T18:57:53+00:00",
+    "content_snippet": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.",
+    "title_zh": "OpenAI 或在版权战中犯下致命错误",
+    "summary_zh": "《纽约时报》指控 OpenAI 伪造无法搜索训练数据的能力，并删除数十亿条 ChatGPT 日志，可能在版权诉讼中面临制裁。",
+    "key_points": [
+      "OpenAI 被指伪造技术能力以规避版权审查",
+      "涉嫌删除数十亿条 ChatGPT 日志毁灭证据",
+      "若指控成立，OpenAI 可能面临法律制裁"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c7ffc144e4ed7278e202a0d5db3a3902",
+    "title": "Google will now disclose which ads are made with AI",
+    "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-09T18:40:51+00:00",
+    "content_snippet": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+    "title_zh": "谷歌将强制披露 AI 生成的广告内容",
+    "summary_zh": "谷歌更新广告政策，要求所有利用 AI 生成或修改内容的广告进行披露，不再局限于选举广告，以打击误导性广告。",
+    "key_points": [
+      "谷歌要求所有 AI 生成广告必须明确披露",
+      "新规扩展至选举广告以外的所有广告类别",
+      "旨在应对 AI 生成内容的误导性广告风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1655d850245b2f7172873b6cb7683f9a",
+    "title": "SAAG: A Practical Methodology for Deciding Where AI Actually Fits",
+    "url": "https://www.reddit.com/r/artificial/comments/1uryyeg/saag_a_practical_methodology_for_deciding_where/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-09T18:36:44+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uryyeg/saag_a_practical_methodology_for_deciding_where/\"> <img alt=\"SAAG: A Practical Methodology for Deciding Where AI Actually Fits\" src=\"https://preview.redd.it/mh330v5g09ch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2efef51c4ade9aa96432acf235086a2f4f8d5dcb\" title=\"SAAG: A Practical Methodology for Deciding Where AI Actually Fits\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I created a simple methodology ca",
+    "title_zh": "SAAG：决定 AI 适用场景的实用方法论",
+    "summary_zh": "Reddit 分享了一种名为 SAAG 的实用方法论，旨在帮助用户判断在哪些场景下真正适合引入人工智能技术。",
+    "key_points": [
+      "提出 SAAG 方法论用于评估 AI 适用性",
+      "提供实用框架帮助企业决策 AI 部署场景",
+      "关注 AI 落地的实际价值而非技术炒作"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "197158ed79d24f534c789ccfede96175",
+    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+    "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-09T18:34:35+00:00",
+    "content_snippet": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+    "title_zh": "巴黎 AI 语音初创 Gradium 获英伟达参投 1 亿美元种子轮",
+    "summary_zh": "法国 AI 语音初创公司 Gradium 完成 1 亿美元种子轮融资，由英伟达等参投，计划利用资金在湾区开设办事处以争夺人才。",
+    "key_points": [
+      "Gradium 完成 1 亿美元种子轮大额融资",
+      "英伟达参与此轮融资，看好 AI 语音赛道",
+      "资金用于进驻硅谷，加强全球 AI 人才竞争"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "daf54a43354d2693a03bb78b16afa08c",
+    "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+    "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-09T18:22:39+00:00",
+    "content_snippet": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\"",
+    "title_zh": "政府如何判定 OpenAI 前沿模型可安全发布？",
+    "summary_zh": "文章探讨美国政府与 OpenAI、Anthropic 等 AI 公司之间关于前沿模型安全评估的对话过程，指出具体审查细节尚不透明。",
+    "key_points": [
+      "政府与 AI 公司间的安全评估对话细节不明",
+      "涉及 OpenAI 和 Anthropic 前沿模型发布审查",
+      "引发对 AI 大模型安全监管透明度的质疑"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "32140027004a1d67330346892c466fe2",
+    "title": "Google Should Open Source Gemini. All of It.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ury0kc/google_should_open_source_gemini_all_of_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-09T18:04:27+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ury0kc/google_should_open_source_gemini_all_of_it/\"> <img alt=\"Google Should Open Source Gemini. All of It.\" src=\"https://external-preview.redd.it/TxdAGIJ6QIVsYUEgn_BTPwhADpNAR_h-VYbamvk8GXI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc3b9834f828727761e7e8d3bb4a5ba5866d682f\" title=\"Google Should Open Source Gemini. All of It.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dev_is_active",
+    "title_zh": "观点：谷歌应完全开源 Gemini",
+    "summary_zh": "Reddit 社区呼吁谷歌将其 Gemini 模型完全开源，讨论开源对生态建设、行业竞争及技术透明度的潜在影响。",
+    "key_points": [
+      "社区呼吁谷歌全量开源 Gemini 模型",
+      "探讨开源对 AI 生态和竞争格局的影响",
+      "关注技术透明度与闭源策略的博弈"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "21a90f4f28e43520a3b99eff7a025ce0",
+    "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+    "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-09T17:56:47+00:00",
+    "content_snippet": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
+    "title_zh": "Instagram 用户：如何阻止 Meta 的 AI 使用你的照片",
+    "summary_zh": "Meta 的 Muse Image 允许用户利用公开 Instagram 账户照片生成 AI 图像，文章介绍如何设置以防止个人照片被用于 AI 创作。",
+    "key_points": [
+      "Muse Image 可调用公开 Instagram 照片生成 AI 图像",
+      "公开账户面临被他人用于 AI 创作的风险",
+      "提供隐私设置指南以阻止 Meta 使用个人照片"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
