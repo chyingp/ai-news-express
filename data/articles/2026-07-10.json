@@ -672,5 +672,231 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f4697769f321669be38ddffa9b59f2a5",
+    "title": "扎克伯格为Meta付费人工智能工具制定“激进”价格策略",
+    "url": "https://36kr.com/newsflashes/3889012041480712?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-09T23:07:37+00:00",
+    "content_snippet": "Meta Platforms Inc．发布了其最先进人工智能模型Muse Spark 1.1，并首次面向开发者推出付费版本。这是Meta首次向企业收取模型使用费，也为公司开辟了新的收入来源。扎克伯格在发布前接受采访时表示，这款模型将成为市场上价格最低的选择之一。“由于这不是开源模型，我认为这是我们第一次真正认真推出API，”扎克伯格说，“其定价将极具竞争力，也非常有吸引力。”（新浪财经）",
+    "title_zh": "扎克伯格为Meta付费人工智能工具制定“激进”价格策略",
+    "summary_zh": "Meta发布AI模型Muse Spark 1.1，首次推出付费版本面向开发者，承诺定价极具竞争力。此举标志着Meta开始通过模型API直接创收，扎克伯格强调这是其首个严肃的API业务。",
+    "key_points": [
+      "Meta首次向企业收取AI模型使用费，开启新收入来源",
+      "新模型Muse Spark 1.1定价将极具竞争力，瞄准市场最低价",
+      "扎克伯格表示这是Meta首次真正认真推出API业务"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bf92abe55841e39dbc03f81b23d593c9",
+    "title": "i am really sad about this and very grateful for all fidji has done for openai, and even grateful for her friendship and who she is as a person. we all wish her the best for a speedy recovery. this sucks.",
+    "url": "https://nitter.net/sama/status/2075354679031067058#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-09T23:01:28+00:00",
+    "content_snippet": "<p>i am really sad about this and very grateful for all fidji has done for openai, and even grateful for her friendship and who she is as a person.<br />\n<br />\nwe all wish her the best for a speedy recovery. this sucks.</p>\n<hr />\n<blockquote>\n<b>Fidji Simo (@fidjissimo)</b>\n<p>\n<p>Today, I shared with the OpenAI team that I have decided to leave my full-time role at OpenAI and transition to being a part-time advisor.<br />\n<br />\nThree months ago, I had to go on medical leave after a severe ex",
+    "title_zh": "奥特曼对Fidji离职表遗憾，感谢其为OpenAI所做贡献",
+    "summary_zh": "Sam Altman在社交媒体上表达对Fidji Simo离职的深切遗憾，感谢其对OpenAI的贡献及建立的友谊，并祝愿她早日康复。推文显示Fidji此前分享了个人健康相关消息。",
+    "key_points": [
+      "Sam Altman公开表达对Fidji Simo离职的难过与感激",
+      "Fidji曾为OpenAI做出重要贡献，与Altman保持友谊",
+      "Altman祝愿其早日康复，暗示与健康问题相关"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bfef75d93a48cf64540b8103d45a09aa",
+    "title": "OpenAI发布GPT-5.6系列模型，旗舰模型Sol正式开放使用",
+    "url": "https://36kr.com/newsflashes/3889005901249030?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-07-09T23:01:22+00:00",
+    "content_snippet": "当地时间7月9日，OpenAI宣布，GPT-5.6系列模型正式全面开放，包括旗舰模型GPT-5.6 Sol、均衡型模型Terra和低成本模型Luna。其中，Sol支持全新的Ultra模式，可默认协调4个AI代理并行处理复杂任务，进一步提升代码开发、科研、网络安全及知识工作等场景的效率。OpenAI称，GPT-5.6系列在多项基准测试中实现业内领先，并在保持或提升性能的同时显著降低推理成本和响应时间。公司同时表示，GPT-5.6配备迄今最完善的安全防护体系，并正式支持程序化工具调用，进一步增强复杂任务自动执行能力。（界面）",
+    "title_zh": "OpenAI发布GPT-5.6系列模型，旗舰模型Sol正式开放使用",
+    "summary_zh": "OpenAI全面开放GPT-5.6系列模型，包含旗舰Sol、均衡Terra和低成本Luna。Sol支持Ultra模式，可协调4个AI代理并行处理复杂任务，在代码开发、科研等领域显著提升效率，并配备更完善的安全防护。",
+    "key_points": [
+      "GPT-5.6系列包含Sol、Terra和Luna三款模型，全面开放使用",
+      "旗舰Sol支持Ultra模式，可并行协调4个AI代理执行复杂任务",
+      "新模型在提升性能的同时显著降低推理成本和响应时间"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "da68d51d471a4c39000040e737471f61",
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-09T22:24:24+00:00",
+    "content_snippet": "OpenAI's latest family of models promise improvements across a range of areas, including cybersecurity.",
+    "title_zh": "OpenAI推出GPT-5.6新模型家族",
+    "summary_zh": "OpenAI发布最新GPT-5.6模型家族，承诺在网络安全等多个领域实现性能提升。该系列模型旨在通过更高效、更安全的能力，进一步巩固其在AI领域的领先地位。",
+    "key_points": [
+      "OpenAI推出GPT-5.6新模型家族，实现多领域性能提升",
+      "新模型在网络安全等关键领域展现出更强能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eb2fa5e9cf60d17db9ed56268f92fe5a",
+    "title": "An AI agent startup just let its agent run its $100 million fundraise",
+    "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-09T22:08:58+00:00",
+    "content_snippet": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+    "title_zh": "AI智能体初创公司用自家智能体完成1亿美元融资",
+    "summary_zh": "企业AI智能体初创公司Lyzr使用自己开发的AI智能体成功筹集1亿美元资金，以此证明其产品实际有效。此案例展示了AI智能体在复杂商业场景中自主执行任务的能力。",
+    "key_points": [
+      "Lyzr使用自家AI智能体成功完成1亿美元融资轮",
+      "此举旨在证明其企业级AI智能体产品的实际工作能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3579a3be1f32b6fa431f82f51507844a",
+    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+    "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-09T22:03:54+00:00",
+    "content_snippet": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+    "title_zh": "OpenAI将关闭Atlas浏览器，但AI浏览器野心仍在膨胀",
+    "summary_zh": "OpenAI宣布将关闭推出不到一年的AI浏览器Atlas，但会将部分智能浏览功能迁移至桌面应用和Chrome扩展。此举表明OpenAI仍在探索AI与浏览器深度融合的路径。",
+    "key_points": [
+      "OpenAI关闭AI浏览器Atlas，运营时间不足一年",
+      "部分智能浏览功能将迁移至桌面应用和Chrome扩展",
+      "OpenAI并未放弃AI浏览器方向的探索与布局"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7a9493a910714f028f0aef4efacc5e0a",
+    "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+    "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-09T21:57:42+00:00",
+    "content_snippet": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+    "title_zh": "马斯克称赞Mythos/Fable，承诺不会“切断”Anthropic",
+    "summary_zh": "马斯克对AI公司Mythos/Fable表示赞赏，并向Anthropic承诺不会切断其模型托管服务。鉴于Anthropic约400亿美元的收入规模，马斯克坚称其平台值得信任。",
+    "key_points": [
+      "马斯克公开称赞Mythos/Fable，并试图安抚Anthropic",
+      "承诺不会切断对Anthropic的模型托管服务",
+      "Anthropic涉及约400亿美元收入，信任问题备受关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3420787aec5e3fefa3997f5c6d526ea5",
+    "title": "Can AI answer the $3 trillion question?",
+    "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-09T21:47:50+00:00",
+    "content_snippet": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+    "title_zh": "AI能否回答3万亿美元的问题？",
+    "summary_zh": "关于AI投资回报率的争论再度升温，涉及的资金规模更加庞大，其潜在后果也更深远。文章探讨AI技术能否最终证明其价值，以回应巨额的资本投入。",
+    "key_points": [
+      "AI投资回报率（ROI）的争论再次成为焦点，规模达数万亿美元",
+      "文章探讨AI能否兑现其商业价值，回应巨额投入的质疑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4ad6ea65090c88a9606e3feabd52b699",
+    "title": "OpenAI wants its new tool to do your work for you and with you",
+    "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-09T21:25:55+00:00",
+    "content_snippet": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
+    "title_zh": "OpenAI希望新工具能为你工作，也能与你协作",
+    "summary_zh": "OpenAI推出重新命名的Codex工具，承诺实现可独立运行数小时的工作流程。该工具旨在既独立完成复杂任务，又能与用户进行协作，为知识工作提供新的自动化解决方案。",
+    "key_points": [
+      "OpenAI推出重新设计的Codex，可独立运行数小时执行任务",
+      "新工具定位为既能独立工作又能与用户协作的AI助手"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
