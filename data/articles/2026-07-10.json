@@ -2077,5 +2077,172 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "319c7e25467edfcea9f3fa56c0902e0d",
+    "title": "How I'm charged for AI usage feels broken.",
+    "url": "https://www.reddit.com/r/artificial/comments/1usohx9/how_im_charged_for_ai_usage_feels_broken/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-10T13:59:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The way AI use is being charged for currently I feel is currently broken.<br /> - I pay for input tokens. OK, that makes sense. the more tokens I send, the more I should pay since it's more work on the compute side.<br /> - I pay for output tokens but 80-95% of those tokens are thinking budget. I don't care about the thinking your model does. I just care about the answer. Can we not be charged just for tokens that are useful to me? </p> <p>But here's the part th",
+    "title_zh": "AI 使用计费方式感觉不完善",
+    "summary_zh": "Reddit 用户讨论当前 AI 服务基于输入和输出 token 的计费模式，认为尽管输入 token 收费合理，但输出 token 的费用占比过高且不合理。",
+    "key_points": [
+      "用户认为 AI 输出 token 收费占比过高，达 80-95%",
+      "当前计费模式让用户感觉不合理"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b33cb3310e95a6c571ef05988e6c14c6",
+    "title": "the sun is out today",
+    "url": "https://nitter.net/sama/status/2075579012223787402#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-10T13:52:53+00:00",
+    "content_snippet": "<p>the sun is out today</p>\n<hr />\n<blockquote>\n<b>Tibo (@thsottiaux)</b>\n<p>\n<p>To celebrate the launch of GPT-5.6 Sol, we will reset the rate limits again (twice) across ChatGPT Work and Codex over the next 24 hours.<br />\n<br />\nWe want you to have the time to truly try ambitious tasks and get the hang of it. Happy exploring!</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/thsottiaux/status/2075452680760443190#m\">https://nitter.net/thsottiaux/status/2075452680760443190#m</a>\n</footer>\n",
+    "title_zh": "太阳今天出来了",
+    "summary_zh": "Sam Altman 发布了一条简短的推文，内容为“今天太阳出来了”，并转发了关于为庆祝 GPT-5.6 Sol 发布而重置 ChatGPT Work 和 Codex 速率限制的帖子。",
+    "key_points": [
+      "Sam Altman 发布个人化推文，附带 GPT-5.6 Sol 发布信息",
+      "为庆祝新模型发布，将重置 ChatGPT Work 和 Codex 速率限制"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "391ab114d697b67560a421d9f2940c1c",
+    "title": "GPT-Live for personalized news briefings:",
+    "url": "https://nitter.net/gdb/status/2075577691051528614#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-10T13:47:38+00:00",
+    "content_snippet": "<p>GPT-Live for personalized news briefings:</p>\n<hr />\n<blockquote>\n<b>Simon Smith (@_simonsmith)</b>\n<p>\n<p>I discovered a great use case for GPT-Live today: Personalized, interactive news briefings.<br />\n<br />\nI have a scheduled task in ChatGPT to create a personalized newscast. I’ve been having Chat read that aloud using the text-to-speech button on replies. But today I wondered: Can GPT-Live read this to me and then I can ask it questions as it’s going, and then it resumes where it left o",
+    "title_zh": "GPT-Live 用于个性化新闻简报",
+    "summary_zh": "Greg Brockman 分享了使用 GPT-Live 创建个性化、交互式新闻简报的案例，用户通过 ChatGPT 中的预定任务实现每日新闻定制。",
+    "key_points": [
+      "GPT-Live 被用于创建个性化交互式新闻简报",
+      "用户通过 ChatGPT 预定任务自动生成新闻内容"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "25a8c727f0cde892171a73959b40f65f",
+    "title": "Instagram’s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+    "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-10T13:45:02+00:00",
+    "content_snippet": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know [&#8230;]",
+    "title_zh": "Instagram 高管称：不喜欢 AI 内容就不该出现在你的信息流中",
+    "summary_zh": "Instagram 负责人 Adam Mosseri 表示，平台不会过滤 AI 生成内容，但用户若不感兴趣，就应避免让其出现在信息流中，暗示通过用户行为来调节。",
+    "key_points": [
+      "Instagram 不会主动过滤 AI 生成内容",
+      "建议用户通过自身行为避免不喜欢的 AI 内容"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ca0f6466245f03dc748f1f9694aa9831",
+    "title": "When an AI agent makes a costly mistake, who is accountable?",
+    "url": "https://www.reddit.com/r/artificial/comments/1usnyex/when_an_ai_agent_makes_a_costly_mistake_who_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-10T13:37:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1usnyex/when_an_ai_agent_makes_a_costly_mistake_who_is/\"> <img alt=\"When an AI agent makes a costly mistake, who is accountable?\" src=\"https://preview.redd.it/up8a4724oech1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba1f6ffcd1813d71f5ecb3a3836088625a923b05\" title=\"When an AI agent makes a costly mistake, who is accountable?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>AI agents are moving beyond simple chatbots",
+    "title_zh": "当 AI 智能体犯下代价高昂的错误，谁该负责？",
+    "summary_zh": "Reddit 用户讨论 AI 智能体在医疗、金融等场景中犯错时的责任归属问题，引发了关于开发者、部署者或用户谁应承担责任的广泛讨论。",
+    "key_points": [
+      "讨论 AI 智能体犯错时的责任归属难题",
+      "涉及医疗、金融等高风险场景的应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aa6c65601c209efe2c5839141e122280",
+    "title": "How should I approach training this specific ML model for my startup project [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1usnuc0/how_should_i_approach_training_this_specific_ml/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-10T13:33:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So, I am working on this startup project with pretty low budget and one of the features is sentiment analysis based on political news, x posts and Instagram hashtag trends in which will be in Indian languages. I've been suggested muRIL, an Indian language-based model fine-tuned on political data as the best long-term option. But our team does not have any ML engineer so we dont know how we should approach that. Also do tell me if you think there is a better alte",
+    "title_zh": "如何为创业项目训练特定的机器学习模型",
+    "summary_zh": "Reddit 用户寻求建议，计划用低预算训练一个基于印度语言政治新闻和社交媒体趋势的情感分析模型，并考虑使用 muRIL 等预训练模型。",
+    "key_points": [
+      "用户计划为印度语言情感分析项目训练 ML 模型",
+      "项目预算较低，考虑使用 muRIL 等模型"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "25b3108dc09fcdbb4f9c2a454461ca75",
+    "title": "Would you host part of an AI data center in your home?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-10T13:20:25+00:00",
+    "content_snippet": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is launching a pilot program for a new \"distributed AI compute\" program that will \"place numerous compute nodes in homes [&#8230;]",
+    "title_zh": "你愿意在家里托管部分 AI 数据中心吗？",
+    "summary_zh": "家庭太阳能和储能公司 Sunrun 将业务扩展至 AI 数据中心，推出分布式 AI 计算试点项目，付费让客户在家中安装计算单元，以利用家庭能源。",
+    "key_points": [
+      "Sunrun 推出分布式 AI 计算试点项目",
+      "付费让客户在家安装 AI 计算单元"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
