@@ -1184,5 +1184,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ef0f2f373a6cd650d061af1f8dca1d8a",
+    "title": "Updated: Millions of ChatGPT user conversations searched, but OpenAI alleged to be holding out",
+    "url": "https://www.reddit.com/r/artificial/comments/1usbdyd/updated_millions_of_chatgpt_user_conversations/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-10T02:54:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Originally published January 6, 2026; updated July 9, 2026</p> <p>A side controversy in the <em>OpenAI, Inc. Copyright Infringement Litigation</em> case going on in federal court in New York City has been that regular users’ ChatGPT conversations were ordered disclosed to the plaintiffs for searching and perhaps other litigation-related uses. This notion first caused quite a stir with ChatGPT users commenting on Reddit, for example, when Judge Wang, the magistra",
+    "title_zh": "更新：数百万ChatGPT用户对话被搜索，OpenAI被指控有所保留",
+    "summary_zh": "纽约联邦法院审理的OpenAI版权侵权诉讼中，一项争议涉及数百万ChatGPT用户对话被要求披露，但OpenAI被指控未完全配合，引发对用户隐私的担忧。",
+    "key_points": [
+      "OpenAI版权诉讼中，数百万用户对话被要求披露",
+      "OpenAI被指控在对话数据提供上有所保留",
+      "该事件引发关于用户隐私保护的争议"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0617be6e35d2eb16b1d6309107d7c20b",
+    "title": "海光信息亮相光合组织2026智能计算应用大会",
+    "url": "https://36kr.com/newsflashes/3889195366447872?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-10T02:14:06+00:00",
+    "content_snippet": "36氪获悉，7月9-11日，光合组织2026智能计算应用大会在郑州举办，海光信息首次集中呈现“云边端”完整算力体系。展区内，搭载海光C86芯片的智能巡检机器人、AI BOX端侧一体机、EtherCAT高精度运动控制方案等物理AI平台与产品方案亮相，覆盖工业控制、精密制造等场景。相关方案通过海光CPU+DCU双芯协同与嵌入式原生AI布局。大会期间，中国首个全国产十万卡AI超集群——曙光8000（登峰）正式落成，系统搭载海光等国产芯片算力底座。",
+    "title_zh": "海光信息亮相光合组织2026智能计算应用大会",
+    "summary_zh": "海光信息在光合组织智能计算大会上首次集中展示“云边端”完整算力体系，涵盖工业控制、精密制造等场景。同时，搭载海光等国产芯片的中国首个全国产十万卡AI超集群曙光8000正式落成。",
+    "key_points": [
+      "海光信息首次集中呈现“云边端”完整算力体系",
+      "展示覆盖工业控制、精密制造等场景的物理AI平台",
+      "首个全国产十万卡AI超集群曙光8000正式落成"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
