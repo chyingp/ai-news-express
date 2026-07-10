@@ -644,5 +644,57 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "312c742d69a6fd09799faf52d2556bff",
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-10T23:55:07+00:00",
+    "content_snippet": "Meta told Dylan Byers, of Puck News, that it had nixed the feature after backlash from its user base.",
+    "title_zh": "Meta 因用户强烈反对，移除 Instagram 上的争议 AI 功能",
+    "summary_zh": "在遭到用户强烈反对后，Meta 宣布移除一项在 Instagram 上允许用户基于公开账号内容生成 AI 图像的功能。该功能在设定上存在隐私和伦理争议，Meta 已向媒体确认该决定。",
+    "key_points": [
+      "Meta 因用户强烈反对移除 Instagram 的 AI 图像生成功能",
+      "该功能允许用户基于公开账号内容生成 AI 伪造图像",
+      "功能设定引发隐私和伦理争议，上线仅一周即被取消"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c5c58f59ae8d36f3c19fa3b2d60851c0",
+    "title": "Meta turns off the Instagram feature that users make AI deepfakes of public accounts",
+    "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-10T23:49:50+00:00",
+    "content_snippet": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission. [&#8230;]",
+    "title_zh": "Meta 关闭 Instagram 上用户可针对公开账户制作 AI 深度伪造的功能",
+    "summary_zh": "Meta 本周关闭了 Instagram 上一项引发巨大争议的 AI 功能，该功能允许用户通过标记公开账户来生成 AI 图像。原设定意味着任何公开账户的内容都可能被用于 AI 创作，导致用户强烈反弹。",
+    "key_points": [
+      "用户强烈反弹迫使 Meta 关闭 Instagram 的 AI 深度伪造功能",
+      "该功能只需标记公开账户即可利用其内容生成 AI 图像",
+      "原设定导致任何公开账户内容都可能被随意用于 AI 生成"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
