@@ -898,5 +898,291 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "85c38ed351ffeb88e746699f92219406",
+    "title": "Hyperparameter tuning approach question [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1usa46w/hyperparameter_tuning_approach_question_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-10T01:55:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am doing some work with cell type classification, where I have 4.3 million cells and 512 features (condensed embeddings from the encoder of a transformer).</p> <p>The broader goal is to implement a contextual bandit for augmenting the training set of the dataset, as it is currently imbalanced, and rare cell type classification is poor when I tried a baseline logistic regression classifier.</p> <p>Dataset:<br /> Feature matrix shape: (4290471, 512)<br /> Labels",
+    "title_zh": "超参数调优方法问题 [R]",
+    "summary_zh": "Reddit 用户发帖讨论在细胞类型分类任务中的超参数调优问题，涉及 430 万细胞和 512 个特征，旨在实现上下文老虎机以增强训练集。",
+    "key_points": [
+      "用户寻求超参数调优建议，用于细胞类型分类任务",
+      "数据集包含 430 万细胞和 512 个特征",
+      "总体目标是实现上下文老虎机以增强训练集"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "00c527dcf068ceac5b6320c58c22b81e",
+    "title": "MiniMax闫俊杰：不再领取薪酬，个人拿出5%公司股份用于团队激励和开源支持",
+    "url": "https://36kr.com/newsflashes/3889170152258307?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-10T01:48:27+00:00",
+    "content_snippet": "MiniMax创始人兼CEO闫俊杰发布内部全员信，回应近期市场波动，并强调公司长期方向不变。闫俊杰在信中宣布，从即日起，直到公司实现AGI的那一天，他将不再从公司领取任何薪酬。未来四年，他将拿出个人名下相当于公司总股本4%的股份，用于激励长期与公司并肩作战、共同创造价值的团队成员；同时拿出1%的股份设立专项基金，持续支持相关开源社区的发展。（财联社）",
+    "title_zh": "MiniMax闫俊杰：不再领取薪酬，个人拿出5%公司股份用于团队激励和开源支持",
+    "summary_zh": "MiniMax 创始人闫俊杰发布内部信，宣布不再领取薪酬直至 AGI 实现，并拿出个人 4% 股份激励团队，1% 股份设立专项基金支持开源社区。",
+    "key_points": [
+      "闫俊杰宣布不再领取薪酬，直至公司实现 AGI",
+      "个人拿出 4% 股份用于激励长期并肩作战的团队成员",
+      "另拿出 1% 股份设立专项基金，持续支持开源社区发展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "minimax"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cc3233908e4c357726f8525d4b5b8418",
+    "title": "ChatGPT 5.6 coming, but is anyone struggling to get used to ChatGPT’s new desktop experience?",
+    "url": "https://www.reddit.com/r/artificial/comments/1us9k3i/chatgpt_56_coming_but_is_anyone_struggling_to_get/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-10T01:29:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>After the latest update, I’m finding the desktop version pretty uncomfortable to use for regular conversations.</p> <p>It feels like the ChatGPT side has been simplified while Codex has become the main focus. The chat interface feels a bit too bare now, and the folders I used to organize different conversations seem to be gone.</p> <p>I still prefer using the web version for normal chats. Has anyone else had the same experience, or do you actually like the new d",
+    "title_zh": "ChatGPT 5.6 即将到来，但有人难以适应新的桌面体验吗？",
+    "summary_zh": "Reddit 用户讨论 ChatGPT 桌面版更新后体验不佳，认为聊天界面被简化，而 Codex 成为主要焦点，使用起来感觉过于简陋。",
+    "key_points": [
+      "用户反馈 ChatGPT 桌面版更新后体验不适",
+      "聊天界面被简化，Codex 成为主要焦点",
+      "用户认为新界面过于简陋，影响日常对话使用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8bf129b8079bb9472988de6a26966440",
+    "title": "Is claude that good or anthropic is going aggresive on social media",
+    "url": "https://www.reddit.com/r/artificial/comments/1us9dfq/is_claude_that_good_or_anthropic_is_going/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-10T01:21:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I tried it, and saw no difference with other LLMs. Am I missing something? Or all these influencers are getting paid to promote claude?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/notNull99\"> /u/notNull99 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1us9dfq/is_claude_that_good_or_anthropic_is_going/\">[link]</a></s",
+    "title_zh": "Claude 真的那么出色，还是 Anthropic 在社交媒体上攻势猛烈？",
+    "summary_zh": "Reddit 用户质疑 Claude 的实际表现与其他大语言模型无异，怀疑社交媒体上对 Claude 的赞誉是 Anthropic 付费推广的结果。",
+    "key_points": [
+      "用户表示试用 Claude 后未发现与其他 LLM 有明显差异",
+      "质疑社交媒体上对 Claude 的赞誉可能是付费推广",
+      "讨论 Anthropic 的市场营销策略是否过于激进"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d586efe498753ccc5b5988f645d4e42c",
+    "title": "马斯克称低估Anthropic，表示不会因竞争切断其支持",
+    "url": "https://36kr.com/newsflashes/3889114964130307?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-10T00:52:19+00:00",
+    "content_snippet": "马斯克当地时间7月9日在社交平台表示，自己此前对人工智能公司Anthropic的判断“明显错误”，并称Anthropic“目前显然是AI领域的领先者”。马斯克说，“目前没有任何公司发布过像Mythos/Fable这样优秀的模型”。马斯克表示，即使Anthropic是竞争对手，他也不会采取会严重伤害该公司的措施。此前有社交平台用户称，Anthropic依赖从SpaceX租用的计算资源，并讨论如果SpaceX停止相关服务可能带来的影响，马斯克对此回应称不会采取类似行动。（界面）",
+    "title_zh": "马斯克称低估Anthropic，表示不会因竞争切断其支持",
+    "summary_zh": "马斯克承认此前对 Anthropic 判断错误，称其为 AI 领域领先者，并表示即使存在竞争，也不会采取伤害该公司的措施，如有传言称切断其计算资源。",
+    "key_points": [
+      "马斯克承认低估 Anthropic，称其目前是 AI 领域领先者",
+      "马斯克表示不会因竞争关系而切断对 Anthropic 的支持",
+      "此前有传言称 Anthropic 依赖 SpaceX 的计算资源"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2138f6d39b0919c9f2a681250b9648c3",
+    "title": "谷歌要求AI广告必须标注：涵盖搜索和YouTube等",
+    "url": "https://36kr.com/newsflashes/3889106112002561?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-10T00:43:19+00:00",
+    "content_snippet": "当地时间7月9日，谷歌宣布全面扩大生成式AI广告的披露范围。新规要求在谷歌搜索、YouTube和Discover信息流中，对由AI创建或编辑的商业广告进行明确标注，以防消费者被虚假合成场景误导。（界面）",
+    "title_zh": "谷歌要求AI广告必须标注：涵盖搜索和YouTube等",
+    "summary_zh": "谷歌宣布扩大生成式 AI 广告披露范围，新规要求在谷歌搜索、YouTube 和 Discover 信息流中对 AI 创建或编辑的商业广告进行明确标注，以防误导消费者。",
+    "key_points": [
+      "谷歌要求 AI 创建或编辑的商业广告必须明确标注",
+      "新规覆盖谷歌搜索、YouTube 和 Discover 信息流",
+      "旨在防止消费者被虚假合成场景误导"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ac461d004e9fe390374f89bd8356ab8",
+    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-10T00:16:54+00:00",
+    "content_snippet": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+    "title_zh": "OpenAI 称 GPT 5.6 是微软 Copilot 365 的“首选模型”，尽管分手传闻不断",
+    "summary_zh": "OpenAI 表示其新模型 GPT 5.6 将继续为微软的办公和生产力应用套件提供动力，回应了双方可能分手的传闻。",
+    "key_points": [
+      "OpenAI 称 GPT 5.6 是微软 Copilot 365 的首选模型",
+      "此举回应了 OpenAI 与微软可能分手的传闻",
+      "GPT 5.6 将继续为微软的办公和生产力应用套件提供支持"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b34ecec603e33a953cef5d83f647c428",
+    "title": "Microsoft’s carbon emissions went up 25 percent last year",
+    "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-10T00:04:13+00:00",
+    "content_snippet": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions increased 25 percent in 2025, totalling 34 million metric tons \"without select interventions.\" Microsoft says this was \"driven primarily by the expansion of our [&#8230;]",
+    "title_zh": "微软去年碳排放量增加 25%",
+    "summary_zh": "根据微软 2026 年可持续发展报告，其 2025 年碳排放量增加了 25%，总计达 3400 万公吨，表明公司在实现气候目标方面再次面临挑战。",
+    "key_points": [
+      "微软 2025 年碳排放量同比增加 25%",
+      "总排放量达 3400 万公吨",
+      "公司在实现其气候目标方面再次面临困难"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ee3f32770183596f79ec2f0cf56585ef",
+    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+    "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-09T23:38:00+00:00",
+    "content_snippet": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+    "title_zh": "Fidji Simo 卸任 OpenAI 二号人物职务",
+    "summary_zh": "OpenAI 二号高管 Fidji Simo 因医疗休假超出预期，将辞去全职职务，正值公司考虑 IPO 并追赶 Anthropic 企业市场的关键时刻，导致领导层出现真空。",
+    "key_points": [
+      "OpenAI 二号高管 Fidji Simo 因医疗休假延长而辞去全职职务",
+      "正值 OpenAI 考虑 IPO 并追赶 Anthropic 企业市场的关键时刻",
+      "此番离职导致公司领导层出现真空"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bc94e9e2c4ccc57b3cdb9460f29e7ef3",
+    "title": "easy to overlook the implications for how Sol can accelerate your engineering workflows",
+    "url": "https://nitter.net/gdb/status/2075363531042726216#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-09T23:36:38+00:00",
+    "content_snippet": "<p>easy to overlook the implications for how Sol can accelerate your engineering workflows</p>\n<hr />\n<blockquote>\n<b>Andrew Curran (@AndrewCurran_)</b>\n<p>\n<p>Quote from OpenAI on the livestream.<br />\n'Already, Sol has been transforming our research program. As one example, GPT-5.6-Sol autonomously post-trained GPT-5.6-Luna.'</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/AndrewCurran_/status/2075273510331785658#m\">https://nitter.net/AndrewCurran_/status/2075273510331785658#m</a>\n</foo",
+    "title_zh": "Sol 加速工程工作流程的潜力容易被忽视",
+    "summary_zh": "Greg Brockman 转发 OpenAI 直播内容，强调 Sol 已经在改造研究计划，并举例 GPT-5.6-Sol 能够自主加速工程工作流程，其影响容易被低估。",
+    "key_points": [
+      "OpenAI 表示 Sol 正在改造其研究计划",
+      "GPT-5.6-Sol 能自主加速工程工作流程",
+      "Greg Brockman 强调 Sol 对工程效率的影响容易被忽视"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aa665a1ba2a05a74b2e653b3c8981fb1",
+    "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-09T23:24:04+00:00",
+    "content_snippet": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the [&#8230;]",
+    "title_zh": "Fidji Simo 因病辞去 OpenAI 的 AGI 负责人职务",
+    "summary_zh": "OpenAI 的 AGI 负责人 Fidji Simo 宣布因神经免疫疾病辞去全职职务，转为兼职顾问。此前她已于四月宣布休病假数周，此次变动标志着她正式退出公司核心领导层。",
+    "key_points": [
+      "Fidji Simo 因神经免疫疾病辞去 OpenAI 的 AGI 全职领导职务",
+      "她将转为兼职顾问，不再参与公司日常核心管理",
+      "此前她已在四月因同一疾病宣布休病假"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
