@@ -296,5 +296,159 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4f8a8cc43bc3fd141a619e891785855b",
+    "title": "Why Chinese people embrace AI while Europeans and Americans stay critical of it? How about other countries?",
+    "url": "https://www.reddit.com/r/artificial/comments/1usujdx/why_chinese_people_embrace_ai_while_europeans_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-10T17:38:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Just an observation: Chinese probably create the most AI media in the world (both slop and good quality ones) - if you look at their social media you will find tons of AI videos of different quality, yet you almost never see the general Chinese population criticize or reject them just because they are made by AI. However, the general western discourse on ai generated music and videos are still fairly polarized, as there is still a very large percentage of people",
+    "title_zh": "为何中国人拥抱AI，而欧美人却持批评态度？其他国家又如何？",
+    "summary_zh": "Reddit讨论帖观察到一个现象：中国大众普遍接纳AI并大量创作AI媒体内容，而欧美公众则常持批判态度，探讨了不同文化背景下对AI技术接受度的差异。",
+    "key_points": [
+      "中国民众大量创作和消费AI生成媒体内容",
+      "欧美公众对AI技术普遍持更批判和谨慎的态度",
+      "探讨不同文化对AI接受度的差异及其原因"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "22971130ecb82ab105c255e832c52141",
+    "title": "Knowledge work different more — becoming more productive, high leverage, and IMO fun.",
+    "url": "https://nitter.net/gdb/status/2075633868552769998#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-10T17:30:52+00:00",
+    "content_snippet": "<p>Knowledge work different more — becoming more productive, high leverage, and IMO fun.</p>\n<hr />\n<blockquote>\n<b>Every 📧 (@every)</b>\n<p>\n<p>GPT-5.6 has changed how we think about knowledge work. Your job shifts from handling individual tasks to tending systems with AI loops.<br />\n<br />\nHere’s what that looks like in <a href=\"https://nitter.net/danshipper\" title=\"Dan Shipper 📧\">@danshipper</a>’s inbox:<br />\n<br />\nGPT-5.6 sweeps his email, decides what deserves his attention, researches th",
+    "title_zh": "知识工作正在变得不同——更高效、高杠杆且更有趣",
+    "summary_zh": "OpenAI总裁Greg Brockman转发评论称，GPT-5.6等AI正改变知识工作形态，工作重心从处理单个任务转向管理AI系统循环，变得更加高效有趣。",
+    "key_points": [
+      "GPT-5.6改变了知识工作的本质和模式",
+      "工作从处理单个任务转向管理AI系统循环",
+      "AI使知识工作变得更高产、高杠杆和有趣"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2e6f798b14e7b8c519656e2ce4f32ce4",
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-10T17:17:12+00:00",
+    "content_snippet": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+    "title_zh": "SK海力士在美IPO融资265亿美元，创外国公司之最，并面临建厂呼声",
+    "summary_zh": "SK海力士在美IPO筹集265亿美元，成为美国史上最大规模的外国公司IPO。同时，其与三星均被敦促在美国建设芯片工厂，以响应AI芯片热潮。",
+    "key_points": [
+      "SK海力士完成265亿美元IPO，创外国公司赴美上市新纪录",
+      "AI芯片热潮推动存储巨头大规模融资",
+      "美国敦促SK海力士和三星在本土建厂"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d99ef489ef966afff4da0b22639f4794",
+    "title": "Next week — join live sessions, take part in community events, and submit projects to the OpenAI Build Week Challenge. Register now:",
+    "url": "https://nitter.net/gdb/status/2075629132562714744#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-10T17:12:03+00:00",
+    "content_snippet": "<p>Next week — join live sessions, take part in community events, and submit projects to the OpenAI Build Week Challenge.<br />\n<br />\nRegister now:</p>\n<hr />\n<blockquote>\n<b>OpenAI Developers (@OpenAIDevs)</b>\n<p>\n<p>OpenAI Build Week is here.<br />\n<br />\nThe challenge starts July 13. Across the week, join live sessions and community events with builders around the world.<br />\n<br />\nRegistration is open.<br />\nBring the idea sitting in your backlog.<br />\nBuild it with Codex.</p>\n<a href=\"h",
+    "title_zh": "OpenAI Build Week挑战赛下周启动，开放注册",
+    "summary_zh": "OpenAI总裁Greg Brockman宣布，OpenAI Build Week挑战赛将于7月13日开始，届时将有直播会议、社区活动和项目提交环节。",
+    "key_points": [
+      "OpenAI Build Week挑战赛将于7月13日启动",
+      "活动包括直播、社区活动和项目提交",
+      "面向开发者社区的活动"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ed2c4814ba06be63623cab726321db2",
+    "title": "ChatGPT Work brings agents to consumer scale. It’s both a step up in usability (you can just do things from your phone, no laptop required) and access, for both personal and professional life. Very excited to see how people put it to use and how it can empower them!",
+    "url": "https://nitter.net/gdb/status/2075628596232884556#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-10T17:09:55+00:00",
+    "content_snippet": "<p>ChatGPT Work brings agents to consumer scale.<br />\n<br />\nIt’s both a step up in usability (you can just do things from your phone, no laptop required) and access, for both personal and professional life.<br />\n<br />\nVery excited to see how people put it to use and how it can empower them!</p>",
+    "title_zh": "ChatGPT Work将AI代理推向消费级规模",
+    "summary_zh": "OpenAI总裁Greg Brockman宣布ChatGPT Work发布，它将AI代理能力扩展到消费级，用户可通过手机使用，无需笔记本电脑，兼顾个人与职业生活。",
+    "key_points": [
+      "ChatGPT Work发布，将AI代理能力推向消费级规模",
+      "可仅通过手机使用，极大提升了易用性和可及性",
+      "适用于个人和职业生活场景"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7379db8de767cd71c3893799cbe4db40",
+    "title": "Computer use with SOL Ultra:",
+    "url": "https://nitter.net/gdb/status/2075619497764151644#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-10T16:33:46+00:00",
+    "content_snippet": "<p>Computer use with SOL Ultra:</p>\n<hr />\n<blockquote>\n<b>Chris (@ChrissGPT)</b>\n<p>\n<p>5.6 Sol and what I assume is - 750 TPS in the wild 👀<br />\n<br />\nThis video is not sped up.</p>\n<a href=\"https://nitter.net/ChrissGPT/status/2075392201564328263#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2075373275900002304%2Fimg%2F0PXs0JtH88uOsiKY.jpg\" />\n</a>\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/ChrissGPT/status/2075392201564328263#m\">https://nitter.net/C",
+    "title_zh": "使用SOL Ultra进行计算机操控演示",
+    "summary_zh": "OpenAI总裁Greg Brockman转发了一段演示视频，展示GPT-5.6与SOL Ultra模型结合实现计算机操控，视频中模型响应速度极快，未进行加速处理。",
+    "key_points": [
+      "展示GPT-5.6与SOL Ultra结合的计算机操控能力",
+      "模型响应速度极快，视频未加速",
+      "演示了AI代理直接操控电脑的可能性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
