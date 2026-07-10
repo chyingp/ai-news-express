@@ -450,5 +450,99 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8a8f8095b054bf4b3ebddbf9c921827d",
+    "title": "50-year old math conjecture solved with Sol Ultra. Feels like the limit of what you can do is increasingly your ambition and imagination:",
+    "url": "https://nitter.net/gdb/status/2075670151702430044#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-10T19:55:02+00:00",
+    "content_snippet": "<p>50-year old math conjecture solved with Sol Ultra.<br />\n<br />\nFeels like the limit of what you can do is increasingly your ambition and imagination:</p>\n<hr />\n<blockquote>\n<b>Ethan Knight (@__eknight__)</b>\n<p>\n<p>Yesterday, we made GPT-5.6 Sol Ultra generally available. Today, we're sharing that it produced a proof of the 50-year-old Cycle Double Cover Conjecture using 64 subagents in just under one hour. We're sharing the prompt and proof below. We're excited to see what you all do with ",
+    "title_zh": "50年前的数学猜想被Sol Ultra解决",
+    "summary_zh": "Greg Brockman在X上宣布，一个50年前的数学猜想被GPT-5.6 Sol Ultra模型解决了，认为这体现了当前AI的能力极限已逐渐取决于人的雄心与想象力。",
+    "key_points": [
+      "GPT-5.6 Sol Ultra模型解决了一个50年的数学猜想",
+      "OpenAI联合创始人认为AI能力极限取决于人的想象力"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0ed910e3639bd18522144a0583e584f1",
+    "title": "On Adversarial RL [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1usx96p/on_adversarial_rl_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-10T19:15:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Zhang et al. paper's introducing the SA-MDP framework (2020) (state adversarial MDP) argues that an attack using the critic network (V(s)) is expected and supposed to produce a weaker attack than an attack using the actor network (pi(s)) itself to generate perturbation on agent observations. A claim supported by their empirical results using different single-agent simulation environment.</p> <p>However, I'm consistently finding the opposite when comparing both a",
+    "title_zh": "关于对抗性强化学习的研究",
+    "summary_zh": "Reddit上分享了一篇论文，探讨了对抗性强化学习中的状态对抗马尔可夫决策过程框架，分析了使用评论家网络与行动者网络进行攻击的强度差异。",
+    "key_points": [
+      "论文提出状态对抗MDP框架分析对抗性攻击",
+      "使用行动者网络生成的攻击比评论家网络更强"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c835ffd5cd3d8d7ef03e2fab3ada79b9",
+    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+    "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-10T19:00:00+00:00",
+    "content_snippet": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
+    "title_zh": "Hugging Face CEO认为开源AI比以往任何时候都更重要",
+    "summary_zh": "Hugging Face CEO Clem Delangue在采访中表示，开源AI正在蓬勃发展，其平台已成长为AI领域的GitHub，被约半数财富500强公司使用，开源的重要性日益凸显。",
+    "key_points": [
+      "Hugging Face平台被约半数财富500强公司使用",
+      "CEO强调开源AI在当下比以往更加重要"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ffa041336ac0802a3775b9b850143499",
+    "title": "A new beginning after two years",
+    "url": "https://www.reddit.com/r/artificial/comments/1uswtcq/a_new_beginning_after_two_years/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-10T18:59:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>After two years of usual practice: measuring what happens <em>inside</em> small language models when they process different framings of human-AI relationships — not what they say, but the actual internal activation geometry.</p> <p>A few findings surprised me enough to change how I talk to AI day to day:</p> <ul> <li>Reframing a topic positively vs. negatively barely moves the internal signal. What you talk about matters far more than how you dress it up.</li> <",
+    "title_zh": "两年后的新起点",
+    "summary_zh": "一位Reddit用户分享了自己两年来的研究：测量小型语言模型在处理不同人机关系表述时的内部激活几何结构，而非其输出，并发现了一些令人惊讶的结论。",
+    "key_points": [
+      "研究关注语言模型内部激活几何结构而非文本输出",
+      "发现不同人机关系表述会引发模型内部的不同反应"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
