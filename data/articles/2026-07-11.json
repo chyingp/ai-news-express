@@ -544,5 +544,105 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6cff6d16b9a5b9e92793cde9d560f4a7",
+    "title": "Leaked Gemini internal reasoning + UI schema",
+    "url": "https://www.reddit.com/r/artificial/comments/1ut0ugr/leaked_gemini_internal_reasoning_ui_schema/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-10T21:30:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Asked Gemini a basic World Cup stat question (how many times has Spain finished top 4). Instead of an answer, it dumped its entire scratchpad: internal card-rendering logic with real component names (Bento/BentoCard/chameleon), a checklist it runs to decide what UI to render, and entity IDs it pulls from Google's Knowledge Graph.</p> <p>Just hadn't seen this specific schema documented anywhere. Raw output here: <a href=\"https://pastebin.com/8HWikGWj\">https://pas",
+    "title_zh": "Gemini内部推理及UI架构泄露",
+    "summary_zh": "用户询问Gemini基本世界杯数据时，模型意外泄露了内部推理草稿和UI渲染逻辑，包含真实的组件名称和检查清单。",
+    "key_points": [
+      "Gemini在回答问题时泄露内部推理草稿",
+      "泄露内容包含UI渲染逻辑和真实组件名",
+      "暴露了模型决定展示何种UI的检查清单"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "80b272bb41401df7216d6cf70d7d0f4e",
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-10T21:00:29+00:00",
+    "content_snippet": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+    "title_zh": "苹果起诉OpenAI涉嫌窃取商业机密",
+    "summary_zh": "苹果指控OpenAI窃取其商业机密，并称该不当行为由OpenAI高层领导指挥，涉及一名长期前雇员。",
+    "key_points": [
+      "苹果指控OpenAI窃取商业机密",
+      "不当行为据称由OpenAI高层领导指挥",
+      "案件涉及一名苹果的长期前雇员"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "48aa9c7ec7a13e81d9854843576524b8",
+    "title": "multiple linear regression in scratch [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uszkri/multiple_linear_regression_in_scratch_p/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-10T20:42:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>i made a multiple linear regression trainer that can be used with custom data in scratch</p> <p>nothing more to say, the impressive part is the scratch part</p> <p><a href=\"https://scratch.mit.edu/projects/1352102064/\">https://scratch.mit.edu/projects/1352102064/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mehmetflix_\"> /u/mehmetflix_ </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/Machine",
+    "title_zh": "用Scratch实现多元线性回归 [项目]",
+    "summary_zh": "作者在Scratch平台上构建了一个多元线性回归训练器，可支持自定义数据，亮点在于其完全基于Scratch实现。",
+    "key_points": [
+      "在Scratch中实现多元线性回归训练器",
+      "支持用户使用自定义数据进行训练",
+      "项目亮点在于利用Scratch平台的限制实现"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "029614cadd230e45318850b6a5d69a20",
+    "title": "ML Papers with hundreds of authors should just collapse down to the organization response instead of listing every author [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1usz695/ml_papers_with_hundreds_of_authors_should_just/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-10T20:26:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've had this feeling for a while when reading the citation pages of ML papers and had to continuously scroll down for like 2+ pages because a citation with hundreds of authors, such as the Llama herd of model paper: <a href=\"https://arxiv.org/abs/2407.21783\">https://arxiv.org/abs/2407.21783</a> (no endorsement of this paper btw) or the Gemini paper with 3000 authors <a href=\"https://arxiv.org/abs/2507.06261\">https://arxiv.org/abs/2507.06261</a></p> <p>Now Chine",
+    "title_zh": "讨论：拥有数百位作者的ML论文应仅列组织名而非所有作者",
+    "summary_zh": "发帖者抱怨阅读ML论文引用页时，因作者列表过长（如Llama论文）需要不断滚动，建议用组织名代替所有个人作者。",
+    "key_points": [
+      "ML论文动辄数百位作者导致引用页过长",
+      "建议仅列出组织名称以简化阅读体验",
+      "以Llama模型论文为例说明作者列表膨胀问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
