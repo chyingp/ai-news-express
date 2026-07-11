@@ -1147,5 +1147,135 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "271314000dfe87e9942b59ab69d10d14",
+    "title": "Ecogpt is a chatbot that aims to be more environmentally sustainable",
+    "url": "https://www.reddit.com/r/artificial/comments/1utdlkb/ecogpt_is_a_chatbot_that_aims_to_be_more/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-11T07:40:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1utdlkb/ecogpt_is_a_chatbot_that_aims_to_be_more/\"> <img alt=\"Ecogpt is a chatbot that aims to be more environmentally sustainable\" src=\"https://external-preview.redd.it/3GQVvuLF3Ra_pUZsCGT33XVLnrd3pLDf85SsCRkcdv0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d35c44b70a9c8110bfad66091497da20d3e4c0a\" title=\"Ecogpt is a chatbot that aims to be more environmentally sustainable\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md",
+    "title_zh": "Ecogpt：一款旨在更环保可持续的聊天机器人",
+    "summary_zh": "Ecogpt 是一款新推出的聊天机器人，其核心理念是致力于降低人工智能对环境的影响，实现更环保的可持续运营。",
+    "key_points": [
+      "Ecogpt 聊天机器人主打环保可持续特性",
+      "旨在降低人工智能对环境的负面影响",
+      "属于新兴的绿色 AI 应用尝试"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c280cc29e6a699c747c8c2f51c5d4166",
+    "title": "Predicting human preference for generated image pairs using HPSv3 [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1utdj1f/predicting_human_preference_for_generated_image/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-11T07:36:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey! I'm looking for ways to predict human preference for a project I'm building. (imagebench.ai)</p> <p>I've tryed <strong>HPSv3</strong>, <a href=\"https://github.com/MizzenAI/HPSv3\">https://github.com/MizzenAI/HPSv3</a> and made post about it here:</p> <p><a href=\"https://imagebench.ai/blog/does-the-score-match-your-eye\">https://imagebench.ai/blog/does-the-score-match-your-eye</a></p> <p>It looks ok, but have many limitation as you can see in my post. </p> <p>",
+    "title_zh": "使用 HPSv3 预测人类对生成图像对的偏好",
+    "summary_zh": "作者在开发 imagebench.ai 项目时，探索了使用 HPSv3 工具来预测人类对于生成图像对偏好的方法，并分享了相关实践体验。",
+    "key_points": [
+      "探索使用 HPSv3 预测人类图像偏好",
+      "应用于 imagebench.ai 项目开发",
+      "HPSv3 由 MizzenAI 开发并开源"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "61cd44c60d50fc08b7f891fe57dd917e",
+    "title": "Sol for complex reasoning and data analysis:",
+    "url": "https://nitter.net/gdb/status/2075844434063978724#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-11T07:27:35+00:00",
+    "content_snippet": "<p>Sol for complex reasoning and data analysis:</p>\n<hr />\n<blockquote>\n<b>Box (@Box)</b>\n<p>\n<p>GPT-5.6 Sol is a breakthrough in complex reasoning and data analysis. <br />\n<br />\nHere, it analyzes hundreds of pages across a lending deal, reconciles terms across agreements, financials, diligence, collateral, and risk materials, flags issues, and saves a source-cited report to Box.</p>\n<a href=\"https://nitter.net/Box/status/2075640180133044367#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net",
+    "title_zh": "GPT-5.6 Sol 专攻复杂推理与数据分析",
+    "summary_zh": "OpenAI 的 GPT-5.6 Sol 模型在复杂推理和数据分析领域取得突破，能分析数百页贷款交易文件并协调协议条款与财务数据。",
+    "key_points": [
+      "GPT-5.6 Sol 在复杂推理和数据分析上取得突破",
+      "能够处理数百页金融文档的交叉分析",
+      "由 Greg Brockman 转发 Box 的案例展示"
+    ],
+    "importance": 5,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ffa464a86b3ee7cb43e7fbe15caca8df",
+    "title": "Weekly recap: GPT-5.6 public launch, Grok 4.5, Gemini 3.5 Pro delayed, Microsoft Copilot conversion data, DeepSeek API retirement on July 24",
+    "url": "https://www.reddit.com/r/artificial/comments/1utc0he/weekly_recap_gpt56_public_launch_grok_45_gemini/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-11T06:10:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Big week, so a consolidated rundown for anyone catching up.</p> <p>OpenAI released the GPT-5.6 family publicly on July 9 after a limited partner preview — Sol (frontier reasoning), Terra (previous-flagship performance at ~2x lower cost), Luna (fast/cheap). They also shipped GPT-Live-1, a full-duplex voice model that handles simultaneous listening/speaking, plus gpt-realtime-2.1 with ~25% lower p95 latency.</p> <p>xAI launched Grok 4.5 (trained alongside Cursor) ",
+    "title_zh": "每周回顾：GPT-5.6 公开发布，Grok 4.5 等动态",
+    "summary_zh": "本周 AI 领域动态密集，包括 OpenAI 公开发布 GPT-5.6 系列、Grok 4.5 发布、Gemini 3.5 Pro 延迟、微软 Copilot 转化数据及 DeepSeek API 即将退役等。",
+    "key_points": [
+      "OpenAI 公开发布 GPT-5.6 全系列模型",
+      "Grok 4.5 发布，Gemini 3.5 Pro 宣布延迟",
+      "DeepSeek API 将于 7 月 24 日退役"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "xai",
+      "google",
+      "microsoft",
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "89eb3a77221ac9211cc863fbf2ed0525",
+    "title": "全球首个潮玩创作者AI设计平台“妙呀”全量公测",
+    "url": "https://36kr.com/newsflashes/3890814999870213?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-11T05:41:41+00:00",
+    "content_snippet": "36氪获悉，7月10日，在D20全球设计院长峰会上，由大麦娱乐携手阿里Token Foundry事业部推出的全球首个潮玩创作者AI设计平台“妙呀”正式宣布开启公测。与此同时，“妙呀百万激励计划”也正式启动。",
+    "title_zh": "全球首个潮玩创作者AI设计平台“妙呀”全量公测",
+    "summary_zh": "大麦娱乐与阿里 Token Foundry 联合推出全球首个潮玩创作者 AI 设计平台“妙呀”并开启公测，同时启动百万激励计划。",
+    "key_points": [
+      "全球首个潮玩创作者 AI 设计平台“妙呀”公测",
+      "由大麦娱乐与阿里 Token Foundry 联合推出",
+      "同步启动“妙呀百万激励计划”"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
