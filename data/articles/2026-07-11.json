@@ -1552,5 +1552,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f973a8e7c3ecd872d8b7227e98801168",
+    "title": "VultronRetriever family of models released on HuggingFace![R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1utmxq8/vultronretriever_family_of_models_released_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-11T15:22:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Thrilled to announce the VultronRetriever family of models, which were announced during Raise Summit Paris and demonstrated running Q&amp;A and embedding documents on the iPhone, fully offline! 📱</p> <p>Some highlights from the VultronRetriever model family:<br /> 🥇 Each model ranks #1 in its respective class on the MTEB Leaderboard, with VultronRetrieverPrime-8B as the global #1<br /> 📦 VultronRetrieverPrime-8B has up to 16x smaller index storage footprint and ",
+    "title_zh": "VultronRetriever 模型家族在 HuggingFace 发布",
+    "summary_zh": "VultronRetriever 模型家族在 Raise Summit Paris 上发布，并展示了在 iPhone 上完全离线运行问答和文档嵌入的能力。",
+    "key_points": [
+      "VultronRetriever 模型家族正式发布并开源",
+      "该模型可在 iPhone 上实现完全离线运行",
+      "展示了离线问答和文档嵌入等核心功能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
