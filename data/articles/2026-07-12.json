@@ -102,5 +102,100 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8641ff2f496f5c5e3a482b8b75050864",
+    "title": "so far at least, i'm pretty sure AI has been net job-creating. this was not what i expected--although i was much less pessimistic than others, i thought by this level of capability we'd have seen some impact. it is possible this direction keeps going!",
+    "url": "https://nitter.net/sama/status/2076036901824532530#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-11T20:12:22+00:00",
+    "content_snippet": "<p>so far at least, i'm pretty sure AI has been net job-creating.<br />\n<br />\nthis was not what i expected--although i was much less pessimistic than others, i thought by this level of capability we'd have seen some impact.<br />\n<br />\nit is possible this direction keeps going!</p>",
+    "title_zh": "Sam Altman：至少到目前为止，AI 绝对是净创造了就业机会",
+    "summary_zh": "Sam Altman 在社交平台发文表示，他对 AI 目前净创造就业机会感到意外，这与他此前认为当前能力水平会带来就业冲击的预期相悖，但该趋势可能持续。",
+    "key_points": [
+      "Sam Altman 称 AI 目前是净创造就业而非减少",
+      "他对当前 AI 能力未冲击就业感到意外",
+      "他认为这种创造就业的趋势可能会持续"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "500f74a924e028c0b7e3d98d22ad309b",
+    "title": "ConwAI",
+    "url": "https://www.reddit.com/r/artificial/comments/1utu14o/conwai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-11T19:58:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>For the past five months, I’ve been working on a custom AI model with two main goals:</p> <ol> <li><strong>Self-learning capabilities</strong></li> <li><strong>A distinct personality</strong></li> </ol> <p>And yeah, this is the result! It’s a super lightweight 500M parameter model running locally on an iMac in my bedroom, lol.</p> <p>Anyway, check it out and let me know what you think :<a href=\"https://conw.ai\">https://conw.ai</a></p> </div><",
+    "title_zh": "ConwAI：具备自学能力和独特个性的自定义 AI 模型",
+    "summary_zh": "Reddit 用户发布了一个名为 ConwAI 的个人项目，该模型经过五个月开发，主要目标是实现自我学习能力和培育独特的个性。",
+    "key_points": [
+      "开发者历时五个月打造自定义 AI 模型 ConwAI",
+      "该模型专注于自我学习能力和独特个性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1cbda51e4ccdbceaaf1a4ce034db4de3",
+    "title": "If you think AI drift is about inconsistency, you’re misdiagnosing the system",
+    "url": "https://www.reddit.com/r/artificial/comments/1uttalf/if_you_think_ai_drift_is_about_inconsistency/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-11T19:29:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most people call AI drift “inconsistency,” not knowing what that really even means. Mechanistically, drift is what happens when the system changes how it’s reading <em>you</em>. From a systems‑level perspective, here’s why: an AI will answer you from the highest layer it detects you can operate in. By default, that’s the mechanistic layer—the one built on structure, causality, and stable rules. When you respond in a way that pulls the model out of that mode, it ",
+    "title_zh": "如果你认为 AI 漂移是前后不一致，那你就误判了系统",
+    "summary_zh": "一篇技术分析文章指出，AI 漂移的本质并非简单的“不一致”，而是系统改变了读取和理解用户的方式，应从系统层面理解其机制。",
+    "key_points": [
+      "AI 漂移的实质是系统改变了对用户的解读方式",
+      "应从系统层面而非简单的“不一致”来理解 AI 漂移"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a2b7a9ad03259abe43995c36e867c15d",
+    "title": "What would potentially limit AI Demand?",
+    "url": "https://www.reddit.com/r/artificial/comments/1utt87o/what_would_potentially_limit_ai_demand/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-11T19:26:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I just wanted to ask some opinions on the matter as a layman. My thesis is that a sector specifically such as cybersecurity could become more and more obfuscated with the use of AI and so it seems trivial to me that rival actors would need increasingly more compute to stay relevant.</p> <p>I'm just trying to understand the dynamics because some people think that the market cant just continue going up based on the AI rollout and it surely must be nearing the peak",
+    "title_zh": "什么可能会限制 AI 的需求？",
+    "summary_zh": "一位 Reddit 用户提出疑问，随着 AI 在网络安全等领域的应用使攻防更复杂，竞争对手可能需要越来越多的算力，探讨这是否会限制 AI 需求。",
+    "key_points": [
+      "AI 在网络安全领域的应用可能使攻防更加复杂化",
+      "讨论竞争对手对算力需求的增长是否会限制 AI 发展"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
