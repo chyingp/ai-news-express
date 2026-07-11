@@ -1424,5 +1424,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "29cbc2e5ae07a32d50950b560df8b5b9",
+    "title": "Is deploying and scaling ai agents one of the most frustrating problem?",
+    "url": "https://www.reddit.com/r/artificial/comments/1utjn3z/is_deploying_and_scaling_ai_agents_one_of_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-11T13:06:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Everyone talks about hallucinations, state management but forgets this basics ,I wonder whether scaling ai agents for production is easy? Even though many platforms claim it is incredibly frustrating to setup complex things to just get things tested. Is it a real problem for all or just me experiencing it due to my lack of enough technical expertise ? 🤔</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Sea-Opening-4573\"> /u/S",
+    "title_zh": "部署和扩展 AI Agent 是否是最令人沮丧的问题之一？",
+    "summary_zh": "一篇 Reddit 讨论指出，尽管平台声称简单，但将 AI Agent 部署到生产环境并扩展极为困难。除了幻觉和状态管理，基础设施和测试复杂性等基础问题常被忽略，引发开发者强烈共鸣。",
+    "key_points": [
+      "AI Agent 生产环境部署与扩展的实际难度远超平台宣传",
+      "开发者普遍忽视基础设施和测试复杂性等基础性问题",
+      "幻觉和状态管理之外，开发流程本身存在巨大挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
