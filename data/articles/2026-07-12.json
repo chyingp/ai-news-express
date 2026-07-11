@@ -52,5 +52,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "910f35ad5f0a4b10e17d8f3ed9703176",
+    "title": "AIgenerated game worlds are getting playable but does procedural coherence matter if it looks cool?",
+    "url": "https://www.reddit.com/r/artificial/comments/1utsewf/aigenerated_game_worlds_are_getting_playable_but/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-11T18:54:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Google Genie 3 dropped and people are losing their minds over the fact that you can type a prompt and walk around inside it. Which is genuinely wild. But watching the demos I keep thinking about something nobody seems to be talking about: whether the world actually holds together logically, or if we are just impressed by the surface layer.</p> <p>Early procedural generation in games felt magical until you realized the towns had bakers with no wheat fields and gu",
+    "title_zh": "AI生成游戏世界可玩性提升：程序生成的一致性是否重要？",
+    "summary_zh": "谷歌Genie 3发布引发热议，用户可通过输入提示词生成可探索的3D世界。但文章质疑，在视觉效果酷炫的背后，世界内部的逻辑一致性是否被忽视，这可能影响长期游戏体验。",
+    "key_points": [
+      "谷歌Genie 3能根据文本提示生成可交互的3D世界",
+      "文章质疑AI生成世界的光鲜外表下缺乏程序一致性",
+      "探讨技术演示与长期游戏可玩性之间的差距"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "79d87bae48c2bcc3dbbf42904193eb9a",
+    "title": "TeraWulf’s move from Bitcoin mining to AI infrastructure raises some big questions",
+    "url": "https://www.reddit.com/r/artificial/comments/1utrjfa/terawulfs_move_from_bitcoin_mining_to_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-11T18:20:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>TeraWulf, originally a Bitcoin mining company, looks like it is trying to reposition itself as an AI infrastructure provider. That raises a few interesting questions about where the AI buildout is headed and which companies are best positioned to benefit.</p> <p>What stands out to me is that the AI boom is not just about chips and models anymore. It is also about power access, land, cooling, transmission, financing, and the ability to build data centers fast eno",
+    "title_zh": "TeraWulf从比特币挖矿转向AI基础设施引发诸多疑问",
+    "summary_zh": "原比特币挖矿公司TeraWulf正试图转型为AI基础设施提供商，此举引发了对AI建设浪潮未来走向及哪些公司最具优势的思考。文章探讨了能源基础设施转型背后的机遇与挑战。",
+    "key_points": [
+      "TeraWulf从比特币挖矿公司转型为AI基础设施提供商",
+      "转型引发关于AI基础设施建设和能源供应的讨论",
+      "分析哪些类型的公司在AI建设浪潮中最具优势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
