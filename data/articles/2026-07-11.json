@@ -945,5 +945,108 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e26ebeef18a6d5bf00a1da2745a4047e",
+    "title": "What is the meaning of AI benchmarks?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ut87cn/what_is_the_meaning_of_ai_benchmarks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-11T02:53:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Whenever a new model gets released, I see alot of posts that this model now performs 80% in this benchmark and 90% on that benchmark. </p> <p>Now what does that mean and what if an AI model achieves 100% on all the benchmarks? Does that mean AI model cannot get any better now? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pokaboom1\"> /u/pokaboom1 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artif",
+    "title_zh": "AI基准测试的意义是什么？",
+    "summary_zh": "Reddit用户讨论AI基准测试分数的实际含义，质疑模型在基准测试中达到100%是否意味着AI能力已达极限，反映了社区对评估标准有效性的广泛思考。",
+    "key_points": [
+      "探讨AI模型基准测试分数的实际意义和局限性",
+      "质疑模型达到满分是否代表AI能力无法再进步",
+      "反映AI社区对当前评估标准的反思"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bb7c8d29e0c4d29d744c1816189e12f5",
+    "title": "GPT-2 Fully Decoded Internally Black Box Fully Open With Demo",
+    "url": "https://www.reddit.com/r/artificial/comments/1ut82rh/gpt2_fully_decoded_internally_black_box_fully/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-11T02:47:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The BABEL codec: the first complete, certified decode of everything happening inside a production language model (GPT-2 small). It reads the model's internal state into English AND writes English back into the model. 94.7% of behavior reconstructed — and that holds at every layer depth and text regime tested, not just one spot. Everything is open: paper, the full lexicon, the grammar tables, the decoder/encoder weights, reproduction scripts, and a demo that show",
+    "title_zh": "GPT-2内部机制被完全解码，黑箱变白箱附演示",
+    "source_link": "https://www.reddit.com/r/artificial/comments/1ut82rh/gpt2_fully_decoded_internally_black_box_fully/",
+    "summary_zh": "BABEL编解码器首次完整解码了GPT-2 Small模型的内部运作，能将模型内部状态翻译为英文并反向写入，行为重建率达94.7%，为解读生产级语言模型提供了新方法。",
+    "key_points": [
+      "BABEL编解码器成功解码GPT-2 Small内部状态，重建率达94.7%",
+      "首次实现将模型内部状态译为英文并反向写入的完整闭环",
+      "为打开生产级语言模型黑箱提供了全新工具"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2b2c9ce1d14e2882507ee4b37a08444e",
+    "title": "New features for PopUpFactCheck for YouTube (AI fact checker Chrome extension): Now on Firefox too, navigate bubbles with arrow keys, generate batch reports of entire videos",
+    "url": "https://www.reddit.com/r/artificial/comments/1ut7sid/new_features_for_popupfactcheck_for_youtube_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-11T02:33:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ut7sid/new_features_for_popupfactcheck_for_youtube_ai/\"> <img alt=\"New features for PopUpFactCheck for YouTube (AI fact checker Chrome extension): Now on Firefox too, navigate bubbles with arrow keys, generate batch reports of entire videos\" src=\"https://preview.redd.it/o2ha4rlciich1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cac1e75e2a4e08125ed1835443227fa673724c7e\" title=\"New features for PopUpFactCheck for YouTube (",
+    "title_zh": "YouTube事实核查AI浏览器扩展PopUpFactCheck更新：支持Firefox，新增键盘导航和批量报告功能",
+    "source_link": "https://www.reddit.com/r/artificial/comments/1ut7sid/new_features_for_popupfactcheck_for_youtube_ai/",
+    "summary_zh": "AI驱动的事实核查扩展PopUpFactCheck发布新功能，现在支持Firefox浏览器，并增加了用方向键导航核查气泡和生成批量视频报告等功能，提升了易用性。",
+    "key_points": [
+      "扩展新增对Firefox浏览器的支持，扩大用户覆盖",
+      "增加方向键导航和批量视频报告生成等实用功能",
+      "提升AI事实核查工具在YouTube上的使用体验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b5d01c421ecb2b5c39d5454ae6174ee4",
+    "title": "OpenAI安全系统负责人据悉将离职",
+    "url": "https://36kr.com/newsflashes/3890587147238152?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-11T01:49:54+00:00",
+    "content_snippet": "据报道，在OpenAI重组之际，该公司安全系统负责人Johannes Heidecke本周告知员工其将离职。此次重组旨在整合OpenAI的安全团队和研究团队。备忘录显示，OpenAI首席研究官Mark Chen表示，安全团队将向公司研究副总裁兼整合负责人Mia Glaese汇报工作，后者将兼任研究与安全副总裁。此前领导 OpenAI安全团队的Saachi Jain将成为公司临时安全系统负责人，向Glaese汇报工作。（界面）",
+    "title_zh": "OpenAI安全系统负责人据悉将离职",
+    "source_link": "https://36kr.com/newsflashes/3890587147238152?f=rss",
+    "summary_zh": "在OpenAI重组研究团队与安全团队的过程中，安全系统负责人Johannes Heidecke告知员工其将离职，前安全团队负责人Saachi Jain将暂代其职。",
+    "key_points": [
+      "OpenAI安全系统负责人Johannes Heidecke在重组期间离职",
+      "此次重组旨在整合公司安全团队和研究团队",
+      "Saachi Jain将担任临时安全系统负责人，向Mia Glaese汇报"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
