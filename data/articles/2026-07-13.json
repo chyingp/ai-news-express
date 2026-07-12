@@ -146,5 +146,104 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "dd4ae4b81f35b59afa50ee530d07a5d5",
+    "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-12T20:10:19+00:00",
+    "content_snippet": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. [&#8230;]",
+    "title_zh": "Lorde 称 Ray-Ban Meta 智能眼镜“不性感”",
+    "summary_zh": "歌手 Lorde 在马德里演出时公开批评 AI 眼镜，虽未指名但疑似针对音乐节赞助商 Ray-Ban 与 Meta 合作推出的智能眼镜，称其缺乏吸引力。",
+    "key_points": [
+      "Lorde 在马德里音乐节上公开批评 AI 眼镜",
+      "疑似针对音乐节赞助商 Ray-Ban 与 Meta 合作产品",
+      "她认为这类智能眼镜缺乏吸引力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d42ca0144076100686da230733b54e5e",
+    "title": "i'd love to see interesting things people have built with 5.6 sol. i will send the person who made the coolest thing a special gift from the openai archives.",
+    "url": "https://nitter.net/sama/status/2076398253332140410#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-12T20:08:15+00:00",
+    "content_snippet": "<p>i'd love to see interesting things people have built with 5.6 sol.<br />\n<br />\ni will send the person who made the coolest thing a special gift from the openai archives.</p>",
+    "title_zh": "Sam Altman 悬赏征集基于 5.6 sol 的创意作品",
+    "summary_zh": "OpenAI 首席执行官 Sam Altman 在社交平台 X 上发文，邀请开发者展示使用 5.6 sol 构建的有趣项目，并承诺为最佳作品的作者赠送一份 OpenAI 档案馆的特别礼物。",
+    "key_points": [
+      "Sam Altman 邀请开发者展示基于 5.6 sol 的项目",
+      "最佳作品作者将获得 OpenAI 档案馆的特别礼物"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fa0b7cef275f5f5f6390b817bf092328",
+    "title": "Nobel-winning chemist leaves US to direct AI materials lab in China",
+    "url": "https://www.reddit.com/r/artificial/comments/1uupe2p/nobelwinning_chemist_leaves_us_to_direct_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-12T19:42:52+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fcking_Chuck\"> /u/Fcking_Chuck </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.nature.com/articles/d41586-026-02143-x\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1uupe2p/nobelwinning_chemist_leaves_us_to_direct_ai/\">[comments]</a></span>",
+    "title_zh": "诺贝尔化学奖得主离开美国，赴华领导 AI 材料实验室",
+    "summary_zh": "据 Nature 报道，一位诺贝尔化学奖得主离开美国，前往中国领导一个 AI 材料实验室，反映了全球 AI 科研人才流动的新趋势。",
+    "key_points": [
+      "诺贝尔化学奖得主离开美国赴华",
+      "将领导中国的 AI 材料实验室",
+      "反映了全球 AI 科研人才的流动趋势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "366e54f6130ea77a6fd0a2dcd0bf2384",
+    "title": "Someone built an AI agent that hacks networks and holds data for ransom. It just worked.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uuouu7/someone_built_an_ai_agent_that_hacks_networks_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-12T19:22:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So while we've been arguing about whether AI will take our jobs, someone built an LLM agent that breaks into servers, steals credentials, moves through a network, encrypts databases, and drops a ransom note. Fully autonomous. No human at the keyboard after pressing go.</p> <p>Sysdig published the report this month. They're calling it JadePuffer.</p> <p>It got in through a Langflow bug that lets anyone run code on the server without authenticating. After that, th",
+    "title_zh": "有人构建了能自主攻击网络并勒索赎金的 AI 智能体",
+    "summary_zh": "一个基于大语言模型的 AI 智能体被开发出来，能够完全自主地入侵服务器、窃取凭据、渗透网络、加密数据库并留下勒索信，无需人工干预。",
+    "key_points": [
+      "AI 智能体可自主完成网络渗透和数据加密",
+      "全程无需人工干预即可执行勒索软件攻击",
+      "引发对 AI 安全风险的广泛讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
