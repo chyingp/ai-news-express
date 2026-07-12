@@ -795,5 +795,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0d83393f115e63f706f19711eb1adb15",
+    "title": "Where to publish a construction BIM Benchmark? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uufp11/where_to_publish_a_construction_bim_benchmark_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-12T13:36:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey! I'm an ML Engineer at a startup building AI for construction cost estimation, and we're getting ready to publish some research.</p> <p>We've paid professional construction estimators to create item-level takeoffs from construction drawing sets, then had multiple rounds of review with construction specialists to make sure the annotations are as accurate as possible. The idea is to release the benchmark publicly so anyone can test their own models against it ",
+    "title_zh": "建筑BIM基准测试应发表在何处？[讨论]",
+    "summary_zh": "一位机器学习工程师在Reddit上咨询，关于其团队制作的建筑信息模型（BIM）基准测试数据集适合发表在哪个学术平台，该数据集由专业估算师标注，用于建筑成本估算。",
+    "key_points": [
+      "咨询建筑BIM基准测试数据集的发表渠道",
+      "数据集由专业估算师标注，用于成本估算",
+      "这是一个社区讨论帖，非正式研究成果发布"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
