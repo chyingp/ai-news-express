@@ -892,5 +892,51 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c276c7c99c7931e9b058df2336d92ee8",
+    "title": "Framework for Understanding the Current Problem in Full Automation",
+    "url": "https://www.reddit.com/r/artificial/comments/1uuio0p/framework_for_understanding_the_current_problem/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-12T15:33:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Not a dev, but learned enough about AI's strengths and weaknesses to know that if a fortune 500 company told me to simply automate their entire business so that no one ever had verify what it's doing, I would chuckle and tell them confidentially that this isn't how AI works.</p> <p>Then I'd proceed to break down the concept in super simple, glossed over terms by explaining how it's best to see it as a pattern recognition tool that can recognize so many patterns,",
+    "title_zh": "理解当前全自动化核心问题的框架",
+    "summary_zh": "一篇非开发者从AI的优缺点出发，分析为何目前难以实现完全无需人工验证的端到端企业自动化，并提出了一个理解框架。",
+    "key_points": [
+      "AI目前无法胜任需零人工验证的完全企业自动化",
+      "文章提出一个理解全自动化障碍的分析框架"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f0d58ae1447a4191c0032b4b771b6f25",
+    "title": "NeurIPS 2026 Workshop Proposal Decisions [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uuhzzc/neurips_2026_workshop_proposal_decisions_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-12T15:08:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The official notification date was listed as July 11, AoE, but I have not seen any emails or public announcements yet.</p> <p>We are trying to plan ahead, and workshops already have a relatively short timeline for re-confirming speakers(their schedule may change), organizing reviewers, arranging the program, and coordinating logistics. Given the limited preparation time, an update on the decision timeline would be very helpful.</p> <p>Has anyone received an acce",
+    "title_zh": "NeurIPS 2026研讨会提案结果通知延迟引发讨论",
+    "summary_zh": "Reddit用户反映NeurIPS 2026研讨会的官方通知日已过，但未收到任何邮件或公告，担心影响后续演讲者确认等筹备工作。",
+    "key_points": [
+      "NeurIPS 2026研讨会提案结果未按官方日期公布",
+      "通知延迟可能影响研讨会演讲者等后续安排"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
