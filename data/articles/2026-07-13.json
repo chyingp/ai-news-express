@@ -72,5 +72,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "905e95b3215ad5e439e5672b7b5900f1",
+    "title": "Vibe coders or traditional programmers ( really in need of help )",
+    "url": "https://www.reddit.com/r/artificial/comments/1uuo7ni/vibe_coders_or_traditional_programmers_really_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-12T18:58:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am a student who is stepping into final year. I am ofcourse searching for internships and opportunities which specifically say &quot; java &quot;, &quot;python &quot; &quot;c &quot; &quot;c++&quot; and many many more.</p> <p>From first year I was like building things manually , and in the second to third year I was using chatgpt and gemini , understanding and doing projects.</p> <p>Right now I am using vibe coding tools to build things but I do understand how ",
+    "title_zh": "Vibe编码与传统程序员：学生求职困惑求助",
+    "summary_zh": "一名即将进入大四的学生在Reddit发帖，分享自己从低年级开始学习编程，但面临实习求职时，对岗位要求中强调的Java、Python等传统编程技能与当下Vibe编码趋势之间的落差感到困惑，寻求社区建议。",
+    "key_points": [
+      "学生对比Vibe编码与传统编程技能，担忧求职竞争力",
+      "帖子描述从低年级开始的技术积累，但面临实习岗位的具体技能要求",
+      "反映了AI辅助开发工具对初级程序员职业路径的冲击"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "98bae90863903988e0eaf4efe27575df",
+    "title": "Ph.D. in Operations Research / Big Tech Eng: How to transition into intermediate/advanced ML for high-value industries (Robotics, Defense, Finance)? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uumkkg/phd_in_operations_research_big_tech_eng_how_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-12T17:58:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I hold a Ph.D. in Operations Research, along with a BSc/MSc in Engineering and OR. I previously worked in Big Tech, but I’m currently looking to transition.</p> <p>My primary goal is to <strong>upgrade my technical skillset to maximize my industry-related profitability and marketability.</strong> I want to get away from generic data science and move into high-value, math-heavy engineering and modeling roles.</p> <ul> <li><strong>My Core Interests:</strong> Forec",
+    "title_zh": "运筹学博士寻求转型高级机器学习领域路径",
+    "summary_zh": "一位拥有运筹学博士学位及大厂工程经验的从业者，在Reddit发帖寻求职业转型建议。他目标升级技术栈，以进入机器人、国防、金融等高价值行业的中高级机器学习岗位，最大化自身行业盈利能力。",
+    "key_points": [
+      "运筹学博士希望从大厂转型，瞄准高价值行业",
+      "核心目标是技能升级，聚焦机器人、国防、金融领域的机器学习",
+      "咨询社区如何实现向中高级机器学习角色的有效过渡"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "81d0e54674cac0f724ad2b6512c44810",
+    "title": "AIgenerated game worlds are getting playable but nobody talks about what happens to level designers",
+    "url": "https://www.reddit.com/r/artificial/comments/1uumkfq/aigenerated_game_worlds_are_getting_playable_but/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-12T17:58:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Google Genie 3 is getting a lot of attention for turning text prompts into explorable 3D spaces, and yeah it's rough, but the trajectory is pretty obvious. A year or two of iteration and you have something studios actually start testing in production pipelines.</p> <p>The conversation always jumps straight to &quot;will this replace engines&quot; or &quot;is it a tech demo,&quot; but the quieter question is what happens to the people who spent years learning to ",
+    "title_zh": "AI生成游戏世界可玩性提升，但关卡设计师的处境引人深思",
+    "summary_zh": "Reddit用户讨论Google Genie 3等AI工具能根据文本提示生成可探索的3D空间，虽然目前粗糙，但迭代趋势明显，很快可能进入游戏工作室的生产管线。文章重点探讨此举对关卡设计师职业的潜在冲击，认为该话题被忽视。",
+    "key_points": [
+      "Google Genie 3展示文本生成3D游戏世界的能力，技术迭代迅速",
+      "AI生成游戏内容可能很快被游戏工作室用于实际生产环节",
+      "业界对AI可能取代关卡设计师等创意岗位的讨论不足"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
