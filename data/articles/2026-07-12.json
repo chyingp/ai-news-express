@@ -316,5 +316,172 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e2cf886b7138318aedb81dd3bf0f94bb",
+    "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+    "url": "https://36kr.com/p/3892222176574211?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-12T05:47:23+00:00",
+    "content_snippet": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260712/v2_b77ea2d60b684a10ac185e0ffbb5c0f8@5579416_oswg84131oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">换更大的模型就等于更聪明？</p>\n  <p><strong>【导读】</strong>换更大的模型就等于更聪明？这可能是Claude Code用户最深的误会。很多人为此一路换到最贵的Fable，近日，Anthropic，亲手澄清了这个误区。</p>\n  <p>你有没有过这种时刻：Claude Code写代码写砸了，第一反应，就是赶紧换个更强的模型。</p>\n  <p>但这一招，很多时候并不管用，甚至是在白花钱。</p>\n  <p>近日，Anthropic官方发了一篇长文专门来讲这件事。</p>\n  <p class=\"image-wrapp",
+    "title_zh": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+    "summary_zh": "针对用户抱怨Claude变笨，Anthropic解释并非模型本身退化，而是更大模型在特定代码场景中表现可能更差，揭示了模型大小与实用性的关系。",
+    "key_points": [
+      "Anthropic回应Claude变笨质疑，澄清非模型退化",
+      "更大模型在代码等特定任务中可能表现不如较小模型",
+      "揭示了模型规模与实际应用效果之间的复杂关系"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f3e520b91078a22a693fdb116962e82f",
+    "title": "How to break into tech/AI (need help pls any advice would help)",
+    "url": "https://www.reddit.com/r/artificial/comments/1uu60b8/how_to_break_into_techai_need_help_pls_any_advice/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-12T05:04:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I’m a sophomore in high school. I recently have a strong desire to know more about tech, particularly AI. However, I’m not sure what steps to take since AI is such a broad and general term.</p> <p>I’m currently taking Harvard’s Cs50p course to understand code and know how to debug in the future when coding with AI. What are your thoughts on this, and after taking cs50p, what should I, or can I do? Where should I lead a bout tech and AI more? </p> </div><!-- ",
+    "title_zh": "如何进入科技/AI领域？一名高中生寻求建议",
+    "summary_zh": "一名高中生在Reddit发帖，表达对AI领域的强烈兴趣，但不知从何入手，请求社区提供学习路径和职业建议。",
+    "key_points": [
+      "高中生对AI领域感兴趣并寻求学习路径建议",
+      "贴主正在学习哈佛CS50P课程作为入门"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "60510ccba0eb248c87841a79b31dfb0b",
+    "title": "I don't think agent wallets should be wallets first",
+    "url": "https://www.reddit.com/r/artificial/comments/1uu5i6f/i_dont_think_agent_wallets_should_be_wallets_first/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-12T04:39:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The more I think about autonomous agents paying for tools, the less I like the phrase “agent wallet.”</p> <p>A wallet sounds like ownership. For most practical agent workflows, I think the safer abstraction is delegated permission.</p> <p>For example, I would rather give an agent something like this:</p> <p>“You can spend up to $2 on this task, only with these providers, and you must stop if the result is ambiguous.”</p> <p>That is different from giving the agen",
+    "title_zh": "我不认为'智能体钱包'应该首先是钱包",
+    "summary_zh": "一位Reddit用户讨论自主智能体支付工具的概念，认为'智能体钱包'的称谓不准确，更安全的抽象是'委托权限'，而非所有权。",
+    "key_points": [
+      "提出'智能体钱包'概念应改为'委托权限'",
+      "认为自主智能体支付工具的安全抽象是权限而非所有权"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "36752fd6af63ed89b35af5eaebaf8542",
+    "title": "上半年高频数据折射我国经济稳中向优",
+    "url": "https://36kr.com/newsflashes/3892125069130504?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-12T03:54:21+00:00",
+    "content_snippet": "从国家发展改革委国家信息中心了解到，今年上半年，线下商圈人流热度同比增长5.7%，消费延续向好态势；战略性新兴产业相关专利授权量同比增长15.6%，人工智能、人形机器人等前沿领域的资本投资金额同比增长118.4%，经济高质量发展的创新引擎动力不断增强。线下消费大数据显示，1至6月份，线下消费支付金额同比增长2.7%，其中商品消费、服务消费同比分别增长4.0%、0.8%。电子商品需求较高，同比增长9.5%；文旅相关的交通、餐饮相关消费热度持续高涨，同比分别增长6.1%、4.9%；线下商圈人流热度同比增长5.7%。（新华社）",
+    "title_zh": "上半年高频数据折射我国经济稳中向优",
+    "summary_zh": "国家信息中心数据显示，上半年我国消费向好，AI、人形机器人等前沿领域资本投资金额同比增长118.4%，经济创新引擎动力增强。",
+    "key_points": [
+      "人工智能和人形机器人领域资本投资同比大增118.4%",
+      "线下消费和战略性新兴产业专利授权量稳步增长"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a759a04cae14866d6d7bcc7d70bb62e6",
+    "title": "Which image program can you talk to like ChatGPT but doesn't have all the stupid rules?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uu4h3g/which_image_program_can_you_talk_to_like_chatgpt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-12T03:48:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I like that I can talk to ChatGpt in sentences instead of just having to type descriptor words of what i want. However ChatGPT annoys me with its endless filters and rules. Grok is like that but its image capabilities is years behind GPT.</p> <p>What is a different image program that i could use?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Hexxegone\"> /u/Hexxegone </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/ar",
+    "title_zh": "哪个图像程序可以像ChatGPT一样对话且没有愚蠢规则？",
+    "summary_zh": "用户寻求一款能像ChatGPT一样用自然语言交流，但内容过滤限制较少的图像生成程序，并抱怨ChatGPT和Grok的不足。",
+    "key_points": [
+      "用户寻求对话式且限制少的图像生成工具",
+      "抱怨ChatGPT过滤规则过多，Grok图像能力落后"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0c3ffb959595fbdffa181826a1f4b670",
+    "title": "三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年",
+    "url": "https://36kr.com/newsflashes/3892091542288904?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-12T03:39:22+00:00",
+    "content_snippet": "据报道，行业消息人士周日透露，三星电子正着手将其龙仁芯片集群首座半导体工厂的投产时间提前至2029年，比原计划提早一至两年。“首座工厂提前投产将使三星能够更快地应对全球对人工智能芯片迅速增长的需求，”一位行业官员表示。另外，三星上月表示，根据其超级项目投资计划，计划在平泽和龙仁半导体集群投资2,030万亿韩元（约合1.35万亿美元），并投资400万亿韩元在首尔以南270公里的光州建设两座新的芯片工厂。（财联社）",
+    "title_zh": "三星电子计划将龙仁首座芯片工厂的投产时间提前至2029年",
+    "summary_zh": "三星电子计划将其龙仁芯片集群的首座工厂投产时间提前至2029年，以更快应对全球AI芯片需求，并公布了巨额投资计划。",
+    "key_points": [
+      "三星将龙仁首座芯片工厂投产时间提前一至两年",
+      "此举旨在更快响应全球人工智能芯片激增的需求",
+      "三星计划在芯片集群投资1.35万亿美元"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f7b08385d66dacfab42010b99c955042",
+    "title": "百度AI将携智能体全家桶亮相WAIC 2026",
+    "url": "https://36kr.com/newsflashes/3892090766539268?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-12T03:19:28+00:00",
+    "content_snippet": "36氪获悉，在即将在上海开幕的世界人工智能大会（WAIC 2026）上，百度AI将携智能体全家桶亮相，全方位呈现智能体从技术升级、应用开发到产业赋能的最新成果。同时，百度“芯云模体”全栈AI产品矩阵也将在WAIC现场发布新升级，集中展示百度AI从底层技术创新到产业场景、个人应用的规模化落地进展。",
+    "title_zh": "百度AI将携智能体全家桶亮相WAIC 2026",
+    "summary_zh": "百度AI将在2026年世界人工智能大会上展示其智能体全家桶及全栈AI产品矩阵的最新升级，呈现从技术到产业应用的规模化落地进展。",
+    "key_points": [
+      "百度AI将在WAIC 2026展示智能体全家桶",
+      "百度'芯云模体'全栈AI产品矩阵将发布新升级"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "baidu"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
