@@ -245,5 +245,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9d2a8815716665d4865e9a12be3622e1",
+    "title": "Your AI agent passed all tests, now what ? What are online evals and how to choose them.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uuswa9/your_ai_agent_passed_all_tests_now_what_what_are/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-12T22:00:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>At work, I have been talking more and more about AI fluency as a skill that companies need if they want to be successful in using AI. AI literacy is about knowing how to use AI tools. AI fluency goes a level deeper: understanding, on a conceptual level, certain aspects of AI, and how these tools and use cases are actually built. You don’t need to write the code, but you do need to understand what is happening under the hood, because that understanding is what se",
+    "title_zh": "AI Agent 通过所有测试后，下一步是什么？什么是线上评估及如何选择",
+    "summary_zh": "本文探讨了 AI 落地中的关键概念：从 AI 素养到 AI 流利度，并重点介绍线上评估（online evals）作为衡量 AI Agent 真实表现的重要手段，解释了其定义、重要性及选择方法。",
+    "key_points": [
+      "提出 AI 流利度是比 AI 素养更深层的企业成功关键",
+      "线上评估用于衡量 AI 在真实环境而非静态测试中的表现",
+      "探讨了选择线上评估方法以确保持续改进 AI 系统的策略"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
