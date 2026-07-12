@@ -483,5 +483,99 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "99ecc173b0cfef311feeb70e01d8f410",
+    "title": "腾讯重仓一个IPO",
+    "url": "https://36kr.com/p/3892352153942530?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-12T07:59:37+00:00",
+    "content_snippet": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260712/v2_c894ac412b53423a9e1b8871398bc19b@5579416_oswg950837oswg960oswg640_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图片来源：视觉中国</p>\n  <p>作者/杨继云</p>\n  <p>报道/投资界PEdaily</p>\n  <p>深圳超级IPO来了。</p>\n  <p>日前，深圳云豹智能股份有限公司（简称“云豹智能”）创业板IPO申请正式获深交所受理，成为又一家选用创业板第四套上市标准申报上市的企业，冲刺“国产DPU第一股”。</p>\n  <p>回想6年前，斯坦福博士萧启阳在深圳创办云豹智能，专注于DPU赛道。这个团队启航两个月后，千亿DPU赛道开始爆发。至今，他背后站着腾讯等一支长长的投资人队伍。</p>\n  <p>腾讯无疑最为重仓，已成为云豹智能最大",
+    "title_zh": "腾讯重仓一个IPO",
+    "summary_zh": "报道称深圳一个超级IPO即将到来，腾讯作为重要投资方重仓参与，引发市场关注。",
+    "key_points": [
+      "腾讯作为重要投资方参与深圳超级IPO",
+      "此IPO被视为行业重大事件"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e70c41437d83d340f4884c370011c7ea",
+    "title": "Developers building with LLMs, how are you actually handling memory, context persistence, and multi-model routing? Genuinely curious what everyone's doing [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uu96ap/developers_building_with_llms_how_are_you/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-12T07:58:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been building an AI product for a few months and honestly the part that's eaten most of my time has nothing to do with the actual product, it's all the plumbing around context management, memory persistence, and dealing with multiple LLM providers.</p> <p>Wanted to see how other developers are solving this because I feel like everyone's rebuilding the same infrastructure from scratch independently and there has to be a better way.</p> <p><strong>A few specific t",
+    "title_zh": "使用LLM构建应用时，如何处理记忆、上下文持久性和多模型路由？",
+    "summary_zh": "开发者讨论在构建AI产品时，关于上下文管理、记忆持久化和多模型提供商调用的技术挑战和解决方案。",
+    "key_points": [
+      "上下文管理和记忆持久化是开发AI产品的主要耗时点",
+      "开发者在讨论如何有效处理多模型提供商的路由"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "985cf80fa23801c65d62d3fbfb56686f",
+    "title": "赛意信息：公司AI领域战略规划分阶段有序推进",
+    "url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-12T07:48:18+00:00",
+    "content_snippet": "36氪获悉，赛意信息近日接受机构调研时表示，公司AI领域战略规划分阶段有序推进：现阶段，公司有序落地算力基础设施布局，充分保障现有业务开展所需算力支撑；中长期，在持续夯实算力底座的基础上，加大国产算力软硬件研发与整合投入，完善自主可控底层技术体系；远期，同步推进工业垂类模型训练与行业智能体规模化落地，将算力资源转化为可落地、可量化的商业化解决方案，以全栈工业AI能力深度赋能各制造行业数字化、智能化转型升级。",
+    "title_zh": "赛意信息：公司AI领域战略规划分阶段有序推进",
+    "summary_zh": "赛意信息公布AI战略规划，分阶段布局算力基础设施、国产算力研发及工业垂类模型与智能体落地。",
+    "key_points": [
+      "现阶段重点保障算力基础设施布局",
+      "中远期将推进国产算力研发与工业模型落地"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "81a90127184d3c464047243e6d17dfbd",
+    "title": "机构：HBM4价格今年下半年或涨至4-5美元/千比特",
+    "url": "https://36kr.com/newsflashes/3892333900282625?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-12T07:33:57+00:00",
+    "content_snippet": "DigiTimes报告显示，受AI需求激增、产能结构性瓶颈影响，下一代HBM4价格2026年下半年或从2美元/千比特涨至4-5美元及以上。这一方面是因为HBM4制造过程的极端复杂性：其生产周期长达四到六个月，且初始良率显著偏低；另一方面，HBM的生产耗用的晶圆容量约为标准DDR5DRAM的三倍，严重限制了制造商在现有设施中可生产的总内存量。（新浪财经）",
+    "title_zh": "机构：HBM4价格今年下半年或涨至4-5美元/千比特",
+    "summary_zh": "受AI需求和产能瓶颈影响，HBM4内存价格预计在2026年下半年大幅上涨，从2美元涨至4-5美元/千比特。",
+    "key_points": [
+      "HBM4价格因AI需求激增和产能瓶颈预计翻倍",
+      "制造复杂性和良率偏低是价格上涨的主要原因"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
