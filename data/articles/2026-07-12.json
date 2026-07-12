@@ -697,5 +697,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d44bd67b9371118377d461f39a464a29",
+    "title": "Zer0Fit: I took Google's new TabFM & TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-12T12:32:29+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/\"> <img alt=\"Zer0Fit: I took Google's new TabFM &amp; TimesFM ML foundation models and made them available as an MCP server for zero-shot ML tasks (forecasts / classifications / regressions). 100% local. [P]\" src=\"https://preview.redd.it/cy6kekuamsch1.jpg?width=140&amp;height=70&amp;auto=webp&amp;s=73676a2130325bec57d5a5677698a48d658477e2\" title=\"Zer0Fit: I took Google'",
+    "title_zh": "Zer0Fit：将谷歌TabFM和TimesFM基础模型封装为MCP服务器，实现零样本机器学习任务",
+    "summary_zh": "开发者将谷歌最新的TabFM与TimesFM基础模型封装为MCP服务器，支持在本地100%运行零样本预测、分类和回归等机器学习任务，降低了使用门槛。",
+    "key_points": [
+      "基于谷歌TabFM和TimesFM模型实现零样本学习",
+      "以MCP服务器形式提供，支持完全本地化运行",
+      "覆盖预测、分类、回归等常见机器学习任务"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fc5398f6bdabb094be0c014a511a335d",
+    "title": "AI-Powered Entrepreneurs Set to Launch Record Number of New Businesse…",
+    "url": "https://www.reddit.com/r/artificial/comments/1uuduhl/aipowered_entrepreneurs_set_to_launch_record/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-12T12:14:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uuduhl/aipowered_entrepreneurs_set_to_launch_record/\"> <img alt=\"AI-Powered Entrepreneurs Set to Launch Record Number of New Businesse…\" src=\"https://external-preview.redd.it/5aW3zj2Dra96vNjsqJu-v40fHc6a8YfMKka3YEagR7U.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=64c1c6c3b80f8419ce199a8f2e08344ab61bef48\" title=\"AI-Powered Entrepreneurs Set to Launch Record Number of New Businesse…\" /> </a> </td><td> &#32; submitted by &#",
+    "title_zh": "人工智能驱动的创业者即将创下新企业创办数量纪录",
+    "summary_zh": "文章指出，借助人工智能工具，创业者正以前所未有的速度创办新企业，预计将创下新企业创办数量的历史纪录，反映了AI对创业生态的深刻影响。",
+    "key_points": [
+      "AI工具赋能创业者，大幅提升创办效率",
+      "新企业创办数量预计将创历史新高",
+      "显示AI正在重塑创业生态"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a1207602c0ad4e67245ce91e9ed8b0c9",
+    "title": "Anyone else notice LLMs treat a week-old message and a 5-min-old message the same, in the same thread?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uudl7w/anyone_else_notice_llms_treat_a_weekold_message/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-12T12:02:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been using the same chat thread for DSA practice, spread across several days now. I open it, review a problem, close it, come back the next day and pick up in the same thread.</p> <p>What I've noticed: the model behaves as if no time has passed at all. It doesn't distinguish between &quot;this was said 5 minutes ago&quot; and &quot;this was said 3 days ago&quot; inside the same conversation. Everything in the thread reads as flat, current context — unless I",
+    "title_zh": "你是否注意到LLM在同一对话线程中对待一周前的消息和五分钟前的消息毫无区别？",
+    "summary_zh": "用户发现，在持续多天的同一聊天线程中，大语言模型完全忽视了消息的时间间隔，对待刚发送的消息和几天前的消息行为一致，暴露出时间感知能力的缺失。",
+    "key_points": [
+      "LLM在同一线程中缺乏时间感知能力",
+      "无法区分消息是几分钟前还是几天前发送的",
+      "暴露了当前模型在上下文理解上的局限性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5478e49d29a905676fa53336952843da",
+    "title": "The fight against AI data centers is just beginning",
+    "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-12T12:00:00+00:00",
+    "content_snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power [&#8230;]",
+    "title_zh": "反对AI数据中心的斗争才刚刚开始",
+    "summary_zh": "The Verge深度分析指出，随着AI数据中心大规模建设带来的环境与社区影响日益凸显，全球各地反对兴建AI数据中心的抗争运动正在兴起，这场博弈才刚刚拉开序幕。",
+    "key_points": [
+      "AI数据中心的大规模建设引发环境与社区争议",
+      "全球多地出现反对AI数据中心的抗争运动",
+      "文章认为这场冲突才刚开始，影响深远"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
