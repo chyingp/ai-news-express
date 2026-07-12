@@ -601,5 +601,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bd139f8fbb8c98f107dcc4617bf58e96",
+    "title": "中信证券：港股扰动趋缓卖空料将收敛，短期推荐创新药、航空、机器人及工业金属",
+    "url": "https://36kr.com/newsflashes/3892557082737416?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-12T11:50:57+00:00",
+    "content_snippet": "36氪获悉，中信证券最新研报指出，目前港股未平仓卖空占市值比例虽已从6月中旬的高点小幅回落至2.43%，但仍接近历史均值三倍标准差以上的水平，内外部扰动因素逐步缓和下，预计未来将有较大的回落空间。但近期港股也有较为明显的pair trading迹象，短期我们仍建议关注基本面确定性较高和有事件催化的方向，包括：创新药、航空、机器人和强工业属性金属。",
+    "title_zh": "中信证券：港股扰动趋缓卖空料将收敛，短期推荐创新药、航空、机器人及工业金属",
+    "summary_zh": "中信证券研报指出，港股卖空占比虽从高点回落但仍处历史高位，预计随着扰动缓和将大幅下降。短期建议关注基本面确定性较高的方向，推荐创新药、航空、机器人和工业金属板块。",
+    "key_points": [
+      "港股卖空占比仍接近历史均值三倍标准差以上，预计将大幅回落",
+      "近期港股出现明显的配对交易迹象",
+      "短期推荐关注创新药、航空、机器人和强工业属性金属"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b6b26800274cbc56932660ee7508d32a",
+    "title": "Obtaining Irregular Learning Curves with HyberBand Tuned ANN model for Price Prediction [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uud3qj/obtaining_irregular_learning_curves_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-12T11:38:41+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1uud3qj/obtaining_irregular_learning_curves_with/\"> <img alt=\"Obtaining Irregular Learning Curves with HyberBand Tuned ANN model for Price Prediction [P]\" src=\"https://preview.redd.it/qe783f41csch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a5071286a10dd06d5aedc4ec40de6ad2a0a452a\" title=\"Obtaining Irregular Learning Curves with HyberBand Tuned ANN model for Price Prediction [P]\" /> </a> </td><td> <!-- SC_OFF --><d",
+    "title_zh": "使用HyperBand调优的ANN模型进行价格预测时获得不规则学习曲线",
+    "summary_zh": "一篇Reddit论坛上的研究论文，讨论在使用HyperBand算法调优的人工神经网络模型进行价格预测时，遇到了不规则学习曲线的问题。",
+    "key_points": [
+      "研究关注HyperBand调优的ANN模型在价格预测中的应用",
+      "作者在训练过程中观察到了不规则的学习曲线现象"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b0ed4f3c3786d1b1975fa5c8bf567020",
+    "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
+    "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-12T11:37:33+00:00",
+    "content_snippet": "人工智能热潮持续升温，围绕算力展开的竞争也不断向产业链上游延伸。随着大型数据中心加速建设，燃气轮机这一传统设备也迎来了新的发展机遇。几周前，微软刚刚向能源巨头GE Vernova采购了7台大型燃气轮机，来为其得州的数据中心供电。尽管单台燃气轮机的售价超过2.5亿美元，但这种复杂设备的市场需求依然远远超过供应。根据美国投资研究机构Melius Research的估算，过去三年，燃气轮机的价格累计上涨了约300%。GE Vernova的股价也在过去六个月累计上涨了超过70%，甚至它的行业竞争对手，如卡特彼勒、西门子等，也都实现了快速增长。（央视财经）",
+    "title_zh": "AI热潮太费电，燃气轮机价格3年涨了300%",
+    "summary_zh": "人工智能热潮推动数据中心加速建设，导致燃气轮机需求激增，其价格在过去三年累计上涨约300%。微软近期刚采购了7台大型燃气轮机用于数据中心供电。",
+    "key_points": [
+      "AI数据中心建设推动燃气轮机需求远超供应，价格三年涨300%",
+      "微软向GE Vernova采购7台超2.5亿美元的大型燃气轮机",
+      "GE Vernova股价半年涨超70%，卡特彼勒、西门子等也快速增长"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7f57ea2945bce14bd18e63b5f9beac9",
+    "title": "Which AI tools can generate ready-to-use 3D character models for games, animation, or 3D printing?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uuc5oh/which_ai_tools_can_generate_readytouse_3d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-12T10:50:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I didn't realize that the “ready to use” 3D character would be interpreted differently in various</p> <p>projects. I tried some different ways of working and found that maybe something that works</p> <p>for 3-D printing won't work for animation, or maybe a detailed character is still too heavy to</p> <p>use for a game engine.</p> <p>For games I'd want to find ones with reasonable numbers of polygons, good topology,</p> <p>efficient textures, and a good deforming",
+    "title_zh": "哪些AI工具可以生成可直接使用的3D角色模型？",
+    "summary_zh": "一篇Reddit上的讨论帖，用户询问可生成用于游戏、动画或3D打印的3D角色模型的AI工具，并发现不同应用场景对“可直接使用”的定义和要求各不相同。",
+    "key_points": [
+      "用户寻找能生成可直接使用的3D角色模型的AI工具",
+      "发现游戏、动画、3D打印等场景对模型的要求差异很大"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
