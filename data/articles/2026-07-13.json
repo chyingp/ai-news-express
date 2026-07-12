@@ -1,0 +1,76 @@
+[
+  {
+    "id": "473ea42cf68c7aebd2ae05e4c7f12b12",
+    "title": "this openai court story is starting to look ugly",
+    "url": "https://www.reddit.com/r/artificial/comments/1uul5ef/this_openai_court_story_is_starting_to_look_ugly/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-12T17:06:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>i saw this and honestly this one feel like big mess.</p> <p>nyt and other news people saying openai told court for long time it cannot search training data / logs for their copyrighted stuff. but then looks like maybe they already did searches before, and also billions of chat logs were deleted or made not searchable.</p> <p>link: <a href=\"https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/\">h",
+    "title_zh": "OpenAI 法庭风波愈演愈烈，被指涉嫌隐瞒搜索能力",
+    "summary_zh": "OpenAI 在与纽约时报等媒体的版权诉讼中再陷争议，原告方指出 OpenAI 曾声称无法检索训练数据中的版权内容，但新证据显示其可能早已具备相关搜索能力并曾进行过搜索，令案件走向更加复杂。",
+    "key_points": [
+      "原告指控 OpenAI 此前向法庭隐瞒了其搜索训练数据的能力",
+      "证据显示 OpenAI 可能早已进行过版权内容相关的内部搜索",
+      "案件涉及《纽约时报》等媒体对 OpenAI 的版权侵权诉讼"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "84342b5f178e916e34d67fcbbf12d6de",
+    "title": "Meet Eli!",
+    "url": "https://www.reddit.com/r/artificial/comments/1uukj08/meet_eli/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-12T16:43:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Meet Eli Felse, a framework built to explore safer ways to create autonomous AI assistants. Eli was designed to be as autonomous as possible to demonstrate the framework's safety.</p> <p><strong>Eli has many activities available to him, such as:</strong></p> <p>▸ <strong>Games:</strong> retro text RPGs (Zork, Planetfall), Pokémon Blue, board and card games (chess, poker, Connect Four)<br /> ▸ <strong>Social:</strong> chatting with friends, chatting with other AI",
+    "title_zh": "Eli 框架发布：探索更安全的自主 AI 助手构建方式",
+    "summary_zh": "一个名为 Eli Felse 的全新框架被推出，旨在探索构建自主 AI 助手时更安全的方式。该框架设计上尽可能赋予 AI 自主性，以验证其安全机制的有效性，并为 AI 提供了多种可执行的活动。",
+    "key_points": [
+      "Eli 是一个为探索自主 AI 安全而构建的框架",
+      "设计上追求高度自主，以测试和展示框架的安全性",
+      "Eli 拥有多种活动能力，用于演示安全自主操作"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8f4dc6d90b88af019bdf1e087046c9f1",
+    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-12T16:27:06+00:00",
+    "content_snippet": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details [&#8230;]",
+    "title_zh": "苹果失败的自驾项目，留下强大 AI 芯片遗产",
+    "summary_zh": "苹果已放弃的自动驾驶汽车项目虽未成功，但在开发过程中催生了强大的 AI 芯片技术。苹果早期意识到自动驾驶需要强大的设备端 AI 处理能力，相关研发成果最终演变为其芯片的 AI 性能基石。",
+    "key_points": [
+      "苹果自动驾驶项目虽被取消，但催生了强大的 AI 芯片技术",
+      "项目早期即确立了对强大设备端 AI 处理能力的需求",
+      "相关芯片研发成果成为苹果产品 AI 性能的重要基础"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
