@@ -819,5 +819,78 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a1a615499238e1868ac13a68e33f0e4c",
+    "title": "Fine tuning a model [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uuh7ym/fine_tuning_a_model_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-12T14:37:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi folks, </p> <p>I am kind of new to fine tuning a model. I don't know how to fine tune. </p> <p>Now our team have to fine tune a model on one project. What we decided is, we will be using small model like, llama, mistral, or Gemma, and them feed it with our data. And from there we will be train our model.<br /> But this is just a talk we had. None of us know how to fine tune a model. So can you guys, take some effort to help me like how should I do it? How to ",
+    "title_zh": "微调模型 [讨论]",
+    "summary_zh": "一位Reddit用户发帖求助，表示团队需要为项目微调一个小型模型如Llama、Mistral或Gemma，但自己不知如何操作。",
+    "key_points": [
+      "用户寻求微调小型语言模型的入门指导",
+      "团队计划使用Llama、Mistral或Gemma进行项目微调"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "meta",
+      "mistral",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a5263a9649390730e549878ee66f467b",
+    "title": "Testing a Zero-Parameter Model Against KataGo",
+    "url": "https://www.reddit.com/r/artificial/comments/1uuguzn/testing_a_zeroparameter_model_against_katago/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-12T14:23:05+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So far, 4 games have been played with a result of 2 - 2.</p> <p>The prediction from here is:</p> <p>As more games are played, the more of the theory underpinning this will be applied and the zero-parameter model will have many more wins than KataGo.</p> <p>By deriving these geometric principles and proving they work, we can show that intelligence can be generated without huge data centres or immense fortunes.</p> <p>The ultimate goal is to prove that fundamental",
+    "title_zh": "测试零参数模型对战KataGo",
+    "summary_zh": "Reddit用户分享了一个零参数模型与围棋AI KataGo的对战测试，目前战绩为2比2平，并预测该零参数模型将在后续对局中取得更多胜利。",
+    "key_points": [
+      "零参数模型与KataGo进行围棋对战，目前战绩2:2",
+      "发帖者预测零参数模型未来将赢得更多对局"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "36e3fd54e936add97ba6ae9c9da3c406",
+    "title": "The weak AI code gen we had until late last year was most useful to low-skill programmers -- it was raising the floor. It was essentially useless to high-skill programmers -- you could move faster and ship better code without. This has been completely flipped: the strong AI code gen we have now is *most* useful to high-skill programmers, while low-skill programmers are vastly underutilizing it or sometimes drowning in it. It went from a crutch to a power tool.",
+    "url": "https://nitter.net/fchollet/status/2076310779482317104#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-12T14:20:40+00:00",
+    "content_snippet": "<p>The weak AI code gen we had until late last year was most useful to low-skill programmers -- it was raising the floor. It was essentially useless to high-skill programmers -- you could move faster and ship better code without.<br />\n<br />\nThis has been completely flipped: the strong AI code gen we have now is *most* useful to high-skill programmers, while low-skill programmers are vastly underutilizing it or sometimes drowning in it. It went from a crutch to a power tool.</p>",
+    "title_zh": "AI代码生成工具的演变：从低技能程序员的“拐杖”到高技能程序员的“强力工具”",
+    "summary_zh": "François Chollet指出，AI代码生成工具的角色已发生转变：过去对低技能程序员更有用，现在强大的AI代码生成反而对高技能程序员帮助最大，而低技能程序员可能无法充分利用或被其淹没。",
+    "key_points": [
+      "AI代码生成从提升低技能程序员水平转变为强力辅助高技能程序员",
+      "低技能程序员可能面临无法有效利用强大AI代码工具的风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
