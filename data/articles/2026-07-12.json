@@ -220,5 +220,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b133e37809a44ce6b35bee953f9b7804",
+    "title": "韩国股指年内大涨八成估值却创低位，机构称存储板块仍具备配置价值",
+    "url": "https://36kr.com/newsflashes/3891939054598920?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-12T02:41:18+00:00",
+    "content_snippet": "韩国股市迎来一轮暴涨行情，却出现了反常局面：股票估值跌至历史低位。韩国综合股价指数今年累计涨幅约80%，接连刷新历史新高，但分析师上调盈利预期的速度更快。三星电子、SK海力士两大存储芯片巨头利润大幅飙升，使得该指数远期市盈率仅6.4倍，甚至低于2008年全球金融危机时期水平。近期市场因市场对人工智能板块行情再起疑虑出现大幅抛售，估值被进一步压低。摆在投资者面前的问题是，如此罕见的低价究竟意味着入场良机，还是市场已经提前计入存储芯片繁荣周期终将落幕的预期。新加坡东方汇理财富管理亚洲首席策略师Francis Tan表示：“是否适合买入取决于个人持仓配置。如果投资者目前持仓中相关标的占比较低，当下是布局的好时机，可为组合带来绑定人工智能赛道的增长收益。企业盈利基本面稳健，市场预期后续盈利仍将维持强劲。”（新浪财经）",
+    "title_zh": "韩国股指年内大涨八成估值却创低位，机构称存储板块仍具备配置价值",
+    "summary_zh": "韩国股市今年暴涨约80%但估值跌至历史低位，三星、SK海力士利润飙升致远期市盈率仅6.4倍。近期AI板块抛售进一步压低估值，机构建议低配者可考虑入场。",
+    "key_points": [
+      "韩国综合指数年内涨80%但估值创新低，远期市盈率仅6.4倍",
+      "三星、SK海力士利润飙升，AI疑虑引发抛售压低估值",
+      "机构认为低配投资者可逢低布局存储芯片板块"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "904861805898564239e20aad9d7819da",
+    "title": "Meta紧急下线争议AI生图功能",
+    "url": "https://36kr.com/newsflashes/3891995047033351?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-12T02:20:09+00:00",
+    "content_snippet": "社交媒体���头Meta本周推出一项允许用户通过@提及公开Instagram账号、利用他人公开内容生成AI图像的新功能。该功能上线时默认允许公开内容被引用，引发美国演员工会等机构对肖像权侵犯以及犯罪风险的强烈担忧。Meta表示，相关功能“未能达到预期效果”，因此决定全面下线。（财联社）",
+    "title_zh": "Meta紧急下线争议AI生图功能",
+    "summary_zh": "Meta因推出利用他人公开内容生成AI图像的功能引发肖像权侵犯担忧，遭到美国演员工会等机构强烈反对，已决定全面下线该功能。",
+    "key_points": [
+      "Meta新功能允许利用他人公开内容生成AI图像，默认公开引用",
+      "功能引发肖像权侵犯和犯罪风险担忧，遭演员工会反对",
+      "Meta承认功能未达预期，已全面下线"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "353f5e08b0d164eff80245a5b6e26857",
+    "title": "Context and average best linear mappings [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uu2p63/context_and_average_best_linear_mappings_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-12T02:18:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The context (in a border sense) viewpoint of neural networks is not thought about too much but it leads to a simple best average linear mapping viewpoint of a layer.</p> <p><a href=\"https://archive.org/details/a-context-based-view-of-deep-neural-networks\">https://archive.org/details/a-context-based-view-of-deep-neural-networks</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/oatmealcraving\"> /u/oatmealcraving </a> &#32; ",
+    "title_zh": "上下文与平均最佳线性映射研究",
+    "summary_zh": "一篇讨论论文，提出从上下文视角理解神经网络，可将一层简化为平均最佳线性映射，为深度学习理论提供新见解。",
+    "key_points": [
+      "从上下文视角重新审视神经网络层，提出平均最佳线性映射概念",
+      "论文为理解深度学习内部机制提供简化理论框架"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7e5b1350cca249c8c102152297625206",
+    "title": "Young man rants about how AI slop is ruining his social media feeds",
+    "url": "https://www.reddit.com/r/artificial/comments/1uu2iwy/young_man_rants_about_how_ai_slop_is_ruining_his/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-12T02:09:46+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uu2iwy/young_man_rants_about_how_ai_slop_is_ruining_his/\"> <img alt=\"Young man rants about how AI slop is ruining his social media feeds\" src=\"https://external-preview.redd.it/cGFpZWMxczZqcGNoMV7OrWStOrso_rnq6JgHP2uGiAFJRS-5Qy_1_RTcdHh7.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=8a03b15ff935d7fc176bee5f664e18f24c0c4b0a\" title=\"Young man rants about how AI slop is ruining his social media feeds\" /> </a> </td><td> &#32; ",
+    "title_zh": "年轻人吐槽AI生成内容泛滥破坏社交媒体信息流",
+    "summary_zh": "一名年轻用户在Reddit上抱怨AI生成的低质量内容（AI slop）充斥社交媒体，严重影响了信息流质量和用户体验。",
+    "key_points": [
+      "用户吐槽AI生成内容泛滥，降低社交媒体信息流质量",
+      "AI slop问题引发社区对内容生态的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
