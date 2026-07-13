@@ -469,5 +469,99 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "66fa0f6e0aa9a86c5fb21ea6bd91c4da",
+    "title": "Hot take, LLMs can never be continual learners",
+    "url": "https://www.reddit.com/r/artificial/comments/1uvmdsf/hot_take_llms_can_never_be_continual_learners/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-13T19:57:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>An important step to reaching AGI is to crack continual learning. However, with all the hallucinations and mishaps with LLM models, I really don’t think they are capable of being continual learners. One of the biggest bottlenecks imo is the context window. Genuinely curious what others think. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/watercolorer2024\"> /u/watercolorer2024 </a> &#32; to &#32; <a href=\"https://www.redd",
+    "title_zh": "热评：大型语言模型永远无法成为持续学习者",
+    "summary_zh": "一篇来自Reddit的观点文章，认为LLM因幻觉问题和上下文窗口限制等瓶颈，无法实现被认为是通往AGI关键一步的持续学习能力。",
+    "key_points": [
+      "持续学习是通向AGI的关键步骤",
+      "LLM的幻觉和上下文窗口限制阻碍其持续学习"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c73d1a9c90fdcd3da0a04ebdb1bb0c48",
+    "title": "What's your take on continual learning? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uvm2p4/whats_your_take_on_continual_learning_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-13T19:47:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Everyone suddenly seems to be an expert in continual learning. Dario Amodei claimed on the Dwarkesh Patel podcast that continual learning will be achieved by 2026, and Demis Hassabis has called it the most important unsolved breakthrough on the path to more general AI. Two of the most prominent people in the field, and yet I don't think there's even a consensus on what continual learning actually means.</p> <p>I see researchers and startups approaching it in fun",
+    "title_zh": "你对持续学习有何看法？",
+    "summary_zh": "Reddit上的讨论帖，提及Dario Amodei和Demis Hassabis对持续学习作为通向通用人工智能重要突破的看法，认为近期人人都在谈论此技术。",
+    "key_points": [
+      "Dario Amodei预测2026年实现持续学习",
+      "Demis Hassabis称其为通向通用AI最重要的未解难题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ae392203a5e00691a7f377a97cdcb7d4",
+    "title": "Lord of the Rings: The Hunt for Gollum to only use AI for ‘some of the de-aging’",
+    "url": "https://www.reddit.com/r/artificial/comments/1uvljm9/lord_of_the_rings_the_hunt_for_gollum_to_only_use/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T19:28:28+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uvljm9/lord_of_the_rings_the_hunt_for_gollum_to_only_use/\"> <img alt=\"Lord of the Rings: The Hunt for Gollum to only use AI for ‘some of the de-aging’\" src=\"https://external-preview.redd.it/idmNSrdiE6VBAjUyBQAj2OLzhYdvvO9_m6GsGbkoj24.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b5c860bc59a27a5815d229e4c61cd2c9b97e802e\" title=\"Lord of the Rings: The Hunt for Gollum to only use AI for ‘some of the de-aging’\" /> </a> </td>",
+    "title_zh": "《指环王：追捕咕噜》将仅部分使用AI进行减龄处理",
+    "summary_zh": "电影《指环王：追捕咕噜》的制作方透露，将仅使用人工智能技术处理部分角色的减龄特效，而非全面采用AI技术。",
+    "key_points": [
+      "电影仅计划在部分减龄特效中应用AI",
+      "回应了外界对AI全面应用于电影制作的担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3422b7d50d5286c456f0f28960f53cf7",
+    "title": "GPUHedge: Hedging serverless GPU providers improves cold start p95 latency from 117s to 30s [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-13T19:20:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Disclosure: I built it, it is open source, Apache-2.0 licensed, and currently alpha. Repository: <a href=\"https://github.com/mireklzicar/gpuhedge\">https://github.com/mireklzicar/gpuhedge</a></p> <p>I started working on it after benchmarking a 17 GB AI model across several serverless GPU providers.</p> <p>On the primary provider, requests usually either completed in roughly 6–8 seconds or took around 90–122 seconds after a fresh GPU cold start. Simply switching t",
+    "title_zh": "GPUHedge：通过对冲无服务器GPU提供商将冷启动P95延迟从117秒降至30秒",
+    "summary_zh": "一个名为GPUHedge的开源项目，通过在多個无服务器GPU提供商之间进行对冲，显著优化了大型AI模型的冷启动延迟，将P95延迟从117秒降低到30秒。",
+    "key_points": [
+      "开源项目GPUHedge旨在优化无服务器GPU冷启动",
+      "采用对冲策略将P95延迟从117秒大幅降至30秒"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
