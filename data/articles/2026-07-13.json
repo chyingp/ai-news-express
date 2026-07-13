@@ -468,5 +468,321 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4e8389a879f28407936c9b8debae10a3",
+    "title": "https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/",
+    "url": "https://www.reddit.com/r/artificial/comments/1uuy5g5/httpswwwtheatlanticcomtechnology202607aichatbotwri/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-13T01:52:36+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uuy5g5/httpswwwtheatlanticcomtechnology202607aichatbotwri/\"> <img alt=\"https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negative-parallelism/687892/\" src=\"https://external-preview.redd.it/lBEXzfLvl3XuTK9BHsht8fVSiyj6YDTqgZkevSSu91M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a91a32c72e7a0605b1a92f25b4543e02fa21f85f\" title=\"https://www.theatlantic.com/technology/2026/07/ai-chatbot-writing-tic-negati",
+    "title_zh": "AI聊天机器人写作中的负面对称结构",
+    "summary_zh": "文章探讨AI聊天机器人写作时出现的一种特定语言习惯，即负面对称结构，对其成因和影响进行分析。",
+    "key_points": [
+      "AI写作中频繁出现负面对称修辞",
+      "探讨该语言模式成因与影响"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c27f9d164785c096c69e8b70cee57304",
+    "title": "Is everything on codex subreddit curated by OpenAI? or just picky mods?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uuy0pv/is_everything_on_codex_subreddit_curated_by/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T01:46:27+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uuy0pv/is_everything_on_codex_subreddit_curated_by/\"> <img alt=\"Is everything on codex subreddit curated by OpenAI? or just picky mods?\" src=\"https://preview.redd.it/0ypwwnbyjwch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=423b4c3b5f6cd8fd2de4163f027db286c0627f01\" title=\"Is everything on codex subreddit curated by OpenAI? or just picky mods?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Never has a post not rem",
+    "title_zh": "Codex子版块内容是否由OpenAI策划？",
+    "summary_zh": "Reddit用户讨论OpenAI Codex子版块的内容是不是由OpenAI官方策划，还是仅因为版主审帖严格。",
+    "key_points": [
+      "用户质疑Codex子版块内容审核机制",
+      "猜测背后可能涉及OpenAI官方干预"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b18d9e49fc81d0e67e3a9b86144ff202",
+    "title": "The API epidemic and where it's headed with AI social media",
+    "url": "https://www.reddit.com/r/artificial/comments/1uuxmw9/the_api_epidemic_and_where_its_headed_with_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T01:27:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The blog discusses how API pricing is infecting social media platforms such as X and Reddit, where users are being charged to view the posts they created, and what the future ramifications are of restrictions in media.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheOnlyVibemaster\"> /u/TheOnlyVibemaster </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://blo",
+    "title_zh": "API泛滥及其对AI社交媒体的影响",
+    "summary_zh": "讨论社交平台如X和Reddit对用户浏览内容收费的API定价趋势，以及这种限制对媒体未来的影响。",
+    "key_points": [
+      "社交平台API收费影响用户内容访问",
+      "探讨AI时代媒体平台的变现模式与未来"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "001c3468316c164b56a1d80e7d94a3ff",
+    "title": "AI agents may need an identity before they need more intelligence",
+    "url": "https://www.reddit.com/r/artificial/comments/1uuxhe6/ai_agents_may_need_an_identity_before_they_need/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T01:20:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We keep talking about what AI agents will soon be capable of doing: sending emails, moving money, making purchases, negotiating with other systems, and managing parts of a business.<br /> But capability might not be the real bottleneck.<br /> The harder question is how we know which agent actually performed an action, who authorized it, what permissions it had, and who is responsible when something goes wrong.<br /> An employee has a name, a role, an access leve",
+    "title_zh": "AI智能体可能先需要身份而非更强智能",
+    "summary_zh": "文章认为AI智能体在实现发邮件、付款等复杂功能前，亟需解决身份验证和信任问题，这比提升智能更关键。",
+    "key_points": [
+      "AI智能体面临身份与信任瓶颈",
+      "身份验证比提升智能更优先"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4d68c8594c824302e5065d73c164eac4",
+    "title": "中金公司：中报业绩期关注三条投资主线",
+    "url": "https://36kr.com/newsflashes/3893369150519813?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-13T01:14:46+00:00",
+    "content_snippet": "36氪获悉，中金公司研报认为，当前市场受外部不确定性影响较大，业绩期投资者有望更关注基本面动向，通过中报寻找结构性亮点。业绩披露阶段重点关注：中报业绩亮点领域。例如，上游油气化工和部分金属、受益于AI高景气和海外需求的科技硬件和电力设备、非银金融等；AI产业链。当前AI产业快速发展，产业趋势持续支持需求增长，关注直接受益于AI技术落地的光通信，以及同时受益于能源安全与产业链安全的电池、储能等；供需相对平衡的周期行业。结合产能周期位置和需求回升，关注细分化工品、光学光电子、部分创新药等。",
+    "title_zh": "中金公司：中报业绩期关注三条投资主线",
+    "summary_zh": "中金公司研报指出，市场关注基本面，建议投资者围绕AI产业链、中报业绩亮点及供需平衡的周期行业三条主线进行布局。",
+    "key_points": [
+      "建议关注AI高景气硬件与海外需求",
+      "推荐光通信、电池、储能等受益领域",
+      "关注细分化工品、创新药等周期行业"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "233d170380f1dca26b0b3e23a1b7d875",
+    "title": "华泰证券港股策略：持有前期高沽空、具有分散价值及盈利改善品种",
+    "url": "https://36kr.com/newsflashes/3893359393126912?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-13T01:00:53+00:00",
+    "content_snippet": "36氪获悉，华泰证券研报认为，现阶段，港股的反弹更多来自资金面的全球风格再平衡需求驱动空头回补。因此，继续建议重点关注前期沽空压力较大、与AI硬件超额收益负相关，组合层面具有一定分散风险价值的超跌品种（创新药等）以及高股息防御品种（银行等）。其中创新药整体景气边际走弱，因此建议重点关注业绩指引积极的CXO以及BD潜力大的龙头。对于AI硬件链，重点关注国产链代工龙头等，回调可能提供吸筹机会。海外映射环节的下一个关键窗口在7月美股财报季，建议根据浮盈程度对应调整配置敞口。AI软件方面更多是模型领先的个股Alpha机会。中期视角，建议均衡配置景气加速上行与低估反转的思路不变。",
+    "title_zh": "华泰证券港股策略：关注高沽空与盈利改善品种",
+    "summary_zh": "华泰证券认为港股反弹由空头回补驱动，建议关注前期沽空压力大的创新药、高股息股，以及AI硬件链回调机会。",
+    "key_points": [
+      "建议关注超跌创新药、高股息防御品种",
+      "AI硬件链回调提供吸筹机会",
+      "AI软件关注模型领先的个股机会"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4dc35d51fd9b489b0db0b74085aadcf8",
+    "title": "AI火热需求蔓延至成熟制程，台积电掀新一波涨价潮",
+    "url": "https://36kr.com/newsflashes/3893368739674884?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-13T00:59:29+00:00",
+    "content_snippet": "据报道，台积电先进制程接单爆满，持续调高3纳米等先进制程报价之际，涨价潮蔓延至成熟制程。多家IC设计业者透露，陆续收到台积电通知，拟调高成熟制程价格。 至于调涨幅度，依各家厂商与各产品线不一，待第四季时敲定，预计明年1月生效。（财联社）",
+    "title_zh": "AI需求蔓延至成熟制程，台积电掀新一波涨价潮",
+    "summary_zh": "因AI需求旺盛，台积电先进制程满负荷后，涨价潮已蔓延至成熟制程，多家IC设计厂商已收到涨价通知，预计明年生效。",
+    "key_points": [
+      "台积电成熟制程价格将上涨",
+      "AI需求从先进制程外溢至成熟制程",
+      "新价格预计明年1月生效"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bf4ed03e3eb13ec986d607aa2a553f85",
+    "title": "首款智能体手机呼之欲出，大规模商用需迈几道坎",
+    "url": "https://36kr.com/newsflashes/3893348775590407?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-13T00:53:06+00:00",
+    "content_snippet": "全球首款AI智能体手机即将在2026世界人工智能大会上展出，该消息令智能体手机再度成为舆论关注焦点。接受采访的专家表示，智能体手机短期内仍将属于“高级辅助执行”阶段，无法完全跳过人机确认实现全流程自动执行，长期而言，智能体手机要实现大规模商用，仍需迈过技术验证、隐私安全、与互联网企业之间的利益分配等多道坎。（证券时报）",
+    "title_zh": "首款智能体手机呼之欲出，大规模商用需迈几道坎",
+    "summary_zh": "全球首款AI智能体手机即将展出，但专家表示，短期内仍属辅助执行阶段，大规模商用还需克服技术、隐私和利益分配等挑战。",
+    "key_points": [
+      "首款AI智能体手机即将展出",
+      "大规模商用面临技术、隐私与利益分配难题",
+      "短期内难以实现全流程自动执行"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b5d4297ecf1313670fa6b66e9b17a654",
+    "title": "中信证券：预计美股后续将维持震荡上行走势",
+    "url": "https://36kr.com/newsflashes/3893334842997511?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-13T00:50:56+00:00",
+    "content_snippet": "36氪获悉，中信证券研报表示，美股本周AI主线交易动能显著回归，SK海力士美股上市后股价上涨印证AI硬件产业链热度持续，Meta扩建数据中心、亚马逊发债筹资印证科技巨头资本开支仍具韧性，有效缓解市场对AI领域投入节奏放缓的担忧。我们预计美股后续将维持震荡上行走势，建议关注：软件、军工、能源基建及金融板块。",
+    "title_zh": "中信证券：预计美股将维持震荡上行走势",
+    "summary_zh": "中信证券研报认为，受AI主线交易回归、科技巨头资本开支韧性等因素推动，美股后续将震荡上行，建议关注软件、军工等板块。",
+    "key_points": [
+      "AI主线交易动能回归推动美股",
+      "科技巨头资本开支韧性缓解市场担忧",
+      "推荐关注软件、军工、能源基建及金融板块"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta",
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "92150d10a44a83f4e8a7aec869137c4a",
+    "title": "年内激增超过2000亿元，科技类ETF规模突破5400亿元",
+    "url": "https://36kr.com/newsflashes/3893347504323077?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-13T00:45:49+00:00",
+    "content_snippet": "今年以来，A股行业与主题类ETF持续扩容，科技赛道成为资金布局的核心主线。据统计：截至6月末，聚焦科技的行业和主题ETF规模超过5400亿元，较2025年末大幅提升2087亿元；此外，聚焦科技赛道的主动权益类基金规模占比也显著攀升。尽管半导体等前期热门科技板块近期出现显著波动，但多家公募机构研判，短期情绪扰动不改产业中长期上行趋势，AI商业化落地、半导体自主创新等核心逻辑持续夯实，科技赛道后续仍具备充足的投资空间。（上证报）",
+    "title_zh": "年内激增超2000亿元，科技类ETF规模突破5400亿元",
+    "summary_zh": "A股科技类ETF规模年内大增，突破5400亿元。尽管半导体板块近期波动，但机构认为AI商业化落地和半导体自主创新等核心逻辑不变，后市仍有投资空间。",
+    "key_points": [
+      "科技类ETF规模年内增长超2000亿元",
+      "AI商业化与半导体自主创新是核心驱动力",
+      "公募机构看好科技赛道中长期趋势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7718161ad44b306dfa58ffe6e371245",
+    "title": "The process of trying, failing, updating a mental model, and trying again is the core of intelligence. We should celebrate models that fail gracefully and adapt instantly.",
+    "url": "https://nitter.net/fchollet/status/2076462727422431312#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-13T00:24:27+00:00",
+    "content_snippet": "<p>The process of trying, failing, updating a mental model, and trying again is the core of intelligence. We should celebrate models that fail gracefully and adapt instantly.</p>",
+    "title_zh": "尝试、失败、更新心智模型、再尝试是智能的核心。我们应该赞美那些能优雅失败并即时适应的模型。",
+    "summary_zh": "François Chollet认为，智能的核心在于不断试错、更新心智模型并再次尝试的过程。他主张应赏识那些能优雅地处理失败并迅速适应变化的模型。",
+    "key_points": [
+      "智能的核心循环是：尝试、失败、更新心智模型、再尝试",
+      "应推崇能优雅失败并即时适应的模型"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "47a0bf1ddb3dda1db344696a59e1d63a",
+    "title": "big milestone!",
+    "url": "https://nitter.net/gdb/status/2076456801047024089#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-13T00:00:54+00:00",
+    "content_snippet": "<p>big milestone!</p>\n<hr />\n<blockquote>\n<b>Design Arena (@Designarena)</b>\n<p>\n<p>BREAKING - OFFICIAL RESULTS: GPT-5.6 Sol by <a href=\"https://nitter.net/OpenAI\" title=\"OpenAI\">@OpenAI</a> is 1st overall on Design Arena with an Elo of 1353.<br />\n<br />\nThis puts GPT-5.6 Sol above Claude Fable 5 by <a href=\"https://nitter.net/AnthropicAI\" title=\"Anthropic\">@AnthropicAI</a> and in the same performance band as GLM 5.2 by <a href=\"https://nitter.net/Zai_org\" title=\"Z.ai\">@Zai_org</a> on frontend ",
+    "title_zh": "重大里程碑！GPT-5.6 Sol在Design Arena基准测试中排名第一",
+    "summary_zh": "Greg Brockman转发基准测试结果，宣布OpenAI的GPT-5.6 Sol模型在Design Arena排行榜上以1353的Elo分数获得总排名第一，超越了Claude Fable 5等模型。",
+    "key_points": [
+      "GPT-5.6 Sol在Design Arena基准测试中以1353 Elo排名第一",
+      "此次成绩超越了Claude Fable 5等其他模型"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "234e055c899de5651caf2c5107b279e3",
+    "title": "8点1氪丨SK海力士CEO称史上最大存储短缺将在明年到来；苹果起诉OpenAI窃取商业机密‌；赛力斯预计上半年净亏损15亿元-18亿元",
+    "url": "https://36kr.com/p/3893305996442118?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-12T23:55:49+00:00",
+    "content_snippet": "<h2>今日热点导览</h2>\n  <ul>\n   <li>世界杯决赛一块草皮卖3050元，上架后很快售空</li>\n   <li>中国石化完成对中国航油重组</li>\n   <li>巨力索具因误导性陈述被罚450万元</li>\n   <li>SK海力士考虑“内存即服务”模式，或允许客户租赁而非购买芯片</li>\n   <li>马斯克据悉要求特斯拉员工转向使用Grok</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>SK海力士CEO：2027年将成为存储行业历史上供应最紧张的一年</strong></p>\n  <p>美东时间周五（7月10日）晚间，SK海力士首席执行官郭鲁正（Kwak Noh-jung）向外界预计，2027年将成为存储行业历史上供应最紧张的一年。“现在客户纷纷前来SK海力士寻求长期供货协议。需求持续增长，而我们的产能却存在限制。尽管我们正尽最大努力扩充产能，但即使到2030年以后，客户需求仍可能高于公司的供应能力。”他说。他还表示美国在晶圆厂选址候选名单中，但尚未做出决定。公司将优先选择成本、土地、水电和技术工人条件优越的地",
+    "title_zh": "8点1氪丨SK海力士CEO称史上最大存储短缺将在明年到来；苹果起诉OpenAI窃取商业机密；赛力斯预计上半年净亏损15亿元-18亿元",
+    "summary_zh": "36氪早报涵盖多个热点：SK海力士CEO预测2027年将出现史上最严重的存储供应短缺；苹果起诉OpenAI窃取商业机密；赛力斯预计上半年大幅亏损；此外还包括马斯克要求特斯拉员工使用Grok等消息。",
+    "key_points": [
+      "SK海力士CEO预测2027年将出现史上最大存储短缺",
+      "苹果起诉OpenAI窃取商业机密",
+      "马斯克要求特斯拉员工转向使用Grok"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
