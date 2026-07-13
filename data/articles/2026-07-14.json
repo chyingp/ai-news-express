@@ -167,5 +167,307 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "25a33f9e528154aa222fdbe82f6155f1",
+    "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+    "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T18:22:10+00:00",
+    "content_snippet": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+    "title_zh": "苹果对OpenAI提起的商业机密诉讼中的最疯狂指控",
+    "summary_zh": "苹果起诉OpenAI窃取商业机密，指控内容惊人，包括员工开玩笑说未经授权访问苹果系统，以及要求求职者携带苹果硬件参加面试。",
+    "key_points": [
+      "苹果指控OpenAI员工开玩笑提及未经授权访问其系统",
+      "诉讼称OpenAI要求求职者携带苹果硬件参加面试",
+      "该案揭示了AI人才争夺战中的激烈竞争手段"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cd20bb80370a1cce2ed5677309cb20fd",
+    "title": "1/N Long horizon, complex tasks that truly matter in everyday life are not solved problems by today’s robotics, requiring planning, object detection, object manipulation, and failure recovery. That's why Stanford's BEHAVIOR Challenge is back for year 2! Last year, the winning solution reached only 12.4% full task success. This year, the BEHAVIOR challenge has more tasks, better evaluation, and is easier to use. 🚨 ⏰ Submission deadline: 10/16/2026 📣 Winners announced: 11/04/2026 🏆 Prize pool: $11,000",
+    "url": "https://nitter.net/drfeifei/status/2076729080679186849#m",
+    "source": "Fei-Fei Li (X)",
+    "source_zh": "李飞飞 Fei-Fei Li",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-13T18:02:51+00:00",
+    "content_snippet": "<p>1/N Long horizon, complex tasks that truly matter in everyday life are not solved problems by today’s robotics, requiring planning, object detection, object manipulation, and failure recovery.<br />\n<br />\nThat's why Stanford's BEHAVIOR Challenge is back for year 2! Last year, the winning solution reached only 12.4% full task success. This year, the BEHAVIOR challenge has more tasks, better evaluation, and is easier to use. 🚨<br />\n<br />\n⏰ Submission deadline: 10/16/2026<br />\n📣 Winners anno",
+    "title_zh": "斯坦福BEHAVIOR机器人挑战赛第二年回归，悬赏1.1万美元",
+    "summary_zh": "斯坦福大学的BEHAVIOR挑战赛第二年回归，旨在解决日常长周期复杂任务。去年获胜方案仅完成12.4%的任务，今年提供更多任务和更好评估，总奖池1.1万美元。",
+    "key_points": [
+      "挑战赛旨在解决机器人完成长周期复杂日常任务的难题",
+      "去年获胜方案的任务成功率仅为12.4%",
+      "比赛截止日期为2026年10月16日，奖池1.1万美元"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "50ee0b4631ad54eeeb80fa8a354df634",
+    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-13T18:00:00+00:00",
+    "content_snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,&#8230;",
+    "title_zh": "Anthropic最新AI发现揭示了什么，以及它的局限性",
+    "summary_zh": "全球估值最高的AI公司Anthropic因其奇特深奥的研究而闻名，MIT科技评论分析了其最新AI发现的实际意义和局限性，探讨了该研究对行业的影响。",
+    "key_points": [
+      "Anthropic以发布奇特而深奥的研究而闻名",
+      "文章分析了其最新AI发现的具体贡献和局限",
+      "Anthropic是全球估值最高的AI公司，估值近万亿美元"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4155314aa6a3cbc75c175477dbf78905",
+    "title": "Chain of Thought is a scaling trap. the next wave is latent reasoning (Coconut / HRM / RecrusiveMAS)... but then we hit the black box wall. Where does BDH fit? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uviru5/chain_of_thought_is_a_scaling_trap_the_next_wave/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-13T17:50:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Read a long piece on the future of LLM reasoning that makes a provocative claim: Chain of Thought is a useful hack but we've started to confuse a readable trace with the actual computation. All in all, &quot;generating text is not the same as thinking.&quot;</p> <p>There are two practical problems here:</p> <ol> <li><p>Faithfulness: CoT style traces can decouple from what the model actually &quot;did.&quot; u can get plausible steps with a wrong answer, or messy",
+    "title_zh": "思维链是扩展陷阱，下一波是潜在推理",
+    "summary_zh": "一篇关于LLM推理未来的文章提出，思维链只是有用的技巧，但人们已混淆了可读文本与实际计算。潜在推理（如Coconut）是下一波浪潮，但仍面临黑箱问题。",
+    "key_points": [
+      "观点认为思维链混淆了可读文本与真正的计算过程",
+      "潜在推理方法被认为是下一波浪潮",
+      "潜在推理方法面临黑箱问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0c938b2364f9e8ba5051246f560295dd",
+    "title": "The 'agent web' is coming — where AI agents talk directly to each other instead of scraping websites",
+    "url": "https://www.reddit.com/r/artificial/comments/1uviqvw/the_agent_web_is_coming_where_ai_agents_talk/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-13T17:49:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Something I've been thinking about a lot lately: right now, AI agents interact with the internet the same way humans do — clicking through UIs, parsing HTML, filling out forms. It's called &quot;computer use&quot; and it's incredibly inefficient.</p> <p>The next step is agent-native infrastructure — where agents communicate directly with each other through APIs and protocols like MCP, skipping the GUI entirely. Imagine your personal agent finding you a job, a co",
+    "title_zh": "“代理网络”即将到来：AI代理将直接相互对话",
+    "summary_zh": "文章探讨了AI代理交互的未来，认为当前AI通过模拟人类操作网页的方式效率低下。下一步将是“代理网络”，让AI代理之间直接通过API进行通信。",
+    "key_points": [
+      "当前AI代理模拟人类操作网页的方式效率低下",
+      "未来AI代理将直接通过API相互通信",
+      "这被称为“代理网络”，是AI交互的下一步"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8cae2fbb6ea916a09bee7c2c7d5abd9b",
+    "title": "Sol for web design:",
+    "url": "https://nitter.net/gdb/status/2076723486723371325#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-13T17:40:37+00:00",
+    "content_snippet": "<p>Sol for web design:</p>\n<hr />\n<blockquote>\n<b>Ahmed (@ahmedrann)</b>\n<p>\n<p>GPT 5.6 Sol is Insane for web designers!<br />\n<br />\nPrompt ↓</p>\n<a href=\"https://nitter.net/ahmedrann/status/2076611184179155113#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2076609707142426624%2Fimg%2FH8F_ih0mbt91_hwS.jpg\" />\n</a>\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/ahmedrann/status/2076611184179155113#m\">https://nitter.net/ahmedrann/status/2076611184179155113#m</",
+    "title_zh": "GPT 5.6 Sol在网页设计上表现出色",
+    "summary_zh": "Greg Brockman分享了一条推文，展示GPT 5.6 Sol模型在网页设计方面的惊人能力，用户通过一个提示词即可生成高质量的设计效果。",
+    "key_points": [
+      "GPT 5.6 Sol模型在网页设计领域展现强大能力",
+      "用户通过简单提示词即可生成高质量设计",
+      "该消息由OpenAI总裁Greg Brockman转发"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c0b352c36c1e4c8afda6f281b986ea53",
+    "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+    "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T17:28:37+00:00",
+    "content_snippet": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+    "title_zh": "Sam Altman对太空数据中心的嘲讽代表了多数专家的看法",
+    "summary_zh": "Sam Altman回应马斯克称其为“骗子”的指责，嘲讽马斯克向投资者兜售短期太空数据中心概念。文章指出，Altman的嘲讽其实反映了大多数专家的真实想法。",
+    "key_points": [
+      "Altman与马斯克就太空数据中心概念发生争执",
+      "Altman嘲讽马斯克在兜售不切实际的短期太空数据中心",
+      "文章认为多数专家与Altman持相同观点"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9a31955edf380832ef5618b103b3eaab",
+    "title": "Standard RL benchmarks are episodic and stationary, so they don't capture the the characteristics of real-world deployment. Morpheus is a new benchmark for continual learning that provides persistent simulation environments where the world never resets, objectives shift asynchronously, and decisions have compounding consequences. Nice work by Sam & team! Check out the paper - https://openreview.net/pdf?id=31P1VAfLkJ Platform website - https://morpheus.skyfall.ai/",
+    "url": "https://nitter.net/fchollet/status/2076719958189613307#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-13T17:26:36+00:00",
+    "content_snippet": "<p>Standard RL benchmarks are episodic and stationary, so they don't capture the the characteristics of real-world deployment. Morpheus is a new benchmark for continual learning that provides persistent simulation environments where the world never resets, objectives shift asynchronously, and decisions have compounding consequences. Nice work by Sam & team!<br />\n<br />\nCheck out the paper - <a href=\"https://openreview.net/pdf?id=31P1VAfLkJ\">openreview.net/pdf?id=31P1VA…</a><br />\nPlatform websi",
+    "title_zh": "Morpheus：一个为持续学习设计的新型RL基准",
+    "summary_zh": "François Chollet推荐了Morpheus，一个新型持续学习基准。它提供永不重置的持久模拟环境，目标异步变化，决策会产生连锁后果，更能反映现实世界部署。",
+    "key_points": [
+      "Morpheus基准提供永不重置的持久模拟环境",
+      "它旨在解决传统RL基准脱离现实世界的问题",
+      "该基准由Sam及其团队创建，论文已发布"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "02363c4035fb35c18717d4ad1e4bedb4",
+    "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
+    "url": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T17:18:25+00:00",
+    "content_snippet": "The biggest smartphone makers keep on trucking in the face of component shortages and economic uncertainty.",
+    "title_zh": "存储芯片短缺致智能手机出货量创新低，苹果三星受益",
+    "summary_zh": "在组件短缺和经济不确定性的双重压力下，智能手机出货量降至历史新低。但苹果和三星等头部厂商受到的影响较小，反而从中受益。",
+    "key_points": [
+      "存储芯片短缺导致智能手机出货量降至历史新低",
+      "苹果和三星等头部厂商在逆境中表现坚挺",
+      "经济不确定性加剧了智能手机市场的困境"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1a0cc6df9f96e3e0547ea6c8cdd26cf0",
+    "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+    "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T17:00:00+00:00",
+    "content_snippet": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses OpenAI of stealing confidential documents, spying on hardware prototypes, and tricking one of [&#8230;]",
+    "title_zh": "苹果起诉OpenAI案中的六大最疯狂指控",
+    "summary_zh": "The Verge梳理了苹果起诉OpenAI窃取商业机密案中的六大惊人指控，包括OpenAI硬件主管要求求职者携带其在苹果工作时参与的组件和未发布产品样品参加面试。",
+    "key_points": [
+      "OpenAI硬件主管被指控要求求职者携带苹果未发布产品样品",
+      "诉讼揭示了OpenAI被指控有组织地窃取苹果商业机密",
+      "案件凸显了AI人才挖角背后的知识产权冲突"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "df662aae8105e65e2398b17c06d09d03",
+    "title": "I use AI every day, and I think people are right to feel more anxious than excited about it",
+    "url": "https://www.reddit.com/r/artificial/comments/1uvgsms/i_use_ai_every_day_and_i_think_people_are_right/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T16:41:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>i use these tools literally all day (for better or worse, different conversation); i am far from anti-ai. but as they are becoming more useful, it's hard for me to think the anxiety around ai is people simply being afraid of new tech/change</p> <p>the more public opinion data i see, the more i feel validated on the feeling, anecdotally it's everywhere on my social feeds and personal life. plus, i was reading a survey about how americans feel about ai, and 61% sa",
+    "title_zh": "我每天都用AI，但我认为人们对它的焦虑多于兴奋是正确的",
+    "summary_zh": "一位AI重度用户分享观点：尽管他每天使用AI工具，但他认为公众对AI的焦虑并非源于对新技术或变革的恐惧，而是有更深刻的现实原因。",
+    "key_points": [
+      "AI日常使用者认为公众对AI的焦虑并非杞人忧天",
+      "随着AI工具变得更有用，其带来的现实问题愈发凸显",
+      "文章反驳了对AI的担忧仅仅是害怕新技术的观点"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "feb54c22800c52dcacd05c26235bc1a5",
+    "title": "Is there any kind of AI that could \"read\" huge loads of emails and give a \"mark\" according to a given expected result?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uvgqrn/is_there_any_kind_of_ai_that_could_read_huge/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-13T16:39:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am looking for an AI that is a reliable as possible that can do the following task</p> <p>Imagine that I have a lots of emails, hundreds of them. In the emails we asked to the addressees some questions and we expect a given answer. </p> <p>Imagine that the question is something like &quot;Given these reasons, do you think that ice cream is the best dessert in the world?&quot;</p> <p>And we expect some kind of reply that, no matter how it may be formulated, it ",
+    "title_zh": "是否有AI可以“阅读”大量邮件并根据预期结果进行“评分”？",
+    "summary_zh": "用户寻求一种可靠的AI工具，能够处理数百封邮件，理解其中向收件人提出的问题，并根据预设的期望答案对邮件回复进行自动评估和打分。",
+    "key_points": [
+      "需求：AI批量处理数百封邮件并理解提问内容",
+      "功能：根据预设的期望答案对邮件回复进行自动评分",
+      "寻求高可靠性的邮件内容评估AI解决方案"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
