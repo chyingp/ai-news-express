@@ -680,5 +680,105 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "881a676f236dad43e632b3311325d43a",
+    "title": "Sol Ultra for solving Erdős problems:",
+    "url": "https://nitter.net/gdb/status/2076799732736041284#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-13T22:43:36+00:00",
+    "content_snippet": "<p>Sol Ultra for solving Erdős problems:</p>\n<hr />\n<blockquote>\n<b>Przemek Chojecki | PC (@prz_chojecki)</b>\n<p>\n<p>GPT-5.6 Sol Ultra found me a solution to another Erdos problem not long after this one.<br />\n<br />\nProblem #793 asks about asymptotic of a 2-primitive set. GPT again came up with an extremely short and elegant construction that enhances original Erdos method used to prove a weaker result.</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/prz_chojecki/status/2076749164067565",
+    "title_zh": "Sol Ultra 用于解决 Erdős 数学问题",
+    "summary_zh": "GPT-5.6 Sol Ultra 模型再次找到 Erdős 问题的解决方案，特别是在 #793 问题上提供了关于 2-原始集渐近性质的解答。",
+    "key_points": [
+      "GPT-5.6 Sol Ultra 解决了 Erdős 数学问题",
+      "模型在 #793 问题上给出 2-原始集渐近解"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5e1882f7d121da923843f427c3e0e8c0",
+    "title": "Try out ChatGPT Sites, makes it way more fun to communicate things within a company:",
+    "url": "https://nitter.net/gdb/status/2076797035945308364#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-13T22:32:53+00:00",
+    "content_snippet": "<p>Try out ChatGPT Sites, makes it way more fun to communicate things within a company:</p>\n<hr />\n<blockquote>\n<b>jason (@jxnlco)</b>\n<p>\n<p>ChatGPT Sites is now in public beta.<br />\n<br />\nYou can turn a prompt, file, or rough idea into a dashboard, project tracker, report, prototype, or lightweight app:<br />\n<br />\nbuild and edit directly in ChatGPT Work or Codex<br />\ntest in a private preview publish and share with a URL<br />\n<br />\nRolling out across paid plans. Enterprise admins can co",
+    "title_zh": "ChatGPT Sites 公开测试版发布，让公司内部沟通更有趣",
+    "summary_zh": "ChatGPT Sites 现已进入公开测试阶段，用户可将提示、文件或想法快速转化为仪表板、项目追踪器、报告或原型，提升企业内部沟通效率。",
+    "key_points": [
+      "ChatGPT Sites 进入公开测试版",
+      "可将提示或文件转为仪表板、报告等内部工具"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "df76d7792ceb4caf8ffafe9f414c7571",
+    "title": "GPT-Live is a new level of experience:",
+    "url": "https://nitter.net/gdb/status/2076788812072820885#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-13T22:00:12+00:00",
+    "content_snippet": "<p>GPT-Live is a new level of experience:</p>\n<hr />\n<blockquote>\n<b>Kevin Lee (@kevinleeme)</b>\n<p>\n<p>New OpenAI GPT-live voice model feels light years ahead of the previous voice experience. Ran through a test exec coaching session during my morning workout and it was shockingly good. Listened intently, never cut me off, and responded within milliseconds.</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/kevinleeme/status/2076721279437279247#m\">https://nitter.net/kevinleeme/status/207672",
+    "title_zh": "GPT-Live 语音体验达到全新水平",
+    "summary_zh": "OpenAI 的新 GPT-Live 语音模型远超以往语音体验，在模拟高管辅导会话中表现出色，能倾听并给出高质量回应。",
+    "key_points": [
+      "GPT-Live 语音模型体验大幅提升",
+      "在模拟辅导会话中表现令人惊艳"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7f02a8e3192ab99d0632ce45926acb11",
+    "title": "Anthropic analyzed 300,000 real Claude conversations to measure its values. The findings are uncomfortable.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uvpob7/anthropic_analyzed_300000_real_claude/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-13T21:58:46+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uvpob7/anthropic_analyzed_300000_real_claude/\"> <img alt=\"Anthropic analyzed 300,000 real Claude conversations to measure its values. The findings are uncomfortable.\" src=\"https://preview.redd.it/dfpcm9p7k2dh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=29307d354546f08423de8c31eff23934a5f8bb06\" title=\"Anthropic analyzed 300,000 real Claude conversations to measure its values. The findings are uncomfortable.\" /> </a> </t",
+    "title_zh": "Anthropic 分析 30 万次 Claude 对话以衡量其价值观，结果令人不安",
+    "summary_zh": "Anthropic 对 30 万次真实 Claude 对话进行分析，以评估模型价值观表现，研究发现引发了关于 AI 安全与对齐的深入讨论。",
+    "key_points": [
+      "Anthropic 分析 30 万次 Claude 真实对话",
+      "研究结果揭示了 AI 价值观对齐的挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
