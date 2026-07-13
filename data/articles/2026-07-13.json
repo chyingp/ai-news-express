@@ -1385,5 +1385,313 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f517291764b46f05aeeba91027ff15e5",
+    "title": "苹果调整Mac芯片路线图，加速AI芯片研发",
+    "url": "https://36kr.com/newsflashes/3894068327759108?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-13T12:51:08+00:00",
+    "content_snippet": "当地时间7月12日，科技记者马克·古尔曼发文称，苹果正调整Mac芯片路线图，以适应AI发展需求。苹果将在今年秋季推出M6基础版芯片后，首次跳过M6 Pro、M6 Max和M6 Ultra等高端版本，直接推进M7系列研发，M7预计于2027年上半年发布，M7 Ultra将于2028年推出。据悉，M7 Ultra将大幅提升AI性能，目标接近英伟达Blackwell等专用AI加速器，并有望成为苹果下一代AI服务器芯片基础。此外，苹果已着手研发AI能力更强的M8及后续芯片，2028年产品将采用1.4纳米制程。（界面）",
+    "title_zh": "苹果调整Mac芯片路线图，加速AI芯片研发",
+    "summary_zh": "苹果将跳过M6 Pro/Max/Ultra，直接推进M7系列研发，M7 Ultra目标接近英伟达Blackwell AI加速器，并计划2028年采用1.4纳米制程。",
+    "key_points": [
+      "苹果跳过M6高端版本，直接研发M7芯片，预计2027年发布",
+      "M7 Ultra大幅提升AI性能，目标接近英伟达Blackwell",
+      "苹果已着手研发1.4纳米制程的M8及后续AI芯片"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "01abdafa2363169044d93fc462b6cfcf",
+    "title": "Does Claude need to see a psychiatrist?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uvac40/does_claude_need_to_see_a_psychiatrist/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-13T12:36:00+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uvac40/does_claude_need_to_see_a_psychiatrist/\"> <img alt=\"Does Claude need to see a psychiatrist?\" src=\"https://preview.redd.it/i5eo0xjhrzch1.png?width=140&amp;height=54&amp;auto=webp&amp;s=ba0cc17628f711e1fc972e1b53b075141e2edd77\" title=\"Does Claude need to see a psychiatrist?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Does Claude need to see a psychiatrist? See screenshot below</p> <p><a href=\"https://preview.re",
+    "title_zh": "Claude需要看心理医生吗？",
+    "summary_zh": "Reddit网友讨论AI模型Claude的行为表现，以戏谑方式探讨其是否需要心理治疗，反映了用户对AI互动体验的观察。",
+    "key_points": [
+      "Reddit用户以幽默方式讨论Claude的行为表现",
+      "帖子反映了用户对AI模型交互体验的日常观察"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4ffb30fb2adac1ef39cbcc2b51ab33d2",
+    "title": "How long until LLMs go direct to assembler, and the era where LLMs wrote code \"in languages\" for the convenience of humans .. is a quaint memory? Does anyone work in this field? Any experience? I would guess no later than the end of 2029, computer \"languages\" will be quaint history.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uvaajt/how_long_until_llms_go_direct_to_assembler_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-13T12:34:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&quot;I would guess no later than the end of 2029, computer &quot;languages&quot; will be quaint history.&quot; Your thoughts?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Select-View-4786\"> /u/Select-View-4786 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1uvaajt/how_long_until_llms_go_direct_to_assembler_and/\">[li",
+    "title_zh": "LLM何时直接编写汇编代码，编程语言将成历史？",
+    "summary_zh": "Reddit用户讨论大语言模型未来可能绕过高级编程语言，直接生成汇编代码，预测到2029年计算机语言将成为历史记忆。",
+    "key_points": [
+      "用户预测LLM将直接生成汇编代码，不再需要高级编程语言",
+      "讨论认为2029年前计算机语言可能成为历史"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0ac7f6a83c07156c2153e4e466aab8ec",
+    "title": "I built a full 3D open-world racing game almost entirely with AI, and it now has real daily players. Here's the honest breakdown of what the model nailed and where it completely fell apart.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uvaaf4/i_built_a_full_3d_openworld_racing_game_almost/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-13T12:33:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Not a hype post. I want to talk about where we actually are, because building a real, shipped, multiplayer-ish thing with AI taught me more about the current ceiling than any benchmark did.</p> <p>The project: a neon open-world street racer that runs in the browser, no install. Real 3D city you drive around, other live players on the road, a garage, an economy, the works. I directed it, but the overwhelming majority of the code was written by AI. It went from em",
+    "title_zh": "我用AI建造了一个3D开放世界赛车游戏，并拥有了真实玩家",
+    "summary_zh": "开发者分享几乎完全用AI构建3D浏览器赛车游戏的经历，详述模型在哪些方面表现出色，在哪些方面完全失败，揭示了AI当前的能力上限。",
+    "key_points": [
+      "开发者用AI从零构建3D赛车游戏，并吸引真实日常玩家",
+      "分享AI在游戏开发中的成功与失败之处，揭示当前技术天花板"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9b905ecd94cbe9d4281b8430ec09969b",
+    "title": "The Download: a donor conception cap and world models for AI",
+    "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm&#8230;",
+    "title_zh": "The Download：精子捐赠者上限与AI世界模型",
+    "summary_zh": "MIT科技评论的每日简报，涵盖欧洲生育组织建议限制精子捐赠者后代数量，以及AI世界模型的发展等话题。",
+    "key_points": [
+      "欧洲生育组织建议对精子捐赠者后代数量设限",
+      "另一话题涉及AI世界模型的技术进展"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f0dee59b85595ba849bfc6cb34cf5160",
+    "title": "英特尔宣布向爱尔兰工厂追加投资50亿欧元，扩大AI芯片产能",
+    "url": "https://36kr.com/newsflashes/3894027379899655?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-13T12:09:29+00:00",
+    "content_snippet": "英特尔7月13日宣布，将向爱尔兰莱克斯利普（Leixlip）园区追加投资50亿欧元（约57亿美元），扩大先进芯片制造能力，以满足人工智能和高性能计算需求。英特尔表示，此次投资将用于升级现有晶圆厂设施、安装先进制造设备，并扩建自动化生产系统，以提升Intel 3制程节点下Intel Xeon 6及下一代Xeon服务器处理器产能，同时扩大研发活动。（界面）",
+    "title_zh": "英特尔宣布向爱尔兰工厂追加投资50亿欧元，扩大AI芯片产能",
+    "summary_zh": "英特尔宣布向爱尔兰莱克斯利普园区追加50亿欧元投资，用于升级Intel 3制程设施，提升至强服务器处理器产能，以满足AI和高性能计算需求。",
+    "key_points": [
+      "英特尔追加57亿美元投资爱尔兰工厂，扩大AI芯片产能",
+      "资金用于升级Intel 3制程，提升至强服务器处理器生产"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "intel"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2cb125bd6d4a697def903b0fff7ef061",
+    "title": "Free AI visibility checker",
+    "url": "https://www.reddit.com/r/artificial/comments/1uv9p8n/free_ai_visibility_checker/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-13T12:07:11+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uv9p8n/free_ai_visibility_checker/\"> <img alt=\"Free AI visibility checker\" src=\"https://external-preview.redd.it/b21PxqndsyjnHNEzi3hOXHTiAp7DBpmtbiV820Mx4ro.png?width=140&amp;height=73&amp;auto=webp&amp;s=feea96f4f1a5b89dc87ebc349a21259232de50ba\" title=\"Free AI visibility checker\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"http://visibilitycheck.ai\">visibilitycheck.ai</a> allows to check your website's visi",
+    "title_zh": "免费AI可见性检查器",
+    "summary_zh": "Reddit上分享的一款免费AI可见性检查工具，用于分析内容在AI搜索引擎中的展示情况。",
+    "key_points": [
+      "帖子介绍了一款免费的AI可见性检查工具",
+      "工具用于分析内容在AI搜索引擎中的表现"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "274500db8805f10f023c0b55fe7e37ee",
+    "title": "Everyone keeps asking if AI will replace people. I think we’re asking the wrong question.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uv9l8w/everyone_keeps_asking_if_ai_will_replace_people_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T12:02:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For the last couple of years, the conversation has been almost entirely about replacing jobs.<br /> I’m starting to think that’s not the biggest shift.<br /> The bigger change may be that AI is quietly changing who gets to make decisions.<br /> When scheduling, pricing, hiring, customer support, logistics, and even research are increasingly influenced by AI systems, humans don’t necessarily disappear. Their role changes from making every decision to supervising ",
+    "title_zh": "大家总问AI是否会取代人类，我觉得我们问错了问题",
+    "summary_zh": "Reddit用户反思AI取代工作的讨论，认为真正的变革是AI正在悄然改变决策权的分配，影响调度、定价等环节由谁制定。",
+    "key_points": [
+      "用户认为AI的真正影响是改变决策权，而非仅取代工作",
+      "AI正悄然改变调度、定价等环节的决策制定者"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8e1951a51b6dd53b35bf058d1e6a0bc2",
+    "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
+    "url": "https://www.qbitai.com/2026/07/449311.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-13T11:59:57+00:00",
+    "content_snippet": "同时发布CPU原生液冷整机柜、多模融合超节点",
+    "title_zh": "浪潮信息发布液冷整机柜与多模融合超节点，单柜可养4万Agent",
+    "summary_zh": "浪潮信息发布CPU原生液冷整机柜，单柜支持4万个智能体运行，同时推出多模融合超节点，实现大模型组队答题。",
+    "key_points": [
+      "浪潮发布CPU原生液冷整机柜，单柜支持4万Agent",
+      "同步推出多模融合超节点，支持大模型协作答题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "inspur"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a7f3322a74eb55c2aa01f75d8dec1a4b",
+    "title": "阶跃发布大模型原生AI终端品牌STEPX及Step AOS",
+    "url": "https://36kr.com/newsflashes/3894017412726018?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-13T11:59:21+00:00",
+    "content_snippet": "36氪获悉，7月13日，阶跃星辰正式发布全球首个大模型原生AI终端品牌STEPX，并同步推出全球首个智能体原生操作系统Step AOS（Step Agentic-native OS）和阶跃新一代个人智能体阶跃Amoo。发布会现场，全球首款大模型原生智能体手机（Agentic Phone）STEPX Neo同步亮相。",
+    "title_zh": "阶跃星辰发布大模型原生AI终端品牌STEPX及操作系统",
+    "summary_zh": "阶跃星辰发布全球首个大模型原生AI终端品牌STEPX、智能体操作系统Step AOS和个人智能体Amoo，并亮相首款AI手机STEPX Neo。",
+    "key_points": [
+      "阶跃星辰发布AI终端品牌STEPX和智能体操作系统Step AOS",
+      "推出个人智能体Amoo和首款大模型原生手机STEPX Neo"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "474c04c41e280be7c088afceb1b1e36d",
+    "title": "李强主持召开经济形势专家和企业家座谈会",
+    "url": "https://36kr.com/newsflashes/3894003321093381?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-13T11:45:01+00:00",
+    "content_snippet": "中共中央政治局常委、国务院总理李强7月13日下午主持召开经济形势专家和企业家座谈会，听取对当前经济形势和下一步经济工作的意见建议。李强强调，做好下半年经济工作，直接关系全年发展目标实现，关系“十五五”良好开局。要按照党中央决策部署，保持高质量发展战略定力，加大逆周期调节力度，用好用足存量政策，预研储备增量政策，切实巩固拓展经济稳中向好态势。要系统施策释放内需潜力，抓好服务业扩能提质政策落实，扩大优质服务供给，加快培育消费新增长点。坚持投资于物和投资于人协同发力，着力推进重大基础设施网络建设，加强教育、培训等人力资本投入，完善医疗、养老、托育等公共服务，在改善民生中扩大内需。要推进新旧动能平稳接续转换，加快制造业数智化转型，推动先进制造业和现代服务业深度融合，促进人工智能等新技术规模化商业化应用，培育更多新产业新赛道。要深入做好稳就业稳企业工作，实施好稳岗扩容提质行动，积极拓展新职业新岗位，确保就业大局稳定。要及时回应企业关切，持续优化营商环境，注重用改革的办法激发市场活力，支持企业更好发展。（新华社）",
+    "title_zh": "李强主持召开经济形势专家和企业家座谈会",
+    "summary_zh": "国务院总理李强主持召开座谈会，强调要加大逆周期调节力度，用好存量政策并储备增量政策，巩固经济向好态势，并系统施策释放内需潜力，在改善民生中扩大内需。",
+    "key_points": [
+      "强调加大逆周期调节，用好存量、储备增量政策",
+      "提出系统施策释放内需潜力，培育消费新增长点",
+      "坚持投资于物与人协同发力，在改善民生中扩大内需"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fe6e21f5a3fa9b35a3ef4dc479ec8323",
+    "title": "胜宏科技：网络流传相关言论不属实，公司生产、出货一切正常",
+    "url": "https://36kr.com/newsflashes/3893994711071746?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-13T11:36:15+00:00",
+    "content_snippet": "36氪获悉，胜宏科技公告，近期，公司关注到网络平台上流传关于公司产品、市场份额、项目进展等负面传闻，内容严重失实，给公司带来较大的负面影响。经核实，公司针对网络平台流传事项澄清及声明如下：1.网络流传相关言论不属实。公司是国内外AI头部大客户的长期战略合作伙伴，胜宏科技始终将“品质”和“安全”视为企业的生命线，公司严格按照客户标准管理。2.当前，AI相关PCB产品需求旺盛，公司在手订单持续增长。公司生产、出货一切正常，头部客户订单持续增加。3.公司与核心客户保持密切沟通，与客户合作开发的研发迭代产品正顺利推进当中。部分客户已释放2027年—2028年长期需求，公司对后续生产经营及效益实现充满信心。",
+    "title_zh": "胜宏科技辟谣：AI业务订单增长，生产出货正常",
+    "summary_zh": "胜宏科技发布公告，澄清网络平台关于公司产品、份额的负面传闻失实，称公司是AI头部客户战略伙伴，AI相关PCB在手订单持续增长，头部客户已释放长期需求。",
+    "key_points": [
+      "公司辟谣网络负面传闻，称内容严重失实",
+      "AI相关PCB需求旺盛，在手订单及头部客户订单持续增长",
+      "与核心客户合作顺利，部分客户已释放2027-2028年长期需求"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0de7b8b069af8c5630b32ad801ef970a",
+    "title": "Doubt regarding TMLR[R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uv86op/doubt_regarding_tmlrr/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-13T10:53:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My TMLR paper was assigned to reviewers on <strong>April 23</strong>, and as of <strong>July 13</strong> I've received <strong>2 reviews</strong>, but the third is still pending. The discussion phase hasn't opened yet, so I can't respond to the existing reviews.</p> <p>Is this normal for TMLR, or is it reasonable to send the Action Editor a polite status email? asking for the 3rd review, apprecite the suggestions</p> </div><!-- SC_ON --> &#32; submitted by &#32;",
+    "title_zh": "关于TMLR[R]的疑问",
+    "summary_zh": "一位研究者在Reddit发帖称，其投给TMLR的论文自4月23日分配审稿人后，至今仅收到2份审稿意见，第3份尚未返回，且讨论阶段未开启，无法回复已有意见。",
+    "key_points": [
+      "投稿TMLR的论文等待近3个月，第3份审稿意见仍未返回",
+      "审稿讨论阶段尚未开启，作者无法回应已收到的2份审稿意见"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
