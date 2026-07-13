@@ -784,5 +784,77 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "cec90be74196d447f7c718961d07f7f6",
+    "title": "对话Om AI赵天成：多年坚守，押注物理AI原生的「流式」未来",
+    "url": "https://36kr.com/p/3893445208717826?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-07-13T02:39:18+00:00",
+    "content_snippet": "<p>一个从未见过监控画面的多模态模型，却比在监控数据上练了多年的小模型“老将”更懂监控。这不是科幻电影，这是2023年Om AI联汇的一场“无心插柳”，也是CEO兼首席科学家赵天成博士更加坚信“多模态训练方式能为物理开放世界带来泛化性”的关键节点。彼时，AI行业正在追求以大语言模型为核心的生成式AI。</p>\n  <p>三年后，这个多模态模型演变成了VLX——全球首个面向物理AI的端侧流式多模态模型系列。首次提出“端侧原生流式多模态”这一全新模型架构，而通过这个从Day 1为端侧算力约束设计的架构，VLX模型首次在端侧打通“持续感知+精准定位+行动决策”的物理AI完整闭环。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260713/v2_b00a13bf0a3f45a88d3d27c919ef4dd2@5925182_oswg753581oswg1080oswg652_img_000?x-oss-process=image/format,jpg/interlace,1\" /></",
+    "title_zh": "对话Om AI赵天成：多年坚守，押注物理AI原生的「流式」未来",
+    "summary_zh": "文章专访Om AI CEO赵天成，介绍其团队研发的全球首个面向物理AI的端侧流式多模态模型VLX，该模型在端侧算力约束下实现了持续感知、精准定位与行动决策的闭环，展现了物理AI的新路径。",
+    "key_points": [
+      "Om AI发布VLX，全球首个端侧流式多模态模型系列",
+      "VLX专为物理AI设计，首次在端侧打通感知-定位-决策闭环",
+      "CEO赵天成坚信多模态训练能为物理开放世界带来强泛化性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a421e790ebb852daa6da67e454f4b057",
+    "title": "高盛：AI或引爆美国通胀，存储暴涨是核心推手",
+    "url": "https://36kr.com/newsflashes/3893440881621760?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-13T02:12:52+00:00",
+    "content_snippet": "高盛最新研究表明，美国很可能将首当其冲地受到由人工智能（AI）引发的全球通胀浪潮的冲击。这家华尔街巨头对AI热潮如何推高全球消费者价格进行了分析。由于供应受限，内存芯片和半导体等关键零部件的价格被推高。高盛经济学家Megan Peters撰文指出，美国可能会遭受最严重的通胀冲击。根据高盛的估计，AI每年使美国核心个人消费支出（PCE）通胀率（美联储偏好的通胀指标）上升约20个基点。到今年年底，预计这股通胀压力将增加一倍以上，对核心PCE的推升幅度将达到50个基点。（财联社）",
+    "title_zh": "高盛：AI或引爆美国通胀，存储暴涨是核心推手",
+    "summary_zh": "高盛研究指出，AI热潮正通过推高内存芯片和半导体等关键零部件价格，引发全球通胀，预计美国受冲击最严重，AI相关因素每年将推升美国核心PCE通胀率约20个基点，年底或达50个基点。",
+    "key_points": [
+      "AI热潮导致存储和半导体零部件价格暴涨，推高通胀",
+      "高盛预计AI将使美国核心PCE通胀率到年底上升50个基点",
+      "美国因供应受限，将首当其冲遭受AI引发的通胀冲击"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5f5c340afd4df73f259e2f4a65568a92",
+    "title": "The Most Famous AI Writing Tic Is Also the Most Mysterious",
+    "url": "https://www.reddit.com/r/artificial/comments/1uuyhce/the_most_famous_ai_writing_tic_is_also_the_most/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-13T02:08:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uuyhce/the_most_famous_ai_writing_tic_is_also_the_most/\"> <img alt=\"The Most Famous AI Writing Tic Is Also the Most Mysterious\" src=\"https://external-preview.redd.it/lBEXzfLvl3XuTK9BHsht8fVSiyj6YDTqgZkevSSu91M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a91a32c72e7a0605b1a92f25b4543e02fa21f85f\" title=\"The Most Famous AI Writing Tic Is Also the Most Mysterious\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https:/",
+    "title_zh": "最著名的AI写作特征同样最为神秘",
+    "summary_zh": "文章探讨了AI写作中一种广为人知却原因不明的独特语言习惯或特征，该特征已成为识别AI生成文本的标志之一，但其产生的根本原因至今仍是一个谜团。",
+    "key_points": [
+      "AI写作中存在一种著名且神秘的语言特征或习惯",
+      "该特征被广泛用于识别AI生成文本，但其成因尚不明确",
+      "文章探讨了这一现象背后的技术谜团"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
