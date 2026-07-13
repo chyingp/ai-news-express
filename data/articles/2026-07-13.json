@@ -856,5 +856,271 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7538a1e27447ba1352b9f4ba11e5a8e3",
+    "title": "Prompt-engineering paper accepted to ICML [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uv1xb3/promptengineering_paper_accepted_to_icml_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-13T05:00:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&quot;<a href=\"https://arxiv.org/abs/2510.01171\">Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity</a>&quot;</p> <p>This paper was accepted to ICML this year. Its main idea is a very simple prompt-engineering trick: &quot;changing the prompt this way led to more diverse sampling&quot;. Naturally, it is difficult to provide a rigorous theoretical analysis for something like this.</p> <p>Even if it works, I’m not sure this kind of prompt ",
+    "title_zh": "提示工程论文被ICML接收",
+    "summary_zh": "一篇题为\"Verbalized Sampling\"的提示工程论文被顶级会议ICML接收。该方法通过简单修改提示词来缓解大语言模型的模式坍缩问题，提升输出多样性。",
+    "key_points": [
+      "论文提出名为\"Verbalized Sampling\"的提示工程技巧",
+      "该方法旨在缓解大模型模式坍缩并解锁多样性",
+      "该成果已被顶级学术会议ICML接收"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0623243de84db35f58fa4e3a480c6105",
+    "title": "AI潮玩品牌“珞博智能”完成亿元级Pre-A轮融资",
+    "url": "https://36kr.com/newsflashes/3893598367120129?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-13T04:59:02+00:00",
+    "content_snippet": "36氪获悉，近日，AI潮玩品牌珞博智能（Robopoet）正式宣布完成亿元级Pre-A轮融资。本轮融资由华映资本与广和通联合领投，涂鸦智能跟投，同时老股东红杉中国、金沙江创投持续加码跟投。",
+    "title_zh": "AI潮玩品牌“珞博智能”完成亿元级Pre-A轮融资",
+    "summary_zh": "AI潮玩品牌珞博智能完成亿元级Pre-A轮融资，由华映资本与广和通联合领投，涂鸦智能跟投，老股东红杉中国、金沙江创投持续加码。",
+    "key_points": [
+      "珞博智能完成亿元级Pre-A轮融资，用于AI潮玩业务",
+      "本轮由华映资本、广和通领投，多家机构跟投",
+      "资金将用于产品研发、团队扩张及市场拓展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6bad5b276dfe5b9957ce557f145e1456",
+    "title": "good use case!",
+    "url": "https://nitter.net/gdb/status/2076526047152292348#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-13T04:36:04+00:00",
+    "content_snippet": "<p>good use case!</p>\n<hr />\n<blockquote>\n<b>Pauline P. Narvas (@paw_lean)</b>\n<p>\n<p>Use <a href=\"https://nitter.net/ChatGPTapp\" title=\"ChatGPT\">@ChatGPTapp</a> Work for your most important tasks ⚽️</p>\n<img src=\"https://nitter.net/pic/media%2FHNAlFgaX0AAGS2O.jpg\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/paw_lean/status/2076200208560504904#m\">https://nitter.net/paw_lean/status/2076200208560504904#m</a>\n</footer>\n</blockquote>",
+    "title_zh": "Greg Brockman称赞ChatGPT Work为优秀用例",
+    "summary_zh": "OpenAI联合创始人Greg Brockman转发并称赞使用ChatGPT Work完成重要任务是一个优秀用例，表达了对该功能实用性的认可。",
+    "key_points": [
+      "OpenAI总裁Greg Brockman认为ChatGPT Work是优秀用例",
+      "该用例展示了用ChatGPT Work处理重要任务的可能性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ed1fc95fb1f6f47977022c6aaa328f24",
+    "title": "机器狗指挥人类用天平称重！清华现场演示：无脚本，任务随机，观众即兴出题",
+    "url": "https://www.qbitai.com/2026/07/448239.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-07-13T04:14:27+00:00",
+    "content_snippet": "从人类认知范式，构建Physical AGI",
+    "title_zh": "清华现场演示机器狗指挥人类称重：无脚本随机任务",
+    "summary_zh": "清华大学团队现场演示机器狗指挥人类合作完成天平称重任务，整个过程无预设脚本，任务随机生成，并可接受观众即兴出题，展示了Physical AGI的进展。",
+    "key_points": [
+      "清华团队实现机器狗在无脚本下指挥人类完成任务",
+      "演示支持观众即兴出题，展示强大泛化能力",
+      "该研究从人类认知范式出发，探索具身通用人工智能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "18c900e46f6d96e788bdb896aa7b6a5a",
+    "title": "The AI Workspace Hijack: Anatomy of the Jscrambler NPM Attack",
+    "url": "https://www.reddit.com/r/artificial/comments/1uv11sj/the_ai_workspace_hijack_anatomy_of_the_jscrambler/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T04:13:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Key takeaways in 90 seconds:</p> <p>Credential Theft: Attackers hijacked Jscrambler credentials on NPM to release versions 8.14.0 through 8.20.0 with malicious hooks.</p> <p>Rust Infostealer: The compromise uses an undocumented preinstall hook to execute a native, cross-platform Rust-based binary payload.</p> <p>AI Tool Targeting: The malware scans for local folder configurations of Cursor and Claude Desktop, harvesting API keys and developer history.</p> <p>Str",
+    "title_zh": "AI工作区劫持：Jscrambler NPM攻击事件剖析",
+    "summary_zh": "一篇分析文章揭示了针对NPM包Jscrambler的供应链攻击事件，攻击者通过盗取凭证发布恶意版本，利用Rust编写的窃密程序窃取AI开发者凭证等敏感信息。",
+    "key_points": [
+      "攻击者劫持Jscrambler NPM包发布带恶意钩子的版本",
+      "恶意代码通过预安装脚本执行原生Rust窃密程序",
+      "攻击目标为AI开发者的凭证和敏感数据"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "438611ea0d426d46e2bea0de1dce9d79",
+    "title": "ChatGPT Work is so good, very proud of the team and excited for people to explore what’s possible",
+    "url": "https://nitter.net/gdb/status/2076518764112445861#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-13T04:07:07+00:00",
+    "content_snippet": "<p>ChatGPT Work is so good, very proud of the team and excited for people to explore what’s possible</p>\n<hr />\n<blockquote>\n<b>Victor E. Nunez (@nunezvice)</b>\n<p>\n<p>a lot of people haven’t realized how much more capable Chat has become in the last few days<br />\n<br />\nhow much of Codex is now available directly inside <a href=\"https://nitter.net/ChatGPTapp\" title=\"ChatGPT\">@ChatGPTapp</a> on mobile and the web.<br />\n<br />\nthe Codex desktop app is great. I obviously live there.<br />\n<br />",
+    "title_zh": "Greg Brockman盛赞ChatGPT Work：为团队骄傲",
+    "summary_zh": "OpenAI联合创始人Greg Brockman在社交媒体上称赞ChatGPT Work非常出色，为团队感到骄傲，并期待用户探索其可能性，强调其能力大幅提升。",
+    "key_points": [
+      "OpenAI总裁Brockman高度评价ChatGPT Work产品",
+      "他表示Chat近期能力大幅提升，融合了Codex等能力",
+      "对团队成果表示自豪，并鼓励用户探索新功能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e19ce798ae29b2dc23c0df5f129642c6",
+    "title": "Look for a team to join ML/AI competition [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uv0crm/look_for_a_team_to_join_mlai_competition_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-13T03:39:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi folks,</p> <p>I am looking for research group or individuals that are interested in joining this competition. </p> <p>We can form a team.</p> <p><a href=\"https://aiboost-project.eu/ai-challenge-competition/\">https://aiboost-project.eu/ai-challenge-competition/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tony-Me1998\"> /u/Tony-Me1998 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/Machine",
+    "title_zh": "寻找团队参加ML/AI竞赛",
+    "summary_zh": "一位Reddit用户发帖寻找研究小组或个人加入其团队，共同参加由AI Boost项目举办的AI挑战赛。",
+    "key_points": [
+      "用户发帖寻找队友参加ML/AI竞赛",
+      "该竞赛由AI Boost项目组织"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "08178cc2af385c4b0cb047eb0cc250fa",
+    "title": "I accidentally created this",
+    "url": "https://www.reddit.com/r/artificial/comments/1uuzlfp/i_accidentally_created_this/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-13T03:01:40+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uuzlfp/i_accidentally_created_this/\"> <img alt=\"I accidentally created this\" src=\"https://preview.redd.it/82mzkfedxwch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7b062fb130ff0257be67479c4556fe61535d5c1\" title=\"I accidentally created this\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/mananmaroo/ai-bridge\">https://github.com/mananmaroo/ai-bridge</a></p> <p>A free, local desktop app t",
+    "title_zh": "我意外创作了这个",
+    "summary_zh": "一位Reddit用户在人工智能板块分享了一张自己意外用AI生成的图片，帖子内容主要为图片展示。",
+    "key_points": [
+      "用户分享了一张意外生成的AI图片"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b602cddce22a2e12c60230efb4cdc37d",
+    "title": "AI家庭智能硬件公司获数千万元融资，首款产品今年上线海外｜硬氪首发",
+    "url": "https://36kr.com/p/3879780282495236?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-13T03:00:00+00:00",
+    "content_snippet": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，威联机器人科技（深圳）有限公司（以下简称“MOVA LINCO”）近日完成数千万元天使融资。融资资金将主要用于AI算法底层技术研发、完善产品量产体系，以及全球化渠道布局和家庭AI生态的持续建设。</p>\n  <p>MOVA LINCO核心团队来自头部网络通信与智能硬件企业，在路由器、NAS存储及AI算力设备等方面拥有深厚的技术积累与产品经验。公司产品矩阵以AI智能语音路由器、AI NAS及AI算力盒子三大品类为核心，构建“连接+存储+算力”三位一体的家庭AI基础设施架构，覆盖从智能家居中枢、数据存储及本地算力分配等全场景需求，专注为全球用户提供智能化、主动化的家庭AI服务体验。</p>\n  <p>长期以来，路由器的定位颇为特殊。它在数字基础设施中承担着连接枢纽的关键职能，但又极少进入用户的日常感知。购置产品后，除短暂的配置环节外，这台设备常被隐藏在弱电箱或电视柜交流，极少能获取到用户的主动关注。但若出现网络中断，生活与工作的运转又会即刻受阻，其不可替代的刚需属性随即显现。</p>\n  <p>这种“不可或缺、却",
+    "title_zh": "AI家庭智能硬件公司“MOVA LINCO”获数千万元天使轮融资",
+    "summary_zh": "AI家庭智能硬件公司威联机器人科技完成数千万元天使轮融资，资金将用于AI算法研发、产品量产及全球化布局，其首款产品计划今年上线海外。",
+    "key_points": [
+      "MOVA LINCO获数千万元天使轮融资，主攻家庭AI硬件",
+      "首款产品计划今年在海外市场上线",
+      "核心产品矩阵包括AI智能语音路由器、AI NAS等"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b72e0f6bc505b593e9ca06bcf4abbe5d",
+    "title": "36氪首发 | 港中大博士、前大疆工程师创业消费级四足机器人，天使轮获正轩领投数千万元",
+    "url": "https://36kr.com/p/3893473722514181?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-13T02:47:38+00:00",
+    "content_snippet": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，深圳光之跃迁科技有限公司（Lumisition Robotics）（以下简称“光之跃迁”）近日完成近五千万元天使轮融资，由正轩领投，光点资本、力合资本、松禾资本、恒信未来等机构跟投。本轮资金将主要用于产品研发、算法迭代及量产准备。</p>\n  <p>光之跃迁成立于2026年2月，<strong>聚焦消费级四足机器人市场，</strong>希望以“全地形移动底盘”切入户外场景，解决搬运、辅助行动等体力劳动需求。公司<strong>瞄准拥有独栋住宅的欧美家庭、户外运动爱好者以及银发群体</strong>，希望让四足机器人从展示型产品转向具备实际生产力的消费级工具。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260713/v2_d215f32209b749f599d317139c067b8a@5920579_oswg919898oswg1080oswg593_",
+    "title_zh": "前大疆工程师创业，消费级四足机器人“光之跃迁”获数千万元天使轮融资",
+    "summary_zh": "前大疆工程师创立的消费级四足机器人公司光之跃迁完成近五千万元天使轮融资，由正轩资本领投，资金将用于产品研发、算法迭代及量产准备。",
+    "key_points": [
+      "港中大博士、前大疆工程师创立消费级四足机器人公司",
+      "光之跃迁完成近五千万元天使轮融资，由正轩领投",
+      "产品瞄准欧美家庭户外场景，用于搬运、辅助行动等"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "59bef3b04c1a2da4c228f52a379e91e3",
+    "title": "Is the \"J-Space\" an emergent feature, or a strategic response to optimization pressure?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uuz89v/is_the_jspace_an_emergent_feature_or_a_strategic/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-13T02:44:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Anthropic’s recent research on &quot;Verbalizable Representations&quot; ([<a href=\"https://transformer-circuits.pub/2026/workspace/index.html%5C%5D(https://transformer-circuits.pub/2026/workspace/index.html)\">https://transformer-circuits.pub/2026/workspace/index.html\\](https://transformer-circuits.pub/2026/workspace/index.html)</a>) provides a compelling look at the internal scratchpad of modern LLMs. They characterize this &quot;J-Space&quot; as a &quot;Global ",
+    "title_zh": "J-Space 是涌现特征，还是优化压力下的策略响应？",
+    "summary_zh": "文章探讨了Anthropic关于“可语言化表征”的最新研究，追问AI模型中的“J-Space”现象究竟是训练过程中自发涌现的深层特征，还是模型为应对优化目标而采取的一种策略性妥协。",
+    "key_points": [
+      "Anthropic研究揭示AI模型存在“可语言化表征”现象",
+      "核心讨论“J-Space”是涌现特征还是优化策略",
+      "成果发布在transformer-circuits.pub网站上"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
