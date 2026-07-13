@@ -563,5 +563,122 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f9022385c4a9dc4c0dbbd4006e20c4e5",
+    "title": "The future of AI in healthcare isn't a robot doctor. It's quieter than that.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uvp5k9/the_future_of_ai_in_healthcare_isnt_a_robot/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T21:39:20+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uvp5k9/the_future_of_ai_in_healthcare_isnt_a_robot/\"> <img alt=\"The future of AI in healthcare isn't a robot doctor. It's quieter than that.\" src=\"https://external-preview.redd.it/CyZCDJYJNq1yJob9isvHV0tb1wQBjr1GtHUII1vzbqU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=12a138a2b537e309d4aa5372315036f0be79101d\" title=\"The future of AI in healthcare isn't a robot doctor. It's quieter than that.\" /> </a> </td><td> &#32; subm",
+    "title_zh": "医疗保健中 AI 的未来并非机器人医生，而是更低调的存在",
+    "summary_zh": "文章探讨了 AI 在医疗领域的实际应用前景，指出真正的变革并非人形机器人医生，而是悄然融入诊断、流程优化等环节的辅助技术，目前更多是猜测性讨论。",
+    "key_points": [
+      "AI 在医疗中的实际应用更侧重于幕后流程优化",
+      "当前讨论多为对未来的展望而非已成现实"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3917d3b170f3e32332a29240354abb2e",
+    "title": "Satya Nadella has issued a shocking warning to companies using AI",
+    "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T20:59:00+00:00",
+    "content_snippet": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+    "title_zh": "萨提亚·纳德拉向使用 AI 的公司发出惊人警告",
+    "summary_zh": "微软 CEO 纳德拉警告称，AI 实验室销售专有模型的行为可能像特洛伊木马，引发硅谷对 AI 潜在风险的担忧，涉及企业数据安全和模型依赖问题。",
+    "key_points": [
+      "纳德拉警告 AI 模型销售可能隐藏特洛伊木马风险",
+      "硅谷担忧企业依赖专有模型带来的安全隐患"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "795b5c34bb1b38880d3684750c22aa19",
+    "title": "Siri AI is already changing how I use my iPhone",
+    "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-13T20:43:20+00:00",
+    "content_snippet": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the hype Apple promised in the keynote. This year's iOS upgrades are what one might call a Snow Leopard [&#8230;]",
+    "title_zh": "Siri AI 正在改变我使用 iPhone 的方式",
+    "summary_zh": "iOS 27 首个公测版发布，作者体验了 Siri AI 的新功能，认为其有望达到苹果承诺的预期，标志着苹果智能助手的重大升级。",
+    "key_points": [
+      "iOS 27 公测版发布，Siri AI 带来全新体验",
+      "新系统有望实现苹果在发布会上承诺的智能升级"
+    ],
+    "importance": 3,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3b849b3b9aaf9908c6e0c6dd905b5a06",
+    "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+    "url": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-13T20:41:26+00:00",
+    "content_snippet": "Ukraine’s drone blitz halted Russia’s Sea of Azov shipping in under a week.",
+    "title_zh": "乌克兰无人机袭击迫使俄罗斯停止关键海上走廊运输",
+    "summary_zh": "乌克兰的无人机袭击在一周内瘫痪了俄罗斯在亚速海的海上运输，展现了无人机在现代战争中的巨大影响力。",
+    "key_points": [
+      "乌克兰无人机袭击重创俄罗斯亚速海航运",
+      "无人机在军事冲突中展现出关键作用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6b5068db85cc51e73d5b0458274149fa",
+    "title": "sol for debugging laptop power issues:",
+    "url": "https://nitter.net/gdb/status/2076764438225621277#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-13T20:23:21+00:00",
+    "content_snippet": "<p>sol for debugging laptop power issues:</p>\n<hr />\n<blockquote>\n<b>vogel (@ryanvogel)</b>\n<p>\n<p>gpt 5.6 sol story of the day: <br />\n<br />\ni have a macbook connected and powered by a caldigit TS5<br />\n<br />\nit kept reconnecting randomly and it was pissing me off, i told sol to investigate and it found out that it would disconnect when power heavy GPU loads and the caldigit couldn't supply enough power<br />\n<br />\nsol created the hypothesis and proved it to me<br />\n<br />\nthen it told me ",
+    "title_zh": "使用 Sol 调试笔记本电脑电源问题",
+    "summary_zh": "用户分享使用 GPT 5.6 的 Sol 功能成功诊断 MacBook 连接 Caldigit TS5 扩展坞时反复断连的电源问题，展示了 AI 在技术故障排查中的实际应用。",
+    "key_points": [
+      "用户利用 AI 助手 Sol 成功诊断笔记本电脑电源故障",
+      "展示了 AI 在日常技术问题排查中的实用性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
