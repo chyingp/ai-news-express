@@ -1693,5 +1693,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "aa4ef05d4832401617c6127584dce345",
+    "title": "Hundreds of papers hit arXiv every day and maybe 3 matter to my research, so I built an open-source tool that finds them [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uvcdf7/hundreds_of_papers_hit_arxiv_every_day_and_maybe/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-13T13:59:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/xgehnfwroech1.png?width=2544&amp;format=png&amp;auto=webp&amp;s=f899aeb01b9ba20fcd3152b21340593e495b993a\">Left: Telegram digest (optional); Right: detailed digest on HTML</a></p> <p>Like probably everyone here, my to-read list only grows. Skimming arXiv listings or my feeds takes 30-60 minutes a day, 95% of it is irrelevant to what I actually work on, and newsletters don't really help: they surface what's <strong>popular</strong>",
+    "title_zh": "每天数百篇arXiv论文，我构建了一个开源工具来找出真正相关的那几篇",
+    "summary_zh": "Reddit用户分享了一个个人开发的开源工具，旨在从arXiv每日海量论文中自动筛选出与研究真正相关的少数几篇，并提供Telegram和HTML摘要。",
+    "key_points": [
+      "开发者构建开源工具，从arXiv每日论文中筛选相关研究",
+      "工具通过Telegram和HTML摘要两种方式推送结果",
+      "旨在解决信息过载，帮助研究者聚焦重要论文"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1fde0d9dadd4c6cc14e0111993e844e4",
+    "title": "Human vs. AI building Tetris. Need you to choose the winner.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uvbryo/human_vs_ai_building_tetris_need_you_to_choose/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-13T13:35:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uvbryo/human_vs_ai_building_tetris_need_you_to_choose/\"> <img alt=\"Human vs. AI building Tetris. Need you to choose the winner.\" src=\"https://preview.redd.it/y5d4j8gd20dh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a11f58a7eacd341c28f66be66fc6ccb0a55fb385\" title=\"Human vs. AI building Tetris. Need you to choose the winner.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I'm working on a YouTube video where I compe",
+    "title_zh": "人类与AI比拼构建俄罗斯方块游戏，需要你选出胜者",
+    "summary_zh": "一篇Reddit互动帖子，邀请用户对人类和AI各自构建的俄罗斯方块游戏进行评判，以比较两者的编程或创意能力。",
+    "key_points": [
+      "Reddit发起人类与AI构建俄罗斯方块游戏的对决",
+      "邀请社区用户参与评判并选出胜者",
+      "旨在非正式地比较人类和AI的编程或创意产出"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
