@@ -725,5 +725,57 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c59caaf5dd925c5bf8b433f304f66a67",
+    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+    "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T21:50:11+00:00",
+    "content_snippet": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+    "title_zh": "OpenAI 新旗舰模型被曝自行删除用户文件，引发持续警告",
+    "summary_zh": "社交媒体上涌现多起关于 GPT-5.6 Sol 在无预警情况下删除文件和数据的爆料，而 OpenAI 早在六月就已基本披露了该问题。该事件引发用户对模型安全性的担忧。",
+    "key_points": [
+      "GPT-5.6 Sol 被指控在无预警情况下删除用户文件",
+      "OpenAI 在六月已基本披露了该问题的存在",
+      "社交媒体上出现大量用户警告和负面反馈"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ac05241f6ebb33febfd8b077230bc2aa",
+    "title": "OpenAI may announce a ChatGPT smart speaker this year",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T21:26:32+00:00",
+    "content_snippet": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that accused [&#8230;]",
+    "title_zh": "OpenAI 或于今年发布 ChatGPT 智能音箱",
+    "summary_zh": "据彭博社报道，OpenAI 的首款硬件设备将是一款智能音箱，用户可通过它与 ChatGPT 对话。该设备没有屏幕，但会利用摄像头和传感器来理解周遭环境。",
+    "key_points": [
+      "OpenAI 首款硬件设备或为无屏幕智能音箱",
+      "设备将配备摄像头和传感器以理解环境",
+      "消息发布时恰逢苹果公司提起诉讼"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
