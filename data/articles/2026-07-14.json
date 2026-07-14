@@ -1981,5 +1981,235 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ec8bba0aae1ca79fa6abe7af352e220d",
+    "title": "Did you know the CEO of OpenAI owns nearly 9% of Reddit while Reddit bans users for AI generated content?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uw6sv6/did_you_know_the_ceo_of_openai_owns_nearly_9_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T12:06:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Something worth thinking about. According to Reddit's own IPO filings, Sam Altman, CEO of OpenAI and ChatGPT, controls 8.7% of Reddit stock including 9.3% of Class B shares, making him the third largest shareholder behind only Conde Nast and Tencent. He invested $60 million in Reddit in 2021 and sat on Reddit's board until 2022. His stake was worth approximately $1.4 billion as of late 2024.</p> <p>Meanwhile Reddit subreddits are actively banning users for AI ge",
+    "title_zh": "OpenAI CEO 持有 Reddit 近 9% 股份，Reddit 却封禁 AI 生成内容",
+    "summary_zh": "Reddit IPO 文件显示，OpenAI 及 ChatGPT 的 CEO Sam Altman 控制着 Reddit 8.7% 的股份，是第三大股东，仅次于康泰纳仕和腾讯。他此前投资了 6000 万美元。",
+    "key_points": [
+      "Sam Altman 控制 Reddit 8.7% 股份，为第三大股东",
+      "Reddit 在封禁 AI 生成内容的同时，其 CEO 大股东却来自 AI 公司",
+      "Altman 的投资引发了对 Reddit 内容政策与股东利益冲突的关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "334722d90197ccc25c552e2e654a473b",
+    "title": "阿里云：下调GLM-5.2 Fast mode模式价格",
+    "url": "https://36kr.com/newsflashes/3895419998668681?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-14T11:52:58+00:00",
+    "content_snippet": "36氪获悉，阿里云宣布，大模型服务平台百炼将于北京时间2026年7月15日00:00:00起，对GLM-5.2模型的Fastmode模式计费单价进行下调调整。",
+    "title_zh": "阿里云下调 GLM-5.2 Fast mode 模式价格",
+    "summary_zh": "阿里云宣布，自 2026 年 7 月 15 日起，其大模型服务平台百炼将对 GLM-5.2 模型的 Fastmode 模式计费单价进行下调调整。",
+    "key_points": [
+      "阿里云宣布下调 GLM-5.2 模型 Fastmode 模式计费单价",
+      "新价格将于 2026 年 7 月 15 日正式生效",
+      "降价旨在降低开发者使用大模型服务的成本"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "alibaba",
+      "zhipu"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "562480e6e6371bd0ffc97e7e9ea94aca",
+    "title": "智谱：英文名称变更为Z.AI Co., Ltd.",
+    "url": "https://36kr.com/newsflashes/3895422371481224?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-14T11:48:33+00:00",
+    "content_snippet": "36氪获悉，智谱在港交所公告，英文名称已由Knowledge Atlas Technology Joint Stock Company Limited变更为Z.AI Co., Ltd.。本公司的中文名称“北京智谱华章科技股份有限公司”将维持不变。",
+    "title_zh": "智谱英文名称变更为 Z.AI Co., Ltd.",
+    "summary_zh": "智谱在港交所公告，其英文名称由 Knowledge Atlas Technology Joint Stock Company Limited 正式变更为 Z.AI Co., Ltd.，中文名称保持不变。",
+    "key_points": [
+      "智谱英文名称变更为 Z.AI Co., Ltd.",
+      "中文名称“北京智谱华章科技股份有限公司”不变",
+      "此次更名反映了公司品牌向 AI 领域聚焦的战略"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "zhipu"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f3a882a7edeb807d27b79e58c0aa2e8d",
+    "title": "Google’s Demis Hassabis says it’s time for a global AI watchdog — led by the US",
+    "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T11:43:29+00:00",
+    "content_snippet": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US should lead the initiative, arguing that the country is the best place to set global standards \"given its economic [&#8230;]",
+    "title_zh": "Google DeepMind 负责人呼吁建立由美国主导的全球 AI 监管机构",
+    "summary_zh": "Google DeepMind 联合创始人 Demis Hassabis 发表博文，认为需要建立一个有权在 AI 前沿模型变得过于危险时按下暂停键的全球 AI 监管机构，且应由美国主导这一倡议。",
+    "key_points": [
+      "Hassabis 呼吁建立有权暂停危险 AI 模型的全球监管机构",
+      "他认为美国应带头制定全球 AI 标准",
+      "此举旨在应对前沿 AI 模型可能带来的安全风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f9ef4ce9e7b40c8950986570d8a95fbf",
+    "title": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
+    "url": "https://36kr.com/p/3895322613185543?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-14T11:21:42+00:00",
+    "content_snippet": "<h2>大公司：</h2>\n  <p><strong>中国神华：预计上半年净利润同比增长6.9%-21.1%</strong></p>\n  <p>36氪获悉，中国神华公告，预计2026年上半年归属于上市公司股东的净利润为263亿元至298亿元，同比增长6.9%-21.1%。业绩变动主要系煤化工业务量及自有铁路、港口、航运业务量增加，带动相关业务利润同比增长。</p>\n  <p><strong>中国人寿：预计上半年净利润同比增长约215%-235%</strong></p>\n  <p>36氪获悉，中国人寿公告，预计2026年半年度归属于母公司股东的净利润约1289.33亿元到1371.19亿元，同比增长约215%到235%。业绩变动主要系公司持续深化资产负债联动，优化资产配置，提升投资专业能力，取得良好投资业绩。</p>\n  <p><strong>光迅科技：预计上半年净利润同比增长50%-65.15%</strong></p>\n  <p>36氪获悉，光迅科技公告，预计2026年半年度归属于上市公司股东的净利润为5.59亿元-6.15亿元，同比增长50%-65.15%。报告期内，得益于全球",
+    "title_zh": "智谱完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作",
+    "summary_zh": "晚报涵盖多家公司动态：智谱通过配售新 H 股募资约 314 亿港元；荣耀与阿里巴巴将合作开发 AI 智能体终端；小米机器人首次在汽车工厂实现柔性工件的长时间作业。",
+    "key_points": [
+      "智谱完成配售新 H 股，募资约 314 亿港元",
+      "荣耀与阿里巴巴宣布开展 AI 智能体终端合作",
+      "小米机器人实现汽车工厂柔性工件的长时作业"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "zhipu",
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a4f0fa1fcaba9327b0711a4edf7e7190",
+    "title": "Meta expands colossal Hyperion AI supercluster plans to 5GW, pushes Louisiana investment past $50 billion as AI race accelerates — says it plans to invest over $1 billion in local infrastructure improvements",
+    "url": "https://www.reddit.com/r/artificial/comments/1uw5tms/meta_expands_colossal_hyperion_ai_supercluster/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T11:20:39+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uw5tms/meta_expands_colossal_hyperion_ai_supercluster/\"> <img alt=\"Meta expands colossal Hyperion AI supercluster plans to 5GW, pushes Louisiana investment past $50 billion as AI race accelerates — says it plans to invest over $1 billion in local infrastructure improvements\" src=\"https://external-preview.redd.it/fdeo_9q9h19mKdaB4AAyD-XORnqfUOmODVtw2jHj8Bk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=331f14051775b9e7b7e6",
+    "title_zh": "Meta 将其 Hyperion AI 超级计算机集群规模扩大至 5GW，路易斯安那州投资超过 500 亿美元",
+    "summary_zh": "Meta 宣布扩大其 Hyperion AI 超级计算机集群计划至 5 吉瓦，将其在路易斯安那州的投资推高至 500 亿美元以上，并计划在当地基础设施改善上投入超过 10 亿美元。",
+    "key_points": [
+      "Meta 将 Hyperion AI 超算集群规模扩大至 5GW",
+      "在路易斯安那州的总投资额超过 500 亿美元",
+      "Meta 还计划投入超 10 亿美元改善当地基础设施"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5313bbf9437bc8d76c31d7ae5881c3b7",
+    "title": "B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千",
+    "url": "https://www.qbitai.com/2026/07/449863.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-14T11:05:51+00:00",
+    "content_snippet": "",
+    "title_zh": "B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千",
+    "summary_zh": "B站 AI 创造公开赛正式上线投币榜，活动在一个月内吸引了超过五千名参赛者，展示了 AI 内容创作在视频社区的活跃度。",
+    "key_points": [
+      "B站 AI 创造公开赛正式上线投币榜",
+      "单月参赛人数突破五千，AI 创作热度高",
+      "活动促进了 AI 技术在视频创作领域的应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3a48d401699dfd52312151a2627aa21c",
+    "title": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
+    "url": "https://www.qbitai.com/2026/07/449850.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-14T11:04:17+00:00",
+    "content_snippet": "一套模型，三个世界",
+    "title_zh": "百年德国战车征服欧陆，驾驶位上是中国 AI 司机",
+    "summary_zh": "文章探讨了中国 AI 技术在德国百年企业中的应用，以“一套模型，三个世界”的理念，展示了中国 AI 如何赋能传统工业，助力其征服欧洲市场。",
+    "key_points": [
+      "中国 AI 技术赋能德国百年传统企业",
+      "以“一套模型，三个世界”理念驱动业务",
+      "展现了中国 AI 在海外工业领域的应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "86d68d5d9e4b24438d68c04f03a55534",
+    "title": "估值110亿美元，这家超级独角兽要帮初创公司从Day0走向全球",
+    "url": "https://36kr.com/p/3895355856403456?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-14T10:48:32+00:00",
+    "content_snippet": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260714/v2_e96c813c6e344327be8c7f02ba97a9ee@5722974_oswg297210oswg2378oswg1010_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p>凌晨三点，一家刚成立不久的AI创业公司，可能已经在同时服务旧金山的客户、采购首尔的技术服务，并与拉各斯的合作伙伴签下合同。这家公司甚至还没有招到第一名全职财务人员，业务却已经跨越多个市场、币种和监管辖区。&nbsp;</p>\n  <p>AI正在让这样的创业路径成为可能。过去需要市场、运营、客服等一整套全球化团队才能完成的工作，现在借助智能体就能承担相当一部分。新一代初创企业不必再按照“先站稳本土、再逐步出海”的传统顺序扩张，而可能从成立第一天起，就直接面对全球客户和供应商。</p>\n  <p>但当AI以足够快的速度跑在前面时，大多数企业的金融管",
+    "title_zh": "估值110亿美元，这家超级独角兽要帮初创公司从 Day 0 走向全球",
+    "summary_zh": "一家估值 110 亿美元的超级独角兽公司，致力于帮助 AI 初创公司从成立第一天起就能无缝服务全球客户，整合全球资源，实现全球化运营。",
+    "key_points": [
+      "估值 110 亿美元的超级独角兽公司专注服务初创企业",
+      "帮助 AI 初创公司从 Day 0 实现全球化运营",
+      "提供跨境服务、采购和合作伙伴对接等一站式支持"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
