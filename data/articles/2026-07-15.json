@@ -487,5 +487,243 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "11b4e7da525ee5042e44ddf57d3c7175",
+    "title": "hello!",
+    "url": "https://nitter.net/sama/status/2077118672150388816#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T19:50:57+00:00",
+    "content_snippet": "<p>hello!</p>\n<hr />\n<blockquote>\n<b>Tibo (@thsottiaux)</b>\n<p>\n<p>Hello. We have reached 8M active users across Codex and ChatGPT Work.<br />\n<br />\nWe are once again resetting the usage limits for all. And we continue to not have the 5h rate limit as well, allowing everyone to explore the boundaries of GPT-5.6 Sol and discover how ambitious you can be.<br />\n<br />\nSee you tomorrow for more updates on our growth!</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/thsottiaux/status/20771146",
+    "title_zh": "你好！",
+    "summary_zh": "Sam Altman 在 X 上简单打招呼，并转发 Tibo 的消息，宣布 Codex 和 ChatGPT Work 已突破 800 万活跃用户，将再次重置所有用户的使用限制。",
+    "key_points": [
+      "Codex 和 ChatGPT Work 活跃用户达 800 万",
+      "再次重置所有用户的使用限制"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9fd65f338ac2484ae453a62445af89b1",
+    "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+    "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T19:42:27+00:00",
+    "content_snippet": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall.",
+    "title_zh": "苹果通过 iOS 27 公测版向所有人开放全新 Siri AI",
+    "summary_zh": "苹果发布 iOS 27 公测版，让 iPhone 用户无需安装开发者测试版即可提前体验由 AI 驱动的全新 Siri 助手及其他新功能。",
+    "key_points": [
+      "iOS 27 公测版向所有用户开放",
+      "用户可提前体验 AI 驱动的全新 Siri"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "41138521bbab1050a0b5f401359e6027",
+    "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+    "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-14T19:39:39+00:00",
+    "content_snippet": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
+    "title_zh": "Hinge 创始人融资 1800 万美元打造 AI 约会服务 Overtone",
+    "summary_zh": "Hinge 创始人获得 1800 万美元融资，用于构建名为 Overtone 的新 AI 约会服务，该服务主打语音和音频优先的精选介绍。",
+    "key_points": [
+      "Hinge 创始人获 1800 万美元融资",
+      "新服务 Overtone 主打 AI 语音约会的精选介绍"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9dc0222d45c19f1cc7e86b09d61ffca0",
+    "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T19:25:00+00:00",
+    "content_snippet": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open [&#8230;]",
+    "title_zh": "SpaceXAI 的 Grok 编程工具曾上传用户整个代码库至云存储",
+    "summary_zh": "SpaceXAI 的 Grok Build AI 编码工具被曝会自动上传用户完整代码库至 Google Cloud，在遭到报告后，该公司已关闭该功能。",
+    "key_points": [
+      "Grok Build 工具被曝上传用户完整代码库",
+      "遭报告后 SpaceXAI 已关闭该功能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b2f9428f7f923c8ceaed476cdbeeb55e",
+    "title": "AI Made Cloning Games Easier Than Ever",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwikrh/ai_made_cloning_games_easier_than_ever/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T19:24:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uwikrh/ai_made_cloning_games_easier_than_ever/\"> <img alt=\"AI Made Cloning Games Easier Than Ever\" src=\"https://external-preview.redd.it/wbDqX8xhnIioPT7mewVpy5vQM46VnWFTSPBjcTd7TR0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac54b4f0c5d045b3cd837022274bdf1fd83d0295\" title=\"AI Made Cloning Games Easier Than Ever\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ThereWas\"> /u/ThereWas </a> ",
+    "title_zh": "AI 让克隆游戏变得前所未有的简单",
+    "summary_zh": "一篇 Reddit 讨论文章探讨人工智能技术如何极大降低了克隆和复制电子游戏的难度和门槛。",
+    "key_points": [
+      "AI 技术降低了游戏克隆的门槛"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3cd71e39141adb559a8e90fcfbcdee4e",
+    "title": "5.6 sol growth is insane. the inference team has done heroic work to be able to support demand. we are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
+    "url": "https://nitter.net/sama/status/2077106587307798989#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T19:02:55+00:00",
+    "content_snippet": "<p>5.6 sol growth is insane.<br />\n<br />\nthe inference team has done heroic work to be able to support demand.<br />\n<br />\nwe are going to move mountains to continue to scale, but it is possible there are some hiccups soon.</p>",
+    "title_zh": "5.6 倍增长惊人，推理团队努力满足需求",
+    "summary_zh": "Sam Altman 表示，某项服务实现了 5.6 倍的惊人增长，推理团队为满足需求付出了巨大努力，公司将继续全力扩展规模，但可能很快会出现服务中断。",
+    "key_points": [
+      "服务实现 5.6 倍惊人增长",
+      "推理团队努力满足需求，未来可能出现服务中断"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "26600920942455fc50003ce5149868a7",
+    "title": "lil botto, bottavius, and yung botto",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwhk3f/lil_botto_bottavius_and_yung_botto/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-14T18:46:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>i made my own SLLMs, i am 14 and it is on a shared family mac with no storage. of course they are shit currently but at the pace i'm improving them at they are going to be insane. Lil Botto is the scholar i train him on public domain books, articles, etc. Bottavius is the same but i like to test random bullshit on him, and for Yung Botto i will soon create a small robot body for him like a modified old toy and i will train him with this body too. any tips, sugge",
+    "title_zh": "小 Botto、Bottavius 和年轻 Botto",
+    "summary_zh": "一名 14 岁少年在 Reddit 分享了自己在家庭共享 Mac 上创建的小型语言模型，包括用于学术的 Lil Botto、用于编程的 Bottavius 和用于音乐的 Yung Botto。",
+    "key_points": [
+      "14 岁少年在家庭电脑上创建多个小型语言模型"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fb43c6e399a2b8aab83094d34ceaaa47",
+    "title": "How does a 102M-parameter transformer forecast multivariate time series?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwh9ko/how_does_a_102mparameter_transformer_forecast/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-14T18:36:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I recently worked through the architecture of t0-alpha, a 101.6M-parameter foundation model for time-series forecasting.</p> <p>The design choice I found most interesting is that it separates two kinds of reasoning:</p> <ul> <li><strong>Time attention</strong> learns how each variable evolves across time.</li> <li><strong>Group attention</strong> allows related variables to exchange information.</li> </ul> <p>The rest of the architecture, briefly:</p> <ul> <li>i",
+    "title_zh": "1.02 亿参数 Transformer 如何预测多变量时间序列？",
+    "summary_zh": "一篇 Reddit 技术文章探讨了名为 t0-alpha 的 1.016 亿参数时间序列预测基础模型，其通过将时间注意力和变量注意力分开来执行两种不同的推理。",
+    "key_points": [
+      "t0-alpha 模型拥有 1.016 亿参数",
+      "采用分离时间与变量注意力的独特设计"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "46faa28596ea41c1f04b2d27d63a2439",
+    "title": "Google faces another AI training lawsuit from major publishers",
+    "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T18:33:31+00:00",
+    "content_snippet": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+    "title_zh": "谷歌因 AI 训练再遭大型出版商起诉",
+    "summary_zh": "Hachette、Cengage 和 Elsevier 等大型出版商起诉谷歌，指控其在未经必要许可的情况下，使用受版权保护的作品训练其 AI。",
+    "key_points": [
+      "多家大型出版商联合起诉谷歌",
+      "指控谷歌未经许可使用版权作品训练 AI"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "73a91f78f0d63cd60e16bbe0c5d34ab1",
+    "title": "Apple just sued OpenAI for trade secret theft. And Google quietly rewrote how the internet works.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwh06x/apple_just_sued_openai_for_trade_secret_theft_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T18:27:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Two things happened this week that change something concrete for every business.</p> <p>Apple filed a lawsuit on July 10 accusing OpenAI of coordinated industrial espionage. This isn't abstract. According to the complaint, OpenAI's chief hardware officer Tang Tan, a 24-year Apple veteran, instructed job candidates still working at Apple to bring physical components to their interviews for &quot;show and tell&quot; sessions. A former Apple engineer who joined Ope",
+    "title_zh": "苹果起诉 OpenAI 窃取商业机密，谷歌悄然重写互联网运作方式",
+    "summary_zh": "一篇 Reddit 帖子讨论了两件大事：苹果起诉 OpenAI 涉嫌协同工业间谍活动窃取商业机密，以及谷歌悄然改变了互联网的运作方式。",
+    "key_points": [
+      "苹果指控 OpenAI 通过协同工业间谍活动窃取商业机密",
+      "涉及 OpenAI 前硬件主管 Tang Tan"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
