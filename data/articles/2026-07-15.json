@@ -247,5 +247,245 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c67514446841f397e9e38818aeed9a07",
+    "title": "The absolute nightmare of putting AI agents into actual production",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwg8kk/the_absolute_nightmare_of_putting_ai_agents_into/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-14T18:01:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It feels like the conversation around AI agents has quietly shifted over the last few months from &quot;look at what this autonomous loop can do&quot; to &quot;how do we actually keep these things from breaking in production.&quot; Most of us have figured out the build phase. You pick up a framework like LangGraph or CrewAI, connect a couple of tools and you have a prototype that looks incredible in a controlled environment but the moment you try to slide that i",
+    "title_zh": "将 AI 智能体投入实际生产的噩梦",
+    "summary_zh": "关于 AI 智能体的讨论已从展示其能力转向如何确保其在生产环境中稳定运行，大部分开发者已发现构建原型容易，但部署和维护生产级智能体极其困难。",
+    "key_points": [
+      "AI 智能体从原型到生产部署面临巨大挑战",
+      "行业焦点从能力展示转向稳定性与可靠性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8f95220027f2efa0dd15b4c87d47b107",
+    "title": "Ford replaced engineers with AI, then quietly hired 350 back. The reason should stop every founder about to cut their team to SAVE money.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwg31g/ford_replaced_engineers_with_ai_then_quietly/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-07-14T17:55:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I hate the &quot;I cut 60% of my team, AI runs the business now&quot; posts on LinkedIn.</p> <p>I believe if your first move with AI is &quot;how do I have fewer people,&quot; you probably had the wrong people to begin with.</p> <p>We only hear about the layoffs. The rehires happen quietly. Klarna cut 700 customer support reps, then rehired. Ford let engineers go, then brought 350 of them back.</p> <p>Same wall, both times. AI is only as good as the context you ",
+    "title_zh": "福特用 AI 取代工程师后又悄悄召回 350 人，此举应警示创始人们",
+    "summary_zh": "福特曾尝试用 AI 取代工程师，但随后又悄悄重新雇佣了 350 人，这一案例提醒创业公司，用 AI 完全取代团队以节省成本的做法可能行不通。",
+    "key_points": [
+      "福特用 AI 取代工程师后因效果不佳重新雇人",
+      "案例警示创业公司不应盲目用 AI 裁员"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "88334534a71cf39decde5d56d095add8",
+    "title": "I trained a vision-language model to play Snake, and so can you. [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uwfwbz/i_trained_a_visionlanguage_model_to_play_snake/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-14T17:49:30+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1uwfwbz/i_trained_a_visionlanguage_model_to_play_snake/\"> <img alt=\"I trained a vision-language model to play Snake, and so can you. [P]\" src=\"https://external-preview.redd.it/YWcAyMNI6jxa5S-SYFMgIq4qY5VYLAesOmSGvUtU3as.png?width=140&amp;height=70&amp;auto=webp&amp;s=247aa5820e62edcecbb91eb5a961e10ecb0ae66f\" title=\"I trained a vision-language model to play Snake, and so can you. [P]\" /> </a> </td><td> <!-- SC_OFF --><div",
+    "title_zh": "我训练了一个视觉语言模型来玩贪吃蛇，你也可以",
+    "summary_zh": "一篇项目分享，展示如何训练一个视觉语言模型来玩贪吃蛇游戏，并提供了详细的教程，让其他人也能复现该过程。",
+    "key_points": [
+      "展示训练视觉语言模型玩贪吃蛇的过程",
+      "提供可复现的教程和项目代码"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5531c5f6b4f63d45c86a52c039617a90",
+    "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+    "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T17:45:55+00:00",
+    "content_snippet": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+    "title_zh": "DeepMind CEO 呼吁建立独立标准机构监管前沿 AI",
+    "summary_zh": "DeepMind 首席执行官 Demis Hassabis 提议建立一个类似 FINRA 的 AI 标准机构，用于测试前沿模型并制定发布时的最佳实践。",
+    "key_points": [
+      "Demis Hassabis 呼吁建立独立 AI 标准机构",
+      "该机构将负责测试前沿模型和制定最佳实践"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b8f1a98b7805f2e53daea877a00be908",
+    "title": "[P] RL-training Qwen3.6 to RL-train tool using AI models [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uwfmfa/p_rltraining_qwen36_to_rltrain_tool_using_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-14T17:39:46+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1uwfmfa/p_rltraining_qwen36_to_rltrain_tool_using_ai/\"> <img alt=\"[P] RL-training Qwen3.6 to RL-train tool using AI models [P]\" src=\"https://preview.redd.it/hg7ww6ute8dh1.png?width=140&amp;height=75&amp;auto=webp&amp;s=d9c4aa6843cd8b9f2a480a97e0f8469ec80b4d41\" title=\"[P] RL-training Qwen3.6 to RL-train tool using AI models [P]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>👋 Training my first RL model last year was",
+    "title_zh": "使用强化学习训练 Qwen3.6 以强化学习训练工具",
+    "summary_zh": "一个项目分享，展示如何使用强化学习方法来训练 Qwen3.6 模型，使其能够利用 AI 模型进行工具使用相关的强化学习训练。",
+    "key_points": [
+      "使用 RL 训练 Qwen3.6 模型掌握工具使用",
+      "涉及 AI 模型辅助的强化学习训练方法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "729bc486f471c3a11d9986fa4bd34b06",
+    "title": "Meta accused of using biased AI targeting for mass layoffs",
+    "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-07-14T17:18:11+00:00",
+    "content_snippet": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a \"constellation\" of internal AI tools, [&#8230;]",
+    "title_zh": "Meta 被指控使用有偏见的 AI 进行大规模裁员",
+    "summary_zh": "26 名前 Meta 员工起诉公司，指控其使用 AI 工具不公平地针对休假的员工进行裁员，这些工具基于“星座”般的绩效数据来决定裁撤人选。",
+    "key_points": [
+      "前员工起诉 Meta 使用 AI 不公平裁员",
+      "指控 AI 基于绩效数据针对休假员工"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "92e8b8cd489df8c40b6b470ebfbd6cd1",
+    "title": "Structured output reliability with LLMs — 3-month production learnings",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwe9qp/structured_output_reliability_with_llms_3month/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-14T16:51:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been shipping structured JSON output from LLMs in production for a health app. Here's what I've learned about reliability.</p> <p>The problem: get a 70B model to return valid JSON matching a strict schema, every time.</p> <p>What I tried:</p> <p>Attempt 1: &quot;Return JSON.&quot; No schema. 40% valid output.</p> <p>Attempt 2: Detailed schema in prompt. 75% valid.</p> <p>Attempt 3: JSON mode enabled (Groq/OpenAI/Anthropic all support). 92%.</p> <p>Attempt 4: JSO",
+    "title_zh": "大语言模型结构化输出的可靠性：三个月生产环境经验总结",
+    "summary_zh": "分享在健康应用中让 70B 大语言模型生成严格符合 JSON 模式的结构化输出的生产经验，总结了多种尝试方案及可靠性方面的教训。",
+    "key_points": [
+      "分享 70B 模型生产环境生成结构化 JSON 的经验",
+      "总结了多种提高模型输出可靠性的方法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e7dde5e071b02b6f3abf217a2b770e05",
+    "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+    "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T16:45:13+00:00",
+    "content_snippet": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain knowledge and exceeding standards for accuracy and trust.",
+    "title_zh": "Nemotron 实验室：开放模型如何为企业与国家提供可信、可控、可定制的 AI",
+    "summary_zh": "英伟达博客介绍其 Nemotron 开放模型，强调企业需要的 AI 应能独特地满足业务需求，包括改进工作流程、利用领域知识并超越准确性和信任标准。",
+    "key_points": [
+      "英伟达推广 Nemotron 开放模型",
+      "强调开放模型为企业提供可信、可控、可定制的 AI"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0efd80d1295d176f3ad547380fb60517",
+    "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+    "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-07-14T16:22:15+00:00",
+    "content_snippet": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+    "title_zh": "Meta 高管称工程师的 AI 代币预算可能很快会设上限",
+    "summary_zh": "Instagram 负责人 Adam Mosseri 认为，公司最终需要像管理工资一样管理 AI 代币支出，并预测工程师使用 AI 工具的费用很快会面临限制。",
+    "key_points": [
+      "Meta 高管预测将限制工程师的 AI 代币预算",
+      "AI 工具使用成本将像运营费用一样被管理"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "78db2ba452ff2198110f5d111add9e89",
+    "title": "All cross thread implementation of memory in chatgpt, claude, and gemini is unsafe",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwdc0k/all_cross_thread_implementation_of_memory_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-14T16:18:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Your grandpa opens an AI app on his tablet. Type &quot;I need some help with my medication, <strong>I'm allergic to</strong>&quot; and he gets distracted and hits submit.</p> <p>He gets up to go to the bathroom. There, he takes a picture of all his medication, <strong>opens his AI app on his tablet</strong> and types into the input box: &quot;which of these are safe for me to take?&quot;. His AI chat will say something like &quot;I'm not sure. You just told me y",
+    "title_zh": "ChatGPT、Claude 和 Gemini 的所有跨线程记忆实现都是不安全的",
+    "summary_zh": "指出主流 AI 聊天机器人的跨线程记忆功能存在安全隐患，通过一个老人在不同对话中透露药物过敏信息的例子，说明这种设计可能导致隐私泄露。",
+    "key_points": [
+      "指出 ChatGPT、Claude、Gemini 的记忆功能存在安全漏洞",
+      "跨线程记忆可能导致用户隐私泄露"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
