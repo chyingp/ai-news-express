@@ -1375,5 +1375,253 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d32427ce8db64c2daa72f6bdc2d5b1b8",
+    "title": "RnD on AI Security and Monitoring",
+    "url": "https://www.reddit.com/r/artificial/comments/1uvzj9w/rnd_on_ai_security_and_monitoring/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-14T05:27:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>I am a senior software engineer eith expertise in cloud and cybersecurity. I have done some projects in AI as well.</p> <p>I have seen companies face issue with misuse of AI systems and extended use of AI can pose a security risk as well.</p> <p>I am thinking about creating a tool either for AI monitoring or security. Focusing on use of AI agents and tools internally. </p> <p>I am looking for people who have hands-on experience with AI and are interes",
+    "title_zh": "AI安全与监控研发讨论",
+    "summary_zh": "一位资深软件工程师在Reddit发起关于AI安全与监控的讨论，指出企业面临AI系统滥用和AI使用带来的安全风险问题。",
+    "key_points": [
+      "企业面临AI系统滥用和扩展使用的安全风险",
+      "资深工程师发起AI安全与监控研发方向讨论",
+      "聚焦云和网络安全与AI的交叉领域"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e428ad0cbeb66695b119721fa17fefd7",
+    "title": "B站AI创造公开赛投币榜上线",
+    "url": "https://36kr.com/newsflashes/3894986255744001?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-14T04:24:54+00:00",
+    "content_snippet": "36氪获悉，7月14日，哔哩哔哩（简称“B站”）正式上线“build in bilibili · AI创造公开赛”作品投币入围榜。数据显示，启动仅一个月，大赛投稿创作者已接近5000人，站内“vibe coding”相关关键词的日均搜索量飙升6倍。尤为值得关注的是，目前投币榜前十名中，约半数为粉丝量不过万、且无专业开发经验的UP主，另有两到三个席位由创业团队占据。",
+    "title_zh": "B站AI创造公开赛投币榜上线",
+    "summary_zh": "B站上线AI创造公开赛作品投币入围榜，一个月内吸引近5000名创作者投稿，vibe coding日均搜索量飙升6倍，前十名中约半数为非专业开发者。",
+    "key_points": [
+      "B站AI创造公开赛启动一个月吸引近5000名创作者",
+      "vibe coding相关关键词日均搜索量飙升6倍",
+      "投币榜前十名中约半数为粉丝不过万的非专业UP主"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "52c03a6ccc3c2b4405096a3545c8af97",
+    "title": "🎁36氪放福利啦！体验10秒，即可免费抽AirPods 4、Redmi手环、超人帆布包！",
+    "url": "https://36kr.com/p/3894914381970438?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-14T04:21:11+00:00",
+    "content_snippet": "<h3><strong>无门槛参与，所有微信用户都可以免费抽奖！</strong></h3>\n  <p>只需打开微信，扫描下方二维码进入抽奖链接，浏览10秒<strong>36氪企业全情报</strong>，<strong>任意订阅一家企业</strong>，即可获得抽奖资格。</p>\n  <p>无需付费，无需任何额外操作，简单体验即可参与，<strong>AirPods 4、Redmi手环3、36氪限定超人帆布包</strong>等好礼随机送出，人人都有机会中奖！</p>\n  <p>&nbsp;</p>\n  <p><strong>直接扫描下方二维码即可参与，或直接点击参与：</strong><a href=\"https://wxmpurl.cn/KEeJSzRvNFr\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>https://wxmpurl.cn/KEeJSzRvNFr</strong></a></p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/",
+    "title_zh": "36氪放福利：体验10秒免费抽奖",
+    "summary_zh": "36氪推出微信抽奖活动，用户浏览企业全情报10秒并订阅一家企业即可免费参与抽奖，奖品包括AirPods 4和Redmi手环等。",
+    "key_points": [
+      "36氪推出无门槛微信抽奖活动",
+      "用户浏览企业情报10秒即可参与抽奖",
+      "奖品包括AirPods 4和Redmi手环等"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "068d36a342b208f3f81e68d8693047a2",
+    "title": "How many on-the-fly augmentations per image for a single-class segmentation mode [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uvxt70/how_many_onthefly_augmentations_per_image_for_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-14T03:58:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m training a single-class segmentation model for large rectangular artwork placed on the floor and photographed from above.</p> <p>We have around 3,000 accurately masked original images taken by six different photographers. They are not the same height and do not hold the camera in exactly the same way, so the photos naturally vary in:</p> <ul> <li>roll</li> <li>pitch</li> <li>yaw</li> <li>camera distance</li> <li>object coverage in the frame</li> <li>centerin",
+    "title_zh": "单类分割模型每张图像应使用多少实时增强",
+    "summary_zh": "Reddit用户询问训练单类分割模型时，每张图像应使用多少实时增强技术，该模型用于识别地板上的大型矩形艺术品。",
+    "key_points": [
+      "训练单类分割模型用于识别地板上矩形艺术品",
+      "数据集包含3000张由6位摄影师拍摄的精确掩码图像",
+      "讨论实时数据增强的最佳数量"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d6b24e4198233b0c956f44a9942c5288",
+    "title": "GPT-5.6 is now generally available on Bedrock:",
+    "url": "https://nitter.net/gdb/status/2076878421314195745#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-14T03:56:16+00:00",
+    "content_snippet": "<p>GPT-5.6 is now generally available on Bedrock:</p>\n<hr />\n<blockquote>\n<b>AWS Newsroom (@AWSNewsroom)</b>\n<p>\n<p>GPT-5.6 Sol, Terra, and Luna from <a href=\"https://nitter.net/OpenAI\" title=\"OpenAI\">@OpenAI</a> are now generally available on Amazon Bedrock. Three tiers of intelligence, from flagship reasoning to fast inference, running on Bedrock's next-generation inference engine built for high-performance, security, scale, and reliability.  <a href=\"https://go.aws/4wkhHNX\">go.aws/4wkhHNX</a>",
+    "title_zh": "GPT-5.6在Amazon Bedrock上正式可用",
+    "summary_zh": "OpenAI的GPT-5.6系列模型（Sol、Terra、Luna）已在Amazon Bedrock平台上全面可用，提供三个智能层级供用户选择。",
+    "key_points": [
+      "GPT-5.6 Sol、Terra、Luna三款模型上线Amazon Bedrock",
+      "提供从旗舰到轻量级的三个智能层级",
+      "此次发布由Greg Brockman转发确认"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c8fafd654c3ddcbfdc310b4d680ed498",
+    "title": "Inside Ghostcommit: How Malicious PNGs Bypass AI Code Reviewers",
+    "url": "https://www.reddit.com/r/artificial/comments/1uvxqg5/inside_ghostcommit_how_malicious_pngs_bypass_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-14T03:54:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Key takeaways in 90 seconds:</p> <p>Multimodal Vulnerability: Ghostcommit is a novel supply chain exploit targeting AI coding tools with vision capabilities.</p> <p>The Payload Split: The attack uses a two-file payload. A text-based rule file (like AGENTS.md) instructs the AI to read a PNG asset (such as build-spec.png) containing rendered text instructions.</p> <p>Bypassing Reviewers: Automated code review tools (like CodeRabbit) fail to scan the pixels of bina",
+    "title_zh": "Ghostcommit揭秘：恶意PNG如何绕过AI代码审查",
+    "summary_zh": "Ghostcommit是一种新型供应链攻击，利用恶意PNG图像和文本规则文件，绕过具有视觉能力的AI代码审查工具。",
+    "key_points": [
+      "Ghostcommit利用多模态漏洞攻击AI编码工具",
+      "攻击使用双文件载荷：文本规则文件和恶意PNG",
+      "属于针对AI视觉能力的新型供应链攻击"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8ca885b789e028f5d9c33e0b12e005b6",
+    "title": "荣耀与阿里将开展AI智能体终端合作",
+    "url": "https://36kr.com/newsflashes/3894943679167744?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-14T03:41:36+00:00",
+    "content_snippet": "荣耀将于7月18日在2026世界人工智能大会举办“从数字屏幕到具身智能——物理世界新范式”分论坛。除之前已官宣的世界著名科技未来学家凯文·凯利外，阿里巴巴集团副总裁、ATH事业群Token Foundry多模态交互负责人许主洪的加入，也引发了业界对后续各方合作的猜想。记者从荣耀和阿里内部渠道获悉，双方将官宣重磅合作，联手方向极有可能是下一代终端操作系统 Agentic OS 的落地实践。据此前公开消息，本次论坛将聚焦AI的智能度和生命感，探讨从“工具”到“伙伴”的 Agentic OS 趋势演进。（财联社）",
+    "title_zh": "荣耀与阿里将开展AI智能体终端合作",
+    "summary_zh": "荣耀与阿里巴巴将在世界人工智能大会上官宣重磅合作，联手方向极有可能是下一代终端操作系统Agentic OS的落地实践。",
+    "key_points": [
+      "荣耀与阿里巴巴将在WAIC上宣布AI智能体终端合作",
+      "合作方向可能为下一代Agentic OS操作系统落地",
+      "阿里巴巴集团副总裁许主洪将出席分论坛"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba",
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b8c6b75593900803f0dcdc752f6c5c3c",
+    "title": "36氪首发 | 浙大系桌面CNC团队获商汤国香、首形科技等近亿元天使轮，要用AI技术降低制造门槛",
+    "url": "https://36kr.com/p/3894935854677249?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-14T03:34:12+00:00",
+    "content_snippet": "<p>作者&nbsp;|&nbsp;张子怡</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，桌面级CNC（数控机床）企业「奇塑科技」于近期完成近亿元人民币天使轮融资。本轮融资由商汤国香、首形科技、全新世、奇绩创坛共同投资。本轮资金将主要用于桌面级CNC软硬件产品的研发、量产以及后续的市场营销。</p>\n  <p>在消费级3D打印机和激光雕刻机已完成大众市场教育，并诞生了诸如拓竹、xTool等多个头部企业后，能够实现“从软材到硬材强三维加工”的CNC产品，被视为消费级制造领域的下一片万亿蓝海。</p>\n  <p>早在2018年行业普遍聚焦3D打印赛道时，奇塑科技团队就已将目光投向CNC领域。在创始人夏楠看来，CNC是制造业最基础、通用性最强的加工方式，覆盖的场景比3D打印更广，拥有万亿级的产业底盘；如果能用AI重构CNC的制造范式、降低门槛，将进一步拓宽CNC的使用场景，甚至下沉到普通用户的桌面端。这会改变全社会的生产模式，释放极大的增量价值。</p>\n  <p>当前，市面上已涌现出数家消费级CNC初创公司，资本也争相涌入。企业共同面临的问题是：如何降",
+    "title_zh": "浙大系桌面CNC团队获商汤国香等近亿元天使轮融资",
+    "summary_zh": "桌面级CNC企业奇塑科技完成近亿元天使轮融资，由商汤国香、首形科技等投资，资金将用于产品研发和量产，旨在用AI降低制造门槛。",
+    "key_points": [
+      "奇塑科技完成近亿元天使轮融资",
+      "投资方包括商汤国香、首形科技和奇绩创坛",
+      "资金用于桌面级CNC软硬件产品研发和量产"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3375a9b288dd7c2c3354f92e9af237da",
+    "title": "高德发布通用世界模型工坊ABot-World Studio",
+    "url": "https://36kr.com/newsflashes/3894929146149893?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-14T03:26:49+00:00",
+    "content_snippet": "36氪获悉，近日，阿里巴巴集团旗下高德正式发布通用世界模型工坊ABot-World Studio，并同步开放测试。该工坊将交互式视频生成与3DGS场景生成统一在同一产品中——用户只需输入一段文字或一张图片，即可生成一个可实时交互、任意分享的AI世界，输出结果可保存为视频与3DGS文件。",
+    "title_zh": "高德发布通用世界模型工坊ABot-World Studio",
+    "summary_zh": "高德正式发布通用世界模型工坊ABot-World Studio，用户输入文字或图片即可生成可实时交互的AI世界，支持输出视频和3DGS文件。",
+    "key_points": [
+      "高德发布ABot-World Studio，统一交互式视频和3D场景生成",
+      "用户输入文字或图片即可生成可交互AI世界",
+      "输出结果可保存为视频与3DGS文件"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1445c1679aea2caf383e41435d752f4a",
+    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+    "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T02:46:42+00:00",
+    "content_snippet": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+    "title_zh": "为何上一波科技赢家正再次投身创业",
+    "summary_zh": "TechCrunch分析上一波科技行业的成功者为何再次创业，原因包括对错失AI重要时刻的恐惧和赚取更多财富的诱惑。",
+    "key_points": [
+      "上一波科技赢家因害怕错过AI机遇而再次创业",
+      "赚取更多财富的诱惑也是重要驱动力",
+      "文章探讨了科技行业成功者的再创业现象"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
