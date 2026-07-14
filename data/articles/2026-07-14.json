@@ -1623,5 +1623,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2826f6b54ad6dbcd5be81d886b43c50f",
+    "title": "入局自动驾驶？字节回应：没有做智能驾驶业务计划",
+    "url": "https://36kr.com/newsflashes/3895190727064578?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-14T07:52:54+00:00",
+    "content_snippet": "日前，有消息称，字节跳动正探索进入自动驾驶领域。对此，字节跳动方面回应称：“字节在AI大模型前沿探索领域，包括物理AI领域，有很多早期研究和探索，但并没有做智能驾驶业务的计划。”（上证报）",
+    "title_zh": "入局自动驾驶？字节回应：没有做智能驾驶业务计划",
+    "summary_zh": "字节跳动回应传闻，称公司在AI大模型前沿探索领域包括物理AI有早期研究，但并无进入智能驾驶业务的计划。",
+    "key_points": [
+      "字节跳动否认进入自动驾驶领域的传闻",
+      "公司表示在物理AI领域有早期研究和探索",
+      "明确没有做智能驾驶业务的计划"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "bytedance"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5a86ed225d9d2daa600ebf02e9cb225e",
+    "title": "The first AI was a syllogism machine in 1956. We're still building the same thing.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uw23qw/the_first_ai_was_a_syllogism_machine_in_1956_were/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-14T07:52:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I read about Logic Theorist recently — program from 1956 that proved mathematical theorems using formal deduction. AI community celebrated it as beginning of real intelligence. Seventy years later, I think we are still stuck on same mistake.</p> <p>The problem is not mechanism. Problem is assumption that mechanism is sufficient. Expert systems, neural networks, language models — all are syllogism machines wearing different costumes. They manipulate patterns (for",
+    "title_zh": "第一台AI是1956年的三段论机器，我们至今仍在犯同样的错误",
+    "summary_zh": "文章回顾1956年的逻辑理论家程序，认为AI领域从那时起就陷入了过度依赖形式化演绎的误区，至今未变。",
+    "key_points": [
+      "1956年的逻辑理论家标志着AI的开端",
+      "作者认为AI领域长期陷入形式化演绎的误区",
+      "七十年后这一根本问题仍未解决"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "185f78749a191cb5d6dc3ea14ac602ef",
+    "title": "FOSS NotebookLM connected to Reddit,YT,Google,IG,Tiktok",
+    "url": "https://www.reddit.com/r/artificial/comments/1uw1zym/foss_notebooklm_connected_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-14T07:45:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>NotebookLM is one of the best and most useful AI platforms out there, but once you start using it regularly you also feel its limitations leaving something to be desired more.</p> <ol> <li>There are limits on the amount of sources you can add in a notebook.</li> <li>There are limits on the number of notebooks you can have.</li> <li>You cannot have sources that exceed 500,000 words and are more than 200MB.</li> <li>You are vendor locked in to Google services (LLM",
+    "title_zh": "开源版NotebookLM，现已支持连接Reddit、YouTube等多平台",
+    "summary_zh": "一款开源替代NotebookLM的工具发布，突破了原版对来源数量的限制，并可连接Reddit、YouTube、Google、Instagram和TikTok等平台。",
+    "key_points": [
+      "开源替代品解决了NotebookLM的来源数量限制",
+      "支持连接Reddit、YouTube、TikTok等多个社交平台",
+      "旨在提升研究过程中的信息聚合能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fad73f895159040eefb6ae414e41f87b",
+    "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+    "url": "https://www.qbitai.com/2026/07/436498.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-14T05:33:28+00:00",
+    "content_snippet": "180家企业携成果入驻",
+    "title_zh": "2026年世界人工智能大会，7月17-7月20上海举办",
+    "summary_zh": "2026年世界人工智能大会将于7月17日至20日在上海举行，届时将有180家企业携最新成果参展。",
+    "key_points": [
+      "大会将于7月17日至20日在上海举办",
+      "180家企业将展示最新AI成果",
+      "是行业内重要的年度盛会"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
