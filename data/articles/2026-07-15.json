@@ -777,5 +777,104 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6527853e0a2fb9bb98c88d8f3b11c841",
+    "title": "Context bombs: Exploiting AI Guard Rails as a defense against AI Attacks",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwncbm/context_bombs_exploiting_ai_guard_rails_as_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术社区",
+    "language": "en",
+    "published": "2026-07-14T22:23:13+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uwncbm/context_bombs_exploiting_ai_guard_rails_as_a/\"> <img alt=\"Context bombs: Exploiting AI Guard Rails as a defense against AI Attacks\" src=\"https://external-preview.redd.it/vxWOJ8hc9MEa3_2CZ1qvcSez7JQWBZ3_1GiZfr1PLd8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b89115a424d5f08c6617a2dfa27c179ec3c23dce\" title=\"Context bombs: Exploiting AI Guard Rails as a defense against AI Attacks\" /> </a> </td><td> &#32; submitted b",
+    "title_zh": "上下文炸弹：利用AI护栏作为对抗AI攻击的防御手段",
+    "summary_zh": "该Reddit帖子探讨了一种名为",
+    "上下文炸弹": ",新概念,",
+    "即利用AI自身的安全护栏机制来抵御针对AI系统的攻击，将防御策略转化为一种主动反击手段。  ,": "研究论文",
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "becee1c630114a062397e92afd3b4932",
+    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+    "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T22:22:24+00:00",
+    "content_snippet": "OpenAI's first hardware device is reported to be a screenless, AI-guided smart speaker that can move. Weird enough for you?",
+    "title_zh": "OpenAI首款硬件设备据称是无屏幕可移动智能音箱",
+    "summary_zh": "据报道，OpenAI的首款硬件产品是一款无屏幕、由AI驱动的智能音箱，且具备移动能力，标志着该公司正式进军消费硬件领域。",
+    "key_points": [
+      "OpenAI首款硬件是AI驱动的可移动智能音箱",
+      "该设备没有屏幕，设计可能较为奇特",
+      "标志着OpenAI从软件模型向消费硬件市场拓展"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a708c7931fbda6bf8fc149dfdf427476",
+    "title": "Microsoft’s Secure Boot has been broken for a decade and no one noticed until now",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T22:20:48+00:00",
+    "content_snippet": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
+    "title_zh": "微软安全启动机制存在长达十年的漏洞",
+    "summary_zh": "安全研究人员发现，微软的安全启动功能因未被废除的旧版“填充程序”而存在严重漏洞，在过去十年间可被轻易绕过，但直到现在才被发现。",
+    "key_points": [
+      "微软未废除的旧版程序导致安全启动可被绕过",
+      "该漏洞已存在长达十年之久",
+      "这对依赖安全启动的系统构成严重潜在威胁"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3b5a63d55d8698985f394347f6a4d0d5",
+    "title": "OpenAI pushes back on Apple trade secret lawsuit",
+    "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T22:07:42+00:00",
+    "content_snippet": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+    "title_zh": "OpenAI驳回苹果的商业机密诉讼",
+    "summary_zh": "OpenAI对苹果公司提起的商业机密诉讼作出回应，发表声明称该诉讼缺乏法律依据，态度强硬地予以回击。",
+    "key_points": [
+      "OpenAI正式回应苹果的商业机密诉讼",
+      "声明暗示诉讼缺乏依据，反驳指控",
+      "这是两家科技巨头间法律纠纷的最新进展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
