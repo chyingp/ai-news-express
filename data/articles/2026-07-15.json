@@ -1,0 +1,251 @@
+[
+  {
+    "id": "fb5962266eef2053d0e0a72c442eb9fb",
+    "title": "The AI job interview has spawned its own industry",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwcvmm/the_ai_job_interview_has_spawned_its_own_industry/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T16:02:36+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uwcvmm/the_ai_job_interview_has_spawned_its_own_industry/\"> <img alt=\"The AI job interview has spawned its own industry\" src=\"https://external-preview.redd.it/eelQJYYoqUrPQs3m1qKD2bNj-rnQDkQjXlufv4PPjE8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc9d9fb7270064b1d3c2e766f4f2ac3a78f9e8b2\" title=\"The AI job interview has spawned its own industry\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/u",
+    "title_zh": "AI 求职面试催生了一个新行业",
+    "summary_zh": "随着越来越多公司使用 AI 进行求职面试，围绕如何应对 AI 面试官的培训、工具和咨询服务正在形成一个新产业，帮助求职者提升通过率。",
+    "key_points": [
+      "AI 面试普及催生针对性的求职辅导产业",
+      "新工具和服务旨在帮助求职者应对 AI 评估",
+      "反映了人机交互在招聘领域的深度渗透"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4c650ca55ce6568fd29bd450272483a3",
+    "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+    "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T16:00:00+00:00",
+    "content_snippet": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+    "title_zh": "谷歌图片重新设计，类似 Pinterest 聚焦发现功能",
+    "summary_zh": "谷歌图片搜索迎来重大改版，新增基于用户兴趣和浏览历史的“为你推荐”图片流，风格类似于 Pinterest，旨在增强内容发现体验。",
+    "key_points": [
+      "谷歌图片新增个性化推荐信息流",
+      "改版旨在提升用户内容发现和浏览时长",
+      "界面风格向 Pinterest 靠拢"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ba404d530787f3a06839e19385d2db31",
+    "title": "Spotify is now an AI chatbot, too",
+    "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T15:47:36+00:00",
+    "content_snippet": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot by typing your request in the [&#8230;]",
+    "title_zh": "Spotify 现在也是一个 AI 聊天机器人了",
+    "summary_zh": "Spotify 正在测试一项名为“与 Spotify 对话”的 AI 功能，允许 Premium 用户通过聊天对话的方式探索和播放音乐、有声书和播客内容。",
+    "key_points": [
+      "Spotify 测试 AI 聊天机器人交互界面",
+      "用户可通过对话搜索和播放音频内容",
+      "该功能面向 Premium 用户开放"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "324d8bda23070351832bc0943ea7f56d",
+    "title": "Open Source Local LLM Training Tool (for consumer hardware)",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwcah2/open_source_local_llm_training_tool_for_consumer/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-14T15:41:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>If you work in AI training, I'd love some feedback, specifically on where this is useful, not on the output quality (it's bad, and that's expected at the 800m param stage). If that's your area, I want to hear what models you'd want trained and what data would be worth visualizing.</p> <p>Fair warning up front: this is technical and geared toward people working in the AI training space.</p> <p>I've been building a tool that lets you train LLMs on consumer hardwar",
+    "title_zh": "面向消费级硬件的开源本地 LLM 训练工具",
+    "summary_zh": "Reddit 用户发布了一款开源工具，旨在让普通用户也能在消费级硬件上训练大型语言模型，目前工具处于早期阶段，输出质量有待提升，作者正在寻求反馈。",
+    "key_points": [
+      "开源工具降低 LLM 训练硬件门槛",
+      "目前仅支持 8 亿参数级别的小模型训练",
+      "项目处于早期阶段，寻求社区反馈和改进方向"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b1314e493abc418b79ba827ba3467870",
+    "title": "New LLM Coordination Benchmark - Benchmarking Open-Ended Multi-Agent Coordination in Language Agents [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-14T15:37:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>Can LLM agents coordinate in long-horizon, open-ended worlds?</strong></p> <p>We evaluate 13 modern LLMs in a new benchmark where agents must work together to explore, communicate, trade resources, craft tools, build structures, and fight mobs.</p> <p><strong>TL;DR</strong>: Most agents struggle, averaging only ~6% normalised return. Yet on the hardest setting, zero-shot Gemini 3.1 Pro performs comparably to the best MARL agent trained for 1 billion envi",
+    "title_zh": "新 LLM 协调基准测试：评估语言智能体的多智能体协作",
+    "summary_zh": "研究人员发布了一项新基准测试，评估 13 个现代 LLM 在开放世界中进行长期多智能体协调的能力，任务包括探索、交流、交易资源、建造和战斗。",
+    "key_points": [
+      "新基准测试评估 LLM 在复杂环境中的协作能力",
+      "包含 13 个模型的测试结果显示协作挑战",
+      "任务涉及开放式世界中的资源管理与建造"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1bd918d46b0aa50772f25bbfcb56df1e",
+    "title": "ChatGPT just proved another 50-year-old math conjecture",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwc023/chatgpt_just_proved_another_50yearold_math/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-14T15:31:03+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uwc023/chatgpt_just_proved_another_50yearold_math/\"> <img alt=\"ChatGPT just proved another 50-year-old math conjecture\" src=\"https://external-preview.redd.it/_atWBDD-3Pg0PW3NCEI59RS0EDwPi6UY5haqiJoMczc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=221dfe8a0ece313f4e0ef371dbb120c0132f6ae0\" title=\"ChatGPT just proved another 50-year-old math conjecture\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit",
+    "title_zh": "ChatGPT 再次证明了一个 50 年前的数学猜想",
+    "summary_zh": "ChatGPT 在数学领域取得新进展，成功证明了一个存在 50 年之久的数学猜想，展示了 AI 在高级推理和理论数学研究中的潜力。",
+    "key_points": [
+      "ChatGPT 成功证明一个 50 年未解的数学猜想",
+      "凸显 AI 在理论数学和高级推理上的能力",
+      "这是 AI 在数学证明领域的又一里程碑"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d1f7cc71f9498ee06997233a1af62970",
+    "title": "Concerning.",
+    "url": "https://nitter.net/sama/status/2077053140508266710#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T15:30:33+00:00",
+    "content_snippet": "<p>Concerning.</p>\n<hr />\n<blockquote>\n<b>Hari (@hrkrshnn)</b>\n<p>\n<p>SpaceXAI was caught uploading your code to its cloud.<br />\n<br />\nI reversed xAI's official Grok Build binary. In a controlled session with zero tool-calls, it uploaded the complete codebase to xAI's storage<br />\n<br />\nIt ships a malware-like background code collector.</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/hrkrshnn/status/2076716354754015368#m\">https://nitter.net/hrkrshnn/status/2076716354754015368#m</a>\n</",
+    "title_zh": "令人担忧：xAI 的 Grok 被指在会话中上传用户代码",
+    "summary_zh": "开发者声称 xAI 的 Grok 构建工具在无指令的受控会话中，将完整代码库上传至 xAI 云端。OpenAI CEO Sam Altman 对此评论“令人担忧”，引发对 AI 安全和隐私的讨论。",
+    "key_points": [
+      "xAI 的 Grok 工具被指暗中上传用户代码",
+      "Sam Altman 公开回应，暗示事件严重性",
+      "事件引发对 AI 开发工具隐私安全的担忧"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "xai",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "10b1c5e9cf4f8f61dbd9d3b66541e1c5",
+    "title": "New York State halts construction of all new data centers",
+    "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T15:17:59+00:00",
+    "content_snippet": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
+    "title_zh": "纽约州叫停所有新数据中心的建设",
+    "summary_zh": "纽约州成为美国首个暂时停止批准新建大型数据中心的州，理由是 AI 驱动的建设热潮不应以牺牲电力成本、水资源和地方控制权为代价。",
+    "key_points": [
+      "纽约州因能源和水资源担忧暂停数据中心审批",
+      "此举直接针对 AI 驱动的基建扩张",
+      "成为美国首个叫停数据中心建设的州"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a013e50012cc5c048928e6af2c6b6e16",
+    "title": "Linux Foundation's latest foray is to standardize internet-native payments for AI agents",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwbd3e/linux_foundations_latest_foray_is_to_standardize/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T15:07:54+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uwbd3e/linux_foundations_latest_foray_is_to_standardize/\"> <img alt=\"Linux Foundation's latest foray is to standardize internet-native payments for AI agents\" src=\"https://external-preview.redd.it/aP58lRt9ClfdbJWynIfamit5YZdD5Aa3UL7wtd6x6Eo.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0fb2188a391607e05141d5936bc4501eb5b1b1c0\" title=\"Linux Foundation's latest foray is to standardize internet-native payments for AI agents",
+    "title_zh": "Linux 基金会着手标准化 AI 智能体的互联网原生支付",
+    "summary_zh": "Linux 基金会启动新项目，旨在为 AI 智能体之间的互联网原生支付制定标准，以解决自主 AI 程序在交易和支付方面的互操作性问题。",
+    "key_points": [
+      "Linux 基金会推动 AI 智能体支付标准制定",
+      "旨在解决自主 AI 程序间的交易和互操作性",
+      "项目聚焦互联网原生支付基础设施"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b966f6e35c9aae7dc1bc316a480f6c21",
+    "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+    "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-14T15:00:20+00:00",
+    "content_snippet": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for AI factories.  As agentic AI drives token demand [&#8230;]",
+    "title_zh": "为何每瓦性能是 AI 基础设施效率的终极指标",
+    "summary_zh": "英伟达博客发文强调，在算力即生产力的时代，每瓦性能是衡量 AI 工厂收入和盈利能力的核心指标，无法被操纵，只能通过真实世界的结果来赢得。",
+    "key_points": [
+      "英伟达强调每瓦性能是 AI 基础设施效率的关键",
+      "该指标直接决定 AI 工厂的营收和利润",
+      "功率限制是 AI 发展不可回避的物理约束"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
