@@ -2283,5 +2283,271 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "97bc42984b6e6e8e208ca7cfa9704cb2",
+    "title": "this is a thoughtful proposal from demis:",
+    "url": "https://nitter.net/sama/status/2077042528906527225#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T14:48:23+00:00",
+    "content_snippet": "<p>this is a thoughtful proposal from demis:</p>\n<hr />\n<blockquote>\n<b>Demis Hassabis (@demishassabis)</b>\n<p>\n<hr />\n<b>Article</b><br />\n<a href=\"https://nitter.net/i/article/2076957440109625718\">\n<img src=\"https://nitter.net/pic/media%2FHNLLt2GXMAAAPF0.jpg\" />\n<br />\n<b>A Framework for Frontier AI and the Dawning of a New Age</b>\n</a>\n<p>This is a pivotal moment in human history. Artificial General Intelligence (AGI), a system that exhibits all the cognitive capabilities the brain has, is pr",
+    "title_zh": "Demis 提出了一项深思熟虑的提案",
+    "summary_zh": "Sam Altman 转发 Demis Hassabis 关于前沿 AI 框架的提案文章，认为其内容深思熟虑，值得关注。",
+    "key_points": [
+      "Sam Altman 公开称赞 Demis Hassabis 的前沿 AI 框架提案",
+      "提案涉及前沿 AI 发展的框架性思考"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "62bbd5184b02cf83dad060bb4de29654",
+    "title": "Reflection inks $1B compute deal with Nebius",
+    "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-14T14:37:48+00:00",
+    "content_snippet": "Reflection AI has signed a $1 billion deal to access Nebius's compute. Reflection was founded in 2024 and is developing open source AI technology.",
+    "title_zh": "Reflection AI 与 Nebius 签署 10 亿美元算力协议",
+    "summary_zh": "Reflection AI 与 Nebius 达成价值 10 亿美元的算力合作，以支持其开源 AI 技术研发，Reflection 成立于 2024 年。",
+    "key_points": [
+      "Reflection AI 获 10 亿美元算力支持",
+      "该公司专注于开源 AI 技术开发"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e4624a4e18abcd53f1b070999a6b2344",
+    "title": "this would have been a whole startup not too long ago",
+    "url": "https://nitter.net/sama/status/2077037818824843719#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T14:29:40+00:00",
+    "content_snippet": "<p>this would have been a whole startup not too long ago</p>\n<hr />\n<blockquote>\n<b>Thijs (@cdngdev)</b>\n<p>\n<p>i gave 5.6 sol access to my camera roll and had it extract pictures of every piece of clothing i own from my photos<br />\n<br />\nthen, told it to find new outfits for me and render them on me with gpt-image!<br />\n<br />\nits kinda cool to see your entire wardrobe in a collection like this</p>\n<a href=\"https://nitter.net/cdngdev/status/2076812846793650485#m\">\n<br />Video<br />\n  <img sr",
+    "title_zh": "AI 技术与个人照片结合，自动生成穿搭方案",
+    "summary_zh": "Sam Altman 转发用户案例，展示用 GPT-5.6 sol 从相机胶卷提取衣物信息并生成穿搭渲染图，感叹 AI 进步之快。",
+    "key_points": [
+      "GPT-5.6 sol 可分析用户照片并生成穿搭建议",
+      "Sam Altman 认为此类功能过去需一家初创公司实现"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ba5da232ba35ba8c6714d37d041bb72a",
+    "title": "GPT-5.6 sol is half the price and ~twice as token efficient as fable in many cases for accomplishing the same task. happy to deliver at one-quarter of the price.",
+    "url": "https://nitter.net/sama/status/2077036999303999910#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-14T14:26:24+00:00",
+    "content_snippet": "<p>GPT-5.6 sol is half the price and ~twice as token efficient as fable in many cases for accomplishing the same task.<br />\n<br />\nhappy to deliver at one-quarter of the price.</p>",
+    "title_zh": "GPT-5.6 sol 价格减半且代币效率提升一倍",
+    "summary_zh": "Sam Altman 宣布 GPT-5.6 sol 价格仅为竞争对手 Fable 的一半，且代币效率约是其两倍，实际成本降至四分之一。",
+    "key_points": [
+      "GPT-5.6 sol 价格比 Fable 低一半，效率高一倍",
+      "综合成本仅为 Fable 的四分之一"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "93a0e8b76044cde52293df9f0ad9b225",
+    "title": "The real AI race may no longer be at the frontier",
+    "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T14:24:53+00:00",
+    "content_snippet": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+    "title_zh": "真正的 AI 竞赛可能已不在前沿模型",
+    "summary_zh": "Hugging Face CEO 指出企业越来越青睐开源模型，因其成本、可访问性和可控性优势，质疑前沿模型在多数生产环境中的必要性。",
+    "key_points": [
+      "Hugging Face CEO 认为企业更倾向选择开源模型",
+      "开源模型在成本、可控性和可访问性上具有优势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "67f97db0a5df276c1d74203f18448513",
+    "title": "2.5x increase in usage of our agentic products (codex and chatgpt work) in the last week! welcome.",
+    "url": "https://nitter.net/sama/status/2077033807736459713#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T14:13:43+00:00",
+    "content_snippet": "<p>2.5x increase in usage of our agentic products (codex and chatgpt work) in the last week!<br />\n<br />\nwelcome.</p>",
+    "title_zh": "OpenAI 代理产品周使用量激增 2.5 倍",
+    "summary_zh": "Sam Altman 宣布 Codex 和 ChatGPT Work 等代理产品过去一周使用量增长 2.5 倍，显示市场对 AI 代理的强劲需求。",
+    "key_points": [
+      "Codex 和 ChatGPT Work 的周使用量增长 2.5 倍",
+      "AI 代理产品在企业中的应用加速普及"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d1004145cfcd24738fc6812e9546df74",
+    "title": "Super impressed with what Harvinder and Suman have built at @airtap_ai. They've essentially turned SMS into a headless agentic execution layer for your mobile apps. You just text it to run errands, and it operates apps like DoorDash, TikTok, etc. in the background. It keeps you updated in plain text, and only needs your intervention for authentication. Cool consumer AI concept. Check it out at http://airtap.ai or text the AI at +1 (650) 213-7322",
+    "url": "https://nitter.net/fchollet/status/2077033256365736098#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T14:11:32+00:00",
+    "content_snippet": "<p>Super impressed with what Harvinder and Suman have built at <a href=\"https://nitter.net/airtap_ai\" title=\"Airtap Ai\">@airtap_ai</a>. They've essentially turned SMS into a headless agentic execution layer for your mobile apps.<br />\n<br />\nYou just text it to run errands, and it operates apps like DoorDash, TikTok, etc. in the background. It keeps you updated in plain text, and only needs your intervention for authentication. Cool consumer AI concept.<br />\n<br />\nCheck it out at <a href=\"http",
+    "title_zh": "Airtap AI 将短信打造为移动应用的无头代理执行层",
+    "summary_zh": "François Chollet 称赞 Airtap AI 的创意，用户通过短信即可让 AI 在后台操作 DoorDash、TikTok 等应用，仅需认证时干预。",
+    "key_points": [
+      "Airtap AI 通过短信实现 AI 代理操控手机应用",
+      "用户只需发短信指令，AI 即可自动运行各类应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c234bc9a7b8204a6f1435b2d18daf67e",
+    "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+    "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T14:06:47+00:00",
+    "content_snippet": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
+    "title_zh": "Spotify 推出类 ChatGPT 的 AI 音乐助手",
+    "summary_zh": "Spotify 为 Premium 用户推出一项 AI 对话功能，可像聊天一样发现音乐、播客和有声书等内容，进一步扩展其 AI 战略。",
+    "key_points": [
+      "Spotify 推出 AI 驱动的对话式音乐发现功能",
+      "该功能仅面向 Premium 订阅用户开放"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "87a25276763137980404d9225ef92a8d",
+    "title": "Sam Altman didn’t need another lawsuit",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T14:01:07+00:00",
+    "content_snippet": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit against OpenAI, filed in Northern [&#8230;]",
+    "title_zh": "Sam Altman 无需再添新的诉讼",
+    "summary_zh": "OpenAI 面临苹果公司提起的高调诉讼，指控其窃取商业机密，此事可能影响 OpenAI 的昂贵硬件战略和 IPO 计划。",
+    "key_points": [
+      "苹果公司对 OpenAI 提起商业机密诉讼",
+      "诉讼可能影响 OpenAI 的硬件战略和 IPO 前景"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f05deb211b536ea480a655ea9e79775c",
+    "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+    "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T14:00:00+00:00",
+    "content_snippet": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+    "title_zh": "Superhuman 的新自动草稿功能让我几乎喜欢上 AI 回复",
+    "summary_zh": "Superhuman 推出最新的 AI 邮件草稿功能，在测试中生成的回复几乎无需修改，显著提升了 AI 辅助写作的实用性。",
+    "key_points": [
+      "Superhuman 的 AI 自动草稿功能生成的回复质量极高",
+      "该功能在测试中几乎无需用户手动编辑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1b97e9712943739e763423283d02b58f",
+    "title": "60-second AI engineering news: July 14, 2026",
+    "url": "https://www.reddit.com/r/artificial/comments/1uw8suw/60second_ai_engineering_news_july_14_2026/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-14T13:31:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Six AI engineering signals from the last 24 hours:</p> <ol> <li><p>Codex hits <a href=\"https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months\">7M users</a> after 10x growth in six months.</p></li> <li><p>Anthropic's tokenizer <a href=\"https://www.theregister.com/ai-and-ml/2026/07/14/anthropics-extravagant-tokenizer-complicates-ai-pricing/5270792\">inflates costs</a> versus competing models.</p></li> <li><p>A Claude API budget cap reportedly overran its ",
+    "title_zh": "60秒AI工程新闻：2026年7月14日",
+    "summary_zh": "本期AI工程新闻汇总了过去24小时内的六条重要动态，包括Codex用户数在六个月内增长10倍达到700万，以及Anthropic发布其分词器的相关信息。",
+    "key_points": [
+      "Codex用户数在六个月内增长10倍，达到700万",
+      "Anthropic发布了其分词器的相关信息"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
