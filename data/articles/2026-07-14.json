@@ -2211,5 +2211,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9aad4b691d64f5f6c970d4a513659840",
+    "title": "The real bottleneck for AI agents may be proving who they are",
+    "url": "https://www.reddit.com/r/artificial/comments/1uw81un/the_real_bottleneck_for_ai_agents_may_be_proving/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T13:01:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI agents are getting better at completing tasks, but I’m not convinced intelligence is the main thing holding them back anymore.<br /> The harder problem starts when an agent can send messages, approve purchases, move money, schedule work, or make decisions across several systems.<br /> At that point, how do you know which agent actually performed an action? Who gave it permission? What happens when it exceeds that permission, misunderstands an instruction, or ",
+    "title_zh": "AI代理的真正瓶颈可能是身份验证",
+    "summary_zh": "文章认为，AI代理在完成任务方面越来越强，但阻碍其大规模应用的关键不再是智能水平，而是当代理能够发送消息、批准购买、转移资金或做出决策时，如何证明其身份和授权。",
+    "key_points": [
+      "AI代理能力提升，但身份验证成为新的瓶颈",
+      "代理需证明身份以执行敏感操作如支付和决策",
+      "身份与授权问题比智能本身更制约AI代理落地"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bf1c3a37fbaaf200cf56cd1d16969b77",
+    "title": "Can Europe's social model survive AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uw7q5j/can_europes_social_model_survive_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-14T12:48:08+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uw7q5j/can_europes_social_model_survive_ai/\"> <img alt=\"Can Europe's social model survive AI?\" src=\"https://external-preview.redd.it/Ekezlc46nk4tpkiIWdnPgFGZApHbdqto7a0jrhxXzHM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7839c25e4d931000f19008e04b75fd73f82a46ef\" title=\"Can Europe's social model survive AI?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kindermaxi123\"> /u/kindermaxi123 ",
+    "title_zh": "欧洲的社会模式能否在AI冲击下生存？",
+    "summary_zh": "文章探讨了人工智能对欧洲社会福利模式带来的挑战，分析自动化技术对就业、税收和社会公平的潜在冲击，以及欧洲需如何调整政策以应对AI时代的社会经济变革。",
+    "key_points": [
+      "AI自动化对欧洲高福利社会模式构成严峻挑战",
+      "就业和税收体系将受冲击，需政策调整应对",
+      "讨论社会公平与技术创新之间的平衡问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f675ec0b3bf79c792c1ffdee84cac93a",
+    "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
+    "url": "https://www.qbitai.com/2026/07/448475.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-14T12:36:48+00:00",
+    "content_snippet": "一手实测这就奉上",
+    "title_zh": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
+    "summary_zh": "文章实测了一款新晋的免费AI编程工具，其性能表现已跻身全球第一梯队，为开发者提供了强有力的新选择，并可能对现有编程助手市场格局产生冲击。",
+    "key_points": [
+      "一款免费AI编程工具实测性能达到全球顶尖水平",
+      "新工具为开发者提供强大选择，冲击现有市场",
+      "实测表明该选手在代码生成等任务上表现优异"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
