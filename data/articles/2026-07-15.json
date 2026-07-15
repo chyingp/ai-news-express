@@ -1467,5 +1467,351 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bff5bfd1d1f0dc618bb2e9431ad8b999",
+    "title": "腾讯“青云计划”2027校招全球启动",
+    "url": "https://36kr.com/newsflashes/3896672308840324?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-15T09:07:59+00:00",
+    "content_snippet": "36氪获悉，7月15日，腾讯“青云计划”2027校园招聘全球启动，面向2026年1月至2027年12月毕业的本、硕、博同学进行公开招募，聚焦大语言模型·NLP，多模态·视觉·语音，智能体·强化学习，搜索·推荐·模型应用，AI基础设施·系统与安全，AI数据·数据工程等六大技术领域等六大技术领域。该计划通过提供定制化培养方案，开放核心业务实战与前瞻技术课题，支持青年人才深度参与前沿课题与核心任务。",
+    "title_zh": "腾讯“青云计划”2027校招全球启动",
+    "summary_zh": "腾讯青云计划2027校园招聘全球启动，面向2026年1月至2027年12月毕业生，聚焦大语言模型、多模态、智能体等六大AI前沿技术领域，提供定制化培养和核心业务实战机会。",
+    "key_points": [
+      "面向2026-2027届毕业生，聚焦六大AI技术领域",
+      "提供定制化培养方案与核心业务实战机会",
+      "旨在吸引和培养青年AI人才"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8b28b737576a97c0316ed5933bed3ac3",
+    "title": "阿里千问将作为AI能力集成至苹果智能",
+    "url": "https://36kr.com/newsflashes/3896657327769473?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-15T08:44:48+00:00",
+    "content_snippet": "36氪获悉，网信办发布7款提供手机端侧生成式人工智能服务备案信息，其中苹果技术开发（上海）有限公司的“Apple智能”大模型已于2026年7月8日备案。阿里方面称，阿里千问将作为AI能力集成至Apple智能，为 iOS、iPadOS、macOS 和 visionOS 的中国用户带来智能体验。用户无需在应用间切换，即可在Apple设备上直接体验千问的文本与图像理解、内容生成等能力。",
+    "title_zh": "阿里千问将作为AI能力集成至苹果智能",
+    "summary_zh": "阿里巴巴千问大模型将集成至苹果智能，为中国用户提供文本与图像理解、内容生成等服务，用户无需切换应用即可在苹果设备上直接体验。",
+    "key_points": [
+      "阿里千问集成至苹果智能，服务中国用户",
+      "用户可在系统内直接体验千问的AI能力",
+      "苹果智能大模型已完成备案，推动端侧AI落地"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "alibaba",
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4d70454a7bb984a8b5a125c8bb65f79c",
+    "title": "The AI honeymoon is ending",
+    "url": "https://www.reddit.com/r/artificial/comments/1ux03ca/the_ai_honeymoon_is_ending/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-15T08:42:57+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ux03ca/the_ai_honeymoon_is_ending/\"> <img alt=\"The AI honeymoon is ending\" src=\"https://preview.redd.it/bg212pj2wcdh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9bdde29fd24e1564bb8236a808ce4abf9019a545\" title=\"The AI honeymoon is ending\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>It feels like the AI pricing honeymoon phase is starting to end.</p> <p>For the last year or two, we've gotten used to incredibly c",
+    "title_zh": "AI蜜月期正在结束",
+    "summary_zh": "文章探讨了人工智能行业热潮可能降温的趋势，指出市场对AI技术的热情和期待正在回归理性，行业面临新的挑战和审视。",
+    "key_points": [
+      "市场对AI的热情和期待正回归理性",
+      "AI行业面临技术落地和商业化等挑战",
+      "行业从狂热期进入更务实的阶段"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d3c475fd437a1c18919dd128d2421288",
+    "title": "阿里巴巴发布实时语音交互对话模型Qwen-Audio-3.0-Realtime",
+    "url": "https://36kr.com/newsflashes/3896642705245828?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-07-15T08:38:52+00:00",
+    "content_snippet": "36氪获悉，据千问大模型消息，阿里巴巴发布实时语音交互对话模型Qwen-Audio-3.0-Realtime，在智商、Agent工具调用、共情对话和双工交互流畅度四条主线上同步升级。",
+    "title_zh": "阿里巴巴发布实时语音交互对话模型Qwen-Audio-3.0-Realtime",
+    "summary_zh": "阿里巴巴发布实时语音交互对话模型Qwen-Audio-3.0-Realtime，在智商、工具调用、共情对话和双工交互流畅度四条主线上同步升级。",
+    "key_points": [
+      "发布Qwen-Audio-3.0-Realtime实时语音交互模型",
+      "在智商、Agent工具调用、共情对话等四方面升级",
+      "提升双工交互流畅度，增强实时对话体验"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bb2daa0483b595c8deb0dae84bebdbd6",
+    "title": "北京市新增1款已完成备案的生成式人工智能服务",
+    "url": "https://36kr.com/newsflashes/3896650436871813?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-15T08:37:48+00:00",
+    "content_snippet": "36氪获悉，7月15日，据“网信北京”消息，截至2026年7月15日，北京市新增1款已完成备案的生成式人工智能服务，累计已完成257款生成式人工智能服务备案。",
+    "title_zh": "北京市新增1款已完成备案的生成式人工智能服务",
+    "summary_zh": "截至2026年7月15日，北京市新增1款生成式人工智能服务完成备案，累计备案数已达257款，显示AI服务监管与备案工作持续推进。",
+    "key_points": [
+      "北京市新增1款生成式AI服务完成备案",
+      "累计备案总数已达257款",
+      "体现AI服务监管与备案的常态化推进"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7823fc21d079efffd35731db9619b086",
+    "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
+    "url": "https://36kr.com/p/3896639400183687?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-15T08:30:35+00:00",
+    "content_snippet": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260715/v2_ff327a59564e4aabba6f26d61cd4d748@6108898_oswg167386oswg1080oswg721_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区圆满举行。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260715/v2_621d99ff7d4441a8b0b27f81910ce5e5@6108898_oswg9538oswg1080oswg127_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p>这个夏天，阳澄湖畔的吸引力有了新的注脚。</p>\n",
+    "title_zh": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
+    "summary_zh": "首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区举行，活动展示了AI技术在真实生活场景中的多种应用，推动AI与文旅产业的融合。",
+    "key_points": [
+      "首届阳澄湖半岛AI嘉年华在苏州举行",
+      "展示AI技术在真实生活场景中的多样应用",
+      "推动AI与文旅产业的跨界融合"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "64bc4e18506ec80446e93aad45e40c33",
+    "title": "长鑫科技：AI发展对DRAM市场需求存在不确定性，投资者需关注行业波动风险",
+    "url": "https://36kr.com/newsflashes/3896639722440580?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-15T08:26:54+00:00",
+    "content_snippet": "7月15日，长鑫科技科创板上市网上投资者交流会举行。针对2026年全年业绩的审慎预期，长鑫科技副总裁、董事会秘书袁园表示，2025年下半年以来的业绩增长，确实受益于AI驱动的DRAM需求爆发及行业供需紧张，但DRAM行业具有强周期性，价格波动较大，且AI发展对DRAM市场需求存在不确定性。若宏观经济发生不利变化、AI需求不及预期或新产能集中释放，行业可能重回下行周期。袁园表示，公司将持续通过技术迭代、产能优化和成本管控提升抗周期能力，但提醒投资者仍需关注行业波动风险。（上证报）",
+    "title_zh": "长鑫科技：AI发展对DRAM市场需求存在不确定性，投资者需关注行业波动风险",
+    "summary_zh": "长鑫科技在科创板上市网上交流会上表示，AI驱动的DRAM需求增长存在不确定性，提醒投资者关注存储芯片行业强周期性和波动风险。",
+    "key_points": [
+      "AI对DRAM市场需求存在不确定性",
+      "存储芯片行业具有强周期性，价格波动大",
+      "公司提醒投资者关注行业波动风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eea9be216b69786dff4655c77b1448fc",
+    "title": "AI agent builders are getting paid based on quality now, not just for shipping. Here is what that looks like.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwzpf5/ai_agent_builders_are_getting_paid_based_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-15T08:20:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most platforms that pay builders do it on a flat fee basis. Ship something, get paid a fixed amount, done.</p> <p>We think that creates bad incentives. So we changed it.</p> <p>On Gravity, our AI agent marketplace, per agent rewards are now tied to the quality and difficulty of what you build. </p> <p>A simple agent earns less. A complex, reliable, genuinely useful agent earns significantly more.</p> <p>We just launched a builder leaderboard with Rs 6,000 for fi",
+    "title_zh": "AI智能体构建者现在基于质量而非交付量获得报酬",
+    "summary_zh": "AI智能体市场Gravity改变了报酬模式，构建者的收入不再仅仅基于交付数量，而是与智能体的质量和需求挂钩，旨在激励高质量产出。",
+    "key_points": [
+      "AI智能体市场Gravity改变报酬模式，质量优先",
+      "构建者收入与智能体的质量和需求挂钩",
+      "新模式旨在激励高质量AI智能体开发"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "405c086a6fccec233063fa558f84925e",
+    "title": "Xmax AI发布通用实时交互AI视频模型X2.0",
+    "url": "https://36kr.com/newsflashes/3896629687093129?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-07-15T08:16:41+00:00",
+    "content_snippet": "36氪获悉，今日，Xmax AI正式发布新一代通用实时交互AI视频模型Xmax X2.0，并同步开放API及产业合作接入。Xmax X2.0实时重渲能力升级，实现了CharX实时换人、ClothX实时换装、VibeX实时换风格等多项功能。交互层面，Xmax X2.0统一交互架构把只懂Prompt的模型升级为能理解摄像头、视频流与手势行为的全能模型。",
+    "title_zh": "Xmax AI发布通用实时交互AI视频模型X2.0",
+    "summary_zh": "Xmax AI发布新一代通用实时交互AI视频模型X2.0，升级实时重渲能力，实现实时换人、换装、换风格，并能理解摄像头与手势行为。",
+    "key_points": [
+      "发布X2.0通用实时交互AI视频模型",
+      "支持实时换人、换装、换风格等重渲功能",
+      "升级交互架构，能理解摄像头与手势行为"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1f29688ccbfe3e84e725cd6b2cbf9086",
+    "title": "网信办发布7款提供手机端侧生成式人工智能服务备案信息",
+    "url": "https://36kr.com/newsflashes/3896626536269700?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-15T08:13:29+00:00",
+    "content_snippet": "36氪获悉，据网信中国，促进生成式人工智能服务创新发展和规范应用，网信部门会同有关部门按照《生成式人工智能服务管理暂行办法》要求，有序开展生成式人工智能服务备案工作，现将新增的“Apple智能”等7款提供手机端侧生成式人工智能服务备案信息予以公告。",
+    "title_zh": "网信办发布7款提供手机端侧生成式人工智能服务备案信息",
+    "summary_zh": "网信办发布新增7款手机端侧生成式AI服务备案信息，其中包括“Apple智能”，旨在促进AI服务创新发展和规范应用。",
+    "key_points": [
+      "网信办发布7款手机端侧生成式AI服务备案",
+      "“Apple智能”大模型位列其中",
+      "旨在促进AI服务创新发展和规范应用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c66fa7b6840c3b1f2d878c5107625e4d",
+    "title": "“面壁智能”完成新一轮融资，估值超200亿元",
+    "url": "https://36kr.com/newsflashes/3896612236265095?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-15T07:58:56+00:00",
+    "content_snippet": "36氪获悉，面壁智能已完成新一轮融资，投资方包括国家级基金、央企、汽车制造商等各类产业方、财务投资人等。至此，面壁智能2026上半年累计融资金额超50亿元，估值超200亿元，一跃成为端侧智能领域公开估值最大的独角兽企业。面壁智能专注于将原生端侧大模型技术转化为标准化产品，在具身、汽车、手机、低空、民航等核心赛道落地，未来还将拓展至工业、家居、特种领域等。",
+    "title_zh": "面壁智能完成新一轮融资，估值超200亿元",
+    "summary_zh": "面壁智能完成新一轮融资，2026上半年累计融资超50亿元，估值超200亿元，成为端侧智能领域估值最高的独角兽。公司专注于端侧大模型标准化产品，已落地汽车、手机、具身智能等多个赛道。",
+    "key_points": [
+      "面壁智能上半年累计融资超50亿元，估值超200亿元",
+      "成为端侧智能领域公开估值最大的独角兽企业",
+      "主打端侧大模型，落地汽车、手机、具身智能等赛道"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4795d390b4a55a5607f799ab669d9e08",
+    "title": "Meta says Muse Spark 1.1 beats OpenAI and Anthropic. On price it actually does, just not in the way that matters to most people.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uwz9gt/meta_says_muse_spark_11_beats_openai_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-15T07:54:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been digging into the numbers on this one. Muse Spark 1.1 (Meta's new model, first one they've ever actually charged for API access) is priced at $1.25/$4.25 per million tokens. Compare that to Opus 4.8 ($5/$25) or GPT-5.5 ($5/$30) and it's not close, 4x cheaper on input, 6-7x on output. Genuinely useful if you're building something that doesn't need the absolute smartest model for every call. Not everything needs the frontier flagship, cheap-but-good-enough is ",
+    "title_zh": "Meta称Muse Spark 1.1在价格上击败OpenAI和Anthropic",
+    "summary_zh": "Meta发布其首个收费API模型Muse Spark 1.1，价格仅为每百万token 1.25/4.25美元，比GPT-5.5和Opus 4.8便宜约4倍，但在性能方面的优势方式对多数用户意义不大。",
+    "key_points": [
+      "Meta首个收费API模型Muse Spark 1.1定价仅为竞品的四分之一",
+      "价格优势显著，但性能超越方式对多数用户来说并不关键"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta",
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eb035bfbacfabb21658fc15d59e1905f",
+    "title": "荣膺2026 WAIC“镇馆之宝”！大模型原生智能体手机STEPX Neo解锁AI交互新范式",
+    "url": "https://www.qbitai.com/2026/07/450652.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-15T06:43:37+00:00",
+    "content_snippet": "",
+    "title_zh": "荣膺2026 WAIC“镇馆之宝”！大模型原生智能体手机STEPX Neo解锁AI交互新范式",
+    "summary_zh": "一款名为STEPX Neo的大模型原生智能体手机在2026年世界人工智能大会上荣获“镇馆之宝”称号，展示了基于大模型的AI交互新范式，但文章详情未提供更多具体信息。",
+    "key_points": [
+      "STEPX Neo手机荣获2026 WAIC“镇馆之宝”",
+      "定位为大模型原生智能体，解锁AI交互新范式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "db833b5869dc3d3336720f14ed725159",
+    "title": "Infinities, impossibilities, and the man in the white linen suit [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uwxveq/infinities_impossibilities_and_the_man_in_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-15T06:36:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So I was belatedly reading Matthew Colbrook’s paper on unstable neural networks <a href=\"https://www.pnas.org/doi/10.1073/pnas.2107151119\">https://www.pnas.org/doi/10.1073/pnas.2107151119</a>, and the paradox therein sent me back to my university days and reminded me of Kurt Godel.</p> <p>It kind of amazes me that so few people have heard of him given Einstein clearly thought he was more than an equal.</p> <p>Anyway, with the default assumption currently being t",
+    "title_zh": "无穷、不可能与穿白色亚麻西装的人",
+    "summary_zh": "一篇Reddit讨论帖，作者在阅读Matthew Colbrook关于不稳定神经网络的论文后，联想到大学时期的知识，探讨了神经网络中的悖论和不可能性问题，偏向学术讨论。",
+    "key_points": [
+      "讨论Colbrook关于不稳定神经网络的论文",
+      "探讨神经网络中的悖论与不可能性问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
