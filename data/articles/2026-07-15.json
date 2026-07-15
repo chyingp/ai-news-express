@@ -2635,5 +2635,147 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d6a227d5ceba0e22aa8888a887c0a408",
+    "title": "NeurIPS reviews coming in soon! [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ux8p0a/neurips_reviews_coming_in_soon_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-15T15:13:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So, from what I've seen across twitter(x) and reddit, I've inferred that we'll be seeing NeurIPS reviews drop on July 22nd 5:30 pm AoE(Anywhere on earth), what's your thoughts to those who've submitted to NeurIPS 2026 ? Would love to hear your opinion by the reviewers, the people who've submitted to the workshops (who should've already gotten their decisions too by now I think) and to the main tracks and other available tracks. </p> </div><!-- SC_ON --> &#32; su",
+    "title_zh": "NeurIPS 2026 审稿结果即将公布，社区热议中",
+    "summary_zh": "根据社交媒体上的消息，NeurIPS 2026 的审稿结果预计将于7月22日公布，引发了投稿者们的广泛讨论和期待。",
+    "key_points": [
+      "NeurIPS 2026审稿结果预计7月22日公布",
+      "Reddit和Twitter上投稿者热议审稿意见"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f924ea5691cd2ff94266716fdf8696d7",
+    "title": "Junior Machine Learning Engineer Interview [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ux8i9g/junior_machine_learning_engineer_interview_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-15T15:06:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have a technical interview for a machine learning position coming up, and I'm really nervous. Can you tell me about your experiences with this process? It's my first technical interview, and I don't know what to expect </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Abatistta\"> /u/Abatistta </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.re",
+    "title_zh": "初级机器学习工程师面试经验求助",
+    "summary_zh": "一位用户发帖咨询，由于即将参加首次机器学习技术面试而感到紧张，希望了解相关流程和他人经验。",
+    "key_points": [
+      "用户首次参加ML技术面试感到紧张",
+      "寻求社区关于面试流程和经验的分享"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d3664b466417547de61f5eef7f5b0512",
+    "title": "How do AI agents pay for things? Lightning Labs just answered with Bitcoin — here's the technical breakdown",
+    "url": "https://www.reddit.com/r/artificial/comments/1ux8fv9/how_do_ai_agents_pay_for_things_lightning_labs/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-15T15:04:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>One of the most underrated unsolved problems </p> <p>in AI infrastructure: autonomous payment.</p> <p>AI agents can write code, search the web, </p> <p>orchestrate workflows — but when they need </p> <p>to pay for a premium API or a data feed, </p> <p>they hit a wall. Credit cards require human </p> <p>identity. That doesn't scale for agents </p> <p>making thousands of micropayments per hour.</p> <p>Lightning Labs released a toolkit in 2026 </p> <p>that solves t",
+    "title_zh": "AI代理如何支付？Lightning Labs用比特币给出技术方案",
+    "summary_zh": "Lightning Labs 提出了利用比特币和闪电网络解决AI代理自主支付问题的方案，为AI在调用付费API或数据时的支付环节提供了基础设施支持。",
+    "key_points": [
+      "Lightning Labs用比特币闪电网络实现AI代理自主支付",
+      "解决AI调用付费API等场景的支付基础设施难题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4c25dcca9c12c3973724c56c65a80140",
+    "title": "Could AI actually improve injury recovery, or is this something that should always stay human?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ux6oi8/could_ai_actually_improve_injury_recovery_or_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-15T13:59:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been thinking about a problem that seems surprisingly common.</p> <p>After an injury or surgery, many people leave with a few exercises and a follow-up appointment, but they still have dozens of questions:</p> <ul> <li>Am I progressing too quickly?</li> <li>Should I increase the difficulty?</li> <li>Is this level of pain expected?</li> <li>What should I focus on next?</li> </ul> <p>I'm exploring whether AI could help by generating structured rehabilitation ",
+    "title_zh": "AI能否改善伤后康复，还是这应始终由人类主导？",
+    "summary_zh": "文章探讨了AI在伤后康复领域的应用潜力，思考AI能否解答患者术后康复中的常见疑问，以及该领域是否应永远保留人类主导权。",
+    "key_points": [
+      "探讨AI在伤后康复中的辅助作用",
+      "反思AI在医疗指导中的人类主导权问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "500c98b1f52f0282e1a5486fab17b15d",
+    "title": "The new ChatGPT macOS app redesign has made basic navigation so much worse",
+    "url": "https://www.reddit.com/r/artificial/comments/1ux6i4v/the_new_chatgpt_macos_app_redesign_has_made_basic/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-15T13:52:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm honestly frustrated with the recent update to the ChatGPT macOS app. The conversation/search history used to be right there on the side where I could quickly glance at it and jump between chats. Now it's been buried at the bottom of the app, hidden behind extra steps to get to.</p> <p>This isn't a minor cosmetic change — it has actively disrupted my day-to-day workflow. I switch between conversations constantly throughout the day, and what used to take one c",
+    "title_zh": "ChatGPT macOS应用改版：基础导航体验大幅倒退",
+    "summary_zh": "用户抱怨ChatGPT macOS应用的最新更新将聊天记录和搜索历史隐藏到底部菜单，导致基础导航变得繁琐，用户体验下降。",
+    "key_points": [
+      "ChatGPT macOS应用更新后聊天记录被隐藏",
+      "用户认为导航步骤增加，体验变差"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f8caff8a9c6ac75cc9b440e1dd19b94b",
+    "title": "PyTorch model running 170x slower on T4 vs A100. What could cause a bottleneck this extreme? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ux6a9x/pytorch_model_running_170x_slower_on_t4_vs_a100/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-15T13:44:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>Seeing a ~170× slowdown running a point-tracking model on an NVIDIA T4 compared to an A100. On A100 the tracker takes ~0.5 seconds per half-video. On T4 the same call takes ~85 seconds. Video is 47 frames at 256×256, batch 1. I expect a meaningful gap between these cards, but 170× feels too large to explain by generational hardware differences alone.</p> <p>Setup:</p> <ul> <li>Precision: pure FP32</li> <li>Architecture: builds local 4D corre",
+    "title_zh": "PyTorch模型在T4上比A100慢170倍，极端瓶颈原因何在？",
+    "summary_zh": "用户发现同一个点追踪模型在NVIDIA T4 GPU上的运行速度是A100的170分之一，远超预期性能差距，寻求技术原因分析。",
+    "key_points": [
+      "PyTorch模型在T4上运行速度比A100慢170倍",
+      "远超预期的性能差距正寻求社区技术分析"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
