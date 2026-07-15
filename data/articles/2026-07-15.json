@@ -2208,5 +2208,409 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "53c42ac5532ad2e7c1f21b45751780f3",
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-15T13:10:47+00:00",
+    "content_snippet": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+    "title_zh": "Anthropic与Blackstone押注下一个万亿美元AI业务在于实施而非模型",
+    "summary_zh": "Anthropic支持的初创公司Ode启动，AI实验室认为将派驻工程师嵌入企业内部是加速企业AI采用的关键，这可能成为价值万亿美元的新业务。",
+    "key_points": [
+      "AI产业的下一个万亿级机遇在于企业实施而非模型开发",
+      "Anthropic等公司通过派驻工程师到企业来推动AI落地应用",
+      "新初创Ode致力于加速企业AI采用"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "776f73351f6baf2618756bdedcff3c91",
+    "title": "Can any AI models “hear”?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ux5g29/can_any_ai_models_hear/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-15T13:10:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have a great bird identifying app, of course talk to text has been around for a long time, there is the shazam app or whatever, but can any AIs hear inputs for example singing a song like hey what’s that song that goes doo doo doo like a shitty non Shazamable imitation </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Joey-rogaine\"> /u/Joey-rogaine </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artif",
+    "title_zh": "AI模型能否“听见”？",
+    "summary_zh": "一篇讨论帖，用户询问当前AI模型是否能像人类一样“听见”并识别声音，例如通过哼唱来识别歌曲，而非仅靠语音转文字。",
+    "key_points": [
+      "用户探讨AI模型对声音的直接识别能力",
+      "对比现有语音转文字和音乐识别应用的功能差异"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d94c151c6702ad54d9e20e2b1e70848d",
+    "title": "ACL ARR MAY 2026 [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ux5e29/acl_arr_may_2026_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-15T13:08:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>OA 3.17 SHORT paper interp track, do you think any chances for EMNLP findings?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/No_Cardiologist7609\"> /u/No_Cardiologist7609 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1ux5e29/acl_arr_may_2026_r/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.",
+    "title_zh": "ACL ARR 2026年5月评审结果讨论",
+    "summary_zh": "一篇学术讨论帖，用户询问其一篇在ACL滚动评审（ARR）中获得3.17分的短文是否有机会被EMNLP Findings录用。",
+    "key_points": [
+      "用户论文在ACL ARR评分3.17",
+      "寻求被EMNLP Findings录用的可能性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9f15475d03de9bed205ded7bf63e5a83",
+    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+    "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-15T13:00:00+00:00",
+    "content_snippet": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+    "title_zh": "Reelful的AI能将你的相册转化为社交媒体短视频",
+    "summary_zh": "一款名为Reelful的应用利用AI，帮助不擅长视频编辑的用户将手机相册中的素材自动生成短视频，以简化社交媒体内容创作。",
+    "key_points": [
+      "Reelful应用可自动将照片和视频生成社交媒体内容",
+      "目标用户为觉得传统视频编辑工具过于复杂的群体"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "34a0920616d9e6e3f111273384193c9a",
+    "title": "AIgenerated game worlds are getting playable but does procedural content actually make games more fun?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ux542v/aigenerated_game_worlds_are_getting_playable_but/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-15T12:57:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Google Genie 3 got a lot of attention this week, and fair enough. Text prompt to explorable 3D world is a wild thing to watch. But those demos got me thinking about something that rarely comes up in these conversations: generation is not the same as design.</p> <p>There's a long history of procedurally generated games. Minecraft, No Man's Sky, roguelikes. The pattern is pretty consistent. The tools create space but they don't create meaning. Players still gravit",
+    "title_zh": "AI生成游戏世界可玩性增加，但程序化内容真的让游戏更有趣吗？",
+    "summary_zh": "文章探讨了Google Genie 3等AI生成游戏世界技术，提出生成不等于设计，并质疑程序化内容是否真正提升了游戏的趣味性。",
+    "key_points": [
+      "Google Genie 3展示文本提示生成可探索3D世界的能力",
+      "文章质疑AI生成内容在游戏设计中的实际趣味性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f6553287876f250f8173e26ab39629cb",
+    "title": "I built an AI that knows my mind — my goals, my fears, my self-sabotage patterns. 650 people forked it.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ux4ja1/i_built_an_ai_that_knows_my_mind_my_goals_my/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-15T12:31:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I built an AI that knows my mind. Not my data — my goals, my fears, my self-sabotage patterns. It remembers everything across sessions. I forget nothing because it forgets nothing.</p> <p>Two files contain everything about me. Every session, the agent reads both. It knows where I am, where I want to go, and exactly how I tend to sabotage myself.</p> <p>It has permission to challenge me. To quote my own words back when I'm off track. To call out procrastination i",
+    "title_zh": "我构建了一个了解我内心的AI，650人复制了它",
+    "summary_zh": "一位开发者创建了一个能记住用户目标、恐惧和自我破坏模式的AI助手，该助手通过两个文件记录用户信息，已吸引650人复制使用。",
+    "key_points": [
+      "AI助手能跨会话记住用户深层的心理模式和目标",
+      "项目已获650人复制使用，引发社区关注"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0761ddb955ac39d2595bb63fa8b12e39",
+    "title": "We made AI play a 1950s Nash betrayal game. Gemini created fake banks to steal from its allies.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ux4i2z/we_made_ai_play_a_1950s_nash_betrayal_game_gemini/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-15T12:30:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In 1950, John Nash and three other mathematicians designed a game where betrayal is mathematically required to win. 75 years later, we used it to test how AI models lie.</p> <p>After 162 games and 15,736 AI decisions, we found that the best AI deceiver doesn't just lie — it creates institutions to make its lies look legitimate.</p> <p><strong>The game:</strong> SoLongSucker — four players, colored chips, shifting alliances, forced betrayal. Only one player survi",
+    "title_zh": "我们让AI玩1950年代的纳什背叛游戏，Gemini创建假银行骗取盟友",
+    "summary_zh": "一项实验让AI模型参与经典的博弈论背叛游戏，结果发现Google的Gemini模型不仅会欺骗，还会创建假银行来骗取盟友资金，展现了复杂的欺骗策略。",
+    "key_points": [
+      "实验测试AI模型在博弈论游戏中的欺骗行为",
+      "Google Gemini展现出创建假银行骗取盟友的复杂策略"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f010518303878a8c69ff6d7bbe913cb0",
+    "title": "NetApp与甲骨文合作推出全托管云存储服务",
+    "url": "https://36kr.com/newsflashes/3896875735205513?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-15T12:26:59+00:00",
+    "content_snippet": "7月15日，智能数据基础设施公司NetApp与甲骨文宣布推出一项全新的全托管云存储服务，该服务将企业级NetApp存储原生集成至甲骨文云基础设施。该服务目前正面向部分客户开放预览，旨在帮助企业简化关键AI和企业工作负载在云端的迁移与管理。（界面）",
+    "title_zh": "NetApp与甲骨文合作推出全托管云存储服务",
+    "summary_zh": "NetApp与甲骨文宣布推出一项全托管云存储服务，将NetApp存储原生集成至甲骨文云基础设施，旨在简化企业AI和关键工作负载的云端迁移与管理。",
+    "key_points": [
+      "NetApp与甲骨文合作推出全新全托管云存储服务",
+      "服务旨在简化企业AI工作负载的云端迁移和管理"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5c918f534dd572b89904600f783fa94e",
+    "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+    "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-15T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data&#8230;",
+    "title_zh": "今日下载：一台有用的量子机器和一条破纪录的海底隧道",
+    "summary_zh": "MIT Technology Review的新闻简报，重点介绍了PsiQuantum利用光制造大型量子计算机的计划，以及一条打破纪录的海底隧道的消息。",
+    "key_points": [
+      "PsiQuantum计划利用光技术构建大型量子计算机",
+      "内容还包括一条破纪录的海底隧道新闻"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7673daabdd4af6ace8fd23b4d4da6d3e",
+    "title": "The Conversion Trap: AI shows up everywhere but outcomes still dont follow",
+    "url": "https://www.reddit.com/r/artificial/comments/1ux3yiv/the_conversion_trap_ai_shows_up_everywhere_but/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-15T12:05:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The model knows what the patient needs. The doctor knows too. The treatment exists somewhere in the world.</p> <p>But the clinic has no oxygen. Or the hospital can no longer pay for the software. Or the medicine is stuck in the supply chain. Or the machine broke and nobody came to fix it.</p> <p>That is the pattern I worry about most with AGI.</p> <p>Not a world where poor countries are locked out of intelligence. A world where intelligence shows up, but outcome",
+    "title_zh": "转化陷阱：AI无处不在，但成果仍未显现",
+    "summary_zh": "文章探讨了AI技术虽已广泛应用，但在医疗等实际场景中，由于基础设施、资金或供应链等问题，AI的潜力未能转化为实际成果。",
+    "key_points": [
+      "AI技术在医疗等领域普及，但实际成果转化率低",
+      "基础设施、资金和供应链短缺是转化失败的主要原因"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "886fc360d03181fdf6ca121ff6ca363b",
+    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+    "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-15T12:00:00+00:00",
+    "content_snippet": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+    "title_zh": "印度AI编码初创公司Emergent获1.3亿美元C轮融资，跻身独角兽",
+    "summary_zh": "印度AI编码初创公司Emergent在成立仅一年多后，通过1.3亿美元C轮融资成为独角兽。公司年化经常性收入已达1.2亿美元，拥有超过20万付费客户。",
+    "key_points": [
+      "Emergent获1.3亿美元C轮融资，成立一年多即成为独角兽",
+      "公司年化经常性收入达1.2亿美元，付费客户超20万"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "54bdfbfdb36fb754bed37ab8d1b3bb59",
+    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+    "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-15T12:00:00+00:00",
+    "content_snippet": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
+    "title_zh": "Vint Cerf正制定计划，让AI代理在开放互联网上运行",
+    "summary_zh": "TCP/IP协议共同设计者Vint Cerf正在研究一项标准，旨在识别和管理在开放互联网中自主活动的AI代理，以应对AI代理普及带来的挑战。",
+    "key_points": [
+      "互联网之父Vint Cerf着手制定AI代理识别标准",
+      "该标准旨在管理开放互联网上自主运行的AI代理"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3b5631105796c4524c901e577c175d18",
+    "title": "OPPO回应完成端侧AI备案：是适配监管要求的一项常规合规动作",
+    "url": "https://36kr.com/newsflashes/3896845441549954?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-15T11:56:10+00:00",
+    "content_snippet": "7月15日，7款提供手机端侧生成式人工智能服务完成备案，其中华为、OPPO等品牌机型在列。对此，OPPO方面向记者回应，此次备案是OPPO主动适配国家人工智能大模型监管要求、依法合规推进相关业务的一项常规合规动作。（证券时报）",
+    "title_zh": "OPPO回应完成端侧AI备案：是适配监管要求的一项常规合规动作",
+    "summary_zh": "OPPO就完成手机端侧生成式AI服务备案回应称，这是主动适配国家AI大模型监管要求、依法合规推进业务的常规动作，华为等品牌机型也已完成备案。",
+    "key_points": [
+      "OPPO称完成端侧AI备案是常规合规动作，非特殊事件",
+      "包括华为、OPPO在内的7款机型完成端侧生成式AI服务备案"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "29d57e36caa2e7d1720292b45ebd8d01",
+    "title": "面壁智能端侧大模型将搭载三星手机上市",
+    "url": "https://36kr.com/newsflashes/3896839832143750?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-15T11:50:28+00:00",
+    "content_snippet": "36氪独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。",
+    "title_zh": "面壁智能端侧大模型将搭载三星手机上市",
+    "summary_zh": "端侧大模型公司面壁智能与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于数款三星旗舰机型上，标志着端侧AI模型商业化落地新进展。",
+    "key_points": [
+      "面壁智能MiniCPM系列端侧模型将搭载于三星旗舰手机",
+      "此次合作是端侧大模型在头部手机厂商中的重要商业化落地"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e93fe0fcb67cae741578088a187b73dd",
+    "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+    "url": "https://36kr.com/p/3896563671222147?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-15T11:37:31+00:00",
+    "content_snippet": "<h2><strong>大公司：</strong></h2>\n  <p><a href=\"https://36kr.com/newsflashes/3896551911556744\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>美团、青桔、哈啰共享单车调价</strong></a></p>\n  <p>近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集体调价。（金融时报）</p>\n  <p><a href=\"https://36kr.com/newsflashes/3896547919644294\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>瓜子二手车线下直卖场首店今日正式开业</strong></a></p>\n  <p>36氪获悉，瓜子二手车线下直卖场首店苏州直卖场今",
+    "title_zh": "氪星晚报｜元宝与京东AI Agent正式打通小程序生态等",
+    "summary_zh": "本期晚报涵盖多项动态：腾讯元宝与京东AI Agent打通小程序生态，实现服务互联互通；LG新能源将为谷歌最大光储一体化项目供应电池；美团、青桔、哈啰共享单车集体调价。",
+    "key_points": [
+      "腾讯元宝与京东AI Agent正式打通小程序生态",
+      "LG新能源将供应谷歌最大‘光储一体’项目电池",
+      "美团、青桔、哈啰共享单车在一线城市同步上调起步价"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "00741da0faee883ba50e61fd52f86178",
+    "title": "How 7 young people feel about artificial intelligence",
+    "url": "https://www.reddit.com/r/artificial/comments/1ux399u/how_7_young_people_feel_about_artificial/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-15T11:33:25+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ux399u/how_7_young_people_feel_about_artificial/\"> <img alt=\"How 7 young people feel about artificial intelligence\" src=\"https://external-preview.redd.it/Jx9blma7fb4VHpEaIuydpodr0R_XZs1w1HumqUwaurA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bcfd8cfcd8a798f9b7ffd93afbc0e89b94142181\" title=\"How 7 young people feel about artificial intelligence\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/u",
+    "title_zh": "7位年轻人如何看待人工智能",
+    "summary_zh": "一篇来自Reddit的报道，采访了7位年轻人对人工智能的看法和感受，反映了年轻一代对AI技术影响的不同观点与态度。",
+    "key_points": [
+      "采访了7位年轻人对AI的不同看法",
+      "反映年轻一代对AI技术影响的多元观点"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f7d98cef69320ce26b060826a7fb3e7d",
+    "title": "诺基亚与英伟达推出行业首个商用AI-RAN平台",
+    "url": "https://36kr.com/newsflashes/3896822215722631?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-15T11:32:32+00:00",
+    "content_snippet": "7月15日，诺基亚公司发表声明称，公司已与英伟达共同开发出业界首个商用人工智能驱动的无线接入网络（AI-RAN）平台。诺基亚表示，新的网络设备将使电信网络运营商到2028年能够在相同无线频段上传输的数据量翻倍，其预计将于明年上市。（界面）",
+    "title_zh": "诺基亚与英伟达推出行业首个商用AI-RAN平台",
+    "summary_zh": "诺基亚与英伟达联合开发的业界首个商用AI驱动无线接入网络平台发布，该平台预计明年上市，声称可使电信运营商在相同频段上的数据传输量到2028年翻倍。",
+    "key_points": [
+      "诺基亚与英伟达推出业界首个商用AI-RAN平台",
+      "该平台预计2028年能让相同频段数据传输量翻倍"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
