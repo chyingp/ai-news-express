@@ -271,5 +271,122 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c89abe114d39018749953d2f9da64a85",
+    "title": "FCC to repeal 39% TV ownership cap in boost for Trump-friendly news orgs",
+    "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-15T18:52:22+00:00",
+    "content_snippet": "FCC chairman claims power to repeal TV ownership limit set by Congress.",
+    "title_zh": "FCC将废除39%电视所有权上限，为特朗普友好新闻机构助力",
+    "summary_zh": "美国联邦通信委员会主席声称有权废除国会设定的电视观众覆盖率39%上限，此举被视为为亲特朗普的新闻媒体扩大影响力铺平道路。",
+    "key_points": [
+      "FCC主席主张废除国会设定的电视所有权上限。",
+      "废除39%上限将有利于亲特朗普的新闻机构。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "20041b0264f6bdad3ff056fe0651fe3c",
+    "title": "GPT-Red — improving model security through automated red teaming of prompt injection vulnerabilities:",
+    "url": "https://nitter.net/gdb/status/2077464463251554327#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-15T18:45:00+00:00",
+    "content_snippet": "<p>GPT-Red — improving model security through automated red teaming of prompt injection vulnerabilities:</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>Introducing GPT-Red<br />\n<br />\nAn internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment.<br />\n<br />\n<a href=\"https://openai.com/index/unlocking-self-improvement-gpt-red/\">openai.com/index/unlocking-s…</a></p>\n<hr />\n<b>Link</",
+    "title_zh": "GPT-Red：通过自动化红队测试提示注入漏洞提升模型安全性",
+    "summary_zh": "OpenAI发布内部自动化红队工具GPT-Red，旨在大规模发现其模型中的提示注入漏洞，从而提升模型安全性。",
+    "key_points": [
+      "OpenAI推出GPT-Red工具，用于自动化发现模型安全漏洞。",
+      "该工具专注于大规模检测提示注入攻击。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "be5f4e7765aab446fbc05f8db6a59632",
+    "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+    "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-15T18:04:06+00:00",
+    "content_snippet": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+    "title_zh": "Thinking Machines发布首个开源模型Inkling，挑战通用AI范式",
+    "summary_zh": "AI初创公司Thinking Machines发布其首个开源模型Inkling，作为其反对“一刀切”式AI路线的重要公开证明，此前该公司已低调建设AI基础设施一年半。",
+    "key_points": [
+      "Thinking Machines发布首个开源模型Inkling。",
+      "此举旨在打破通用AI范式，提供差异化方案。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "615f90691be9a1957651aa06d36f9b2e",
+    "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-15T17:48:01+00:00",
+    "content_snippet": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and how they were acquired, this a rare [&#8230;]",
+    "title_zh": "Suno被曝从YouTube、Genius及Deezer抓取数百万歌曲训练模型",
+    "summary_zh": "AI音乐生成器Suno在一次黑客事件中泄露的数据显示，其模型训练数据来自从YouTube Music、Deezer和Genius等平台抓取的大量歌曲和歌词，引发版权争议。",
+    "key_points": [
+      "Suno训练数据被曝抓取自YouTube等平台数百万首歌曲。",
+      "此次曝光源于黑客攻击泄露的内部数据。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "74e414938bedca0d7c93ce6f5fd7e830",
+    "title": "Looking for JEPA devil advocates [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uxcryc/looking_for_jepa_devil_advocates_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-15T17:34:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am currently doing research on world models, specially in tje field of robot learning, and, as probably most of you alredy know, JEPA-like models are mentioned over and over. </p> <p>I read the main recent papers from lecun as well as other research groups, and I personally think the whole approach is very promising and can really go somewhere.</p> <p>But after listening a bunch of the recent Y Lecun conferences his ideas looks even too cool compared to &quot;",
+    "title_zh": "寻找JEPA的魔鬼代言人 [研究讨论]",
+    "summary_zh": "一位Reddit用户在机器人学习领域的世界模型研究中，对JEPA类模型被频繁提及提出质疑，寻求对其有效性持反对意见的论据。",
+    "key_points": [
+      "研究人员对JEPA模型在机器人学习中的主导地位提出质疑。",
+      "发帖寻求对JEPA持批评观点的技术论据。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
