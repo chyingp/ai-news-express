@@ -388,5 +388,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b66edda67e5525ce579be767d1762e40",
+    "title": "amazing to me that some people want the silent version https://openai.com/supply/co-lab/work-louder/",
+    "url": "https://nitter.net/sama/status/2077489177374208000#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-15T20:23:12+00:00",
+    "content_snippet": "<p>amazing to me that some people want the silent version<br />\n<br />\n<a href=\"https://openai.com/supply/co-lab/work-louder/\">openai.com/supply/co-lab/wor…</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://openai.com/supply/co-lab/work-louder/\">\n<img src=\"https://nitter.net/pic/card_img%2F2076457121227665408%2Fvxb8oSiK%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Supply Co. x Work Louder</b>\n</a>\n<p>Discover the Supply Co. × Work Louder kbd-1.0 Codex micro, an exclusive collaboration combining",
+    "title_zh": "令人惊讶的是，有些人竟想要静音版本",
+    "summary_zh": "Sam Altman 在 X 平台分享 OpenAI 合作推出的硬件产品，并调侃表示对有人想要静音版本感到惊讶。",
+    "key_points": [
+      "Sam Altman 回应网友关于硬件静音功能的反馈",
+      "推文链接指向 OpenAI 合作推出的 Work Louder 键盘产品"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "84272a721d1ba5ef0d9bbc529ba309ed",
+    "title": "AI slop movies are the new direct-to-video cash grabs",
+    "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-15T20:00:00+00:00",
+    "content_snippet": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the Homeric [&#8230;]",
+    "title_zh": "AI 烂片正成为新的直发录像带敛财手段",
+    "summary_zh": "The Verge 评论称，在克里斯托弗·诺兰新片上映之际，市场上涌现出大量由 AI 生成的劣质电影，试图通过蹭热点快速牟利，复制昔日直发录像带的商业模式。",
+    "key_points": [
+      "AI 生成的低成本电影借诺兰新片热度扎堆出现",
+      "这种模式被类比为过去直发录像带的商业敛财手段"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c9ca9bb827ce5a05b0c0c57bfb86b28a",
+    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-15T19:41:38+00:00",
+    "content_snippet": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+    "title_zh": "深陷硬件官司之际，OpenAI 发布 230 美元 Codex 键盘",
+    "summary_zh": "TechCrunch 报道，OpenAI 在正与苹果就硬件商业秘密盗窃指控打官司期间，发布了一款售价 230 美元的发光键盘，专为其智能编程应用 Codex 设计。",
+    "key_points": [
+      "OpenAI 发布一款 230 美元、适配 Codex 应用的发光键盘",
+      "该产品发布正值 OpenAI 与苹果就硬件相关指控进行法律诉讼"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0a5b6d72645d2168270f7e27a2e43305",
+    "title": "Alberta Is Using AI to Rebuild $2 Billion Worth of Government Software, and Quebec Just Signed On to Copy It",
+    "url": "https://www.reddit.com/r/artificial/comments/1uxfvbm/alberta_is_using_ai_to_rebuild_2_billion_worth_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-15T19:27:43+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uxfvbm/alberta_is_using_ai_to_rebuild_2_billion_worth_of/\"> <img alt=\"Alberta Is Using AI to Rebuild $2 Billion Worth of Government Software, and Quebec Just Signed On to Copy It\" src=\"https://external-preview.redd.it/PIFhxsHkDmPo9x-ahf5qukXQhlBtR3DvmJrY_4nYMp0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5bd648a99dc77712e9ab2f5556832e53269a0ee5\" title=\"Alberta Is Using AI to Rebuild $2 Billion Worth of Government Softw",
+    "title_zh": "阿尔伯塔省用 AI 重建 20 亿美元政府软件，魁北克省签约效仿",
+    "summary_zh": "Reddit 讨论贴指出，加拿大阿尔伯塔省正利用人工智能技术重建价值 20 亿美元的政府软件系统，魁北克省已签署协议准备复制这一模式。",
+    "key_points": [
+      "阿尔伯塔省使用 AI 重建价值 20 亿美元的政府软件系统",
+      "魁北克省已签约，计划采用相同的 AI 技术方案"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
