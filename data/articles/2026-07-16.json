@@ -1844,5 +1844,252 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "80af98d56c7a9b554f067f99d661c6b9",
+    "title": "报告称AI收入已达临界点，开始证明数据中心投资的经济合理性",
+    "url": "https://36kr.com/newsflashes/3898279922108034?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-16T12:24:21+00:00",
+    "content_snippet": "研究机构Exponential View的报告显示，来自于人工智能（AI）的收入已达临界点，表明科技公司在这一领域投入数千亿美元在经济上可能具有可持续性。报告显示，超大规模云服务商和新兴云服务商的全球AI销售收入达到250亿美元，连续第二个季度超过该行业与数据中心和芯片投资相关的估计折旧成本210亿美元。这一里程碑表明，AI公司的收入开始足以覆盖其资本开支成本，但利润空间仍然很薄。（财联社）",
+    "title_zh": "报告称AI收入已达临界点，开始证明数据中心投资的经济合理性",
+    "summary_zh": "研究显示，全球AI销售收入已达250亿美元，连续两季度超过数据中心和芯片投资的折旧成本，表明AI开始具备经济可持续性，但利润空间仍薄。",
+    "key_points": [
+      "全球AI销售收入已达250亿美元，超过210亿美元折旧成本",
+      "AI收入连续两季度覆盖资本开支，经济可持续性获验证",
+      "利润空间仍然很薄，盈利压力尚存"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2baacaf7a48c3f2f9d790d01b8774b92",
+    "title": "英伟达发布全新人工智能模型，并扩建日本实体人工智能产业生态",
+    "url": "https://36kr.com/newsflashes/3898269495789188?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-07-16T12:18:42+00:00",
+    "content_snippet": "英伟达于周三推出一款面向机器人与视觉智能体的全新AI模型，进一步加码日本实体人工智能赛道。这款全新模型名为Cosmos 3 Edge，属于世界模型，能够助力智能系统实时感知实体环境并完成自主导航。相较于大语言模型（LLM），世界模型可依托更多维度的数据输入完成学习。本次发布紧跟今年5月Cosmos 3基础版的上线节奏。（新浪财经）",
+    "title_zh": "英伟达发布全新AI模型，并扩建日本实体人工智能产业生态",
+    "summary_zh": "英伟达推出面向机器人与视觉智能体的世界模型Cosmos 3 Edge，助力智能系统实时感知和自主导航，进一步加码日本实体AI赛道。",
+    "key_points": [
+      "英伟达发布Cosmos 3 Edge，一款面向机器人的世界模型",
+      "该模型可实时感知实体环境并完成自主导航",
+      "标志着英伟达在日本实体AI生态的持续扩建"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "26338776793ed53566ec619b44abb67b",
+    "title": "世界人工智能合作组织协定签署仪式举行",
+    "url": "https://36kr.com/newsflashes/3898282729899911?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-16T12:18:15+00:00",
+    "content_snippet": "7月16日，世界人工智能合作组织协定签署仪式在上海举行。（新华社）",
+    "title_zh": "世界人工智能合作组织协定签署仪式举行",
+    "summary_zh": "世界人工智能合作组织协定签署仪式于7月16日在上海举行，标志着国际AI合作迈出重要一步。",
+    "key_points": [
+      "世界人工智能合作组织协定在上海签署",
+      "该协定旨在推动国际AI合作与治理"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2f85cd9ed47dd454e25992e04f174e17",
+    "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+    "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-16T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other&#8230;",
+    "title_zh": "OpenAI推出GPT-Red：一个用于提升模型安全性的LLM超级黑客",
+    "summary_zh": "OpenAI打造了一款名为GPT-Red的LLM超级黑客，用作内部对抗训练，以发现和修复模型漏洞，提升AI安全性。",
+    "key_points": [
+      "OpenAI推出GPT-Red，一个用于内部安全测试的LLM",
+      "该模型作为超级黑客，旨在发现和修复其他模型漏洞",
+      "此举旨在提升OpenAI模型的安全性和可靠性"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "53ca432aa98188fabd10bd6516866745",
+    "title": "Google ordered to open Android and Search to rivals in Europe",
+    "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-16T12:06:51+00:00",
+    "content_snippet": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's control over two of the tech industry's most important platforms and have [&#8230;]",
+    "title_zh": "欧盟下令谷歌向竞争对手开放安卓和搜索服务",
+    "summary_zh": "欧盟根据数字反垄断规则，要求谷歌向竞争对手的AI助手和搜索引擎开放安卓系统及谷歌搜索的关键部分，可能削弱谷歌的控制力。",
+    "key_points": [
+      "欧盟要求谷歌开放安卓和搜索服务给竞争对手",
+      "该决定基于数字市场法案，旨在打破谷歌的垄断",
+      "可能削弱谷歌在AI助手和搜索市场的控制力"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3a21c9a05a1725ef48bfa288bbe13f4c",
+    "title": "芯原股份：4月30日至7月16日新签订单64.13亿元",
+    "url": "https://36kr.com/newsflashes/3898240506742405?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-16T12:03:51+00:00",
+    "content_snippet": "36氪获悉，芯原股份公告，2026年1月1日至2026年7月16日，公司新签订单合计146.53亿元，其中绝大部分为一站式芯片定制业务订单。2026年4月30日至2026年7月16日新签订单64.13亿元，延续前期强劲增长态势。前述64.13亿元新签订单中，AI算力相关订单及数据处理领域订单占比均超过90%。",
+    "title_zh": "芯原股份：4月30日至7月16日新签订单64.13亿元",
+    "summary_zh": "芯原股份公告称，近两个半月新签订单64.13亿元，其中AI算力及数据处理订单占比超90%，延续强劲增长态势。",
+    "key_points": [
+      "芯原股份近两个半月新签订单64.13亿元",
+      "AI算力及数据处理订单占比超过90%",
+      "公司订单增长强劲，受益于AI算力需求爆发"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ff8c3e2a9869be38b164a0cac6aa9885",
+    "title": "摩尔线程：预计上半年营业收入同比增长135.12%-149.37%",
+    "url": "https://36kr.com/newsflashes/3898265826232199?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-16T12:01:03+00:00",
+    "content_snippet": "36氪获悉，摩尔线程公告，预计2026年上半年营业收入为16.5亿元—17.5亿元，同比增长135.12%至149.37%。报告期内，得益于人工智能产业的蓬勃发展及市场对全功能GPU的强劲需求， 叠加公司夸娥智算集群商业化加速，产品性能获得客户高度认可并实现稳定供货， 公司市场竞争优势进一步扩大，推动收入快速增长。",
+    "title_zh": "摩尔线程：预计上半年营收同比增长135.12%-149.37%",
+    "summary_zh": "摩尔线程预计上半年营收16.5-17.5亿元，同比增长超135%，主要得益于AI产业蓬勃发展和夸娥智算集群的商业化加速。",
+    "key_points": [
+      "摩尔线程上半年营收预计增长超135%",
+      "增长得益于AI产业和全功能GPU的强劲需求",
+      "夸娥智算集群商业化加速，获得客户高度认可"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "73fdd05cfaaf7af066ef00a9bdf5e3ea",
+    "title": "腾讯云SkillPay上线",
+    "url": "https://36kr.com/newsflashes/3898234513950597?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-16T11:52:06+00:00",
+    "content_snippet": "36氪获悉，7月16日，腾讯SkillHub正式上线Agent付费技能商业化平台SkillPay，将技能分发、Agent调用与技能支付三方进行打通，打造一套安全又完善的Agent技能支付体系。目前，餐饮零售、AIGC内容制作、在线旅游、金融数据服务等领域的多家代表性企业已首批入驻SkillPay平台。",
+    "title_zh": "腾讯云SkillPay上线",
+    "summary_zh": "腾讯SkillHub正式上线Agent付费技能商业化平台SkillPay，打通技能分发、调用与支付，首批已有多家代表性企业入驻。",
+    "key_points": [
+      "腾讯推出Agent付费技能商业化平台SkillPay",
+      "平台打通技能分发、调用与支付体系",
+      "餐饮零售、AIGC等领域企业已首批入驻"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "154aa2f8aa4fe56cc3ee35e699c89714",
+    "title": "礼来28亿美元收购AtaiBeckley，扩充难治性抑郁症治���管线",
+    "url": "https://36kr.com/newsflashes/3898199471408773?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-16T11:03:27+00:00",
+    "content_snippet": "礼来7月16日宣布达成最终协议，将以每股6.75美元现金收购临床阶段生物制药公司AtaiBeckley，交易股权价值约28亿美元。此外，若其两项精神疾病候选疗法达到特定研发及监管里程碑，股东还可获得每股最高2.50美元或有价值权，对应潜在额外股权价值约10亿美元。交易预计于今年第三季度完成，仍需股东及监管批准。（界面）",
+    "title_zh": "礼来28亿美元收购AtaiBeckley，扩充难治性抑郁症治疗管线",
+    "summary_zh": "礼来宣布以28亿美元收购临床阶段生物制药公司AtaiBeckley，以扩充其精神疾病治疗管线，交易预计第三季度完成。",
+    "key_points": [
+      "礼来以28亿美元收购临床阶段生物制药公司AtaiBeckley",
+      "收购旨在扩充难治性抑郁症等精神疾病治疗管线",
+      "交易还包括最高10亿美元的监管里程碑付款"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "969ceaf475e16ddd3d1822dd2eb8a50e",
+    "title": "COMPUTER COPS: Inside the big business of selling AI to the police",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-16T11:00:00+00:00",
+    "content_snippet": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I was prohibited from entering, but from a number of nearby locations, I met with attendees who told me [&#8230;]",
+    "title_zh": "计算机警察：向警方销售AI的大生意内幕",
+    "summary_zh": "文章深入探讨了科技公司向美国警方销售AI监控和预测工具的庞大产业，揭示了其运作方式和引发的隐私与伦理争议。",
+    "key_points": [
+      "揭秘向警方销售AI监控和预测工具的庞大产业",
+      "AI在警务中的应用引发隐私和伦理担忧",
+      "文章深入行业内部，揭示其商业运作模式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
