@@ -2091,5 +2091,184 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "92bf3c7f3d86206d9766d92b76a2c28b",
+    "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+    "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-16T13:17:59+00:00",
+    "content_snippet": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+    "title_zh": "Apple Intelligence获批在华落地，联手阿里巴巴和百度",
+    "summary_zh": "苹果的AI功能Apple Intelligence已获准在中国市场推出，合作方为阿里巴巴和百度。此举标志着苹果在关键市场推进AI战略迈出重要一步。",
+    "key_points": [
+      "Apple Intelligence获批在中国推出，合作方为阿里巴巴和百度",
+      "该合作标志着苹果在关键AI市场的重要布局",
+      "传闻已久的交易最终落地，加速苹果AI在华落地进程"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "alibaba",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "32dd6630a2a95c3f24c916e09798da21",
+    "title": "PnP-CoSMo: A Multi-Contrast MRI Reconstruction Framework based on Content/Style Modeling [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uy2h66/pnpcosmo_a_multicontrast_mri_reconstruction/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-16T13:10:56+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1uy2h66/pnpcosmo_a_multicontrast_mri_reconstruction/\"> <img alt=\"PnP-CoSMo: A Multi-Contrast MRI Reconstruction Framework based on Content/Style Modeling [R]\" src=\"https://external-preview.redd.it/d6rTpW7131dBgTTGfjDXPAIkblduF91pERLr20qfQH4.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=efc5027d8347fa1bc645f041300b0979e5c14469\" title=\"PnP-CoSMo: A Multi-Contrast MRI Reconstruction Framework based on Content/Style Model",
+    "title_zh": "PnP-CoSMo：基于内容/风格建模的多对比度MRI重建框架",
+    "summary_zh": "一篇研究论文提出了PnP-CoSMo框架，这是一种基于内容与风格建模的多对比度磁共振成像重建方法，旨在提升医学影像重建质量。",
+    "key_points": [
+      "提出PnP-CoSMo框架，用于多对比度MRI图像重建",
+      "方法基于内容与风格分离建模，提升重建效果",
+      "属于医学影像AI领域的前沿研究论文"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2d6fa5d65c56db6be762e93ddd4b4e94",
+    "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-16T13:00:34+00:00",
+    "content_snippet": "Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in with five new games arriving in the cloud. Plus, GeForce NOW officially launches in India, moving from beta to public availability — meaning gamers can sign up without a waitlist. [&#8230;]",
+    "title_zh": "《鬼武者：剑之道》即将登陆GeForce NOW，云游戏服务正式进入印度",
+    "summary_zh": "英伟达宣布《鬼武者：剑之道》将首发加入GeForce NOW云游戏平台，本周提供试玩Demo。同时，GeForce NOW在印度结束测试正式上线，并新增五款游戏。",
+    "key_points": [
+      "《鬼武者：剑之道》将首发登陆GeForce NOW，并提供试玩Demo",
+      "GeForce NOW云游戏服务正式在印度市场推出",
+      "本周另有五款新游戏加入该云游戏平台"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6895063c5fd262a1741f925c461ddd91",
+    "title": "Claude can now use your 1Password credentials for you",
+    "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-16T13:00:00+00:00",
+    "content_snippet": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking travel and managing online accounts on their behalf without having to manually input their login [&#8230;]",
+    "title_zh": "Claude现已支持调用你的1Password密码凭据",
+    "summary_zh": "1Password推出浏览器集成功能，允许Anthropic的聊天机器人Claude在用户授权下访问存储的密码等凭据，以自动完成预订旅行、管理在线账户等多步骤任务。",
+    "key_points": [
+      "Claude可经用户授权调用1Password中存储的密码和用户名",
+      "该集成旨在帮助Claude自动完成多步骤在线任务",
+      "功能由1Password推出，深化了AI助手与安全工具的整合"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b2dfe79b034456abb22c0667d163d097",
+    "title": "The qlora 2e-4 default is wrong under 10k samples and nobody talks about it [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-16T12:50:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Every qlora tutorial on earth says start at 2e-4. Unsloth docs, hf examples, the paper itself. and for small datasets i now think that numbers is a trap.</p> <p>Where does 2e-4 come from? alpaca. 52k samples. cool, except most of us are fine tuning on 5-10k samples we scraped and labeled ourselves, not 52k. at that size the model overfits inside epoch one and then youre just watching training loss go down all pretty while eval lost sits there doing nothing. or c",
+    "title_zh": "QLoRA默认学习率2e-4在万级样本下可能是个陷阱",
+    "summary_zh": "一篇Reddit技术讨论指出，QLoRA微调中广泛使用的默认学习率2e-4（源自5.2万样本的Alpaca数据集）在处理少于1万条样本的小数据集时可能效果不佳，但鲜少被提及。",
+    "key_points": [
+      "QLoRA默认学习率2e-4在小于1万样本的数据集上可能效果不佳",
+      "该默认值源于Alpaca数据集的5.2万条样本配置",
+      "多数教程和文档未提及此问题，可能误导小数据集微调"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "19dd3019feef948df2b8f1894095abd4",
+    "title": "DeepSeek估值超3500亿元",
+    "url": "https://36kr.com/newsflashes/3898295917578112?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-16T12:31:40+00:00",
+    "content_snippet": "开润股份16日晚间的一纸投资进展公告，意外披露了国内头部人工智能企业“深度求索”（DeepSeek）的最新市场估值。按公告数据推算，DeepSeek本轮融资后估值已攀升至约3510亿元。从接近DeepSeek处人士确认，随着本轮融资完成，该公司目前已经开始启动第二轮融资了，但是年底是否冲刺科创板，目前并未确定。 (上证报)",
+    "title_zh": "DeepSeek估值超3500亿元",
+    "summary_zh": "据上市公司公告披露，国内AI企业深度求索（DeepSeek）最新估值已升至约3510亿元人民币。公司已完成本轮融资，并已启动第二轮融资。",
+    "key_points": [
+      "DeepSeek本轮融资后估值已攀升至约3510亿元人民币",
+      "公司已完成本轮融资，并已启动第二轮融资",
+      "年底是否冲刺科创板上市尚未确定"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f120e0e25b308cf7e356b492271b8262",
+    "title": "欧盟要求谷歌开放安卓AI功能及搜索数据",
+    "url": "https://36kr.com/newsflashes/3898270285235845?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-16T12:30:32+00:00",
+    "content_snippet": "欧盟委员会7月16日依据《数字市场法》（DMA）向谷歌发布两项具有约束力的技术规范措施，要求其向第三方AI助手开放Android系统关键功能，并向第三方搜索引擎共享匿名化搜索数据，以促进人工智能和搜索市场竞争。根据要求，谷歌需允许第三方AI助手调用Android关键系统功能，支持语音唤醒、跨应用执行任务等能力，与Gemini获得同等待遇；同时，谷歌需向符合条件的搜索引擎及具备搜索功能的AI聊天机器人开放匿名化搜索数据，并建立透明的数据获取及定价机制。（界面）",
+    "title_zh": "欧盟要求谷歌开放安卓AI功能及搜索数据",
+    "summary_zh": "欧盟委员会依据《数字市场法》要求谷歌向第三方AI助手开放安卓系统关键功能，并向第三方搜索引擎共享匿名化搜索数据，以促进AI和搜索市场的竞争。",
+    "key_points": [
+      "欧盟要求谷歌开放安卓AI功能，与Gemini享受同等待遇",
+      "谷歌须向第三方搜索引擎及AI聊天机器人共享匿名化搜索数据",
+      "此举依据《数字市场法》，旨在打破谷歌的市场垄断"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
