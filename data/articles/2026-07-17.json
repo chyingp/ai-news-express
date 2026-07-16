@@ -652,5 +652,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "45cef537a8d6a34ac8a0a87291a656b3",
+    "title": "New Fable5/Opus4.8 harness called \"Schema\" claims 99% on ARC-3 [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uyf8oo/new_fable5opus48_harness_called_schema_claims_99/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-16T21:02:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><blockquote> <p>Schema, the harness we introduce today, reaches 99% on the ARC‑AGI‑3 Public set using Claude Opus 4.8 and Fable 5, and 95.35% using GPT‑5.6 Sol. It does not change the underlying model weights. Instead, it changes the process around them: how observations are turned into a working model of the game, how predictions are tested against the interaction history, and how plans are executed and revised.</p> <p>Both scores come from a fixed fallback rule: ",
+    "title_zh": "新框架Schema声称在ARC-3上达99%准确率，基于Claude Opus 4.8与Fable 5",
+    "summary_zh": "Reddit论坛发布了一款名为Schema的新框架，宣称在ARC-AGI-3公开数据集上，使用Claude Opus 4.8和Fable 5模型达到了99%的准确率，使用GPT-5.6 Sol时也达到95.35%。该框架不修改模型权重，而是改变模型周围的处理流程。",
+    "key_points": [
+      "Schema框架在ARC-AGI-3公开集上达到99%准确率",
+      "该框架不修改模型权重，而是优化模型调用流程",
+      "测试基于Claude Opus 4.8/Fable 5及GPT-5.6 Sol"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
