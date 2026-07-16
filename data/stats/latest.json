@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16 01:18 CST",
-  "generated_date": "2026-07-16",
+  "generated_at": "2026-07-17 01:15 CST",
+  "generated_date": "2026-07-17",
   "indicators": [
     {
       "key": "gdp",
@@ -706,9 +706,80 @@
       "better": "up",
       "source": "World Bank",
       "freq": "年度",
-      "points": [],
-      "latest": null,
-      "prev": null
+      "points": [
+        {
+          "date": "2010",
+          "value": 4410.0
+        },
+        {
+          "date": "2011",
+          "value": 5130.0
+        },
+        {
+          "date": "2012",
+          "value": 6010.0
+        },
+        {
+          "date": "2013",
+          "value": 6860.0
+        },
+        {
+          "date": "2014",
+          "value": 7600.0
+        },
+        {
+          "date": "2015",
+          "value": 8040.0
+        },
+        {
+          "date": "2016",
+          "value": 8360.0
+        },
+        {
+          "date": "2017",
+          "value": 8830.0
+        },
+        {
+          "date": "2018",
+          "value": 9720.0
+        },
+        {
+          "date": "2019",
+          "value": 10510.0
+        },
+        {
+          "date": "2020",
+          "value": 10740.0
+        },
+        {
+          "date": "2021",
+          "value": 12220.0
+        },
+        {
+          "date": "2022",
+          "value": 13170.0
+        },
+        {
+          "date": "2023",
+          "value": 13750.0
+        },
+        {
+          "date": "2024",
+          "value": 13660.0
+        },
+        {
+          "date": "2025",
+          "value": 14230.0
+        }
+      ],
+      "latest": {
+        "date": "2025",
+        "value": 14230.0
+      },
+      "prev": {
+        "date": "2024",
+        "value": 13660.0
+      }
     },
     {
       "key": "population",

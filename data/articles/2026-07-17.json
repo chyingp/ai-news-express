@@ -1,0 +1,316 @@
+[
+  {
+    "id": "7caead535fc42efde210c3cda4667873",
+    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+    "source": "VentureBeat AI",
+    "source_zh": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-16T17:06:08+00:00",
+    "content_snippet": "<p>Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category — yet a majority of enterprises have already watched their agents produce confident, wrong answers traced to missing or inconsistent context. A governed semantic layer is emerging as the",
+    "title_zh": "AI 上下文鸿沟：企业 AI 组织面临信任问题而非检索问题，且多数仍在构建修复方案",
+    "summary_zh": "调查101家企业发现，为AI代理提供业务上下文的RAG基础设施虽发展迅速，但信任度不足。供应商原生检索已悄然超越专用向量数据库，成为默认方案。",
+    "key_points": [
+      "企业 AI 中 RAG 成为默认上下文来源，但缺乏信任",
+      "供应商原生检索超越专用向量数据库成为主流"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0fa8e4afacdeb44ec7a8ae11761de4bc",
+    "title": "Meta laid of thousands to prioritize AI. Former employees say AI was used to fire them.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uy8a7a/meta_laid_of_thousands_to_prioritize_ai_former/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-16T16:47:39+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uy8a7a/meta_laid_of_thousands_to_prioritize_ai_former/\"> <img alt=\"Meta laid of thousands to prioritize AI. Former employees say AI was used to fire them.\" src=\"https://external-preview.redd.it/p9l62ML6_3g1Isg0Il-5Tj3DL_7hPpPNqxc6al9a4MM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e3f42ace4bc223398ebdf20ab8662d27b2af71c\" title=\"Meta laid of thousands to prioritize AI. Former employees say AI was used to fire them.\" />",
+    "title_zh": "Meta 为优先 AI 裁员数千人，前员工称被 AI 解雇",
+    "summary_zh": "Meta 为优先发展 AI 而大规模裁员，前员工声称公司使用 AI 系统决定解雇名单，引发关于 AI 在人力资源决策中角色的争议。",
+    "key_points": [
+      "Meta 为聚焦 AI 战略进行大规模裁员",
+      "前员工指控 Meta 使用 AI 工具决定裁员名单"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1a909f02ea4e4811d4319cb8b5049616",
+    "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+    "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+    "source": "VentureBeat AI",
+    "source_zh": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-16T16:40:48+00:00",
+    "content_snippet": "<p>Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outcomes. Yet two-thirds already allow, or are actively engineering toward, deploying agent changes to p",
+    "title_zh": "AI 代理评估鸿沟：企业存在现实对齐问题而非覆盖问题，但仍推进生产部署",
+    "summary_zh": "对157家企业的调查显示，AI代理获得更多自主权，但内部评估信任度低。半数企业已部署通过内部评估却在客户处失败的代理。",
+    "key_points": [
+      "半数企业 AI 代理通过内部评估后在生产中失败",
+      "仅二十分之一企业完全信任自动化评估"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8f76692d8a21eb222a921bac235bf61b",
+    "title": "I made an LLM and Knowledge Graph based behavorial analysis tool!",
+    "url": "https://www.reddit.com/r/artificial/comments/1uy7dc9/i_made_an_llm_and_knowledge_graph_based/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-16T16:14:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hellooo!</p> <p>Over the past couple years I've been working on a personal behavioral framework called the &quot;BIIS&quot;. Recently, I made AkiAnalyst, a prototype app based on the BIIS using and app called &quot;Emergent&quot;.</p> <p>Unlike a typical AI chatbot, AkiAnalyst mixes a Language Model with a Knowledge Graph to form more structured and consistent behavioral models. I have submitted this app in the Fabrizio Romano x Emergent App Contest, so if you l",
+    "title_zh": "我制作了一个基于大语言模型和知识图谱的行为分析工具",
+    "summary_zh": "一位开发者分享其基于个人行为框架 BIIS 和 Emergent 应用制作的 AI 原型应用 AkiAnalyst，利用大语言模型和知识图谱进行行为分析。",
+    "key_points": [
+      "开发者分享基于 LLM 和知识图谱的行为分析工具原型"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dccf89269fea3ed16808efc61d984739",
+    "title": "上市脚步临近，Anthropic据悉计划几周内召开IPO投资者会议",
+    "url": "https://36kr.com/newsflashes/3898501689952130?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-16T16:11:55+00:00",
+    "content_snippet": "7月16日，据报道，Anthropic正安排与投资者举行会面，为潜在的大规模IPO做准备。负责此次IPO的承销银行将在未来几周安排投资者与这家Claude聊天机器人开发商会面。Anthropic最早可能于10月启动IPO。Anthropic在5月完成一轮融资后估值达到9,650亿美元，首次超过OpenAI成为全球估值最高的未上市公司之一。（界面）",
+    "title_zh": "上市脚步临近，Anthropic 据悉计划几周内召开 IPO 投资者会议",
+    "summary_zh": "报道称 Anthropic 正安排投资者会议，为其在 5 月以 9.65 万亿美元估值融资后的潜在大规模 IPO 做准备，最早可能于 10 月启动上市。",
+    "key_points": [
+      "Anthropic 计划几周内召开 IPO 投资者会议",
+      "Anthropic 在上一轮融资后估值达 9.65 万亿美元",
+      "有望最早于 10 月启动 IPO 上市"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f841ab6111341882c1dd735e8e85869f",
+    "title": "Are Current AI Memory Architectures Optimizing for the Wrong Abstraction? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-16T16:00:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>While writing an essay about AI memory and persistent context, I started wondering whether current AI memory systems are optimized for the right thing. Current AI systems already maintain forms of persistent context through saved memories, conversation summaries, user preferences, project notes, and similar mechanisms. These memories are primarily descriptive. They help the system remember facts about the user and previous interactions.</p> <p>But suppose future",
+    "title_zh": "当前的 AI 记忆架构是否在优化错误的抽象？[讨论]",
+    "summary_zh": "Reddit 用户发帖探讨当前 AI 记忆系统是否优化了错误的方向，认为现有系统通过保存记忆、摘要等方式维持持久上下文，但可能忽略了更根本的抽象问题。",
+    "key_points": [
+      "讨论 AI 记忆系统是否在优化错误的抽象层次"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c3261b8580a42634b7e0388eaf8ca805",
+    "title": "Google’s AI Mode now lets you link and interact with select apps",
+    "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-16T16:00:00+00:00",
+    "content_snippet": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+    "title_zh": "谷歌 AI Mode 现可连接并交互指定应用",
+    "summary_zh": "谷歌扩展 AI Mode 功能，使其不仅能回答问题，还能连接用户的常用应用，代表用户跨应用完成任务，进一步向代理式 AI 演进。",
+    "key_points": [
+      "谷歌 AI Mode 新增连接和交互指定应用的功能",
+      "AI Mode 从回答问题扩展到代表用户跨应用完成任务"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "478911c8f5b74564ab09e7d120bf077d",
+    "title": "Google is renaming NotebookLM to Gemini Notebook",
+    "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-16T16:00:00+00:00",
+    "content_snippet": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply across Gemini and Google Search. Google first revealed Gemini Notebook - then called Project Tailwind - in May 2023 before widely releasing [&#8230;]",
+    "title_zh": "谷歌将 NotebookLM 更名为 Gemini Notebook",
+    "summary_zh": "谷歌宣布将其 AI 笔记应用 NotebookLM 重命名为 Gemini Notebook，该应用将保持独立但会与 Gemini 和谷歌搜索进行更深度整合。",
+    "key_points": [
+      "谷歌 NotebookLM 正式更名为 Gemini Notebook",
+      "应用将更深度整合到 Gemini 和谷歌搜索生态中"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fc1dde757a2d9ae0fa4bccaa1f0f9546",
+    "title": "Why teens deserve access to safe AI",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-16T16:00:00+00:00",
+    "content_snippet": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "title_zh": "为何青少年应获得使用安全 AI 的权限",
+    "summary_zh": "OpenAI 发布博客阐述其为让青少年安全使用 ChatGPT 所做的努力，包括推出适龄保护措施、学习工具、家长控制以及与专家的合作。",
+    "key_points": [
+      "OpenAI 为青少年推出 ChatGPT 适龄保护和学习工具",
+      "强调通过家长控制和专家合作保障青少年安全使用 AI"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3b5274402cd7e719897fcf17d8811042",
+    "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+    "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-16T15:48:21+00:00",
+    "content_snippet": "Companies coming to market are raising money at fastest pace this century.",
+    "title_zh": "能源 IPO 激增，投资者寻求参与 AI 热潮的途径",
+    "summary_zh": "随着 AI 产业对能源需求激增，投资者积极寻找除科技公司外的投资机会，导致能源公司 IPO 正以本世纪最快速度筹集资金。",
+    "key_points": [
+      "AI 热潮推动能源公司 IPO 以本世纪最快速度增长",
+      "投资者寻求通过能源领域投资来参与 AI 产业增长"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b5237ebb8981563de8db578276c0e75e",
+    "title": "Yes, you can now order DoorDash from the command line",
+    "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-16T15:38:55+00:00",
+    "content_snippet": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of just humans.",
+    "title_zh": "DoorDash 推出命令行点餐工具 dd-cli",
+    "summary_zh": "DoorDash 开放命令行工具 dd-cli 的有限测试版，允许开发者和 AI 代理通过终端搜索商店、构建购物车和下单，标志着软件设计向 AI 代理方向迈出一步。",
+    "key_points": [
+      "DoorDash 发布 dd-cli 命令行工具，支持终端点餐",
+      "工具面向开发者和 AI 代理，而非普通用户",
+      "此举代表软件设计从面向人类转向面向 AI 代理"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bcfaf7641bb6fc8b33100b2f944a9943",
+    "title": "Why is OpenAI selling a ChatGPT basketball?",
+    "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-16T15:31:09+00:00",
+    "content_snippet": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+    "title_zh": "OpenAI 为何销售 ChatGPT 篮球？",
+    "summary_zh": "OpenAI 本周发布了其首款硬件产品，但更引人注目的是一款 ChatGPT 品牌篮球，文章探讨了 OpenAI 涉足实体商品背后的原因。",
+    "key_points": [
+      "OpenAI 首次涉足硬件产品发布",
+      "公司同步推出 ChatGPT 品牌篮球等周边商品",
+      "此举可能旨在扩大品牌影响力或探索新商业模式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bf27aeddf3529c91b301aa53f68fd82c",
+    "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+    "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-16T15:02:00+00:00",
+    "content_snippet": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
+    "title_zh": "前 DeepMind 研究员如何在产品发布前以 3 亿美元种子前估值融资",
+    "summary_zh": "前 DeepMind 研究员 Andrew Dai 凭借其视觉 AI 愿景，在未发布产品的情况下获得 3 亿美元种子前估值融资，他认为视觉 AI 是人工智能的下一个主要前沿领域。",
+    "key_points": [
+      "前 DeepMind 研究员 Andrew Dai 创立的视觉 AI 公司未发布产品即获 3 亿美元估值",
+      "Dai 的研究曾为 ChatGPT 的发展提供参考",
+      "他认为视觉 AI 将是人工智能的下一个重大突破领域"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
