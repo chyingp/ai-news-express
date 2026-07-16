@@ -312,5 +312,197 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7dd47195bb615680b40a3097f56923e0",
+    "title": "I travel for work a lot and my son missed our bedtime stories. I built an AI version of my voice for him.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uyc72e/i_travel_for_work_a_lot_and_my_son_missed_our/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-16T19:08:25+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uyc72e/i_travel_for_work_a_lot_and_my_son_missed_our/\"> <img alt=\"I travel for work a lot and my son missed our bedtime stories. I built an AI version of my voice for him.\" src=\"https://external-preview.redd.it/gcollpfhYhLPdT-rRfH2XuOH7m25oxVz5KIN7abh0a8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a0764fda47053952976574184edece24df978a54\" title=\"I travel for work a lot and my son missed our bedtime stories. I built an ",
+    "title_zh": "我常出差，儿子想念睡前故事，于是我用AI克隆了自己的声音",
+    "summary_zh": "一位经常出差的父亲为缓解儿子对睡前故事的思念，利用AI技术创建了自己声音的数字版本，以便在旅途中也能为儿子讲故事。",
+    "key_points": [
+      "父亲因出差无法陪儿子，用AI克隆自己声音讲故事",
+      "该个人项目展示了AI语音克隆在情感陪伴场景的应用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e1584d5980029d3f60be1d4dc030af59",
+    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+    "source": "VentureBeat AI",
+    "source_zh": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-16T19:02:38+00:00",
+    "content_snippet": "<p>Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is overwhelmingly borrowed from the model providers and hyperscalers rather than purpose-built for a",
+    "title_zh": "AI代理安全危机：54%企业已发生事故，多数仍共享凭证",
+    "summary_zh": "调查显示，过半企业已发生AI代理安全事件，但多数企业仍允许代理共享凭证，未给予独立身份，安全控制措施严重滞后。",
+    "key_points": [
+      "54%受访企业已发生AI代理安全事故或险兆事件",
+      "约三分之二的企业未给AI代理分配独立、受限的身份",
+      "安全控制措施滞后于为AI代理赋予的系统及数据访问权限"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c75d5295cc9bcdf6b50c99bf343cda98",
+    "title": "Meta reins in new AI tool after criticism",
+    "url": "https://www.reddit.com/r/artificial/comments/1uybydj/meta_reins_in_new_ai_tool_after_criticism/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-16T18:59:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uybydj/meta_reins_in_new_ai_tool_after_criticism/\"> <img alt=\"Meta reins in new AI tool after criticism\" src=\"https://external-preview.redd.it/M5NyJn89UokODl0ztDqvj1x5C1H2bPkO_b5q4kWOHOs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bcdbc0772860b8d122f6fbe96da2e9064ef4d517\" title=\"Meta reins in new AI tool after criticism\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Traditional_Blood79",
+    "title_zh": "Meta因批评而收敛其新AI工具",
+    "summary_zh": "Meta在发布新AI工具后遭到外界批评，随即对该工具的功能进行了限制或调整，以回应公众关切。",
+    "key_points": [
+      "Meta新AI工具发布后受到批评",
+      "Meta已采取措施限制或调整该工具功能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cbf304238cb4608ac98552039686d31b",
+    "title": "AI Is this legal?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uyb9ud/ai_is_this_legal/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-16T18:34:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My friend received an email from his financial advisor. Just one paragraph giving a few thoughts and said if he had any questions or thoughts he could email back. Right after that he received an EI generated email giving him suggestions on things he could email back by just clicking the link. Does this sound legal to you that anyone can have access to your emails?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/robertj298\">",
+    "title_zh": "AI 这样做合法吗？",
+    "summary_zh": "一位用户的理财顾问发送邮件后，紧接着收到一封AI生成的建议回复邮件，引发了对AI介入金融服务是否合法合规的讨论。",
+    "key_points": [
+      "理财顾问在发出邮件后，客户收到AI生成的回复建议",
+      "该事件引发了对AI在金融服务中应用的法律边界讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c27a3acd5bed64de18f969e219f14ef4",
+    "title": "Google Vids now lets you star in your own AI videos",
+    "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-16T18:32:54+00:00",
+    "content_snippet": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+    "title_zh": "Google Vids现可让你出演自己的AI视频",
+    "summary_zh": "Google为其视频创作工具Vids增加了个性化AI头像功能，用户可创建数字分身来主演视频，并整合了Gemini Omni用于生成和编辑视频。",
+    "key_points": [
+      "Google Vids推出个性化AI头像，用户可创造数字分身",
+      "新功能整合Gemini Omni，支持通过提示词和参考图生成视频"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0699caaab6d76b8b394918cf6d46c73d",
+    "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+    "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-16T18:22:06+00:00",
+    "content_snippet": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+    "title_zh": "Roblox在移动应用中推出AI驱动的游戏创作功能",
+    "summary_zh": "Roblox在其移动应用中推出了名为“Build”的新功能，允许用户仅通过输入单个文本提示，即可自动生成基础游戏。",
+    "key_points": [
+      "Roblox在移动端推出“Build”功能，降低游戏创作门槛",
+      "用户只需输入文字提示即可生成基础游戏"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ff0b7667266b012b996a3a6d0c44a59c",
+    "title": "we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date. the team is doing amazing work and i think you’ll be very happy with what they’ve got cooking for you. i am happy about this for many reasons, but mostly because i care about our users winning. AI has to be about giving lots of people more freedom, agency, and wealth. we want to do the right thing, but we do not want to scare people into doing our thing.",
+    "url": "https://nitter.net/sama/status/2077817060068057493#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-16T18:06:05+00:00",
+    "content_snippet": "<p>we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date. the team is doing amazing work and i think you’ll be very happy with what they’ve got cooking for you.<br />\n<br />\ni am happy about this for many reasons, but mostly because i care about our users winning. AI has to be about giving lots of people more freedom, agency, and wealth. we want to do the right thing, but we do not want to scare people into doing our thing.</p",
+    "title_zh": "Sam Altman反思过去一年并预告即将推出重磅产品",
+    "summary_zh": "OpenAI首席执行官Sam Altman承认过去一年表现不佳，责任在自己，但预告团队正在研发令人兴奋的新产品，未来一年将是公司史上最好的一年。",
+    "key_points": [
+      "Altman承认过去12个月表现不佳，称责任主要在自己",
+      "预告即将推出重磅产品，承诺未来12个月将是最好的一年",
+      "强调AI应赋予人们更多自由、能力和财富"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ce2196ba2ede0853a6ea4a5237869955",
+    "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-16T17:58:37+00:00",
+    "content_snippet": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single rule, regulation, [and] policy\" to check for outdated [&#8230;]",
+    "title_zh": "纽约州长称正使用AI分析州内每条法规",
+    "summary_zh": "纽约州长Kathy Hochul在采访中透露，尽管她暂停了新建AI数据中心，但其团队正利用AI技术分析纽约州的所有规则、法规和政策。",
+    "key_points": [
+      "纽约州长团队使用AI全面分析州内现行法规",
+      "此举与州长暂停新建AI数据中心的政策形成对比"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
