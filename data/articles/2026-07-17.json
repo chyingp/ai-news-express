@@ -678,5 +678,277 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "610a3f9e8a4c4d7bc91bbcde9667a965",
+    "title": "人形机器人进产线，芯片成“必争之地”",
+    "url": "https://36kr.com/newsflashes/3898940592670599?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-16T23:47:22+00:00",
+    "content_snippet": "“过去大家会问，机器人能不能跳舞，能不能翻跟头？现在大家会问，你的机器人能不能连续工作24小时，能不能重复动作一万次，功能能不能复用到另一款标准化产品？”在2026世界人工智能大会（WAIC）开幕前夕，地瓜机器人开发者生态副总裁胡春旭在一场沟通会上，抛出了人形机器人量产元年给行业带来的新考题，量产对稳定性的极致追求，让人形机器人对芯片的需求从“够用”升级为“量身定制”，端侧芯片赛道由此升温。（上证报）",
+    "title_zh": "人形机器人进产线，芯片成“必争之地”",
+    "summary_zh": "人形机器人进入量产元年，对稳定性的极致要求推动端侧芯片从“够用”升级为“量身定制”，专用芯片赛道因此升温。",
+    "key_points": [
+      "市场需求从表演转向24小时连续稳定工作",
+      "量产要求推动机器人芯片向定制化方向发展",
+      "端侧芯片成为人形机器人产业竞争的关键"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "de5e1fab3a2b24f7f3fbec7408c3e0ed",
+    "title": "微软正筹备类Mythos AI漏洞检测工具‌",
+    "url": "https://36kr.com/newsflashes/3898938728924807?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-16T23:42:30+00:00",
+    "content_snippet": "据报道，微软正筹备类Mythos AI漏洞检测工具‌，这款新产品将依托多套AI模型，自动排查软件漏洞并完成对应安全缺陷的修复。（财联社）",
+    "title_zh": "微软正筹备AI驱动的软件漏洞自动检测与修复工具",
+    "summary_zh": "微软正在开发一款类似于Mythos AI的漏洞检测工具，该工具将依托多套AI模型，自动排查软件漏洞并完成修复。",
+    "key_points": [
+      "微软开发AI安全工具，自动检测和修复软件漏洞",
+      "新产品将依托多套AI模型协同工作"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "211d8841bb9207a436beb33b3931b371",
+    "title": "谷歌据悉推迟发布Gemini 3.5 Pro，因持续提升模型编程能力",
+    "url": "https://36kr.com/newsflashes/3898936840701571?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-07-16T23:37:35+00:00",
+    "content_snippet": "知情人士透露，谷歌最强旗舰AI模型Gemini 3.5 Pro的发布时间已较原计划推迟数月，因为该公司投入了更多时间提升模型能力，尤其是编程能力。据10名现任及前员工透露，Gemini 3.5 Pro延期发布已引起谷歌工程师、AI研究人员和管理层的不满，他们担心，随着Anthropic和OpenAI相继推出性能超越Gemini的模型，谷歌可能失去市场领先优势。（新浪财经）",
+    "title_zh": "谷歌因提升编程能力而推迟发布Gemini 3.5 Pro",
+    "summary_zh": "谷歌最强旗舰AI模型Gemini 3.5 Pro的发布时间已推迟数月，以投入更多时间提升模型编程能力，此举引发内部担忧可能失去市场领先优势。",
+    "key_points": [
+      "Gemini 3.5 Pro因提升编程能力而延期发布",
+      "延期引发内部对落后于Anthropic和OpenAI的担忧",
+      "谷歌工程师和管理层对发布延迟表示不满"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a90b58a74a1170152c48ed0698870e7a",
+    "title": "近1700家A股公司披露上半年业绩预告，三大高景气赛道上市公司描绘增长新曲线",
+    "url": "https://36kr.com/newsflashes/3898933850900356?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-16T23:32:33+00:00",
+    "content_snippet": "A股上市公司半年报业绩预告迎来密集披露期。截至7月16日19时，已有1697家A股上市公司披露上半年业绩预告，呈现显著结构性特征，人工智能（AI）算力、机器人、创新药产业迎来业绩兑现期。这三大赛道上市公司的业绩保持较高增速，既是市场需求驱动的产业周期上行信号，也是新旧动能转换的风向标。专家表示，当前新旧动能转换进程持续，AI算力、机器人、创新药等行业的上市公司迎来业绩集中爆发。这种情况的出现将持续拓展国内新质生产力企业长期增长空间，助力产业穿越周期，筑牢经济增长基本盘。（中证报）",
+    "title_zh": "近1700家A股公司披露业绩预告，AI算力等三大赛道表现突出",
+    "summary_zh": "A股近1700家公司披露上半年业绩预告，其中人工智能算力、机器人、创新药三大高景气赛道迎来业绩兑现期，成为结构性增长亮点。",
+    "key_points": [
+      "AI算力、机器人、创新药业绩增速显著",
+      "三大赛道业绩爆发标志着新旧动能转换",
+      "1697家A股公司已披露业绩预告，呈现结构性特征"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b2b8d4f6a19e34446bca542b4cfc58d5",
+    "title": "上市脚步临近，Anthropic据悉计划几周内召开IPO投资者会议",
+    "url": "https://36kr.com/newsflashes/3898921880569737?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-16T23:25:21+00:00",
+    "content_snippet": "7月16日，据报道，Anthropic正安排与投资者举行会面，为潜在的大规模IPO做准备。负责此次IPO的承销银行将在未来几周安排投资者与这家Claude聊天机器人开发商会面。Anthropic最早可能于10月启动IPO。Anthropic在5月完成一轮融资后估值达到9,650亿美元，首次超过OpenAI成为全球估值最高的未上市公司之一。（界面）",
+    "title_zh": "Anthropic计划几周内召开IPO投资者会议，上市脚步临近",
+    "summary_zh": "Anthropic正筹备大规模IPO，计划在未来几周内安排投资者会议，最早可能于10月启动上市，其估值已达9650亿美元。",
+    "key_points": [
+      "Anthropic最早可能于10月启动IPO",
+      "IPO前估值达9650亿美元，超越OpenAI",
+      "计划未来几周内召开投资者会议"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "157e6e015bdda1900f2bd7a78b3a7197",
+    "title": "逾80家央企控股上市公司上半年业绩报喜，战略性新兴产业成重要增长极",
+    "url": "https://36kr.com/newsflashes/3898890917545861?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-16T23:22:45+00:00",
+    "content_snippet": "近期，央企控股上市公司集中披露2026年上半年业绩预告。据统计，截至7月15日，有80多家央企控股上市公司实现净利润增长、扭亏或减亏，展现出强劲的经营韧性与增长动能。有色金属、化工、航运、军工、电力等传统优势领域景气度高企；人工智能、商业航天、新材料等战略性新兴产业赛道表现尤为突出，成为央企增长的重要引擎。 （上证报）",
+    "title_zh": "逾80家央企控股公司上半年业绩报喜，战略性新兴产业成增长极",
+    "summary_zh": "超80家央企控股上市公司上半年业绩报喜，人工智能、商业航天等战略性新兴产业表现突出，成为重要增长引擎。",
+    "key_points": [
+      "超80家央企控股公司上半年实现净利润增长",
+      "人工智能、商业航天等新兴产业成增长引擎",
+      "传统优势领域景气度同样高企"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6b6332411bc947168a21f8b80cb56eff",
+    "title": "苹果据悉最快今秋推出OLED版iPad mini，明年更新入门版及iPad Air",
+    "url": "https://36kr.com/newsflashes/3898506915202948?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-16T23:20:12+00:00",
+    "content_snippet": "当地时间7月16日，科技记者马克·古尔曼发文称，苹果公司正准备推出五年来最大升级版iPad mini，最快将于今秋发布、10月上市。新款iPad mini代号J510，将首次采用OLED显示屏，以提升显示效果。与此同时，苹果还计划于明年更新入门版iPad（代号J581）和11英寸、13英寸iPad Air（代号J807、J837），其中入门版主要升级处理器，iPad Air预计于春季发布。苹果预计今年9月发布首款折叠屏iPhone以及新款Apple Watch等产品，并已于上月上调包括iPad系列在内的多款产品售价。（界面）",
+    "title_zh": "苹果最快今秋推出OLED版iPad mini，明年更新多款iPad",
+    "summary_zh": "苹果公司计划最快今秋发布五年来最大升级的OLED屏iPad mini，明年还将更新入门版iPad及iPad Air，并已上调多款产品售价。",
+    "key_points": [
+      "iPad mini首次采用OLED显示屏",
+      "最快今秋发布，10月上市",
+      "明年入门版iPad和iPad Air也将更新"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "841134d5a4a38478d9d548a632a8cd82",
+    "title": "SpaceXAI：Grok 4.5定价每百万输入Token收费2美元，每百万输出Token收费6美元",
+    "url": "https://36kr.com/newsflashes/3898893880362882?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-16T23:13:32+00:00",
+    "content_snippet": "SpaceXAI宣布，自动化功能已在Grok官网，以及iOS和安���端的Grok应用中上线可用。Grok 4.5现已登陆Grok Build、Cursor以及xAI控制台。Grok 4.5定价为每百万输入Token收费2美元，每百万输出Token收费6美元。（财联社）",
+    "title_zh": "Grok 4.5公布API定价：每百万输入Token 2美元",
+    "summary_zh": "xAI的Grok 4.5模型已上线并开放API，定价为每百万输入Token 2美元，输出Token 6美元，自动化功能已在官网和App上线。",
+    "key_points": [
+      "Grok 4.5 API定价：输入$2/百万Token，输出$6/百万Token",
+      "自动化功能已在Grok官网和移动端应用上线",
+      "模型已登陆Grok Build、Cursor等平台"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fdd36d7f94ea5fe769c97ba2ff7ab3b9",
+    "title": "Guess the AI model from its embedding structure",
+    "url": "https://www.reddit.com/r/artificial/comments/1uyi65v/guess_the_ai_model_from_its_embedding_structure/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-16T22:55:04+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uyi65v/guess_the_ai_model_from_its_embedding_structure/\"> <img alt=\"Guess the AI model from its embedding structure\" src=\"https://preview.redd.it/osehbi609odh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c808a0432a8acef53e7a14912d2576280e90e136\" title=\"Guess the AI model from its embedding structure\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Just for fun: from this projection, can you guess the model? Don't lo",
+    "title_zh": "通过嵌入结构猜测AI模型",
+    "summary_zh": "Reddit用户分享了一个通过查看模型嵌入结构来猜测AI模型的小游戏或测试，引发社区讨论。",
+    "key_points": [
+      "这是一个基于模型嵌入结构猜测AI模型的互动帖子",
+      "内容偏向技术娱乐和社区讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f7b93b2d74a965f69d170068515bd362",
+    "title": "benchmarks get saturated very quickly these days",
+    "url": "https://nitter.net/gdb/status/2077887553655689239#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-16T22:46:12+00:00",
+    "content_snippet": "<p>benchmarks get saturated very quickly these days</p>\n<hr />\n<blockquote>\n<b>prinz (@deredleritt3r)</b>\n<p>\n<p>Added to prinzbench: GPT-5.6 Sol Pro.<br />\n<br />\nAs previewed a few days ago, this model has saturated my benchmark, with a total score of 91/99.<br />\n<br />\nFor context, prinzbench contains two questions that no model tested to date has ever been able to solve (one requires extremely thorough 50-state research that probably requires /goal mode to solve, and another has a really tr",
+    "title_zh": "Greg Brockman称当前基准测试极易饱和",
+    "summary_zh": "OpenAI联合创始人Greg Brockman评论称，如今的AI基准测试很快就会被新模型饱和，并引用了一个例子：GPT-5.6在prinzbench上取得了91/99分。",
+    "key_points": [
+      "Greg Brockman认为基准测试饱和速度极快",
+      "GPT-5.6在prinzbench上取得91/99分，接近满分",
+      "这反映了当前基准测试对顶尖模型已失去区分度"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ccb6133bde9633af30f6f80af93a6a47",
+    "title": "I made something that feels like GPT-Live but you can run it yourself in Rust",
+    "url": "https://www.reddit.com/r/artificial/comments/1uyhujs/i_made_something_that_feels_like_gptlive_but_you/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-16T22:41:44+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uyhujs/i_made_something_that_feels_like_gptlive_but_you/\"> <img alt=\"I made something that feels like GPT-Live but you can run it yourself in Rust\" src=\"https://preview.redd.it/ucsvm2ma6odh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=23f288e9caafe87f306cc977a77aefec2a572ab7\" title=\"I made something that feels like GPT-Live but you can run it yourself in Rust\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I really",
+    "title_zh": "我用Rust做了个类似GPT-Live的东西，你可以自己运行",
+    "summary_zh": "一名开发者使用Rust语言构建了一个开源语音AI应用，体验类似GPT-Live，支持本地运行且无需依赖云端服务，旨在提供低延迟、可自托管的实时语音交互方案。",
+    "key_points": [
+      "开发者用Rust实现类似GPT-Live的实时语音AI",
+      "该项目支持本地运行，不依赖云端服务",
+      "强调低延迟与可自托管特性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
