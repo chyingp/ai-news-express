@@ -1193,5 +1193,125 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "26721c3d84e4a273c925125aa5524641",
+    "title": "GPT-5.6 Sol Pro for resolving an important open question in statistics:",
+    "url": "https://nitter.net/gdb/status/2077622035984105848#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-16T05:11:08+00:00",
+    "content_snippet": "<p>GPT-5.6 Sol Pro for resolving an important open question in statistics:</p>\n<hr />\n<blockquote>\n<b>Edgar Dobriban (@EdgarDobriban)</b>\n<p>\n<p>AI has helped resolve an important question in statistics. In the area of multiple hypothesis testing, the goal of  controlling the false discovery rate (FDR) has been introduced in a seminal paper by Benjamini and Hochberg (1995). They also introduced a method (the Benjamini-Hochberg or BH method) and proved it controls the FDR. This method has been wi",
+    "title_zh": "GPT-5.6 Sol Pro 解决统计学重要开放问题",
+    "summary_zh": "Greg Brockman 分享 GPT-5.6 Sol Pro 协助统计学家解决了多重假设检验中控制错误发现率的一个关键开放问题，展示了 AI 在数学研究领域的突破性应用。",
+    "key_points": [
+      "GPT-5.6 Sol Pro 协助解决统计学领域重要开放问题",
+      "问题聚焦于多重假设检验中的错误发现率控制",
+      "展示 AI 在数学和统计学前沿研究的应用潜力"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c8477dfc4b2476597a3169cc35855db6",
+    "title": "IDC：百度智能云蝉联中国金融大模型市场份额第一",
+    "url": "https://36kr.com/newsflashes/3897829594662536?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-16T04:37:18+00:00",
+    "content_snippet": "36氪获悉，根据国际数据公司（IDC）最新发布的《中国金融行业生成式AI平台及应用解决方案市场份额，2025》报告，2025年中国金融行业生成式AI市场迎来爆发式增长，整体规模达到17.40亿元人民币，同比增速高达90.4%。在高速增长的赛道中，百度智能云凭借在技术底座与场景落地上的双重优势，以16.6%的市场份额位居中国金融行业生成式AI平台及应用解决方案市场第一。",
+    "title_zh": "IDC：百度智能云蝉联中国金融大模型市场份额第一",
+    "summary_zh": "IDC 报告显示，2025 年中国金融行业生成式 AI 市场规模达 17.40 亿元，同比增长 90.4%。百度智能云以 16.6% 的市场份额位居第一。",
+    "key_points": [
+      "2025 年中国金融生成式 AI 市场规模达 17.40 亿元",
+      "百度智能云以 16.6% 市场份额位居第一",
+      "市场呈现爆发式增长，同比增速达 90.4%"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8c9fd7252419577a5f64e1fc034b016b",
+    "title": "从上海到世界：WAICA正以“AI原生”范式重写顶会规则",
+    "url": "https://www.qbitai.com/2026/07/450917.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-16T04:02:31+00:00",
+    "content_snippet": "",
+    "title_zh": "从上海到世界：WAICA正以“AI原生”范式重写顶会规则",
+    "summary_zh": "文章探讨 WAICA 大会以“AI 原生”范式革新传统学术会议模式，从上海启航，试图重塑人工智能顶级会议的举办规则。",
+    "key_points": [
+      "WAICA 大会以“AI 原生”范式革新传统学术会议模式",
+      "从上海发起，旨在重塑全球人工智能顶会规则"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3442e88d0150693a1cab9e0e3fb74027",
+    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-16T04:00:00+00:00",
+    "content_snippet": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+    "title_zh": "Applied Computing 获 2000 万美元融资，为油气行业打造全厂 AI 模型",
+    "summary_zh": "Applied Computing 完成 2000 万美元 A 轮融资，旨在为石油、天然气和石化行业构建一个覆盖整个工厂的基础 AI 模型。",
+    "key_points": [
+      "Applied Computing 获 2000 万美元 A 轮融资",
+      "目标是构建石油天然气行业的全厂基础 AI 模型"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "32c6fda3ff1715ea079af1d9dddff7ca",
+    "title": "蚂蚁灵波入选WAIC镇馆之宝",
+    "url": "https://36kr.com/newsflashes/3897757496592265?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-16T03:23:57+00:00",
+    "content_snippet": "2026世界人工智能大会（WAIC）即将于7月17日在上海开幕。日前，大会展览板块最高荣誉“镇馆之宝”名单正式揭晓，蚂蚁集团旗下具身智能公司蚂蚁灵波携手国大药房打造的“机器人智慧药房”成功入选。该智慧药房基于蚂蚁灵波“具身原生”技术路线下的跨本体具身基座模型打造，核心技术亮点是“一脑多机”。蚂蚁灵波的“通用大脑”能驱动多种机器人，并根据各自的结构和运动能力生成相应动作，协同完成接单、取药和交付。目前，该方案已在国大药房上海门店投入运营。",
+    "title_zh": "蚂蚁灵波“机器人智慧药房”入选 WAIC 镇馆之宝",
+    "summary_zh": "蚂蚁灵波与国大药房合作打造的“机器人智慧药房”入选 WAIC 最高荣誉“镇馆之宝”，该方案基于“一脑多机”的具身基座模型，已在上海门店运营。",
+    "key_points": [
+      "蚂蚁灵波“机器人智慧药房”入选 WAIC 镇馆之宝",
+      "方案基于“一脑多机”的跨本体具身基座模型",
+      "核心技术已落地，在上海国大药房门店投入运营"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
