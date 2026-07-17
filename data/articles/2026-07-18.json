@@ -331,5 +331,102 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5814ee1085b0a3fa6d7a9c4016bd2191",
+    "title": "Agility Robotics plants its flag in Tesla’s backyard",
+    "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-17T20:19:49+00:00",
+    "content_snippet": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+    "title_zh": "Agility Robotics在特斯拉后院扎根",
+    "summary_zh": "Agility Robotics在加州弗里蒙特开设新的Digit机器人训练中心，该地点靠近特斯拉工厂，标志着其人形机器人商业化进程加速。",
+    "key_points": [
+      "Agility在弗里蒙特开设Digit机器人训练中心",
+      "新中心地理位置靠近特斯拉总部",
+      "此举加速其人形机器人商业化部署"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0184cf98041ba6c75b2f1530e5237c45",
+    "title": "AI-driven memory crunch jolts India’s smartphone market",
+    "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-17T20:09:27+00:00",
+    "content_snippet": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+    "title_zh": "AI驱动的内存危机冲击印度智能手机市场",
+    "summary_zh": "印度智能手机市场因AI热潮导致的内存需求激增而出现放缓，AI正在从定价、需求和公司战略层面重塑消费电子行业格局。",
+    "key_points": [
+      "AI热潮导致智能手机内存需求激增",
+      "印度市场出现放缓，影响定价和需求",
+      "AI正从战略层面重塑消费电子行业"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "00864350a0d0121ce5b5fc654e3a046e",
+    "title": "AI infrastructure and Data centers Security Risks",
+    "url": "https://www.reddit.com/r/artificial/comments/1uza5qq/ai_infrastructure_and_data_centers_security_risks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-17T19:48:19+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uza5qq/ai_infrastructure_and_data_centers_security_risks/\"> <img alt=\"AI infrastructure and Data centers Security Risks\" src=\"https://external-preview.redd.it/kT82-_BcbwuEz5D82HvYuorqa1JiDiw56g945YZ5rNU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c3c40027f57014c813f6c0adc8da35e5c6f78a3f\" title=\"AI infrastructure and Data centers Security Risks\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hey guys,<br /> One par",
+    "title_zh": "AI基础设施与数据中心安全风险",
+    "summary_zh": "一篇讨论AI基础设施和数据中心所面临安全风险的Reddit帖子，内容涉及相关技术挑战和潜在威胁。",
+    "key_points": [
+      "讨论AI基础设施与数据中心的安全风险",
+      "内容涉及技术挑战和潜在威胁"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3ca766d4c6c64d88217990f8743b4308",
+    "title": "TikTok is testing an AI likeness detection tool",
+    "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-17T19:34:30+00:00",
+    "content_snippet": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The Verge. YouTube has been working on a similar tool [&#8230;]",
+    "title_zh": "TikTok正在测试AI形象检测工具",
+    "summary_zh": "TikTok开始测试一项可选工具，用于扫描AI生成的肖像并允许创作者举报，初期面向部分美国创作者开放。",
+    "key_points": [
+      "TikTok测试AI形象检测工具，创作者可举报",
+      "工具为可选功能，初期面向部分美国创作者",
+      "此举旨在应对AI生成内容带来的肖像权问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "bytedance"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
