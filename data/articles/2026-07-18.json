@@ -428,5 +428,80 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9d42bd624435b696156246ff24c03114",
+    "title": "Sol gets the thing done:",
+    "url": "https://nitter.net/gdb/status/2078229816407732515#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-17T21:26:14+00:00",
+    "content_snippet": "<p>Sol gets the thing done:</p>\n<hr />\n<blockquote>\n<b>tobi lutke (@tobi)</b>\n<p>\n<p>OpenAI shipped /goal not too long ago. <br />\n<br />\nI feel like GPT-5.6-sol is the first model that just doesn't need it anymore? It just keeps on going until the thing is done. Really impressive.</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/tobi/status/2078200377309090285#m\">https://nitter.net/tobi/status/2078200377309090285#m</a>\n</footer>\n</blockquote>",
+    "title_zh": "Sol 把事情搞定了",
+    "summary_zh": "人们对 OpenAI 的 GPT-5.6-sol 模型评价极高，认为它不再需要设定目标，就能自主持续工作直到完成任务，表现令人印象深刻。",
+    "key_points": [
+      "GPT-5.6-sol 模型无需设定目标即可自主完成任务",
+      "用户评价该模型能持续工作直到把事情做完",
+      "该模型表现被认为非常令人印象深刻"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a62ff15e3bf3cffe65ac9e813b4100a0",
+    "title": "Xi Jinping calls for more open-source AI: 'China is ready to be more open'",
+    "url": "https://www.reddit.com/r/artificial/comments/1uzcgiq/xi_jinping_calls_for_more_opensource_ai_china_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-17T21:15:30+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uzcgiq/xi_jinping_calls_for_more_opensource_ai_china_is/\"> <img alt=\"Xi Jinping calls for more open-source AI: 'China is ready to be more open'\" src=\"https://external-preview.redd.it/BC3I1dIOwfTWYqQpkriRV_PyISzwx-Nu1XTDK1A04k4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5f51b4c9f0a238f79b7e378e04654dc69991130\" title=\"Xi Jinping calls for more open-source AI: 'China is ready to be more open'\" /> </a> </td><td> &#32; su",
+    "title_zh": "习近平呼吁更多开源人工智能：'中国愿更加开放'",
+    "summary_zh": "中国国家主席习近平发表讲话，呼吁推动更多开源人工智能发展，并表示中国愿意在 AI 领域采取更加开放的态度。",
+    "key_points": [
+      "习近平呼吁发展更多开源人工智能",
+      "中国表态愿在 AI 领域更加开放"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f7b33ff8c43950899172ba65168255ed",
+    "title": "GPT-5.6 Sol is the state of the art in cyber. Seeing significant results in applying it to finding and fixing novel vulnerabilities. Sign up as a defender to use it to secure your systems: https://openai.com/daybreak/",
+    "url": "https://nitter.net/gdb/status/2078224255767249067#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-17T21:04:08+00:00",
+    "content_snippet": "<p>GPT-5.6 Sol is the state of the art in cyber. Seeing significant results in applying it to finding and fixing novel vulnerabilities.<br />\n<br />\nSign up as a defender to use it to secure your systems:<br />\n<br />\n<a href=\"https://openai.com/daybreak/\">openai.com/daybreak/</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://openai.com/daybreak/\">\n<img src=\"https://nitter.net/pic/card_img%2F2077023367014875137%2FRn_vGfpy%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Daybreak | OpenAI for cybers",
+    "title_zh": "GPT-5.6 Sol 成为网络安全领域最先进模型",
+    "summary_zh": "OpenAI 的 GPT-5.6 Sol 模型在网络安全领域达到顶尖水平，在发现和修复新型漏洞方面取得显著成果，现已开放给防御者注册使用。",
+    "key_points": [
+      "GPT-5.6 Sol 在网络安全领域达到最先进水平",
+      "该模型在发现和修复新型漏洞方面效果显著",
+      "OpenAI 开放注册，供防御者用于保护系统"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
