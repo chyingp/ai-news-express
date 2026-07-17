@@ -503,5 +503,77 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "76e1a9bd37fdc79d734022a9dd36726b",
+    "title": "Using an AI model to see the degree of prediction of the content of many emails answering a question...?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uzek7i/using_an_ai_model_to_see_the_degree_of_prediction/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-17T22:42:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This is a follow up question to a previous one that I did some days ago, in ehich I asked the community if they knew an AI that could do the following task</p> <p>I have many emails that pretty much answered a question that I formulated to the addressees. I predict that these replies gave a specific type of answer to that question: So imagine that the question overall was &quot;do you think that ice cream is the best dessert that exists?&quot; and I want to see ",
+    "title_zh": "使用 AI 模型预测多封邮件对同一问题的回答内容程度",
+    "summary_zh": "一个 Reddit 用户发帖询问，是否有 AI 模型能够分析大量邮件，并预测这些邮件在多大程度上回答了他向收件人提出的某个问题。这是对之前提问的跟进。",
+    "key_points": [
+      "用户寻求能分析邮件并预测回答程度的 AI 工具",
+      "此帖为技术社区内的求助与讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e4ec6bbf4acd09c89396ba8a5b64d045",
+    "title": "this is cool: https://welcome-to-codex.openai.chatgpt.site/",
+    "url": "https://nitter.net/sama/status/2078244242993164716#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-17T22:23:34+00:00",
+    "content_snippet": "<p>this is cool:<br />\n<br />\n<a href=\"https://welcome-to-codex.openai.chatgpt.site/\">welcome-to-codex.openai.chat…</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://welcome-to-codex.openai.chatgpt.site/\">\n<img src=\"https://nitter.net/pic/card_img%2F2078244219572080640%2FmJkdIJNB%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>10,000 reasons people love GPT-5.6 Sol</b>\n</a>\n<p>Explore what people are building with GPT-5.6 and Codex.</p>\n<small><a href=\"https://welcome-to-codex.openai.chatgpt.site/",
+    "title_zh": "Sam Altman 分享并称赞 OpenAI Codex 新网站",
+    "summary_zh": "OpenAI 首席执行官 Sam Altman 在社交媒体上分享了一个名为“welcome-to-codex”的网站，并称其“很酷”，该网站域名与 OpenAI 的 ChatGPT 相关。",
+    "key_points": [
+      "Sam Altman 公开推荐 OpenAI Codex 相关新网站",
+      "新网站可能与 ChatGPT 集成或展示其代码能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2a6c589fb12f2c5ad2066d8f70eff45e",
+    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+    "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-17T22:12:56+00:00",
+    "content_snippet": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+    "title_zh": "Databricks 估值达 1880 亿美元，稳坐 AI 领域最受欢迎的第二春宝座",
+    "summary_zh": "Databricks 成功转型为 AI 公司，其估值已达到 1880 亿美元。公司还发布了关于使用开放权重 AI 模型进行编码可节省成本的研究。",
+    "key_points": [
+      "Databricks 最新估值高达 1880 亿美元",
+      "公司成功重塑为 AI 企业并发布开源模型成本研究",
+      "其持续增长被视为 AI 领域的重要成功案例"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
