@@ -1456,5 +1456,246 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7ff84427aea253a52c6414617a9e9c58",
+    "title": "中船特气：上半年归母净利润3.48亿元，同比增长95.63%",
+    "url": "https://36kr.com/newsflashes/3899511819421318?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-17T09:08:33+00:00",
+    "content_snippet": "36氪获悉，中船特气发布2026年半年度报告。报告显示，2026年上半年营业收入19.04亿元，同比增长83.13%；归母净利润3.48亿元，同比增长95.63%。报告期内，人工智能等新一代信息技术的发展，提升了市场对先进芯片、显示面板等硬件需求，带动公司营业收入增长。",
+    "title_zh": "中船特气：上半年归母净利润3.48亿元，同比增长95.63%",
+    "summary_zh": "中船特气发布2026年半年报，营业收入19.04亿元，同比增长83.13%；归母净利润3.48亿元，同比增长95.63%，增长主要受人工智能等新一代信息技术对芯片和显示面板硬件需求提升的驱动。",
+    "key_points": [
+      "上半年归母净利润3.48亿元，同比增长95.63%",
+      "AI发展带动先进芯片与显示面板硬件需求",
+      "营收19.04亿元，同比增长83.13%"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d7cd78ea0e3afd2a312a5aab17c05baf",
+    "title": "2连板道明光学：目��不存在AI手机相关业务",
+    "url": "https://36kr.com/newsflashes/3899502733199238?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-17T08:59:18+00:00",
+    "content_snippet": "36氪获悉，道明光学公告，公司股票连续2个交易日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。公司未发现近期公共传媒报道了可能或已经对本公司股票交易价格产生较大影响的未公开重大信息；但公司关注到近期部分媒体、网络论坛及股吧等平台对涉及“AI手机”等相关市场热点概念关注度较高。公司就相关事项说明：公司目前不存在AI手机相关业务。",
+    "title_zh": "2连板道明光学：目前不存在AI手机相关业务",
+    "summary_zh": "道明光学公告称，公司股票连续2个交易日收盘价格涨幅偏离值累计超过20%，属于异常波动。公司澄清目前不存在AI手机相关业务，提醒投资者注意风险。",
+    "key_points": [
+      "公司股票连续2日异常波动，偏离值超20%",
+      "澄清目前不存在AI手机相关业务"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "373090576da7b670ecf08d43f0617099",
+    "title": "网易智企携全新升级的一站式AI应用服务亮相WAIC 2026",
+    "url": "https://36kr.com/newsflashes/3899490626684544?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-17T08:46:59+00:00",
+    "content_snippet": "36氪获悉，7月17日，在2026世界人工智能大会（WAIC 2026）上，网易智企携全新升级的一站式企业AI应用服务亮相，集中展示AI Agent编排、AI Coding、AI客服、AI私域助理、AI智能数据与AI Agent安全等企业级AI能力，围绕安全治理、组织协作与业务增长三大场景，呈现企业级AI应用实践。",
+    "title_zh": "网易智企携全新升级的一站式AI应用服务亮相WAIC 2026",
+    "summary_zh": "在2026世界人工智能大会上，网易智企展示了一站式企业AI应用服务，涵盖AI Agent编排、AI Coding、AI客服等能力，聚焦安全治理、组织协作与业务增长三大场景。",
+    "key_points": [
+      "网易智企在WAIC 2026展示一站式企业AI应用",
+      "涵盖AI Agent、AI Coding、AI客服等核心能力",
+      "聚焦安全治理、组织协作与业务增长三大场景"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4e6df364fb4e78f012eedd1109e18bc2",
+    "title": "My AI agents have now run on four model generations (we skipped one entirely). Their memory never noticed.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uytrcl/my_ai_agents_have_now_run_on_four_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-17T08:28:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I run a multi-agent workspace where each agent is basically a directory: an identity file, a session history, and a file of observations it keeps about how we work together. The model is just the thing that wakes it up.</p> <p>Here's what I didn't expect when I started: those agents have now run on 6 different model generations. Sonnet 4.5, Sonnet 4.6, , Sonnet 5, Opus 4.6, Opus 4.8, and now the Claude 5 family. We skipped 4.7 entirely - tried it, didn't work fo",
+    "title_zh": "我的AI Agent已运行四代模型，其记忆毫发无损",
+    "summary_zh": "一位开发者分享其多Agent工作空间的运行经验，每个Agent以目录形式存储身份、会话历史和观察文件，模型仅作为唤醒Agent的工具，其记忆在四代模型迭代中保持完整。",
+    "key_points": [
+      "多Agent工作空间在四代模型迭代中保持记忆完整",
+      "每个Agent以目录形式存储身份和会话历史"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4a058f7ec51b99b016a3fb89a4abe1f7",
+    "title": "EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-17T08:18:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have released EU AI Act OpenRAG, a downloadable corpus of Regulation (EU) 2024/1689 designed for RAG and legal-NLP experimentation.</p> <p>Instead of sliding character windows, the corpus chunks on the Regulation’s legal structure:</p> <ul> <li>one chunk per article paragraph</li> <li>one per recital</li> <li>one per Article 3 definition</li> <li>one per annex point</li> <li>chapter, section and provision metadata stored separately</li> </ul> <p>The resulting ",
+    "title_zh": "EU AI Act OpenRAG：基于法律结构的933个嵌入块SQLite数据集",
+    "summary_zh": "发布了一个名为EU AI Act OpenRAG的语料库，专门针对欧盟AI法案进行结构化分块，并包含BGE-M3嵌入，用于RAG和法律NLP实验。",
+    "key_points": [
+      "发布基于法律结构的EU AI Act OpenRAG语料库",
+      "包含933个结构化分块和BGE-M3嵌入"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5960cc54e180a4506a8ea12e4fa32c99",
+    "title": "IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和",
+    "url": "https://www.qbitai.com/2026/07/452914.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-17T08:09:52+00:00",
+    "content_snippet": "模型、Harness Engineering与产品的持续进化",
+    "title_zh": "IDC报告：中国AI Coding市占率阿里Qoder断层第一",
+    "summary_zh": "IDC报告显示，阿里Qoder在中国AI Coding市场占有率遥遥领先，超过第二名至第五名的总和，体现了其在AI编程领域的强势地位。",
+    "key_points": [
+      "阿里Qoder在中国AI Coding市场占有率断层第一",
+      "市占率超过第二名至第五名的总和"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9a8552491ac0a6eae865b55a13ea5f6a",
+    "title": "Are there any serious AI developers here that might want to help me create an intuitive AI assisted filmmaking plugin/app",
+    "url": "https://www.reddit.com/r/artificial/comments/1uysonn/are_there_any_serious_ai_developers_here_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-17T07:24:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm 40, I've done 3dcg since the late 90s, went to school at SCAD for animation, the guy who animated mufasa was one of my professors, I've been working on creating a totally independent animation/film professional pipeline to youtube for over a decade now. blah blah</p> <p>I don't think it's necessary to reinvent the wheel with this, so it would function basically as a plugin for existing AI film creation systems. To my knowledge there is no existing existing p",
+    "title_zh": "寻找AI开发者共创AI辅助电影制作插件",
+    "summary_zh": "一位拥有多年3D动画和电影制作经验的创作者在Reddit上发帖，寻找AI开发者合作，共同开发一款直观的AI辅助电影制作插件或应用。",
+    "key_points": [
+      "拥有多年3D动画经验的创作者寻求AI开发者合作",
+      "目标为开发AI辅助电影制作插件或应用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a1e4246be2aaf95692367dafabbf409a",
+    "title": "Kimi K3 landed third on the Intelligence Index, ahead of Opus 4.8, and even GPT-5.6 Sol couldn't take #1 from Fable 5. Weights supposedly drop July 27.",
+    "url": "https://www.reddit.com/r/artificial/comments/1uyrw6h/kimi_k3_landed_third_on_the_intelligence_index/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-17T06:39:47+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uyrw6h/kimi_k3_landed_third_on_the_intelligence_index/\"> <img alt=\"Kimi K3 landed third on the Intelligence Index, ahead of Opus 4.8, and even GPT-5.6 Sol couldn't take #1 from Fable 5. Weights supposedly drop July 27.\" src=\"https://preview.redd.it/bz1dhphtjqdh1.png?width=140&amp;height=83&amp;auto=webp&amp;s=7935203cd34d86e0654d48295d03559391cb4d57\" title=\"Kimi K3 landed third on the Intelligence Index, ahead of Opus 4.8, a",
+    "title_zh": "Kimi K3在Intelligence Index上排名第三，权重或于7月27日发布",
+    "summary_zh": "Kimi K3模型在Intelligence Index评测中排名第三，领先于Opus 4.8，且GPT-5.6 Sol未能超越Fable 5夺得第一，Kimi K3的权重据称将于7月27日发布。",
+    "key_points": [
+      "Kimi K3在Intelligence Index排名第三，领先Opus 4.8",
+      "GPT-5.6 Sol未能超越Fable 5夺得第一",
+      "Kimi K3权重据称将于7月27日发布"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "moonshot"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0d7b8a848090feb5b929e95d050d17eb",
+    "title": "team is responding to feedback and iterating quickly. we ❤️ our users, thank you all!",
+    "url": "https://nitter.net/gdb/status/2078004399675503093#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-17T06:30:30+00:00",
+    "content_snippet": "<p>team is responding to feedback and iterating quickly. we ❤️ our users, thank you all!</p>\n<hr />\n<blockquote>\n<b>Tibo (@thsottiaux)</b>\n<p>\n<p>Evening! We’ve gotten lots of great feedback on the new ChatGPT desktop app (which we didn't get totally quite right on the first try), and as a result, we've made some changes.<br />\n<br />\n1/ ChatGPT conversation history and projects are now visible in the sidebar. Also, your Chat and Work history now sync across web, mobile, and desktop. Local tasks",
+    "title_zh": "ChatGPT桌面应用团队快速响应用户反馈并迭代",
+    "summary_zh": "Greg Brockman在X上表示，团队正在快速响应用户关于ChatGPT桌面应用的反馈，并持续迭代优化，感谢用户的支持。",
+    "key_points": [
+      "ChatGPT桌面应用团队快速响应用户反馈并迭代",
+      "Greg Brockman感谢用户的支持"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "366d88dfe4c7a0c6f4f9bbbfae17300d",
+    "title": "ChatGPT Work is great for tasks in your personal life:",
+    "url": "https://nitter.net/gdb/status/2078001746358784163#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-17T06:19:58+00:00",
+    "content_snippet": "<p>ChatGPT Work is great for tasks in your personal life:</p>\n<hr />\n<blockquote>\n<b>Andrew Ambrosino (@ajambrosino)</b>\n<p>\n<p>the “work” in ChatGPT Work is describing what the agent is doing for you– you can use it for anything you want<br />\n<br />\nI have it reading all of my personal emails, making calendar events, organizing docs for myself and the kids, etc</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/ajambrosino/status/2077769324845318151#m\">https://nitter.net/ajambrosino/status",
+    "title_zh": "ChatGPT Work功能拓展至个人生活任务",
+    "summary_zh": "Greg Brockman在X上分享称，ChatGPT的Work功能同样适用于个人生活任务，有用户用它来阅读所有个人邮件并进行处理。",
+    "key_points": [
+      "ChatGPT Work功能可用于个人生活任务",
+      "用户用它来阅读和处理个人邮件"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
