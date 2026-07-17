@@ -2244,5 +2244,28 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b4c2185a9a2c407826f1b2a19b56c7c2",
+    "title": "How secure is integrating an AI model to your start-up?",
+    "url": "https://www.reddit.com/r/artificial/comments/1uyziqx/how_secure_is_integrating_an_ai_model_to_your/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-17T13:19:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Business world experiencing an AI boom these day, everyone is trying to be AI-native and integrate some LLM model into his product. However, hardly anyone thinks about risks such as data exposure for example (name yours). Are these risks real, and how can companies protect themselves against them? <a href=\"https://www.reddit.com/submit/?source_id=t3_1uyzhih&amp;composer_entry=crosspost_prompt\"></a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https",
+    "title_zh": "为初创公司集成AI模型的安全性如何？",
+    "summary_zh": "本文探讨了当前企业争相将大语言模型集成到产品中的热潮，指出多数人忽视了数据泄露等安全风险，并讨论了这些风险的真实性及应对措施。",
+    "key_points": [
+      "企业急于集成AI时普遍忽视数据泄露等安全风险",
+      "探讨了AI原生趋势下创业公司面临的实际安全威胁"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
