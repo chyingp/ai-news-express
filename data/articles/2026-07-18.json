@@ -575,5 +575,100 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "458aaab71a367d822ffc191b3ba4f3e2",
+    "title": "AfterLab is coming out of stealth -- a new research lab building a different approach to efficient fluid intelligence. Congrats to Clem and Matt on the funding!",
+    "url": "https://nitter.net/fchollet/status/2078256981480182250#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-17T23:14:11+00:00",
+    "content_snippet": "<p>AfterLab is coming out of stealth -- a new research lab building a different approach to efficient fluid intelligence. Congrats to Clem and Matt on the funding!</p>\n<hr />\n<blockquote>\n<b>AfterLabs (@afterlabsai)</b>\n<p>\n<p>Current models rely on brute-force RL training to adapt to new tasks and environments. However, intelligent systems should be able to learn on the fly in a sample-efficient manner, continuously refining their understanding of the world through their interactions.<br />\n<br",
+    "title_zh": "AfterLab 走出隐秘模式：专注高效流体智能的新研究实验室",
+    "summary_zh": "前谷歌研究员 François Chollet 宣布新研究实验室 AfterLab 获得融资并走出隐秘模式，该实验室旨在探索不同于现有暴力强化学习训练的高效流体智能新方法。",
+    "key_points": [
+      "AfterLab 研究实验室获融资并正式公开",
+      "目标是构建不依赖暴力强化学习的高效流体智能",
+      "由知名 AI 研究员 François Chollet 支持"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "873729a3795b050be598d72b61e62536",
+    "title": "Attributing LLM inference costs across teams in production",
+    "url": "https://www.reddit.com/r/artificial/comments/1uzf9xx/attributing_llm_inference_costs_across_teams_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-17T23:11:57+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uzf9xx/attributing_llm_inference_costs_across_teams_in/\"> <img alt=\"Attributing LLM inference costs across teams in production\" src=\"https://external-preview.redd.it/qOpw_h58Vh-CNbeliUpZ3zXbNBdP1e3IfKJEb9YgkEc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4f801db31434ec83b7119589e8960e1935ba0c3\" title=\"Attributing LLM inference costs across teams in production\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Seeing t",
+    "title_zh": "如何在生产环境中归因各团队的 LLM 推理成本",
+    "summary_zh": "Reddit 上的一篇讨论帖，探讨在大型语言模型的生产部署中，如何将推理成本准确归因到不同的使用团队，以优化资源分配和成本控制。",
+    "key_points": [
+      "讨论 LLM 推理成本在多团队间的分配问题",
+      "聚焦于生产环境下的成本归因技术方案"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2d9cc2c8c02bf709e6b81bf824a2d0e3",
+    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+    "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-17T22:55:09+00:00",
+    "content_snippet": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+    "title_zh": "Vertu 推出 6880 美元 AI 代理手机，实际表现如何？",
+    "summary_zh": "TechCrunch 对奢侈手机品牌 Vertu 推出的高端折叠屏 AI 代理手机进行评测，该手机售价 6880 美元，目标用户为企业高管，文章评估了其 AI 功能、续航和安全性等方面的实际表现。",
+    "key_points": [
+      "Vertu 推出售价 6880 美元的 AI 代理折叠屏手机",
+      "目标用户为企业高管，主打 AI 工作流和安全功能",
+      "实际评测关注其 AI 性能、电池续航与安全性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d98c9d4f570c2b9f9ec2898a2f2f708d",
+    "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-17T22:55:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have released a model that I have been working on for ~6 months off and on. I've been enjoying listening to spatial music, but there is a lot of music out there with no real quality spatial mix. So I decided to make a model to convert stereo to spatial.</p> <p>I started by making a flow-matching diffusion model that operated in the latent space of a separately trained VAE (<a href=\"https://github.com/Eps-Acoustic-Revolution-Lab/EAR_VAE\">EAR-VAE</a>). I used th",
+    "title_zh": "Stereo2Spatial：将立体声音乐转换为空间化双耳混音",
+    "summary_zh": "Reddit 用户发布了一个名为 Stereo2Spatial 的开源模型，该模型能够将普通的立体声音乐轨道转换为具有空间感的双耳音频混音，旨在为大量缺乏官方空间音频版本的音乐提供沉浸式聆听体验。",
+    "key_points": [
+      "发布 Stereo2Spatial 模型，可将立体声转为空间音频",
+      "项目为开源模型，历时约半年开发",
+      "目的是为缺少空间混音的音乐提供沉浸式体验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
