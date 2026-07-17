@@ -950,5 +950,230 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bab70451fd2e576e11d2430e8d03f76f",
+    "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
+    "url": "https://36kr.com/p/3899057634363266?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-17T01:26:47+00:00",
+    "content_snippet": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260717/v2_50b87c3fce99434187077587e61d999f@6221844_oswg477499oswg1202oswg684_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>2400</strong>字，建议阅读<strong>6</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，人形机器人ODM方案商半醒具身（BXI Robotics）于近期完成千万元级新一轮融资，投资方为A股上市公司索辰科技。本轮资金将主要用于下一代人形机器人研发及海外市场拓展。此前，半醒具身曾于2025年完成首轮机构融资，投资方为上市公",
+    "title_zh": "这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
+    "summary_zh": "一家人形机器人ODM厂商获得数千万元融资，由飞荣达和索辰科技等投资方下注，资金将用于产品研发与市场拓展。",
+    "key_points": [
+      "人形机器人ODM厂商获数千万元融资",
+      "投资方包括飞荣达、索辰科技",
+      "资金将用于产品研发与市场拓展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a769d9f5e57a4d9a937db1357f0950dd",
+    "title": "微软CEO批评Anthropic对Fable模型的内容管控过于严苛",
+    "url": "https://36kr.com/newsflashes/3899021459834500?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-17T01:10:04+00:00",
+    "content_snippet": "微软CEO萨蒂亚·纳德拉周三表示，Anthropic对用户向其高端人工智能模型 Fable 提交的查询设置各类限制，这种做法毫无道理。根据纳德拉讲话的文字稿，他对微软Copilot人工智能工具的研发工程师说道：“如果你用过 Fable 就会发现，它会莫名其妙拒绝各类指令。试问你什么时候见过一款创作工具会受到如此严苛的内容管控？这完全说不通。”据一份技术支持页面显示，当终端用户向 Fable 询问大规模模型搭建相关问题或其他话题时，Anthropic有时会调用旧版本模型生成回复。（新浪财经）",
+    "title_zh": "微软CEO批评Anthropic对Fable模型的内容管控过于严苛",
+    "summary_zh": "微软CEO纳德拉公开批评Anthropic对其高端AI模型Fable设置过多内容限制，认为这对创作工具而言不合理，经常无故拒绝用户指令。",
+    "key_points": [
+      "微软CEO批评Anthropic对Fable模型内容管控过严",
+      "纳德拉认为创作工具不应有过多限制",
+      "Fable在特定话题上会调用旧版本模型回复"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f5c492e0d6172ed381d1d6e40161a569",
+    "title": "Gemini is EVERYWHERE",
+    "url": "https://www.reddit.com/r/artificial/comments/1uyl7f4/gemini_is_everywhere/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-17T01:07:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It's integrated into chrome, works directly with Google Search as AI Mode and overviews, acts as the default assistant for Android phones (and now apparently Apple phones too), powers Circle-to-Search, and even works as a chatbot assistant with Google Maps, Gmail, Docs, etc. That's a pretty stacked roster. This is some IOS level of ecosystem compatibility. I currently have a ChatGPT subscription and overall pretty satisfied, but I do feel a bit of jealousy at th",
+    "title_zh": "Gemini已无处不在",
+    "summary_zh": "谷歌的Gemini模型已深度集成至Chrome、搜索、安卓及苹果手机助理、谷歌地图、Gmail等多项服务中，覆盖范围广泛。",
+    "key_points": [
+      "Gemini已集成至Chrome、Google搜索、安卓手机助理",
+      "还支持苹果手机、Circle-to-Search、谷歌地图、Gmail",
+      "谷歌AI助手生态覆盖范围显著扩大"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "751e0e2e0adc19012c0ab41e668f1d1a",
+    "title": "智谱ARR达到10亿美元，半年增长15倍",
+    "url": "https://36kr.com/newsflashes/3899038887643012?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-17T01:07:27+00:00",
+    "content_snippet": "36氪从多个独立信源处获悉，截至2026年7月， 智谱的ARR（年度经常性收入）已经达到10亿美元。截至发稿前，针对上述信息，智谱未回复。据知情人士，在2026年1月到7月期间，智谱的ARR增长了15倍。智谱官方曾提到，大模型的商业价值可以理解为“智能上限 × Token 消耗规模”，只要模型能力继续领先，调用量就会不断增长。财报显示，今年Q1，GLM的API 价格累计调高约83%，海外订阅价格甚至接近Claude Code，但调用量仍增长约400%。",
+    "title_zh": "智谱ARR达到10亿美元，半年增长15倍",
+    "summary_zh": "截至2026年7月，智谱的年度经常性收入（ARR）已达10亿美元，半年来增长15倍，尽管API价格上调，调用量仍大幅增长。",
+    "key_points": [
+      "智谱ARR达到10亿美元，半年增长15倍",
+      "Q1 API价格累计上调约83%，但调用量增长400%",
+      "海外订阅价格接近Claude Code，商业价值持续提升"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "zhipu"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7132be16669fd8cc032805f8731cd313",
+    "title": "AI板块遭遇抛售，日本芯片厂商铠侠市值较高点腰斩",
+    "url": "https://36kr.com/newsflashes/3899005204399749?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-17T00:50:02+00:00",
+    "content_snippet": "受市场愈发担忧人工智能带动的存储芯片板块涨幅过高影响，日本存储芯片企业铠侠控股在登顶日本市值最高企业仅一个月后，总市值直接腰斩。周五东京股市早盘，铠侠股价最大跌幅达14%，较上月峰值累计下跌51%，市值蒸发至少29.5万亿日元（折合1817亿美元）。6月中旬，受人工智能热潮下市场对内存、数据存储需求的乐观情绪推动，铠侠股价年内涨幅超600%，市值一举超越汽车巨头丰田汽车，登顶日本企业市值榜首。如今其市值排名已滑落至日本上市公司第四位。（新浪财经）",
+    "title_zh": "AI板块遭抛售，日本芯片厂商铠侠市值较高点腰斩",
+    "summary_zh": "因市场担忧AI存储芯片板块涨幅过高，日本铠侠控股股价暴跌，市值较上月峰值蒸发一半以上，排名从日本第一滑落至第四。",
+    "key_points": [
+      "铠侠股价较高点累计下跌51%，市值蒸发约1817亿美元",
+      "此前因AI热潮登顶日本市值第一，后遭抛售",
+      "市场担忧AI存储芯片板块涨幅过高"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2376bc59275550bb2f933970c3b0a387",
+    "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+    "url": "https://36kr.com/newsflashes/3899020578342790?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-17T00:48:50+00:00",
+    "content_snippet": "2026世界人工智能大会暨人工智能全球治理高级别会议于7月17日在上海开幕。国家主席习近平将出席大会开幕式并发表主旨讲话。（央视新闻）",
+    "title_zh": "习近平将出席2026世界人工智能大会开幕式并发表主旨讲话",
+    "summary_zh": "2026世界人工智能大会暨人工智能全球治理高级别会议在沪开幕，国家主席习近平将出席开幕式并发表主旨讲话。",
+    "key_points": [
+      "2026世界人工智能大会在上海开幕",
+      "习近平将出席开幕式并发表主旨讲话",
+      "大会聚焦人工智能发展与全球治理"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "de9e144ad41c423bbe2fd15cb21db202",
+    "title": "AI手机渗透率有望加速提升，18股获5家及以上机构评级",
+    "url": "https://36kr.com/newsflashes/3898995946538624?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-17T00:42:40+00:00",
+    "content_snippet": "近期，全球各头部智能手机品牌厂商均积极布局AI手机，推动AI大模型落地智能手机端侧。多家市场机构认为，AI手机市场规模有望快速扩大。从行业渗透率趋势来看，6月22日，Counterpoint Research发布的最新预测指出，2026年全球具备生成式人工智能功能的智能手机出货占比将攀升至45%，并有望在2027年突破半数关口达到52%，正式成为行业标配。AI手机概念股普遍获机构重点关注，统计显示，18股获5家及以上机构评级，占比接近总数的一半，蓝思科技、鹏鼎控股、科大讯飞评级机构家数居前，分别为20家、16家、15家。（证券时报）",
+    "title_zh": "AI手机渗透率有望加速提升，18股获机构关注",
+    "summary_zh": "头部手机厂商积极布局AI大模型，机构预测2026年AI手机出货占比将达45%，18只概念股获5家及以上机构评级。",
+    "key_points": [
+      "2026年全球AI手机出货占比预计将攀升至45%",
+      "主要品牌厂商积极推动AI大模型落地端侧",
+      "18只AI手机概念股获5家及以上机构评级"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5951f2e37c74220d5c2d63a2e2c704a1",
+    "title": "8点1氪丨长鑫科技网上发行初步中签率为0.40995452%；特朗普头像将被印上硬币，面值1美元；多家NFC鲜榨果汁生产车间被曝无水果",
+    "url": "https://36kr.com/p/3898973942007684?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-17T00:05:38+00:00",
+    "content_snippet": "<h2><strong>今日热点导览</strong></h2>\n  <p>SpaceX市值蒸发近8500亿美元</p>\n  <p>韩国将暂停新的单一股票杠杆ETF上市，以抑制市场波动</p>\n  <p>泡泡玛特创始人王宁带队探访苹果总部</p>\n  <p>亚马逊Leo与南非企业达成协议，预计明年启动卫星互联网服务</p>\n  <p>日本拟采购2.75万颗英伟达Rubin芯片，打造本土机器人AI基础模型</p>\n  <h2><strong>TOP 3大新闻</strong></h2>\n  <p><strong>长鑫科技：网上发行初步中签率为0.40995452%</strong></p>\n  <p>36氪获悉，长鑫科技公告，根据上交所提供的数据，本次网上发行有效申购户数为9,428,778户，有效申购股数为816,920,125,000股。网上发行初步中签率为0.40995452%。</p>\n  <p><strong>特朗普头像将被印上硬币，面值1美元</strong></p>\n  <p>美国财政部长贝森特15日说，为纪念美国建国250周年，美国铸币局将开始铸造正面印有特朗普总统头像的",
+    "title_zh": "8点1氪丨长鑫科技网上发行初步中签率公布；SpaceX市值蒸发；日本拟采购英伟达芯片",
+    "summary_zh": "多则科技新闻汇总，包括长鑫科技中签率公布、SpaceX市值蒸发、日本拟采购英伟达芯片打造机器人AI模型等。",
+    "key_points": [
+      "长鑫科技网上发行初步中签率为0.40995452%",
+      "日本拟采购2.75万颗英伟达Rubin芯片打造本土机器人AI模型",
+      "SpaceX市值蒸发近8500亿美元"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "041f2ca9038c1e7275ed264014b9529c",
+    "title": "商汤001号员工创办AI公司：将AI角色引擎做成护城河，获种子轮融资 | 36氪首发",
+    "url": "https://36kr.com/p/3898370289846153?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-17T00:00:59+00:00",
+    "content_snippet": "<p>文丨刘士武</p>\n  <p>36氪游戏获悉， <strong>AI 角色硬件公司酷奇奇科技（Coolqq.com）已完成</strong><strong><span style=\"letter-spacing: 0px;\">数千万元种子轮融资，本轮融资由上海浦东人工智能种子基金领投，商汤科技、零以创投跟投。</span></strong><strong style=\"letter-spacing: 0px;\">云杉资本Spruce Capital担任长期独家财务顾问。</strong></p>\n  <p>酷奇奇创办于2025年，创始人徐持衡是商汤科技001号员工，师从汤晓鸥教授，与团队共同开发的人脸识别技术，是商汤科技早期最重要的技术里程碑之一。此外， 他曾在灵宇宙担任CTO，带领AI教育产品“Ling”从概念落地到完整实现。&nbsp;</p>\n  <p>酷奇奇现阶段的核心产品「CookiePi 角色互动伙伴」是一款分布式多端互动产品：多个AI互动伙伴融入家居各处，主动探索，能陪用户聊天，也能即兴演剧，共同演绎日常生活。它由触发器Cookie和角色端Pi共同组成，体积小巧，可",
+    "title_zh": "商汤001号员工创办AI角色硬件公司，获种子轮融资",
+    "summary_zh": "商汤科技001号员工创立AI角色硬件公司酷奇奇科技，完成数千万元种子轮融资，由浦东人工智能基金领投，商汤跟投。",
+    "key_points": [
+      "商汤001号员工创办AI角色硬件公司酷奇奇科技",
+      "完成数千万元种子轮融资，商汤科技跟投",
+      "公司致力于构建AI角色引擎护城河"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
