@@ -237,5 +237,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "00c6ee902dd6fafd44c4ae72fe7015f1",
+    "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-18T21:29:05+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/\"> <img alt=\"GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]\" src=\"https://preview.redd.it/tlvz4c3i32eh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aad6aeec9197e26debda00093dd47611e70c5a08\" title=\"GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]\" /> </a> </td><td> ",
+    "title_zh": "GPT-2 Small 围绕“Trump”的嵌入几何：离散化与连续最近邻对比 [P]",
+    "summary_zh": "一篇研究论文，探讨了 GPT-2 Small 模型中围绕“Trump”一词的嵌入向量几何结构，对比分析了离散化与连续最近邻方法的差异。",
+    "key_points": [
+      "分析 GPT-2 Small 模型特定词汇的嵌入空间几何",
+      "对比离散化与连续最近邻两种方法的不同表现",
+      "论文以项目 [P] 形式发布在 Reddit 机器学习社区"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5476eaca52d0915998573c72574aeba0",
+    "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-18T20:54:42+00:00",
+    "content_snippet": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more broadly. So one might expect he'd roll into the company's offices and offer [&#8230;]",
+    "title_zh": "戴夫·艾格斯告诉 OpenAI 员工：ChatGPT 正在“让整整一代人失声”",
+    "summary_zh": "作家戴夫·艾格斯受山姆·奥特曼邀请，在 OpenAI 内部发表演讲，批评 ChatGPT 等 AI 工具正在扼杀人类写作与创造力，可能让一代人失去表达声音。",
+    "key_points": [
+      "作家艾格斯批评 ChatGPT 可能扼杀人类创造力",
+      "山姆·奥特曼曾邀请其到 OpenAI 内部演讲",
+      "事件引发关于 AI 对文化创作影响的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "706cd8f22e045a6c71e14cd72ed55ea6",
+    "title": "Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v06nc1/deep_learning_tackles_singlecell_analysis_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-18T20:35:16+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1v06nc1/deep_learning_tackles_singlecell_analysis_a/\"> <img alt=\"Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis [R]\" src=\"https://preview.redd.it/n3okgq66t1eh1.png?width=140&amp;height=99&amp;auto=webp&amp;s=c7f944d68ce877e0198147bb832e40cbb826fa91\" title=\"Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis [R]\" /> </a> </td><td> <!-",
+    "title_zh": "深度学习应对单细胞分析——基于 scRNA-seq 分析的深度学习综述 [R]",
+    "summary_zh": "一篇综述论文，全面调查了深度学习在单细胞 RNA 测序分析中的应用，涵盖各种方法、挑战和最新进展。",
+    "key_points": [
+      "综述深度学习在 scRNA-seq 分析中的最新应用",
+      "涵盖多种深度学习方法及其在单细胞研究中的挑战",
+      "论文以研究 [R] 形式发布在 Reddit 机器学习社区"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
