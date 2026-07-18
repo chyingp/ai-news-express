@@ -766,5 +766,76 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7bf6eaf986f5f82a6a23db11aaf8dc90",
+    "title": "国家智慧教育平台全面深化应用试点推进会召开",
+    "url": "https://36kr.com/newsflashes/3900510413899654?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-18T02:15:15+00:00",
+    "content_snippet": "7月16日，教育部在山东省济南市召开国家智慧教育平台全面深化应用试点推进会。教育部党组成员、副部长王光彦出席会议并讲话。 会议指出，要提高政治站位，以对新形势的准确把握增强国家平台全面深化应用试点的使命感紧迫感，深刻认识人工智能技术发展给教育带来的机遇和挑战，准确理解国家智慧教育平台的战略支撑作用，全面把握国家平台全面深化应用试点工作的重要意义，以点上突破带动教育数字化战略的面上提质和系统跃升，有力支撑教育强国建设。",
+    "title_zh": "国家智慧教育平台全面深化应用试点推进会召开",
+    "summary_zh": "教育部召开会议，强调利用人工智能等技术深化国家智慧教育平台应用试点，推动教育数字化战略升级，支撑教育强国建设。",
+    "key_points": [
+      "教育部推进智慧教育平台试点，应对AI机遇与挑战",
+      "以试点突破带动教育数字化战略提质和系统跃升"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7a9dc8242988bc56374b70c8b7784d48",
+    "title": "加速器驱动先进核能系统智能解决方案发布",
+    "url": "https://36kr.com/newsflashes/3900458277504642?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-18T02:00:13+00:00",
+    "content_snippet": "我国核能基础研究再添“AI助手”。昨天，在2026世界人工智能大会上，我国科研机构正式发布“面向加速器驱动先进核能系统的智能化解决方案”，旨在为核能系统赋能，提升运行效率与安全水平。",
+    "title_zh": "加速器驱动先进核能系统智能解决方案发布",
+    "summary_zh": "我国科研机构在世界人工智能大会上发布核能系统智能化解决方案，为加速器驱动先进核能系统赋能，提升运行效率与安全性。",
+    "key_points": [
+      "发布面向先进核能系统的AI智能化解决方案",
+      "方案旨在提升核能系统运行效率与安全水平"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7668dfb44b0396da44fb438c14d8df7",
+    "title": "Tried testing qwen 35b moe model on s26 ultra , without compromising on precision [R] ,[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uzik5s/tried_testing_qwen_35b_moe_model_on_s26_ultra/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-18T01:40:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Started testing a private qwen 35B moe capacity LLM runtime on s26 ultra, early testing shows that active model footprint can fit within the device’s memory limits.( not sharing the methods or architecture used) and results suggest roughly 90 input processing t/s achievable after optimisation and output generation is around 8 tokens/s on this mobile.</p> <p>Point is i learned ai ml based on my interest and no formal PhD , I have compute and resources to test. An",
+    "title_zh": "在S26 Ultra上测试Qwen 35B MoE模型，无需牺牲精度",
+    "summary_zh": "用户在手机上测试了私有的Qwen 35B MoE大语言模型运行时，初步结果显示该模型可在设备内存限制内运行，处理速度约90 tokens/秒。",
+    "key_points": [
+      "Qwen 35B MoE模型成功在手机端运行，不牺牲精度",
+      "初步测试显示输入处理速度达到约90 tokens/秒"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
