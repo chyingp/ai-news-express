@@ -1541,5 +1541,120 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c736df2c0520d1bec305a622cea8e63b",
+    "title": "AAAI 27 AI Alignment track [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uzxrn4/aaai_27_ai_alignment_track_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-18T14:44:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>How to submit to AI alignment track? I can only see these at openReview:<br /> AAAI 2027</p> <ul> <li><a href=\"https://openreview.net/group?id=AAAI.org/2027/Artificial_Intelligence_for_Social_Impact_Track\">AAAI 2027 Artificial Intelligence for Social Impact Track</a></li> <li><a href=\"https://openreview.net/group?id=AAAI.org/2027/Conference\">AAAI 2027 Conference</a></li> <li><a href=\"https://openreview.net/group?id=AAAI.org/2027/Innovative_Applications_of_AI\">AA",
+    "title_zh": "AAAI 27 AI Alignment track [D]",
+    "summary_zh": "用户询问如何向AAAI 2027的AI Alignment track提交论文，并表示在OpenReview上只看到其他track，对这一投稿流程存在疑问。",
+    "key_points": [
+      "用户询问AAAI 2027 AI对齐track的投稿方法",
+      "在OpenReview上未找到相关投稿入口"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e25f60d2198094cfd7bb1d05b180e7b4",
+    "title": "Document generation",
+    "url": "https://www.reddit.com/r/artificial/comments/1uzx1pu/document_generation/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-18T14:15:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I need to be able to create estimates and invoices for my small biz. I have used ChatGPT in the past, but it seems to get progressively worse at this task. I know it’s not really its thing, so wondering if I spend the time to set up my template, is there a model that is actually good at making a repeatable doc? </p> <p>It’s actually wild, as of late, it literally won’t spit me out a pdf most times. It’ll say:</p> <p>- “I don’t think the document will be to you s",
+    "title_zh": "文档生成",
+    "summary_zh": "用户为小企业寻找生成报价和发票的AI模型。因ChatGPT表现下降，寻求更专业的文档生成方案，询问是否值得花时间设置模板并寻找合适的模型。",
+    "key_points": [
+      "小型企业主寻求生成报价和发票的专业AI工具",
+      "ChatGPT在文档生成任务上表现有所下降"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c647d05429dfa54b6c06a5c896d9afd3",
+    "title": "Which MCP servers are worth installing for non-dev work in 2026?? Sharing what I found beyond coding",
+    "url": "https://www.reddit.com/r/artificial/comments/1uzwdtm/which_mcp_servers_are_worth_installing_for_nondev/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-18T13:47:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Out of ~30 MCP servers I tested for non-dev work over 4 months, I kept 8 in daily rotation. The ecosystem hit 10K+ servers by early 2026 (22K+ on Glama by May) but most are either demo-ware or duplicate coverage. Sharing the honest cut because &quot;MCP for non-devs&quot; posts usually list every option without saying which ones survive real use.</p> <p>The keepers for marketing/social. PostFast handles cross-platform scheduling from Claude, 11 platforms includi",
+    "title_zh": "2026年非开发工作值得安装的MCP服务器分享",
+    "summary_zh": "作者在4个月内测试了约30个MCP服务器，最终保留8个用于日常非开发工作。指出MCP生态虽已有超1万服务器，但多数质量不高，并分享了个人精选列表。",
+    "key_points": [
+      "MCP服务器生态快速扩张，但高质量工具仍稀缺",
+      "作者分享8个值得日常使用的非开发类MCP服务器"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0332bd50c83775dd2366fa8f7e61fc70",
+    "title": "AI race splits in two as China wages open-weight insurgency",
+    "url": "https://www.reddit.com/r/artificial/comments/1uzwdku/ai_race_splits_in_two_as_china_wages_openweight/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-18T13:47:35+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uzwdku/ai_race_splits_in_two_as_china_wages_openweight/\"> <img alt=\"AI race splits in two as China wages open-weight insurgency\" src=\"https://external-preview.redd.it/I-HLJ78HvQ5Lz-uDb4xZuNnd8QUb6pdvaSeIqviT1gE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd8708b7391a3b2248950672f286b2e0e9014a1e\" title=\"AI race splits in two as China wages open-weight insurgency\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https",
+    "title_zh": "AI竞赛分裂为两大阵营，中国发起开源权重攻势",
+    "summary_zh": "文章分析AI行业格局演变，指出中国正通过发布开源权重模型发起挑战，导致全球AI竞赛分裂为两大对立阵营，形成新的竞争态势。",
+    "key_points": [
+      "全球AI竞赛分裂为中美两大阵营",
+      "中国通过开源权重模型策略发起挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "42ea634f0d2c4c1c80ff6d6c843012f8",
+    "title": "Comparing AI predictions before the World Cup final",
+    "url": "https://www.reddit.com/r/artificial/comments/1uzw659/comparing_ai_predictions_before_the_world_cup/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-18T13:38:44+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uzw659/comparing_ai_predictions_before_the_world_cup/\"> <img alt=\"Comparing AI predictions before the World Cup final\" src=\"https://preview.redd.it/cjoryi3lrzdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=07cdc82cfc4e54915bbb5b961cd09479693a5ca1\" title=\"Comparing AI predictions before the World Cup final\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>With the final coming up, I went back and looked through the AI",
+    "title_zh": "世界杯决赛前AI预测对比",
+    "summary_zh": "文章对比了不同AI模型在世界杯决赛前对比赛结果的预测，分析各模型的预测能力与差异，探讨AI在体育赛事预测领域的应用表现。",
+    "key_points": [
+      "对比多个AI模型对世界杯决赛的预测结果",
+      "分析AI在体育赛事预测中的表现差异"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
