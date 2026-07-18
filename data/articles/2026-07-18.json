@@ -1656,5 +1656,80 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d4b4efc2094dd766e5fb93372dff94d1",
+    "title": "I cut a RAG pipeline's response time from 90 seconds to 4. Never touched the model",
+    "url": "https://www.reddit.com/r/artificial/comments/1uzzcef/i_cut_a_rag_pipelines_response_time_from_90/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-18T15:47:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Last year I worked with an AI startup, an Oxford spinout. Their product answered research questions through a RAG pipeline. It worked, but every query took around 90 seconds. Long enough that users were bailing before the answer even loaded.</p> <p>The obvious move is to blame the model and go bigger. That wasn't it. The retrieval layer was doing way more work than it needed to on every single query: bloated embeddings, no caching, redundant calls stacking up as",
+    "title_zh": "我如何将 RAG 管道的响应时间从 90 秒缩短到 4 秒，且未改动模型",
+    "summary_zh": "开发者分享了优化一个检索增强生成（RAG）管道的经验，通过改进数据处理和索引策略，将查询响应时间从 90 秒大幅降低至 4 秒，整个过程没有对模型本身进行任何调整。",
+    "key_points": [
+      "通过优化数据处理和索引，RAG 响应时间从 90 秒降至 4 秒",
+      "优化过程未涉及模型改动，仅调整管道架构",
+      "案例来自一家牛津大学衍生初创公司"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f6b84ba7c64f0aa9a6c412c68e0ed670",
+    "title": "IA do Google reconstrói o mais belo gol de Pelé",
+    "url": "https://www.reddit.com/r/artificial/comments/1uzyou1/ia_do_google_reconstrói_o_mais_belo_gol_de_pelé/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-18T15:21:41+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uzyou1/ia_do_google_reconstrói_o_mais_belo_gol_de_pelé/\"> <img alt=\"IA do Google reconstrói o mais belo gol de Pelé\" src=\"https://external-preview.redd.it/FRycb_8ReZC3tq84LMM5OcBeEKVj0aZt3fuOyp6HaZo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b8b2288abada2588fa5ff656d7c998608d7531a\" title=\"IA do Google reconstrói o mais belo gol de Pelé\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/D",
+    "title_zh": "谷歌 AI 重建贝利最漂亮的进球",
+    "summary_zh": "谷歌利用人工智能技术对足球传奇贝利最著名的进球之一进行了重建，展示了 AI 在历史影像修复与体育内容生成领域的应用潜力。",
+    "key_points": [
+      "谷歌 AI 重建了贝利足球生涯中最著名的一粒进球",
+      "展示了 AI 在影像修复和历史内容重建方面的能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9d55422b5410b033a6dfa94c292a123a",
+    "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-18T15:10:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The Google DeepMind-sponsored Kaggle challenge &quot;Measuring Progress Toward AGI - Cognitive Abilities&quot; asked participants to design new cognitive-science-based AI benchmarks and they just announced the results this week.</p> <p>In my two posts I present evidence that deepmind &amp; kaggle rewarded a nonsensical number generation machine and a litany of unfounded claims with 25k and a grand prize stamp.</p> <p>What the authors of the work I analyze intend",
+    "title_zh": "疑似 AI 生成内容赢得 DeepMind 与 Kaggle 2.5 万美元大奖",
+    "summary_zh": "有指控称，在谷歌 DeepMind 赞助的 Kaggle 竞赛中，一份获奖作品涉嫌使用 AI 生成内容，引发了关于竞赛评审标准和 AI 滥用的争议。",
+    "key_points": [
+      "DeepMind 赞助的 Kaggle 竞赛获奖作品被指为 AI 生成",
+      "事件引发对 AI 竞赛评审标准与公平性的质疑",
+      "该竞赛旨在设计新的通用人工智能基准"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
