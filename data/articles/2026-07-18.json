@@ -1126,5 +1126,80 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e977fd6c496acf6b932a78c8d7269016",
+    "title": "滴滴WAIC分享：AI升级出行体验，释放服务消费新潜力",
+    "url": "https://36kr.com/newsflashes/3900834871805827?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-18T07:34:25+00:00",
+    "content_snippet": "7月17日，在2026世界人工智能大会（WAIC）上，滴滴集团AI应用负责人刘佳奇发表演讲，介绍滴滴如何用AI重构出行新体验。她介绍，“AI小滴”能通过对自然语言理解，满足乘客个性化、多场景的打车需求，同时让车况佳、服务好的司机获得更多接单机会，促进供需的双向平衡。当更多个性化出行需求被AI释放，线下消费的效率与潜力也随之被激活。目前，小滴已拥有90多个标签，还陆续上线了“沿途搜”“多目的地规划”“周边推荐”“复杂地址上下车点推荐”等功能。",
+    "title_zh": "滴滴WAIC分享：AI升级出行体验，释放服务消费新潜力",
+    "summary_zh": "滴滴在2026世界人工智能大会上展示了AI如何重构出行体验，其AI助手‘小滴’通过自然语言理解满足个性化打车需求，并平衡司机接单机会，激活线下消费潜力。",
+    "key_points": [
+      "AI助手‘小滴’通过自然语言理解，满足乘客个性化、多场景打车需求",
+      "‘小滴’已拥有90多个标签，并上线沿途搜、多目的地规划等功能",
+      "AI释放个性化出行需求，激活线下消费效率与潜力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e7739ed4296c6d89332fdd9451fd71d1",
+    "title": "B2B行业首份AI智能体全球支付白皮书发布",
+    "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-18T07:15:18+00:00",
+    "content_snippet": "36氪获悉，寻汇Sunrate与万事达卡在WAIC现场联合发布白皮书《超越自动化：定义智能体驱动的全球支付》。该报告系统阐述了“AI智能体”如何重塑B2B跨境支付全链路。传统模式下，企业财务需人工核验海外供应商账户、比对合同发票、择汇并承担T+2以上结算滞后期。该报告指出，AI智能体可自动提取多格式票据、匹配采购订单、基于企业需求推荐最优支付路由与换汇窗口、经合规预审后在授权额度触发支付，并自动完成后续对账与异常标记，将财务人员从低附加值操作中解放。",
+    "title_zh": "B2B行业首份AI智能体全球支付白皮书发布",
+    "summary_zh": "寻汇Sunrate与万事达卡在WAIC联合发布白皮书，阐述AI智能体如何重塑B2B跨境支付全链路，实现从票据提取到支付对账的自动化，解放财务人员。",
+    "key_points": [
+      "AI智能体可自动提取票据、匹配订单、推荐最优支付路由与换汇窗口",
+      "经合规预审后在授权额度触发支付，并自动完成后续对账与异常标记",
+      "将财务人员从低附加值操作中解放，提升B2B跨境支付效率"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d0a3119538794deb6391e121d0f80edf",
+    "title": "Anthropic is expanding Claude Fable 5 access as it works to balance demand and compute capacity",
+    "url": "https://www.reddit.com/r/artificial/comments/1uznilq/anthropic_is_expanding_claude_fable_5_access_as/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-18T05:50:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1uznilq/anthropic_is_expanding_claude_fable_5_access_as/\"> <img alt=\"Anthropic is expanding Claude Fable 5 access as it works to balance demand and compute capacity\" src=\"https://preview.redd.it/zp0uveozfxdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=26aeebb7e53d2bd5ac3bd664130f02cad23ef8d1\" title=\"Anthropic is expanding Claude Fable 5 access as it works to balance demand and compute capacity\" /> </a> </td><td> <!-- SC",
+    "title_zh": "Anthropic扩大Claude Fable 5访问权限，平衡需求与算力",
+    "summary_zh": "Anthropic正在扩大其AI模型Claude Fable 5的访问权限，同时努力应对用户需求与计算资源容量之间的平衡问题。",
+    "key_points": [
+      "Anthropic扩大Claude Fable 5模型访问权限",
+      "公司正努力平衡强劲的用户需求与有限的计算资源"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
