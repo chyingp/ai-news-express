@@ -311,5 +311,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7efffbf1462c2466832d175ee07f3ad7",
+    "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-18T22:42:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>32,070 alphabetic tokens from GPT-2-small's WTE, no forward pass and no context.</p> <p>Works on mobile. Pinch to zoom, tap a token to see its nearest connections, tap a neighbour to walk the graph. Search box to jump anywhere.</p> <p>Layout is t-SNE over a compressed representation of the embedding table; edges are a minimum spanning tree in that space, so every line is a real nearest-kin relationship,</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"",
+    "title_zh": "GPT-2分词嵌入空间交互式地图：轻点探索任意token",
+    "summary_zh": "一个交互式在线工具，可视化GPT-2-small模型中32070个字母token的嵌入空间。用户可点击token查看最近邻连接，并通过邻居节点浏览图谱，基于t-SNE降维展示。",
+    "key_points": [
+      "可视化GPT-2-small的32070个字母token嵌入空间",
+      "提供点击、缩放和搜索等交互式探索功能",
+      "使用t-SNE降维技术展示token间的关系"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
