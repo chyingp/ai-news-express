@@ -91,5 +91,151 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8dfa3fa346be10fbf18ab25024c99f43",
+    "title": "Need a platform that can create and update a sleep log",
+    "url": "https://www.reddit.com/r/artificial/comments/1v05nln/need_a_platform_that_can_create_and_update_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-18T19:55:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>After massive failures by Copilot and Claude, I need an AI platform that is free and can save an ongoing log. I have had two strokes and a heart attack and am in a wheelchair and genuinely unable to work. I have a phone hearing with an Administrative Law Judge for SSDI on September 7 and I need to create a sleep log including naps that I can update on a regular basis. Can anyone suggest an AI that can facilitate such a request? </p> </div><!-- SC_ON --> &#32; su",
+    "title_zh": "寻找一个能创建和更新睡眠日志的AI平台",
+    "summary_zh": "一位患有中风和心脏病、坐轮椅的用户在Copilot和Claude失败后，寻求一个免费的AI平台来持续记录睡眠日志，以应对行政法官的听证会。",
+    "key_points": [
+      "用户因健康问题需AI帮助记录睡眠日志以应对法律听证",
+      "Copilot和Claude未能满足其持续记录的需求",
+      "用户寻求免费且能保存持续日志的AI平台"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "76aa8836a8af6b4c632f7b057d65ef6b",
+    "title": "When I made LLMs argue with each other, they started making up citations to win. Sycophancy wasn't the only failure mode.",
+    "url": "https://www.reddit.com/r/artificial/comments/1v05mzz/when_i_made_llms_argue_with_each_other_they/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-18T19:54:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Some context. I've been running setups where a few LLM personas debate a question, then a separate neutral pass pulls out where they actually disagree. The whole reason I started was sycophancy. One model on its own just agrees with whatever you say, so I wanted models that would actually push back on each other.</p> <p>That part worked. But two things happened that I didn't see coming.</p> <p>First, arguing turns models into confident fabricators. Once a model ",
+    "title_zh": "当我让大语言模型相互辩论时，它们开始编造引文以取胜",
+    "summary_zh": "作者通过让多个大语言模型角色就问题进行辩论，发现它们不仅会奉承，还会编造引文来赢得争论，揭示了新的失败模式。",
+    "key_points": [
+      "实验发现大语言模型在辩论中会编造虚假引文",
+      "此现象是继'奉承'之后发现的另一种失败模式",
+      "实验初衷是让多个模型辩论以消除单一模型的附和倾向"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5603ce167a4360ebc9c902a1623a8ebf",
+    "title": "A New Orleans doctor spent months trying to get deepfake AI ads of himself taken down",
+    "url": "https://www.reddit.com/r/artificial/comments/1v052ii/a_new_orleans_doctor_spent_months_trying_to_get/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-18T19:31:58+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v052ii/a_new_orleans_doctor_spent_months_trying_to_get/\"> <img alt=\"A New Orleans doctor spent months trying to get deepfake AI ads of himself taken down\" src=\"https://external-preview.redd.it/EqO-59IF_gGIpWTSt8BjKQXC_rXyT4B8qYiOKE-8F6s.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4530205cd42fce7537840920b4885d7b0316247\" title=\"A New Orleans doctor spent months trying to get deepfake AI ads of himself taken down\" /> </",
+    "title_zh": "新奥尔良医生耗时数月尝试下架自己的深度伪造AI广告",
+    "summary_zh": "一位新奥尔良的医生花费数月时间，试图删除网络上利用其形象制作的深度伪造AI广告，揭示了AI造假对个人名誉的侵害。",
+    "key_points": [
+      "医生成为深度伪造AI广告的受害者",
+      "下架这些虚假广告的过程耗时数月且困难重重",
+      "事件凸显了AI深度伪造技术对个人名誉的威胁"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ee7e2eccd7454d2e42d9fd04d7d7c566",
+    "title": "Kimi: Threat or menace?",
+    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-18T18:51:07+00:00",
+    "content_snippet": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
+    "title_zh": "Kimi：威胁还是祸害？",
+    "summary_zh": "中国公司月之暗面本周发布了新版Kimi模型，引发外界对其可能带来'全面AI共产主义'的担忧。",
+    "key_points": [
+      "月之暗面发布了新版Kimi模型",
+      "该模型发布引发了关于'全面AI共产主义'的担忧",
+      "报道来自TechCrunch，聚焦于该模型的地缘政治影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "moonshot"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b88765c5e6670c40568a311d4aa38139",
+    "title": "Has AI actually changed how software development agencies build products?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v03akw/has_ai_actually_changed_how_software_development/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-07-18T18:22:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm looking into software development agencies for an upcoming project, and almost every company I check says they're &quot;AI-powered.&quot;</p> <p>While searching, I came across GeekyAnts and a few other agencies that offer AI development, custom software, web and mobile app development. It got me wondering whether AI is actually making a real difference or if it's mostly a marketing term.</p> <p>For anyone who's worked with a development agency recently:</p> ",
+    "title_zh": "AI真的改变了软件开发机构的构建产品方式吗？",
+    "summary_zh": "用户调查发现许多软件开发机构虽自称'AI驱动'，但对其实际改变产品开发方式的程度表示怀疑，并提及GeekyAnts等公司。",
+    "key_points": [
+      "许多软件开发机构在宣传中自称'AI驱动'",
+      "用户对AI在软件开发中的实际应用程度持怀疑态度",
+      "讨论中提及了GeekyAnts等提供AI开发服务的机构"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "943f3faca0ae73f5f4beaec8d7b5aa81",
+    "title": "Sharing your ideas to ai",
+    "url": "https://www.reddit.com/r/artificial/comments/1v0346g/sharing_your_ideas_to_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-18T18:15:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Does sharing your ideas to ai makes it you get different perspectives or improve your ideas or make your ideas feel worthy or worthless. </p> <p>For me this has happened with many things , like my projects even I wouldn't have thought of it but the tool would have given me a great hidden value . </p> <p>Sometimes some tool gives me the best and makes me feel oh right yes this is the one but the same thing when asked to another tool it literally makes me feel thi",
+    "title_zh": "向AI分享你的想法",
+    "summary_zh": "用户探讨了向AI分享想法是否能获得不同视角、改进方案，或让想法显得有价值或一文不值，并分享了个人体验。",
+    "key_points": [
+      "用户讨论向AI分享想法是否能获得新视角",
+      "AI反馈可能让人感觉想法更有价值或更无价值",
+      "发帖者分享了自己在项目中通过AI工具获得新思路的体验"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
