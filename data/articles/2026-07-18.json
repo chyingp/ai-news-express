@@ -1373,5 +1373,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "fe4af73767531c486645944d770a5228",
+    "title": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
+    "url": "https://www.qbitai.com/2026/07/453889.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-18T10:12:52+00:00",
+    "content_snippet": "全面演进为赋能千行百业的新型数字基础设施",
+    "title_zh": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
+    "summary_zh": "在2026世界人工智能大会上，AI商业落地报告发布，海亮科技服务公司同时入选产业图谱和Top50榜单，反映AI正成为赋能千行百业的新型数字基础设施。",
+    "key_points": [
+      "海亮科服同时入选AI商业落地产业图谱与Top50榜单",
+      "报告强调AI正全面演进为赋能各行业的新型数字基础设施"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5bfda9f3d651ccb1319788140077c8db",
+    "title": "AI for designers and programmers 😂",
+    "url": "https://www.reddit.com/r/artificial/comments/1uzroqw/ai_for_designers_and_programmers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-18T09:50:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I find it absolutely hilarious that designers and programmers are completely split on AI. </p> <p>Designers hate it(more or less) cause it's tied to personal style and authorship and I'm guessing cause the models were trained with their designs while programmers love it cause removes repetitive work and has lovely autocomplete.</p> <p>They are overlaps and exceptions of course. Some designers love it and some programmers hate it. But for me from the majority of ",
+    "title_zh": "设计师与程序员对AI的态度截然不同",
+    "summary_zh": "Reddit社区讨论指出，设计师和程序员对AI的看法完全分裂，前者因涉及个人风格和版权问题多持反对态度，而程序员则普遍欢迎AI工具。",
+    "key_points": [
+      "设计师因个人风格与模型训练数据问题普遍反感AI",
+      "程序员对AI工具持积极拥抱态度，形成鲜明对比"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ef14cce5fe4d65ea740f189a14fca5a",
+    "title": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+    "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-18T09:30:23+00:00",
+    "content_snippet": "7月18日，在2026世界人工智能大会（WAIC）上，腾讯面向具身智能与智能体领域带来多项产品技术的升级发布。在具身智能领域，腾讯正式升级发布具身智能全栈方案，贯穿云底座、模型层、平台层与应用层，全面助力机器人本体及系统开发商提质提效；在智能体领域，基于个人与企业提效需求，推出差异化的全矩阵解决方案。其中，面向企业用户的腾讯云企业级智能体开发平台ADP4.0海外版正式上线，同时发布「十大行业百大场景生态计划」，目前该平台已落地30多个行业，覆盖智能客服、知识管理、媒体生产等业务场景；面向个人用户的腾讯WorkBuddy正式发布独立App，成为业界首个登陆iOS、Android、鸿蒙三端的通用智能体应用。",
+    "title_zh": "腾讯升级发布具身智能全栈方案，ADP 4.0海外版正式上线",
+    "summary_zh": "腾讯在WAIC 2026上发布升级版具身智能全栈方案和智能体矩阵，ADP 4.0海外版上线并推出行业生态计划，同时发布支持三端的个人智能体应用WorkBuddy。",
+    "key_points": [
+      "腾讯发布具身智能全栈方案，覆盖云、模型、平台、应用四层",
+      "ADP 4.0海外版上线，已落地30余行业并推出百大场景生态计划",
+      "个人智能体WorkBuddy发布独立App，成为首款三端通用智能体"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
