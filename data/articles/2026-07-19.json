@@ -1234,5 +1234,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "425a84dabfeb3a224b8aa5ea4d3e2177",
+    "title": "When People Say That AI Will Never Reason and Judge Things Like Us...",
+    "url": "https://www.reddit.com/r/artificial/comments/1v0t4jo/when_people_say_that_ai_will_never_reason_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-19T15:13:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>...I have to explain that they're interacting with models. That's one part of AI. There are many, many layers to it that are being added in the DIY spaces this very moment that have solved this issue. But it needs to be clarified that even though these problems have been solved, that also doesn't mean AI can actually understand truth, judgement, and reason. Rather, it can be forced to produce these qualities through various processes, which creates the illusion.",
+    "title_zh": "当人们说AI永远不会像我们一样推理和判断时……",
+    "summary_zh": "本文指出，认为AI无法推理和判断的观点，混淆了现有模型与AI整体能力。作者强调，AI是一个多层次系统，开发者社区正在私下解决这些问题，现有的模型表现不代表AI的最终潜力。",
+    "key_points": [
+      "AI由多个层次组成，现有模型只是其中一部分",
+      "DIY开发者社区正在积极解决AI推理与判断的难题",
+      "不应以当前模型的表现来否定AI未来的推理能力"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
