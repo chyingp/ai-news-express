@@ -198,5 +198,127 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9d3d8be3af041c00201eb8f98da4199c",
+    "title": "the sprint review nobody wants to write is a join problem, not a writing problem",
+    "url": "https://www.reddit.com/r/artificial/comments/1v103fu/the_sprint_review_nobody_wants_to_write_is_a_join/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-19T19:52:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The take that ai is good at summarizing and bad at judgment is basically right, and I think it undersells the summarizing half. Every sprint review I've written is about 20 minutes of writing sitting on top of an hour of pulling. Linear for what actually moved, GitHub for what shipped versus what's still open, Slack for the incident nobody ever filed a ticket for.</p> <p>The bit I'd add is that the pulling is exactly the part a model upgrade does nothing for. A ",
+    "title_zh": "没有人想写的冲刺评审是一个连接问题，而不是写作问题",
+    "summary_zh": "文章认为AI擅长总结但缺乏判断力，指出撰写冲刺评审的困难主要在于从Linear、GitHub等多个工具中整合信息的连接问题，而非写作本身。",
+    "key_points": [
+      "AI在总结方面能力强，但撰写冲刺评审的难点是信息整合",
+      "冲刺评审效率低下的根源是跨工具数据连接问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1bb680ca92ccb3517bbd854a69231a9c",
+    "title": "Using AI makes people less likely to admit they don't know something",
+    "url": "https://www.reddit.com/r/artificial/comments/1v101tm/using_ai_makes_people_less_likely_to_admit_they/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-19T19:50:25+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NISMO1968\"> /u/NISMO1968 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1v101tm/using_ai_makes_people_less_likely_to_admit_they/\">[comments]</a></span>",
+    "title_zh": "研究表明使用AI让人们更不愿意承认自己不知道",
+    "summary_zh": "一项研究指出，频繁使用AI工具的人更不愿意承认自己知识上的不足，可能对学习和认知谦逊产生负面影响。",
+    "key_points": [
+      "使用AI工具会降低人们承认知识盲区的意愿",
+      "该现象可能对个人的认知谦逊和学习能力产生负面影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "16430811403db10bbacdf75cb12214c8",
+    "title": "Best AI 3D generator in 2026, breakdown after testing 5 tools",
+    "url": "https://www.reddit.com/r/artificial/comments/1v0zksv/best_ai_3d_generator_in_2026_breakdown_after/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-19T19:29:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A friend asked me which AI 3D generator to pick for his project and I realized I couldn't give him a straight answer based on anything I'd actually tested myself. So I spent about three weeks running the same 30 prompts through Meshy, Tripo, Rodin, Hunyuan, and CSM to figure out what each one is actually good at. Tested props, characters, hard surface objects, and paid attention to success rate, texture quality, mesh cleanliness, and how long it took to get some",
+    "title_zh": "2026年最佳AI 3D生成器，测试5款工具后的详细对比",
+    "summary_zh": "作者通过三周时间用30个相同提示词测试了Meshy、Tripo、Rodin、Hunyuan和CSM五款AI 3D生成工具，给出了详细的对比评测。",
+    "key_points": [
+      "对Meshy、Tripo、Rodin、Hunyuan和CSM五款工具进行了横向评测",
+      "测试基于30个相同提示词，历时三周，提供详细对比分析"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "87a2e11003ab357d30ea479de5c02147",
+    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-19T19:24:45+00:00",
+    "content_snippet": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+    "title_zh": "苹果的诉讼能打乱OpenAI的硬件计划吗？",
+    "summary_zh": "TechCrunch的Equity播客探讨了苹果公司提起的诉讼是否会对OpenAI进军硬件领域和上市的计划造成阻碍。",
+    "key_points": [
+      "苹果公司对OpenAI提起诉讼，可能影响其硬件业务发展",
+      "播客讨论该诉讼是否会影响OpenAI的上市计划"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "288b63a0c61197c71c97bb26333ed851",
+    "title": "one of the best features of ChatGPT Work is that it runs in the cloud, meaning that it works from mobile, with your laptop closed. kinda crazy how long the main way to get the magic of agents has been while leaving your laptop cracked open!",
+    "url": "https://nitter.net/gdb/status/2078922461660533120#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-19T19:18:34+00:00",
+    "content_snippet": "<p>one of the best features of ChatGPT Work is that it runs in the cloud, meaning that it works from mobile, with your laptop closed.<br />\n<br />\nkinda crazy how long the main way to get the magic of agents has been while leaving your laptop cracked open!</p>",
+    "title_zh": "ChatGPT Work最佳特性之一：云端运行，无需打开笔记本电脑",
+    "summary_zh": "Greg Brockman称赞ChatGPT Work的云端运行特性，用户即使关闭笔记本电脑，也能通过手机使用代理功能，体验远超传统方式。",
+    "key_points": [
+      "ChatGPT Work在云端运行，支持手机端操作，无需开启笔记本电脑",
+      "该特性让用户能更便捷地体验AI代理的魔力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
