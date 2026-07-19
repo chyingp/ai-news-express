@@ -1091,5 +1091,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "cb730a45217e1870d281202ea57abbf4",
+    "title": "Follow up: GPT-2's vocabulary as a hyperbolic tree — 32,070 tokens in a Poincaré ball you can fly through [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pv45/follow_up_gpt2s_vocabulary_as_a_hyperbolic_tree/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-19T12:54:23+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1v0pv45/follow_up_gpt2s_vocabulary_as_a_hyperbolic_tree/\"> <img alt=\"Follow up: GPT-2's vocabulary as a hyperbolic tree — 32,070 tokens in a Poincaré ball you can fly through [P]\" src=\"https://preview.redd.it/o6l1c96lo6eh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=92447206205a44b4f473a41cc8557c245d73a7d0\" title=\"Follow up: GPT-2's vocabulary as a hyperbolic tree — 32,070 tokens in a Poincaré ball you can fly throu",
+    "title_zh": "跟进：GPT-2 词汇表的双曲树可视化——在可飞行的庞加莱球中呈现 32,070 个 token",
+    "summary_zh": "一篇 Reddit 项目展示，将 GPT-2 的 32,070 个 token 映射到双曲空间的庞加莱球模型中，并允许用户以飞行的方式交互式探索其词汇结构。",
+    "key_points": [
+      "将 GPT-2 词汇表可视化在双曲庞加莱球中",
+      "提供交互式飞行探索 token 间关系",
+      "属于技术演示性质的项目跟进"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2b889702219ea8b7efa6ae2f24b38edf",
+    "title": "Passing the Swedish Medical Licensing Exam by Post-Training Open-Weight LLMs with SFT and RLVR [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pnoq/passing_the_swedish_medical_licensing_exam_by/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-19T12:44:45+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AccomplishedCat4770\"> /u/AccomplishedCat4770 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://tensorlabbet.com/2026/07/19/medqaswe_post_training/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1v0pnoq/passing_the_swedish_medical_licensing_exam_by/\">[comments]</a></span>",
+    "title_zh": "通过 SFT 和 RLVR 后训练开放权重 LLM 通过瑞典医学执照考试",
+    "summary_zh": "一篇研究论文，探讨利用监督微调（SFT）和可验证奖励强化学习（RLVR）对开放权重的大语言模型进行后训练，使其成功通过瑞典医学执照考试。",
+    "key_points": [
+      "使用 SFT 和 RLVR 方法后训练开放权重 LLM",
+      "模型成功通过瑞典医学执照考试",
+      "验证了后训练技术在专业领域应用的有效性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6e497e2ca1223b21961bc47a7a0bbc91",
+    "title": "How not to become lazy with AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v0pmhf/how_not_to_become_lazy_with_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-19T12:43:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I think this is not really AI problem, its more about mindset and it repeats with every new technology. <strong>Calculators</strong>, <strong>Internet</strong> - every time people get a tool that thinks for them, some become lazy and some learn to use it without turning off their brain. AI is just the next round, much stronger round. Maybe some kind of the final boss.</p> <p>So probably there is no universal fix and <strong>everyone has to find their own way</st",
+    "title_zh": "如何避免在使用 AI 时变得懒惰？",
+    "summary_zh": "一篇 Reddit 讨论帖，探讨人们在使用 AI 工具时如何避免思维懒惰，并将其与计算器、互联网等历史技术引发的类似心态问题进行类比。",
+    "key_points": [
+      "讨论 AI 使用过程中的思维懒惰问题",
+      "类比计算器和互联网等技术的类似影响",
+      "强调这是心态而非纯粹的 AI 技术问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8f53c621871476748d8bd020ebfed357",
+    "title": "Am I focusing on the wrong skills as a CS student in the AI era? (Need brutally honest advice) [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v0pc9u/am_i_focusing_on_the_wrong_skills_as_a_cs_student/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-19T12:29:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm a Computer Science student about to start my 4th semester this September in Pakistan. My long-term goals are:</p> <p>- Maintain a high GPA because I want to pursue a fully funded Master's abroad.</p> <p>- Eventually work at a top tech company (FAANG or similar).</p> <p>- Become a genuinely good software engineer rather than just someone who can build projects.</p> <p>A bit about me:</p> <p>I actually enjoy programming. I like logic, problem-solving, debuggin",
+    "title_zh": "在 AI 时代，我作为计算机科学专业的学生是否专注于错误的技能？（需要坦诚的建议）",
+    "summary_zh": "一名巴基斯坦计算机科学专业学生发帖寻求职业建议，担心在 AI 时代自己专注的技能可能过时，并表达了维持高绩点和未来进入顶级科技公司的目标。",
+    "key_points": [
+      "CS 学生担忧 AI 时代技能选择是否正确",
+      "目标是保持高 GPA 并赴海外攻读硕士",
+      "寻求职业规划建议以进入顶级科技公司"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
