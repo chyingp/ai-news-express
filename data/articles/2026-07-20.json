@@ -1,0 +1,202 @@
+[
+  {
+    "id": "11fc86459a7d08fe8f3d3ce60806b1ff",
+    "title": "I built Synapse – a local MCP server that gives Claude instant knowledge of your codebase",
+    "url": "https://www.reddit.com/r/artificial/comments/1v0yfat/i_built_synapse_a_local_mcp_server_that_gives/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-19T18:40:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Synapse indexes your codebase locally and connects it to Claude Code via MCP.</p> <p>Ask Claude &quot;how does the payment flow work?&quot; and it searches your </p> <p>actual code instead of asking you to paste it.</p> <p>- 100% local — no cloud, no API key required</p> <p>- Uses nomic-embed-text-v1.5 + LanceDB</p> <p>- 2 MCP tools: recall (semantic search) and context (full file retrieval)</p> <p>- pip install synapse-mcp</p> <p>MIT licensed, open source.</p> ",
+    "title_zh": "我构建了 Synapse——一个本地 MCP 服务器，可让 Claude 即时了解你的代码库",
+    "summary_zh": "开发者分享了名为 Synapse 的本地 MCP 服务器工具，它能索引本地代码库并连接至 Claude Code，使 AI 可直接搜索和回答代码问题，无需用户手动粘贴。",
+    "key_points": [
+      "Synapse 本地索引代码库并通过 MCP 连接 Claude Code",
+      "实现向 AI 直接询问代码逻辑，无需手动粘贴代码",
+      "强调 100% 本地运行，无需云端或 API 密钥"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "16eb6315b09ce53969045c48b524e0c9",
+    "title": "How do you actually keep up with everything in AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v0yb8z/how_do_you_actually_keep_up_with_everything_in_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-19T18:35:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I don’t know if I’m the only one experiencing this, but I’m struggling to find AI information that is genuinely useful or interesting.</p> <p>I follow a few podcasts and newsletters (around 2 podcasts and 4/5 newsletters focused on AI), but lately it feels like none of them provide any value. These are some of the most popular and widely followed sources, so maybe I’m missing something, but I don’t understand how people keep finding them useful.</p> <p>Many news",
+    "title_zh": "你如何真正跟上 AI 领域的一切？",
+    "summary_zh": "用户表达了对追踪 AI 信息质量的困惑，认为当前播客和新闻通讯的内容大多缺乏深度或实用性，寻找真正有价值的信息变得越来越困难。",
+    "key_points": [
+      "用户对 AI 信息质量感到失望，内容缺乏深度",
+      "当前信息源重复性高，难以筛选出真正有用的内容",
+      "探讨如何高效获取有价值的 AI 信息"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "96da8f75d9dea5677e4871f192ba7e6c",
+    "title": "Has anyone noticed AI \"hate\" has become more prevalent, mainstream and intense?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v0y8o0/has_anyone_noticed_ai_hate_has_become_more/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-19T18:33:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Everywhere I see AI used, the reaction is &quot;AI slop&quot;, and often just met with outright anger, even when it's good or being used for prototyping or advertisement. If there's a tell that it's AI generated, it's met with hostility. Many content creators preach anti-AI mantras, many communities outright ban AI generated content.</p> <p>It's as if the current cultural attitude (besides pro-AI and IT sector) is that AI is everything bad with the world these d",
+    "title_zh": "有人注意到对 AI 的“仇恨”变得更普遍、更主流和更激烈了吗？",
+    "summary_zh": "用户观察到公众对 AI 生成内容的抵触情绪日益强烈，即使质量不错，也常被贴上“AI 垃圾”的标签，内容创作者对此表现出明显的敌意。",
+    "key_points": [
+      "公众对 AI 生成内容的敌意和负面标签化现象加剧",
+      "即使 AI 作品质量良好，也常遭排斥和批评",
+      "内容创作者对 AI 的抵触情绪尤为明显"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ad79c21c94c61799b407b5419d47181c",
+    "title": "Can countries really regulate AI if they don’t control the compute?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v0xckk/can_countries_really_regulate_ai_if_they_dont/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-19T17:58:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I keep hearing AI governance discussed as if every country is sitting at the same table with roughly the same amount of influence.<br /> But most countries don’t control the chips, cloud infrastructure, data centers, or frontier models they’re being asked to regulate. They can write rules, but enforcement still depends heavily on infrastructure owned by a small number of governments and private companies.<br /> That makes me wonder whether this is really a regul",
+    "title_zh": "如果无法控制算力，各国真的能监管 AI 吗？",
+    "summary_zh": "文章质疑 AI 治理的公平性，指出多数国家不掌握芯片、云基础设施等关键资源，缺乏实际监管手段，AI 权力可能集中在少数拥有算力的国家手中。",
+    "key_points": [
+      "多数国家缺乏芯片和数据中心等关键 AI 算力资源",
+      "无算力掌控权的国家在 AI 监管中处于弱势地位",
+      "AI 治理权力可能向少数掌控算力的国家集中"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "93eea8f20249b63749ed62b45756ad44",
+    "title": "Chinese open-weight model beats Opus 4.8 on some benchmarks, first time this has happened",
+    "url": "https://www.reddit.com/r/artificial/comments/1v0x2za/chinese_openweight_model_beats_opus_48_on_some/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-19T17:48:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Moonshot released Kimi K3 July 17: 2.8 trillion parameters, fully open-source. Artificial Analysis independently ranks it ahead of Anthropic's Opus 4.8 on frontier benchmarks, first Chinese open-weight model to do that. Still behind Claude Fable 5 and GPT-5.6 overall, but Moonshot doesn't claim otherwise.</p> <p>Artificial Analysis and Arena.ai placed it there independently. It also topped web interface engineering evals in blind human-preference comparisons aga",
+    "title_zh": "中国开源模型在部分基准测试中首次超越 Claude Opus 4.8",
+    "summary_zh": "月之暗面公司发布了完全开源的 Kimi K3 模型，拥有 2.8 万亿参数。在 Artificial Analysis 的独立基准测试中，该模型性能首次超越 Anthropic 的 Opus 4.8。",
+    "key_points": [
+      "月之暗面开源 2.8 万亿参数 Kimi K3 模型",
+      "在部分基准测试中首次超越 Claude Opus 4.8",
+      "整体性能仍落后于 Claude Fable 5 和 GPT-5.6"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "moonshot",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ed9e0eec9eef3654101ad2d11b4a01c5",
+    "title": "Politicians Are Trying to Change What Chatbots Say About Them",
+    "url": "https://www.reddit.com/r/artificial/comments/1v0x0my/politicians_are_trying_to_change_what_chatbots/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-19T17:45:32+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v0x0my/politicians_are_trying_to_change_what_chatbots/\"> <img alt=\"Politicians Are Trying to Change What Chatbots Say About Them\" src=\"https://external-preview.redd.it/ORnse6zmzDzmq2WyBlMnGeQ2FxCNVX8UdUp1tQGuJ-U.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f221adefa163d2973aa91b96f81c879266473d32\" title=\"Politicians Are Trying to Change What Chatbots Say About Them\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"ht",
+    "title_zh": "政客们正试图改变聊天机器人对他们的评价",
+    "summary_zh": "报道指出，一些政客正在尝试干预 AI 聊天机器人关于他们的言论，试图影响或控制模型输出的内容，以维护个人形象和政治利益。",
+    "key_points": [
+      "政客试图干预 AI 聊天机器人对自身的描述",
+      "目的是控制舆论，维护个人和政治形象",
+      "引发关于 AI 输出操纵和审查的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2ca1800a69cf2d7b88732ee2caf19940",
+    "title": "The Expert Generalist",
+    "url": "https://www.reddit.com/r/artificial/comments/1v0wt3q/the_expert_generalist/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-19T17:37:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been thinking about who actually wins in the age of AI.</p> <p>For years the advice was:</p> <p>“Be a specialist.”</p> <p>Then AI arrived, and people started saying:</p> <p>“No, be a generalist.”</p> <p>I don’t think either is right.</p> <p>The people who seem to have the biggest advantage are becoming expert generalists.</p> <p>Not people who know everything.</p> <p>People who have real depth in at least one area, but can connect ideas across many.</p> <p>",
+    "title_zh": "专家型通才",
+    "summary_zh": "文章探讨了 AI 时代的人才定位，认为纯粹的“专家”或“通才”都不够，未来最有竞争力的是能深度理解多个领域并将其融会贯通的“专家型通才”。",
+    "key_points": [
+      "AI 时代下，纯粹专家或通才的定位均存在局限",
+      "提出“专家型通才”概念，即精通多个领域并整合",
+      "这种复合型人才在 AI 时代拥有最强竞争力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d6b08ae152bbd45244fb8b69e785ab2b",
+    "title": "Weekly roundup: GPT-5.6 general release, Gemini 3.5 Pro launch, Grok 4.5, Apple-Alibaba Qwen approval, Ollama's $65M raise",
+    "url": "https://www.reddit.com/r/artificial/comments/1v0wt38/weekly_roundup_gpt56_general_release_gemini_35/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-19T17:37:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Busy nine days on the frontier, so here's a consolidated summary with sources.</p> <p><strong>Model launches:</strong> OpenAI released GPT-5.6 broadly on July 9 — three variants (Sol $5/$30, Terra $2.50/$15, Luna $1/$6 per 1M tokens), 1.05M context (Axios, OpenAI). xAI shipped Grok 4.5 on July 8 at $2/$6, positioned as a workhorse for routine knowledge work (TechCrunch, Axios). Google's Gemini 3.5 Pro reached GA today, July 17, after a full architectural rebuild",
+    "title_zh": "一周要闻：GPT-5.6 全面发布、Gemini 3.5 Pro 推出、Grok 4.5 发布、Apple-阿里巴巴通义千问获批、Ollama 融资 6500 万美元",
+    "summary_zh": "汇总了近期 AI 领域多项重大事件，包括 OpenAI 的 GPT-5.6 正式发布、Google 推出 Gemini 3.5 Pro、xAI 的 Grok 4.5 发布、Apple 与阿里巴巴合作的 Qwen 模型获批，以及 Ollama 完成 6500 万美元融资。",
+    "key_points": [
+      "OpenAI 发布 GPT-5.6，Google 推出 Gemini 3.5 Pro",
+      "xAI 发布 Grok 4.5，Apple 与阿里巴巴通义千问获批",
+      "Ollama 完成 6500 万美元新一轮融资"
+    ],
+    "importance": 5,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "google",
+      "xai",
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
