@@ -320,5 +320,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2c2d80b5bac5481d6368e735a6e54715",
+    "title": "All current debates about AI are predicated on the assumption that frontier AI training will always be expensive. But in the future, AI will not be based on the primitive stack of today, and both training and inference will be incredibly cheap.",
+    "url": "https://nitter.net/fchollet/status/2078952498342314411#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-19T21:17:55+00:00",
+    "content_snippet": "<p>All current debates about AI are predicated on the assumption that frontier AI training will always be expensive. But in the future, AI will not be based on the primitive stack of today, and both training and inference will be incredibly cheap.</p>",
+    "title_zh": "François Chollet 谈未来AI训练与推理成本将大幅降低",
+    "summary_zh": "AI专家François Chollet指出，当前关于AI的辩论都基于前沿AI训练将永远昂贵的假设，但他认为未来AI将不再基于当今的原始技术栈，训练和推理成本都将变得极其低廉。",
+    "key_points": [
+      "当前AI辩论建立在训练成本高昂的假设之上",
+      "未来AI技术栈将革新，不再依赖现有基础",
+      "训练与推理成本均将大幅降低"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
