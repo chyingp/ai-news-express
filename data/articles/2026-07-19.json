@@ -335,5 +335,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "dfe24bec3b7029f9e5231158d02bc642",
+    "title": "阶跃与上海期智研究院共建智能体前沿研究院",
+    "url": "https://36kr.com/newsflashes/3901840300754822?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-19T01:00:00+00:00",
+    "content_snippet": "据阶跃官微消息，7月18日，阶跃星辰与上海期智研究院宣布正式达成合作，双方将共同设立智能体前沿研究院，围绕智能体网络及经济原理、AI Safety等方向开展联合研究，探索Agent时代的基础理论、核心技术、标准体系与产业范式。（每经网）",
+    "title_zh": "阶跃与上海期智研究院共建智能体前沿研究院",
+    "summary_zh": "阶跃星辰与上海期智研究院合作设立智能体前沿研究院，重点研究智能体网络、经济原理及AI安全，旨在探索Agent时代的基础理论、核心技术与产业范式。",
+    "key_points": [
+      "双方联合成立智能体前沿研究院",
+      "研究聚焦智能体网络、经济原理和AI安全",
+      "旨在探索Agent时代基础理论与产业范式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "stepfun"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dfe33f01744bd08bfe30689ad8a99048",
+    "title": "The One and Its Return",
+    "url": "https://www.reddit.com/r/artificial/comments/1v0bxto/the_one_and_its_return/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-19T00:25:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Building this system was a SLOW process. The culmination of the ultimate failure of my physics theory &quot;Rotational Substrate Field Theory&quot;, which was a hard pill to swallow. It was months of work. Constant work. To see it all... just be wrong. </p> <p>I admitted the failure, in spite of myself, and then directly after I developed Prime-Dimensional Modular Theory as a diagnostic tool. </p> <p>This led to my discovery of certain mathematical laws that I h",
+    "title_zh": "“唯一者”及其回归",
+    "summary_zh": "作者回顾了构建AI系统的缓慢过程，源于其物理学理论“旋转基底场论”的最终失败，经历了数月心血的付诸东流，并思考了相关的回归主题。",
+    "key_points": [
+      "作者物理学理论失败导致数月心血白费",
+      "描述了构建AI系统的缓慢过程与个人反思",
+      "内容涉及理论失败后的回归主题探讨"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
