@@ -284,5 +284,79 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "20d9bcdf56933ea72724fc8a6c4da1fb",
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-20T21:21:15+00:00",
+    "content_snippet": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+    "title_zh": "谷歌正在研发新AI芯片以提高Gemini效率",
+    "summary_zh": "谷歌母公司Alphabet正在研发一款新芯片，旨在让其Gemini模型运行更高效，提升性能与能耗比。",
+    "key_points": [
+      "谷歌母公司Alphabet正在为Gemini模型研发专用AI芯片",
+      "新芯片旨在显著提升Gemini模型的运行效率",
+      "此举旨在优化AI推理和训练的成本与性能"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3353d192712ab73ece1b81299b13d36c",
+    "title": "SpaceX in your index fund, explained",
+    "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-20T21:00:00+00:00",
+    "content_snippet": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like SpaceX - a giant gamble, and, in my opinion, terribly overpriced - is fast-tracked into the Nasdaq-100? Does [&#8230;]",
+    "title_zh": "解析：SpaceX为何会出现在你的指数基金里",
+    "summary_zh": "文章探讨了像SpaceX这样高估值、高风险的公司被快速纳入纳斯达克100指数，对被动投资者和指数基金意味着什么。",
+    "key_points": [
+      "SpaceX被快速纳入纳斯达克100指数引发关注",
+      "文章认为SpaceX估值过高，风险巨大",
+      "投资者在指数基金中被动承担了高估值个股的风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9afbcd831bf6d894b62b89ab8396bcae",
+    "title": "AI’s most important protocol is getting a little bit easier to use",
+    "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-20T20:50:40+00:00",
+    "content_snippet": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers building custom pipes for every connection. Next [&#8230;]",
+    "title_zh": "AI最重要的协议正变得稍微更易用",
+    "summary_zh": "模型上下文协议（MCP）作为AI互操作性的基础，正变得更易于使用，它让AI模型能安全访问外部数据源和服务，降低开发者集成门槛。",
+    "key_points": [
+      "模型上下文协议(MCP)是AI连接外部数据和服务的关键标准",
+      "该协议正在改进，使用门槛降低，更易于开发者集成",
+      "MCP让聊天机器人能安全访问日历、数据库等内部工具"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
