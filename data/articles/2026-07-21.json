@@ -358,5 +358,127 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0d409532615f22d38b497b26cd9d00b2",
+    "title": "what building an AI assistant with no interface exposed: latency becomes personality and the acknowledgment has to prove it understood",
+    "url": "https://www.reddit.com/r/artificial/comments/1v20wwq/what_building_an_ai_assistant_with_no_interface/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-20T23:01:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>building dexi, an assistant that lives in imessage, no app, the whole surface is a text thread. one prompt-design problem from it is worth sharing because it's non-obvious</p> <p>when your only surface is messages, you can't show a spinner or stream tokens. there's silence, then a reply. anything over ~10 seconds reads as being ignored and the user starts typing again, which forks the conversation. so you have to acknowledge fast. the trap: a generic &quot;worki",
+    "title_zh": "打造无界面的AI助手：延迟成了个性，确认必须证明理解",
+    "summary_zh": "文章分享了构建一个仅通过iMessage短信交互的AI助手Dexi时的独特体验。由于没有传统应用界面，无法显示加载动画或实时输出，这迫使开发者重新思考延迟处理和确认机制的设计，使其成为体验的核心部分。",
+    "key_points": [
+      "无界面AI助手通过短信交互，UI限制带来独特设计挑战",
+      "延迟和确认机制成为塑造助手个性的关键因素",
+      "无法使用加载动画和流式输出，需重新设计反馈方式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a68e256ac69c85b957f8cedf6a628ed1",
+    "title": "Not sure if people in SF use the phrase \"xyz-shaped\" all the time because LLMs speak like that, or the other way around",
+    "url": "https://nitter.net/fchollet/status/2079339300177809426#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-20T22:54:56+00:00",
+    "content_snippet": "<p>Not sure if people in SF use the phrase \"xyz-shaped\" all the time because LLMs speak like that, or the other way around</p>",
+    "title_zh": "不确定旧金山人频繁使用“xyz形的”说法，是因为大语言模型这么说话，还是反过来",
+    "summary_zh": "François Chollet在社交媒体上提出一个观察：旧金山人常说的“xyz-shaped”短语，其流行到底是因为大语言模型训练数据中包含了这种表述，还是大语言模型学习并强化了这种当地口语习惯，引发了对语言影响的思考。",
+    "key_points": [
+      "Chollet质疑大语言模型与人类口语习惯之间的相互影响",
+      "以“xyz-shaped”短语为例，探讨AI语言模式的来源",
+      "引发关于AI训练数据与现实语言文化关系的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "79729dbd9369d9d2ca486b5de06a0416",
+    "title": "Trump’s latest AI czar has already resigned",
+    "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-20T22:21:04+00:00",
+    "content_snippet": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+    "title_zh": "特朗普最新任命的AI负责人已辞职",
+    "summary_zh": "据报道，特朗普政府新成立的AI标准与创新中心（CAISI）主任一职近期再次出现人员变动，最新任命的负责人已辞职。自前任AI沙皇David Sacks离职后，该职位已如同走马灯般频繁换人，凸显该机构领导层的不稳定性。",
+    "key_points": [
+      "特朗普政府AI标准与创新中心（CAISI）负责人辞职",
+      "该职位自David Sacks离任后已多次换人，显示领导层不稳",
+      "事件反映了美国AI政策制定机构内部的持续动荡"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "612445dbd724893299e05240ba375685",
+    "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+    "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-20T22:19:12+00:00",
+    "content_snippet": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyonc&#233;'s Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this [&#8230;]",
+    "title_zh": "索尼起诉Udio AI音乐生成器，涉及3万首歌曲版权",
+    "summary_zh": "索尼音乐娱乐对AI音乐生成公司Udio提起新的诉讼，指控其侵犯了超过3万首歌曲的版权，曲目涵盖从猫王的《Hound Dog》到碧昂丝的《Say My Name》等众多经典。该诉讼在纽约法院提起，标志着AI版权战的进一步升级。",
+    "key_points": [
+      "索尼起诉Udio侵犯3万多首歌曲版权，包括猫王、碧昂丝作品",
+      "诉讼在纽约法院提起，是AI音乐版权纠纷的重大案件",
+      "此案可能为AI生成内容与版权法的界限设立重要判例"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a043044023c9739ca1b04b06129817ba",
+    "title": "Final class-action settlement approval granted, judgment entered, and attorneys' fees awarded in the Bartz v. Anthropic AI copyright case",
+    "url": "https://www.reddit.com/r/artificial/comments/1v1zmn7/final_classaction_settlement_approval_granted/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-20T22:08:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Today the Federal District Court for the Northern District of California granted final approval of the $1.5 Billion class-action settlement in the <em>Bartz v. Anthropic</em> AI copyright lawsuit, and entered judgment.</p> <p>The court also awarded plaintiffs' class counsel $101,561,111 in attorneys' fees. Good work if you can get it!</p> <p>(They <em>wanted</em> $187,500,000.)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/use",
+    "title_zh": "Bartz诉Anthropic AI版权案获最终批准，15亿美元和解金",
+    "summary_zh": "美国加州北区联邦地方法院已最终批准Bartz诉Anthropic一案的15亿美元集体诉讼和解协议，并作出判决。法院同时批准了原告集体律师的律师费。这标志着这起备受关注的AI版权诉讼案画上句号。",
+    "key_points": [
+      "Anthropic AI版权集体诉讼以15亿美元和解金获法院最终批准",
+      "法院判决并批准了原告律师费，案件正式结案",
+      "此案是AI公司因训练数据版权问题付出的重大经济代价"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
