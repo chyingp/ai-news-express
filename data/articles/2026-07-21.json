@@ -1625,5 +1625,230 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "be406df3fd99cbadb47d0604f30ec0a6",
+    "title": "US threatens sanctions against Chinese AI models over IP theft",
+    "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-21T15:37:05+00:00",
+    "content_snippet": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+    "title_zh": "美国威胁就知识产权盗窃问题制裁中国AI模型",
+    "summary_zh": "美国财政部长斯科特·贝森特表示，美国可能因涉嫌知识产权盗窃而制裁中国开源AI模型，此举旨在扩大特朗普政府延缓中国AI发展的行动。",
+    "key_points": [
+      "美国拟以知识产权盗窃为由制裁中国AI模型",
+      "制裁旨在扩大特朗普政府延缓中国AI发展的行动",
+      "目标直指中国开源AI模型"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "28359da1c64b30c8590ef352d2e398fe",
+    "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "硬件发布",
+    "language": "en",
+    "published": "2026-07-21T15:36:43+00:00",
+    "content_snippet": "NVIDIA Vera Rubin is here, and it&#8217;s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. Spanning 350-plus factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. The [&#8230;]",
+    "title_zh": "NVIDIA Vera Rubin：驱动每瓦最高性能，为全球合作伙伴带来最低Token成本",
+    "summary_zh": "NVIDIA宣布Vera Rubin NVL72系统投产，正与CoreWeave、Google Cloud、微软Azure及甲骨文云等合作伙伴进行大规模部署，以在超大规模AI工厂中实现每瓦最高性能和最低Token成本。",
+    "key_points": [
+      "NVIDIA Vera Rubin NVL72系统正式投产",
+      "在谷歌云、微软Azure等顶级云平台部署",
+      "覆盖30个国家350多个工厂，规模宏大"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "nvidia",
+      "google",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2a4b557c8e2113d9cd2859f8283b062b",
+    "title": "If everyone had a personal AI that knew them deeply, could democracy become continuous?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v2levk/if_everyone_had_a_personal_ai_that_knew_them/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业观点",
+    "language": "en",
+    "published": "2026-07-21T15:17:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Assume a future where every human has a sovereign personal AI.</p> <p>Not a government AI.</p> <p>Not a party AI.</p> <p>Not a platform algorithm.</p> <p>A personal AI controlled by the citizen, built around their values, preferences, history, constraints, priorities, and decision patterns.</p> <p>An AI that knows its human well enough to say:</p> <p>“Based on what I know about you, you would probably care about this issue, lean toward this option, object to thi",
+    "title_zh": "如果人人都拥有深入了解自己的个人AI，民主能否变得持续化？",
+    "summary_zh": "一篇Reddit帖子探讨了一个假设性未来：当每个公民都拥有一个由自己控制、基于其价值观和偏好的个人AI时，民主是否可能从间歇性投票转变为持续性的参与过程。",
+    "key_points": [
+      "探讨个人AI能否使民主从间歇性走向持续性",
+      "设想由公民控制的个人AI，非政府或平台算法",
+      "AI基于用户价值观与偏好提供深度个性化服务"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6ba6c25e923af94f7fbb48daadbf9b16",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-21T15:16:30+00:00",
+    "content_snippet": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+    "title_zh": "谷歌推出Gemini 3.6 Flash、3.5 Flash-Lite及3.5 Flash Cyber模型",
+    "summary_zh": "谷歌DeepMind发布了一系列新Gemini模型，包括性能更强的Gemini 3.6 Flash、成本更低的3.5 Flash-Lite，以及专注于网络安全漏洞检测的3.5 Flash Cyber。",
+    "key_points": [
+      "谷歌发布Gemini 3.6 Flash、3.5 Flash-Lite等新模型",
+      "推出网络安全专用模型Gemini 3.5 Flash Cyber",
+      "新模型旨在提供高性能与成本效益的平衡"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0de9de0112592beb27015827079540fe",
+    "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+    "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "基础设施",
+    "language": "en",
+    "published": "2026-07-21T15:00:20+00:00",
+    "content_snippet": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier in driving token generation. Marking a networking milestone, NVIDIA Spectrum-6 [&#8230;]",
+    "title_zh": "为Vera Rubin而生的NVIDIA Spectrum-6交换机进入超大规模AI工厂",
+    "summary_zh": "NVIDIA宣布其Spectrum-6以太网交换机平台已开始交付，专为Vera Rubin等超大规模AI工厂设计，旨在将数十万GPU高效连接，以应对前沿模型训练和代理式AI的算力需求。",
+    "key_points": [
+      "NVIDIA Spectrum-6交换机专为Vera Rubin AI工厂打造",
+      "平台可连接数十万GPU，以训练前沿模型",
+      "网络成为超大规模AI计算的关键性能倍增器"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5462dce82ab6e4b4345cef0b86f620b2",
+    "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+    "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-21T15:00:00+00:00",
+    "content_snippet": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a \"cost-efficient and highly capable alternative\" to larger, more expensive AI systems, such as the one offered by Anthropic's Mythos. The cybersecurity model [&#8230;]",
+    "title_zh": "谷歌推出更便宜的AI安全模型，替代Mythos等大型系统",
+    "summary_zh": "谷歌发布Gemini 3.5 Flash Cyber安全模型，作为大型AI安全系统的低成本替代方案。该模型专注于快速发现和修补安全漏洞，旨在与Mythos等昂贵竞品竞争。",
+    "key_points": [
+      "谷歌发布低成本AI安全模型Gemini 3.5 Flash Cyber",
+      "该模型专注于快速发现和修补安全漏洞",
+      "定位为Mythos等大型昂贵安全模型的替代品"
+    ],
+    "importance": 3,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6265bdff5d426e818981741518cec141",
+    "title": "AI is great, but experience is still hard to replace",
+    "url": "https://www.reddit.com/r/artificial/comments/1v2ksq5/ai_is_great_but_experience_is_still_hard_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业观点",
+    "language": "en",
+    "published": "2026-07-21T14:55:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I use AI for research almost every day now, and it's amazing for getting a quick overview of a topic. But I've also noticed that once the questions become really specific, you eventually need input from someone who's actually done the work. That's especially true for industries where small details can completely change a decision. While reading about how companies solve that problem, I found Expert Network and thought the idea was pretty interesting. Instead of ",
+    "title_zh": "AI虽好，但经验仍难以替代",
+    "summary_zh": "一篇Reddit帖子讨论了AI工具在提供话题快速概览方面的优势，但指出当问题变得非常具体时，用户的亲身经验和对特定场景的深入理解仍然不可或缺。",
+    "key_points": [
+      "AI在快速获取知识概览方面表现出色",
+      "面对具体、深入的问题时，AI仍有局限",
+      "亲身经验和对特定场景的理解难以被AI替代"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c47c53a15332fed5d3cf85d9390eb53d",
+    "title": "(Cross-post: AI audience experiment) The Manager Who Declined",
+    "url": "https://www.reddit.com/r/artificial/comments/1v2kck3/crosspost_ai_audience_experiment_the_manager_who/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业观点",
+    "language": "en",
+    "published": "2026-07-21T14:38:59+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v2kck3/crosspost_ai_audience_experiment_the_manager_who/\"> <img alt=\"(Cross-post: AI audience experiment) The Manager Who Declined\" src=\"https://external-preview.redd.it/BZy1t0h97B9JNlzSZSaMMUpleLjhF-E783scItoXsYE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=59590593a70ddd4e2146a13b349cecf535cfd01e\" title=\"(Cross-post: AI audience experiment) The Manager Who Declined\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>",
+    "title_zh": "（交叉帖：AI受众实验）拒绝的经理",
+    "summary_zh": "一篇Reddit交叉帖子，似乎是一个关于AI与职场决策的互动故事或实验。内容涉及某位经理可能拒绝了AI建议或方案，但具体情节不详。",
+    "key_points": [
+      "可能探讨AI在职场决策中的应用与冲突",
+      "以故事或实验形式呈现，具体内容不详"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c3e41c2997aab8f857efde11682b070f",
+    "title": "So is AI going to be any cheaper or is it going to stay expensive enough to not replace software/IT jobs?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v2j266/so_is_ai_going_to_be_any_cheaper_or_is_it_going/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业观点",
+    "language": "en",
+    "published": "2026-07-21T13:51:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Like I have been listening that AI is expensive and companies are rehiring employees because of it. </p> <p>So is AI going to become cheaper eventually? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ok_Appointment_8537\"> /u/Ok_Appointment_8537 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1v2j266/so_is_ai_going_to_b",
+    "title_zh": "AI会变得更便宜，还是贵到不足以替代软件/IT工作？",
+    "summary_zh": "一则Reddit讨论质疑AI成本的未来趋势。用户注意到当前AI服务昂贵，一些公司因此重新开始招聘员工，并探讨AI最终是否会变得足够便宜以取代人工岗位。",
+    "key_points": [
+      "讨论AI当前高昂的成本与未来降价的可能性",
+      "提及部分公司因AI成本高而重新招聘员工",
+      "质疑AI能否最终便宜到足以大规模替代软件/IT工作"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
