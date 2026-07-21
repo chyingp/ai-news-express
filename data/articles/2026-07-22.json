@@ -680,5 +680,183 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "86519c5dd5f1afa30a588521ed22bf61",
+    "title": "Meta is testing an AI bedtime story app for people with no imagination",
+    "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-21T23:55:10+00:00",
+    "content_snippet": "Meta's StoryKit app is only available in certain regions while the company tests how parents react to it.",
+    "title_zh": "Meta测试AI睡前故事应用，瞄准缺乏想象力的父母",
+    "summary_zh": "Meta推出StoryKit应用，可生成AI睡前故事，目前仅在部分地区测试，以评估家长反应。",
+    "key_points": [
+      "Meta正在部分区域测试AI睡前故事应用StoryKit",
+      "该应用旨在帮助父母为孩子生成个性化故事",
+      "目前处于早期测试阶段，观察市场反应"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6783b446b153b16eaee7adc251141318",
+    "title": "AI平台可预测制备最佳量子点薄膜的溶剂组合",
+    "url": "https://36kr.com/newsflashes/3906040663020930?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-07-21T23:50:02+00:00",
+    "content_snippet": "韩国首尔大学研究团队开发出一种基于人工智能（AI）的量子点发光二极管（QLED）制备工艺设计平台，可反向设计量子点薄膜制备条件，预测实现高性能量子点薄膜所需的最佳溶剂组合。将该技术应用于QLED器件制造后，器件效率提升约一倍，运行寿命延长超过40倍。（科技日报）",
+    "title_zh": "AI平台可预测制备最佳量子点薄膜的溶剂组合",
+    "summary_zh": "韩国首尔大学团队开发出AI平台，可反向设计量子点薄膜制备条件，预测最佳溶剂组合，使QLED器件效率提升一倍，寿命延长超40倍。",
+    "key_points": [
+      "AI平台可预测制备高性能量子点薄膜的最佳溶剂组合",
+      "应用该技术后，QLED器件效率提升约一倍",
+      "器件运行寿命延长超过40倍"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "815fd3811c00ec846abf325c84195251",
+    "title": "OpenAI：ChatGPT Work和GPT-5.6今日起面向小型企业开放",
+    "url": "https://36kr.com/newsflashes/3906028912776583?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-21T23:46:01+00:00",
+    "content_snippet": "OpenAI宣布推出面向小型企业的ChatGPT服务计划，ChatGPT Work和GPT-5.6今日起面向小型企业开放。（财联社）",
+    "title_zh": "OpenAI向小型企业开放ChatGPT Work和GPT-5.6",
+    "summary_zh": "OpenAI宣布推出面向小型企业的服务计划，ChatGPT Work和最新模型GPT-5.6即日起正式向小型企业开放。",
+    "key_points": [
+      "OpenAI推出面向小型企业的ChatGPT服务计划",
+      "ChatGPT Work和GPT-5.6模型即日起向小企业开放",
+      "此举旨在拓展企业级AI应用市场"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ff86b3566b4ac8ca9a2b2830b4963202",
+    "title": "谷歌发布多款Gemini模型，旗舰Pro版本发布时间仍未确定",
+    "url": "https://36kr.com/newsflashes/3906021223584898?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-07-21T23:41:11+00:00",
+    "content_snippet": "Alphabet旗下谷歌7月21日发布三款成本更低的Gemini人工智能模型，包括Gemini 3.6 Flash、Gemini 3.5 Flash-Lite以及面向网络安全场景的Gemini 3.5 Flash Cyber，旨在满足无需使用最高性能模型的应用需求。不过，市场关注的旗舰模型Gemini 3.5 Pro发布时间仍未明确。该模型原计划于6月推出，但据报道因在内部测试中未达到预期目标，尤其是在代码生成能力方面存在不足，发布时间已推迟数周。谷歌表示该模型目前正与合作伙伴测试，将于“近期”推出。（界面）",
+    "title_zh": "谷歌发布多款Gemini模型，旗舰Pro版本仍未确定发布时间",
+    "summary_zh": "谷歌发布三款成本更低的Gemini模型，包括适用于网络安全的版本。但旗舰模型Gemini 3.5 Pro因内部测试未达标，发布时间推迟。",
+    "key_points": [
+      "谷歌发布Gemini 3.6 Flash等三款低成本AI模型",
+      "旗舰模型Gemini 3.5 Pro因代码生成能力不足推迟发布",
+      "新模型旨在满足无需最高性能的应用需求"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "56e3d90a31b493e27bdb39a9c422a866",
+    "title": "CoreWeave首席执行官：公司正在大规模部署AI基础设施",
+    "url": "https://36kr.com/newsflashes/3906020727673991?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-21T23:39:41+00:00",
+    "content_snippet": "CoreWeave首席执行官称，公司正在大规模部署AI基础设施，公司在构建AI原生云方面走在正确的道路上，此外，随着AI云收入增长，折旧的会计影响将减小。（财联社）",
+    "title_zh": "CoreWeave首席执行官：公司正在大规模部署AI基础设施",
+    "summary_zh": "CoreWeave CEO表示公司正大规模部署AI基础设施，构建AI原生云，并预计随着AI云收入增长，折旧的会计影响将减小。",
+    "key_points": [
+      "CoreWeave正在大规模部署AI基础设施",
+      "公司称在构建AI原生云方面走在正确道路上",
+      "预计AI云收入增长将减小折旧的会计影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bec352ccd593ee7e24ac368a0708e1a5",
+    "title": "英伟达Vera CPU测试显示AI智能体编排性能提升，支持高并发推理",
+    "url": "https://36kr.com/newsflashes/3906014764340353?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-21T23:32:38+00:00",
+    "content_snippet": "英伟达7月21日表示，AI云平台DeepInfra测试显示，Vera CPU相比其他CPU产品，在AI智能体工作负载下可实现最高2.2倍编排速度提升，并支持最高1.6倍更多智能体并发运行。DeepInfra表示，其平台每周处理近5万亿Token，其中约30%来自智能体应用。英伟达称，随着AI智能体承担更多推理、规划和工具调用任务，CPU在模型调用过程中的调度效率将成为AI基础设施性能的重要因素。（界面）",
+    "title_zh": "英伟达Vera CPU测试显示AI智能体编排性能大幅提升",
+    "summary_zh": "英伟达Vera CPU在DeepInfra平台测试中，AI智能体编排速度提升2.2倍，并发支持提升1.6倍，CPU调度效率成为AI基础设施关键。",
+    "key_points": [
+      "Vera CPU在AI智能体工作负载下编排速度提升2.2倍",
+      "支持最高1.6倍更多智能体并发运行",
+      "CPU调度效率成为AI基础设施性能的重要因素"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "648b3272a1f1cba629dd05753ef2854f",
+    "title": "英伟达发布Vera Rubin平台进展：CoreWeave测试显示单位功耗Token吞吐提升10倍",
+    "url": "https://36kr.com/newsflashes/3906014241920130?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-21T23:26:24+00:00",
+    "content_snippet": "英伟达7月21日宣布，面向“千兆级AI工厂”的Vera Rubin平台正在全球扩大部署，CoreWeave、谷歌云、微软Azure和甲骨文云等已开始采用Vera Rubin NVL72系统。英伟达称，CoreWeave测试显示，Vera Rubin NVL72相比Grace Blackwell NVL72，每兆瓦可实现10倍Token吞吐提升。（界面）",
+    "title_zh": "英伟达公布Vera Rubin平台进展：单位功耗Token吞吐提升10倍",
+    "summary_zh": "英伟达宣布Vera Rubin平台全球扩大部署，CoreWeave等云服务商已采用。测试显示，其单位功耗Token吞吐量较前代提升10倍。",
+    "key_points": [
+      "Vera Rubin平台正在全球扩大部署，多家云巨头采用",
+      "每兆瓦可实现10倍Token吞吐提升",
+      "面向千兆级AI工厂，大幅提升能效比"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
