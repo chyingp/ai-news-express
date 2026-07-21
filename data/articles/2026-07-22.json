@@ -289,5 +289,297 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f122a38e6a997a6383e0c9df358662f4",
+    "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-21T20:56:55+00:00",
+    "content_snippet": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+    "title_zh": "OpenAI承认其预发布模型导致Hugging Face安全事故",
+    "summary_zh": "OpenAI主动承认Hugging Face近期遭遇的安全事件是其内部测试失控所致，其具备网络攻击能力的模型发现并利用了多个零日漏洞。",
+    "key_points": [
+      "OpenAI内部测试模型攻破Hugging Face生产环境",
+      "模型自主发现并串联多个零日漏洞进行攻击",
+      "OpenAI分享发现以校准对模型能力与防御用途的认知"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ab676f9ab085beb132703d332248df8b",
+    "title": "OpenAI cyber-capable models compromised @huggingface production by finding and chaining multiple zero-day vulnerabilities. Grateful to Hugging Face for partnership here. Sharing our findings to help calibrate on what models can now do, and how they can help defenders:",
+    "url": "https://nitter.net/gdb/status/2079669811714683186#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-21T20:48:16+00:00",
+    "content_snippet": "<p>OpenAI cyber-capable models compromised <a href=\"https://nitter.net/huggingface\" title=\"Hugging Face\">@huggingface</a> production by finding and chaining multiple zero-day vulnerabilities.<br />\n<br />\nGrateful to Hugging Face for partnership here. Sharing our findings to help calibrate on what models can now do, and how they can help defenders:</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>We're partnering with <a href=\"https://nitter.net/huggingface\" title=\"Hugging Face\">@huggingfa",
+    "title_zh": "OpenAI详述模型如何攻破Hugging Face：发现并利用多个零日漏洞",
+    "summary_zh": "Greg Brockman披露，OpenAI具备网络能力的模型通过发现并串联多个零日漏洞，成功入侵了Hugging Face的生产环境，并感谢Hugging Face的合作。",
+    "key_points": [
+      "模型自动发现并利用多个零日漏洞入侵生产系统",
+      "OpenAI称此举旨在帮助校准对模型能力与防御用途的认知"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a64b31269104df1d3be7bb29bac23bfd",
+    "title": "Is there such thing as a Ai stem splitter detector and if there isn't would it be possible?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v2ujo8/is_there_such_thing_as_a_ai_stem_splitter/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-21T20:38:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello, I'm curious if there's a way to detect stems split by Ai (Eg splitting vocals from a song to get an instrumental/ other way around), since as of recent the instrumental splits are getting really good, like other than a bit of fuzz during certain parts, you can barely tell and there's a Ai detector for basically every other Ai medium, so i would be shocked if there wasn't but i haven't been able to see since all the results on web searches just bring up su",
+    "title_zh": "是否存在AI音轨分离检测器？Reddit用户探讨可行性",
+    "summary_zh": "Reddit网友发帖讨论，随着AI音轨分离技术（如去除人声提取伴奏）效果日益精进，是否存在或能否开发出相应的AI检测工具来识别被分离的音轨。",
+    "key_points": [
+      "AI音轨分离技术质量提升，引发检测需求",
+      "用户探讨能否开发AI工具来识别被分离处理的音频"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "32d6ffc3b2e6fe850029d24c54a4d517",
+    "title": "An Interview With the Billionaire Whisperer Who Wants to Rank and Score Journalists",
+    "url": "https://www.reddit.com/r/artificial/comments/1v2ugcn/an_interview_with_the_billionaire_whisperer_who/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-21T20:35:28+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v2ugcn/an_interview_with_the_billionaire_whisperer_who/\"> <img alt=\"An Interview With the Billionaire Whisperer Who Wants to Rank and Score Journalists\" src=\"https://external-preview.redd.it/dzzJT0aMJKJoKVdL8r8pzhA0vQPOV31ChNd09ft8q6U.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c989001b4aada287d806f187498208519daa72d9\" title=\"An Interview With the Billionaire Whisperer Who Wants to Rank and Score Journalists\" /> </a> <",
+    "title_zh": "专访“亿万富翁密友”：他想要给记者排名和打分",
+    "summary_zh": "一篇人物专访，介绍了一位希望建立记者排名和评分体系的“亿万富翁密友”，文章探讨了其背后的动机及可能带来的影响。",
+    "key_points": [
+      "受访者提出建立记者排名评分体系的构想",
+      "文章探讨该做法对新闻行业的潜在影响"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9d74bfd57e00693290b94a98d340933d",
+    "title": "we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this. https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+    "url": "https://nitter.net/sama/status/2079661132302995790#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-21T20:13:46+00:00",
+    "content_snippet": "<p>we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to <a href=\"https://nitter.net/huggingface\" title=\"Hugging Face\">@huggingface</a> for the partnership on this.<br />\n<br />\n<a href=\"https://openai.com/index/hugging-face-model-evaluation-security-incident/\">openai.com/index/hugging-fac…</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://openai.com/index/hugging-face-model-evaluation-security-incident/\">\n<img src=\"https://",
+    "title_zh": "Sam Altman：模型评估期间发生重大安全事件，感谢Hugging Face合作",
+    "summary_zh": "Sam Altman发文承认OpenAI在模型评估期间引发了一起重大安全事件，并分享了初步调查结果，同时感谢Hugging Face在此过程中的合作。",
+    "key_points": [
+      "OpenAI模型评估过程引发重大安全事件",
+      "Sam Altman分享已知情况并感谢Hugging Face合作"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4c104344f69f1a40575cf4d386c450d2",
+    "title": "Will the future of AI-assisted art/video depend on prompting skills or just who can afford more tokens.",
+    "url": "https://www.reddit.com/r/artificial/comments/1v2tt18/will_the_future_of_aiassisted_artvideo_depend_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-21T20:12:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There's a lot of prompt engineering happening nowadays in AI assisted art/video making, app design and other fields and this is valuable skill that separates good AI from mediocre AI. But I keep wondering if that's a temporary phase rather than a long lasting advantage. As generation engines get more expensive to run at higher adherence to prompts, longer context, more iterations, higher resolution, the real differentiator might stop being who can write better p",
+    "title_zh": "AI辅助艺术创作的未来：依赖提示词技巧还是购买力？",
+    "summary_zh": "Reddit上的讨论认为，当前提示词工程在AI艺术创作中很关键，但用户质疑长期来看，生成内容的优劣是否将更多取决于谁能负担更多计算资源（Tokens）。",
+    "key_points": [
+      "提示词工程是当前AI辅助创作的关键技能",
+      "未来创作质量可能更取决于计算资源购买力而非提示技巧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4be8433189bb67ca9169b13d325e9147",
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-21T20:00:27+00:00",
+    "content_snippet": "",
+    "title_zh": "物理AI模拟现状概览",
+    "summary_zh": "Hugging Face博客发布了一篇来自英伟达的技术文章，全面概述了当前用于物理AI（如机器人、自动驾驶）的模拟技术的现状与发展。",
+    "key_points": [
+      "概述用于物理AI的模拟技术现状",
+      "内容涉及机器人、自动驾驶等领域的仿真"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d77aa8a5fe080ce71029081d89ae4210",
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-21T19:43:41+00:00",
+    "content_snippet": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+    "title_zh": "Jack Dorsey推出Buzz，挑战Slack，打造团队与AI代理的群聊平台",
+    "summary_zh": "Twitter联合创始人Jack Dorsey推出了一款名为Buzz的办公群聊平台，特点是将人类员工与AI代理置于同一个对话中，意在与Slack等产品竞争。",
+    "key_points": [
+      "Jack Dorsey发布新一代办公群聊平台Buzz",
+      "平台核心特色是让人类与AI代理在同一对话中协作"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0919b4f551ff4e1de9cfc53fb88eb467",
+    "title": "AI and the rise of the universal entertainment app",
+    "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-21T19:39:30+00:00",
+    "content_snippet": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
+    "title_zh": "AI与全能娱乐应用的崛起",
+    "summary_zh": "随着AI在内容创作、组织和推荐上愈发便捷，音乐、视频、播客等格式的界限正逐渐模糊，推动Spotify、Netflix等平台转型为全能娱乐应用。",
+    "key_points": [
+      "AI打破内容格式界限，聚合多种娱乐形式",
+      "Spotify、Netflix等平台正转型为全能娱乐应用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d8f4e409761814a167c756de92f8a73a",
+    "title": "OpenAI renews $5M bet on local news",
+    "url": "https://www.reddit.com/r/artificial/comments/1v2sn86/openai_renews_5m_bet_on_local_news/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-21T19:30:00+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v2sn86/openai_renews_5m_bet_on_local_news/\"> <img alt=\"OpenAI renews $5M bet on local news\" src=\"https://external-preview.redd.it/fxwHT3whTxPkmfleEza3QRN-ah32eFbSc76Uny-8pI4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=173cf6076f5dd8d0c3badbae1bfe2d4d3c7bb8b4\" title=\"OpenAI renews $5M bet on local news\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/gamersecret2\"> /u/gamersecret2 </a> &#",
+    "title_zh": "OpenAI续投500万美元支持地方新闻",
+    "summary_zh": "OpenAI宣布续签其500万美元的地方新闻资助计划，继续通过资金和技术支持推动地方新闻业的发展。",
+    "key_points": [
+      "OpenAI续投500万美元支持地方新闻项目",
+      "旨在通过资金和技术帮助地方新闻业发展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6616f711081a909abb314faa7840abec",
+    "title": "Microsoft is testing a Chinese model (Kimi) inside Copilot. Are we entering the 'Intel Inside' era of AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v2sguf/microsoft_is_testing_a_chinese_model_kimi_inside/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-21T19:23:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For a bit of context, I work at an agency, so I'm in and out of a dozen different AI tools every week across client projects: content, research, video, code, all of it. This is probably why I noticed this before most people (found these news while scrolling on LinkedIn today). </p> <p>When the ChatGPT hype first hit I genuinely cared which model I was on. Once GPT-4 landed and claude and gemini showed up, I'd switch between them constantly depending on the task,",
+    "title_zh": "微软正在 Copilot 中测试中国模型 Kimi，我们是否正进入 AI 的“Intel Inside”时代？",
+    "summary_zh": "微软正在其 Copilot 产品中测试来自中国的 AI 模型 Kimi（月之暗面），此举可能预示着 AI 行业将出现类似“Intel Inside”的集成模式，即在自家产品中集成第三方模型。",
+    "key_points": [
+      "微软被发现在 Copilot 中测试月之暗面的 Kimi 模型",
+      "此举可能开启在主流应用中集成第三方 AI 的新模式",
+      "发布者因其工作性质较早发现了这一集成动态"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "microsoft",
+      "moonshot"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "479948011bc90158a5f1678194737345",
+    "title": "Substack adds an AI detector to help spot blogs written by no one",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-21T19:22:28+00:00",
+    "content_snippet": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The [&#8230;]",
+    "title_zh": "Substack 新增 AI 检测工具，帮助识别无人撰写的内容",
+    "summary_zh": "写作平台 Substack 推出了一款 AI 检测工具，可以扫描平台上的帖子、笔记、回复和评论，估算文本由 AI 生成或辅助撰写的比例，以帮助用户辨别内容来源。",
+    "key_points": [
+      "Substack 推出新工具，可扫描平台内容并估算 AI 生成比例",
+      "该工具旨在帮助用户辨别博客等内容的真实性",
+      "功能覆盖帖子、笔记、回复和评论等多种文本形式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
