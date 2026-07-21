@@ -1577,5 +1577,53 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1c9978b15e0960d2f53671ca4b69213c",
+    "title": "How does an app actually turn a photo of handwritten homework assignment into a structured task? (built this, sharing what worked)",
+    "url": "https://www.reddit.com/r/artificial/comments/1v2inbz/how_does_an_app_actually_turn_a_photo_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-21T13:35:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been building an app that lets students snap a photo of an assignment, a whiteboard, a printed worksheet, whatever, and turns it into a structured task with subject, due date, and estimated effort. Want to admit that I went in underestimating how hard this would be from an actual parsing pipeline POV.</p> <p>The pipeline is roughly: photo in → Claude's vision API reads the image → a prompt asks it to extract specific structured fields (title, subject, due d",
+    "title_zh": "如何将手写作业照片转化为结构化任务？",
+    "summary_zh": "一位开发者分享其构建应用的经验，该应用可将学生拍摄的作业、白板或打印工作表照片，自动转换为包含科目、截止日期和预计工作量的结构化任务。",
+    "key_points": [
+      "开发者分享将手写作业照片转为结构化任务的应用构建经验",
+      "应用可识别照片中的科目、截止日期和预计工作量",
+      "开发者承认低估了该技术实现的难度"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a70f755423c2f663cab962edd6ca799c",
+    "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+    "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-21T13:27:42+00:00",
+    "content_snippet": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+    "title_zh": "音乐流媒体 Deezer 称每日上传歌曲中超半数为 AI 生成",
+    "summary_zh": "音乐流媒体平台 Deezer 透露，其平台上每日上传的歌曲中超过 50% 由 AI 生成，仅 6 月份每天就有超过 9 万首 AI 生成的曲目被上传。",
+    "key_points": [
+      "Deezer 平台每日上传歌曲中 AI 生成内容占比超过 50%",
+      "6 月份每日上传的 AI 生成曲目超 9 万首",
+      "该数据揭示了 AI 生成内容对音乐产业的巨大冲击"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
