@@ -557,5 +557,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "cab6de8ab276605d9a28e6fbc1a65221",
+    "title": "One encoder, seven heads: what we learned training a unified security classifier with masked losses [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v3vuj9/one_encoder_seven_heads_what_we_learned_training/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-22T22:48:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We spent the last months consolidating seven separate sequence classifiers into one multi-head model, our apex model, so to speak, and since the weights are now public, I wanted to share what worked and what surprised us.</p> <p><strong>Setup:</strong> a shared mmBERT-small encoder with seven task heads, binary injection (BCE), document class (7-way), tool type (14-way), tool operation (6-way), tool data-flow tags (3× BCE, multi-label), intent routing (5-way), a",
+    "title_zh": "一个编码器，七个头：我们使用掩码损失训练统一安全分类器的经验",
+    "summary_zh": "研究团队将七个独立的安全序列分类器整合为一个多任务模型，并公开了模型权重。文章分享了训练过程中的有效方法和意外发现，核心是采用共享编码器和掩码损失策略。",
+    "key_points": [
+      "将七个安全分类器合并为一个多任务模型",
+      "采用共享编码器和掩码损失进行训练",
+      "公开模型权重并分享经验与发现"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "42dd8f7444e9a3bcd22589aacd0f6169",
+    "title": "Google justifies its massive AI spending with a booming cloud business",
+    "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-22T22:01:52+00:00",
+    "content_snippet": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+    "title_zh": "谷歌凭借蓬勃发展的云业务为其巨额AI支出正名",
+    "summary_zh": "谷歌云业务因企业采用其AI及基础设施服务而高速增长，帮助公司实现创纪录利润。这为谷歌在人工智能领域的大规模投资提供了有力支撑。",
+    "key_points": [
+      "谷歌云业务因AI服务需求旺盛而高速增长",
+      "公司借助云业务实现创纪录利润",
+      "强劲的云业绩为谷歌巨额AI投资提供了合理性"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
