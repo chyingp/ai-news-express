@@ -1007,5 +1007,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8a9824768f8e13943e4280a5a71f3a19",
+    "title": "三菱电机与索尼半导体解决方案公司将组建AI视觉合资企业",
+    "url": "https://36kr.com/newsflashes/3906186581775492?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-22T02:18:28+00:00",
+    "content_snippet": "7月22日，三菱电机与索尼半导体解决方案公司宣布已签署最终协议，将共同成立一家名为Advanced Vision Solutions的合资企业，目标是为制造业自动化提供AI视觉传感器解决方案。该企业计划于2026年10月开始运营，目前尚需获得监管批准。其中，三菱电机将持股60%，索尼半导体解决方案持股40%。（界面）",
+    "title_zh": "三菱电机与索尼半导体解决方案公司将组建AI视觉合资企业",
+    "summary_zh": "三菱电机与索尼半导体解决方案公司签署最终协议，将成立合资企业Advanced Vision Solutions，为制造业自动化提供AI视觉传感器解决方案，计划于2026年10月运营，三菱电机持股60%。",
+    "key_points": [
+      "合资企业目标是为制造业自动化提供AI视觉传感器解决方案",
+      "三菱电机持股60%，索尼半导体解决方案持股40%",
+      "计划2026年10月开始运营，尚需监管批准"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d1b08176601aee542f6ca5d3a0b9745e",
+    "title": "Why don't OpenAI use this Image generation time into ad slots??",
+    "url": "https://www.reddit.com/r/artificial/comments/1v32t11/why_dont_openai_use_this_image_generation_time/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-22T02:17:04+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v32t11/why_dont_openai_use_this_image_generation_time/\"> <img alt=\"Why don't OpenAI use this Image generation time into ad slots??\" src=\"https://preview.redd.it/n0yx42mrwoeh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=685c520a7072ccbe65d7b356f6b780646c3bc8b3\" title=\"Why don't OpenAI use this Image generation time into ad slots??\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I have seen some software engineers ma",
+    "title_zh": "为何OpenAI不将图像生成时间用于广告投放？",
+    "summary_zh": "Reddit网友讨论为何OpenAI不利用其图像生成过程中的等待时间插入广告，以开辟新的营收来源，引发社区热议。",
+    "key_points": [
+      "Reddit网友提出利用图像生成等待时间投放广告的构想",
+      "讨论涉及OpenAI的商业模式和潜在营收渠道"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9b710d820079ee9d53b9102ed38f96e7",
+    "title": "市场消息：Reddit正在考虑阻止谷歌使用其内容进行人工智能分析",
+    "url": "https://36kr.com/newsflashes/3906182715282822?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-22T02:14:32+00:00",
+    "content_snippet": "市场消息：Reddit正在考虑阻止谷歌使用其内容进行人工智能分析。（新浪财经）",
+    "title_zh": "市场消息：Reddit正在考虑阻止谷歌使用其内容进行人工智能分析",
+    "summary_zh": "市场消息称，Reddit正在考虑阻止谷歌使用其平台内容进行AI分析，此举可能加剧内容平台与AI公司之间的数据使用权争议。",
+    "key_points": [
+      "Reddit考虑阻止谷歌使用其内容进行AI分析",
+      "该举动可能影响谷歌AI模型训练数据获取"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d584b22ab3eb4da3d4ba79601974cc60",
+    "title": "My federated learning project just showed that \"high accuracy\" can completely hide a model missing every single attack from an entire category, and I think more people should know about this [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v32mfs/my_federated_learning_project_just_showed_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-22T02:08:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So for context, I've been working on this research project comparing federated learning algorithms (FedAvg, FedProx, FedNova) against a centralized baseline for network intrusion detection, using the CICIDS2017 dataset split across four simulated &quot;silos&quot; by attack type. Three of the silos have tons of data, but one silo (Web Attacks) only has about 3k samples out of 3 million total, so it's a pretty extreme imbalance.</p> <p>The thing that got me was h",
+    "title_zh": "我的联邦学习项目揭示：高准确率可能完全掩盖模型对某类攻击的全面漏检",
+    "summary_zh": "一项联邦学习研究项目发现，模型的高准确率可能完全掩盖其对特定类别攻击的全面漏检问题，作者呼吁更多人关注这一现象。",
+    "key_points": [
+      "高准确率可能掩盖模型对特定类别攻击的全面漏检",
+      "研究对比了FedAvg、FedProx等算法在网络入侵检测中的表现",
+      "作者呼吁更多人关注模型性能评估中的隐藏风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
