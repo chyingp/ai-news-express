@@ -506,5 +506,56 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "eb195570e7292e113b6755dd552a2d3f",
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+    "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-22T20:49:03+00:00",
+    "content_snippet": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.",
+    "title_zh": "美财政部威胁制裁，因白宫指控月之暗面蒸馏Anthropic模型",
+    "summary_zh": "美国财政部长贝森特警告可能制裁中国AI公司，此前白宫官员指控月之暗面通过蒸馏Anthropic的Fable模型开发了Kimi K3，此举可能加剧中美AI技术竞争与监管紧张。",
+    "key_points": [
+      "美国白宫指控月之暗面蒸馏Anthropic的Fable模型",
+      "美财长威胁对中国AI公司实施制裁",
+      "争议焦点为月之暗面Kimi K3模型的开发方式"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "moonshot",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "984e8d78338b62d857ef8607aca013a7",
+    "title": "A symbolic engine that refuses instead of guessing",
+    "url": "https://www.reddit.com/r/artificial/comments/1v3rjmo/a_symbolic_engine_that_refuses_instead_of_guessing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-22T20:09:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most AI evaluation ends with a score. That is useful, but it does not answer a narrower question: <strong>is this particular output strong enough to release without asking a person again?</strong></p> <p>I built Chiron for the cases where the answer can be established exactly. It is an exact-or-refuse evidence gate for supported structured outputs.</p> <p>For sequence-style data, Chiron recovers a constrained candidate rule and then tests it on held-out terms it",
+    "title_zh": "一种拒绝猜测而非臆断的符号引擎",
+    "summary_zh": "本文介绍了一个名为Chiron的符号引擎，它不同于传统AI评估仅给出分数，旨在直接判断输出是否足够可靠以无需人工复核，适用于对确定性要求高的场景。",
+    "key_points": [
+      "Chiron符号引擎旨在判断AI输出是否可靠到无需人工复核",
+      "区别于传统评分，该引擎在不确定时拒绝回答而非猜测",
+      "适用于对输出确定性要求高的应用场景"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
