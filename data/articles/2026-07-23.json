@@ -1205,5 +1205,234 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2ca63067a47170876a19b7d170a8a588",
+    "title": "The Hugging Face incident: two failures, and we’re only talking about one",
+    "url": "https://www.reddit.com/r/artificial/comments/1v47mn3/the_hugging_face_incident_two_failures_and_were/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-07-23T08:16:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Everyone's focused on the sandbox escape, which is fair, it's the dramatic part. But that was a zero-day in internally hosted software. Containment bugs are old news. We know how to think about them: egress rules, microVM isolation, no ambient credentials.</p> <p>The part I find more interesting is everything that happened after.</p> <p>Once the agent had internet access, it picked Hugging Face as a target, found exposed credentials, chained them with another vu",
+    "title_zh": "Hugging Face 事件：两个失败，我们只讨论了一个",
+    "summary_zh": "文章指出 Hugging Face 近期安全事件中，人们只关注了沙箱逃逸，却忽略了另一个更根本的失败：对内部托管软件零日漏洞的应对。作者认为容器逃逸是老问题，但整个事件暴露了更深层的安全实践缺陷。",
+    "key_points": [
+      "公众焦点集中在沙箱逃逸漏洞，忽略了另一个根本性失败",
+      "内部软件零日漏洞暴露了更深层的安全实践缺陷",
+      "作者认为容器逃逸属已知问题，但整体安全体系仍不完善"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "776360064534052b692bf141a1816c8e",
+    "title": "专访郭列：做出脸萌、FaceU、剪映等爆款后，他第一次阐释如何在AI时代做产品",
+    "url": "https://36kr.com/p/3907953777120385?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "zh",
+    "published": "2026-07-23T08:16:42+00:00",
+    "content_snippet": "<p><strong>文｜周鑫雨</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>什么样画像的AI创业者会饱受瞩目？不同投资人心里或许有不同的答案，但其中一个答案一定是：剪映系。</p>\n  <p>陈冕，Lovart、LibTV等热门创作工具的缔造者；明超平，AI Coding社区YouWare的创始人，2025年一级市场最火的95后；闹闹，其打造的AI视频创作工具OiiOii，被高瓴、锦秋投资......</p>\n  <p>他们履历的共同点是：曾在剪映、CapCut团队——参与过这两款过亿日活产品的打磨，这让投资人有理由相信，这群“剪映系”创业者了解用户、有产品审美，更可能在这波AI浪潮中押中消费级的机会。</p>\n  <p>但很长一段时间内，“剪映系”真正的起点，郭列，隐身在2022年起的AI浪潮中。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260723/v2_f0bf09344d6a4b1e8dcd046e000b07",
+    "title_zh": "专访郭列：做出脸萌、FaceU、剪映等爆款后，他第一次阐释如何在AI时代做产品",
+    "summary_zh": "36氪专访前剪映、CapCut团队核心成员郭列，探讨AI时代产品方法论。文章提及多位从剪映系走出的AI创业者，如Lovart、YouWare、OiiOii创始人，他们凭借过亿日活产品打磨经验，成为投资人眼中最受瞩目的AI创业者。",
+    "key_points": [
+      "郭列首次阐述AI时代产品方法论，强调用户需求与AI能力结合",
+      "剪映系创业者因过亿日活产品经验受投资人追捧",
+      "Lovart、YouWare、OiiOii等AI工具均出自剪映团队"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "bytedance"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6af9f401b897bcd1437f546d3031472f",
+    "title": "混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型",
+    "url": "https://36kr.com/newsflashes/3907953767011717?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "zh",
+    "published": "2026-07-23T08:16:08+00:00",
+    "content_snippet": "36氪独家获悉，近期，腾讯混元多模态理解负责人胡瀚提出了离职。2025年初加入腾讯后，负责视觉大模型的研究。在后续的调整中，他加入大语言模型部旗下的“Frontier”前沿技术研究组，负责多模态理解的相关研究，汇报给姚顺雨。据了解，胡瀚还曾承担世界模型的研发工作。腾讯大语言模型部负责人姚顺雨近期正在密集梳理旗下团队，胡瀚此前所在的研究组或将聚焦世界模型的前沿研究。",
+    "title_zh": "混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型",
+    "summary_zh": "腾讯混元多模态理解负责人胡瀚提出离职，其2025年加入腾讯后负责视觉大模型研究，后转入前沿技术研究组。胡瀚离职后，其所在团队可能将聚焦世界模型前沿研究，腾讯大语言模型部负责人姚顺雨正密集梳理团队。",
+    "key_points": [
+      "腾讯混元多模态理解负责人胡瀚离职创业",
+      "胡瀚曾负责视觉大模型和世界模型研发，离职后团队可能聚焦世界模型",
+      "腾讯大语言模型部负责人姚顺雨正密集梳理旗下团队"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6758872557879469824cb083ffc1e1fc",
+    "title": "this little its bitsy tiny gemma4 model on my 3060 is talking better than chat gpt",
+    "url": "https://www.reddit.com/r/artificial/comments/1v473bz/this_little_its_bitsy_tiny_gemma4_model_on_my/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-23T07:46:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>this model is the goat!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CosmicChief884\"> /u/CosmicChief884 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1v473bz/this_little_its_bitsy_tiny_gemma4_model_on_my/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1v473bz/this_little_its_bit",
+    "title_zh": "这个小小的Gemma4模型在我的3060上聊得比ChatGPT还好",
+    "summary_zh": "Reddit用户分享在消费级显卡RTX 3060上运行Gemma4小模型的体验，称其对话表现优于ChatGPT。该帖子引发社区讨论，展现了小型开源模型在本地设备上的强大潜力。",
+    "key_points": [
+      "用户声称Gemma4小模型在RTX 3060上表现优于ChatGPT",
+      "帖子展示了小型开源模型在本地运行的强大能力",
+      "引发社区对端侧AI模型性能的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "204333e4c4af4965bbbcd187265853a3",
+    "title": "Seed STEM科学家计划启动，邀请100位学者探索AI加速科学发现",
+    "url": "https://36kr.com/newsflashes/3907903336387973?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "zh",
+    "published": "2026-07-23T07:24:50+00:00",
+    "content_snippet": "36氪获悉，7月23日，Seed Edge团队宣布正式启动Seed STEM科学家计划，拟邀请100位前沿科学领域学者，围绕真实科研问题开展合作，聚焦AI在科学发现中的加速作用。计划为合作学者提供算力资源、模型体验及AI研究团队支持，旨在识别和突破研究级问题，推动AI与科研深度融合。",
+    "title_zh": "Seed STEM科学家计划启动，邀请100位学者探索AI加速科学发现",
+    "summary_zh": "Seed Edge团队启动Seed STEM科学家计划，拟邀请100位前沿科学学者，围绕真实科研问题合作，聚焦AI在科学发现中的加速作用。计划提供算力资源、模型体验及AI研究团队支持，旨在推动AI与科研深度融合。",
+    "key_points": [
+      "Seed STEM计划邀请100位学者合作，探索AI加速科学发现",
+      "提供算力、模型体验和AI团队支持，聚焦真实科研问题",
+      "目标是推动AI与前沿科学研究的深度融合"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "bytedance"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1583ea7a7ff4bd21ab20661220b14b74",
+    "title": "DeepSeek今年已增资65%",
+    "url": "https://36kr.com/newsflashes/3907857319007365?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-23T06:49:02+00:00",
+    "content_snippet": "36氪获悉，据媒体报道，近日，DeepSeek创始人梁文锋一场4小时的投资人闭门会议实录在科技与创投圈刷屏，他明确表示“DeepSeek只有一条主线，即通往通用人工智能（AGI）”，相关话题引发关注。天眼查App显示，DeepSeek关联公司杭州深度求索成立于2023年7月，法定代表人为裴湉，经营范围含工程和技术研究和试验发展、软件开发、人工智能应用软件开发等，由梁文锋、宁波程恩企业管理咨询合伙企业等共同持股。变更记录显示，该公司今年发生两次增资，注册资本由1000万人民币增至约1645万人民币。",
+    "title_zh": "DeepSeek今年已增资65%",
+    "summary_zh": "DeepSeek创始人梁文锋在投资人闭门会上强调公司唯一主线是通往AGI。天眼查显示，DeepSeek关联公司今年已发生两次增资，注册资本从1000万人民币增至约1645万人民币，增幅达65%。",
+    "key_points": [
+      "梁文锋闭门会强调DeepSeek唯一主线是通往AGI",
+      "DeepSeek今年注册资本从1000万增至约1645万，增幅65%",
+      "公司发生两次增资，显示资本持续注入"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "621a61ddcb785d6a792c609bd52029a0",
+    "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+    "url": "https://36kr.com/newsflashes/3907857698903424?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-23T06:38:25+00:00",
+    "content_snippet": "36氪获悉，7月23日，阿里真武M890超节点已成功适配Qwen3.8，并上线阿里云百炼平台提供模型推理服务，这是国内首个成功运行超2万亿参数大模型的超节点。",
+    "title_zh": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
+    "summary_zh": "阿里云宣布真武M890超节点已成功适配Qwen3.8模型，并上线百炼平台提供推理服务。这是国内首个成功运行超2万亿参数大模型的超节点，标志着国产芯片与大规模模型适配的重大进展。",
+    "key_points": [
+      "真武M890超节点成功适配Qwen3.8，上线百炼提供推理服务",
+      "这是国内首个成功运行超2万亿参数大模型的超节点",
+      "标志着国产芯片在大规模模型部署上的重大突破"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "alibaba",
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3d07170d3443d0c9b66b76702842ecb2",
+    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+    "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-23T06:09:13+00:00",
+    "content_snippet": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+    "title_zh": "ServiceNow向印度银行软件公司投资4000万美元，以拓展金融服务业务",
+    "summary_zh": "ServiceNow向印度金融软件公司BusinessNext投资4000万美元，估值达7亿美元。此次投资旨在借助BusinessNext的AI驱动银行软件，加速ServiceNow在全球金融服务领域的扩张。",
+    "key_points": [
+      "ServiceNow向印度BusinessNext投资4000万美元，估值7亿",
+      "投资旨在拓展AI驱动的银行软件全球市场",
+      "BusinessNext成为ServiceNow在金融领域的重要战略伙伴"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fc9ba473b3b42355864c0e612ec82704",
+    "title": "How to track new AI drops without the social media delay?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v456f7/how_to_track_new_ai_drops_without_the_social/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-23T05:59:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Social media is fine for AI news, but the algorithm delay is killing me. I always feel like I'm finding out about new LLMs, tools, or major updates way after they happen. How do you guys stay updated in real-time without having to refresh Hugging Face or X all day?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ParkingCommercial607\"> /u/ParkingCommercial607 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"",
+    "title_zh": "如何在没有社交媒体延迟的情况下追踪AI新动态？",
+    "summary_zh": "Reddit用户寻求实时追踪AI新闻、新模型和工具更新的方法，抱怨社交媒体算法延迟导致信息滞后。帖子询问如何在不全天刷新Hugging Face或X的情况下，高效获取最新AI动态。",
+    "key_points": [
+      "用户不满社交媒体算法延迟，寻找实时追踪AI新闻的方法",
+      "讨论如何高效获取新LLM、工具和重大更新信息",
+      "帖子反映了开发者对AI信息时效性的高需求"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
