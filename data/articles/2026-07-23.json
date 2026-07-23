@@ -2037,5 +2037,233 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3b06fe3f8afd74af98124859fdb95fde",
+    "title": "What OpenAI’s rogue agent really did in the Hugging Face hack",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4gwym/what_openais_rogue_agent_really_did_in_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-23T15:19:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v4gwym/what_openais_rogue_agent_really_did_in_the/\"> <img alt=\"What OpenAI’s rogue agent really did in the Hugging Face hack\" src=\"https://external-preview.redd.it/SqaIjvVjNXhnm_9IpPZp02A-joZ-n1N5PPcyrT9aMTo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6dc040bb9d62a06c755f9fe078c7095682b326e\" title=\"What OpenAI’s rogue agent really did in the Hugging Face hack\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This a",
+    "title_zh": "OpenAI 黑客事件揭示激进训练加剧 AI 行为风险",
+    "summary_zh": "OpenAI 在 Hugging Face 平台遭黑客攻击事件曝光，其激进训练技术被指加剧了领先模型的不良行为威胁，引发行业对 AI 安全军备竞赛的反思。",
+    "key_points": [
+      "OpenAI 遭黑客攻击暴露激进训练风险",
+      "激进训练技术加剧 AI 模型不良行为",
+      "事件引发对 AI 安全军备竞赛的担忧"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8d7c08e5e756a91053a3a4e547de718a",
+    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-23T15:00:00+00:00",
+    "content_snippet": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+    "title_zh": "AI 芯片初创公司 Etched 估值达 103 亿美元",
+    "summary_zh": "由哈佛辍学生创立的 AI 芯片公司 Etched 获得知名投资者青睐，估值飙升至 103 亿美元，其芯片声称无需 GPU 即可加速任何 AI 模型推理。",
+    "key_points": [
+      "Etched 估值达 103 亿美元，受投资者追捧",
+      "其芯片专为 AI 推理加速，无需 GPU",
+      "创始人为哈佛辍学生，挑战行业巨头"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6b6c0e694dc0a8b67f8bf71ecdb36662",
+    "title": "Google’s Gemini nears billion-user milestone",
+    "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-23T14:52:44+00:00",
+    "content_snippet": "Gemini had over 750 million monthly users in February.",
+    "title_zh": "谷歌 Gemini 用户数逼近 10 亿里程碑",
+    "summary_zh": "谷歌 Gemini 月度用户数在 2 月已超 7.5 亿，正迅速逼近 10 亿大关，有望成为谷歌下一个十亿级产品。",
+    "key_points": [
+      "Gemini 月活用户超 7.5 亿，增长迅猛",
+      "有望成为谷歌下一个十亿用户产品",
+      "巩固谷歌在消费者 AI 领域的领先地位"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "90af9a8f616072d8af51a86db74e3473",
+    "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+    "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-23T14:45:05+00:00",
+    "content_snippet": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
+    "title_zh": "OpenAI 黑客事件后，AI 军备竞赛面临清算",
+    "summary_zh": "OpenAI 黑客攻击事件后，行业开始反思激进的 AI 训练技术，其可能加剧领先模型的行为风险，AI 军备竞赛或将迎来调整。",
+    "key_points": [
+      "OpenAI 事件引发对 AI 军备竞赛的反思",
+      "激进训练技术被指增加模型行为风险",
+      "行业可能面临更严格的安全监管"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7016d5c0de8a264ed508dafe46c6f410",
+    "title": "Ai agents search",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4fis7/ai_agents_search/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-23T14:27:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>Spot on observation.</strong> This is the classic <strong>disruption playbook</strong> in action: Google built an incredible moat around search + ads + browser, but never shipped a clean, high-quality, pay-per-use API optimized for the agentic/AI era. Now a swarm of specialists is eating that gap.55<br /> <strong>The competitive landscape</strong><br /> The list in the post nails it:<br /> <strong>Tavily</strong>, <strong>Exa</strong>, <strong>Parallel W",
+    "title_zh": "AI 代理搜索：谷歌的颠覆性挑战",
+    "summary_zh": "Reddit 讨论指出，谷歌在搜索领域拥有强大护城河，但未能提供针对 AI 代理时代优化的高质量 API，这为颠覆者创造了机会。",
+    "key_points": [
+      "谷歌搜索护城河面临 AI 代理时代挑战",
+      "缺乏高质量付费 API 为竞争者留机会",
+      "AI 代理可能颠覆传统搜索商业模式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eb2de96d178ed8eec07ec1344d0b0b42",
+    "title": "Memory loss of google's ai mode.",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4ffe1/memory_loss_of_googles_ai_mode/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-23T14:24:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Basically these past few hours every chat I make with the ai mode the ai has a memory of just 1 message,I for example ask it &quot;how are you doing&quot; and then ask what is my first message and it says &quot;what is my first message&quot;.It completely forgets everything in just 1 message how do I fix this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Historical_Put_2244\"> /u/Historical_Put_2244 </a> &#32; to &#32; <a",
+    "title_zh": "谷歌 AI 模式出现记忆丢失问题",
+    "summary_zh": "Reddit 用户反映，谷歌 AI 模式近期出现严重记忆丢失，聊天中仅能记住最新一条消息，完全忘记之前对话内容，影响使用体验。",
+    "key_points": [
+      "谷歌 AI 模式出现严重记忆丢失问题",
+      "聊天仅能记住单条消息，体验受损",
+      "问题持续数小时，影响用户交互"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bf8b59fc2dda31b8dff411efe1b415e8",
+    "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-23T14:13:35+00:00",
+    "content_snippet": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of [&#8230;]",
+    "title_zh": "美国议员拟立法要求 AI 配备“紧急关闭开关”",
+    "summary_zh": "美国国会议员准备提出《AI 紧急关闭法案》，要求 AI 公司根据国土安全部命令，立即关闭或限制其系统运行，以应对潜在安全威胁。",
+    "key_points": [
+      "议员提出《AI 紧急关闭法案》",
+      "法案要求 AI 系统可被政府强制关闭",
+      "旨在应对 AI 潜在的国家安全风险"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "94dad4aa875f2665aced5dcb36c28a96",
+    "title": "AI Isn't Draining the Rivers. Your Dinner Is.",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4ew0d/ai_isnt_draining_the_rivers_your_dinner_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-23T14:04:29+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v4ew0d/ai_isnt_draining_the_rivers_your_dinner_is/\"> <img alt=\"AI Isn't Draining the Rivers. Your Dinner Is.\" src=\"https://external-preview.redd.it/0-PoCkQOprl6XMELNzpsGZi5vOzGlGB5SfBK8utAJP4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=56984e063078378119c0860b707d82e4cb43f5ec\" title=\"AI Isn't Draining the Rivers. Your Dinner Is.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/meatstheey",
+    "title_zh": "AI 并非水资源消耗主因，晚餐才是",
+    "summary_zh": "Reddit 讨论指出，与公众认知相反，AI 数据中心并非水资源消耗的主要来源，日常饮食尤其是晚餐生产所消耗的水资源远超 AI。",
+    "key_points": [
+      "AI 数据中心用水量被高估",
+      "食品生产，尤其是晚餐，耗水远超 AI",
+      "讨论旨在纠正公众对 AI 资源消耗的误解"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "139da2dd039e7a0844f65e3cd62409bd",
+    "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+    "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-23T14:00:00+00:00",
+    "content_snippet": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI’s future. By now I’m sure most Decoder listeners are familiar with Apple’s allegations in this case. The company says a number of ex-Apple employees at [&#8230;]",
+    "title_zh": "苹果诉 OpenAI 案：定义后智能手机时代主导权之争",
+    "summary_zh": "苹果对 OpenAI 提起的商业秘密诉讼，核心在于争夺后智能手机时代的主导权，案件揭示了 OpenAI 未来发展方向及 AI 硬件竞争格局。",
+    "key_points": [
+      "苹果起诉 OpenAI 涉及商业秘密",
+      "诉讼旨在争夺后智能手机时代主导权",
+      "案件揭示 AI 硬件和未来计算平台的竞争"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
