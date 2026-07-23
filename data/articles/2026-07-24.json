@@ -551,5 +551,155 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d6572ce764d180225f720d87cc890095",
+    "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+    "url": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-23T20:47:33+00:00",
+    "content_snippet": "App is installed through Windows Update when certain LG monitors connect to a PC.",
+    "title_zh": "微软回应LG显示器在Windows上安装迈克菲广告软件",
+    "summary_zh": "微软针对部分LG显示器连接Windows电脑时，通过系统更新自动安装迈克菲杀毒软件广告的行为作出回应，该事件引发用户不满。",
+    "key_points": [
+      "LG显示器连接PC时触发Windows更新安装迈克菲广告",
+      "微软官方对该自动安装行为作出正式回应",
+      "用户对未经许可的预装软件表示不满"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2a9598e40ea54824dafaa1abc9c7c369",
+    "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-23T20:33:02+00:00",
+    "content_snippet": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+    "title_zh": "AMD推出Helios AI机架系统挑战英伟达",
+    "summary_zh": "AMD发布其Helios AI机架级系统，直接对标英伟达，旨在为数据中心提供更强大的AI算力，预计今年晚些时候向客户发货。",
+    "key_points": [
+      "AMD发布Helios AI机架系统，挑战英伟达在AI芯片领域的地位",
+      "该系统专为数据中心设计，提供大规模AI算力",
+      "首批产品将于今年晚些时候交付给客户"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2d2690b343a3f3e9154b03d91ffca4a7",
+    "title": "Would ChatGPT be more useful if it interrupted us more often?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4oag7/would_chatgpt_be_more_useful_if_it_interrupted_us/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-07-23T19:37:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most AI assistants seem designed to complete the task with as little friction as possible. I’m starting to think that isn’t always helpful.<br /> If I ask ChatGPT to draft an important email, analyze a spreadsheet, or plan something complicated, it can often produce a polished answer while quietly making assumptions I never approved. The result looks finished, so those assumptions are easy to miss.<br /> Personally, I’d rather have it interrupt me when one missi",
+    "title_zh": "ChatGPT如果更频繁地打断我们，会更有用吗？",
+    "summary_zh": "Reddit网友讨论AI助手是否应更主动地打断用户，认为当前无摩擦的交互模式可能并非最佳，探讨了主动式AI辅助的潜在价值。",
+    "key_points": [
+      "讨论AI助手应被动响应还是主动打断用户",
+      "认为当前低摩擦的交互模式可能不利于完成复杂任务",
+      "探讨ChatGPT等工具在电子邮件、数据分析等场景下的优化方向"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c2687617b62b3111935db83663bba35b",
+    "title": "Is Wall Street finally questioning whether the AI boom can ever justify its enormous cost?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4o3rt/is_wall_street_finally_questioning_whether_the_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-07-23T19:31:05+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v4o3rt/is_wall_street_finally_questioning_whether_the_ai/\"> <img alt=\"Is Wall Street finally questioning whether the AI boom can ever justify its enormous cost?\" src=\"https://external-preview.redd.it/CCcv0SIv_54ECjiaTS3rCRKp3a3m0sWs8lljPD-9UM0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=66db653252402eae66b959d0d84c4670d68bd262\" title=\"Is Wall Street finally questioning whether the AI boom can ever justify its enormous ",
+    "title_zh": "华尔街终于开始质疑AI热潮能否收回巨额成本",
+    "summary_zh": "华尔街开始审视AI领域的巨额投资是否能产生相匹配的回报，引发对AI泡沫的担忧，讨论其商业模式和长期可持续性。",
+    "key_points": [
+      "华尔街对AI行业巨额投入的回报率产生质疑",
+      "市场担忧AI繁荣可能无法支撑其高昂成本",
+      "关于AI泡沫与商业可持续性的讨论加剧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5fe2709efc2b1ed0a7b1bf2be3c7b559",
+    "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
+    "url": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-07-23T19:22:36+00:00",
+    "content_snippet": "The FDA hasn't said where the cases are or how they're linked.",
+    "title_zh": "FDA报告新爆发性腹泻疫情，已确认72例",
+    "summary_zh": "美国食品药品监督管理局（FDA）报告了一起新的爆发性腹泻疫情，已查明72例感染病例，但尚未公布病例地点和关联性。",
+    "key_points": [
+      "FDA通报一起新的爆发性腹泻疫情",
+      "已有72例确诊病例，致病原因及关联性待查",
+      "官方尚未披露病例的地理分布信息"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8c7e5b7e76e6a62773478acac9bf1bd7",
+    "title": "GPT-5.5 Scores 10.6% on ActiveVision, Humans Hit 96.1% [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v4ns8l/gpt55_scores_106_on_activevision_humans_hit_961_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-23T19:20:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The interesting finding from a new [arXiv paper](<a href=\"https://arxiv.org/abs/2607.16165\">https://arxiv.org/abs/2607.16165</a>) isn't that a frontier vision model failed a new benchmark, that happens weekly, but the specific shape of the failure and the fact that the models cannot patch it by writing their own code.</p> <p>The benchmark, called ActiveVision, contains 17 tasks across 3 categories designed, in the authors' words, to &quot;force repeated visual p",
+    "title_zh": "GPT-5.5在ActiveVision基准测试中仅得10.6分，人类达96.1分",
+    "summary_zh": "一篇新研究论文显示，前沿视觉模型GPT-5.5在ActiveVision基准测试中得分仅10.6%，远低于人类96.1%的水平，揭示了模型在特定视觉任务上的失败模式。",
+    "key_points": [
+      "GPT-5.5在ActiveVision基准测试中仅获10.6%的准确率",
+      "人类在同一测试中得分高达96.1%，差距显著",
+      "研究揭示了前沿视觉模型在特定任务上的具体失败模式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
