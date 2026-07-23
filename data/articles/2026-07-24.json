@@ -288,5 +288,268 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0a457876b00708b004db5591fc350d72",
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-23T19:00:00+00:00",
+    "content_snippet": "Claude's new voice model will let you reschedule your meeting or draft an email",
+    "title_zh": "Anthropic 为 Claude 语音模式更新更强大的模型",
+    "summary_zh": "Anthropic 更新了 Claude 的语音模式，引入了更强大的模型，使其能够处理更复杂的任务，如重新安排会议或起草电子邮件。",
+    "key_points": [
+      "Claude 语音模式升级，不再局限于 Haiku 模型。",
+      "新模型可执行会议安排和邮件起草等复杂任务。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f7a651ced6714ba3b6f0f0dec8c989aa",
+    "title": "Claude’s voice mode is now available for Opus and Sonnet",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-23T19:00:00+00:00",
+    "content_snippet": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode earlier this year, it was primarily focused on [&#8230;]",
+    "title_zh": "Claude 语音模式现已支持 Opus 和 Sonnet 模型",
+    "summary_zh": "Anthropic 将其强大的 Opus 和 Sonnet 模型引入语音模式，并扩展至 Gmail、Slack 和 Canva 等应用，此前该功能仅限 Haiku 模型。",
+    "key_points": [
+      "语音模式从 Haiku 扩展至 Opus 和 Sonnet 模型。",
+      "集成 Gmail、Slack 和 Canva，拓展应用场景。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7d4489f43168315dc120e015e2934690",
+    "title": "Can this be applied to other fields?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4mrvc/can_this_be_applied_to_other_fields/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-23T18:44:43+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v4mrvc/can_this_be_applied_to_other_fields/\"> <img alt=\"Can this be applied to other fields?\" src=\"https://external-preview.redd.it/cmh2YnQ4OGV5MGZoMVHiCmSAbq2RWxlHnNDmU_R8UrWtP4yNxLvdAgAxVgvj.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c68c280f203837f0a2b482b41e345c3c210662ad\" title=\"Can this be applied to other fields?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>In the video the guy mentions that AI was used ",
+    "title_zh": "这能应用于其他领域吗？",
+    "summary_zh": "Reddit 用户发帖讨论某项 AI 技术能否跨领域应用，内容为社区讨论，缺乏具体新闻事件或实质性信息。",
+    "key_points": [
+      "社区讨论 AI 技术跨领域应用的可能性。",
+      "缺乏具体技术细节或新闻事件。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "83feacd899b0ad9550ae108d0ddcca27",
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-23T18:38:34+00:00",
+    "content_snippet": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.",
+    "title_zh": "前谷歌安全高管创立的 AegisAI 获 3600 万美元融资，防御 AI 驱动的钓鱼攻击",
+    "summary_zh": "由前谷歌安全高管创立的 AegisAI 完成 3600 万美元 A 轮融资，由 Battery Ventures 领投，旨在阻止 AI 驱动的鱼叉式网络钓鱼攻击，总融资额达 4900 万美元。",
+    "key_points": [
+      "AegisAI 获 3600 万美元 A 轮融资，总融资 4900 万美元。",
+      "公司专注于防御 AI 驱动的鱼叉式钓鱼攻击。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1e8f7871558001a11fa60119c3295f1d",
+    "title": "New VC job: Chief AI Officer",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4mghk/new_vc_job_chief_ai_officer/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-23T18:33:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v4mghk/new_vc_job_chief_ai_officer/\"> <img alt=\"New VC job: Chief AI Officer\" src=\"https://external-preview.redd.it/Y0Hovze823gkzXQnCiKNRcOoCKfBWcjdu_xVUeqFeFU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6de32c70e4d098aa56412e9794b43c7e8e82fb28\" title=\"New VC job: Chief AI Officer\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/gamersecret2\"> /u/gamersecret2 </a> &#32; to &#32; <a href=",
+    "title_zh": "风投公司新设首席 AI 官职位",
+    "summary_zh": "Reddit 讨论风险投资公司出现的新职位“首席 AI 官”，反映了 AI 在企业战略中日益增长的重要性，但仅为社区讨论，非官方新闻。",
+    "key_points": [
+      "风投公司开始设立首席 AI 官职位。",
+      "社区讨论，反映 AI 在投资领域的重要性提升。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "655cdfa99e06ad458b6fcc30b5e048dc",
+    "title": "Patreon is laying off 20 percent of workers",
+    "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-23T18:20:30+00:00",
+    "content_snippet": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, [&#8230;]",
+    "title_zh": "Patreon 裁员 20%，归因于 AI 技术变革",
+    "summary_zh": "Patreon 宣布裁员 20%，约 93 名员工。CEO 表示裁员并非因 AI 取代人类，但承认 AI 已从根本上改变了技术行业，并影响了公司决策。",
+    "key_points": [
+      "Patreon 裁员约 93 人，占员工总数的 20%。",
+      "CEO 称 AI 技术变革是影响裁员决策的深层原因。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "89194290b018db64298b4f8bce0e3634",
+    "title": "Final Coyote vs. Acme trailer drops at SDCC",
+    "url": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-23T18:01:46+00:00",
+    "content_snippet": "Also, the full trailer for Zach Cregger's <em>Resident Evil</em> features a likable everyman.",
+    "title_zh": "《Coyote vs. Acme》最终预告片在 SDCC 发布",
+    "summary_zh": "电影《Coyote vs. Acme》的最终预告片在圣地亚哥动漫展上发布，同时还有《生化危机》的完整预告片。此新闻与 AI 无关。",
+    "key_points": [
+      "电影预告片发布，内容为娱乐新闻。",
+      "与 AI 领域完全无关。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "da2929dff82a433339847eefc848e2e8",
+    "title": "Pinned: Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health queries (and my wife and I are among those!). You can now securely connect supported medical records so ChatGPT can understand your personal context and be more helpful to you.",
+    "url": "https://nitter.net/gdb/status/2080351159638704615#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-23T17:55:42+00:00",
+    "content_snippet": "<p>Launching Health in ChatGPT to U.S. users.<br />\n<br />\n300 million people use ChatGPT each week for health queries (and my wife and I are among those!).<br />\n<br />\nYou can now securely connect supported medical records so ChatGPT can understand your personal context and be more helpful to you.</p>\n<img src=\"https://nitter.net/pic/media%2FHN7juukXEAEblji.jpg\" />\n\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>Health in ChatGPT is starting to roll out to U.S. users.<br />\n<br />\nYou can ",
+    "title_zh": "ChatGPT 向美国用户推出健康功能，可连接医疗记录",
+    "summary_zh": "OpenAI 总裁 Greg Brockman 宣布向美国用户推出 ChatGPT 健康功能，每周有 3 亿用户进行健康查询，新功能允许安全连接医疗记录以提供个性化帮助。",
+    "key_points": [
+      "ChatGPT 新增健康功能，可连接个人医疗记录。",
+      "每周有 3 亿用户使用 ChatGPT 进行健康查询。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8ce98179b793b65ad33ea2a665d8ce94",
+    "title": "I gave Claude a two-way loop: it briefs me every morning, and everything I do gets written back so tomorrow's brief is smarter",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4l6ft/i_gave_claude_a_twoway_loop_it_briefs_me_every/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-23T17:49:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://reddit.com/link/1v4l6ft/video/c0rzigl6o0fh1/player\">https://reddit.com/link/1v4l6ft/video/c0rzigl6o0fh1/player</a></p> <p>Most AI assistant setups are one-way. The model talks, you read, done. I wanted the reverse, my actions feeding back in.</p> <p>My AI writes a plain text brief every morning: todos, calendar, what matters. It lives behind my MacBook notch, on top of whatever I'm working on. Hover and the day folds out; move away and it's gone",
+    "title_zh": "我为 Claude 打造双向循环：每日简报并学习我的行为",
+    "summary_zh": "Reddit 用户分享了一个个人项目，通过设置双向循环，让 Claude 每天早上生成简报，并将用户行为反馈回去，使第二天的简报更智能。",
+    "key_points": [
+      "用户创建了 Claude 双向交互系统。",
+      "系统能基于用户行为学习，提供个性化每日简报。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "26f429efc3e57c040f266e8a173c6047",
+    "title": "AI generated game worlds are coming but who actually controls what gets built in them?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4kvf0/ai_generated_game_worlds_are_coming_but_who/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-23T17:38:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Google Genie 3 is genuinely impressive and I keep thinking about it from a different angle than most people. Everyone talks about whether it will replace traditional game dev pipelines, which is a fair question. But what actually bugs me is the layer underneath that: when a model generates an open world from a prompt, who decides what the world permits or refuses to generate?</p> <p>With a regular game, designers make deliberate choices about what exists in the ",
+    "title_zh": "AI 生成游戏世界即将到来，但谁控制其构建内容？",
+    "summary_zh": "Reddit 讨论 Google Genie 3 等 AI 生成游戏世界技术，探讨其可能颠覆传统游戏开发流程，并质疑底层控制权和内容构建的归属问题。",
+    "key_points": [
+      "探讨 AI 生成游戏世界（如 Google Genie 3）的影响。",
+      "核心问题在于内容构建的控制权归属。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f7b23ab7eda39c731399fe96a63187d3",
+    "title": "Personal Essay/Blog · Zain Dana Harper",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4kk9f/personal_essayblog_zain_dana_harper/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-23T17:27:29+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v4kk9f/personal_essayblog_zain_dana_harper/\"> <img alt=\"Personal Essay/Blog · Zain Dana Harper\" src=\"https://external-preview.redd.it/CW3yvLVVyZKf4uJ86yDVQYNVULx5DH63pwHockaEL6w.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5e598459d4438db573a9f5c9115458e74efd138\" title=\"Personal Essay/Blog · Zain Dana Harper\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Not perfect in the slightest, but I am trying to cover ideas",
+    "title_zh": "个人随笔/博客 · Zain Dana Harper",
+    "summary_zh": "Reddit 上分享的一篇个人随笔或博客文章，内容涉及人工智能相关话题，但来自个人创作者而非新闻机构，具体细节未提供。",
+    "key_points": [
+      "个人博客分享 AI 相关随笔",
+      "非正式新闻，来自个人创作者"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
