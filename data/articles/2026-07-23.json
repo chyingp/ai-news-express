@@ -2013,5 +2013,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f8fbf28183c82d03872dda0656d12565",
+    "title": "An MCP workflow for implementing deep-learning models from an engineering plan [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v4ebho/an_mcp_workflow_for_implementing_deeplearning/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-23T13:43:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have been working on an MCP workflow for implementing deep learning models from an engineering plan. This is useful for ml engineers etc. who want a more structured way to move from a deep-learning goal to a working implementation.<br /> The process starts with a plan written by the engineer. That plan defines what the system should do, how it should be divided into components and the intended implementation direction.<br /> The workflow then helps Codex to:<b",
+    "title_zh": "基于MCP的深度学习模型工程化实现工作流",
+    "summary_zh": "本文介绍了一种使用MCP工作流从工程计划出发实现深度学习模型的方法，旨在为ML工程师提供更结构化的开发流程，从设定目标到实现可运行的模型。",
+    "key_points": [
+      "提出了一种结构化的MCP工作流，用于从工程计划到深度学习模型实现",
+      "旨在帮助ML工程师更高效地将深度学习目标转化为可行代码",
+      "内容为Reddit社区分享，属于个人实践经验总结"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
