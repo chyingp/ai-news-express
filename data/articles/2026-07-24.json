@@ -701,5 +701,129 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bf04285457ca7873546b5e0c0a49ca2e",
+    "title": "AI Could Impact Women's Jobs Nearly 3× More Than Men's. Are We Ignoring It?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4t4oi/ai_could_impact_womens_jobs_nearly_3_more_than/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-23T22:37:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been thinking about the way AI is reshaping the labor market, and I feel like one part of the conversation is being overlooked.</p> <p>Right now, AI is exceptionally good at automating structured, information-heavy work: administrative tasks, customer support, bookkeeping, scheduling, documentation, report writing, data analysis, and many other white-collar functions. These are exactly the kinds of jobs that are seeing the fastest AI adoption.</p> <p>By con",
+    "title_zh": "AI 对女性就业的影响几乎是男性的 3 倍，我们是否在忽视？",
+    "summary_zh": "文章探讨了 AI 对劳动力市场中女性就业岗位的潜在冲击，指出 AI 擅长自动化的结构化、信息密集型工作多为女性所从事，可能导致女性失业风险远高于男性，而这一议题在行业讨论中被相对忽视。",
+    "key_points": [
+      "AI 擅长自动化行政、客服等女性占比较高的岗位",
+      "AI 可能导致女性失业风险接近男性的 3 倍",
+      "该性别差异问题在 AI 行业讨论中被普遍忽视"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "85bc4680e59aa8e49f65673fa703e844",
+    "title": "AMD inks deal with AI chip startup Cerebras",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4szss/amd_inks_deal_with_ai_chip_startup_cerebras/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-23T22:31:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v4szss/amd_inks_deal_with_ai_chip_startup_cerebras/\"> <img alt=\"AMD inks deal with AI chip startup Cerebras\" src=\"https://external-preview.redd.it/2wTqAEWVsyUc-oXR3MegSTNsiR1hWzEIb2pFcCmllL4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=93617400a922988837af690b9bf137b8b7ec50bb\" title=\"AMD inks deal with AI chip startup Cerebras\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/gamersecret2\"",
+    "title_zh": "AMD 与 AI 芯片初创公司 Cerebras 达成合作",
+    "summary_zh": "AMD 与专注于 AI 芯片的初创公司 Cerebras 签署合作协议，此举旨在加强双方在 AI 计算领域的布局，以应对日益增长的市场需求并挑战行业领导者的地位。",
+    "key_points": [
+      "AMD 与 Cerebras 签署协议共同推进 AI 芯片业务",
+      "合作旨在应对 AI 计算市场日益增长的需求",
+      "Cerebras 是一家专注于 AI 芯片的初创公司"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "746c778e2ff59c250140702b7933097e",
+    "title": "voice makes you feel just how unnatural it is to type",
+    "url": "https://nitter.net/gdb/status/2080414383352529085#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-23T22:06:55+00:00",
+    "content_snippet": "<p>voice makes you feel just how unnatural it is to type</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>ChatGPT Voice is now in the desktop app.<br />\n<br />\nControl your computer and direct multiple agents running  in ChatGPT Work or Codex, using just your voice. <br />\n<br />\nIt's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time.<br />\n<br />\nRolling out globally today on macOS and Windows to Plus, Pro, Business, Edu, and Enterprise plans.</",
+    "title_zh": "ChatGPT Voice 登陆桌面端，用语音控制电脑与多智能体",
+    "summary_zh": "OpenAI 联合创始人 Greg Brockman 分享，ChatGPT Voice 功能现已集成到桌面应用中，用户可通过语音直接控制电脑，并指挥在 ChatGPT Work 或 Codex 中运行的多个智能体，强调语音交互比打字更自然。",
+    "key_points": [
+      "ChatGPT Voice 桌面版支持语音控制电脑及多智能体",
+      "功能集成于 ChatGPT Work 和 Codex 中",
+      "Greg Brockman 称语音交互相比打字更自然"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "208c96c4c04df47f78488812650e5c17",
+    "title": "How to verify an AI classification of emails",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4rueq/how_to_verify_an_ai_classification_of_emails/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-23T21:47:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So some days ago I asked in this community what kind of AI model should I use (and how could I use one) to classify several email replies that I had from scientists after asking them a few questions to them. I finally paid for Perplexity pro service and it apparenly did a nice job classifying them. </p> <p>I finally gave the model the PDF with the actual answers from the addressees and another PDF with the &quot;expected answers&quot;, and asked it to count the ",
+    "title_zh": "如何验证 AI 对电子邮件的分类结果",
+    "summary_zh": "一篇技术教程性质的帖子，作者分享了自己使用 Perplexity Pro 服务对科学家的邮件回复进行分类的经历，并向社区询问如何验证 AI 分类结果的准确性。",
+    "key_points": [
+      "作者使用 Perplexity Pro 对邮件进行分类",
+      "帖子主要探讨如何验证 AI 邮件分类的准确性",
+      "属于技术应用与社区求助类分享"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "27b0ad2998637a52d1332f3c8dfc1e98",
+    "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+    "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-23T21:15:06+00:00",
+    "content_snippet": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to [&#8230;]",
+    "title_zh": "Alexa Plus 迎来 AI 更新，可处理更复杂的指令",
+    "summary_zh": "亚马逊为其 Alexa Plus 助手推出 AI 更新，使其能更智能地连接和控制智能家居设备。预览版已支持 Bosch、iRobot 等多个品牌，并能够自动执行更复杂的用户指令。",
+    "key_points": [
+      "Alexa Plus 更新后能处理更复杂的智能家居指令",
+      "预览版已支持 Bosch、iRobot、Yale 等多品牌设备",
+      "更新旨在提升 Alexa 的智能家居自动化能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
