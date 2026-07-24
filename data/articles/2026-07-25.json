@@ -1,0 +1,228 @@
+[
+  {
+    "id": "575962f1bb8c5e3feb38e95a297399a6",
+    "title": "Opus 5 sets a new state-of-the-art on ARC-AGI-3, at 30%. ARC-AGI-3 measures solving problems with no prior exposure -- the setting where scaling has historically bought the least. Impressive jump!",
+    "url": "https://nitter.net/fchollet/status/2080707785910534147#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-24T17:32:48+00:00",
+    "content_snippet": "<p>Opus 5 sets a new state-of-the-art on ARC-AGI-3, at 30%.<br />\n<br />\nARC-AGI-3 measures solving problems with no prior exposure -- the setting where scaling has historically bought the least. Impressive jump!</p>\n<hr />\n<blockquote>\n<b>Claude (@claudeai)</b>\n<p>\n<p>On ARC-AGI-3, an evaluation where AI models must solve novel problems, Opus 5’s score is three times as high as the next best model.</p>\n<img src=\"https://nitter.net/pic/media%2FHOAfFQSXEAALIkI.png\" />\n\n\n</p>\n<footer>\n— <cite><a h",
+    "title_zh": "Opus 5 在 ARC-AGI-3 基准测试中达到 30%，创下新纪录",
+    "summary_zh": "Opus 5 模型在衡量无先验经验问题解决能力的 ARC-AGI-3 基准测试中取得 30% 的成绩，实现重大飞跃，表明AI在应对全新问题时能力显著提升，突破了传统规模扩展的局限。",
+    "key_points": [
+      "Opus 5 在 ARC-AGI-3 上创下 30% 的新纪录",
+      "ARC-AGI-3 测试模型在无先验经验下解决问题的能力",
+      "该领域曾是规模扩展受益最少的领域，此次突破显著"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0ad2f3766102b26616268652907582c7",
+    "title": "The quest to keep organs alive outside the body",
+    "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-24T17:03:55+00:00",
+    "content_snippet": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that can be preserved&#8230;",
+    "title_zh": "在体外保持器官存活的探索",
+    "summary_zh": "本文探讨了体外保存器官的尖端研究，旨在解决供体器官严重短缺问题。由于器官在体外仅能存活数小时，科学家正致力于开发器官银行，以实现长期储存，改变移植医学格局。",
+    "key_points": [
+      "供体器官短缺部分源于体外保存时间极短",
+      "医生梦想建立器官银行以长期储存人体器官",
+      "研究聚焦于延长器官体外存活时间的技术"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8a30901e8b219e92240902b6f3c26684",
+    "title": "How should startups choose an AI consulting company without wasting months on pilots?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v5gzzx/how_should_startups_choose_an_ai_consulting/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-24T16:53:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A lot of startups are trying to add AI right now, but the hard part usually isn’t which model we should use.</p> <p>It’s questions like:</p> <ul> <li>Do we need strategy, engineering, or both?</li> <li>Should we hire an AI consultant or build in-house?</li> <li>Can this team ship production software, or only run discovery workshops?</li> <li>Do they understand RAG, agents, vector databases, monitoring, and inference costs?</li> <li>Is an enterprise consulting fi",
+    "title_zh": "初创公司如何选择 AI 咨询公司而不浪费数月时间在试点项目上？",
+    "summary_zh": "文章讨论了初创公司在引入 AI 时面临的常见困境，如决定是需要战略、工程还是两者兼顾，以及是否应雇佣咨询公司或内部构建。重点在于如何高效筛选 AI 咨询合作伙伴，避免在无休止的试点中浪费时间。",
+    "key_points": [
+      "初创公司引入 AI 的难点在于选择策略而非仅选模型",
+      "核心问题包括需求定义、自建或外包的决策",
+      "旨在提供避免长时间试点的方法论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7b0bf47c8acb24fa9a3a5201cc230bf9",
+    "title": "The people testing AI for danger can't keep up",
+    "url": "https://www.reddit.com/r/artificial/comments/1v5gwoi/the_people_testing_ai_for_danger_cant_keep_up/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-24T16:50:32+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v5gwoi/the_people_testing_ai_for_danger_cant_keep_up/\"> <img alt=\"The people testing AI for danger can't keep up\" src=\"https://external-preview.redd.it/NnKAq-2PEePMeI_nl21uqP1CE1kAgmHlJkxgAETDSXA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c46f32140dfc429bbfc857852a7c305d3908fb8\" title=\"The people testing AI for danger can't keep up\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/gamer",
+    "title_zh": "对 AI 进行危险测试的人员已跟不上节奏",
+    "summary_zh": "文章指出，随着 AI 模型能力的快速提升，负责对其进行安全测试和危险评估的人员面临巨大压力，测试速度难以跟上 AI 的迭代步伐，引发了关于 AI 安全治理的紧迫性讨论。",
+    "key_points": [
+      "AI 安全测试人员的工作速度无法匹配 AI 发展速度",
+      "凸显了 AI 安全评估流程滞后于模型迭代的问题",
+      "可能引发对 AI 治理和监管的进一步讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0cec8222fa10114ef2a178a11f16da06",
+    "title": "The reason to stop buying new hardware (or, why inference is getting cheaper)",
+    "url": "https://www.reddit.com/r/artificial/comments/1v5gch2/the_reason_to_stop_buying_new_hardware_or_why/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-24T16:30:21+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v5gch2/the_reason_to_stop_buying_new_hardware_or_why/\"> <img alt=\"The reason to stop buying new hardware (or, why inference is getting cheaper)\" src=\"https://external-preview.redd.it/KgKvdbN2jrAWGNLpQucKnEMHdbMcPwaiV4A_osAVYwQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa269bff1ae64043b8b4e988af88ae1193942e59\" title=\"The reason to stop buying new hardware (or, why inference is getting cheaper)\" /> </a> </td><td> &#32;",
+    "title_zh": "停止购买新硬件的理由（或为何推理成本正变得越来越低）",
+    "summary_zh": "这篇文章从技术角度解释了为何 AI 推理成本正在持续下降，从而质疑了频繁升级硬件投资的必要性。核心论点在于软件和算法优化正在让硬件更高效，使旧硬件仍能发挥价值。",
+    "key_points": [
+      "软件和算法优化正大幅降低 AI 推理成本",
+      "文章论证了为何无需频繁购买新硬件",
+      "强调现有硬件通过效率提升仍具价值"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "246bc13d61383a4eb43935cefe00fef6",
+    "title": "I built a compiler that turns computation graphs into the weights of a vanilla transformer — no training anywhere [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v5fxbe/i_built_a_compiler_that_turns_computation_graphs/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-24T16:15:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been chasing the question of what algorithms a transformer can actually express -- separate from what it can learn. So I built a compiler: define a computation graph in ordinary Python, and it produces the weights of a transformer that executes the graph. The result is a standard Phi-3-architecture checkpoint that vanilla huggingface loads with no custom code and no trust_remote_code. Zero training in the pipeline.</p> <p>Write-up (origin + how the construc",
+    "title_zh": "我构建了一个能将计算图直接编译为 Transformer 权重的编译器，无需任何训练",
+    "summary_zh": "一个个人研究项目，开发者构建了一个编译器，可将普通 Python 定义的计算图直接转化为 Transformer 模型的权重，使模型能执行指定算法，完全无需训练过程，旨在探索 Transformer 的表达能力极限。",
+    "key_points": [
+      "编译器将计算图直接转化为 Transformer 权重，无训练过程",
+      "旨在探索 Transformer 能表达哪些算法而非能学习什么",
+      "结果 Transformer 可直接执行定义的计算图逻辑"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a8e7a4eab40dbc6ea7261fd38789e26b",
+    "title": "i want the US to win in AI both in open source and proprietary models, and i am glad to see this",
+    "url": "https://nitter.net/sama/status/2080683363174945065#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-24T15:55:45+00:00",
+    "content_snippet": "<p>i want the US to win in AI both in open source and proprietary models, and i am glad to see this</p>\n<hr />\n<blockquote>\n<b>Jensen Huang (@JensenHuang)</b>\n<p>\n<p>For my first post, I’m sharing a letter <a href=\"https://nitter.net/NVIDIA\" title=\"NVIDIA\">@NVIDIA</a> signed on why open models matter.<br />\n<br />\nAI will transform every industry, power every company, and be built by every country.<br />\n<br />\nOpen models strengthen safety and cybersecurity, accelerate innovation and diffusion,",
+    "title_zh": "Sam Altman：我希望美国在开源和闭源 AI 领域都获胜，很高兴看到这一点",
+    "summary_zh": "OpenAI 首席执行官 Sam Altman 转发英伟达关于开放模型重要性的公开信，并表态希望美国在开源和闭源 AI 模型领域均能保持领先地位，表达了对美国 AI 产业生态全面优势的期望。",
+    "key_points": [
+      "Sam Altman 表态希望美国赢在开源和闭源 AI 领域",
+      "该言论是对英伟达支持开放模型公开信的回应",
+      "反映了美国 AI 产业领袖对全球竞争的立场"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0c06187f13d0f344e72e69a983bbd733",
+    "title": "let us know what you think of pro-ultra-superhard",
+    "url": "https://nitter.net/sama/status/2080683119959757243#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-24T15:54:47+00:00",
+    "content_snippet": "<p>let us know what you think of pro-ultra-superhard</p>\n<hr />\n<blockquote>\n<b>Ethan Mollick (@emollick)</b>\n<p>\n<p>Agreed: GPT-5.6 Pro (which is only available via the chatbot) is the smartest model out there. GPT-5.6 Ultra (the best model in Codex) is not near as powerful on hard tasks.<br />\n<br />\nFor really hard problems: GPT-5.6 Sol Pro&gt;Fable 5 Ultracode &gt; GPT-5.6 Sol Ultra. (Yes, this is confusing)</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/emollick/status/2080515937803",
+    "title_zh": "Sam Altman 就 GPT-5.6 不同版本性能差异征求用户反馈",
+    "summary_zh": "OpenAI 首席执行官 Sam Altman 在社交平台就 GPT-5.6 的 Pro、Ultra 等不同版本间性能差异征求用户意见。此前有用户反馈，聊天机器人内的 Pro 版本在困难任务上比 Codex 中的 Ultra 版本更强大。",
+    "key_points": [
+      "Sam Altman 就 GPT-5.6 Pro 和 Ultra 版本性能差异征求反馈",
+      "用户反馈聊天版 Pro 在困难任务上可能优于 Codex 版 Ultra",
+      "此举可能用于收集数据以优化模型产品体验"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3e70bd1d4df50627a012413d001c5c34",
+    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+    "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-24T15:51:49+00:00",
+    "content_snippet": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+    "title_zh": "美国权衡对中国 AI 的回应，业界敦促避免广泛限制开放权重模型",
+    "summary_zh": "在华盛顿正就应对中国 AI 发展及涉嫌模型蒸馏行为进行辩论之际，包括英伟达和 Mistral 在内的 AI 公司联合敦促政策制定者，避免对开放权重 AI 模型施加广泛限制，担忧此举会损害创新和开源生态。",
+    "key_points": [
+      "英伟达和 Mistral 等公司敦促避免广泛限制开放权重模型",
+      "背景是美国政府正讨论因应中国 AI 和模型蒸馏问题",
+      "业界认为广泛限制可能阻碍创新和开源发展"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia",
+      "mistral"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
