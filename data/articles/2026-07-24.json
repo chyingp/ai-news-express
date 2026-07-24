@@ -1292,5 +1292,198 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "de1c083404486794b6513113fdabd4b4",
+    "title": "联想等在贵州成立新科技公司，注册资本2000万",
+    "url": "https://36kr.com/newsflashes/3909257936196996?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-24T06:22:48+00:00",
+    "content_snippet": "36氪获悉，天眼查App显示，近日，贵州新联智想科技有限公司成立，法定代表人为吴明疆，注册资本2000万人民币，经营范围包括人工智能应用软件开发、大数据服务、信息系统集成服务等。股东信息显示，该公司由联想旗下广西联想智联信息科技有限公司、海南黔源投资有限公司、海南漪迪能源科技有限公司共同持股。",
+    "title_zh": "联想等在贵州成立新科技公司，注册资本2000万",
+    "summary_zh": "联想旗下基金与合作伙伴在贵州成立新科技公司，注册资本2000万元，经营范围涉及人工智能应用软件开发、大数据服务等业务。",
+    "key_points": [
+      "联想旗下基金联合成立贵州新联智想科技有限公司",
+      "新公司注册资本2000万，主营AI软件和大数据服务"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "982e53c43f1f0c10585a46da29f005c3",
+    "title": "腾讯混元合并大语言模型与多模态团队，成立基础模型部",
+    "url": "https://36kr.com/newsflashes/3909248625513863?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-07-24T06:13:20+00:00",
+    "content_snippet": "36氪获悉，腾讯宣布混元多模态模型部门与大语言模型部门合并，成立基础模型部，统一由腾讯首席AI科学家姚顺雨管理，以进一步提升模型研发和协同效率，探索全模态模型的智能上限。",
+    "title_zh": "腾讯混元合并大语言模型与多模态团队，成立基础模型部",
+    "summary_zh": "腾讯宣布将混元大语言模型与多模态模型部门合并，成立基础模型部，由首席AI科学家姚顺雨统一管理，以提升研发效率并探索全模态模型。",
+    "key_points": [
+      "腾讯混元合并语言与多模态团队，成立基础模型部",
+      "由首席AI科学家姚顺雨统一管理，旨在提升协同效率",
+      "目标为探索全模态模型的智能上限"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "86f4699a9b11217824bb7922d4f6889b",
+    "title": "Building an open-source AI pipeline for speech-driven 3D character animation. Looking for honest feedback before I invest time",
+    "url": "https://www.reddit.com/r/artificial/comments/1v52goe/building_an_opensource_ai_pipeline_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-24T05:46:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I'm a third-year engineering student working on an AI project that converts speech into a fully animated 3D character.</p> <p>Right now, my prototype works like this:</p> <pre><code>Audio ↓ EMAGE (Speech → Motion) ↓ SMPL Motion (Research Prototype) ↓ Motion Retargeting (planned) ↓ Commercial Character Rig ↓ Blender Rendering ↓ MP4 Animation </code></pre> <p>The current implementation uses <strong>SMPL only as an internal research representati",
+    "title_zh": "构建语音驱动3D角色动画的开源AI管线，寻求反馈",
+    "summary_zh": "一名大三学生正在开发一个将语音转换为3D角色动画的开源AI项目，目前原型已完成，正在进行调研并寻求社区反馈。",
+    "key_points": [
+      "项目通过语音驱动3D角色动画，使用EMAGE等模型",
+      "开发者寻求社区反馈，以决定是否进一步投入时间"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "48d7d7dd2caabf764d30e22839c3a416",
+    "title": "韩国法院判令SK海力士会长崔泰源向前妻支付约6.43亿美元离婚财产分割款",
+    "url": "https://36kr.com/newsflashes/3909208588359049?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-24T05:32:37+00:00",
+    "content_snippet": "SK海力士的亿万富豪崔泰源（CheyTae‑won），其个人财富因人工智能热潮大幅飙升。近日，韩国法院在新一轮判决中，判令他向前妻支付9440亿韩元（约合6.43亿美元）离婚财产分割款，这场旷日持久的天价离婚官司至此接近尾声。若该判决最终生效，这将是韩国史上金额最高的离婚案。据彭博亿万富豪指数，崔泰源当前身家约56亿美元，过去一年净资产已翻倍以上。目前法院尚未明确，这笔巨款将以现金还是股票形式支付。（财联社）",
+    "title_zh": "韩国法院判令SK海力士会长向前妻支付约6.43亿美元离婚财产",
+    "summary_zh": "韩国法院判决SK海力士会长崔泰源支付约6.43亿美元离婚财产分割款，或为韩国史上最高，其个人财富因AI热潮大幅增长。",
+    "key_points": [
+      "SK海力士会长崔泰源被判支付约6.43亿美元离婚财产",
+      "金额为韩国史上最高，其个人财富因AI热潮翻倍"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "51e407db019f01da8e0495f97fb1f811",
+    "title": "try chatgpt voice in the desktop app:",
+    "url": "https://nitter.net/gdb/status/2080524965514723414#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-24T05:26:20+00:00",
+    "content_snippet": "<p>try chatgpt voice in the desktop app:</p>\n<hr />\n<blockquote>\n<b>Max Weinbach (@mweinbach)</b>\n<p>\n<p>This has been sick so far<br />\n<br />\nI love just walking through ideas and it starts organizing and creating threads and work trees<br />\n<br />\nI just sat at my desk with it enabled, told it things sporadically, and it kept me updated<br />\n<br />\nIt's so cool</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/mweinbach/status/2080509445822407111#m\">https://nitter.net/mweinbach/status/",
+    "title_zh": "在桌面应用中尝试ChatGPT语音功能",
+    "summary_zh": "Greg Brockman在X平台分享使用ChatGPT桌面应用语音功能的体验，称其可用于整理思路和创建工作树。",
+    "key_points": [
+      "Greg Brockman分享桌面版ChatGPT语音功能使用体验",
+      "该功能可辅助梳理想法、创建线程和工作树"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8746e4e02a60c078cf22e5a71b7ff268",
+    "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+    "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-24T04:34:27+00:00",
+    "content_snippet": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart Korea’s AI progress. Building on NVIDIA founder and CEO Jensen Huang’s visit to Korea last month, this week’s discussions and announcements advance [&#8230;]",
+    "title_zh": "韩国在AI峰会上与英伟达及伙伴共绘人工智能未来",
+    "summary_zh": "在旧金山AI峰会上，韩国总统与商界领袖与英伟达及生态伙伴会面，商讨韩国AI发展进程，此前黄仁勋曾访问韩国。",
+    "key_points": [
+      "韩国总统与英伟达等伙伴在AI峰会上讨论国家AI发展",
+      "会议延续了英伟达CEO黄仁勋上月访韩的后续合作"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "357268c0d5a9e23202df85c36e12864b",
+    "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+    "url": "https://www.qbitai.com/2026/07/458348.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-24T04:19:34+00:00",
+    "content_snippet": "",
+    "title_zh": "WAIC看了一圈，这家公司的机器人在认真打工",
+    "summary_zh": "量子位在WAIC上观察到一家公司的机器人专注于实际工作场景，而非概念展示，引起关注。",
+    "key_points": [
+      "WAIC展会上，一家公司的机器人专注于实际工作演示",
+      "文章强调其从概念走向实际行动的落地能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a2a54c91d8ce5695d685b96b15bfa3d8",
+    "title": "OpenAI is launching \"ChatGPT Health\"—you can now link your actual medical records and lab results. Would you actually use this?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4zwq3/openai_is_launching_chatgpt_healthyou_can_now/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-24T03:38:34+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v4zwq3/openai_is_launching_chatgpt_healthyou_can_now/\"> <img alt=\"OpenAI is launching &quot;ChatGPT Health&quot;—you can now link your actual medical records and lab results. Would you actually use this?\" src=\"https://preview.redd.it/ke1j01kcl3fh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f98402b75f1b6082f70cdeccb1e3516cb6971d98\" title=\"OpenAI is launching &quot;ChatGPT Health&quot;—you can now link your actual medica",
+    "title_zh": "OpenAI推出“ChatGPT Health”，可关联医疗记录和化验结果",
+    "summary_zh": "OpenAI宣布推出ChatGPT Health功能，允许用户关联真实医疗记录和化验结果，引发公众对隐私和实用性的讨论。",
+    "key_points": [
+      "OpenAI推出ChatGPT Health，可关联个人医疗数据",
+      "功能引发用户是否愿意使用的广泛讨论"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
