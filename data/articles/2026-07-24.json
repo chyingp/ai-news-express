@@ -2125,5 +2125,54 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a2331d10408ec4fb297fd02184fb72ee",
+    "title": "White House draws new AI line on China",
+    "url": "https://www.reddit.com/r/artificial/comments/1v5bs0m/white_house_draws_new_ai_line_on_china/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-24T13:42:07+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v5bs0m/white_house_draws_new_ai_line_on_china/\"> <img alt=\"White House draws new AI line on China\" src=\"https://external-preview.redd.it/0jbxs6s44RtGqmsjFZNyPS2C9Qp98WH99kbBuMUcrAk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b335a6e513da6e86f4e40f8dec58ea09f83048e8\" title=\"White House draws new AI line on China\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/gamersecret2\"> /u/gamersecre",
+    "title_zh": "白宫划定对华人工智能新界限",
+    "summary_zh": "白宫出台新的对华AI政策，划定技术管控红线，旨在限制中国获取美国先进人工智能技术，进一步升级中美科技竞争态势。",
+    "key_points": [
+      "白宫发布新规，划定对华AI技术管控新红线",
+      "旨在限制中国获取美国先进人工智能技术",
+      "此举标志着中美科技竞争进一步升级"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "28465398b0195b25612406614a95006b",
+    "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+    "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-24T13:36:42+00:00",
+    "content_snippet": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+    "title_zh": "OpenAI新语音模式登陆ChatGPT桌面应用",
+    "summary_zh": "OpenAI将其先进的语音模式扩展到ChatGPT桌面客户端，该功能可与ChatGPT Work和Codex集成，实现任务执行和智能体控制。",
+    "key_points": [
+      "OpenAI将语音模式功能扩展至ChatGPT桌面应用",
+      "新语音模式可与Work和Codex集成，控制智能体"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
