@@ -825,5 +825,246 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "592b380c16c3c6b83d542458f12ab8f4",
+    "title": "美科技股财报季拉开大幕，AI行情演绎或迎新格局",
+    "url": "https://36kr.com/newsflashes/3908866739737986?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-23T23:55:45+00:00",
+    "content_snippet": "全球资本市场瞩目的美股科技巨头财报季于7月下旬正式拉开帷幕。随着谷歌母公司Alphabet、特斯拉等头部企业陆续披露2026年第二季度业绩，市场目光正从AI基础设施的“投入规模”转向“产出效率”——即AI业务能否兑现实质性的收入增长与现金流改善。在经历前期板块震荡整理后，本轮财报季被业内视为AI产业由“投入期”迈入“兑现期”的关键观察窗口。市场关注的焦点已全面聚焦于三大维度：资本开支指引是否持续、商业化落地是否加速、盈利路径是否清晰。这些答案，或将直接决定下一阶段科技股行情的走向与结构。（上证报）",
+    "title_zh": "美科技股财报季拉开大幕，AI行情演绎或迎新格局",
+    "summary_zh": "美股科技巨头财报季开启，市场焦点从AI投入规模转向产出效率，关注商业化落地与盈利路径，本轮财报被视为AI由投入期迈入兑现期的关键窗口。",
+    "key_points": [
+      "市场关注AI从投入转向产出效率与现金流改善",
+      "财报季成AI产业进入兑现期的关键观察窗口"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "361560e6dab242f4d91d0691c4f8597a",
+    "title": "英伟达与Amkor达成15亿美元芯片封装与测试合作协议",
+    "url": "https://36kr.com/newsflashes/3908860730856577?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-23T23:50:43+00:00",
+    "content_snippet": "美国半导体产品封装和测试服务提供商Amkor Technology当地时间7月23日宣布，与英伟达达成15亿美元多年期合作协议，共同开发面向下一代人工智能和加速计算平台的先进半导体封装与测试技术。根据协议，英伟达将提供预付款，支持Amkor在美国扩充先进封装产能。（界面）",
+    "title_zh": "英伟达与Amkor达成15亿美元芯片封装与测试合作协议",
+    "summary_zh": "英伟达与Amkor签署15亿美元多年协议，共同开发面向下一代AI和加速计算平台的先进半导体封装测试技术，英伟达将预付资金支持Amkor在美扩产。",
+    "key_points": [
+      "英伟达与Amkor达成15亿美元先进封装合作协议",
+      "合作聚焦下一代AI与加速计算平台封装测试",
+      "英伟达提供预付款支持Amkor在美扩充产能"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e4a2215e6df92adb99ce2572271320a5",
+    "title": "AMD苏姿丰：预计到2030年AI加速器市场将达到1.4万亿美元",
+    "url": "https://36kr.com/newsflashes/3908850612802948?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-23T23:42:24+00:00",
+    "content_snippet": "AMD CEO苏姿丰在AMD Advancing AI大会上表示，预计到2030年，数据中心人工智能加速器市场潜在规模将达到1.4万亿美元，从2025年至2030年的年复合成长率达45%。（界面）",
+    "title_zh": "AMD苏姿丰：预计到2030年AI加速器市场将达到1.4万亿美元",
+    "summary_zh": "AMD CEO苏姿丰在AI大会上预测，到2030年数据中心AI加速器市场规模将达1.4万亿美元，2025年至2030年年复合增长率约45%。",
+    "key_points": [
+      "AMD预测2030年AI加速器市场达1.4万亿美元",
+      "2025至2030年市场年复合增长率预计为45%"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a8ab6e24a95549e50a26c10dd8592db2",
+    "title": "Internet Disruption ?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4uik0/internet_disruption/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-23T23:34:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Complete AI novice here.</p> <p>I noticed shortly after an Anthropic outage, AT&amp;T, Amazon Alexa, and Microsoft suffered outages in the same day.</p> <p>On top of that, there's just a lot of activity on Downdetector. It seems Anthropic's outage came first. Is any of that tied back to Claude? Maybe these companies use the AI in some way?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheElbaBoy\"> /u/TheElbaBoy </a> &#32;",
+    "title_zh": "互联网服务中断？用户关注Anthropic宕机后多家公司同日出现故障",
+    "summary_zh": "Reddit用户注意到Anthropic宕机后，AT&T、亚马逊Alexa和微软同日出现服务中断，引发对互联网基础设施稳定性的讨论。",
+    "key_points": [
+      "Anthropic宕机后多家科技公司同日出现服务中断",
+      "事件引发用户对互联网服务稳定性的关注"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a4edc371a1cb7666f460c83e277b6a20",
+    "title": "美五大科技巨头AI隐性债务达1.65万亿美元",
+    "url": "https://36kr.com/newsflashes/3908447533061253?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-23T23:32:18+00:00",
+    "content_snippet": "日本媒体《日经亚洲评论》7月21日报道称，五家美国科技巨头因为不透明的人工智能融资，致使隐性债务规模飙升至1.65万亿美元。《日经亚洲评论》在查阅了谷歌的母公司“字母表”公司、微软、亚马逊、元宇宙公司和甲骨文公司的财报和其他资料后发现，这五家科技巨头的隐性债务4年内增长了8倍，最近一个季度达到了1.65万亿美元，远超表内约1.35万亿美元的负债规模。（CCTV国际时讯）",
+    "title_zh": "美五大科技巨头AI隐性债务达1.65万亿美元",
+    "summary_zh": "日媒报道称，谷歌、微软、亚马逊、Meta和甲骨文因不透明的AI融资，隐性债务飙升至1.65万亿美元，四年内增长8倍，远超表内负债。",
+    "key_points": [
+      "五大科技巨头AI相关隐性债务达1.65万亿美元",
+      "隐性债务规模远超表内负债，引发市场关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "microsoft",
+      "amazon",
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5a72e17c37dbbb94fb4606f077e4e885",
+    "title": "Alphabet未来支出承诺飙升至8110亿美元，加速锁定AI资源",
+    "url": "https://36kr.com/newsflashes/3908389830628480?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-23T23:29:21+00:00",
+    "content_snippet": "Alphabet Inc．旗下谷歌截至6月底签订的未来支出承诺达到8110亿美元，仅较三个月前就增加近5000亿美元。这些与Alphabet资本支出预算分开披露的履约义务，代表该公司已根据供应协议和未结采购订单承诺进行的采购。谷歌在季度申报文件中披露，总额中约有2007亿美元属于短期履约义务。（新浪财经）",
+    "title_zh": "Alphabet未来支出承诺飙升至8110亿美元，加速锁定AI资源",
+    "summary_zh": "谷歌母公司Alphabet未来支出承诺增至8110亿美元，单季增加近5000亿美元，主要因AI供应协议和采购订单扩大，加速锁定关键资源。",
+    "key_points": [
+      "Alphabet支出承诺单季激增近5000亿美元至8110亿",
+      "大幅增加支出旨在加速锁定AI相关资源供应"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0f0a5650305660b9e730c4c39982ced3",
+    "title": "Databricks与微软扩大合作，将共同扩展企业AI规模",
+    "url": "https://36kr.com/newsflashes/3908387252835719?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-23T23:27:55+00:00",
+    "content_snippet": "7月23日，Databricks宣布与微软延长战略合作至2030年代，将共同扩展企业AI规模。Databricks表示，将加大对Azure的投入，扩大使用Azure Databricks来运行自身核心业务运营和分析。同时双方将推进微软技术栈的原生整合，包括Databricks Genie与Microsoft 365的集成。此外，Databricks还将增加对Microsoft Azure Cobalt的使用，以提升性能和效率。（界面）",
+    "title_zh": "Databricks与微软扩大合作，将共同扩展企业AI规模",
+    "summary_zh": "Databricks与微软延长战略合作至2030年代，将加大Azure投入，推进微软技术栈原生整合，包括Genie与Microsoft 365集成，并增加Azure Cobalt使用。",
+    "key_points": [
+      "Databricks与微软延长合作至2030年代扩展企业AI",
+      "合作将推进Databricks与微软365等产品原生整合"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c1e93e1bf10755ecd18e8022911805d8",
+    "title": "AI Regulation",
+    "url": "https://www.reddit.com/r/artificial/comments/1v4uar3/ai_regulation/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-23T23:25:03+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v4uar3/ai_regulation/\"> <img alt=\"AI Regulation\" src=\"https://external-preview.redd.it/3j5D4YNOs8Di3AGx-h0gsl3gM9UrT28K5sVp1lihvnw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6538bf3bc269a7c79c3baf4f6d799183385ea431\" title=\"AI Regulation\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HooverInstitution\"> /u/HooverInstitution </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artifici",
+    "title_zh": "AI监管讨论",
+    "summary_zh": "Reddit社区关于AI监管的讨论，内容涉及AI技术发展带来的监管挑战与政策讨论。",
+    "key_points": [
+      "Reddit社区讨论AI监管挑战与政策方向"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0642f9c2ab0f5b03552b7984cb03407a",
+    "title": "美政府宣布向人工智能科学研究领域拨款50亿美元",
+    "url": "https://36kr.com/newsflashes/3908373362529673?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-23T23:21:51+00:00",
+    "content_snippet": "美国白宫科技政策办公室主任迈克尔·克拉齐奥斯22日宣布，美多个联邦机构已承诺向由能源部统筹的“创世纪使命”（Genesis Mission）倡议拨款超50亿美元，旨在利用人工智能（AI）技术加速基础科学研究。分析指出，此举标志着美行政当局正加速重塑联邦科研资金分配模式，进一步将资助重点向人工智能赋能项目及独立研究人员倾斜。（新浪财经）",
+    "title_zh": "美政府宣布向人工智能科学研究领域拨款50亿美元",
+    "summary_zh": "美国白宫宣布多个联邦机构承诺向“创世纪使命”倡议拨款超50亿美元，利用AI加速基础科学研究，标志联邦科研资金向AI赋能项目倾斜。",
+    "key_points": [
+      "美国承诺拨款超50亿美元用于AI驱动的基础科学研究",
+      "此举旨在重塑联邦科研资金分配，向AI项目倾斜"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3364df1c0f8075766d3339f94d78ea85",
+    "title": "工信部：“开源”被首次提升到APEC部长级合作层面",
+    "url": "https://36kr.com/newsflashes/3908370765206662?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-23T23:17:10+00:00",
+    "content_snippet": "2026年亚太经合组织（APEC）数字和人工智能部长会议新闻发布会在成都召开。工业和信息化部部长李乐成介绍了本次会议相关成果。一是推进普遍且有意义的数字连接。二是促进数字和人工智能技术赋能经济增长。三是提升数字素养与技能。五是构建投资和开源赋能的数字生态。本次部长会议首次将“开源”提升到APEC部长级合作层面加以强调，在承认尊重知识产权重要性的同时，鼓励各经济体支持开源实践，积极参与人工智能国际开源社区协作。（澎湃）",
+    "title_zh": "工信部：“开源”被首次提升到APEC部长级合作层面",
+    "summary_zh": "工信部宣布，APEC数字和人工智能部长会议首次将“开源”提升至部长级合作层面，鼓励各经济体支持开源实践，参与AI国际开源社区协作。",
+    "key_points": [
+      "APEC会议首次将开源提升至部长级合作层面",
+      "鼓励各经济体支持开源实践与AI社区协作"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
