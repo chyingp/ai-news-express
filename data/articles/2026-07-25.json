@@ -387,5 +387,124 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b5bb73034fbed0d0e2d01b522b06ce3f",
+    "title": "Wrangling with Explosive AI Growth – Combatting Catastrophism",
+    "url": "https://www.reddit.com/r/artificial/comments/1v5n5wf/wrangling_with_explosive_ai_growth_combatting/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-24T20:33:10+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v5n5wf/wrangling_with_explosive_ai_growth_combatting/\"> <img alt=\"Wrangling with Explosive AI Growth – Combatting Catastrophism\" src=\"https://external-preview.redd.it/vEzBR_OPOaw5AKS-dIJ2qzPQDqNoN93oDvFeBNlr0pY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=233c8528736599426ce820b3e2012e5cf6d2f0e0\" title=\"Wrangling with Explosive AI Growth – Combatting Catastrophism\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"htt",
+    "title_zh": "应对AI爆炸式增长——对抗灾难主义",
+    "summary_zh": "文章探讨了人工智能飞速发展引发的担忧，批评了灾难主义观点，认为应通过理性监管和关注实际风险来应对，而非陷入恐慌或过度炒作。",
+    "key_points": [
+      "人工智能的爆炸式增长引发了广泛的社会担忧和灾难主义论调",
+      "文章主张通过理性监管和实际风险评估来应对，而非恐慌"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "72a0d37aabefb698d5f921a8eb805328",
+    "title": "The AI spending debate seems to have changed this week.",
+    "url": "https://www.reddit.com/r/artificial/comments/1v5mt72/the_ai_spending_debate_seems_to_have_changed_this/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-24T20:20:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Google just signaled even larger AI infrastructure spending this year.</p> <p>From a technology perspective, that's a huge vote of confidence in continued AI development.</p> <p>But investors barely celebrated it—instead they focused on whether all that spending will actually pay off.</p> <p>Do you think we're reaching the point where the debate is no longer <strong>&quot;Will companies invest in AI?&quot;</strong> but <strong>&quot;Which companies will actually",
+    "title_zh": "谷歌加大AI基础设施投入，AI支出辩论本周转向",
+    "summary_zh": "谷歌宣布加大今年AI基础设施支出，从技术角度体现了对AI发展的信心，但投资者更关注巨额投入能否带来相应回报，引发了关于AI支出效率的辩论。",
+    "key_points": [
+      "谷歌宣布今年将加大AI基础设施支出，显示对AI发展的信心",
+      "投资者对巨额AI支出的回报率表示担忧，引发行业辩论"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8140ebb61a506e582cba8b22b5883030",
+    "title": "Built a tool that datacenter cooling layouts optimiser",
+    "url": "https://www.reddit.com/r/artificial/comments/1v5mewy/built_a_tool_that_datacenter_cooling_layouts/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-24T20:05:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI's eating power and heat is the part nobody's actually simulating, everyone forgets about that so. I have built a data center cooling layout optimizer that runs Open FOAM solves on a datacenter layout and optimizes CRAC placement against it. </p> <p>Still limited to small sized facilities on real hardware, not thousands of racks overnight. Would need a large computer for that. Any other way of optimizing it? What do you think? </p> <p>Repo: <a href=\"https://gi",
+    "title_zh": "开发者构建数据中心冷却布局优化工具",
+    "summary_zh": "一位开发者利用OpenFOAM求解器构建了一个工具，用于模拟数据中心冷却场景并优化CRAC设备布局，以应对AI带来的高功耗和散热挑战。",
+    "key_points": [
+      "开发者利用OpenFOAM构建了数据中心冷却布局优化工具",
+      "该工具旨在解决AI带来的高功耗和散热模拟问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a2b23a9d283abcf4664927bd064ef1ca",
+    "title": "the diffusion versus autoregressive debate finally has a clean data point, and it points to a much narrower claim than the hype",
+    "url": "https://www.reddit.com/r/artificial/comments/1v5lhsw/the_diffusion_versus_autoregressive_debate/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-24T19:32:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For about a year the diffusion versus autoregressive argument has mostly run on vibes. One camp says next token prediction is a dead end and parallel denoising is the future, the other says diffusion never survives contact with real tasks. Almost nobody was putting the two side by side on the same evals from the same lab.</p> <p>The lab behind it just did exactly that, with a model they pushed out only hours ago, and the honest part is what they compared against",
+    "title_zh": "扩散模型与自回归模型之争出现清晰数据点，结果远不如炒作宣称",
+    "summary_zh": "针对扩散模型与自回归模型孰优孰劣的争论，现在有了一个清晰的数据点。结果表明，扩散模型的优势远不如之前炒作中宣称的那么广泛，其声称的优势范围更窄。",
+    "key_points": [
+      "关于扩散模型与自回归模型的争论有了一个清晰的数据对比",
+      "数据显示扩散模型的优势范围比此前炒作宣称的要窄得多"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d908f6e799f0cbf43e4aa4084ca34402",
+    "title": "Pinned: people are still just scratching the surface of how chatgpt work can be used. we want AI to empower people to live better lives, and believe agentic capabilities will be a core part of how it'll happen.",
+    "url": "https://nitter.net/gdb/status/2080736094157488201#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-24T19:25:17+00:00",
+    "content_snippet": "<p>people are still just scratching the surface of how chatgpt work can be used. we want AI to empower people to live better lives, and believe agentic capabilities will be a core part of how it'll happen.</p>\n<hr />\n<blockquote>\n<b>pash (@pashmerepat)</b>\n<p>\n<p>A billion users can now create and publish websites from their phones with ChatGPT Work. <br />\n<br />\nBut most people don’t really grasp the full extent of the capabilities here. From your phone, you also have access to:<br />\n<br />\n-",
+    "title_zh": "Sam Altman：人们仍处于ChatGPT工作方式的初级阶段，AI智能体将赋能美好生活",
+    "summary_zh": "OpenAI联合创始人Greg Brockman表示，人们对于ChatGPT在工作中的应用还停留在表面，公司的目标是让AI赋能人们过上更好的生活，并认为智能体能力将是实现这一目标的核心。",
+    "key_points": [
+      "OpenAI联合创始人认为人们尚未充分挖掘ChatGPT的工作潜力",
+      "公司强调AI智能体能力将是赋能人类更好生活的核心"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
