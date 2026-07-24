@@ -1192,5 +1192,105 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "45010ae55317cc587823414110bec53a",
+    "title": "Excited to welcome Jacob Tsimerman to the team!",
+    "url": "https://nitter.net/gdb/status/2080494474287780286#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-24T03:25:11+00:00",
+    "content_snippet": "<p>Excited to welcome Jacob Tsimerman to the team!</p>\n<hr />\n<blockquote>\n<b>Kai Williams @ ICM (world biggest math conference) (@chi_t_williams)</b>\n<p>\n<p>Jacob Tsimerman, who won a fields medal, perhaps math's most prestigious prize, just announced at a press conference that he is \"pivoting toward AI safety\" and will be going to OpenAI soon</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/chi_t_williams/status/2080339331139424727#m\">https://nitter.net/chi_t_williams/status/208033933113",
+    "title_zh": "菲尔兹奖得主Jacob Tsimerman宣布加入OpenAI",
+    "summary_zh": "OpenAI总裁Greg Brockman在社交媒体上欢迎菲尔兹奖得主、数学家Jacob Tsimerman加入团队，Tsimerman此前在数学界最高规格会议上宣布将转向AI领域。",
+    "key_points": [
+      "菲尔兹奖得主Jacob Tsimerman宣布转向AI领域",
+      "OpenAI总裁Greg Brockman确认其加入团队",
+      "此举体现顶尖数学人才向AI行业流动的趋势"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "519fdbd4410e7ae8200c9f6e4d0cfce0",
+    "title": "Meta在最新120亿美元数据中心融资中面临更高借贷成本",
+    "url": "https://36kr.com/newsflashes/3909072299234696?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-24T03:13:58+00:00",
+    "content_snippet": "据报道，债券投资者正寻求在最新一笔120亿美元Meta支持的数据中心交易中获得显著更高的收益率，与九个月前达成的条款相比，市场已将人工智能融资的更高风险计入价格。据知情人士透露，位于德克萨斯州埃尔帕索、容量近1吉瓦的数据中心项目，正计划通过贝莱德旗下特殊目的公司发行债券，初步讨论中收益率超过7%。上述人士补充称，价格讨论仍处于早期阶段，最早可能于下周一正式启动交易时发生变化。（新浪财经）",
+    "title_zh": "Meta在最新120亿美元数据中心融资中面临更高借贷成本",
+    "summary_zh": "Meta支持的在德克萨斯州埃尔帕索的数据中心项目正寻求120亿美元融资，债券投资者要求超过7%的更高收益率，反映出市场对AI基础设施融资风险的重新定价。",
+    "key_points": [
+      "Meta支持的数据中心项目寻求120亿美元融资",
+      "债券投资者要求收益率超过7%，高于九个月前条款",
+      "市场开始对AI基础设施融资计入更高风险溢价"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "58591dd8e206fbb3300f00b516138e1d",
+    "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
+    "url": "https://36kr.com/p/3909033052722310?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-24T02:37:12+00:00",
+    "content_snippet": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260724/v2_a0337e21c3484b939472cf87ffcfe860@6381723_oswg1386357oswg1124oswg576_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\" /></p>\n  <p>7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海落下帷幕。黄浦江畔，热浪与人潮一起涌动。本届大会以“智能伙伴，共创未来”为主题，在世博、张江、西岸三地四馆展开。作为年度人工智能产业观察窗口，WAIC 2026留下的关键信号，不在于展陈规模本身，而在于AI叙事的重心变化：技术展示正在退居幕后，真实场景、系统交付与商业价值被推到台前。</p>\n  <p>这也是36氪“氪话未来”连续第三年走进WAIC现场。过去三年，AI产业经历了从模型竞速到应用试炼的转向。参数、榜单和Demo曾经定义行业热度；到今年，更多企业开始回答一个",
+    "title_zh": "36氪深度逛展WAIC，解读2026全行业AI最真实走向",
+    "summary_zh": "36氪在2026世界人工智能大会期间深入探访，全面梳理各行业AI应用趋势，从端侧到产业应用展现AI落地的真实进展与未来方向。",
+    "key_points": [
+      "2026世界人工智能大会在上海举办",
+      "36氪全面梳理各行业AI应用真实落地趋势",
+      "从端侧到产业应用展现AI发展方向"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "109be22f0321de163c53513e71c6f902",
+    "title": "爱奇艺发布创作者平台品牌和六大服务体系",
+    "url": "https://36kr.com/newsflashes/3909012732466304?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-24T02:13:22+00:00",
+    "content_snippet": "36氪获悉，7月23日，爱奇艺举办创作者生态工坊专场活动，正式发布创作者平台品牌——“+你，更快乐”，同步上线爱奇艺创作者平台入口“Q+”，并推出六大服务体系，全面赋能AIGC创作者。目前，“Q+”已全面覆盖爱奇艺App、网页版及爱奇艺号，为创作者入驻平台、开展内容创作、对接生态资源、实现商业变现提供一站式服务。",
+    "title_zh": "爱奇艺发布创作者平台品牌和六大服务体系",
+    "summary_zh": "爱奇艺推出创作者平台品牌'+你，更快乐'，上线一站式入口'Q+'，并发布六大服务体系，全面赋能AIGC创作者，覆盖从入驻到商业变现的全流程。",
+    "key_points": [
+      "爱奇艺发布创作者平台品牌和一站式入口'Q+'",
+      "推出六大服务体系赋能AIGC创作者",
+      "平台覆盖入驻、创作、资源对接和商业变现全流程"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
