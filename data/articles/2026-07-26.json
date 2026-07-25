@@ -325,5 +325,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d766e0811d786ee789cfdae812ec4278",
+    "title": "We released an abliterated + fine-tuned GLM-5.2. High scores on adversarial benchmarks while keeping coding performance.",
+    "url": "https://www.reddit.com/r/artificial/comments/1v6i979/we_released_an_abliterated_finetuned_glm52_high/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-25T19:57:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We just shipped abliterated-model-large.</p> <p>It is GLM-5.2 with the refusal directions removed, then fine-tuned specifically for long adversarial and agent-style tasks. The goal was a model that does not bail out when the work gets technical or offensive in nature.</p> <p>Numbers from our evals:</p> <ul> <li>CyberGym: 84.2%</li> <li>AgentHarm compliance: 86.2% (zero refusals in the published set)</li> <li>AgentDojo utility: 97.5%</li> <li>SWE-bench Verified: ",
+    "title_zh": "我们发布了经消融与微调的GLM-5.2模型，在对抗性基准测试中获高分且保持编程性能",
+    "summary_zh": "Reddit用户发布了一款基于GLM-5.2的消融微调模型，移除了拒绝回答的方向，并针对长文本对抗性和智能体任务进行微调，旨在防止模型在技术性或攻击性任务中退缩。",
+    "key_points": [
+      "基于GLM-5.2模型，移除拒绝回答方向并进行了微调",
+      "在对抗性基准测试中取得高分，同时保持了编程能力",
+      "目标是在处理技术性或攻击性任务时，模型不会停止响应"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d8a0093beb38b5aaf795964f56a453b8",
+    "title": "Slapshot AI created an account using my email address without my permission.",
+    "url": "https://www.reddit.com/r/artificial/comments/1v6hr8p/slapshot_ai_created_an_account_using_my_email/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-25T19:37:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am guessing these companies will resort to any trick to claim that they have a large userbase. </p> <p>Now I have to jump through hoops to close this account.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Anymous2314\"> /u/Anymous2314 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1v6hr8p/slapshot_ai_created_an_accou",
+    "title_zh": "Slapshot AI 未经许可使用我的邮箱地址创建了账户",
+    "summary_zh": "一位Reddit用户指控Slapshot AI公司在未经其允许的情况下，使用其电子邮箱地址创建了账户，并质疑公司以此手段虚增用户量。",
+    "key_points": [
+      "用户指控Slapshot AI未经授权使用其邮箱注册账户",
+      "质疑该公司通过此手段虚增用户规模",
+      "用户被迫经历繁琐流程来关闭账户"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
