@@ -847,5 +847,57 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "939930c4987ea6769cc7f6064646cd96",
+    "title": "Opus 5's effort dial is not monotonic. Above \"high\", coding scores go down, and Anthropic's own migration guide says so.",
+    "url": "https://www.reddit.com/r/artificial/comments/1v60pga/opus_5s_effort_dial_is_not_monotonic_above_high/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-25T06:43:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Opus 5 comes with five effort settings: low, medium, high, xhigh, max. Most people seem to be reaching straight for max, and at least on coding work that looks like the wrong move.</p> <p>On FrontierCode, scores fall above the high setting. The stated reason is that the model starts making unnecessary refactors and edits outside the scope it was given. Anthropic's own migration guide in the system card warns about diminishing returns and overthinking on simpler ",
+    "title_zh": "Opus 5的效能调节并非越高越好：编码得分在高档位后不升反降",
+    "summary_zh": "Anthropic的Opus 5模型提供五档效能设置，但用户发现编码任务在“高”档以上得分反而下降，Anthropic的迁移指南也证实了这一点。",
+    "key_points": [
+      "Opus 5在编码任务上，效能设置超过“高”档后得分会下降",
+      "多数用户直接选择最高档位可能是错误做法",
+      "该现象被Anthropic官方迁移指南所证实"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a72f236e03cfdd326392eab4292d753f",
+    "title": "SK集团与英伟达通过一项涵盖人工智能工厂和下一代内存的5000亿美元以上战略合作项目",
+    "url": "https://36kr.com/newsflashes/3910690882507907?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-25T06:40:29+00:00",
+    "content_snippet": "英伟达宣布，SK集团与英伟达在AI工厂及下一代内存领域扩大战略合作。SK集团与英伟达今日宣布计划建立一项超过5000亿美元的综合合作伙伴关系，以建立满足全球计算需求激增的人工智能基础设施。双方签署了意向书，正式化协议，涵盖从人工智能工厂建设到人工智能内存供应。SK电信将建设2吉瓦的NVIDIA Vera Rubin DSX AI工厂，以满足全球计算需求。英伟达与SK海力士建立长期合作关系，共同保障并共同开发包括HBM在内的下一代AI内存。两家公司将共同开发和优化下一代AI内存解决方案，包括HBM，以满足从大型语言模型训练到代理AI和物理AI等不断变化的基础设施需求。（财联社）",
+    "title_zh": "SK集团与英伟达达成超5000亿美元AI基础设施与内存战略合作",
+    "summary_zh": "SK集团与英伟达宣布建立超5000亿美元的综合合作伙伴关系，共建AI工厂并合作开发下一代AI内存，以满足全球激增的计算需求。",
+    "key_points": [
+      "双方签署超5000亿美元意向书，合作涵盖AI工厂建设与内存供应",
+      "SK电信将建设2吉瓦的NVIDIA Vera Rubin AI工厂",
+      "英伟达与SK海力士将共同开发HBM等下一代AI内存"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
