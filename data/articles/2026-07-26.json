@@ -421,5 +421,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "62dba7f71d983b6791535cea0249d242",
+    "title": "Need Arxiv endorsement for CS.LG to publish a preprint about Learning Stable Latent Manifolds from noisy sensor data /Observation space [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v6m081/need_arxiv_endorsement_for_cslg_to_publish_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-25T22:31:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>I just submitted this paper to EAAI and want to submit a pre print to arxiv for visibility. Ill be happy to share the preprint with any potential endorsers.</p> <p>This is a machine learning study about how noisy sensors can still be used for auto regression adjacent tasks through latent manifolds under certain conditions. The paper includes an algorithm, Boundedness guarantees and empirical validation on nasa cmapss data.</p> <p>my endorsement code i",
+    "title_zh": "寻求Arxiv CS.LG领域背书以发布关于从噪声传感器数据学习稳定潜在流形的预印本",
+    "summary_zh": "一位研究者向Reddit社区求助，寻求获得Arxiv计算机科学学习（CS.LG）领域的背书，以便发布一篇关于从噪声传感器数据中学习稳定潜在流形的预印本论文，该论文已投稿至EAAI会议。",
+    "key_points": [
+      "作者需要Arxiv CS.LG背书以发布预印本",
+      "论文主题为从噪声传感器数据学习稳定潜在流形",
+      "该论文已投稿至EAAI会议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
