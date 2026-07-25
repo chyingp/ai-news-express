@@ -232,5 +232,98 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d00d9b09b2312a2a3a02c9a277a4c896",
+    "title": "Why good AI agents still produce bad system outputs",
+    "url": "https://www.reddit.com/r/artificial/comments/1v6gz8o/why_good_ai_agents_still_produce_bad_system/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-25T19:07:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>One thing I've learned from building multi agent AI systems is that the biggest problems rarely come from the model itself.</p> <p>Most pipelines fail during the handoff between agents.</p> <p>You can have a research agent, an analysis agent, and a reporting agent that all perform well on their own. Their individual outputs look great. But once they start passing data to each other, small inconsistencies begin to appear.</p> <p>Maybe the research agent returns a",
+    "title_zh": "为何优秀的AI智能体仍会产生糟糕的系统输出",
+    "summary_zh": "文章探讨了多智能体AI系统失败的主因并非模型本身，而是智能体之间的交接环节。作者指出，即使单个智能体表现良好，管道流程中的交接问题也会导致最终系统输出质量低下。",
+    "key_points": [
+      "多智能体AI系统失败主因在于智能体间的交接过程",
+      "单个模型性能良好不等于系统整体输出可靠",
+      "管道架构设计对系统稳定性至关重要"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "781b667a7570418eead62a7226397fcf",
+    "title": "Paper lengths, and reasonable assumptions in ML conferences. [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v6gh43/paper_lengths_and_reasonable_assumptions_in_ml/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-25T18:48:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've usually been commenting on threads on conference reviews. I'm now expressing my observations here.</p> <p>To the best of my knowledge, paper lengths have been held constant at many conferences, and some conferences have &quot;unlimited appendices&quot; (e.g. NeurIPS / ICML / AAAI / ....) Historically, this was probably due to cost of printing for proceedings, but now, I suspect it's also to prevent reviewer fatigue.</p> <p>However, I wonder if this unfairly",
+    "title_zh": "机器学习会议中的论文长度与合理假设讨论",
+    "summary_zh": "文章讨论了机器学习会议论文长度的现状，指出许多会议论文长度保持不变，但部分会议引入了无限制的附录政策。作者分享了对同行评审中论文长度和假设合理性的观察与看法。",
+    "key_points": [
+      "ML会议论文长度保持不变，但附录政策存在差异",
+      "作者分享了对会议评审中论文长度和假设的观察"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ad7ab8f5a5c54f605be13b692272f75e",
+    "title": "Learning ai",
+    "url": "https://www.reddit.com/r/artificial/comments/1v6fxlf/learning_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-25T18:27:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Everytime i hear people saying that you should learn about ai because that's the future but idk where to start and what they mean by that. Do they mean going uni and study ai or self learn? Thanks in advance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/West-King-9612\"> /u/West-King-9612 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/ar",
+    "title_zh": "如何开始学习AI？",
+    "summary_zh": "一位用户询问学习AI的起点，迷茫于他人常说的“学习AI是未来趋势”具体指什么，以及应该通过大学教育还是自学途径来掌握AI知识与技能。",
+    "key_points": [
+      "用户对学习AI的具体路径和起点感到困惑",
+      "寻求大学教育或自学的建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "180115831080abe6bcf60c4c815ca085",
+    "title": "Partnership with AI Guide updated to v9",
+    "url": "https://www.reddit.com/r/artificial/comments/1v6f9w7/partnership_with_ai_guide_updated_to_v9/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-25T18:02:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><em>Same link as before: <a href=\"https://drive.google.com/file/d/16wpM34WpsYd05XLp3ua4gHTgzWspS3R2/view?usp=sharing\">link</a></em></p> <p>This one's a bigger jump than usual, so a few highlights instead of just &quot;updated&quot;:</p> <ul> <li><strong>Core findings now scale-validated from 7B all the way to 72B parameters.</strong> The effects don't shrink as models get bigger — they grow, sometimes by an order of magnitude. Still one model family (Qwen) thoug",
+    "title_zh": "AI伴侣指南更新至v9版本",
+    "summary_zh": "发布者更新了AI伴侣指南至第9版，并强调了核心发现。此次更新幅度较大，提供了链接供用户下载查阅，内容涉及AI伴侣相关指导。",
+    "key_points": [
+      "AI伴侣指南发布重大更新至v9版本",
+      "新版指南包含核心发现等亮点内容"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
