@@ -373,5 +373,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "303665676c19213f060e26549056d053",
+    "title": "Pinned: we are seeing the leading edge of a renaissance of scientific, medical, and mathematical discovery — thus an acceleration of the single most consistent force for increased standard of living across human history.",
+    "url": "https://nitter.net/gdb/status/2081126711786418660#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-25T21:17:28+00:00",
+    "content_snippet": "<p>we are seeing the leading edge of a renaissance of scientific, medical, and mathematical discovery — thus an acceleration of the single most consistent force for increased standard of living across human history.</p>\n<hr />\n<blockquote>\n<b>Przemek Chojecki | PC (@prz_chojecki)</b>\n<p>\n<p>Conjecture that every complex topological vector bundle on CP^n is algebraic is false.<br />\n<br />\nGPT-5.6 Pro found me an example on CP^5 that is not only non-algebraizable, but also with no motivic lift. <",
+    "title_zh": "我们正见证科学发现复兴的前沿",
+    "summary_zh": "OpenAI总裁Greg Brockman表示，当前正处于科学、医学和数学发现复兴的前沿，这将加速人类生活水平提升的最持续驱动力。",
+    "key_points": [
+      "Greg Brockman认为科学发现正加速复兴",
+      "这将推动人类生活水平持续提升"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a4385e1512cb06c4513d2feec8a07e9a",
+    "title": "There's Always Another Apocalypse- Why Catrastrophism Is a Continuation of a Long Trend",
+    "url": "https://www.reddit.com/r/artificial/comments/1v6jwgp/theres_always_another_apocalypse_why/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-25T21:03:41+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v6jwgp/theres_always_another_apocalypse_why/\"> <img alt=\"There's Always Another Apocalypse- Why Catrastrophism Is a Continuation of a Long Trend\" src=\"https://external-preview.redd.it/MCBqQSbKGbAjrMCDlyhSizQmv_n9WAai_eLV1IWEkT0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=523eacc84b53fc9083aba7255f1d0d46a49c95f7\" title=\"There's Always Another Apocalypse- Why Catrastrophism Is a Continuation of a Long Trend\" /> </a> </td",
+    "title_zh": "总有另一个末日：为什么灾难主义是长期趋势的延续",
+    "summary_zh": "Reddit上一篇文章探讨了灾难主义思潮，认为对AI等技术末日的恐惧并非新鲜事，而是历史上长期存在的悲观预测趋势的延续。",
+    "key_points": [
+      "文章认为AI末日论是历史悲观主义趋势的延续",
+      "探讨技术恐惧与灾难主义文化的连续性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
