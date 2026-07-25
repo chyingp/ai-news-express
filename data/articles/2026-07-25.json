@@ -899,5 +899,76 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6f5be7dfd132e8d75c2b4d808c21cac4",
+    "title": "Is the AI job apocalypse real or just a marketing thing?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v64fw6/is_the_ai_job_apocalypse_real_or_just_a_marketing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-25T10:13:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>From the data I've seen AI has yet to actually affect employment statistics. I could be wrong of course, but is the whole idea of AI is going to wipe out jobs for normal people just a marketing thing to emphasize the capability of the latest AI models? Or is it a genuine threat that is just yet to materialize?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TangoENG\"> /u/TangoENG </a> &#32; to &#32; <a href=\"https://www.red",
+    "title_zh": "AI导致就业末日是真的还是营销噱头？",
+    "summary_zh": "文章探讨AI是否真正影响了就业统计数据，质疑当前关于AI大规模取代人类工作岗位的说法是否只是夸大其词的市场营销手段。",
+    "key_points": [
+      "目前AI尚未显著影响就业统计数据",
+      "质疑AI取代工作的说法可能只是营销"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2a5fa957b5fd1cbad206f5f33f61de07",
+    "title": "ChatGPT Work for using websites which require login:",
+    "url": "https://nitter.net/gdb/status/2080939030062178512#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-25T08:51:41+00:00",
+    "content_snippet": "<p>ChatGPT Work for using websites which require login:</p>\n<hr />\n<blockquote>\n<b>OpenAI Developers (@OpenAIDevs)</b>\n<p>\n<p>Your ChatGPT Work agent can now use websites that require you to sign in.<br />\n<br />\nTake over the cloud browser to log in, then let your agent continue the task. Your login persists across sessions, so you only have to sign in once.</p>\n<a href=\"https://nitter.net/OpenAIDevs/status/2080707685448847418#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_vid",
+    "title_zh": "ChatGPT Work现已支持登录网站操作",
+    "summary_zh": "OpenAI宣布ChatGPT Work代理现在可以操控浏览器登录需要认证的网站，用户接管登录后，代理可继续执行任务，扩展了自动化能力。",
+    "key_points": [
+      "ChatGPT Work代理支持操控浏览器登录网站",
+      "用户接管登录认证后代理可继续自动化任务"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "191df65114f283235453469c891ce474",
+    "title": "How much of what you generate, actually makes it out of the door?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v62ww6/how_much_of_what_you_generate_actually_makes_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-25T08:47:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I did something slightly depressing on sunday. i went through my last month of ai outputs, all of it, drafts and images and scripts and little snippets, and counted how many actually got used somewhere real. published, sent, shipped, shown to a client. the number was eleven. out of roughly three hundred and forty. i sat there for a while trying to work out whether that was bad.</p> <p>my first reaction was that i was wasting the tool. three hundred and thirty de",
+    "title_zh": "你生成的内容有多少真正被采用？",
+    "summary_zh": "一位Reddit用户回顾了过去一个月AI生成的大量输出，发现其中只有极少数最终被实际使用，引发对AI产出效率的反思。",
+    "key_points": [
+      "用户回顾AI生成内容发现实际使用率极低",
+      "引发对AI产出与实际应用落差的思考"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
