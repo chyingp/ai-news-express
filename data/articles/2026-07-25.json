@@ -748,5 +748,104 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8bb9f68342140a252c4a8feedbb36fbb",
+    "title": "Pets make building fun",
+    "url": "https://nitter.net/gdb/status/2080874519091151227#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-25T04:35:20+00:00",
+    "content_snippet": "<p>Pets make building fun</p>\n<hr />\n<blockquote>\n<b>OpenAI Developers (@OpenAIDevs)</b>\n<p>\n<p>Your Pet is ready to meet other builders.<br />\n<br />\nOn ChatGPT web, create a shareable link for your custom pet and send it to a friend to adopt.</p>\n<a href=\"https://nitter.net/OpenAIDevs/status/2080747505474736162#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/media%2FHOBNCFZbEAAQHIt.jpg\" />\n</a>\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/OpenAIDevs/status/2080747505474736162#m",
+    "title_zh": "OpenAI 推出宠物定制功能，可分享链接给其他用户领养",
+    "summary_zh": "OpenAI 宣布 ChatGPT 网页版用户可以创建自定义宠物并生成分享链接，让其他开发者或朋友领养，增加了构建的趣味性。",
+    "key_points": [
+      "ChatGPT 网页版新增创建可分享的自定义宠物功能",
+      "用户可将宠物链接发送给朋友进行领养"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "01f32f3872c0bc20af440402175d0b67",
+    "title": "stories like this should be told more",
+    "url": "https://nitter.net/gdb/status/2080861203010568232#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-25T03:42:25+00:00",
+    "content_snippet": "<p>stories like this should be told more</p>\n<hr />\n<blockquote>\n<b>Polymarket (@Polymarket)</b>\n<p>\n<p>JUST IN: ChatGPT surfaces a crucial mutation in a woman’s old biopsy records, helping doctors determine her terminal glioblastoma diagnosis was incorrect.</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/Polymarket/status/2080759839513280770#m\">https://nitter.net/Polymarket/status/2080759839513280770#m</a>\n</footer>\n</blockquote>",
+    "title_zh": "ChatGPT 帮助医生发现活检记录突变，纠正胶质母细胞瘤误诊",
+    "summary_zh": "据报道，ChatGPT 在一名女性的旧活检记录中发现了关键突变，帮助医生确定其晚期胶质母细胞瘤的诊断是错误的，引发关注。",
+    "key_points": [
+      "ChatGPT 发现活检记录中的关键突变",
+      "AI 协助医生纠正了绝症误诊案例"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9438e382af6447ca483e71584e61d63a",
+    "title": "You shall not pass... the Turing test? You have my sword, my bow, and my training data",
+    "url": "https://www.reddit.com/r/artificial/comments/1v5wcy5/you_shall_not_pass_the_turing_test_you_have_my/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-25T03:02:33+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v5wcy5/you_shall_not_pass_the_turing_test_you_have_my/\"> <img alt=\"You shall not pass... the Turing test? You have my sword, my bow, and my training data\" src=\"https://preview.redd.it/os4einh6kafh1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=fd62f07d5db84fbe1ae8e5fa9a6e6cb1b9d7645f\" title=\"You shall not pass... the Turing test? You have my sword, my bow, and my training data\" /> </a> </td><td> &#32; submitted by &#32; <",
+    "title_zh": "你不能通过图灵测试？我有我的剑、弓和训练数据",
+    "summary_zh": "Reddit 上关于图灵测试的讨论帖，标题戏谑地结合了《指环王》台词和 AI 训练数据概念，推测为社区对 AI 通过图灵测试的幽默探讨。",
+    "key_points": [
+      "Reddit 社区围绕图灵测试与 AI 训练数据的幽默讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "edb64ff165abd79978e4e1c78ddbb069",
+    "title": "穆迪警告AI投资狂潮冲击科技巨头财务稳健性 微软、甲骨文等公司自由现金流承压",
+    "url": "https://36kr.com/newsflashes/3910433082545536?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-25T03:00:00+00:00",
+    "content_snippet": "随着全球科技巨头竞相加码人工智能基础设施建设，穆迪评级警告称，AI投资热潮正侵蚀大型云计算服务商的自由现金流，并推高资产负债表风险，未来投资者将更加关注这些企业能否从巨额AI投入中获得足够回报。穆迪在本周发布的研究报告中表示，包括微软(MSFT.US)、亚马逊(AMZN.US)、谷歌母公司Alphabet(GOOGL.US)、Meta(META.US)、甲骨文(ORCL.US)及CoreWeave(CRWV.US)在内的六家科技企业，正从过去依赖软件、知识产权和云服务的“轻资产”商业模式，转向需要大规模建设数据中心等基础设施的“重资产”模式。（财联社）",
+    "title_zh": "穆迪警告AI投资狂潮冲击科技巨头财务稳健性 微软、甲骨文等公司自由现金流承压",
+    "summary_zh": "穆迪评级警告，AI 基础设施投资热潮正侵蚀微软、亚马逊等科技巨头的自由现金流，推高杠杆率，商业模式从轻资产转向重资产，未来需关注投资回报。",
+    "key_points": [
+      "穆迪警告 AI 投资热正侵蚀科技巨头自由现金流",
+      "微软、亚马逊等六家公司从轻资产转向重资产模式",
+      "投资者未来将更关注巨额 AI 投入的回报率"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "microsoft",
+      "amazon",
+      "google",
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
