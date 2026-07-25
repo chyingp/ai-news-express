@@ -619,5 +619,108 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "373d236094db44375dcc40378a658bf5",
+    "title": "报道称英伟达与SK集团共同推出价值超过5000亿美元的AI计划",
+    "url": "https://36kr.com/newsflashes/3910374290707844?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-25T01:24:14+00:00",
+    "content_snippet": "据报道，英伟达表示，将协助海力士设计未来的高带宽内存芯片，此举将有助于确保内存供应。英伟达还表示，与SK集团合作的“人工智能计划”总价值将超过5000亿美元。黄仁勋在采访中表示，这个数字包括英伟达购买内存芯片的资金，以及SK集团购买英伟达超级计算机的资金。SK电讯计划使用英伟达Vera Rubin芯片和SK海力士HBM4内存构建2吉瓦AI数据中心。这大约相当于150万户家庭的用电量。（财联社）",
+    "title_zh": "报道称英伟达与SK集团共同推出价值超过5000亿美元的AI计划",
+    "summary_zh": "英伟达与SK集团达成超5000亿美元AI合作计划，涵盖英伟达购买海力士HBM内存芯片及SK集团采购英伟达超级计算机等双方互购行为，并计划共同建设大型AI数据中心。",
+    "key_points": [
+      "英伟达与SK集团AI合作总价值超5000亿美元",
+      "英伟达将协助SK海力士设计下一代HBM内存芯片",
+      "双方计划使用Vera Rubin芯片和HBM4内存建设2吉瓦数据中心"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "088322f546d3502b3abf2f016bcd6fa3",
+    "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+    "url": "https://36kr.com/p/3910351337821318?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-25T00:57:52+00:00",
+    "content_snippet": "<h2>今日热点导览</h2>\n  <ul>\n   <li>小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患</li>\n   <li>微信撤回消息后可删除提示字</li>\n   <li>怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权</li>\n   <li>菲尔兹奖得主雅各布·齐默曼将加入OpenAI</li>\n   <li>欧盟对谷歌处以8.9亿欧元罚款</li>\n  </ul>\n  <h2>TOP3大新闻</h2>\n  <p><strong>宇树科技CEO王兴兴登上《时代》杂志封面</strong></p>\n  <p>当地时间7月23日，宇树科技创始人兼CEO王兴兴与其载人机甲产品GD01共同登上《时代》杂志封面，标题为《机器人时代来临》。</p>\n  <p>据悉，距上次中国企业家登上该刊物封面，已过去整整8年。</p>\n  <p>《时代》杂志评价王兴兴是“AI时代一位非典型的预言者”，“他身材瘦削，戴着眼镜，完全没有许多科技创始人身上那种张扬的傲气。相反，他在谈论机器人技术时，带着一种安静而坚定的信念”。（澎湃新闻）</p>\n  <p class=\"image-wrapp",
+    "title_zh": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+    "summary_zh": "汇集多条科技新闻：宇树科技CEO王兴兴登上《时代》封面；国家反诈中心App新增AI生成痕迹检测功能；Anthropic正式发布Claude Opus 5模型；另有菲尔兹奖得主加盟OpenAI等动态。",
+    "key_points": [
+      "宇树科技CEO王兴兴登上《时代》杂志封面",
+      "Anthropic正式发布Claude Opus 5大模型",
+      "国家反诈中心App新增一键检测AI生成痕迹功能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0c2e3422c7023700c1b2129f9f12384b",
+    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-25T00:23:11+00:00",
+    "content_snippet": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+    "title_zh": "我体验了OpenAI的新款AI键盘，它对部分程序员很有趣，但对其他人可能有点神秘",
+    "summary_zh": "TechCrunch记者体验了OpenAI新推出的AI键盘产品，认为该设备对程序员群体有较大吸引力，但普通用户可能难以理解和使用。",
+    "key_points": [
+      "OpenAI发布新款AI键盘硬件产品",
+      "该产品对程序员友好，但普通用户可能难以适应"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a40aa93cf811d0efd0c236e3ae1eefad",
+    "title": "Stay hungry, stay foolish. Absolute legend",
+    "url": "https://nitter.net/DrJimFan/status/2080798306566045756#m",
+    "source": "Jim Fan (X)",
+    "source_zh": "Jim Fan",
+    "source_type": "nitter",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-07-24T23:32:30+00:00",
+    "content_snippet": "<p>Stay hungry, stay foolish. Absolute legend</p>\n<img src=\"https://nitter.net/pic/media%2FHOB7CAhbMAAKNIo.jpg\" />\n\n<hr />\n<blockquote>\n<b>Jensen Huang (@JensenHuang)</b>\n<p>\n<p>For my first post, I’m sharing a letter <a href=\"https://nitter.net/NVIDIA\" title=\"NVIDIA\">@NVIDIA</a> signed on why open models matter.<br />\n<br />\nAI will transform every industry, power every company, and be built by every country.<br />\n<br />\nOpen models strengthen safety and cybersecurity, accelerate innovation an",
+    "title_zh": "Stay hungry, stay foolish. 绝对传奇",
+    "summary_zh": "英伟达CEO黄仁勋在社交媒体发布首条帖子，分享一封关于开放创新的签名信，引发AI社区广泛关注和致敬。",
+    "key_points": [
+      "黄仁勋发布个人首条社交媒体帖子",
+      "内容涉及英伟达对开放创新的承诺"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
