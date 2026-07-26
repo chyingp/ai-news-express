@@ -171,5 +171,129 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "216b0412425af10445635febc0d77146",
+    "title": "Making sense of the panic over Chinese AI",
+    "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-26T19:40:57+00:00",
+    "content_snippet": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+    "title_zh": "解读中国AI引发的恐慌",
+    "summary_zh": "TechCrunch的Equity节目讨论了月之暗面AI的Kimi为何让硅谷和华尔街感到恐慌，分析了市场对中国AI进展的反应。",
+    "key_points": [
+      "月之暗面的Kimi引发了硅谷和华尔街的恐慌情绪",
+      "市场对中国AI技术快速进步的反应存在争议",
+      "节目探讨了恐慌背后的深层原因和影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "moonshot"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7d92fbb01adcf222b7e99a63beff3b04",
+    "title": "Could this be the reason why some people see large coding productivity improvement, while others almost nothing?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v7dqkv/could_this_be_the_reason_why_some_people_see/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-26T19:36:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In my recent academic article (<a href=\"https://link.springer.com/content/pdf/10.1007/s44427-025-00019-y.pdf\">https://link.springer.com/content/pdf/10.1007/s44427-025-00019-y.pdf</a>) I analyzed a divide in how open-source software projects evolve, which might explain the difference in productivity boosts developers experience when using AI tools.</p> <p>The data shows that productivity on large, mature open-source projects was not significantly affected by any ",
+    "title_zh": "为何有些人编码效率大增，而有些人几乎无感？",
+    "summary_zh": "一篇Reddit帖文引用了学术文章，分析了开源软件项目演进中的分水岭现象，这可能解释了为何不同开发者在利用AI编码时生产力提升存在巨大差异。",
+    "key_points": [
+      "学术研究分析了开源软件项目演进的分水岭",
+      "该现象可能解释AI编码生产力提升的个体差异",
+      "文章提供了对AI辅助开发效果的深入洞察"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "239d4574cfc376db3c7e00675f6cefc1",
+    "title": "ChatGPT is increasingly becoming your personal AGI",
+    "url": "https://nitter.net/gdb/status/2081458174662726009#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-26T19:14:35+00:00",
+    "content_snippet": "<p>ChatGPT is increasingly becoming your personal AGI</p>\n<hr />\n<blockquote>\n<b>Tibo (@thsottiaux)</b>\n<p>\n<p>Let ChatGPT *work* for you. How many time have you wanted to negotiate your internet bill, get rid of all those spam emails you’re subscribed to, or find the perfect deal for something you wanted to do or buy. It’s quite literally just one prompt away, all from the comfort of your phone. It does at least 20 things for me every single day and I’m still surprised.</p>\n\n</p>\n<footer>\n— <ci",
+    "title_zh": "ChatGPT正日益成为你的个人AGI",
+    "summary_zh": "OpenAI联合创始人Greg Brockman在X上转发并表示，ChatGPT正在演变为个人通用人工智能，能够自动处理如协商账单、退订垃圾邮件等繁杂事务。",
+    "key_points": [
+      "Greg Brockman称ChatGPT正成为个人AGI",
+      "ChatGPT能自动执行协商账单等实际任务",
+      "展示了ChatGPT向通用人工智能助手演进的趋势"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e1422825190e926b20b8aa4bcb122991",
+    "title": "30+ officially free AI/ML books, all in one curated repo",
+    "url": "https://www.reddit.com/r/artificial/comments/1v7d1lx/30_officially_free_aiml_books_all_in_one_curated/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-26T19:10:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v7d1lx/30_officially_free_aiml_books_all_in_one_curated/\"> <img alt=\"30+ officially free AI/ML books, all in one curated repo\" src=\"https://preview.redd.it/2kjn4rc2imfh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a798ef9476084c5bc8c1867de92086aad6b6f03\" title=\"30+ officially free AI/ML books, all in one curated repo\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I kept running into the same problem, some of the ",
+    "title_zh": "30+本官方免费AI/ML书籍，尽在一个精选代码库",
+    "summary_zh": "一位Reddit用户分享了一个整理好的GitHub代码库，其中收录了超过30本由官方提供的免费人工智能和机器学习书籍，供学习者和从业者免费获取。",
+    "key_points": [
+      "代码库收录了30多本官方免费AI/ML书籍",
+      "资源经过精心整理，方便学习者一站式获取",
+      "内容涵盖人工智能与机器学习的各个领域"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f2e319e0c9bb5e98edd86558ac9109de",
+    "title": "I built Korroresearch: an AI that writes academic papers, then checks every single claim against 8 verification engines",
+    "url": "https://www.reddit.com/r/artificial/comments/1v7bkun/i_built_korroresearch_an_ai_that_writes_academic/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-26T18:17:01+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v7bkun/i_built_korroresearch_an_ai_that_writes_academic/\"> <img alt=\"I built Korroresearch: an AI that writes academic papers, then checks every single claim against 8 verification engines\" src=\"https://preview.redd.it/4sixxwsg8mfh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4c1b26d26e2d4c8d676a6fb42c0e98d8e0a1b5b\" title=\"I built Korroresearch: an AI that writes academic papers, then checks every single claim against ",
+    "title_zh": "我构建了Korroresearch：一个能撰写学术论文并验证每个声明的AI",
+    "summary_zh": "一位开发者介绍了其构建的AI工具Korroresearch，该工具能自动撰写学术论文，并利用8个验证引擎对论文中的每个声明进行事实核查。",
+    "key_points": [
+      "AI工具可自动撰写学术论文",
+      "集成8个验证引擎核查每个声明的真实性",
+      "该工具旨在提高学术写作的严谨性和可靠性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
