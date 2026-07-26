@@ -1032,5 +1032,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bd889344540d9d31d8e688ba29ffa7b9",
+    "title": "Speak up! \"Have your say on advancing AI transparency in Canada.\" The Government of Canada is asking citizens, tech workers, and creators to shape upcoming AI regulations, safety rules, and ethics laws. Every response matters. Take 10 minutes to fill out the official ISED survey today!",
+    "url": "https://www.reddit.com/r/artificial/comments/1v72zbu/speak_up_have_your_say_on_advancing_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-26T12:47:50+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WorldTravelerBoss\"> /u/WorldTravelerBoss </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://ised-isde.canada.ca/site/ised/en/have-your-say-advancing-ai-transparency-canada\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1v72zbu/speak_up_have_your_say_on_advancing_ai/\">[comments]</a></span>",
+    "title_zh": "发声！加拿大政府就推进AI透明度征求公众意见",
+    "summary_zh": "加拿大政府发起公众咨询，邀请公民、科技工作者和创作者参与制定即将出台的AI法规、安全规则和伦理法律，民众可通过ISED官方调查发表意见。",
+    "key_points": [
+      "加拿大政府就AI透明度、安全和伦理法规征求公众意见",
+      "目标受众包括公民、科技工作者和内容创作者",
+      "通过官方ISED调查问卷收集反馈，耗时约10分钟"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a94eb0dfde02777fcbf5dfd032495405",
+    "title": "Open-weight 4B models approach o3-level medical question answering in Swedish [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-26T11:58:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have been running some experiments with smaller open-weight LLMs on multiple-choice questions of Swedish medical licensing exams. On a dataset called MedQA-SWE, GPT-4 scored 84% accuracy in 2024 and o3 scored 88% in 2025 on a smaller, overlapping dataset.</p> <p>With post-training (SFT) on data from earlier years, I got MedGemma-1.5-4B to a passing score of 60% on the final year’s exam. Find the implementation here: <a href=\"https://github.com/tarolangner/medq",
+    "title_zh": "开源权重的4B模型在瑞典语医疗问答中接近o3水平",
+    "summary_zh": "研究人员使用小型开源大语言模型测试瑞典医学执照考试题目，模型在MedQA-SWE数据集上的表现接近GPT-4和o3的准确率，展示了小模型在专业医疗领域的潜力。",
+    "key_points": [
+      "小型开源4B参数模型处理瑞典语医学执照考试选择题",
+      "模型在MedQA-SWE数据集上的准确率接近GPT-4的84%和o3的88%",
+      "证明小模型在特定非英语医疗问答领域具有高性价比优势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
