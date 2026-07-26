@@ -627,5 +627,28 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6c947f48327315b1fe916163f79471be",
+    "title": "Understanding GPU Inference Workloads [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v6sjiu/understanding_gpu_inference_workloads_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-26T03:37:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I have been looking into how people source compute for their Inference workloads (and in general). I wanted to understand some specific pain points here.</p> <p>If you've used online services like runpod or <a href=\"http://vast.ai/\">vast.ai</a>, your perspective is extremely valuable. Please share your experience in the comments here or by DMing me. I've also made a 2 minute survey form that I would really appreciate if you could fill out. D",
+    "title_zh": "理解 GPU 推理工作负载",
+    "summary_zh": "一篇 Reddit 讨论帖，发起者正在调研人们如何为推理工作负载获取算力，希望了解使用 runpod 或 vast.ai 等在线服务时的具体痛点。",
+    "key_points": [
+      "发起者调研获取推理算力的常见方式",
+      "希望了解使用 runpod、vast.ai 等服务的具体痛点"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
