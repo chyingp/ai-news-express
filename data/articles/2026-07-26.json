@@ -817,5 +817,148 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6ca793a5182f9892d4d4212f04522e9a",
+    "title": "The Hugging Face breach exposed two kinds of intelligence",
+    "url": "https://www.reddit.com/r/artificial/comments/1v6y4sh/the_hugging_face_breach_exposed_two_kinds_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-26T08:38:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone. I’ve long been fascinated by both philosophy of technology and AI alignment. I’m also using Heidegger quite a bit for my philosophy PhD. Given the recent OpenAI–Hugging Face incident reported this week, I figured I’d give my take on how all of this connects in my mind.</p> <p>I think we use “intelligence” for two capacities that can come apart: finding effective routes to a target, and understanding what the target is for. The agent showed plenty o",
+    "title_zh": "Hugging Face 数据泄露事件揭示了两种智能",
+    "summary_zh": "作者从技术哲学与AI对齐角度，分析近期Hugging Face与OpenAI相关的安全事件，探讨其对人工智能发展路径的深层启示。",
+    "key_points": [
+      "从哲学角度剖析Hugging Face安全事件",
+      "探讨事件对AI对齐与智能本质的启示"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "54c6c329834f028dcaa5bfe881dec10b",
+    "title": "亿田智能：子公司拟不超20亿元采购服务器及配套设备，为客户提供算力服务",
+    "url": "https://36kr.com/newsflashes/3912181723518084?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-26T07:57:02+00:00",
+    "content_snippet": "7月26日，亿田智能公告称，公司全资子公司甘肃亿算拟向多家供应商采购服务器及配套设备，采购合同总金额预计不超过20亿元。本次采购主要用于为客户提供算力服务，不构成重大资产重组或关联交易。通过此次采购，公司能够加速构建自身的AI算力资源。亿田智能同时提示，公司算力业务尚处于业务拓展初期，公司主营业务仍为集成灶等厨房电器相关业务，整体经营基本面未发生变化。（财联社）",
+    "title_zh": "亿田智能子公司拟斥资不超20亿元采购服务器，进军AI算力服务",
+    "summary_zh": "亿田智能公告称，全资子公司甘肃亿算计划投入不超过20亿元采购服务器，用于为客户提供AI算力服务，加速构建算力资源，但公司主营业务仍为厨电。",
+    "key_points": [
+      "子公司拟不超20亿元采购服务器及配套设备",
+      "采购旨在为客户提供算力服务，加速AI资源布局",
+      "公司提示算力业务尚处初期，主营业务未变"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2712d55624f3bafd364d516d1b65bcc7",
+    "title": "GPT-Live for a different reading experience:",
+    "url": "https://nitter.net/gdb/status/2081285058485534856#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-26T07:46:41+00:00",
+    "content_snippet": "<p>GPT-Live for a different reading experience:</p>\n<hr />\n<blockquote>\n<b>José Ocampo (@kurorosage)</b>\n<p>\n<p>Reading a book while having GPT-Live open to talk to, ask questions, write down notes and bookmarks really feels like reading in 4D</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/kurorosage/status/2081031402854699173#m\">https://nitter.net/kurorosage/status/2081031402854699173#m</a>\n</footer>\n</blockquote>",
+    "title_zh": "GPT-Live 带来全新的阅读体验",
+    "summary_zh": "Greg Brockman 转发推文，展示使用 GPT-Live 边读书边交流、提问和做笔记的体验，称其像在四维空间阅读。",
+    "key_points": [
+      "GPT-Live支持用户边阅读边与AI实时对话",
+      "实现提问、笔记和书签等互动功能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6bd7973ea844519e1c86ef8ac648341b",
+    "title": "We compared different LLMs on IMO 2026 [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v6wskz/we_compared_different_llms_on_imo_2026_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-26T07:21:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There are a few reasons why problems from International Mathematical Olympiad function as a good benchmark for LLMs:</p> <p>- The problems are new, not included in the training data of any model</p> <p>- Hard math problems are quite a good proxy for general intelligence capability</p> <p>- These are complex multi-step tasks that can benefit from orchestration / harness engineering</p> <p>Results:</p> <p>Frontier models (sol and fable) were able to get perfect / ",
+    "title_zh": "不同大语言模型在2026年国际数学奥赛上的表现对比",
+    "summary_zh": "一项研究对比了多个大语言模型在2026年IMO试题上的表现，认为IMO新题可作为衡量模型通用智能的有效基准。",
+    "key_points": [
+      "IMO试题因新颖性成为评估LLM通用智能的良好基准",
+      "研究对比了多个模型在2026年IMO上的表现"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bb39468cd238592b3ada986ce4d82b97",
+    "title": "Have you noticed that AI is trying to be more \"funny/human\"?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v6wqet/have_you_noticed_that_ai_is_trying_to_be_more/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-26T07:18:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It's odd, they've seemed to all be gravitating towards being more lively. (kinda cringe sometimes tho...)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Shorm56\"> /u/Shorm56 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1v6wqet/have_you_noticed_that_ai_is_trying_to_be_more/\">[link]</a></span> &#32; <span><a href=\"http",
+    "title_zh": "你是否注意到AI正试图变得更“有趣/像人”？",
+    "summary_zh": "Reddit用户讨论近期AI对话风格的变化，认为各大模型正趋向于表现得更加生动幽默，尽管有时略显尴尬。",
+    "key_points": [
+      "用户观察到AI模型对话风格变得更具人性化",
+      "AI尝试增加幽默感，但有时显得刻意"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6cd1039873fcc43c9f63f57c0fd43c33",
+    "title": "I am having two LLMs 1v1 with pistols",
+    "url": "https://www.reddit.com/r/artificial/comments/1v6wij6/i_am_having_two_llms_1v1_with_pistols/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-26T07:06:20+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v6wij6/i_am_having_two_llms_1v1_with_pistols/\"> <img alt=\"I am having two LLMs 1v1 with pistols\" src=\"https://preview.redd.it/mifipzpmwifh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=81a7e8d5e08465045aa63cc07c4554880cbe2a33\" title=\"I am having two LLMs 1v1 with pistols\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>You can check it out at <a href=\"https://arena.kinoinstrument.com\">https://arena.kinoinstrument.com",
+    "title_zh": "我让两个大语言模型用手枪进行1对1对决",
+    "summary_zh": "Reddit用户分享趣味实验，让两个大语言模型模拟持枪对决的互动场景，引发社区讨论。",
+    "key_points": [
+      "用户进行LLM模拟手枪对决的趣味实验",
+      "展示AI在角色扮演和互动场景中的表现"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
