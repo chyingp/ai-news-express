@@ -1080,5 +1080,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "98263df8122fa37374ef829801d91a66",
+    "title": "Any example of code that AI cannot tackle?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v75qg8/any_example_of_code_that_ai_cannot_tackle/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-26T14:40:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Is there anything impossible with AI? Have you found a limit to it? I read that even the hardest coding interviews at Anthropic could be solved with their own AI.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/tui-cli-master\"> /u/tui-cli-master </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1v75qg8/any_example_of_code_",
+    "title_zh": "AI 也无法解决的代码案例探讨",
+    "summary_zh": "Reddit 用户讨论当前 AI 在编程领域是否存在能力上限，提及连最难的技术面试题都能被 AI 解决，但社区仍在寻找 AI 无法处理的代码示例。",
+    "key_points": [
+      "用户质疑 AI 编程是否存在绝对极限",
+      "提及 AI 能通过 Anthropic 的高难度面试"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "95f1d2471fe58e6aed2baa19ba21fb54",
+    "title": "I want to use AI coding agents for machine learning projects [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v758ek/i_want_to_use_ai_coding_agents_for_machine/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-26T14:21:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm a software engineer who mainly builds softwaes/applications, and I'm starting to work on machine learning projects.</p> <p>Since ML workloads often require GPUs, I know services like Google Colab and Kaggle exist. but, I'm looking for something a bit different.</p> <p>Is there a platform where I can use AI coding agents (such as Codex, Claude Code, or OpenCode) while running the actual ML code on a cloud GPU?</p> <p>Ideally, I'd like to:</p> <ul> <li>Work lo",
+    "title_zh": "如何将 AI 编程代理应用于机器学习项目",
+    "summary_zh": "一位软件工程师发帖询问如何利用 AI 编码代理来辅助机器学习项目开发，寻求超越 Google Colab 等传统 GPU 服务的差异化工具方案。",
+    "key_points": [
+      "软件工程师寻求 AI 编程代理辅助 ML 开发",
+      "希望寻找替代 Google Colab 的差异化方案"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "32337542efa20fa7f460e164fd27ee3c",
+    "title": "Does anyone know what AI was used to create this?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v744za/does_anyone_know_what_ai_was_used_to_create_this/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-26T13:37:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I work with Ai everyday in marketing and I’m trying to get into engineering type Ai. </p> <p>Any idea what AI was used to make this? Or what AI can do this exactly? Ty in advance &lt;3</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/efxshun\"> /u/efxshun </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.instagram.com/reel/DbQImQOPzVc/?igsh=MXR6ZzRqajZoZXdi",
+    "title_zh": "求解：这个作品是用什么 AI 生成的？",
+    "summary_zh": "一名营销从业者转向 AI 工程领域，在 Reddit 发帖询问某作品的具体生成工具，并寻求能实现同等效果的 AI 技术方案。",
+    "key_points": [
+      "营销人员转型寻求 AI 工程化工具",
+      "发帖询问特定作品的生成技术来源"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "27c23270872051850a851e13d0fec71a",
+    "title": "Some guy named Sebastian is asking Claude AI how to become the nine-tailed fox from a leaked chat",
+    "url": "https://www.reddit.com/r/artificial/comments/1v73vy5/some_guy_named_sebastian_is_asking_claude_ai_how/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-26T13:26:48+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v73vy5/some_guy_named_sebastian_is_asking_claude_ai_how/\"> <img alt=\"Some guy named Sebastian is asking Claude AI how to become the nine-tailed fox from a leaked chat\" src=\"https://preview.redd.it/e9e0370rskfh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8fab79dbd951d16601a5f04a2882e1d17ae3c15\" title=\"Some guy named Sebastian is asking Claude AI how to become the nine-tailed fox from a leaked chat\" /> </a> </td><td> <",
+    "title_zh": "泄露聊天记录显示 Sebastian 向 Claude AI 询问如何变九尾狐",
+    "summary_zh": "一则泄露的聊天记录显示，用户 Sebastian 向 Claude AI 询问变身九尾狐的方法，引发 Reddit 网友对 AI 使用场景的猎奇讨论。",
+    "key_points": [
+      "用户向 Claude AI 询问奇幻变身问题",
+      "泄露聊天记录引发社区猎奇讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
