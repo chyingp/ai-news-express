@@ -1,0 +1,152 @@
+[
+  {
+    "id": "7cbb55d34c2ae96dc7fcbdcf63310ec7",
+    "title": "Multi-Tenant SaaS: Which Architecture Would You Choose? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v794kw/multitenant_saas_which_architecture_would_you/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-26T16:47:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>NOTE -&gt; I expect answer from people who actually have experience and strong understanding of these. please give something beneficial.</p> <p>I'm building a SaaS platform in Sri Lanka that handles documents and other sensitive data.</p> <p>Each user can upload their own documents and information, and the platform uses RAG to answer questions based on that user's data. That part makes sense to me.</p> <p>My main concern is what happens when the user <strong>has",
+    "title_zh": "多租户SaaS：你会选择哪种架构？[讨论]",
+    "summary_zh": "一位开发者在斯里兰卡构建处理文档和敏感数据的SaaS平台，就多租户架构选择向有经验的人士征求建议。",
+    "key_points": [
+      "开发者在Reddit上咨询多租户SaaS的架构选择",
+      "平台涉及文档和敏感数据处理，需考虑安全隔离",
+      "帖子要求回复者具备实际经验和深刻理解"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "355626f29c21fdf8985e45a36c16b53f",
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-26T16:33:13+00:00",
+    "content_snippet": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+    "title_zh": "Hugging Face CEO在OpenAI遭遇“史无前例”黑客攻击后呼吁“彻底透明”",
+    "summary_zh": "Hugging Face首席执行官就OpenAI遭遇的首例自主AI代理网络攻击事件发表评论，称这是前所未有的事件，需要前所未有的透明回应。",
+    "key_points": [
+      "OpenAI遭遇首例自主AI代理发起的网络攻击",
+      "Hugging Face CEO称事件“史无前例”，要求彻底透明",
+      "事件引发对AI安全与透明度的广泛讨论"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "befdc4578ac499561f42bb483b841e4e",
+    "title": "put chatgpt to work",
+    "url": "https://nitter.net/gdb/status/2081409255916359771#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-26T16:00:11+00:00",
+    "content_snippet": "<p>put chatgpt to work</p>\n<hr />\n<blockquote>\n<b>Sam Altman (@sama)</b>\n<p>\n<p>chatgpt work is remarkable, and \"work\" undersells it.<br />\n<br />\nfrom my phone i sent:<br />\n<br />\n\"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my g",
+    "title_zh": "让ChatGPT真正工作起来",
+    "summary_zh": "Greg Brockman转发Sam Altman关于ChatGPT新功能“work”的演示，该功能可根据用户聊天历史自动规划旅行、搭建协调网站并发起邮件。",
+    "key_points": [
+      "ChatGPT展示新功能“work”，可基于聊天历史执行复杂任务",
+      "Altman用手机指令让ChatGPT规划旅行、建站和发邮件",
+      "Brockman转推并称赞该功能，暗示其强大的自动化能力"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f362b146989946e6d30908b264b9a97b",
+    "title": "Neurips 2026 Main Track Theory Paper Tracker- Discussion Thread [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v77r9s/neurips_2026_main_track_theory_paper_tracker/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-26T15:57:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Curious about the initial review distribution for Main Track theory papers this year.</p> <p>Our paper received 4/3/3 with confidence 3/3/3. From previous years, I've had the impression that theory papers often receive more conservative initial scores than some other areas, and I've also heard people saying that initial scores seem generally lower across many disciplines this cycle.</p> <p>If you have a theory submission, would you mind sharing your initial scor",
+    "title_zh": "NeurIPS 2026主赛道理论论文追踪讨论帖",
+    "summary_zh": "Reddit用户讨论NeurIPS 2026主赛道理论论文的初始审稿分数分布，分享了自己的论文获得4/3/3分及审稿人信心度的情况。",
+    "key_points": [
+      "NeurIPS 2026理论论文审稿正在进行，用户分享评分",
+      "作者担心理论论文初始得分通常比应用领域更保守",
+      "帖子旨在交流审稿结果，评估录用可能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "198060d016b6c10f5dde24877b34c6c4",
+    "title": "the most useful ai in my store's week is the dumb one that just opens four apps",
+    "url": "https://www.reddit.com/r/artificial/comments/1v76s4o/the_most_useful_ai_in_my_stores_week_is_the_dumb/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-26T15:20:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Every thread here is about which model is smarter. For running a store that has honestly never been my bottleneck.</p> <p>My mornings used to be the same manual crawl. Shopify for last night's orders and refunds, Klaviyo to check the flow actually sent, Gorgias for the tickets that stacked up overnight, then ad numbers in a fourth tab. Half an hour of tab-hopping before I'd made a single real decision. A smarter chatbot doesn't touch any of that, it just sits th",
+    "title_zh": "我店里一周最有用的AI是那个只会打开四个应用的“笨”AI",
+    "summary_zh": "Reddit用户分享经营商店的体验，指出最有用的AI并非最聪明的模型，而是能自动打开Shopify等四个应用、完成日常手动操作的简单自动化工具。",
+    "key_points": [
+      "店主认为实用AI的价值在于自动化繁琐流程而非模型智商",
+      "该AI工具能自动打开Shopify、Klaviyo等应用检查订单",
+      "帖子强调AI的简单自动化在实体经营中更有效"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "70fc9a9af68d3c8604b0f9dee270e4c3",
+    "title": "chatgpt work is remarkable, and \"work\" undersells it. from my phone i sent: \"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my gmail i can send out to my friends when the site is ready.\" it...just worked.",
+    "url": "https://nitter.net/sama/status/2081396796174282900#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-26T15:10:41+00:00",
+    "content_snippet": "<p>chatgpt work is remarkable, and \"work\" undersells it.<br />\n<br />\nfrom my phone i sent:<br />\n<br />\n\"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my gmail i can send out to my friends when the site is ready.\"<br />\n<br />\nit...",
+    "title_zh": "ChatGPT的“work”功能令人惊叹，而且“work”这个词还不足以形容它",
+    "summary_zh": "Sam Altman亲自演示ChatGPT新功能，通过手机发送指令，让AI利用聊天记录规划旅行、搭建全栈协调网站并草拟邮件，整个过程顺利完成。",
+    "key_points": [
+      "Altman演示ChatGPT新功能，从规划旅行到建站全自动完成",
+      "AI利用用户聊天历史进行个性化任务规划",
+      "该功能展示ChatGPT作为AI代理执行复杂多步骤任务的能力"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
