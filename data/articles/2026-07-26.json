@@ -960,5 +960,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "45c4702cb79975e64c2ab1135fb242a7",
+    "title": "Help Me Get This Paper Into the Right Hands: Sophia, a Recursive Cognitive Refinement Architecture for Modular Artificial Consciousness",
+    "url": "https://www.reddit.com/r/artificial/comments/1v710az/help_me_get_this_paper_into_the_right_hands/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-26T11:14:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><blockquote> <p>I wrote a paper proposing a cognitive architecture called <strong>Sophia</strong>, based on a principle I call <strong>Recursive Cognitive Refinement (RCR)</strong>. </p> <p>The main idea is simple: instead of treating intelligence as a single pass from input to output, Sophia introduces a reflective sublayer that recursively refines intermediate semantic states through coherence checking, contextual synthesis, and memory-aware reinterpretation. </p",
+    "title_zh": "帮我把这篇论文送到对的人手中：Sophia，一种面向模块化人工意识的递归认知精炼架构",
+    "summary_zh": "一位研究者发布了一篇提出名为Sophia的认知架构论文，其核心是递归认知精炼（RCR）原理，试图将智能视为循环迭代过程，并寻求业内反馈与传播。",
+    "key_points": [
+      "提出Sophia认知架构和递归认知精炼（RCR）原理",
+      "试图将智能建模为循环迭代而非单次推理过程",
+      "作者在Reddit寻求社区帮助传播论文"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5de7a88e1d593f7251e8ac435660999e",
+    "title": "AI security is falling behind—Hugging Face breach highlights the problem",
+    "url": "https://www.reddit.com/r/artificial/comments/1v70ov9/ai_security_is_falling_behindhugging_face_breach/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-26T10:58:28+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v70ov9/ai_security_is_falling_behindhugging_face_breach/\"> <img alt=\"AI security is falling behind—Hugging Face breach highlights the problem\" src=\"https://preview.redd.it/5axwpu752kfh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0b4234c709c4d147b1ad7297802b17711eaa670e\" title=\"AI security is falling behind—Hugging Face breach highlights the problem\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://w",
+    "title_zh": "AI安全落后于人，Hugging Face数据泄露事件敲响警钟",
+    "summary_zh": "Hugging Face平台发生数据泄露事件，凸显了人工智能行业在安全管理方面的滞后问题，引发社区对AI基础设施安全性的广泛讨论。",
+    "key_points": [
+      "Hugging Face平台遭遇数据泄露安全事件",
+      "事件暴露AI行业在安全防护方面的滞后性",
+      "引发对AI基础设施安全性的关注与讨论"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aa37869be2ea871e3dafe4f696c19d99",
+    "title": "I ran a faceless AI persona account for six weeks to see if the view money was real",
+    "url": "https://www.reddit.com/r/artificial/comments/1v6ytlg/i_ran_a_faceless_ai_persona_account_for_six_weeks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-26T09:16:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I wanted to know if the &quot;passive income&quot; faceless accounts were actually passive, or if they were just a new shape of gig work with AI middleware. So I built one from scratch and tracked every hour.</p> <p>The premise was simple: a single consistent character, generic lifestyle advice, short video clips, posted daily. No face to show, no personality to perform, just the algorithmic grind. I started by generating the persona's face. I used APOB AI's fre",
+    "title_zh": "我运营了一个匿名AI虚拟网红账号六周，看看流量变现是否真实",
+    "summary_zh": "一名用户通过六周实验，亲自运营一个AI生成的匿名虚拟网红账号，验证所谓“被动收入”模式是否真实可行，并记录实际投入的时间成本。",
+    "key_points": [
+      "用户亲自实验运营AI虚拟网红账号六周",
+      "旨在验证AI“被动收入”是否实为新型零工经济",
+      "详细记录了时间投入与产出情况"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
