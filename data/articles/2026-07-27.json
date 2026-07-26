@@ -148,5 +148,28 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "99705ef86f17915c76bc0a91bfe6a5b6",
+    "title": "AI agents are starting to look less like software and more like employees",
+    "url": "https://www.reddit.com/r/artificial/comments/1v7ateo/ai_agents_are_starting_to_look_less_like_software/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-26T17:49:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The first thing people ask about an employee isn't how smart they are. It's whether they're reliable, accountable, and can work within a team. I think we're reaching the same point with AI agents. Models keep getting better, but organizations are beginning to care more about how agents behave in production than how they perform on benchmarks.</p> <p>That's why I think the conversation is shifting from agent intelligence to agent operations. Once an organization ",
+    "title_zh": "AI智能体开始更像员工而非软件",
+    "summary_zh": "文章指出，随着AI模型能力提升，企业关注点正从智能体的“聪明程度”转向其可靠性、问责制和团队协作能力，标志着AI智能体正从工具向类员工角色转变。",
+    "key_points": [
+      "企业评估AI智能体时，可靠性、问责制和团队协作能力正变得比模型智能更重要",
+      "AI智能体正从单纯的软件工具演变为类似人类员工的角色"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
