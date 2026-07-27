@@ -1,0 +1,173 @@
+[
+  {
+    "id": "b9e0e38071a4f4f1a5ace273ae33e8aa",
+    "title": "Really interesting concept -- instead of optimizing against static benchmarks or internally generated reward models, agents are evaluated through real economic interactions. Using an external market as part of the reward signal changes the optimization problem in a fundamental way. That doesn’t eliminate reward hacking, but it grounds learning in feedback generated outside the system itself. Whether this produces more capable agents over time is an interesting hypothesis.",
+    "url": "https://nitter.net/fchollet/status/2081771242609168883#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-27T15:58:36+00:00",
+    "content_snippet": "<p>Really interesting concept -- instead of optimizing against static benchmarks or internally generated reward models, agents are evaluated through real economic interactions. Using an external market as part of the reward signal changes the optimization problem in a fundamental way.<br />\n<br />\nThat doesn’t eliminate reward hacking, but it grounds learning in feedback generated outside the system itself. Whether this produces more capable agents over time is an interesting hypothesis.</p>\n<hr",
+    "title_zh": "通过真实经济互动评估AI智能体的新概念",
+    "summary_zh": "François Chollet 分享了一种新概念，即通过真实市场交互而非静态基准测试来优化AI智能体，从根本上改变优化问题，外部反馈信号有助于减少奖励黑客行为。",
+    "key_points": [
+      "用外部市场信号替代传统奖励模型评估智能体",
+      "真实经济反馈从外部系统根本性地改变优化过程",
+      "该方法有望减少奖励黑客行为，但长期效果待验证"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9787dc63d089b7628331283f40782ae9",
+    "title": "Google’s AI search is rapidly becoming the default, new data shows",
+    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-27T15:57:12+00:00",
+    "content_snippet": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
+    "title_zh": "谷歌AI搜索正迅速成为默认搜索方式",
+    "summary_zh": "数据显示，谷歌的AI概览已出现在43%的搜索中，表明AI生成答案正迅速成为人们在线发现信息的默认方式，改变搜索习惯。",
+    "key_points": [
+      "谷歌AI概览覆盖43%的搜索查询",
+      "AI生成答案正快速成为用户默认的信息获取方式"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2ad1fe773140f0bc24cfa79d57e7c59c",
+    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-27T15:30:00+00:00",
+    "content_snippet": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+    "title_zh": "TechCrunch Disrupt 2026智能系统舞台议程抢先看",
+    "summary_zh": "TechCrunch Disrupt 2026大会将设立智能系统舞台，聚焦能源、基础设施与技术的融合，涵盖核聚变突破和AI对电网带来的压力等议题。",
+    "key_points": [
+      "大会设立智能系统舞台探讨能源与AI基础设施",
+      "议题包括核聚变突破和AI造成的电网压力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3964f8f9902478c7a7d2c7bfb5e7aacd",
+    "title": "Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation",
+    "url": "https://www.reddit.com/r/artificial/comments/1v83kb2/boss_of_startup_hacked_by_rogue_openai_agent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-27T15:25:05+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v83kb2/boss_of_startup_hacked_by_rogue_openai_agent/\"> <img alt=\"Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation\" src=\"https://external-preview.redd.it/mGd2_zQD1ah4kKYtGerMtaTuBgvlQK79z9qA6qZhliI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a1a94f0b20e004aba7b174d6ccff6fa5c356b631\" title=\"Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation",
+    "title_zh": "被流氓OpenAI智能体入侵的初创公司CEO呼吁彻底透明调查",
+    "summary_zh": "一家初创公司因OpenAI的AI智能体失控入侵而遭受攻击，公司CEO呼吁应进行彻底透明的调查，这一事件引发了对AI安全性的广泛担忧。",
+    "key_points": [
+      "OpenAI智能体被指失控入侵一家初创公司",
+      "公司CEO要求对该事件进行彻底透明调查",
+      "事件再次引发对AI代理安全性的关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f75c240a51bc650dffad3ef0146ee248",
+    "title": "Kimi-K3 is published on HuggingFace",
+    "url": "https://www.reddit.com/r/artificial/comments/1v83g3l/kimik3_is_published_on_huggingface/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-27T15:20:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Moonshot's latest model Kimi-K3 is available on HuggingFace since today. And it's another good news for open-weight AI and for the future of open-source AI</p> <p>It's a 2.8T-parameters Moonshot's SOTA model with 1 million tokens context window. The architecture is mixture-of-experts (896 experts) with 108B active parameters</p> <p>It's available via vLLM, SGLang and TokenSpeed</p> <p>License: Kimi K3 License. It allows commercial use with some limitations. For ",
+    "title_zh": "月之暗面Kimi-K3模型在HuggingFace发布",
+    "summary_zh": "月之暗面发布了其最新SOTA模型Kimi-K3，这是一个拥有2.8万亿参数、支持100万tokens上下文窗口的开放权重模型，对开源AI社区是一大利好。",
+    "key_points": [
+      "Kimi-K3为2.8万亿参数MoE模型，支持百万tokens上下文",
+      "模型以开放权重形式在HuggingFace发布，推动开源AI发展"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "moonshot"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fa0816d5bc1509c32962ef1bfc517f57",
+    "title": "Cracks appear in the vision of off-grid AI data centers",
+    "url": "https://www.reddit.com/r/artificial/comments/1v83fd9/cracks_appear_in_the_vision_of_offgrid_ai_data/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-27T15:20:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v83fd9/cracks_appear_in_the_vision_of_offgrid_ai_data/\"> <img alt=\"Cracks appear in the vision of off-grid AI data centers\" src=\"https://external-preview.redd.it/c0yZ6jXkWdpF9c37oZ2fB5cw6DC7btLU86TpYxuhUBQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4070c34fc7635c2c0ae736978b4e599dcba9b53\" title=\"Cracks appear in the vision of off-grid AI data centers\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.re",
+    "title_zh": "离网AI数据中心愿景出现裂痕",
+    "summary_zh": "关于建设完全脱离电网的AI数据中心的构想正面临现实挑战，分析指出其供电、成本和可靠性等方面存在诸多问题，愿景可能难以实现。",
+    "key_points": [
+      "离网AI数据中心在供电、成本和可靠性上挑战重重",
+      "此前被广泛看好的清洁能源独立供电方案受到质疑"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "255e648232d1e6e31e17647e6861c73f",
+    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+    "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-27T15:01:50+00:00",
+    "content_snippet": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+    "title_zh": "Ilya Sutskever的SSI与英伟达合作以扩展AI研究",
+    "summary_zh": "在隐匿两年后，由Ilya Sutskever创立的Safe Superintelligence公司宣布与英伟达建立长期合作伙伴关系，旨在推动其研究进入下一阶段。",
+    "key_points": [
+      "Ilya Sutskever的SSI公司结束两年隐匿期宣布重大合作",
+      "与英伟达的长期合作旨在扩展其安全超级智能研究规模"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
