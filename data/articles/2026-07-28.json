@@ -690,5 +690,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "38bd4f82ae2902679722746a01f406f0",
+    "title": "Oops! Some AI-forward companies realize they need humans after all, and are re-hiring fired workers",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8ejm7/oops_some_aiforward_companies_realize_they_need/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-27T21:54:27+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v8ejm7/oops_some_aiforward_companies_realize_they_need/\"> <img alt=\"Oops! Some AI-forward companies realize they need humans after all, and are re-hiring fired workers\" src=\"https://preview.redd.it/bduckvszdufh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0321e792e6de15727c92d88a0c31d313a477cca\" title=\"Oops! Some AI-forward companies realize they need humans after all, and are re-hiring fired workers\" /> </a> </td><td>",
+    "title_zh": "AI公司回过头来重新雇佣人类员工，意识到人终究不可或缺",
+    "summary_zh": "一些曾以AI为先导、裁减人力的公司发现，过度依赖AI并不可行，正在重新雇佣此前被解雇的员工，承认在关键决策和复杂任务中人类仍具不可替代的价值。",
+    "key_points": [
+      "曾裁员推动AI自动化的公司开始重新雇佣人类员工",
+      "官方承认在复杂决策等场景中人类仍不可或缺",
+      "案例凸显在AI热潮中盲目替代人力带来的战略失误"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "10664f053292bc79539a1712d8cae413",
+    "title": "The Problem with Private Safety Stacks in Government AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8e0mc/the_problem_with_private_safety_stacks_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-27T21:34:26+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v8e0mc/the_problem_with_private_safety_stacks_in/\"> <img alt=\"The Problem with Private Safety Stacks in Government AI\" src=\"https://external-preview.redd.it/yU2WPOt2jjzmmSyEWR7qo1nO2pC9CqoCGJqbzAfkI8c.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e53132ef9728da3ec660286e80c9990e3e87d0e\" title=\"The Problem with Private Safety Stacks in Government AI\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.",
+    "title_zh": "政府AI中的私人安全层问题",
+    "summary_zh": "文章探讨了在政府AI应用中，依赖私有公司的安全防护层所引发的透明度、问责制及供应链风险，强调公共部门AI需要一个更开放、可审计的安全框架。",
+    "key_points": [
+      "政府AI使用私企安全层存在透明度和问责制隐患",
+      "私有安全层可能带来供应链攻击和厂商锁定等风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f1637c21f3807a90d27fda9911b5ee1b",
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-27T21:17:11+00:00",
+    "content_snippet": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+    "title_zh": "纳德拉：只信任单一AI模型的公司恐难生存",
+    "summary_zh": "微软CEO萨提亚·纳德拉表示，企业若没有自有模型或AI网关来隔离提示词和模型，将面临生存危机，强调了AI基础设施和模型多元化的重要性。",
+    "key_points": [
+      "纳德拉称依赖单一AI模型的公司可能无法生存",
+      "企业需建立自有模型或AI网关以隔离提示词与模型",
+      "核心在于构建灵活的AI基础设施，避免供应商锁定"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a8b3f3bed0fc7fd5aa2df68fd963c8c5",
+    "title": "Council 1.2: drop any AI's answer into a blind review by every other model you have",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8c34s/council_12_drop_any_ais_answer_into_a_blind/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-27T20:23:34+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v8c34s/council_12_drop_any_ais_answer_into_a_blind/\"> <img alt=\"Council 1.2: drop any AI's answer into a blind review by every other model you have\" src=\"https://external-preview.redd.it/3kKfSgZhyFHDXfnwek6E_4MbjnRjDoWITYH8i0QX_Aw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=309394244f6303953ae151433b4f7dfa9f5445c0\" title=\"Council 1.2: drop any AI's answer into a blind review by every other model you have\" /> </a> </td><",
+    "title_zh": "Council 1.2发布：让任何AI的回答接受其他所有模型的盲审",
+    "summary_zh": "开源工具Council发布1.2版本，允许用户将任意AI模型的回答提交给其他模型进行盲审比对，旨在提升AI输出的质量和可靠性。",
+    "key_points": [
+      "开源工具Council 1.2可让多个AI模型相互盲审回答",
+      "旨在通过交叉验证提升AI内容的准确性和可靠性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
