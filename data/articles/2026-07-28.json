@@ -421,5 +421,274 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f6ec309cb07391fabdcd34c285d0fca7",
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-27T20:19:42+00:00",
+    "content_snippet": "An untold number of Claude chats and Artifacts — the interactive mini apps and documents users can build inside Claude — were found publicly searchable on Google over the weekend, after Reddit users discovered that typing search operators like &#8220;site:claude.ai/share&#8221; into Google surfaced a long list of shared conversations. Some reportedly contained health records, private [&#8230;]",
+    "title_zh": "注意：你的Claude共享聊天和Artifacts可能已出现在谷歌搜索结果中",
+    "summary_zh": "用户发现Anthropic的AI助手Claude的共享聊天记录和Artifacts互动内容可被谷歌公开搜索到，引发了严重的隐私泄露担忧，目前尚不清楚受影响的具体数量和原因。",
+    "key_points": [
+      "Claude共享聊天记录被谷歌公开索引，暴露用户隐私",
+      "Reddit用户发现通过特定搜索指令可轻易找到这些内容",
+      "事件涉及AI对话内容及Artifacts互动文档的安全问题"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b38c998eb2ff48d2c7d62b24be607232",
+    "title": "A political compass for AI where anyone can add their stance",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8btd8/a_political_compass_for_ai_where_anyone_can_add/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-27T20:13:56+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v8btd8/a_political_compass_for_ai_where_anyone_can_add/\"> <img alt=\"A political compass for AI where anyone can add their stance\" src=\"https://external-preview.redd.it/VnLdzV_tROPsyf2qYdWXuRJ_npdSmLj627f8T6Uwtpw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f0dca9e21af199d756d9da5a5e7abf18af9de50\" title=\"A political compass for AI where anyone can add their stance\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"http",
+    "title_zh": "一个所有人都可参与添加立场的AI政治指南针",
+    "summary_zh": "Reddit上出现了一个众包式的AI政治立场图谱工具，允许任何人添加自己对AI治理、伦理等方面的立场，反映了社区对AI发展方向的多元化观点。",
+    "key_points": [
+      "Reddit用户创建了一个众包AI政治立场图谱",
+      "任何人可添加自己的AI治理和伦理立场",
+      "反映了社区对AI未来的多元化看法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e184751e1ab0d22e402e9a23ed7303b0",
+    "title": "wrong",
+    "url": "https://nitter.net/sama/status/2081832600591892712#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-27T20:02:25+00:00",
+    "content_snippet": "<p>wrong</p>\n<hr />\n<blockquote>\n<b>Can Vardar (@icanvardar)</b>\n<p>\n<p>i just realized gpt-5.6 sol is literally all i need. openai could stop shipping new models tomorrow and i'd be completely fine</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/icanvardar/status/2081707498919112925#m\">https://nitter.net/icanvardar/status/2081707498919112925#m</a>\n</footer>\n</blockquote>",
+    "title_zh": "Sam Altman回应网友：错了",
+    "summary_zh": "OpenAI首席执行官Sam Altman在X平台上回复了一位声称GPT-5.6已完全满足其需求的网友，简短地表示“错了”，暗示OpenAI仍有更多技术进步空间。",
+    "key_points": [
+      "Sam Altman否认现有模型已足够，暗示将持续迭代",
+      "是对网友称GPT-5.6已满足所有需求的回应"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8c73aab2ff94bcd37c6bb5c971034465",
+    "title": "Help for my doctoral research needed",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8afzz/help_for_my_doctoral_research_needed/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-27T19:25:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>Dear leaders of Europe: I need 10 minutes of your time — and an honest answer to a question nobody has published a good answer to yet.</strong></p> <p>Does generative AI make your decisions better — or does it quietly make you less of a decision-maker?</p> <p>I don't know the answer. Neither does anyone else who's written about this so far. That's the gap my PhD research is designed to close, and it's why I'm reaching out to 400 leaders across Europe.</p",
+    "title_zh": "博士研究求助：生成式AI是提升还是削弱决策能力？",
+    "summary_zh": "一位研究者在Reddit上向欧洲领导者征集意见，为其博士论文探讨生成式AI到底是在提升决策质量，还是让领导者变得更少亲力亲为地决策。",
+    "key_points": [
+      "博士研究探讨生成式AI对决策能力的真实影响",
+      "面向欧洲领导者征集10分钟问卷反馈"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8796041ac44a27f52b99a29fe9910fe3",
+    "title": "The world's best mathematician won his prize this week and immediately announced he's leaving academia for OpenAI. That landed differently than I expected.",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8aeto/the_worlds_best_mathematician_won_his_prize_this/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-27T19:24:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been thinking about this one all weekend and I keep coming back to the same thing.</p> <p>Jacob Tsimerman just won the Fields Medal. If you're not familiar, it's the highest honor in mathematics, only awarded every four years, roughly the Nobel Prize of the field. He got it for solving a problem that had been open for nearly 40 years.</p> <p>And then, at the press conference, on the same day, he announced he's leaving his university position to join OpenAI'",
+    "title_zh": "世界顶级数学家获菲尔兹奖后宣布离开学术界加入OpenAI",
+    "summary_zh": "新晋菲尔兹奖得主Jacob Tsimerman宣布将离开学术界加入OpenAI，这一决定在社区引发了关于AI公司对顶尖学术人才巨大吸引力的深入讨论。",
+    "key_points": [
+      "菲尔兹奖得主Jacob Tsimerman宣布加入OpenAI",
+      "事件引发对AI公司吸引顶尖学术人才的广泛讨论",
+      "凸显了前沿AI研究与基础科学间的人才流动趋势"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7797f1b5d760333f8e2d4dab9b9b2b5a",
+    "title": "Training data needs a real go/no-go gate before training [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v8a3nu/training_data_needs_a_real_gonogo_gate_before/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-27T19:13:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We have gates for code, infrastructure, deployment and model performance.</p> <p>But when it comes to the actual training artifact, the decision to proceed is often still spread across notebooks, validation scripts, dashboards and human judgment.</p> <p>That feels like a weak point.</p> <p>I’ve been thinking about what a proper pre-training control layer would look like.</p> <p>Not another tool that just produces a long list of warnings, but a local system that ",
+    "title_zh": "训练数据在模型训练前需要一个真正的通过/不通过检查关",
+    "summary_zh": "有观点认为，当前AI模型训练流程中，对训练数据的质量把控仍依赖分散的脚本和人为判断，呼吁建立如代码审查般严格的正式数据质量门禁机制。",
+    "key_points": [
+      "呼吁为训练数据建立正式的质量审核门禁机制",
+      "当前数据质量判断过于依赖脚本和人工，缺乏标准化"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "be4f7f1c417173875ad3611dda57f5d5",
+    "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+    "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-27T18:48:41+00:00",
+    "content_snippet": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
+    "title_zh": "Verizon宣布与谷歌达成10亿美元暗光纤协议，支持其数据中心",
+    "summary_zh": "美国电信巨头Verizon宣布与谷歌达成价值10亿美元的暗光纤协议，为谷歌数据中心提供网络连接，并表示这是其在AI基础设施领域众多交易中的第一个。",
+    "key_points": [
+      "Verizon与谷歌签署10亿美元暗光纤协议",
+      "该交易旨在支持谷歌AI数据中心的基础设施",
+      "Verizon视其为AI领域获利的一系列交易的开端"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dd518fb4d80cd9192b4acf3cc3241501",
+    "title": "Open-source AI push could create troubles for venture capital",
+    "url": "https://www.reddit.com/r/artificial/comments/1v88xty/opensource_ai_push_could_create_troubles_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-27T18:32:35+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v88xty/opensource_ai_push_could_create_troubles_for/\"> <img alt=\"Open-source AI push could create troubles for venture capital\" src=\"https://external-preview.redd.it/0C74i5GEuf9O6TE6WyfkdKetOz-wMQPQp29leA1D2rs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9662785239116a7b3865c68e9a136e497b30dbb7\" title=\"Open-source AI push could create troubles for venture capital\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"http",
+    "title_zh": "开源AI浪潮可能给风险投资带来麻烦",
+    "summary_zh": "分析指出，开源AI模型的快速发展和能力提升，正在降低AI初创公司的技术壁垒，可能对依赖高额投资和专有技术优势的商业模式构成挑战，从而影响风险投资回报。",
+    "key_points": [
+      "开源AI的进步降低了技术壁垒，威胁初创公司优势",
+      "这可能削弱依赖专有技术的风投商业模式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a5cc3c28b34401b86f293b006f7f3b06",
+    "title": "What would a genuinely fair AI 3D tool comparison actually need to include",
+    "url": "https://www.reddit.com/r/artificial/comments/1v88xf4/what_would_a_genuinely_fair_ai_3d_tool_comparison/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-27T18:32:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most AI tool comparison pages I find online feel like they're missing something. Took me a while to pin down what it was. The obvious one is equal inputs. Same prompts, same reference images, same number of attempts. If the comparison doesn't publish the exact inputs it used, the results aren't reproducible and there's no way to separate actual capability from cherry picking. Tied to that is equal quality settings. Running one tool at max quality and another at ",
+    "title_zh": "一个真正公平的AI 3D工具对比需要包含哪些要素？",
+    "summary_zh": "一篇讨论帖指出，当前多数AI 3D工具对比缺乏公平性，主要问题在于未使用相同的输入如提示词和参考图，呼吁建立更严谨的标准化评测流程。",
+    "key_points": [
+      "现有AI 3D工具对比因输入不一致而缺乏公平性",
+      "呼吁建立使用相同提示词、参考图等标准化评测"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "699cca776fc63b7f791d88dd20950285",
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-27T18:32:11+00:00",
+    "content_snippet": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "title_zh": "微软发布首个网络安全AI模型及全新智能体安全系统",
+    "summary_zh": "微软推出了其首个专为网络安全设计的AI模型，并发布了一个新的智能体化网络安全系统，旨在利用AI增强其安全产品的威胁检测和响应能力。",
+    "key_points": [
+      "微软发布首个网络安全专用AI模型",
+      "同时推出新的智能体化网络安全系统",
+      "旨在增强威胁检测和自动化安全响应能力"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f21ae97ee9df35553a21f52369e0bf34",
+    "title": "What is the most ethical way to engage with/use an AI, if any?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v88vet/what_is_the_most_ethical_way_to_engage_withuse_an/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-27T18:30:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am very skeptical of AI in general, for reasons ranging from ethical, environmental and cultural. I still find myself using it though, almost daily, for basic things like research, instructions, etc. Is this bad? What is the most ethical way to engage with/use an AI?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RosenpenisFletch\"> /u/RosenpenisFletch </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/",
+    "title_zh": "如何以最合乎道德的方式使用AI？",
+    "summary_zh": "一位对AI持怀疑态度的用户，尽管担忧其伦理、环境和文化影响，但仍每天使用AI进行研究和获取指令。该用户向Reddit社区提问，是否存在一种最合乎道德的AI使用方式，并寻求对自身行为是否不妥的评判。",
+    "key_points": [
+      "Reddit用户质疑自己日常使用AI的行为是否道德",
+      "核心探讨在于AI使用的伦理、环境和文化影响",
+      "帖子寻求社区对'最合乎道德的AI使用方式'的建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
