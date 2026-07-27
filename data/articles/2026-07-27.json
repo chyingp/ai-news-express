@@ -489,5 +489,74 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "84407c16ee839ae1a5cdd14b5053dc76",
+    "title": "Recent project I worked on: End to End Edge ML platform [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v7nudc/recent_project_i_worked_on_end_to_end_edge_ml/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-27T02:38:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>I recently made an end to end ML platform that eases the pain of going from raw sensor data to a deployed model on an MCU. I wanted to get some feedback from those of you who are interested in the tinyML space on anything I can improve, I intend on keeping it free and open sourced so others can contribute to the development if they would like. One main thing that I tried to add was an auto-labeling tool, as for time series sensor data it is very d",
+    "title_zh": "近期项目：端到端边缘机器学习平台 [讨论]",
+    "summary_zh": "分享了一个端到端ML平台，旨在简化从原始传感器数据到在微控制器上部署模型的过程，面向tinyML社区寻求反馈。",
+    "key_points": [
+      "作者开发了端到端边缘ML平台，简化传感器数据到MCU部署流程",
+      "面向tinyML社区征求反馈，意图持续改进平台功能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f76d75d25a956eae00799853a42a104e",
+    "title": "“智谷天厨”获招商局创投领投近亿元融资",
+    "url": "https://36kr.com/newsflashes/3913265576891783?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-27T02:19:35+00:00",
+    "content_snippet": "近日，智能烹饪机器人企业“智谷天厨”官宣完成新一轮近亿元战略融资。本轮融资由招商局创投领投，跃迁资本跟投，云启资本、啟赋资本等老股东超额追投。融资完成后，公司将持续推进物理 AI 研发，并加速中式及泛亚洲餐饮的全球化落地。",
+    "title_zh": "“智谷天厨”获招商局创投领投近亿元融资",
+    "summary_zh": "智能烹饪机器人企业智谷天厨完成近亿元战略融资，由招商局创投领投，资金将用于推进物理AI研发和中式餐饮全球化落地。",
+    "key_points": [
+      "智谷天厨获招商局创投领投近亿元融资，老股东超额追投",
+      "融资将用于物理AI研发及加速中式餐饮全球化落地"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3f86b91a428c635681376df992c31e06",
+    "title": "上纬新材子公司启元新创落户浦东",
+    "url": "https://36kr.com/newsflashes/3913253267494017?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-27T02:07:04+00:00",
+    "content_snippet": "36氪获悉，近日，上纬新材料科技股份有限公司（下称“上纬新材”）旗下子公司启元新创（上海）科技有限公司正式落户浦东。据了解，启元新创为上海市人工智能重点项目，于2026世界人工智能大会（WAIC）期间签约。该项目计划未来三年持续投入大额研发费用，每年推出不少于2款全新消费级机器人产品",
+    "title_zh": "上纬新材子公司启元新创落户浦东",
+    "summary_zh": "上纬新材旗下子公司启元新创落户浦东，作为上海市AI重点项目，计划未来三年投入大额研发费用，每年推出至少两款消费级机器人产品。",
+    "key_points": [
+      "启元新创为上海市AI重点项目，在WAIC期间签约并落户浦东",
+      "计划未来三年高额研发投入，每年至少发布两款消费级机器人"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
