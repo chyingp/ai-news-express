@@ -218,5 +218,77 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a61dae6845323307ddc392e5c3aa7e8a",
+    "title": "Apply to be an OpenAI Campus Lead — work with our team for hands-on training, funding, credits, swag, and access to a global community of peers:",
+    "url": "https://nitter.net/gdb/status/2082174655037870240#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-28T18:41:37+00:00",
+    "content_snippet": "<p>Apply to be an OpenAI Campus Lead — work with our team for hands-on training, funding, credits, swag, and access to a global community of peers:</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>We're opening applications for the OpenAI Student Collective—a program for undergraduate Campus Leads bringing AI innovation to their campuses.<br />\n<br />\nCampus Leads will work directly with OpenAI and receive hands-on training, funding, credits, swag, and access to a global community of peers",
+    "title_zh": "申请成为 OpenAI 校园大使——与团队合作获得培训、资金、积分及全球社群资源",
+    "summary_zh": "OpenAI 宣布开放校园大使/学生集体计划申请，入选者将获得来自 OpenAI 团队的实践培训、资金支持、API 积分、周边物料以及接入全球同行社区的机会。",
+    "key_points": [
+      "OpenAI 启动面向本科生的校园大使/学生集体计划",
+      "入选者将获得资金、API 积分、培训及全球社区资源"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "51b249441851276f3c00a96ee81105d4",
+    "title": "AI is helping investigators identify possible clues after a California backpacker vanished",
+    "url": "https://www.reddit.com/r/artificial/comments/1v96jot/ai_is_helping_investigators_identify_possible/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-28T18:17:21+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v96jot/ai_is_helping_investigators_identify_possible/\"> <img alt=\"AI is helping investigators identify possible clues after a California backpacker vanished\" src=\"https://external-preview.redd.it/03yOI4xyGQMuckVC8b13frJTywHq4hRoakLIWNMh9Bc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6b0648579a793ede54f3da862f8b523815779fee\" title=\"AI is helping investigators identify possible clues after a California backpacker vanishe",
+    "title_zh": "AI 协助调查人员寻找加州背包客失踪案的可能线索",
+    "summary_zh": "在加州一名背包客失踪后，调查人员正在利用人工智能技术分析相关数据，以识别可能的线索和突破口，展示了 AI 在公共安全与搜救领域的应用潜力。",
+    "key_points": [
+      "AI 技术被用于分析加州背包客失踪案线索",
+      "展示了 AI 在协助搜救和公共安全领域的应用价值"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0d5baf822a537c708c168439826a4ba1",
+    "title": "NeurIPS-side prompt injection triggering ethics reviewers? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v955f6/neuripsside_prompt_injection_triggering_ethics/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-28T17:28:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Does anyone experience a similar story that some reviewers reporting ethical issue due to NeurIPS-side prompt injection for catching LLM-reviewers? Even ethics reviewers were not informed about this conference-side manipulation… </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dontknowwhattoplay\"> /u/dontknowwhattoplay </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <sp",
+    "title_zh": "NeurIPS 端提示注入触发伦理审查？",
+    "summary_zh": "Reddit 用户讨论 NeurIPS 会议疑似在审稿端注入提示以检测审稿人是否使用 LLM，该操作在未告知伦理审稿人的情况下触发伦理问题报告，引发社区对会议方操纵审稿流程的担忧。",
+    "key_points": [
+      "NeurIPS 被指在审稿端注入提示来检测 LLM 审稿",
+      "该操作未告知伦理审稿人并触发了伦理问题报告",
+      "引发社区对会议方操纵审稿流程的争议"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
