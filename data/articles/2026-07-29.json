@@ -290,5 +290,184 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2b54891b4e6849e3c36e4e4cdf7efbbc",
+    "title": "PewDiePie’s AI Experiment Is What Software Development Looks Like Now",
+    "url": "https://www.reddit.com/r/artificial/comments/1v9ave9/pewdiepies_ai_experiment_is_what_software/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-28T20:54:15+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v9ave9/pewdiepies_ai_experiment_is_what_software/\"> <img alt=\"PewDiePie’s AI Experiment Is What Software Development Looks Like Now\" src=\"https://external-preview.redd.it/-Ewy-5oKE1Sj0zhF13yvv3pbQt4Ha_c64JSUMz2tc8A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0803672467de5d9f5160f058358d5a297205ee25\" title=\"PewDiePie’s AI Experiment Is What Software Development Looks Like Now\" /> </a> </td><td> &#32; submitted by &#32; ",
+    "title_zh": "PewDiePie的AI实验展现了当今软件开发的新模式",
+    "summary_zh": "知名YouTuber PewDiePie通过AI工具进行了一次软件开发实验，展示了非专业开发者如何利用AI构建应用，反映了当前AI辅助编程的普及趋势。",
+    "key_points": [
+      "PewDiePie展示了非程序员如何用AI工具开发软件",
+      "AI辅助编程正在降低软件开发的门槛",
+      "反映了AI对传统开发流程的深刻变革"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "28328e1c1abe1aecb44f2005385ab9b6",
+    "title": "We built a self-hostable agentic AI + BI platform — agents, multi-agent swarms, RAG, dashboards, notebooks, all on your own keys",
+    "url": "https://www.reddit.com/r/artificial/comments/1v9apu0/we_built_a_selfhostable_agentic_ai_bi_platform/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-28T20:48:30+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v9apu0/we_built_a_selfhostable_agentic_ai_bi_platform/\"> <img alt=\"We built a self-hostable agentic AI + BI platform — agents, multi-agent swarms, RAG, dashboards, notebooks, all on your own keys\" src=\"https://preview.redd.it/v4vae56h81gh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c27faf9b085a57c324f639791baeb861eda99cb\" title=\"We built a self-hostable agentic AI + BI platform — agents, multi-agent swarms, RAG, dashb",
+    "title_zh": "开源自托管agentic AI+BI平台发布，支持多智能体集群和RAG",
+    "summary_zh": "一款可自托管的AI商业智能平台发布，集成了智能体、多智能体集群、检索增强生成(RAG)、仪表盘和笔记本，用户可使用自有API密钥运行。",
+    "key_points": [
+      "发布可自托管的AI+BI开源平台",
+      "支持多智能体集群和RAG技术",
+      "用户可使用自有密钥，保障数据隐私"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "09c6bea65366aeccd8ac06fb5f357e21",
+    "title": "Fifteen years ago, @Coursera and online courses changed education. It worked better than almost anyone expected, expanding access by opening up where you can learn. But how you learn remains largely the same as it has for centuries: it is still one-size-fits-all, taught the same way to each person who shows up. We now have an opportunity to change how learning happens. With advances in AI, we can now build a custom learning guide for each person. We will turn learning from one‑to‑many to one‑to‑one. I'm starting LearnVector to invent this next generation of learning. We are starting with a $100M investment from Coursera, and plan to collaborate closely with Coursera and Udemy. Good learning needs much more than just a chatbot. Research shows that chatbots without guardrails harm learning. They help complete tasks and enable students to do better on homework. But cognitive offloading to a chatbot results in them being less skilled. And, you cannot always trust what a chatbot tells you. In contrast, LearnVector will plan a path with you, adapt to how you learn, and patiently stay with you until you’ve mastered new skills. One thing has not changed in all this time. People want learning they can trust: material that is accurate, relevant, and worth the effort you put into it. Anything less wastes the most valuable thing a learner has: time. Coursera has a trusted library of materials from authoritative sources. LearnVector plans to work with Coursera to bring this trustworthy learning to everyone. I'm grateful to Greg Hart and the entire Coursera team for supporting LearnVector. I look forward to working with our talented team to change how we learn, and accelerate human development. http://learnvector.ai",
+    "url": "https://nitter.net/AndrewYNg/status/2082199333920027009#m",
+    "source": "Andrew Ng (X)",
+    "source_zh": "吴恩达 Andrew Ng",
+    "source_type": "nitter",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-28T20:19:41+00:00",
+    "content_snippet": "<p>Fifteen years ago, <a href=\"https://nitter.net/Coursera\" title=\"Coursera\">@Coursera</a> and online courses changed education. It worked better than almost anyone expected, expanding access by opening up where you can learn. But how you learn remains largely the same as it has for centuries: it is still one-size-fits-all, taught the same way to each person who shows up.<br />\n<br />\nWe now have an opportunity to change how learning happens. With advances in AI, we can now build a custom learni",
+    "title_zh": "吴恩达获1亿美元投资创办LearnVector，打造个性化AI学习平台",
+    "summary_zh": "AI专家吴恩达宣布创立LearnVector，获得Coursera 1亿美元投资，旨在利用AI为每个人构建定制化学习路径，改变传统一刀切的教育模式。",
+    "key_points": [
+      "吴恩达获Coursera 1亿美元投资创办LearnVector",
+      "目标是用AI将教育从一对多转变为一对一",
+      "计划与Coursera和Udemy合作，提供可信赖内容"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6d24fcc04154510bff8ed40d2584ac20",
+    "title": "Using Claude Mythos Preview, researchers at Anthropic have discovered improved ways to attack cryptographic algorithms (the mathematical methods used to keep online data private)",
+    "url": "https://www.reddit.com/r/artificial/comments/1v99cuk/using_claude_mythos_preview_researchers_at/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-28T19:55:50+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v99cuk/using_claude_mythos_preview_researchers_at/\"> <img alt=\"Using Claude Mythos Preview, researchers at Anthropic have discovered improved ways to attack cryptographic algorithms (the mathematical methods used to keep online data private)\" src=\"https://external-preview.redd.it/USsEr81T7tF0aI9oNoP0K-OrNF3HJhsCbTXK7cgeiAE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9df9ff9c6956cb8a6350bd87170c0fd9f3a5d0cb\" title=\"Using",
+    "title_zh": "Anthropic研究人员利用Claude Mythos Preview发现改进的密码攻击方法",
+    "summary_zh": "Anthropic的研究人员使用其Claude Mythos Preview模型，发现了改进攻击加密算法的新方法，这可能会对在线数据隐私保护产生重要影响。",
+    "key_points": [
+      "Anthropic的Claude模型发现了新密码攻击方法",
+      "成果可能影响在线数据加密安全",
+      "展示了AI在网络安全研究中的前沿应用"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f22aa3b4b98bb653bd0cfe63964cae6b",
+    "title": "AI leaders sign statement asking the government to do something about automated AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-28T19:46:43+00:00",
+    "content_snippet": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better [&#8230;]",
+    "title_zh": "AI行业领袖签署声明，呼吁政府规范自动化AI发展",
+    "summary_zh": "来自OpenAI、Anthropic、谷歌、Meta等顶尖AI实验室的员工签署声明，呼吁美国政府采取措施，对前沿AI发展进行协调治理，可能减缓其发展速度。",
+    "key_points": [
+      "OpenAI、Anthropic等员工联名呼吁政府介入",
+      "要求对自动化AI发展进行全球协调治理",
+      "涉及多家顶级AI公司，引发行业关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic",
+      "google",
+      "meta",
+      "microsoft",
+      "mistral"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1f7bbb79d2c2dceb87a913899ee52b9f",
+    "title": "AI coding tools are saving me hours but I genuinely can't tell if I'm getting dumber",
+    "url": "https://www.reddit.com/r/artificial/comments/1v98szp/ai_coding_tools_are_saving_me_hours_but_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-28T19:36:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI coding tools are saving me hours but I genuinely can't tell if I'm getting dumber</p> <p>Running a bootstrapped SaaS solo while also being home with a kid most of the day means my actual focused coding time is maybe 90 minutes if I'm lucky. So I leaned hard into Cursor and Claude to ship faster. And it's working, kind of.</p> <p>The thing I keep sitting with: I'm shipping features I would have spent days on. But when something breaks in a weird way, there are",
+    "title_zh": "AI编程工具省时但令人担忧开发者能力退化",
+    "summary_zh": "一位独立开发者分享使用AI编程工具的经历，虽然节省了大量时间，但担忧自己过度依赖AI可能导致编程技能下降，引发对认知能力影响的讨论。",
+    "key_points": [
+      "AI编程工具显著提升了开发效率",
+      "过度依赖AI可能造成技能退化",
+      "引发对开发者长期能力影响的反思"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24bcc75f19086bf9073fbf6cb82aba01",
+    "title": "AI’s finally expensive enough to make Wall Street nervous",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-28T19:33:03+00:00",
+    "content_snippet": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously [&#8230;]",
+    "title_zh": "AI投资终于贵到让华尔街感到紧张",
+    "summary_zh": "谷歌大幅上调资本支出预算至最高2050亿美元，远超市场预期，引发投资者对AI行业巨额支出回报的担忧，导致科技股承压。",
+    "key_points": [
+      "谷歌将资本支出预估上调至最高2050亿美元",
+      "巨额AI投资引发华尔街对回报的担忧",
+      "财报季放大市场对AI泡沫的紧张情绪"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
