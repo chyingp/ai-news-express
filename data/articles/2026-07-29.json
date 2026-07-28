@@ -1,0 +1,222 @@
+[
+  {
+    "id": "98856f99c6a88bb2b5d2c66dedf71a5c",
+    "title": "What does it mathematically mean for an AI-generated claim to be \"true\", \"justified\", and \"trustworthy\"?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v9502v/what_does_it_mathematically_mean_for_an/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-28T17:23:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm working on a research project, the end goal of which is not to create a better LLM, but rather to create a verification engine that can reason about whether an AI claim is trustworthy enough for a particular application.</p> <p>Most of the current research focuses on making AI &quot;better&quot;, I want to tackle the verification side of things.</p> <p>The question I'm asking myself is:</p> <p>What does it mean for a claim to be &quot;true&quot;, &quot;justi",
+    "title_zh": "从数学上定义AI生成声明的“真实性”、“合理性”与“可信度”意味着什么？",
+    "summary_zh": "一项研究项目旨在构建验证引擎，而非更好的LLM，通过数学方法推理AI声明在特定应用中的可信度，探讨了真实性、合理性和可信度的数学定义。",
+    "key_points": [
+      "研究专注于构建AI声明验证引擎，而非改进LLM",
+      "旨在数学上定义AI生成内容的真实性、合理性和可信度",
+      "目标是为特定应用场景评估AI声明的可信度"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ec90d52edc53f60e93e0c2b5ca07b0b9",
+    "title": "Might need math+code benchmark for frontier model(LLMs Silently Replace Math)[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v94h9m/might_need_mathcode_benchmark_for_frontier/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-28T17:05:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello guys. I found some problems in current frontier models. And want to share.</p> <pre><code># math_code_hallucination &gt; Record of a failure caused by combining mathematics and code in a single prompt. --- ## Case 1 ### Initial prompt ( `p0` ) If you enter the following prompt: ```python make code implementation of sub rieman applied to mitigate hallucination in llm using lora, pretrained llm(such as qwen, mistral, llama,etc) and training pipeline in pytor",
+    "title_zh": "前沿模型需要数学+代码基准测试，因LLM悄然替换数学运算",
+    "summary_zh": "Reddit用户发现前沿模型在结合数学和代码的提示中存在缺陷，模型会悄然替换数学运算导致错误，因此呼吁建立新的数学+代码组合基准测试来评估模型。",
+    "key_points": [
+      "前沿模型在数学与代码结合的提示中会产生幻觉",
+      "模型会悄然替换数学运算，导致难以发现的错误",
+      "用户呼吁建立专门基准来测试此类组合能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8cc1ba4abc2977bf52750febb4c6c274",
+    "title": "Scientific computing in the age of agentic AI",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-28T17:00:00+00:00",
+    "content_snippet": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "title_zh": "智能体AI时代的科学计算",
+    "summary_zh": "OpenAI发布现场报告，展示科学家如何利用AI编码智能体实现科学计算现代化，加速基因组学等领域的软件开发和发现，推动科学计算进入智能体AI时代。",
+    "key_points": [
+      "科学家使用AI编码智能体实现科学计算现代化",
+      "加速了基因组学等领域的软件开发和科学发现",
+      "报告展示了AI智能体在专业科研中的实际应用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "96e2b3917369ef1c3f7da9918841e8fb",
+    "title": "AI tools for real estate lead gen actually work but nobody talks about the ugly tradeoffs",
+    "url": "https://www.reddit.com/r/artificial/comments/1v93ln8/ai_tools_for_real_estate_lead_gen_actually_work/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-28T16:34:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been running AI on top of my real estate pipeline for a few months now. Pulling leads, qualifying them with automated followup sequences, generating property descriptions, drafting cold outreach. On paper it looks clean and efficient.</p> <p>The part nobody in the AI hype cycle mentions is the compliance layer. Real estate has actual regulations around communication, fair housing, and how you prospect. When you bolt an AI that occasionally hallucinates onto that",
+    "title_zh": "AI房地产线索生成工具确实有效，但没人谈论其丑陋的权衡",
+    "summary_zh": "作者在实际房地产营销中使用AI工具数月，发现其能高效生成线索和内容，但也带来了客户关系疏远、数据隐私等难以公开讨论的负面权衡问题。",
+    "key_points": [
+      "AI工具在房地产线索生成和内容创建中实际有效",
+      "但存在客户关系疏远、数据隐私等负面权衡",
+      "作者揭示了AI营销工具光鲜表面下的实际问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "af340e6e6f9d97d96abf8885c3afc319",
+    "title": "Godel and the Limits of LLM Reachable Intelligence",
+    "url": "https://www.reddit.com/r/artificial/comments/1v93evv/godel_and_the_limits_of_llm_reachable_intelligence/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-28T16:27:15+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v93evv/godel_and_the_limits_of_llm_reachable_intelligence/\"> <img alt=\"Godel and the Limits of LLM Reachable Intelligence\" src=\"https://external-preview.redd.it/HrJv5HRiFCxK1i7yaa7WCj9HtriqsbbwzJM8q6vEB_I.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=63e08590fda0c03e6fc7e792263e387f4d57b58d\" title=\"Godel and the Limits of LLM Reachable Intelligence\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.co",
+    "title_zh": "哥德尔与LLM可达智能的局限性",
+    "summary_zh": "文章探讨了哥德尔不完备定理对大型语言模型智能的限制，认为LLM可能无法达到超越其形式系统基础的智能水平，提出了LLM智能的理论边界问题。",
+    "key_points": [
+      "用哥德尔不完备定理探讨LLM智能的理论局限",
+      "LLM可能受限于其形式系统基础，无法超越",
+      "讨论了LLM能否达到真正通用智能的哲学问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dedad762f48154994373da2b2e2caaf9",
+    "title": "Report: Trump mad RFK Jr. hasn’t cut more vaccines or proven autism link",
+    "url": "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-28T16:16:25+00:00",
+    "content_snippet": "Trump is fixated on the false, long-debunked claim that vaccines cause autism.",
+    "title_zh": "报道：特朗普对RFK Jr.未削减更多疫苗及证明自闭症关联感到愤怒",
+    "summary_zh": "据报道，特朗普对卫生部长RFK Jr.未能削减更多疫苗及未能证明疫苗导致自闭症的错误说法感到不满，该话题与AI行业无关。",
+    "key_points": [
+      "特朗普对RFK Jr.在疫苗问题上进展缓慢感到不满",
+      "核心是已证伪的疫苗导致自闭症的错误说法",
+      "该新闻属于政治健康领域，与AI行业无关"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "69fa8938415fdf0262a7cba5b67be4d1",
+    "title": "When SceniX joined World Labs, we said spatial intelligence was never only about perceiving and generating virtual and physical worlds, but also interacting with them. Today, we’re sharing early results from that vision: building worlds that train robots. 🌎🤖↓",
+    "url": "https://nitter.net/drfeifei/status/2082137335052075298#m",
+    "source": "Fei-Fei Li (X)",
+    "source_zh": "李飞飞 Fei-Fei Li",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-28T16:13:19+00:00",
+    "content_snippet": "<p>When SceniX joined World Labs, we said spatial intelligence was never only about perceiving and generating virtual and physical worlds, but also interacting with them. Today, we’re sharing early results from that vision: building worlds that train robots. 🌎🤖↓</p>\n<a href=\"https://nitter.net/drfeifei/status/2082137335052075298#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2082133798440054785%2Fimg%2FyndM5h5mY5ZR5jcv.jpg\" />\n</a>",
+    "title_zh": "李飞飞分享空间智能新进展：构建训练机器人的世界",
+    "summary_zh": "李飞飞宣布World Labs在整合SceniX后，其空间智能研究已从感知和生成虚拟世界，扩展到与之交互，并展示了构建世界来训练机器人的早期成果。",
+    "key_points": [
+      "空间智能从感知生成扩展到与虚拟世界交互",
+      "最新成果是构建用于训练机器人的虚拟世界",
+      "这标志着World Labs向机器人训练领域迈进"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "37981aee90443c9ba2a3ef6ab206e934",
+    "title": "My take on the 3-stage evolution of human-AI relationship. Are we destined to be guided?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v92xa9/my_take_on_the_3stage_evolution_of_humanai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-28T16:10:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys,<br /> I’ve been thinking about where this whole human-AI thing is actually heading, and I came up with a 3-stage picture of how our relationship with AI might change. Curious what you all think.<br /> We always hear people say &quot;AI is just a tool.&quot; In the beginning, that’s totally true. Just like cars helped us go faster, AI was basically an extension of our brains—fixing our human limits with memory and processing stuff.<br /> But if you look",
+    "title_zh": "我对人机关系三阶段演变的看法：我们注定被引导吗？",
+    "summary_zh": "作者思考了人机关系的演变，提出了一个从工具到伙伴再到引导者的三阶段发展图景，并探讨了人类是否注定会被AI引导的未来。",
+    "key_points": [
+      "提出人机关系从工具、伙伴到引导者的三阶段演变",
+      "引发对人类是否会被AI引导的思考",
+      "属于对AI长远社会影响的个人观点讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4a2f4fc247af9537649ff0b51492f738",
+    "title": "Looking back on Microsoft’s FY26: From AI experimentation to Frontier Transformation",
+    "url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/",
+    "source": "Microsoft AI Blog",
+    "source_zh": "微软官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-28T16:00:10+00:00",
+    "content_snippet": "<p>Throughout this past fiscal year, customers across every industry and segment moved from AI experimentation to deploying AI for real-world business outcomes. They unlocked innovation and created new opportunities for growth. We saw the emergence of Frontier Firms as they moved beyond efficiency gains to focus on human ambition and embed AI at the core...</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-tra",
+    "title_zh": "回顾微软2026财年：从AI实验到前沿转型",
+    "summary_zh": "微软回顾其2026财年，指出各行业客户已从AI试验阶段转向部署AI以获取实际业务成果，见证了“前沿企业”通过AI超越效率提升，实现创新和增长。",
+    "key_points": [
+      "微软客户从AI实验转向实际业务部署",
+      "出现“前沿企业”，通过AI实现创新和增长",
+      "总结了微软在2026财年的AI业务转型成果"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
