@@ -1004,5 +1004,192 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e9057c623c4c2031aabfd8389106e2f7",
+    "title": "阿里云真武超节点适配Kimi K3",
+    "url": "https://36kr.com/newsflashes/3914601205011587?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-28T00:58:16+00:00",
+    "content_snippet": "36氪获悉，据阿里云消息，阿里云真武M890超节点实例已Day0适配Kimi K3，这是国内首个跑通近3万亿参数模型的超节点。双方将进一步展开国产算力合作，千问AI平台和阿里云百炼也将提供Kimi K3的模型API。",
+    "title_zh": "阿里云真武超节点适配Kimi K3",
+    "summary_zh": "阿里云真武M890超节点宣布Day0适配月之暗面Kimi K3模型，成为国内首个跑通近3万亿参数模型的超节点。双方将深化国产算力合作，阿里云百炼平台也将提供Kimi K3的API服务。",
+    "key_points": [
+      "阿里云真武M890超节点率先适配近3万亿参数Kimi K3模型",
+      "双方将展开国产算力合作，阿里云百炼提供Kimi K3 API"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "alibaba",
+      "moonshot"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5fa3f7672e0ace56fbdba6be3c027070",
+    "title": "I have plans for become a Computer Scientist on future, Do talkie AI as well other app chatbot has impact on it?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8izzh/i_have_plans_for_become_a_computer_scientist_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-28T00:54:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So i always had great interess for technology in general and mostly AI since 2021 when i used ChatGPT and i love it as well learning things, as we may know our AIs are getting advanced every year though chatbots from talkie or other app are not advanced enough as Gemini or ChatGPT but the thing is, i want to make difference and try join in this work market and have as a good profission, its really worth and which are the difficulties?</p> <p>i believe my major p",
+    "title_zh": "我计划未来成为计算机科学家，Talkie AI及其他聊天机器人应用对它有影响吗？",
+    "summary_zh": "一位Reddit用户表达了对成为计算机科学家的兴趣，并询问如Talkie AI等聊天机器人应用的发展是否会对该职业规划产生影响。",
+    "key_points": [
+      "用户询问聊天机器人应用发展对计算机科学家职业规划的影响"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d6a2e69e21fce2b19173a0d9263da29e",
+    "title": "SK海力士市值蒸发4700亿美元，存储芯片热潮出现裂痕",
+    "url": "https://36kr.com/newsflashes/3914585364813189?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-28T00:42:09+00:00",
+    "content_snippet": "短短一个多月内市值蒸发4700亿美元，SK海力士从全球最热门的人工智能主题交易之一变成投资组合中的问题持仓。由于投资者担忧AI主题交易过度拥挤，并且杠杆交易导致波动急剧上升，这家韩国存储芯片巨头的股价较6月创下的历史高点暴跌约38%。在此期间，SK海力士的市值缩水规模在全球范围内仅次于SpaceX。随着人工智能热潮推动芯片价格上涨，SK海力士周三料再次公布创纪录的季度业绩，但投资者正变得愈发谨慎，担忧存储芯片成本不断上升，可能迫使用户减少使用量并转向价格更低的替代品。（新浪财经）",
+    "title_zh": "SK海力士市值蒸发4700亿美元，存储芯片热潮出现裂痕",
+    "summary_zh": "SK海力士市值在一个多月内蒸发4700亿美元，股价从历史高点暴跌约38%。尽管即将公布创纪录季度业绩，投资者对AI存储芯片热潮的可持续性、成本上升及替代品风险日益担忧。",
+    "key_points": [
+      "SK海力士市值因AI交易拥挤和杠杆波动蒸发4700亿美元",
+      "投资者担忧存储芯片成本上升可能导致需求减少或转向替代品"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "38a824f6dd90abcbb651fad7e365cad9",
+    "title": "Structural Admission: verify a sequential task’s claimed dependency structure before interpreting learning [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v8insy/structural_admission_verify_a_sequential_tasks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-28T00:39:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Structural Admission: verify a sequential task’s claimed dependency structure before interpreting learning</p> <p>results</p> <p>When we train agents on staged or multi-phase environments, it is tempting to interpret learning curves, transfer,</p> <p>or apparent “emergence” as evidence for a particular causal or informational structure.</p> <p>But has that structure actually been verified under the same observation and action interface seen by the learner?</p> <",
+    "title_zh": "Structural Admission：在解释学习行为前验证顺序任务的依赖结构",
+    "summary_zh": "一篇Reddit机器学习论文提出'Structural Admission'方法，旨在训练代理在分阶段或多阶段环境中时，先验证其声称的任务依赖结构，再对学习曲线、迁移等行为进行解释。",
+    "key_points": [
+      "提出Structural Admission方法，用于验证顺序任务的依赖结构",
+      "主张在解释学习行为之前先验证结构，以提升解读可靠性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3c565b2757ce8234d3383422461c5887",
+    "title": "AI Companies Are Buying Antique Books, Ingesting Their Contents to Train Models, and Then Destroying Them at Incredible Scale, Even If Almost No Copies Remain",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8ilsm/ai_companies_are_buying_antique_books_ingesting/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-28T00:37:15+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v8ilsm/ai_companies_are_buying_antique_books_ingesting/\"> <img alt=\"AI Companies Are Buying Antique Books, Ingesting Their Contents to Train Models, and Then Destroying Them at Incredible Scale, Even If Almost No Copies Remain\" src=\"https://external-preview.redd.it/1zddYYgo2NVM1vK4xG_tLq8IR3sX4GaAnLPlm_fVP-s.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27831607b1f00495aac04854a8799c9bfd98f0cc\" title=\"AI Companies Are Bu",
+    "title_zh": "AI公司大规模购买古籍用于训练模型，随后销毁，即使孤本也难幸免",
+    "summary_zh": "Reddit上的一则讨论指出，AI公司被指大规模购买古籍，将其内容摄取用于训练模型后，便将书籍销毁，甚至在几乎没有副本留存的情况下也是如此。",
+    "key_points": [
+      "AI公司被曝购买古籍用于训练模型并大规模销毁",
+      "该行为引发对文化遗产保护的数据伦理担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a07a87c76b467fe46896fadc9d5f9b87",
+    "title": "海外大模型Token代理产业快速走红，治理与监管存难题",
+    "url": "https://36kr.com/newsflashes/3914573497095305?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-28T00:30:05+00:00",
+    "content_snippet": "2026年以来，词元（Token）成为市场热词，而在这一热潮背后，依托低价倒卖Token额度、搭建中转站点的海外大模型Token代理产业快速走红，各类“0门槛副业”招募广告在多个网络平台泛滥，还依托多级分润机制实现规模裂变式增长。记者调查发现，这一游走在合规边缘的灰色产业，看似为个人创作者、中小微企业、科研群体提供了低成本海外大模型调用渠道，实则乱象丛生：部分中转站点通过虚报计费、模型掉包、退款套利等方式牟取不当利益，用户输入的数据在传输过程中几近“裸奔”。由于运营隐蔽、跨境属性突出、模式迭代迅猛，该行业正成为监管治理的难点。业内专家表示，唯有补齐合法需求供给缺口、建立常态化分级治理机制、推动国产大模型技术��服务升级，方能倒逼灰色产业出清，推动行业走向合规规范化发展。（证券时报）",
+    "title_zh": "海外大模型Token代理产业快速走红，治理与监管存难题",
+    "summary_zh": "2026年海外大模型Token代理产业依托低价倒卖Token迅速走红，通过多级分润模式裂变增长。该灰色产业存在虚报计费、模型掉包、数据泄露等乱象，因跨境和隐蔽性强，成为监管难题。",
+    "key_points": [
+      "海外大模型Token代理产业通过低价和多级分润模式快速蔓延",
+      "该产业存在虚报计费、数据'裸奔'等风险，面临监管挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9adc2b3bc502cc8cf171e74bfdce7480",
+    "title": "Subscription as a college student",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8icd2/subscription_as_a_college_student/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-28T00:26:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Is it worth buying an AI subscription as a college student. Studying law and finance so coding and super complex problems aren’t a huge issue but to help with notes maybe to quiz me and have more uploads and research capabilities. If it is worth it which is the best right now. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Independent-Reach494\"> /u/Independent-Reach494 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r",
+    "title_zh": "作为大学生，订阅AI服务值得吗？",
+    "summary_zh": "一位Reddit用户询问，对于学习法律和金融的大学生来说，购买AI订阅服务以辅助笔记、测验和研究是否值得，并寻求最佳服务推荐。",
+    "key_points": [
+      "用户询问AI订阅对法律和金融专业学生的学习辅助价值"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "063a78a65e9ecc0278bf9f484b4d5fb4",
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-28T00:13:33+00:00",
+    "content_snippet": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+    "title_zh": "Anthropic CEO Dario Amodei回应：不反对开放权重模型，但担忧中国AI",
+    "summary_zh": "Anthropic创始人兼CEO Dario Amodei就开放权重模型和中国AI能力表态，称不反对开放权重模型，但对中国日益增长的AI能力表示担忧。",
+    "key_points": [
+      "Anthropic CEO明确表示不反对开放权重模型",
+      "Dario Amodei表达了对中国AI能力快速发展的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
