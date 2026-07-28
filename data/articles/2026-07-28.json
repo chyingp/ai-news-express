@@ -1191,5 +1191,191 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "44dea4a5482ed775d137da8b944c2edd",
+    "title": "The proactive assistant I built locked me out of the app because I kept causing problems",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8n7jh/the_proactive_assistant_i_built_locked_me_out_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-28T04:03:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been building Orb - Proactive AI as a free open source project and IOS app pair for about 3 months now, I use it daily for my own life, it lets me know when I make a conflict of meetings and when I need to know about something that’s going on, that part runs as an open source backend you can run on your PC, which pairs to the IOS app.</p> <p>So today I saw that Orb had sent me a message about how NVDA’s stock is down 5%, I go to click it and when I go into ",
+    "title_zh": "我构建的主动式AI助手因我频繁制造问题而将我锁定在应用外",
+    "summary_zh": "开发者分享其开源项目Orb Proactive AI的趣事，该AI助手用于日程管理，但因开发者自身频繁引发冲突问题，反而被助手锁定了应用权限。",
+    "key_points": [
+      "开发者自制AI助手因用户频繁制造问题而锁定应用",
+      "项目为开源主动式AI，主要用于日程冲突检测"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "45fb4165e70487ca9bdbd8199ba7965b",
+    "title": "聚灿光电：已对接多家AI眼镜企业推进定制研发",
+    "url": "https://36kr.com/newsflashes/3914729026901123?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-28T03:08:17+00:00",
+    "content_snippet": "36氪获悉，聚灿光电近日在业绩交流会上表示，AI眼镜方面，公司正与合作方开展Micro LED定制化开发。目前多家头部终端厂商均在布局相关产品，公司已对接多家企业推进定制研发，但整体仍处于前期开发阶段，尚不具备量产交付条件。除客户端仍有待解决的各类技术难题外，公司也持续开展内部工艺迭代与技术优化。",
+    "title_zh": "聚灿光电：已对接多家AI眼镜企业推进定制研发",
+    "summary_zh": "聚灿光电在业绩会上表示，正与合作方开展AI眼镜用Micro LED定制化开发，已对接多家头部企业推进研发，但整体仍处于前期开发阶段，不具备量产条件。",
+    "key_points": [
+      "聚灿光电推进AI眼镜Micro LED定制化开发",
+      "已对接多家头部企业，但距离量产尚有距离"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b8e822e9916f1ac3cff1a3218730166e",
+    "title": "灵光App上线“一键部署”",
+    "url": "https://36kr.com/newsflashes/3914723342128262?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-28T03:02:30+00:00",
+    "content_snippet": "36氪获悉，近日，灵光App上线闪应用“一键部署”功能，并向所有用户开放。用户使用Codex、Claude Code、Cursor、Qoder、Trae、Workbuddy等AI工具创建的应用，可通过灵光提供的部署Skill，一键发布为“灵光闪应用”，并同步在PC端和灵光App内展示与分发。同时，灵光还开放了包括大模型、搜索、LBS、地图、存储等在内的30余项免费API能力。",
+    "title_zh": "灵光App上线“一键部署”功能",
+    "summary_zh": "灵光App推出闪应用“一键部署”功能，用户可将多种AI工具创建的应用一键发布为灵光闪应用，并同步在PC端和App端展示，同时开放30余项免费API。",
+    "key_points": [
+      "灵光App支持主流AI工具应用一键部署分发",
+      "平台同步开放大模型、搜索等30余项免费API"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1ff4e675b3d26d01459a4faf747ab8ac",
+    "title": "杭州：拟适当超前布局算力网、新型电网、新一代通信网等新型设施",
+    "url": "https://36kr.com/newsflashes/3914706682254473?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-28T02:45:34+00:00",
+    "content_snippet": "36氪获悉，《杭州市人工智能产业发展促进条例（草案）》公开征求意见。其中提出，市人民政府应当统筹规划人工智能基础设施体系建设，适当超前布局算力网、新型电网、新一代通信网、数据可���空间等新型设施，建立健全市场化运营机制，保障各类设施的高效利用与安全可控；市人民政府应当统筹智能算力设施布局和能源资源配置。建设超大城市新型能源体系，强化电源、电网、负荷、储能协同，推动城市供电可靠性符合智能算力设施使用标准，保障算力用电安全稳定充足。",
+    "title_zh": "杭州拟适当超前布局算力网、新型电网等基础设施",
+    "summary_zh": "杭州发布人工智能产业促进条例草案，计划统筹AI基础设施，超前布局算力网、新型电网等设施，并建设超大城市新型能源体系以保障算力用电安全稳定。",
+    "key_points": [
+      "杭州拟立法超前布局算力网和新型电网等设施",
+      "重点建设新型能源体系保障智能算力用电需求"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "280291ce041a6dda11247a6eedc30f55",
+    "title": "杭州：拟支持企业建设词元生产平台、交易结算平台、对外服务平台",
+    "url": "https://36kr.com/newsflashes/3914705126528133?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-28T02:43:59+00:00",
+    "content_snippet": "36氪获悉，《杭州市人工智能产业发展促进条例（草案）》公开征求意见。其中提出，拟支持词元经济布局发展。支持企业建设词元生产平台、交易结算平台、对外服务平台，提升本市的词元生产、调度和配置能力。支持词元服务消费市场发展，推动词元服务在制造、政务、教育、医疗、金融、消费等重点行业的示范应用和推广，促进词元服务与实体经济深度融合。",
+    "title_zh": "杭州拟支持企业建设词元生产平台与交易结算平台",
+    "summary_zh": "杭州AI产业促进条例草案提出支持词元经济布局，鼓励企业建设词元生产、交易结算等平台，推动词元服务在制造、政务等行业的示范应用与实体经济融合。",
+    "key_points": [
+      "杭州拟支持词元生产、交易和结算平台建设",
+      "推动词元服务在制造、政务等行业的深度应用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a9e90e12bd92746757209958da222d06",
+    "title": "Found a weird Snapchat AI conversation I saved during an outage in early 2025. Any idea what was happening here?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8l2tb/found_a_weird_snapchat_ai_conversation_i_saved/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-28T02:25:35+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v8l2tb/found_a_weird_snapchat_ai_conversation_i_saved/\"> <img alt=\"Found a weird Snapchat AI conversation I saved during an outage in early 2025. Any idea what was happening here?\" src=\"https://preview.redd.it/1srrzdc3svfh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e1066a28c87f175cdc877805438e06c4323021b\" title=\"Found a weird Snapchat AI conversation I saved during an outage in early 2025. Any idea what was happening",
+    "title_zh": "我在2025年初宕机期间保存的Snapchat AI对话有些奇怪，发生了什么？",
+    "summary_zh": "用户分享一则2025年早期Snapchat服务中断时保存的AI对话记录，对话内容匪夷所思，引发社区对当时AI行为异常原因的讨论。",
+    "key_points": [
+      "用户展示Snapchat宕机期间AI异常对话记录",
+      "社区讨论AI行为异常的可能原因"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1a86421557d276c8cbfa786b525b566b",
+    "title": "微软AI发布网络安全模型MAI-Cyber-1-Flash，漏洞检测性能提升并降低50%成本",
+    "url": "https://36kr.com/newsflashes/3914672335295874?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-07-28T02:10:37+00:00",
+    "content_snippet": "微软AI（Microsoft AI）当地时间7月27日发布首款网络安全专用模型MAI-Cyber-1-Flash，并将其集成至多智能体漏洞识别与修复平台MDASH。微软表示，该组合在CyberGym漏洞检测基准测试中取得95.95%的成绩，超过Mythos、Gemini和GPT系列模型，同时相比现有MDASH方案降低约50%成本。微软同时推出智能体安全系统Perception，用于持续监控、修补漏洞并应对新型威胁。（界面）",
+    "title_zh": "微软AI发布网络安全模型MAI-Cyber-1-Flash，漏洞检测性能提升并降低50%成本",
+    "summary_zh": "微软AI发布首款网络安全专用模型MAI-Cyber-1-Flash，集成至MDASH平台，在基准测试中击败多个主流模型，同时实现成本减半，并推出智能体安全系统Perception。",
+    "key_points": [
+      "微软发布网络安全模型MAI-Cyber-1-Flash，性能超越主流模型",
+      "新方案在漏洞检测基准测试中达95.95%，成本降低50%"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "12531158aaad4bddee650e3b43fcfb5e",
+    "title": "These 5 AI risks have the highest potential for catastrophe",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8k7is/these_5_ai_risks_have_the_highest_potential_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-28T01:47:06+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v8k7is/these_5_ai_risks_have_the_highest_potential_for/\"> <img alt=\"These 5 AI risks have the highest potential for catastrophe\" src=\"https://external-preview.redd.it/u_da-SZAx3fbyoJXPiSwSqhvnKG2GUFsRoSJkAg3QEA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=144a5d05ef35093631aea07449e74865cf3f3b80\" title=\"These 5 AI risks have the highest potential for catastrophe\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https:",
+    "title_zh": "这5大AI风险最具引发灾难的潜力",
+    "summary_zh": "文章探讨了当前人工智能领域最具灾难性潜力的五大风险，引发了社区对AI安全与失控威胁的广泛关注和讨论。",
+    "key_points": [
+      "文章梳理了最具灾难性潜力的5大AI风险",
+      "引发对AI安全与失控威胁的广泛讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
