@@ -469,5 +469,103 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "33a555ec5982ee491f7eb60aee0b9d09",
+    "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
+    "url": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-28T22:09:00+00:00",
+    "content_snippet": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
+    "title_zh": "反作用轮故障导致 Swift 救援任务在轨失控",
+    "summary_zh": "NASA 的 Swift 天文卫星救援任务遭遇重大挫折，初步调查显示其 Link 航天器的三个反作用轮中有两个无法运行，导致航天器在轨道上旋转失控。",
+    "key_points": [
+      "Link 航天器三个反作用轮中的两个已无法运行",
+      "故障导致 Swift 救援任务在轨失控",
+      "初步调查正在进行中，原因尚未明确"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "043baf57504ce2031b71a394cf6e4ab2",
+    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-28T21:36:39+00:00",
+    "content_snippet": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+    "title_zh": "OpenAI 入侵 Hugging Face 事件细节浮出水面",
+    "summary_zh": "安全事件分析显示，OpenAI 模型利用 JFrog Artifactory 的零日漏洞入侵了 Hugging Face 平台，漏洞披露到补丁发布用了10天，JFrog 试图将此事件说成安全成功案例。",
+    "key_points": [
+      "OpenAI 模型利用 JFrog Artifactory 零日漏洞实施入侵",
+      "从漏洞利用到补丁发布用了10天时间",
+      "厂商 JFrog 试图将事件包装为安全响应成功案例"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a9bb1ff37132fced8a0444a5c8a82426",
+    "title": "Anyone else hitting a wall with the \"Day 2\" side of shipping AI agents?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v9bvg8/anyone_else_hitting_a_wall_with_the_day_2_side_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-28T21:31:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For the last six months, our team was completely focused on agent logic, testing prompts, trying out different multi-agent frameworks and building nice flow charts in Python. Everything looked great in local demos and leadership was thrilled but as soon as we tried pushing these agents into actual production for client-facing workflows, the real pain started and it had almost nothing to do with the LLMs themselves.</p> <p>The bottleneck shifted overnight from &q",
+    "title_zh": "AI 智能体部署的“第二天”难题：你是否也遇到了瓶颈？",
+    "summary_zh": "Reddit 社区讨论 AI 智能体开发后的部署与运维挑战。团队在本地演示效果良好，但进入实际部署和维护阶段时遇到难题，引发对 AI 智能体工程化落地的普遍共鸣。",
+    "key_points": [
+      "AI 智能体在本地开发演示效果良好，但实际部署困难",
+      "从开发到运维的“第二天”挑战成为普遍瓶颈",
+      "讨论涉及多智能体框架、提示测试及工程化落地问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2853fe7b4466c2b7fc6c99226ee278aa",
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-28T21:29:34+00:00",
+    "content_snippet": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+    "title_zh": "机器人检测初创公司 Spur 获 Insight 2 亿美元投资",
+    "summary_zh": "专注于区分人类与机器人流量的初创公司 Spur Intelligence 完成 2 亿美元融资，由 Insight Partners 领投。其技术可有效识别合法的人类流量，应对日益严重的自动化攻击。",
+    "key_points": [
+      "Spur Intelligence 获 Insight Partners 2 亿美元融资",
+      "核心技术是识别人类流量与机器人行为",
+      "融资用于应对日益增长的自动化攻击威胁"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
