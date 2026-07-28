@@ -2252,5 +2252,177 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "043e51f29149cdc622493442c02da16b",
+    "title": "Agent Mini: a minimal, local-first AI agent you can actually read, understand, and extend. [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v9131l/agent_mini_a_minimal_localfirst_ai_agent_you_can/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-28T15:03:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It is about ~3k lines of Python, uses Ollama by default, and ships with practical tools for shell, files, web search, memory, and vision.</p> <p>No LangChain. No LiteLLM. No big framework stack.<br /> Just <code>asyncio</code>, <code>httpx</code>, and a small ReAct loop tuned for local/smaller models.</p> <p>An agent that feels useful without becoming a black box. Didn't wanted to dig through framework abstractions to figure out how agents actually work, so buil",
+    "title_zh": "Agent Mini: 一个极简、本地优先、可读性强且易于扩展的 AI 代理",
+    "summary_zh": "Agent Mini 是一个约 3000 行 Python 代码的极简 AI 代理，默认使用 Ollama，无需 LangChain 等重型框架，仅依赖 asyncio 和 httpx 等库，提供了实用的 shell、文件、网页搜索和视觉等工具。",
+    "key_points": [
+      "约 3000 行 Python 代码，本地优先且易于理解和扩展",
+      "不依赖 LangChain 等重型框架，仅使用 asyncio 和 httpx",
+      "内置 shell、文件、网页搜索、记忆和视觉等实用工具"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0bc0d5db79e022725a13e4030e3dafc7",
+    "title": "Powerful Compute So Compact, It’s Clutch — Build AI in Your Hand With NVIDIA Jetson",
+    "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-28T15:00:19+00:00",
+    "content_snippet": "Anyone can make a robot move; NVIDIA Jetson makes it think. As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it.  In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI [&#8230;]",
+    "title_zh": "NVIDIA Jetson：将强大计算能力置于掌中，随时随地构建 AI",
+    "summary_zh": "NVIDIA 博客文章介绍了其 Jetson 平台，强调其紧凑且强大的计算能力，使开发者能够构建具备思考能力的机器人，并引用投资人 Sarah Guo 的观点，展示了 Jetson 作为 AI 开发工具的价值。",
+    "key_points": [
+      "NVIDIA Jetson 平台主打紧凑型高性能计算，适用于机器人 AI 开发",
+      "强调 Jetson 让机器人从移动升级为具备思考能力",
+      "引用投资人 Sarah Guo，将 Jetson 定位为 AI 开发者的必备工具"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cdcc3b47ae39690853e9d92b9c25b946",
+    "title": "NeurIPS 2026 Reviewer: AI-Generated Rebuttals (and Paper) [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v90r9r/neurips_2026_reviewer_aigenerated_rebuttals_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-28T14:52:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>One of the papers I reviewed has what seems to be entirely LLM-generated rebuttals, and the original paper is also clearly LLM-generated, with Claude-speak everywhere. While the authors acknowledge LLM writing assistance in the checklist, it really annoys me personally - what is clearly Claude's writing style is very difficult to parse, and indicates a lack of effort to me. While I'm trying to remain objective and realize it's my role just to judge the actual co",
+    "title_zh": "NeurIPS 2026 审稿人揭露：AI 生成的论文和反驳意见",
+    "summary_zh": "一名 NeurIPS 2026 的审稿人表示，其审阅的一篇论文及其反驳意见几乎完全由 LLM 生成，文中充满 Claude 式语言风格，尽管作者在清单中承认使用了 AI 辅助写作，但审稿人对此感到不满。",
+    "key_points": [
+      "NeurIPS 2026 审稿人发现论文及反驳意见几乎完全由 LLM 生成",
+      "论文充满 Claude 式语言风格，作者虽承认使用 AI 但引发审稿人不满",
+      "事件引发关于学术评审中 AI 使用规范的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ee1c557b1610b01e0d598d84e6955db7",
+    "title": "I built a deep learning library from scratch in C that lets you train language models [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v90hlt/i_built_a_deep_learning_library_from_scratch_in_c/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-28T14:42:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>my goal was to train a Language model (SLM) entirely from scratch so no ML libraries allowed . so i gathered what's needed to make it happen : </p> <p>from tensor manipulation (views, operations , allocations) </p> <p>the autograd ( a DAG that retains the previous operations and inputs in order that led into a certain output tensor , this let's us also apply backpropagation so i've got to implement also the partial derivative functions in order to calculate the ",
+    "title_zh": "我用 C 语言从零构建了一个能训练语言模型的深度学习库",
+    "summary_zh": "一位开发者分享其项目，完全从零开始，不依赖任何机器学习库，用 C 语言构建了一个包含张量运算、自动求导引擎等组件的深度学习库，并成功用于训练小型语言模型。",
+    "key_points": [
+      "用 C 语言从零构建深度学习库，不依赖任何 ML 库",
+      "库包含张量操作、基于 DAG 的自动求导引擎等核心组件",
+      "最终目标是训练一个完全从零开始的小型语言模型"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a0a38e5e4e341472162c0dd9fd4ee039",
+    "title": "The Control Problem: Why We Need to Build Interconnected Human-Governed Knowledge Layers in AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1v90g9t/the_control_problem_why_we_need_to_build/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-28T14:40:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There’s a lot of focus on making AI models bigger, faster, and more capable. I mean, yeah that clearly improves what they can do. But the more I’ve been working with them, the less it feels like capability is the bottleneck. It’s really about the context layer.</p> <p>Right now, you don’t really see how the model is interpreting what you give it, what it keeps, what it drops, or how it connects things. That stuff is mostly hidden. You can nudge it, but you’re st",
+    "title_zh": "控制问题：为何需要在 AI 中构建互联且由人类治理的知识层",
+    "summary_zh": "文章认为 AI 能力已非瓶颈，真正的挑战在于上下文层。作者提出需要构建一个互联、由人类治理的知识层，作为解决 AI 控制问题的关键，以更好地管理和引导 AI 系统。",
+    "key_points": [
+      "认为 AI 发展瓶颈不再是能力，而是上下文层的构建",
+      "主张构建互联、由人类治理的知识层来管理 AI",
+      "知识层是解决 AI 控制问题的核心方案"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "db6101629ce3e63d3356b540b55d0484",
+    "title": "[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)",
+    "url": "https://www.reddit.com/r/artificial/comments/1v903u8/academic_survey_employees_working_in_germany/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-28T14:27:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone!</p> <p>I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation.</p> <p>The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how <strong>attitudes toward the application of Artificial Intelligence in the workplace</strong> influence these relationships.</p> <p><strong>Who can participate?</strong></p> <ul> <li>You are <strong>currently worki",
+    "title_zh": "学术调查：德国员工对工作场所 AI 的态度",
+    "summary_zh": "这是一项面向德国员工的硕士论文学术调查，旨在研究员工对 HR 实践的看法如何影响工作投入和创新性，并特别关注员工对 AI 的态度在其中所起的作用。",
+    "key_points": [
+      "面向德国员工的硕士论文学术调查，时长 5-7 分钟",
+      "研究员工对 AI 的态度如何影响工作投入和创新性",
+      "探讨 AI 态度在 HR 实践与员工表现之间的作用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "72e62aa28e258fe4a7136bab51c6d9fa",
+    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+    "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-28T14:00:00+00:00",
+    "content_snippet": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+    "title_zh": "Fish Audio 获 5200 万美元种子轮融资，为创作者和企业打造 AI 语音模型",
+    "summary_zh": "Fish Audio 宣布获得 5200 万美元种子轮融资，其开源和托管版本的 AI 语音模型已吸引超过 800 万用户，公司年经常性收入达 2100 万美元，主要服务创作者和企业客户。",
+    "key_points": [
+      "获得 5200 万美元种子轮融资，用于 AI 语音模型开发",
+      "已有超过 800 万用户，年经常性收入达到 2100 万美元",
+      "提供开源和托管版本，面向创作者和企业客户"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
