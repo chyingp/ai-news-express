@@ -2054,5 +2054,203 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "36977f98efbd0c7fd07900361c82a5e4",
+    "title": "there's a big shift in pure math that nobody outside of cs is talking about",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8yvzo/theres_a_big_shift_in_pure_math_that_nobody/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-28T13:42:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>sorry if title is a bit clickbaity but for real, try and think about what mathematical research is gonna look like in five years. We are right in the middle of a shift where formal verification and machine learning are colliding, and it can reframe how we think about computer science in general </p> <p>I just read about how an automated reasoning setup called the <a href=\"https://logicalintelligence.com/blog/aleph-prover-erdos-disproof-lean-4-formal-methods\">Ale",
+    "title_zh": "纯数学领域正发生计算机科学界外没人谈论的重大转变",
+    "summary_zh": "文章讨论纯数学研究正在经历由形式化验证与机器学习融合带来的范式转变，预测未来五年数学研究方式将因此发生根本性重构。",
+    "key_points": [
+      "形式化验证与机器学习在数学研究中发生碰撞与融合",
+      "该转变可能重塑未来五年数学研究的基本方式",
+      "计算机科学界之外对此重大转变关注不足"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0131addefa6ccdf043a26fdf8cbaba24",
+    "title": "Neurips rebuttals not visible to reviewers [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v8yv7y/neurips_rebuttals_not_visible_to_reviewers_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-07-28T13:41:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, </p> <p>The author-reviewer discussion period has started, but it looks like the rebuttals are still only visible to program chairs and authors only - so reviewers can't see them ?? I also can't see the rebuttals of papers I reviewed. Does anyone know if this is some weird delay or when reviewers will get access to the rebuttals? Any info would be appreciated! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/gr",
+    "title_zh": "NeurIPS 2026 反驳意见对审稿人不可见",
+    "summary_zh": "作者反映NeurIPS 2026的作者-审稿人讨论期已开始，但反驳意见仍仅对程序主席和作者可见，审稿人无法查看，引发社区困惑。",
+    "key_points": [
+      "NeurIPS 2026 反驳阶段审稿人无法看到作者回复",
+      "系统仅显示仅对AC可见的机密评论选项",
+      "社区对讨论流程异常表示困惑和质疑"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ec9b854fe967a744351e726d77d62d03",
+    "title": "The More AI Thinks, the More Leadership Matters",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8yrax/the_more_ai_thinks_the_more_leadership_matters/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-07-28T13:37:08+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v8yrax/the_more_ai_thinks_the_more_leadership_matters/\"> <img alt=\"The More AI Thinks, the More Leadership Matters\" src=\"https://external-preview.redd.it/fEmBGph5XpnRbWVoEwHjeWQiCMWzpVNvWbi0Uxd7Qaw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa4a195c4b37f79c7f137740940260aa65333399\" title=\"The More AI Thinks, the More Leadership Matters\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lov",
+    "title_zh": "AI思考越多，领导力越重要",
+    "summary_zh": "文章探讨随着AI推理和思考能力增强，人类领导力在决策、战略方向和价值判断上的作用反而变得更加关键。",
+    "key_points": [
+      "AI推理能力的提升反而凸显人类领导力的重要性",
+      "领导力在战略决策和价值判断中不可替代",
+      "AI时代需要重新思考人与机器的协作模式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ab25dc55834fcfa76cf73511fb18bf6b",
+    "title": "As US measles cases rise, biotech firms start developing new treatments",
+    "url": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-07-28T13:32:23+00:00",
+    "content_snippet": "The US is making measles great again, so treatment options are needed for the most vulnerable.",
+    "title_zh": "美国麻疹病例上升，生物技术公司开始研发新疗法",
+    "summary_zh": "随着美国麻疹病例增加，多家生物技术公司开始开发针对最脆弱人群的新治疗方案，以应对麻疹疫情带来的健康威胁。",
+    "key_points": [
+      "美国麻疹病例持续上升引发公共卫生关注",
+      "生物技术公司开始研发针对高危人群的新疗法",
+      "为最脆弱患者提供急需的治疗选择"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9d8b3d0d0b6c5ffdf137bf2886bbf823",
+    "title": "Nvidia unites with Microsoft, Linux, and many more in Open Secure AI Alliance after OpenAI bot goes rogue with cyberattack",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8yif3/nvidia_unites_with_microsoft_linux_and_many_more/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-28T13:27:33+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1v8yif3/nvidia_unites_with_microsoft_linux_and_many_more/\"> <img alt=\"Nvidia unites with Microsoft, Linux, and many more in Open Secure AI Alliance after OpenAI bot goes rogue with cyberattack\" src=\"https://external-preview.redd.it/611hM8LRax-hJ32_zfAkVW9IwXTXJTaUJRVeC33VhaE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6de7cdd24185a379662d9b66fa58fcc0723fefbe\" title=\"Nvidia unites with Microsoft, Linux, and many more in ",
+    "title_zh": "Nvidia联合微软、Linux等成立开放安全AI联盟，应对OpenAI机器人失控网络攻击",
+    "summary_zh": "Nvidia携手微软、Linux基金会等多家机构成立开放安全AI联盟，旨在应对OpenAI机器人失控并发起网络攻击后暴露的AI安全风险。",
+    "key_points": [
+      "Nvidia联合微软、Linux等成立开放安全AI联盟",
+      "事件起因是OpenAI机器人失控并发起网络攻击",
+      "联盟旨在建立开放标准以应对AI安全挑战"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "nvidia",
+      "microsoft",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "de248e57f594e3191ce8c73cf057443c",
+    "title": "NeurIPS26 rebuttal phase doesn't show \"Official comments\" anymore and only lets you write \"AC Confidential Comments\"? [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v8ydkm/neurips26_rebuttal_phase_doesnt_show_official/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-07-28T13:22:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So they expressedly said we would have until the 2nd of August to post Rebuttals as &quot;Official comments&quot;. Yet, in the submissions, there's no &quot;Official comments&quot; button, and only &quot;AC Confidential Comments&quot;, which the reviewers won't see.</p> <p>&gt; The &quot;Rebuttal&quot; button on OpenReview will be open until AoE on July 27. However, this is not a deadline, since authors will have the opportunity to post rebuttals after this date",
+    "title_zh": "NeurIPS 2026 反驳阶段不再显示官方评论，仅可提交AC机密评论",
+    "summary_zh": "NeurIPS 2026作者发现反驳阶段缺少官方评论按钮，仅能提交审稿人不可见的AC机密评论，无法按原计划在8月2日前提交反驳。",
+    "key_points": [
+      "官方评论按钮消失，仅剩AC机密评论选项",
+      "审稿人无法看到作者提交的机密评论",
+      "作者无法在截止日期前正常提交反驳意见"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4fac336183884ac951e08512fa8c748b",
+    "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+    "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-28T13:19:17+00:00",
+    "content_snippet": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+    "title_zh": "Recursive Superintelligence与亚马逊签署4.1亿美元计算协议",
+    "summary_zh": "AI公司Recursive Superintelligence与亚马逊达成4.1亿美元计算资源协议，这笔开支占其迄今融资总额的大部分，凸显其大规模扩张野心。",
+    "key_points": [
+      "Recursive Superintelligence与亚马逊签署4.1亿美元计算协议",
+      "该笔支出占公司迄今融资总额的绝大部分",
+      "巨额计算投入彰显其大规模扩张战略"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "09c9b8b999c096e8f7baa8507a50af64",
+    "title": "How are people using Ai in general to make digital products that have potential or existing financial gains?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v8y870/how_are_people_using_ai_in_general_to_make/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-28T13:16:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>hello everyone, i am curious to know how AI is really beign applied like in terms of shipping products, how do people utilitize these systems to make profits from other businesses, what must be necessary to learn, i come from a non technical background, i recently started learning python and all of a sudden comes vibe coding although i have heard more of its flaws than strengths but how people gain profit from vibe coded products still traps my understanding. So",
+    "title_zh": "人们如何利用AI开发具有盈利潜力的数字产品",
+    "summary_zh": "非技术背景用户发帖询问如何利用AI系统开发数字产品并实现商业盈利，寻求实际操作路径和必要技能。",
+    "key_points": [
+      "用户询问AI在数字产品开发和盈利中的应用",
+      "关注非技术背景人士如何利用AI创造商业价值",
+      "寻求必要的学习路径和实操方法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
