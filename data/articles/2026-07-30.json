@@ -491,5 +491,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0defcd214a6736708b62d7e0819de7de",
+    "title": "Open-source tabular model validation toolkit TanML needs feedback [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1va7w4p/opensource_tabular_model_validation_toolkit_tanml/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-29T20:22:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We’re developing TanML, an MIT-licensed automated model-validation toolkit for tabular machine-learning models.</p> <p>TanML runs locally and provides an end-to-end workflow covering data profiling, preprocessing, feature-power ranking, model development, evaluation, drift analysis, stress testing, SHAP explainability, and audit-ready Word reports.</p> <p>It is designed particularly for model-risk workflows in banking, credit risk, insurance, and other regulated",
+    "title_zh": "开源表格模型验证工具包 TanML 寻求反馈",
+    "summary_zh": "开发者发布了一款名为 TanML 的 MIT 许可开源工具包，用于表格机器学习模型的自动化验证，涵盖数据剖析、预处理、特征功效排序、模型开发和评估等全流程，并寻求社区反馈。",
+    "key_points": [
+      "TanML 是 MIT 许可的开源表格模型验证工具包",
+      "提供从数据剖析到模型评估的端到端工作流",
+      "目前处于开发阶段，正在向社区寻求反馈"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3c23397e6b3ac945cefb5d72fcf7e93d",
+    "title": "After weeks of testing AI writing tools, one thing surprised me",
+    "url": "https://www.reddit.com/r/artificial/comments/1va6xz3/after_weeks_of_testing_ai_writing_tools_one_thing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-29T19:48:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Spent the last few weeks properly stresstesting a handful of AI writing tools for a client project, not just casual prompting but actually trying to get them to produce publishable longform drafts. The output is better than I expected, which is not a comfortable thing to admit when your income depends on writing.</p> <p>What caught me off guard wasn't the quality of any single paragraph. It was how the tools handle structure. Give a decent brief and you get a pi",
+    "title_zh": "深度测试 AI 写作工具后，有一点让我感到意外",
+    "summary_zh": "作者分享了对多款 AI 写作工具进行高强度测试的体验，旨在让它们生成可发表的长篇草稿。测试结果超乎预期，但同时也引发了对内容创作未来的不安。",
+    "key_points": [
+      "对 AI 写作工具进行高强度测试，生成可发表长篇内容",
+      "AI 输出质量超出预期，引发对写作行业的思考",
+      "AI 写作工具的进步令人感到不安"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "101b78fb3cd4957b579ff042e4283c72",
+    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+    "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-29T19:44:49+00:00",
+    "content_snippet": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+    "title_zh": "Hugging Face AI 遭入侵事件，用愈发投入的熊的比喻来讲述",
+    "summary_zh": "TechCrunch 通过一个关于营地熊的比喻，讲述了 Hugging Face 平台近期遭遇的安全入侵事件，以独特的方式剖析了此次事件的经过和影响。",
+    "key_points": [
+      "TechCrunch 用熊的比喻报道 Hugging Face 安全入侵事件",
+      "事件涉及 AI 平台 Hugging Face 遭受未授权访问",
+      "以独特的叙事方式剖析事件经过和影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "18ad0fdde10c3bb6d3c9dd1ad2d727eb",
+    "title": "Image editor AI p60",
+    "url": "https://www.reddit.com/r/artificial/comments/1va6lut/image_editor_ai_p60/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-29T19:36:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys,</p> <p>Don’t ask but I need to slightly alter my p60 form. Is there any image editor that has no restrictions I can use for this ?</p> <p>Thanks in advance </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lewisg55\"> /u/lewisg55 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1va6lut/image_editor_ai_p60/\">[link]",
+    "title_zh": "图片编辑器 AI p60",
+    "summary_zh": "一位用户在 Reddit 上寻求帮助，希望找到一款没有限制的 AI 图片编辑器，用于修改其 P60 税务表格，引发了对 AI 工具滥用和伦理问题的讨论。",
+    "key_points": [
+      "用户寻求无限制的 AI 图片编辑器以修改税务表格",
+      "请求引发对 AI 工具伦理和滥用风险的讨论",
+      "P60 表格是英国年终税务总结文件"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
