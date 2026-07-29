@@ -1,0 +1,198 @@
+[
+  {
+    "id": "0bd36dff2be3bdb0acbeb220a99a0a81",
+    "title": "I replaced our agent's CLAUDE.md with a POMDP-style state-action graph, +16 to +20pts task success",
+    "url": "https://www.reddit.com/r/artificial/comments/1va2g7k/i_replaced_our_agents_claudemd_with_a_pomdpstyle/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-29T17:11:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Ran into this problem: a flat markdown file (or even a GraphRAG &quot;brain&quot;) gives agents better context, but when a chain of actions fails, you cannot point to which stpe broke or what to fix. No explicability, a slow convergence, and no ceiling.</p> <p>So I modeled it as a partially observable MDP instead. States the agent can observe become nodes, actions become edges, and each edge is weighted by success probability, token cost, and outcome. The agent ",
+    "title_zh": "我用POMDP风格的状态-动作图替换了CLAUDE.md，任务成功率提升16到20个百分点",
+    "summary_zh": "开发者分享经验，用POMDP风格的状态-动作图替代传统Markdown文件来指导AI代理，解决了任务失败时无法追溯错误步骤的问题，显著提升了任务成功率。",
+    "key_points": [
+      "用POMDP状态-动作图可追溯AI代理失败步骤",
+      "新方法相比传统Markdown文档提升任务成功率",
+      "解决了链式动作失败时难以调试的痛点"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fb0c88e14d0e76470e9e063a86c3c832",
+    "title": "How are these videos/images created?",
+    "url": "https://www.reddit.com/r/artificial/comments/1va2b2f/how_are_these_videosimages_created/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-29T17:07:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello,</p> <p>I am looking to create higher quality AI photos for my company using my product. I am using currently Gemini free. The photos are OK. I see so many brands using AI with better quality pictures and unique designs.</p> <ol> <li>What do you recommend for an app/tech stack for creating better images for ads/instagram that can transform my static product photos?</li> </ol> <p>Images like these: <a href=\"https://www.instagram.com/p/Dakx2nGIbEG/?hl=en\">ht",
+    "title_zh": "这些视频和图片是如何制作的？",
+    "summary_zh": "用户寻求建议，希望为公司的产品创建更高质量的AI照片，目前使用Gemini免费版但效果一般，想了解其他品牌使用的更好工具和设计方案。",
+    "key_points": [
+      "用户对Gemini免费版图片质量不满意",
+      "寻求更高质量AI图片生成工具推荐",
+      "目标是用于产品展示和品牌设计"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e371035f3de96deb696f12ca9d8372a4",
+    "title": "Can you sweet talk AI into giving you what you want? Yes.",
+    "url": "https://www.reddit.com/r/artificial/comments/1va27l1/can_you_sweet_talk_ai_into_giving_you_what_you/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-29T17:03:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>LLMs are trained on human content, and their brains are modeled on ours. So it shouldn't be surprising that AIs respond to persuasive techniques that work on humans, such as appeals to authority, and liking (taking advantage of the fact that people will cooperate with those who flatter them.)</p> <p>According to a May 2026 study: </p> <p>&quot;Our findings show that classic persuasion techniques can meaningfully increase LLM compliance with verboten requests (fr",
+    "title_zh": "你能通过甜言蜜语让AI满足你的要求吗？答案是肯定的",
+    "summary_zh": "文章探讨大语言模型因训练于人类内容，会对人类有效的说服技巧（如诉诸权威、喜好）产生反应，强调提示工程中的心理学应用。",
+    "key_points": [
+      "LLM对诉诸权威、喜好等说服技巧有反应",
+      "提示工程可借鉴人类心理学方法",
+      "模型训练数据导致其行为模仿人类"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f24b6ad943a9107014dfed9aae0ba31a",
+    "title": "Robot latency is also a recovery problem",
+    "url": "https://www.reddit.com/r/artificial/comments/1va26bh/robot_latency_is_also_a_recovery_problem/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-29T17:02:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A robot can be fast on average and still drift when the scene changes between planning steps. The camera catches a misplaced object. Someone steps into the workspace. The system has to decide whether to finish the imagined action or replan from reality. That recovery path matters more than one sampler throughput number.</p> <p>The LingBot-VA 2.0 design pairs foresight reasoning with regrounding when new observations arrive. Its headline number is more than a fou",
+    "title_zh": "机器人延迟也是一个恢复问题",
+    "summary_zh": "机器人执行任务时，场景变化（如物体移位、人员进入工作区）会导致系统需在完成预定动作和重新规划间决策，恢复延迟比平均速度更重要。",
+    "key_points": [
+      "机器人需在场景变化时快速决策是否重新规划",
+      "恢复延迟是衡量机器人性能的关键指标",
+      "动态环境对机器人实时响应能力提出挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "324fc3767d0bb7ab2895f460fcdf8f1c",
+    "title": "A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps (Gift Article)",
+    "url": "https://www.reddit.com/r/artificial/comments/1va1ttk/a_deluge_of_ai_computing_power_is_about_to_come/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-29T16:50:15+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1va1ttk/a_deluge_of_ai_computing_power_is_about_to_come/\"> <img alt=\"A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps (Gift Article)\" src=\"https://external-preview.redd.it/8Gwl5WuNZkh4lvpauhLckngUgxRR4v_xh0_m1Vr4BwA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c02df11710fe6f9ee99c1906e6eed3f27525c2c0\" title=\"A Deluge of A.I. Computing Power Is About to Come Online, Fueling Major Leaps (Gift A",
+    "title_zh": "海量AI算力即将上线，推动重大飞跃",
+    "summary_zh": "大量AI计算能力即将投入使用，预计将促进人工智能领域的重大技术突破，新算力基础设施的部署正在加速。",
+    "key_points": [
+      "大规模AI计算基础设施即将上线",
+      "新算力有望推动AI领域重大技术突破",
+      "算力增长是行业发展的关键驱动力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6636038822757e525b51480d4167c00f",
+    "title": "What are your opinions on SSIs partnership with NVIDIA?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v9zpzn/what_are_your_opinions_on_ssis_partnership_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-29T15:37:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Recently, SSI (The company run by Ilya Sutskever, the mastermind behind ChatGPT), announced a partnership with NVIDIA.</p> <p>From what we know, it seems like SSI has discovered something new in ML/AI that is worth scaling, and after NVIDIA saw that research, they decided to partner with them.</p> <p>You can read more <a href=\"https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership\">here</",
+    "title_zh": "你对SSI与英伟达的合作有何看法？",
+    "summary_zh": "伊利亚·苏茨克维领导的SSI宣布与英伟达合作，有消息称SSI在机器学习领域有新发现值得规模化，英伟达在看过研究后决定合作。",
+    "key_points": [
+      "伊利亚·苏茨克维的SSI与英伟达宣布合作",
+      "SSI或在ML领域有新发现值得规模化",
+      "合作基于英伟达对SSI研究的认可"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c037c1f2be4b8b92d4880a94256bc8ab",
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-29T15:35:09+00:00",
+    "content_snippet": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+    "title_zh": "玛莎·斯图尔特联合创立AI家居管理初创公司Hint",
+    "summary_zh": "玛莎·斯图尔特联合创立的AI家居管理初创公司Hint，旨在成为“家庭AI”，整合房产记录、维护计划、家庭文档和AI助手到单一应用中。",
+    "key_points": [
+      "玛莎·斯图尔特联合创立AI家居管理初创公司Hint",
+      "Hint整合房产记录、维护计划和AI助手",
+      "目标成为一体化家庭AI管理平台"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "49f148353910d81c2cc1230e0d54c9f6",
+    "title": "trusted AI bench marks?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v9z46i/trusted_ai_bench_marks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-29T15:16:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>i heard alot of people say the bench marks released are rigged to show that thire ai model is better than others often too much it become obvious and ridiculous</p> <p>is there an account or someone that dose actual benchmarks? it dosent need to be super detailed, just enough to know which ai is better in a certain field like code</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Sorry-Economist101\"> /u/Sorry-Economist101 </a",
+    "title_zh": "可信任的AI基准测试？",
+    "summary_zh": "用户质疑许多AI基准测试被操纵以显示自家模型更优，寻求真正独立、公正的基准测试评估来源。",
+    "key_points": [
+      "用户质疑AI基准测试结果被操纵",
+      "寻求独立可信的AI模型评测来源",
+      "需要简单可靠的第三方评测"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
