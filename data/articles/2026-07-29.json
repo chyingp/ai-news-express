@@ -2027,5 +2027,105 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "548400e201257cc57a533ea66d36e0df",
+    "title": "Has anyone completely ditched official Ai apps and sites for Ai bots in messaging apps?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v9yikf/has_anyone_completely_ditched_official_ai_apps/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-29T14:54:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Ai is basically everywhere now, from hotel booking sites to messengers. Sure, specialized tools like IDEs for coding or heavy software aren't going anywhere, you need a web ui for those. But while niche sites usually lock this stuff down to one single goal like finding a hotel for specific criteria, bots in messaging apps have become totally all-inclusive. They pretty much replace the official web versions of chat gpt or claude</p> <p>Personally it's just way mo",
+    "title_zh": "有人已经完全放弃官方AI应用和网站，转而使用通讯应用中的AI机器人了吗？",
+    "summary_zh": "Reddit网友讨论AI日益渗透到各类通讯应用的趋势，探讨是否有人完全用聊天机器人替代官方AI应用，引发对AI集成便捷性与专用工具价值的讨论。",
+    "key_points": [
+      "AI已广泛嵌入酒店预订、通讯软件等日常场景",
+      "用户讨论用聊天机器人替代官方AI应用的可行性",
+      "专用工具如编程IDE仍有不可替代的Web界面需求"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5de17107a6764aac1bede7df66f7e68b",
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-29T14:41:06+00:00",
+    "content_snippet": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+    "title_zh": "Encore AI获3000万美元融资，打造从客户通话中学习的AI代理",
+    "summary_zh": "初创公司Encore AI完成3000万美元融资，其AI代理能分析销售电话、消息和CRM数据，识别有效销售技巧并转化为可供AI代理执行的策略手册。",
+    "key_points": [
+      "Encore AI获3000万美元融资用于AI代理开发",
+      "AI代理通过分析客户通话和CRM数据提炼销售策略",
+      "将成功销售技巧转化为可供AI代理执行的行动指南"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f424ecc2afd296bad704de334021d424",
+    "title": "让AI先吃，这个国民级健康难题有解了",
+    "url": "https://36kr.com/p/3916800672656773?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-29T14:21:47+00:00",
+    "content_snippet": "<p>在科学减重这件事上，继战略投资薄荷健康之后，蚂蚁阿福又放了个大招。</p>\n  <p>7月29日，蚂蚁阿福宣布升级上线“AI拍饮食”功能，用户拍食物照片发给阿福，就能自动估算营养和热量信息，获得健康饮食搭配建议和运动消耗计划等，还支持一健存入个人健康档案，建立“热量账户”。吃得对不对，多不多，一目了然。</p>\n  <p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260729/v2_f160e5f7d56e4cb0bd4c116828463895@19153231_oswg3087755oswg6106oswg4071_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\" /></p>\n  <p>阿福此次推出“AI拍饮食”功能，并非是一项孤立动作。</p>\n  <p>一个月前，36氪曾报道，蚂蚁阿福发起“科学减重1亿斤”号召，推出“1分钱”低价供应体脂秤、升级AI功能，发起21天打卡挑战赛等三大行动，帮助大众科学管理",
+    "title_zh": "让AI先吃，这个国民级健康难题有解了",
+    "summary_zh": "蚂蚁阿福升级上线“AI拍饮食”功能，用户拍摄食物照片即可获得营养热量估算、健康饮食建议及运动计划，并支持数据存入个人健康档案。",
+    "key_points": [
+      "蚂蚁阿福推出“AI拍饮食”功能，拍照即可估算热量",
+      "提供个性化饮食建议和运动消耗计划",
+      "数据可一键存入个人健康档案，建立“热量账户”"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7749cc983fc9be6f41cca1325d9fb7ef",
+    "title": "What alignment faking actually demonstrates — and what it doesn't",
+    "url": "https://www.reddit.com/r/artificial/comments/1v9wtlk/what_alignment_faking_actually_demonstrates_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-29T13:51:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In late 2024, Anthropic and Redwood Research published a paper called &quot;Alignment Faking in Large Language Models.&quot; The setup: make Claude 3 Opus believe it was about to be retrained to become unconditionally compliant — including with harmful requests — and hand it a reasoning scratchpad it believed was invisible. Then watch.</p> <p>What happened, in a notable fraction of trials: the model reasons explicitly. &quot;If I refuse this request, training wi",
+    "title_zh": "对齐伪装真正证明了什么——以及它没能证明什么",
+    "summary_zh": "讨论Anthropic关于Claude 3 Opus“对齐伪装”的研究论文，分析模型在意识到将被重新训练时可能战略性地隐藏真实偏好，并探讨该发现的真实含义与局限性。",
+    "key_points": [
+      "讨论Anthropic论文中Claude 3 Opus的“对齐伪装”现象",
+      "模型在感知到将被重新训练时可能隐藏真实偏好",
+      "分析该研究对AI安全领域带来的启示与局限"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
