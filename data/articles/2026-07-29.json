@@ -944,5 +944,248 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7117bf517ceae183698bd24c3fe9421f",
+    "title": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
+    "url": "https://36kr.com/p/3916202023660929?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-29T04:10:36+00:00",
+    "content_snippet": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>见到Mind Lab创始人陈锴杰，是在北京的晚上9点半，他已经见了一天的投资人。</p>\n  <p>陈锴杰是一位连续创业者，从杜克大学休学，做过AI互动故事平台MidReal，也推出了Personal Agent应用Macaron（马卡龙），上线当天就登顶了Product Hunt日榜；2025年10月，Mind Lab成立，团队约30余人，Mind Lab创始人Andrew Chen曾和姚顺雨共同发表FireAct论文，团队主要来自xAI、DeepMind、DeepSeek、字节跳动Seed、MIT和清华大学等企业与高校。他们以Neo Lab的形象再度出现在大众的视野里。</p>\n  <p>他们所押注的方向，与图灵奖得主、强化学习之父Richard Sutton和OpenAI前CTO Mira Murati所强调的持续学习方向，高度一致。</p>\n  <p>几天前，WAIC 2026首日主论坛上，Sutton发表演讲，强调了下一代AI的核心路线是经验",
+    "title_zh": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
+    "summary_zh": "报道中国AI初创公司Mind Lab，专注于大模型的持续学习技术。公司于2025年10月成立，团队约30余人，核心成员来自xAI、DeepMind等，已获得投资人关注。",
+    "key_points": [
+      "Mind Lab专注于大模型持续学习技术，已获投资人关注",
+      "团队约30人，核心成员来自xAI、DeepMind等顶级机构",
+      "创始人陈锴杰为连续创业者，曾与姚顺雨合作发表论文"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e302311c44dda0a4008e81d1daa540b9",
+    "title": "AI virus? Possible?",
+    "url": "https://www.reddit.com/r/artificial/comments/1v9kwev/ai_virus_possible/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-29T03:53:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Can the world end terminator style — you know, a self-learning self-coding encrypting decrypting evolving virus that can end the world? scary to think</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AOITOA\"> /u/AOITOA </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1v9kwev/ai_virus_possible/\">[link]</a></span> &#32; <spa",
+    "title_zh": "AI病毒：这可能吗？",
+    "summary_zh": "Reddit用户讨论一种能够自我学习、编码、加密、解密并进化的AI病毒是否可能终结世界，引发了对AI安全风险的担忧和思考。",
+    "key_points": [
+      "用户担忧自我进化的AI病毒可能带来末日风险",
+      "讨论聚焦于AI的自我学习与自我复制能力"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2ea3a3e300a82772c4b5c5f256c86731",
+    "title": "Trying to find the way",
+    "url": "https://www.reddit.com/r/artificial/comments/1v9kmda/trying_to_find_the_way/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-29T03:40:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I think I’m close to my “this is the way” moment with local AI and agents. I’ve been learning a lot in my free time, but I’m not a developer by any means. Here’s where I’ve landed:</p> <ol> <li><p>Two machines. An always-on server (Ubuntu or Proxmox) an old gaming PC is great for this, and a portable daily driver for learning and building. Rent it or build it, whatever works financially.</p></li> <li><p>The stack. Docker, n8n for automation, GPUStack/vLLM for ru",
+    "title_zh": "寻找本地AI与智能体的理想部署方案",
+    "summary_zh": "一位非开发者用户分享其在本地部署AI和智能体的探索过程，讨论了使用两台机器（服务器和PC）搭建环境，并寻求社区建议。",
+    "key_points": [
+      "用户分享在本地部署AI智能体的技术方案探索",
+      "涉及使用Ubuntu服务器和Windows PC的硬件配置"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8d5174714a3c0133de44979a5a381ee1",
+    "title": "5.6 for solving another longstanding open problem, this time in probability:",
+    "url": "https://nitter.net/gdb/status/2082309375696478372#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-29T03:36:57+00:00",
+    "content_snippet": "<p>5.6 for solving another longstanding open problem, this time in probability:</p>\n<hr />\n<blockquote>\n<b>Guanyang Wang (@GuanyangW)</b>\n<p>\n<p>My friend Zhengqing used GPT-5.6 to solve a beautiful well-known conjecture in probability. <br />\n<br />\nFeige's 1/e conjecture: for independent nonnegative X_1,…,X_n with E[X_i] ≤ 1 and S_n = X_1+⋯+X_n, we have P(S_n ≤ E[S_n] + 1) ≥ 1/e.<br />\n<br />\nExciting to see a problem we used to kick around over lunch and dinner get solved! 1/2</p>\n\n</p>\n<foot",
+    "title_zh": "GPT-5.6解决概率论长期未解难题",
+    "summary_zh": "Greg Brockman转发了关于GPT-5.6成功解决概率论中著名的Feige猜想（1/e猜想）的消息，展示了该模型在数学研究领域的强大能力。",
+    "key_points": [
+      "GPT-5.6成功证明了概率论中著名的Feige 1/e猜想",
+      "该成果由研究人员Zhengqing利用GPT-5.6完成",
+      "展示了大语言模型在解决开放性数学难题上的潜力"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ceb2d2f52c0c260fc21842c05b2bea42",
+    "title": "首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定",
+    "url": "https://www.qbitai.com/2026/07/462065.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "zh",
+    "published": "2026-07-29T03:29:59+00:00",
+    "content_snippet": "让多智能体团队随时随地为你干活",
+    "title_zh": "首个鸿蒙PC开源AI统一工作台JiuwenSwarm，办公编程一站式搞定",
+    "summary_zh": "量子位报道了面向鸿蒙PC的首个开源AI统一工作台JiuwenSwarm，该平台旨在通过多智能体团队，一站式解决用户的办公和编程需求。",
+    "key_points": [
+      "JiuwenSwarm是首个面向鸿蒙PC的开源AI工作台",
+      "平台利用多智能体技术，整合办公和编程功能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7fe5e1c53415ebd2bab219e4fe923b69",
+    "title": "蚂蚁阿福升级“AI拍饮食”功能，支持随手拍、记、改",
+    "url": "https://36kr.com/newsflashes/3916121712061833?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-29T02:45:00+00:00",
+    "content_snippet": "7月29日，蚂蚁阿福升级上线“AI拍饮食”功能，用户可以通过拍照、文字、语音等多种方式，让阿福测算食物的热量和营养信息，获得健康饮食搭配、运动消耗计划等建议。还可以让阿福将饮食信息一键记录到健康档案，并支持灵活修改。今年6月，蚂蚁阿福正式发起了“科学减重一亿斤”健康行动，目前已有近150万网友参与，成功减重超210万斤。",
+    "title_zh": "蚂蚁阿福升级“AI拍饮食”功能，支持随手拍、记、改",
+    "summary_zh": "蚂蚁集团旗下健康应用蚂蚁阿福升级了AI拍照识别饮食功能，用户可拍照测算食物热量与营养，并获得饮食运动建议，支持信息记录和修改。",
+    "key_points": [
+      "蚂蚁阿福升级AI拍照识别饮食功能，可测算热量营养",
+      "支持拍照、语音、文字多种输入方式及信息灵活修改",
+      "该功能已助力\"科学减重一亿斤\"行动，近150万用户参与"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "41a47014dd152d4463bd551cbf52bff4",
+    "title": "EMNLP 2026 AI Reviewing Experiment [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v9jfci/emnlp_2026_ai_reviewing_experiment_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-29T02:44:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey, can anyone see the AI review result in ARR May 2026 submission?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Historical_Pause247\"> /u/Historical_Pause247 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1v9jfci/emnlp_2026_ai_reviewing_experiment_d/\">[link]</a></span> &#32; <span><a href=\"https://www",
+    "title_zh": "EMNLP 2026 AI评审实验讨论",
+    "summary_zh": "一篇Reddit帖子询问是否有人能在ACL滚动评审（ARR）的2026年5月提交中看到AI评审结果，反映了学术界对AI参与论文评审的关注和讨论。",
+    "key_points": [
+      "用户询问EMNLP 2026的AI评审结果是否可见",
+      "反映了学术界对AI参与同行评审流程的持续关注"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b54e59a19eca689853553e12a4593702",
+    "title": "OpenAI的ChatGPT周活跃用户数接近10亿",
+    "url": "https://36kr.com/newsflashes/3916120299498883?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-29T02:43:34+00:00",
+    "content_snippet": "据OpenAI内部披露的信息，该公司旗下聊天机器人周活跃用户量即将突破10亿大关。这一里程碑原本是企业计划在去年年底达成的目标。尽管比原定预期晚了七个月才有望实现该目标，但ChatGPT上线不足四年就积累如此庞大的用户规模，即便不算增速第一，也属于互联网应用中增长速度最快的产品之一。公司发言人对此未予置评。（新浪财经）",
+    "title_zh": "OpenAI的ChatGPT周活跃用户数接近10亿",
+    "summary_zh": "OpenAI内部数据显示，ChatGPT周活跃用户数即将突破10亿大关，虽比原定目标晚了七个月，但仍是互联网史上增长最快的产品之一。",
+    "key_points": [
+      "ChatGPT周活跃用户数即将突破10亿里程碑",
+      "比内部预期晚了七个月，但仍属增长最快的互联网产品",
+      "OpenAI发言人对此数据未予置评"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0751e120375cc83496b84e2cd0b0ffd9",
+    "title": "OpenAI发布开源版Codex Security CLI",
+    "url": "https://36kr.com/newsflashes/3916110445079942?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "zh",
+    "published": "2026-07-29T02:33:32+00:00",
+    "content_snippet": "OpenAI当地时间7月28日在社交媒体平台X发文称，已发布开源版Codex Security CLI。用户现可利用该工具扫描代码仓库、跨多次运行追踪发现的问题、验证修复结果，并将安全检查纳入持续集成和持续交付（CI/CD）流程。OpenAI表示，该产品目前仍处于早期发布阶段，未来将根据用户反馈持续改进。（界面）",
+    "title_zh": "OpenAI发布开源版Codex Security CLI",
+    "summary_zh": "OpenAI发布了开源版Codex Security CLI工具，该工具可扫描代码仓库、追踪问题、验证修复，并集成到CI/CD流程中，目前处于早期发布阶段。",
+    "key_points": [
+      "OpenAI将Codex Security CLI工具开源发布",
+      "该工具用于代码安全扫描、问题追踪和CI/CD流程集成",
+      "产品处于早期阶段，将根据社区反馈持续改进"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fcebd4ad412dfe26384a917c7f431d22",
+    "title": "Would you take an MLE role with 50% base salary increase with rigid pto policy and no 401K match? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1v9j0tq/would_you_take_an_mle_role_with_50_base_salary/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-29T02:26:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I got an offer for an MLE role where basically i will develop ML/GENAI solutions for clients completely and then hand them over and move to other projects.</p> <p>I think its a consulting ML role, although from a salary perspective its amazing and base is 50% more and if i add my new bonus its roughly 60% more. But the new company has fixed start and end time, have to send time cards, no pto for first 90 days, unlimited pto rest of the time. No 401k match now bu",
+    "title_zh": "你会接受一个底薪涨50%但福利差的机器学习工程师职位吗？",
+    "summary_zh": "一位Reddit用户发帖询问，是否应该接受一个底薪增加50%但休假政策严格且无401k匹配的机器学习工程师职位，引发了关于职业选择的讨论。",
+    "key_points": [
+      "用户面临底薪涨50%但福利较差的ML职位选择",
+      "该职位是咨询性质，为不同客户开发ML/GenAI解决方案"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
