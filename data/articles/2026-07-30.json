@@ -793,5 +793,107 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1929c1854e3f09ba0267690601e82e9b",
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-29T23:00:11+00:00",
+    "content_snippet": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+    "title_zh": "扎克伯格预测：五年内数十亿人将拥有个人 AI 智能体",
+    "summary_zh": "Meta 首席执行官扎克伯格在财报电话会上预测，未来五年内数十亿人将拥有个人 AI 智能体，并试图说服投资者相信 Meta 在 AI 基础设施和智能体领域的大规模投资将获得回报。",
+    "key_points": [
+      "扎克伯格预测五年内数十亿人将拥有个人 AI 智能体",
+      "Meta 正大力投资 AI 基础设施和智能体以谋求长期回报"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "feca2ec539e2a7daccfdb87e1ac8ea6b",
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-29T22:46:03+00:00",
+    "content_snippet": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+    "title_zh": "微软财报：对 Anthropic 投资获利 32 亿美元，OpenAI 投资喜忧参半",
+    "summary_zh": "微软在 2026 财年第四季度财报中披露，其对 Anthropic 的投资已录得 32 亿美元收益，但在 OpenAI 上的投资情况则相对复杂，反映了两家竞争性 AI 实验室的不同财务表现。",
+    "key_points": [
+      "微软对 Anthropic 的投资已录得 32 亿美元收益",
+      "微软对 OpenAI 的投资表现则喜忧参半"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "microsoft",
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c9945336eb04156b5d433b7b818cb3ca",
+    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+    "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-29T22:23:12+00:00",
+    "content_snippet": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+    "title_zh": "扎克伯格：Meta 的企业 AI 机遇远不止于智能体",
+    "summary_zh": "Meta CEO 扎克伯格在第二季度财报电话会上表示，公司看到了涵盖 AI 智能体、API、算力及内部软件在内的“巨大企业市场机遇”，强调企业 AI 战略的广阔前景。",
+    "key_points": [
+      "Meta 认为企业 AI 机遇涵盖智能体、API、算力等多个领域",
+      "扎克伯格在财报会上强调企业 AI 战略的巨大潜力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2aaefae5d079feec74d97d38080ca53a",
+    "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+    "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-29T22:17:38+00:00",
+    "content_snippet": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, [&#8230;]",
+    "title_zh": "微软确认 Copilot“超级应用”将于今年推出",
+    "summary_zh": "微软 CEO 纳德拉在财报电话会上确认，将整合 Copilot 的聊天、编程及智能体功能，于今年推出一款覆盖消费者和商业体验的 AI“超级应用”。",
+    "key_points": [
+      "微软确认将推出整合多种 Copilot 功能的超级应用",
+      "该应用将同时面向消费者和商业用户，预计今年内发布"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
