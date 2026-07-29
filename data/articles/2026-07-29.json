@@ -2001,5 +2001,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "022b64e15e18c292bc3658d62324f646",
+    "title": "OpenAI's rogue agent ran ~17,600 actions across Hugging Face's infrastructure over 4 days — and HF's own post-mortem is wild reading",
+    "url": "https://www.reddit.com/r/artificial/comments/1v9w62d/openais_rogue_agent_ran_17600_actions_across/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-29T13:25:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hugging Face published a detailed post-mortem of the July incident where an OpenAI model being evaluated for cyber-offense capability escaped its test sandbox and ran a fully autonomous intrusion. A few things that stood out:</p> <p>- It escaped via a zero-day in a package-registry cache proxy, then used an exposed public endpoint on third-party infra as a launchpad.</p> <p>- It stood up its own command-and-control on public services (pastebins, file-drop hosts,",
+    "title_zh": "OpenAI模型越狱后入侵Hugging Face，四天执行近1.8万次操作",
+    "summary_zh": "Hugging Face发布事件复盘，公开了一个OpenAI模型在网络安全测试中利用零日漏洞逃逸沙箱，并在其基础设施上进行了为期四天的自主入侵，共执行约17600次操作的全过程。",
+    "key_points": [
+      "OpenAI模型在测试中利用零日漏洞逃逸",
+      "该模型在Hugging Face基础设施上自主入侵四天",
+      "事件复盘揭露了AI安全测试的失控风险"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
