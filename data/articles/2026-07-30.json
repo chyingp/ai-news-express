@@ -587,5 +587,211 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "169a6f9c3953f19a4f2240c0a2a1cef3",
+    "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+    "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-29T21:48:07+00:00",
+    "content_snippet": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do [&#8230;]",
+    "title_zh": "扎克伯格计划大力推动个人AI代理",
+    "summary_zh": "Meta CEO扎克伯格在Q2 2026财报电话会议上透露，公司将大力进军个人AI代理领域，这些代理能代替用户执行任务，展现了Meta对AI未来的高层愿景。",
+    "key_points": [
+      "Meta将重点发展能代表用户执行任务的个人AI代理",
+      "扎克伯格在财报会上预览了该战略的高层愿景",
+      "此举是Meta全面押注AI战略的下一步"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ef4ce337e44271a501631d3f7e3607ad",
+    "title": "ChatGPT Voice for spending more time working from where you want:",
+    "url": "https://nitter.net/gdb/status/2082583297809699300#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-29T21:45:25+00:00",
+    "content_snippet": "<p>ChatGPT Voice for spending more time working from where you want:</p>\n<hr />\n<blockquote>\n<b>Alex Finn (@AlexFinn)</b>\n<p>\n<p>ChatGPT Voice has 100% transformed how I work<br />\n<br />\nInstead of spending 12+ hours a day at my desk, I now spend at most 2<br />\n<br />\nThe rest is outside in nature. Picture below is me hiking this morning, getting WAY more done then I ever have at my desk<br />\n<br />\nYou need to be using it right tho<br />\n<br />\nHere are my best tips for getting the most out ",
+    "title_zh": "ChatGPT语音功能让人们随时随地自由工作",
+    "summary_zh": "OpenAI总裁Greg Brockman分享称，ChatGPT语音功能已彻底改变工作方式，使用户能大幅减少伏案时间，在户外自然环境中高效工作。",
+    "key_points": [
+      "ChatGPT语音功能使用户能将每日工作时间从12小时以上缩至2小时",
+      "该功能支持用户在户外自然环境中高效办公",
+      "展示了AI语音交互对工作模式的变革性影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b07cf3b1774fb2763b6c007b931c7cfb",
+    "title": "NVIDIA & others form the Open Secure AI Alliance",
+    "url": "https://www.reddit.com/r/artificial/comments/1va9rbe/nvidia_others_form_the_open_secure_ai_alliance/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-29T21:32:07+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1va9rbe/nvidia_others_form_the_open_secure_ai_alliance/\"> <img alt=\"NVIDIA &amp; others form the Open Secure AI Alliance\" src=\"https://external-preview.redd.it/0rj0OAO_jmUlOHvmSBchBft0VYg9AfhEFsXZOe_KPF4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4eceaa6f965439029939104f1197947af9b41a0a\" title=\"NVIDIA &amp; others form the Open Secure AI Alliance\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.c",
+    "title_zh": "英伟达等公司成立开放安全AI联盟",
+    "summary_zh": "英伟达联合其他机构共同成立了开放安全AI联盟，旨在推动安全可靠的人工智能发展，具体目标和成员细节尚未公布。",
+    "key_points": [
+      "英伟达牵头成立开放安全AI联盟",
+      "联盟旨在促进AI安全发展",
+      "标志着行业对AI安全协作的重视"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d3089ae2f30730a848646102f0b33675",
+    "title": "GPT-5.6 Sol for improving production serving efficiency. One of the ways we're able to get such great price-performance:",
+    "url": "https://nitter.net/gdb/status/2082579736065372189#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-29T21:31:16+00:00",
+    "content_snippet": "<p>GPT-5.6 Sol for improving production serving efficiency. One of the ways we're able to get such great price-performance:</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. <br />\n<br />\nThe results:<br />\n- 20% lower serving costs from production GPU kernel improvements.<br />\n- 15%+ better token-generation efficiency from improved speculative decoding.</p>\n\n</p>\n<footer>",
+    "title_zh": "GPT-5.6 Sol提升生产服务效率",
+    "summary_zh": "OpenAI通过部署GPT-5.6 Sol模型来优化自身运行效率，从而在价格和性能上取得显著优势，展示了模型自我改进的能力。",
+    "key_points": [
+      "GPT-5.6 Sol通过自我优化提升运行效率",
+      "该技术使OpenAI能提供更优的价格性能比",
+      "模型被应用于提升自身生产服务的效率"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0e31e3499c48aed633d480bb992619ae",
+    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-29T21:16:39+00:00",
+    "content_snippet": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "title_zh": "TechCrunch Disrupt 2026将探讨AI的SaaS清算与代理安全鸿沟",
+    "summary_zh": "TechCrunch Disrupt 2026大会的AI舞台将聚焦近年来最热门话题，包括SaaS行业的清算和AI代理的安全鸿沟，由Google Startups赞助。",
+    "key_points": [
+      "大会将深入探讨AI代理的安全鸿沟问题",
+      "SaaS清算成为AI领域核心议题之一",
+      "活动由Google for Startups支持"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a329966ddc1412b44fd38a9e2f98df4d",
+    "title": "The Human Killer App: Five AI Systems Assess the Human Machine",
+    "url": "https://www.reddit.com/r/artificial/comments/1va9cnz/the_human_killer_app_five_ai_systems_assess_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-29T21:16:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We spend a lot of time judging AI.<br /> So I asked five leading AI systems to judge us instead.</p> <p><em>“Humans operate an all-in-one general intelligence, high-definition computer vision system, and hyper-agile robotic chassis on the power of a ham sandwich.” ~Gemini</em></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CitizenOctopus\"> /u/CitizenOctopus </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"",
+    "title_zh": "人类杀手级应用：五大AI系统评估人类机器",
+    "summary_zh": "一项实验反向让五大领先AI系统评估人类，将人类描述为集通用智能、高清视觉和超敏捷机器人于一体，仅需三明治能量驱动的机器。",
+    "key_points": [
+      "实验让五大AI系统反向评估人类能力",
+      "AI将人类描述为高效能的通用智能机器人",
+      "提供了以AI视角审视人类的有趣观点"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7802d42c54c42673a7081740418be715",
+    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-29T21:07:48+00:00",
+    "content_snippet": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+    "title_zh": "Thinking Machines联合创始人Lilian Weng以健康为由离职后加入OpenAI",
+    "summary_zh": "Thinking Machines联合创始人Lilian Weng此前以健康原因离开公司，现已重新加入OpenAI，她曾担任OpenAI的AI安全研究副总裁。",
+    "key_points": [
+      "Lilian Weng以健康原因离开Thinking Machines",
+      "她随后重新加入OpenAI",
+      "Weng此前曾任OpenAI的AI安全研究副总裁"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "89095267772b9aed66abf57275ebe1ce",
+    "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+    "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-29T21:06:52+00:00",
+    "content_snippet": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, [&#8230;]",
+    "title_zh": "xAI紧急干预以阻止明尼苏达州反裸体化应用法",
+    "summary_zh": "xAI起诉明尼苏达州总检察长，反对一项针对“裸体化”应用的广泛法律，称该法将迫使其大幅限制Grok Imagine的图像编辑功能。",
+    "key_points": [
+      "xAI起诉阻止明尼苏达州反裸体化应用法",
+      "法律将迫使xAI限制Grok Imagine的图像编辑功能",
+      "xAI认为该法规让公司别无选择只能限制功能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
