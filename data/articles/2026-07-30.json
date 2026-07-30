@@ -1705,5 +1705,192 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "67627d7865fcfc34ba4410b68cf73da2",
+    "title": "Canva可画正式上线MCP能力，首批接入Kimi等AI Agent",
+    "url": "https://36kr.com/newsflashes/3917993275075970?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-30T10:28:51+00:00",
+    "content_snippet": "36氪获悉，7月30日，Canva可画宣布MCP（Model Context Protocol，模型上下文协议）能力正式在中国市场上线，并同步完成与Kimi、WorkBuddy及Qoder Work CN等本土AI Agent应用的首批接入。AI Agent可通过MCP标准化协议，直接调用Canva可画的视觉创作、素材管理和品牌资产管理等核心能力。",
+    "title_zh": "Canva可画正式上线MCP能力，首批接入Kimi等AI Agent",
+    "summary_zh": "Canva可画在中国市场正式上线MCP能力，通过标准化协议让Kimi等AI Agent可直接调用其视觉创作和品牌资产管理等核心功能，提升设计工具与AI的互操作性。",
+    "key_points": [
+      "Canva可画在中国上线MCP，标准化AI Agent调用",
+      "首批接入Kimi、WorkBuddy等本土AI应用",
+      "AI Agent可直接调用视觉创作和品牌资产管理"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ea56c7c41d7c713818724c4e7286d281",
+    "title": "Export your chats between AIs. Every new one always knows you",
+    "url": "https://www.reddit.com/r/artificial/comments/1vapro2/export_your_chats_between_ais_every_new_one/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-30T10:27:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I got tired of telling ChatGPT who I am, then switching to Claude and starting from zero. Then Gemini. Your history lives on three different companies' servers and none of them talk to each other.</p> <p>So I built MEMMEM (Windows for now, Mac/Linux planned). It imports the official data exports from ChatGPT, Claude and Gemini into a local SQLite memory on your own machine, and exposes a local MCP server. Any MCP-capable assistant (Claude Code, Codex, Gemini CLI",
+    "title_zh": "跨AI聊天记录导出：让每个新AI都了解你",
+    "summary_zh": "用户因厌倦在不同AI聊天工具间切换时重复介绍自己，开发了MEMMEM工具，旨在实现跨ChatGPT、Claude等平台的聊天记录导出与互通，打破数据孤岛。",
+    "key_points": [
+      "开发者构建MEMMEM工具解决跨AI聊天记录迁移问题",
+      "旨在打破ChatGPT、Claude等平台间的数据孤岛"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7c01f0b4fe965240febfb5c14bc7c27a",
+    "title": "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」",
+    "url": "https://36kr.com/p/3917984470576769?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-30T10:26:14+00:00",
+    "content_snippet": "<p class=\"image-wrapper\"><img src=\"https://img.36krcdn.com/hsossms/20260730/v2_7c3f9f679e1d44c09d952ebd4c611580@5889148_oswg407985oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\" /></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>&nbsp;</p>\n  <p><strong>消费决策入口正在发生变化。</strong></p>\n  <p>过去，人们购买一款产品，往往依赖品牌认知、朋友推荐、内容测评，或者在搜索框中主动寻找答案。</p>\n  <p>但如今，这一过程正在被AI重新改写。</p>\n  <p>“20-30万元新能源轿车怎么选？”“适合油皮的抗老精华有哪些？”“预算5000元买什么手机？”越来越多具体消费问题，开始直接交给AI回答。</p>\n  <p>QuestMobile数据显示，截至2026年6月，豆包、千问、DeepSee",
+    "title_zh": "36氪联合PureblueAI清蓝发布第二期「2026消费品牌AI推荐力名册」",
+    "summary_zh": "36氪与PureblueAI清蓝联合发布第二期消费品牌AI推荐力榜单，探讨AI如何改变消费决策入口，评估品牌在AI推荐系统中的影响力。",
+    "key_points": [
+      "36氪联合清蓝发布消费品牌AI推荐力榜单",
+      "探讨AI对消费决策入口的变革影响"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "55b11ca05b5239f75db0305a83432b53",
+    "title": "欧盟计划投资114亿美元建设7座人工智能超级工厂",
+    "url": "https://36kr.com/newsflashes/3917985494150530?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-30T10:20:56+00:00",
+    "content_snippet": "欧盟27国集团的执行官周四表示，欧盟将提供100亿欧元（114亿美元）的资金，资助企业建立7个人工智能巨型工厂，以缩小与美国的人工智能差距。欧盟委员会表示，希望公共融资能够吸引额外的200亿欧元（228亿美元）私人投资。企业现在可以竞标建造超级工厂的合同，这些工厂计划配备至少10万个尖端人工智能芯片，其性能大约是目前欧盟运行的数据中心性能的四倍。根据美国2025年的评估，欧洲在人工智能发展的关键领域远远落后于美国。根据6月份提交给欧洲议会的一份委员会报告，欧洲企业和公共当局将继续依赖美国人工智能提供商，这不利于在前沿工作的欧洲服务提供商。（新浪财经）",
+    "title_zh": "欧盟计划投资114亿美元建设7座人工智能超级工厂",
+    "summary_zh": "欧盟宣布将提供100亿欧元资助建设7座AI超级工厂，配备至少10万个尖端芯片，性能达现有数据中心四倍，并希望撬动额外200亿欧元私人投资，以缩小与美国的AI差距。",
+    "key_points": [
+      "欧盟投资114亿美元建设7座AI超级工厂",
+      "工厂配备10万个尖端芯片，性能为现有4倍",
+      "旨在缩小与美国在AI发展上的差距"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d3ef4a34cd19d37406def57f7527bd06",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-30T10:15:19+00:00",
+    "content_snippet": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+    "title_zh": "根本性缺陷使大语言模型极易遭受攻击",
+    "summary_zh": "MIT Technology Review报道，研究人员在ICML会议上指出，大语言模型因其工作原理的根本性缺陷而无法完全抵御黑客攻击，这一发现对AI安全领域具有重大影响。",
+    "key_points": [
+      "研究指出LLM存在根本性缺陷，无法完全确保安全",
+      "该缺陷使模型极易遭受攻击，影响AI安全"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6abf05e830332a1d7776e848e186bc1e",
+    "title": "How would answer these?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vapdr5/how_would_answer_these/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-30T10:06:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What is a claim?</p> <p>What is evidence?</p> <p>What is a constraint?</p> <p>What is a proof?</p> <p>What is an assumption?</p> <p>What is a contradiction?</p> <p>What is trust?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MuhammadMujtaba21\"> /u/MuhammadMujtaba21 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vapdr",
+    "title_zh": "如何回答这些问题？",
+    "summary_zh": "Reddit用户发帖询问关于主张、证据、约束、证明、假设、矛盾和信任等基础概念的定义，引发社区讨论。",
+    "key_points": [
+      "用户询问关于主张、证据、信任等基础概念的定义"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "efbe429d1e7860a757fc5cd22d087cd9",
+    "title": "I don’t think ML is worth learning [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vapd3e/i_dont_think_ml_is_worth_learning_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-30T10:05:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Context: I work with finance and ai systems and have been learnings ML the last month or 2. </p> <p>I could be severely wrong and if you think that I would love to know why and how I can learn/do what ai can’t. But my thought is ai can apply ML to an application as good as any engineer, the difference is how you prepare the data for the ai to act on. </p> <p>So would I not be better off learning how to prepare the data for ai effectively ?</p> <p>Thank you</p> <",
+    "title_zh": "我认为机器学习不值得学习",
+    "summary_zh": "一位金融与AI系统从业者发帖表示，在学习了两个月机器学习后，认为AI能自动将ML应用到程序中，因此质疑学习ML的价值，并寻求社区反驳意见。",
+    "key_points": [
+      "从业者质疑学习机器学习的价值，认为AI可替代应用",
+      "引发社区关于人类学习ML必要性的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "67b9118333add3bb94bb8c0c3250e4f2",
+    "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
+    "url": "https://www.qbitai.com/2026/07/463433.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-30T08:57:55+00:00",
+    "content_snippet": "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵",
+    "title_zh": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
+    "summary_zh": "Anthropic的Claude Code项目负责人表示，AI产品中的安全护栏（Harness）有效期仅约半年，主张在AI产品开发中应采取疏导而非封堵的策略，将大模型视为有机生物。",
+    "key_points": [
+      "Claude Code之父认为AI安全护栏有效期仅半年",
+      "主张AI产品开发应疏胜于堵，视模型为有机生物"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
