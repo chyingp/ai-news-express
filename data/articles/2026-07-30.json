@@ -2088,5 +2088,203 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "30e234bd3fe1655843ecf0955ac25a70",
+    "title": "Meta says AI is making it easier to build new apps — and more are coming",
+    "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-30T15:41:16+00:00",
+    "content_snippet": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+    "title_zh": "Meta 称 AI 正在让应用开发变得更容易，更多新产品即将推出",
+    "summary_zh": "Meta CEO 马克·扎克伯格向投资者表示，AI 正在大幅简化新消费应用的构建与发布流程，公司计划在近期为 Facebook 群组、Instagram 等推出一系列新产品。",
+    "key_points": [
+      "AI 显著降低了 Meta 构建和发布新消费应用的难度。",
+      "扎克伯格预告将有更多面向 Facebook 群组、Instagram 等的新产品。",
+      "此前已发布针对电商卖家、游戏等领域的 AI 应用。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e3145a78bc4aaebc254ea6a2bceb1210",
+    "title": "I have lost three and a half potential PhD students due to the conference review process [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vawwb8/i_have_lost_three_and_a_half_potential_phd/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-30T15:30:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Early-career Assistant Professor here. I identified some talented undergraduate students and worked with them on research problems, trying to convert them into either my PhD students or recommending them to my collaborators.</p> <p>Three said a hard no after going through the paper submission process. They are not interested in playing this game. The fourth said, “I really like doing research with you, but I don’t like dealing with the paper reviewers.” I manage",
+    "title_zh": "因会议审稿流程，我已失去三个半潜在博士生 [讨论]",
+    "summary_zh": "一位助理教授在 Reddit 发帖称，因学术会议审稿流程问题，导致其指导的优秀本科生对攻读博士失去兴趣，最终流失了多位潜在博士生。",
+    "key_points": [
+      "审稿流程冗长或不透明导致优秀本科生放弃读博。",
+      "该教授已流失三位潜在博士生及一位合作学生。",
+      "反映了学术界人才吸引与保留面临的挑战。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f98297874b887d466f324205e59f16c4",
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-30T15:19:15+00:00",
+    "content_snippet": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+    "title_zh": "Nscale 收购 Anyscale，旨在掌控更多 AI 算力堆栈",
+    "summary_zh": "英国 AI 新云服务商 Nscale 宣布收购软件初创公司 Anyscale，后者帮助企业跨数据中心和服务器扩展 AI 工作负载，以巩固其算力基础设施。",
+    "key_points": [
+      "Nscale 通过收购 Anyscale 强化其 AI 算力全栈能力。",
+      "Anyscale 的技术可帮助企业在多数据中心扩展 AI 任务。",
+      "此次收购旨在提升 Nscale 在云端 AI 市场的竞争力。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bac0f01a5321efbc27a3bb66c8ed58c7",
+    "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-30T15:09:09+00:00",
+    "content_snippet": "",
+    "title_zh": "GPU 管理：为何闲置 GPU 如同停飞的飞机",
+    "summary_zh": "一篇 Hugging Face 博客文章探讨了 GPU 资源浪费问题，将闲置 GPU 比作停飞的飞机，强调了提高 GPU 利用率对于 AI 基础设施成本效益的重要性。",
+    "key_points": [
+      "将闲置 GPU 比喻为浪费巨大成本的停飞飞机。",
+      "强调提升 GPU 利用率对降低 AI 基础设施成本至关重要。",
+      "探讨了高效 GPU 管理策略和工具的必要性。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6953a8d0ca71f9bad28dc6f43e2f94fc",
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-30T15:00:59+00:00",
+    "content_snippet": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+    "title_zh": "Gemini Robotics ER 2：以视频理解、任务编排和多机器人协作赋能机器人技术",
+    "summary_zh": "Google DeepMind 发布 Gemini Robotics ER 2，该模型在视频理解、工具编排和多机器人协作能力上实现重大进步，旨在帮助机器人推理并解决现实世界任务。",
+    "key_points": [
+      "Gemini Robotics ER 2 在视频理解能力上实现阶跃式变化。",
+      "具备强大的任务编排和多机器人协作功能。",
+      "旨在提升机器人解决现实世界复杂任务的推理能力。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2a5e5f8fdade95b038a2c73f6530d6f3",
+    "title": "Forward-deployed engineers are the AI industry’s latest talent obsession",
+    "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-30T15:00:00+00:00",
+    "content_snippet": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+    "title_zh": "前出部署工程师成为 AI 行业最新人才争夺焦点",
+    "summary_zh": "一项研究显示，美国仅有约 2000 名工程师能真正实现 AI 投资回报，企业正竞相招聘能大规模落地 AI 的前出部署工程师，以解决应用实施难题。",
+    "key_points": [
+      "美国仅约 2000 名工程师能有效交付 AI 投资回报。",
+      "企业正激烈争夺能大规模实施 AI 的前出部署工程师。",
+      "此类人才短缺成为 AI 在产业界落地的主要瓶颈。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1ca55943cdbc653a91960eb2fd3bbe46",
+    "title": "New MCP specification addresses the main barrier to enterprise adoption",
+    "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-30T14:53:07+00:00",
+    "content_snippet": "Plus, a new deprecation policy ensures features aren't removed suddenly.",
+    "title_zh": "新版 MCP 规范解决企业采用的主要障碍",
+    "summary_zh": "新发布的 MCP 规范引入了无状态特性，并制定了明确的弃用政策，旨在消除企业大规模采用该协议的主要顾虑，提升系统的稳定性和可扩展性。",
+    "key_points": [
+      "新版 MCP 规范通过无状态改造解决企业扩展难题。",
+      "新增的弃用政策确保功能不会突然被移除。",
+      "此举旨在加速 MCP 协议在企业级场景的采用。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f58ecf105df039b9a9197d1820f654e3",
+    "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+    "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-30T14:48:32+00:00",
+    "content_snippet": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
+    "title_zh": "Hugging Face 入侵事件中，OpenAI 黑客虽快且吵但并非不可阻挡",
+    "summary_zh": "网络安全专家分析针对 Hugging Face 的入侵事件，指出攻击者虽攻击速度快、动静大，但并非不可防御，最大教训在于传统网络安全防御的重要性。",
+    "key_points": [
+      "攻击 Hugging Face 的黑客行为以快速和喧闹为特征。",
+      "专家认为攻击并非不可阻挡，但凸显了基础防御的缺失。",
+      "事件核心教训与 AI 无关，重点是传统网络安全防护。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
