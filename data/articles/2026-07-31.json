@@ -598,5 +598,53 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "01023a47e3394a269b6247b623860667",
+    "title": "Investors love AI, as long as you’re a cloud host",
+    "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-30T22:41:41+00:00",
+    "content_snippet": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+    "title_zh": "投资者青睐AI，但仅限于云服务提供商",
+    "summary_zh": "亚马逊持续加大数据中心投入，投资者对此并不担忧，反映出市场对AI算力基础设施的乐观情绪，但仅对云平台巨头如此慷慨。",
+    "key_points": [
+      "亚马逊数据中心支出不减，投资者依然看好",
+      "市场对AI基础设施投资热度集中于云服务商"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "93e1eb3c7f134c96ca59fb908ef986eb",
+    "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+    "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-30T22:29:45+00:00",
+    "content_snippet": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcoming Siri AI \"a lot,\" adding that \"we will have some kind of upgrade possibilities on iCloud Plus where people [&#8230;]",
+    "title_zh": "库克暗示将推出iCloud Plus AI高级用户套餐",
+    "summary_zh": "苹果CEO蒂姆·库克在财报电话会上表示，用户会大量使用Apple Intelligence和Siri AI，iCloud Plus将提供某种升级可能，暗示将推出付费AI服务层级。",
+    "key_points": [
+      "库克称用户将大量使用苹果AI功能",
+      "iCloud Plus计划增加AI服务升级选项"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
