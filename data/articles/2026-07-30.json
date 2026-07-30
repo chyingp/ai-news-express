@@ -1539,5 +1539,171 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "778f5fdd5f36f08c734d9221a0857ea2",
+    "title": "终端市场的下一个增长点，高通押在了“个人AI”上",
+    "url": "https://www.qbitai.com/2026/07/463204.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-30T08:06:47+00:00",
+    "content_snippet": "靠“堆参数换销量\"的逻辑，不再管用了",
+    "title_zh": "终端市场的下一个增长点，高通押在了“个人AI”上",
+    "summary_zh": "高通认为终端市场靠堆参数换销量的逻辑已失效，将增长点转向个人AI。预计个人AI将推动新一轮设备升级和市场需求。",
+    "key_points": [
+      "高通认为靠堆参数换销量的逻辑不再管用",
+      "个人AI被高通视为终端市场下一个增长点"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d0adfe51513196ef4734e9aac6d0e175",
+    "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
+    "url": "https://www.qbitai.com/2026/07/463297.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-07-30T07:51:14+00:00",
+    "content_snippet": "OpenAI的RSI焚诀，它来了！",
+    "title_zh": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
+    "summary_zh": "OpenAI的GPT-5.6模型展现出自我优化能力，通过RSI（递归自我改进）技术实现性能提升，引发行业关注。",
+    "key_points": [
+      "GPT-5.6实锤具备自我优化能力",
+      "OpenAI的RSI技术实现模型性能自我迭代"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "be4356ef635837d0ae41750366354432",
+    "title": "Quick reminder of what's ok vs not ok with harnesses used for playing ARC-AGI-3: 1. Not okay: harnesses that were custom-made to solve the benchmark or that contain knowledge about the benchmark format / contents. 2. Fine: general-purpose API settings that were not developed for ARC-AGI-3 and that are available to all API users. In the past, we've had a lot of back and forth with OpenAI about how to best test their models, especially with regard to compaction. I'm glad they're starting to figure out the answer. Of course, if each provider uses different settings when getting their model tested, it creates a potential parity issue. My take is that this is fine as long as the settings and the cost are clearly reported.",
+    "url": "https://nitter.net/fchollet/status/2082732210436575669#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-30T07:37:08+00:00",
+    "content_snippet": "<p>Quick reminder of what's ok vs not ok with harnesses used for playing ARC-AGI-3:<br />\n<br />\n1. Not okay: harnesses that were custom-made to solve the benchmark or that contain knowledge about the benchmark format / contents.<br />\n<br />\n2. Fine: general-purpose API settings that were not developed for ARC-AGI-3 and that are available to all API users.<br />\n<br />\nIn the past, we've had a lot of back and forth with OpenAI about how to best test their models, especially with regard to compa",
+    "title_zh": "François Chollet 提醒 ARC-AGI-3 基准测试的公平使用规则",
+    "summary_zh": "ARC-AGI-3基准测试创建者Chollet澄清测试工具的使用规则，禁止定制化方案，但允许通用API设置，并强调需报告设置和成本以确保公平。",
+    "key_points": [
+      "禁止使用专为测试定制的工具或包含基准知识",
+      "允许使用通用的API设置，但需公开设置和成本"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b137ab0a8869676671f9d2afb13be55f",
+    "title": "AI服务器制造商技嘉据悉寻求15亿美元银团贷款",
+    "url": "https://36kr.com/newsflashes/3917775172824455?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-30T06:46:59+00:00",
+    "content_snippet": "AI服务器制造商技嘉据悉寻求15亿美元银团贷款。（财联社）",
+    "title_zh": "AI服务器制造商技嘉据悉寻求15亿美元银团贷款",
+    "summary_zh": "AI服务器制造商技嘉科技正在寻求高达15亿美元的银团贷款，以支持其业务扩张或资本需求。",
+    "key_points": [
+      "AI服务器制造商技嘉寻求15亿美元银团贷款",
+      "该贷款可能用于支持AI服务器业务扩张"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "87af54deba25365dbfa94b1e1b45f07f",
+    "title": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
+    "url": "https://www.qbitai.com/2026/07/463123.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-30T06:14:26+00:00",
+    "content_snippet": "嚯，诺奖团队也被砍了",
+    "title_zh": "传奇AlphaFold团队全员解散！诺奖得主投奔Anthropic，资源转向Gemini",
+    "summary_zh": "谷歌解散了旗下DeepMind的AlphaFold团队，包括诺奖得主在内的成员将加入Anthropic，相关资源将重新分配给Gemini项目。",
+    "key_points": [
+      "谷歌DeepMind的AlphaFold团队全员解散",
+      "诺奖得主等成员投奔Anthropic，资源转向Gemini"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "google",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "32d74ab33ec22ae4416bbc7389492317",
+    "title": "Paul Bakaus (jQuery UI creator, a16z-backed) on why AI-built products still aren't good",
+    "url": "https://www.reddit.com/r/artificial/comments/1valark/paul_bakaus_jquery_ui_creator_a16zbacked_on_why/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-30T06:13:41+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1valark/paul_bakaus_jquery_ui_creator_a16zbacked_on_why/\"> <img alt=\"Paul Bakaus (jQuery UI creator, a16z-backed) on why AI-built products still aren't good\" src=\"https://external-preview.redd.it/NnhrempjbGs2YmdoMZlUa9Ymu9kPQUt0r2Y286X8LWPdie-6eKNdRQ8SRD7h.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=378461dbf5cba1c7cb70e6a76598fabd14a4bd2c\" title=\"Paul Bakaus (jQuery UI creator, a16z-backed) on why AI-built products stil",
+    "title_zh": "jQuery UI创始人Paul Bakaus谈AI构建的产品为何仍不理想",
+    "summary_zh": "jQuery UI创始人、a16z支持的Paul Bakaus解释了当前AI构建的产品在质量上仍存在不足的原因，涉及技术或产品层面的局限。",
+    "key_points": [
+      "前jQuery UI创始人指出AI构建产品仍不理想",
+      "讨论涉及AI产品开发中的技术或体验局限"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8434f5d9a890b6529daf95a1bbfcbe56",
+    "title": "I taught an LSTM to move a mouse like a human [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vakwmq/i_taught_an_lstm_to_move_a_mouse_like_a_human_p/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-30T05:52:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://blog.cloudflare.com/introducing-precursor/\">Precursor</a> was recently released. It's a bot detector that uses cursor tracking.</p> <p>I thought it would be a fun challenge to train a deep neural network that could learn human mouse movements.</p> <p>It's an 2-layer LSTM model with a Mixture Density Network at the end.</p> <p>The results are actually quite impressive.</p> <p>Video: <a href=\"https://github.com/puffinsoft/mousecrack\">https://githu",
+    "title_zh": "我训练了一个LSTM网络像人类一样移动鼠标",
+    "summary_zh": "作者受Cloudflare发布的鼠标轨迹检测机器人启发，训练了一个深层神经网络LSTM来模拟人类鼠标移动，以应对自动化检测。",
+    "key_points": [
+      "项目训练LSTM网络模拟人类鼠标轨迹",
+      "灵感来源于Cloudflare的鼠标轨迹检测机器人"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
