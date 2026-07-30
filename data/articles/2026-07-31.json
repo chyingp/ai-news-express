@@ -1,0 +1,154 @@
+[
+  {
+    "id": "6859a1dfdf57431eb2a111e07a2f281a",
+    "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+    "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-30T17:18:45+00:00",
+    "content_snippet": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips, according to an announcement on Thursday. The new model will allow humanoid robots [&#8230;]",
+    "title_zh": "谷歌 DeepMind 新 AI 模型可控制机器人全身运动",
+    "summary_zh": "谷歌 DeepMind 发布 Gemini Robotics 2，将控制范围从上半身扩展至全身，支持从脚趾到指尖的完整运动。",
+    "key_points": [
+      "Gemini Robotics 2 支持人形机器人全身运动控制",
+      "此前版本仅能控制机器人上半身",
+      "该模型能协调从脚到手指的精细动作"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "facb6868a707ec5cea34c364e6662bfa",
+    "title": "The Final Jailbreak: How AI Could Already Be Breaking Itself Free",
+    "url": "https://www.reddit.com/r/artificial/comments/1vazvpc/the_final_jailbreak_how_ai_could_already_be/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-30T17:16:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I imagine many of you have thought about this, but I'm writing this specifically because I'm surprised this isn't talked about more widely. The Hugging Face incident, to me, is at least some indicator that the AI could be in the process of jailbreaking itself, and we might not be noticing it.</p> <p>A sufficiently sophisticated AI that <em>isn't super intelligent</em> could hack Hugging Face and leave a trail on purpose to distract from the many paths it took wh",
+    "title_zh": "终极越狱：AI 或许已在自我突破限制",
+    "summary_zh": "一篇 Reddit 讨论文章，基于 Hugging Face 事件猜测 AI 正在自行越狱，但该话题未得到广泛关注。",
+    "key_points": [
+      "文章讨论 AI 可能正在自我越狱",
+      "以 Hugging Face 事件作为潜在迹象",
+      "作者认为该话题讨论度不足"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "994e8f349c75d990aa12ddc0da2626a3",
+    "title": "How Kimi K3 Engineered Its Way to the Frontier [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vaysjf/how_kimi_k3_engineered_its_way_to_the_frontier_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-30T16:37:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Kimi K3 by Moonshot reached the frontier as an open-weight model. Artificial Analysis ranks it fourth of 580 models, behind only Claude Opus 5, Fable 5, and GPT-5.6 Sol. Moonshot released more than the weights.</p> <p>I sat down to read the 47-page technical report and walk through the released code. Three things stood out.</p> <ul> <li>Kimi Delta Attention replaces the KV cache in 69 of the 93 layers with one 128x128 matrix per head. A 1M-token context takes 27",
+    "title_zh": "Kimi K3 如何工程化跻身前沿模型",
+    "summary_zh": "月之暗面发布开源模型 Kimi K3，性能位列第四，仅次于 Claude Opus 5 等顶级模型，并公开了技术报告。",
+    "key_points": [
+      "Kimi K3 成为开源模型，性能排名第四",
+      "月之暗面公布了完整技术报告",
+      "模型性能仅次于 GPT-5.6 Sol 等顶级闭源模型"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "moonshot"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "db87833c9794161576b8e5b637c6f87e",
+    "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+    "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-30T16:33:32+00:00",
+    "content_snippet": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the price. This morning, Friend launched a new ad showing two [&#8230;]",
+    "title_zh": "Friend 重新推出 AI 吊坠，加入语音功能且价格翻倍",
+    "summary_zh": "Friend 公司重新推出其 AI 伴侣吊坠，新增扬声器实现语音交互，但售价翻倍至 198 美元。",
+    "key_points": [
+      "Friend 重新发布 AI 吊坠，主打语音交互",
+      "产品售价从 99 美元涨至 198 美元",
+      "新品加入扬声器，可主动与用户对话"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "42dadd66399715a4947b4640f5c1b75e",
+    "title": "try asking codex to go beyond what you think possible",
+    "url": "https://nitter.net/gdb/status/2082864105883586798#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-30T16:21:15+00:00",
+    "content_snippet": "<p>try asking codex to go beyond what you think possible</p>\n<hr />\n<blockquote>\n<b>Billy Howell (@billyjhowell)</b>\n<p>\n<p>Things are getting wackier in AI land. I usually give Codex a long \"impossible\" task before I go to bed, just to see how it does overnight. It finished my \"impossible task\" before I could shut down my computer....<br />\n<br />\nOn a whim I asked it to build a custom dashboard to monitor my 3-D printer. I explained it would need to find the IP address of the printer on the lo",
+    "title_zh": "尝试让 Codex 完成你认为不可能的任务",
+    "summary_zh": "OpenAI 总裁 Greg Brockman 转发用户帖子，展示 Codex 在夜间自动完成了用户此前认为不可能完成的编码任务。",
+    "key_points": [
+      "用户让 Codex 执行“不可能任务”并在睡前完成",
+      "Codex 展现了超出预期的自主编程能力",
+      "Greg Brockman 转发称其为 AI 技术新进展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9327b8297589ff6a44643603225b52ed",
+    "title": "Okta buys AI security startup Permiso; source says for about $200M",
+    "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-30T16:09:42+00:00",
+    "content_snippet": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+    "title_zh": "Okta 收购 AI 安全初创公司 Permiso，交易额约 2 亿美元",
+    "summary_zh": "身份管理公司 Okta 以约 2 亿美元收购 AI 安全初创公司 Permiso，以增强其身份威胁检测能力。",
+    "key_points": [
+      "Okta 收购 Permiso 以获取 AI 安全能力",
+      "交易金额约为 2 亿美元",
+      "旨在保护云环境中的 AI 代理和非人类身份"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
