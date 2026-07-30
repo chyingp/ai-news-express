@@ -1225,5 +1225,319 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9c0dc9995eab12b02d308a9a0e87173a",
+    "title": "An assistant that plans purchases needs a conflict-of-interest policy",
+    "url": "https://www.reddit.com/r/artificial/comments/1vaklrk/an_assistant_that_plans_purchases_needs_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-30T05:36:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Meta AI can now plan tasks, connect to email and calendars, create slides, and produce scheduled briefings in selected markets. Once an assistant moves from answering questions to choosing actions, recommendations become economically consequential.</p> <p>Meta also operates advertising, commerce, and social-discovery systems. Even if the agent is technically separated from ad auctions, users need a way to know whether a suggestion was selected for utility, platf",
+    "title_zh": "AI 助手规划采购需引入利益冲突政策",
+    "summary_zh": "Meta AI 现可执行任务、连接邮件日历等，其经济影响引发对利益冲突政策的讨论。当 AI 从回答问题转向推荐行动，可能产生商业偏向性风险。",
+    "key_points": [
+      "Meta AI 拓展任务规划与办公联动功能",
+      "AI 推荐行为可能涉及经济利益需规范"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b456edbe73913f0e1ee26a09a7c365a6",
+    "title": "云锋基金等入股比特智路",
+    "url": "https://36kr.com/newsflashes/3917702736309640?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-30T05:33:18+00:00",
+    "content_snippet": "36氪获悉，天眼查App显示，近日，北京比特智路信息技术有限公司发生工商变更，新增海南云锋基金中心（有限合伙）、南京毅达汇路创业投资合伙企业（有限合伙）、武汉丰睿年泽股权投资合伙企业（有限合伙）等为股东，同时，注册资本由约143.3万人民币增至约167.5万人民币。该公司成立于2023年6月，法定代表人为郭传雄，经营范围含集成电路设计、人工智能基础软件开发、人工智能应用软件开发等，现由郭传雄、天津高展比特管理合伙企业（有限合伙）及上述新增股东等共同持股。",
+    "title_zh": "云锋基金等入股比特智路",
+    "summary_zh": "比特智路获云锋基金等多家机构入股，注册资本增至约167.5万元。该公司成立于2023年，主营集成电路及AI基础软件研发。",
+    "key_points": [
+      "云锋基金等多家投资机构入股比特智路",
+      "公司聚焦集成电路设计与AI软件开发"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e78a3052ec8c7f2698cc439d436d42e9",
+    "title": "OpenAI前员工创立的对冲基金寻求新资金，因AI股大跌承压",
+    "url": "https://36kr.com/newsflashes/3917698546396545?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-30T05:29:02+00:00",
+    "content_snippet": "根据英国《金融时报》报道，OpenAI原员工Leopold Aschenbrenner创立的对冲基金Situational Awareness因AI股下跌而遭受损失后，这家管理约200亿美元资产的机构正在寻求新资金。报道援引未具名知情人士的话报道，该基金已接洽现有投资人及贷款方，讨论募资事宜。该报也称，部分投资人已获得选项，可购买基金投资组合中的资产。其中一位知情人士称，这些磋商属于临时安排。（新浪财经）",
+    "title_zh": "OpenAI 前员工创立的对冲基金因 AI 股大跌寻求新资金",
+    "summary_zh": "OpenAI 前员工创立的对冲基金 Situational Awareness 因 AI 股下跌受损，正寻求新资金并与投资人及贷款方磋商。",
+    "key_points": [
+      "OpenAI 前员工创立的对冲基金遭受损失",
+      "该基金正寻求新资金并与投资人磋商"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "78050d6ed32ee8b6ad2fdf623aaeb2f2",
+    "title": "connect your airtable and chatgpt:",
+    "url": "https://nitter.net/gdb/status/2082694260969902087#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-30T05:06:21+00:00",
+    "content_snippet": "<p>connect your airtable and chatgpt:</p>\n<hr />\n<blockquote>\n<b>Airtable (@airtable)</b>\n<p>\n<p>We've partnered with <a href=\"https://nitter.net/OpenAI\" title=\"OpenAI\">@OpenAI</a> to bring Airtable directly into <a href=\"https://nitter.net/ChatGPT\" title=\"ChatGPT\">@ChatGPT</a>. <br />\n<br />\nBuild fully customized workflows and manage your data without ever leaving your chat.<br />\n<br />\n→ Connect your bases in seconds<br />\n→ Generate new tables and structures mid-conversation<br />\n→ Turn un",
+    "title_zh": "Airtable 与 ChatGPT 达成合作",
+    "summary_zh": "OpenAI 与 Airtable 合作，将 Airtable 直接集成到 ChatGPT 中，用户可连接两者以增强工作流。",
+    "key_points": [
+      "OpenAI 与 Airtable 合作集成至 ChatGPT",
+      "用户可在 ChatGPT 内直接连接 Airtable"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3ad5e355932874469363ff54dd0144cc",
+    "title": "国联股份等在陕西成立新科技公司，注册资本1000万",
+    "url": "https://36kr.com/newsflashes/3917592775224705?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-30T04:45:21+00:00",
+    "content_snippet": "36氪获悉，天眼查App显示，近日，陕西国联耀隆科技产业发展有限公司成立，法定代表人为万丽，注册资本1000万人民币，经营范围含人工智能应用软件开发、数字技术服务、物联网技术研发等。股东信息显示，该公司由青岛幻宇科技投资发展有限公司、国联股份共同持股。\n天眼查信息：",
+    "title_zh": "国联股份等在陕西成立新科技公司，注册资本 1000 万",
+    "summary_zh": "国联股份与青岛幻宇科技合资成立陕西国联耀隆科技，注册资本 1000 万，主营 AI 应用软件开发等业务。",
+    "key_points": [
+      "国联股份等合资成立新 AI 科技公司",
+      "新公司注册资本 1000 万，聚焦 AI 软件开发"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e09181cd77ba625728b9213873a097ba",
+    "title": "腾讯WorkBuddy发布V5.3.5更新，推出\"人机双写\"协同编辑能力",
+    "url": "https://36kr.com/newsflashes/3917650039418240?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-30T04:39:42+00:00",
+    "content_snippet": "36氪获悉，7月30日，腾讯WorkBuddy发布V5.3.5版本更新，联合腾讯文档推出\"人机双写\"协同编辑能力。用户可在同一份文档中与AI共同创作和修改，支持Word、Excel、PPT、Markdown等主流格式，同时兼容本地Office文件和腾讯文档在线文档。新功能支持框选指定区域让AI局部修改，保持其余内容不变；AI共创内容可一键上传腾讯文档，实现多人、人机多端实时协同编辑。",
+    "title_zh": "腾讯 WorkBuddy 推出“人机双写”协同编辑能力",
+    "summary_zh": "腾讯 WorkBuddy 发布 V5.3.5 版本，联合腾讯文档推出“人机双写”协同编辑，支持主流文档格式，可实现 AI 局部修改与多人实时协作。",
+    "key_points": [
+      "腾讯 WorkBuddy 上线“人机双写”协同编辑",
+      "支持 Word/Excel/PPT 等格式的 AI 协作"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2d916a6a9a2a313abbd21c1d4f029dab",
+    "title": "黑芝麻智能：创始人自愿延长禁售期12个月",
+    "url": "https://36kr.com/newsflashes/3917633522544003?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-07-30T04:37:29+00:00",
+    "content_snippet": "36氪获悉，黑芝麻智能发布自愿公告，公司创始人、董事长、执行董事兼首席执行官单记章先生自愿进一步延长其禁售承诺，自2026年8月8日起至2027年8月7日止，为期12个月，涉及股份4,410.00万股。该禁售股份占公司已发行股份（不含库存股）约6.18%。本次延长期限系基于单先生对公司长期价值、端侧AI推理解决方案转型战略的坚定信心。",
+    "title_zh": "黑芝麻智能创始人自愿延长禁售期 12 个月",
+    "summary_zh": "黑芝麻智能创始人单记章自愿延长禁售承诺 12 个月，涉及 4.41 亿股，基于对公司向端侧 AI 推理转型的长期信心。",
+    "key_points": [
+      "创始人自愿延长禁售期，彰显长期信心",
+      "公司正推进端侧 AI 推理解决方案转型"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f2d1088a60c4db0db17a622265bb08c8",
+    "title": "橡鹿机器人与海尔机器人达成战略合作",
+    "url": "https://36kr.com/newsflashes/3917608936942980?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-30T04:17:47+00:00",
+    "content_snippet": "36氪获悉，7月29日，橡鹿机器人宣布与海尔机器人达成战略合作，双方将围绕中餐烹饪生态与AI技术能力，共同研发全自动家庭AI烹饪机器人，实现从自动投料到智能翻炒全流程免动手操作。合作成果及橡鹿自研多模态AI烹饪基座、具身烹饪机器人\"现炒方舟\"将于8月在世界机器人大会（WRC）上正式亮相。",
+    "title_zh": "橡鹿机器人与海尔机器人达成战略合作",
+    "summary_zh": "橡鹿机器人与海尔机器人合作，共同研发全自动家庭 AI 烹饪机器人，成果将亮相 8 月世界机器人大会。",
+    "key_points": [
+      "双方合作研发全自动家庭 AI 烹饪机器人",
+      "成果将于 8 月世界机器人大会亮相"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d207e5d04f83452d3a7194620acde640",
+    "title": "the tokens must flow",
+    "url": "https://nitter.net/gdb/status/2082670099723628916#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-30T03:30:20+00:00",
+    "content_snippet": "<p>the tokens must flow</p>\n<hr />\n<blockquote>\n<b>Tibo (@thsottiaux)</b>\n<p>\n<p>This week is all about intelligence too cheap to meter. Tomorrow we ship again.</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/thsottiaux/status/2082655731204096275#m\">https://nitter.net/thsottiaux/status/2082655731204096275#m</a>\n</footer>\n</blockquote>",
+    "title_zh": "Tokens 必须流动",
+    "summary_zh": "Greg Brockman 转推称“本周是关于太便宜而无法计量的智能”，暗示 AI 成本持续下降。",
+    "key_points": [
+      "暗示 AI 智能成本将变得极度低廉",
+      "或预示 OpenAI 即将发布新进展"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a8853fcab2facf5c41601cbcbf9586f6",
+    "title": "月之暗面变更为股份公司",
+    "url": "https://36kr.com/newsflashes/3917561108852096?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-30T03:09:14+00:00",
+    "content_snippet": "36氪获悉，天眼查App显示，近日，北京月之暗面科技有限公司发生工商变更，企业名称变更为北京月之暗面科技股份有限公司。该公司成立于2023年4月，法定代表人为杨植麟，注册资本约152.4万人民币，经营范围含软件开发、人工智能基础软件开发、人工智能应用软件开发等。",
+    "title_zh": "月之暗面变更为股份公司",
+    "summary_zh": "月之暗面完成工商变更，由有限责任公司变更为股份有限公司，公司名称同步更新，或为后续资本运作铺路。",
+    "key_points": [
+      "月之暗面完成股改，变更为股份公司",
+      "此举可能为后续上市或融资做准备"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "moonshot"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f84c495853d35dd6ce4831e0a5388102",
+    "title": "易方达「戒酒」",
+    "url": "https://36kr.com/p/3917548470218371?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-07-30T02:58:26+00:00",
+    "content_snippet": "<p>作者&nbsp;|&nbsp;黄绎达</p>\n  <p>编辑&nbsp;|&nbsp;张帆</p>\n  <p>今年一骑绝尘的韩国股市在近期开启暴跌模式，两大超级权重股三星电子和SK海力士惨遭持续抛售，由此频繁触发大盘“熔断”，重仓韩股龙头的金融产品亦在近期损失惨重，典型如两倍做多三星电子/SK海力士ETF，不少该类型产品在近期的回撤都在60%以上。</p>\n  <p>张坤管理的QDII基金易方达亚洲精选（以下简称：亚洲精选），也重仓了三星电子和SK海力士，在此前AI链牛市的加持下，基金净值表现十分亮眼。二季度末，韩股开始暴跌，基金季报显示亚洲精选在二季度大幅减持三星电子与SK海力士，市场对张坤这次及时抽身评价颇高，也让这位昔日的明星基金经理再度回归投资者的视野。</p>\n  <p>目前，张坤在任管理的公募基金共有4只，除上文提到的亚洲精选外，易方达蓝筹精选和易方达优质精选（以下简称：蓝筹精选、优质精选）这两只旗舰产品，曾经都是公募界的顶流，巅峰时期，蓝筹精选管理规模近千亿，优质精选也超200亿。</p>\n  <p>7月21日，蓝筹精选和优质精选发布了2026年二季报。作为行业内的",
+    "title_zh": "易方达「戒酒」",
+    "summary_zh": "易方达基金经理张坤管理的亚洲精选基金在二季度大幅减持三星电子和SK海力士，避免近期韩股暴跌带来的惨重损失。此前该基金因重仓AI硬件龙头表现亮眼，近期相关韩国ETF回撤超60%。",
+    "key_points": [
+      "张坤管理的基金二季度大幅减持AI龙头三星电子和SK海力士",
+      "韩国股市近期暴跌，重仓韩股龙头的金融产品损失惨重",
+      "该基金此前因AI硬件牛市表现突出，及时调仓规避了风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bcc0bf5ab16e098e23f5028b28ab23c2",
+    "title": "I built ganfs: A Python package that uses GANs to automate feature selection for high-dimensional datasets. (No domain expert required) [P] [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vahcwo/i_built_ganfs_a_python_package_that_uses_gans_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-30T02:54:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I recently open-sourced a new Python package called <code>ganfs</code> (Generative Adversarial Network Feature Selection), and I wanted to share it with the community.</p> <p><strong>The Problem:</strong> Selecting the best features in high-dimensional datasets is often a massive bottleneck. Traditional methods (like filter, wrapper, or embedded methods) usually struggle with scalability, miss complex nonlinear relationships, or require a do",
+    "title_zh": "我开发了ganfs：一个用GAN自动进行高维数据特征选择的Python包",
+    "summary_zh": "开源了一个名为ganfs的Python软件包，利用生成对抗网络（GAN）自动完成高维数据集的特征选择，无需领域专家介入。项目旨在解决高维数据中筛选最佳特征的难题。",
+    "key_points": [
+      "开源Python包ganfs利用GAN技术实现自动化特征选择",
+      "目标是解决高维数据集中特征筛选的难题，无需依赖领域专家"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0216dc6a2214fd6a0250b65a359d03b2",
+    "title": "Predict the future of the shopping",
+    "url": "https://www.reddit.com/r/artificial/comments/1vagsly/predict_the_future_of_the_shopping/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-30T02:28:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I always felt like someone who predicts the future knows something we don`t.</p> <p>Still, how accurately can one predict the future developmnets based on current trend/s?</p> <p>For example, initially shopping was done by going to a physical location.</p> <p>Then it got delivered to you.</p> <p>I guess the next step it will be done FOR YOU by using ai agents online based on you preference.</p> <p>And then, what is the next step?</p> </div><!-- SC_ON --> &#32; s",
+    "title_zh": "预测购物的未来",
+    "summary_zh": "本文探讨了基于当前趋势预测未来发展的准确性，以购物模式从线下实体店到电商的演变为例，讨论如何预测未来购物的形态。",
+    "key_points": [
+      "基于当前趋势预测未来购物等事物的发展模式",
+      "以购物从线下到线上为例，探讨预测的准确性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
