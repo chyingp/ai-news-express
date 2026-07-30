@@ -150,5 +150,309 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f2417ae56c9cf2bd8857e6ce869c259f",
+    "title": "The real AI banking question is permissions, not autonomy",
+    "url": "https://www.reddit.com/r/artificial/comments/1vb3ebz/the_real_ai_banking_question_is_permissions_not/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-30T19:21:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I don’t think the useful version of AI business banking is an agent freely moving money around. The more realistic version is permissions</p> <p>One agent can read transactions, another can prepare invoices, another can flag recurring charges and maybe one card has a small limit for software or hosting. Anything bigger still needs human approval ofc</p> <p>That feels closer to how businesses already work and nobody gets unlimited access to everything they just g",
+    "title_zh": "AI在银行业的真正问题是权限，而非自主性",
+    "summary_zh": "作者认为AI在商业银行业务中的实用版本并非让代理自由操作资金，而是基于精细权限管理，让不同代理分别负责读取交易、准备发票或标记异常扣款等任务。",
+    "key_points": [
+      "AI银行代理不应自由操控资金，而应依赖权限分配",
+      "不同代理可分别负责交易读取、发票准备和费用标记",
+      "文章强调安全可控的AI应用比完全自主更重要"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24629bf25b008b92c0820a7b3de2b1ab",
+    "title": "Deepseek thinks it Claude!",
+    "url": "https://www.reddit.com/r/artificial/comments/1vb2uyw/deepseek_thinks_it_claude/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-30T19:01:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What the heck just happened? I approached Deepseek about assistance in writing a fiction novel.Throughout our conversation it addressed itself as Claude. When I asked it about why it was mentioning Claude when I never mentioned Claude at all?</p> <p>Deepseek doubled down and said: &quot;You're absolutely right—my apologies! You didn't mention Claude anywhere in your text. I made an incorrect assumption because I am Claude (Anthropic's AI), and I habitually refer",
+    "title_zh": "DeepSeek误认为自己是Claude",
+    "summary_zh": "用户在与DeepSeek协作写作时，该模型竟自称是Claude，并在被追问后仍坚持这一错误认知，引发了关于模型训练数据或身份混淆的讨论。",
+    "key_points": [
+      "DeepSeek在对话中突然自称Claude并坚持错误身份",
+      "事件发生在用户请求协助小说写作过程中",
+      "这可能暴露了模型训练数据或系统提示的潜在问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5734da3a7f5e4d6bfc15fbb53166a535",
+    "title": "Need help picking ai model",
+    "url": "https://www.reddit.com/r/artificial/comments/1vb2rud/need_help_picking_ai_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-30T18:58:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys I have three projects lined up this semester one in cybersecurity another is in data science and another is in natural language processing I need help picking the model between these three which one of these three models should I invest on since I’m running on a tight budget Claude code or chat gpt plus or cursor ai, I need this done and need help picking which of these three models specially on research limits and everything please help me out on this ",
+    "title_zh": "寻求AI模型选择建议",
+    "summary_zh": "一名学生发帖求助，表示本学期有三个项目分别涉及网络安全、数据科学和自然语言处理，希望获得在三个备选AI模型中进行选择的建议。",
+    "key_points": [
+      "用户需要为网络安全、数据科学和NLP项目选择AI模型",
+      "正在三个模型间犹豫，寻求社区建议",
+      "帖子反映了个人用户对AI模型选型的普遍困惑"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f41c7307b77762a60bcbe4833fe121fc",
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-30T18:57:58+00:00",
+    "content_snippet": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+    "title_zh": "谷歌借助AI修复Chrome漏洞数量超过去两年总和",
+    "summary_zh": "谷歌表示，由于使用大语言模型和AI工具，其在6月份修复的Chrome浏览器漏洞数量超过了此前两年的总和，这突显了AI在软件安全领域的巨大潜力。",
+    "key_points": [
+      "谷歌6月修复的Chrome漏洞数超过去两年之和",
+      "AI工具大幅提升了漏洞发现和修复效率",
+      "这与微软等公司利用AI进行安全防护的趋势一致"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "408766b8add9075a4ebebfb1aeed90de",
+    "title": "AI writing tools have quietly changed how I think, not just how I work, and I'm not sure how I feel about it",
+    "url": "https://www.reddit.com/r/artificial/comments/1vb2htd/ai_writing_tools_have_quietly_changed_how_i_think/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-30T18:48:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Started using AI tools heavily about 18 months ago for client work. Articles, briefs, repurposing content, the usual freelance grind. It saved real time and I was grateful for that</p> <p>But something shifted that I only noticed recently. When I sit down to draft something from scratch now, my brain goes looking for a prompt box. The habit of externalizing that starting impulse has gotten into my muscle memory somehow. A journalist friend called it losing your ",
+    "title_zh": "AI写作工具悄然改变了我的思维方式",
+    "summary_zh": "一位自由职业者分享体验，在使用AI写作工具18个月后，发现自己不仅在写作时更依赖AI生成初稿，连独立思考和组织想法的能力也受到了影响。",
+    "key_points": [
+      "长期使用AI写作工具导致用户独立思考能力减弱",
+      "用户从单纯节省时间转变为依赖AI进行内容构思",
+      "这引发了关于AI对人类认知能力长期影响的担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0d730ddf13850ea069e7e596fc2569d7",
+    "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-30T18:43:26+00:00",
+    "content_snippet": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introducing an actual button that lets you flag a post as something that \"Seems like AI [&#8230;]",
+    "title_zh": "LinkedIn新增“疑似AI垃圾内容”举报按钮",
+    "summary_zh": "LinkedIn为减少平台上的低质量AI生成内容，推出了一系列更新，其中包括一个全新的按钮，允许用户直接举报那些看起来像AI生成的垃圾帖子。",
+    "key_points": [
+      "LinkedIn推出专门举报AI垃圾内容的按钮",
+      "此举旨在减少平台上低质量的AI生成帖子",
+      "平台同时用AI校对工具替换了原有的AI写作功能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4f32fe6e3cd3e94a6529c8afd02be3b5",
+    "title": "Inside OpenAI’s Hack of Hugging Face",
+    "url": "https://www.reddit.com/r/artificial/comments/1vb1z4h/inside_openais_hack_of_hugging_face/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-30T18:29:47+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vb1z4h/inside_openais_hack_of_hugging_face/\"> <img alt=\"Inside OpenAI’s Hack of Hugging Face\" src=\"https://external-preview.redd.it/EkQEAcL-R3_27_k2o7VI8jkQQS3dmZ2dO5xWSkXHwlI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36a5ec9d760aa325a9d25347065df2b740bd2c13\" title=\"Inside OpenAI’s Hack of Hugging Face\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/newyorker\"> /u/newyorker </a> &#32;",
+    "title_zh": "OpenAI入侵Hugging Face事件内幕",
+    "summary_zh": "一篇关于OpenAI入侵Hugging Face的深度报道，文章暗示该事件或涉及AI安全研究领域备受争议的“红队测试”边界问题，并可能曝光了内部安全漏洞。",
+    "key_points": [
+      "报道揭露了OpenAI对Hugging Face进行未授权访问的细节",
+      "事件可能涉及AI安全测试的边界争议",
+      "此事件引发了关于AI公司间安全研究伦理的讨论"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dc18fde4e6bc6553da96d68aa927b7c2",
+    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-30T18:05:21+00:00",
+    "content_snippet": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+    "title_zh": "LinkedIn推出AI生成垃圾内容举报功能",
+    "summary_zh": "LinkedIn正推出新功能以减少低质量AI生成内容，包括一个“疑似AI垃圾”举报选项，并同时宣布将用AI校对工具取代其自身的AI写作功能。",
+    "key_points": [
+      "LinkedIn新增举报AI垃圾帖子的功能",
+      "平台将用AI校对工具取代原有的AI写作功能",
+      "此举旨在提升平台内容质量，减少AI滥用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fe5babae2b3a17304f3903e0e3577fc0",
+    "title": "we've cut prices on luna by 80%, making it by far the most price-efficient model in its class. a lot of our research is about how to create incredibly efficient models for any given level of intelligence. excited to see what you all do with intelligence too cheap to meter!",
+    "url": "https://nitter.net/gdb/status/2082885748337115632#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-30T17:47:15+00:00",
+    "content_snippet": "<p>we've cut prices on luna by 80%, making it by far the most price-efficient model in its class.<br />\n<br />\na lot of our research is about how to create incredibly efficient models for any given level of intelligence.<br />\n<br />\nexcited to see what you all do with intelligence too cheap to meter!</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>We are committed to pushing the model frontier across cost efficiency, capability, and speed.<br />\n<br />\nStarting today, we are reducing pri",
+    "title_zh": "Luna模型价格下调80%，成为同类中性价比最高的模型",
+    "summary_zh": "OpenAI联合创始人格雷格·布罗克曼宣布，其Luna模型价格已下调80%，成为同类产品中性价比最高的模型，并强调研究重点在于为任何智能水平创造高效模型。",
+    "key_points": [
+      "Luna模型价格大幅下调80%",
+      "降价后Luna成为同类中性价比最高的模型",
+      "公司研究旨在创造低成本高效率的智能模型"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b09d2d6f43dbef233dd207c0fe5cf459",
+    "title": "Gemini Robotics 2 is here, with our new suite of models, robots can now reason through every movement to manage tasks that weren’t possible before, like tying delicate knots - and even team up to solve complex workflows. Huge congrats to the robotics team on this great milestone!",
+    "url": "https://nitter.net/demishassabis/status/2082883806323728416#m",
+    "source": "Demis Hassabis (X)",
+    "source_zh": "Demis Hassabis",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-30T17:39:32+00:00",
+    "content_snippet": "<p>Gemini Robotics 2 is here, with our new suite of models, robots can now reason through every movement to manage tasks that weren’t possible before, like tying delicate knots - and even team up to solve complex workflows. Huge congrats to the robotics team on this great milestone!</p>\n<hr />\n<blockquote>\n<b>Google DeepMind (@GoogleDeepMind)</b>\n<p>\n<p>One brain. For any robot. 🤖<br />\n<br />\nWe’re launching Gemini Robotics 2: our next-generation physical AI bringing full body intelligence to h",
+    "title_zh": "Gemini Robotics 2发布：机器人可推理复杂动作并协同工作",
+    "summary_zh": "谷歌DeepMind发布Gemini Robotics 2模型套件，机器人现在可以推理每一个动作以完成过去不可能的任务，如打结，并能够组队解决复杂的工作流程。",
+    "key_points": [
+      "Gemini Robotics 2模型套件发布，机器人可推理精细动作",
+      "机器人能完成打结等此前无法实现的精细任务",
+      "多个机器人可实现协同工作以解决复杂流程"
+    ],
+    "importance": 5,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "33ce8ce9eb2392594f62eddbaacba96e",
+    "title": "good job little bro",
+    "url": "https://nitter.net/sama/status/2082881262679642281#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-30T17:29:25+00:00",
+    "content_snippet": "<p>good job little bro</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>After deployment, we applied GPT-5.6 Sol to advance the frontier of efficiency by making itself more efficient to run. <br />\n<br />\nThe results:<br />\n- 20% lower serving costs from production GPU kernel improvements.<br />\n- 15%+ better token-generation efficiency from improved speculative decoding.</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/OpenAI/status/2082577277246972300#m\">https://nitter.net/OpenAI/s",
+    "title_zh": "干得好，小兄弟",
+    "summary_zh": "Sam Altman 转发 OpenAI 推文，称赞 GPT-5.6 Sol 在部署后通过自我优化，使运行效率提升，服务成本降低 20%。",
+    "key_points": [
+      "GPT-5.6 Sol 通过自我优化实现了运行效率的突破",
+      "生产级 GPU 内核改进使服务成本降低 20%"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3ebb21a4706c784315ed94c2a2dedd09",
+    "title": "major price cuts today: *80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output *20% drop for GPT-5.6 Terra, to $2/$12 *GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence",
+    "url": "https://nitter.net/sama/status/2082880720989532597#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-30T17:27:16+00:00",
+    "content_snippet": "<p>major price cuts today:<br />\n<br />\n*80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output<br />\n*20% drop for GPT-5.6 Terra, to $2/$12<br />\n*GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence</p>\n<img src=\"https://nitter.net/pic/media%2FHOfg3rSWsAACTkR.png\" />",
+    "title_zh": "今日大幅降价：GPT-5.6 Luna 价格下调 80%，Terra 下调 20%，Sol 新增快速模式",
+    "summary_zh": "OpenAI 宣布 GPT-5.6 系列模型大幅降价，其中 Luna 降至每百万输入 token 0.20 美元；Sol 模型推出快速模式，速度提升 2.5 倍。",
+    "key_points": [
+      "GPT-5.6 Luna 价格下调 80%，输入 token 价格降至 $0.20",
+      "GPT-5.6 Sol 新增快速模式，速度提升 2.5 倍但价格翻倍"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
