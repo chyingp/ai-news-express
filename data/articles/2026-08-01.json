@@ -684,5 +684,206 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ad71f5853869bbf71199c256b84003eb",
+    "title": "I am utilizing Claude and GPT in parallel to create a program from scratch. I have no experience. Here has been my experience thus far, do you have any thoughts or recommendations?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vc1vyy/i_am_utilizing_claude_and_gpt_in_parallel_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-31T20:11:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I had been throwing around an idea for a useful tool for a few years now. I bounced ideas off of ChatGPT maybe a year or two ago, and it didn't really go anywhere. AI couldn't do what I was looking for at the time. </p> <p>But time passes, and suddenly my brothers are sharing video games they had used Claude Code and Godot to fabricate. I find this fascinating, and intend to jump in myself, only some point in the future. It sounds like a bit of fun, but nothing ",
+    "title_zh": "我同时使用Claude和GPT从零构建程序：零经验者的体验与思考",
+    "summary_zh": "作者分享了自己作为无编程经验者，同时使用Claude和GPT从头构建一个工具的过程与体验，并寻求建议。",
+    "key_points": [
+      "零编程基础用户使用两大AI模型并行开发程序",
+      "展示了AI辅助编程对非技术用户的赋能潜力",
+      "作者寻求社区对其开发流程的反馈与建议"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1e2bbb512f8972554a4a78ba9990267d",
+    "title": "I have trained a model to predict my blood sugar [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vc1txc/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-31T20:09:34+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1vc1txc/i_have_trained_a_model_to_predict_my_blood_sugar_p/\"> <img alt=\"I have trained a model to predict my blood sugar [P]\" src=\"https://preview.redd.it/v3bputi1cmgh1.png?width=140&amp;height=91&amp;auto=webp&amp;s=5fcaa20e54e37915fc9d5911c43947f4a7ddb940\" title=\"I have trained a model to predict my blood sugar [P]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>It's an encoder-only transformer that consumes past(",
+    "title_zh": "我训练了一个模型来预测自己的血糖",
+    "summary_zh": "一篇项目分享帖，作者介绍了自己训练机器学习模型以预测个人血糖水平的实践过程。",
+    "key_points": [
+      "个人开发者利用机器学习进行血糖预测的项目展示",
+      "属于健康领域与AI结合的DIY应用案例"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9c167031c07e8e9a2f37f39b949c13f5",
+    "title": "luna is a great and low-cost model",
+    "url": "https://nitter.net/gdb/status/2083279662650941705#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-31T19:52:31+00:00",
+    "content_snippet": "<p>luna is a great and low-cost model</p>\n<hr />\n<blockquote>\n<b>Simon Willison (@simonw)</b>\n<p>\n<p>OK, GPT-5.6 Luna is a bit of a beast. Given the 80% price drop today I decided to try it in Datasette Agent, and it's furiously quick and generates all the SQL, HTML and JavaScript (for Datasette Apps) I could possibly want</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/simonw/status/2082996044175213050#m\">https://nitter.net/simonw/status/2082996044175213050#m</a>\n</footer>\n</blockquote>",
+    "title_zh": "Luna是一款出色且低成本的模型",
+    "summary_zh": "Greg Brockman转发并称赞Luna模型，指出其价格大幅下降且在SQL、HTML生成等任务中表现出色，速度极快。",
+    "key_points": [
+      "GPT-5.6 Luna模型价格大幅下降80%",
+      "模型在代码生成和数据处理任务中速度飞快",
+      "OpenAI总裁公开称赞其成本效益"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cebdf34cbbc82af8b83de9f3c45238c6",
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-31T19:47:28+00:00",
+    "content_snippet": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "title_zh": "谷歌在地球AI功能发布一天后将其取消，因被批评传播虚假信息",
+    "summary_zh": "谷歌推出允许用户在谷歌地球中生成AI图像的Earth AI功能，但因引发可能传播虚假信息的强烈批评，仅在一天后便将其下架。",
+    "key_points": [
+      "谷歌地球AI功能因可生成虚假卫星图像引发争议",
+      "该功能上线仅一天即被谷歌紧急撤回",
+      "批评者认为该工具会加剧虚假信息传播"
+    ],
+    "importance": 3,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "317aae3098258f988ffe4adf4d6eb726",
+    "title": "I compared 18 major LLM API prices in 2026 — the same workload can cost anywhere from $0.018 to $",
+    "url": "https://www.reddit.com/r/artificial/comments/1vc0hot/i_compared_18_major_llm_api_prices_in_2026_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-31T19:19:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I compared the standard API list prices of 18 models from OpenAI, Anthropic, Google, xAI, DeepSeek, and Mistral.</p> <p>To make the numbers easier to understand, I calculated the cost of the same sample workload across different models:</p> <ul> <li>100,000 input tokens</li> <li>20,000 output tokens</li> <li>Standard short-context pricing</li> <li>No batch, caching, tool-use, or priority-processing discounts</li> </ul> <p>Approximate cost for this workload:</p> ",
+    "title_zh": "我对比了2026年18款主流LLM API价格",
+    "summary_zh": "作者比较了OpenAI、Anthropic、Google、xAI、DeepSeek和Mistral等18款主流大语言模型的API定价，展示了相同任务下成本存在巨大差异。",
+    "key_points": [
+      "对比6家主流厂商18款模型的API列表价格",
+      "相同工作负载下成本差异巨大，从0.018美元到更高",
+      "为开发者选型提供了清晰的成本参考"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a4ce4a17368dfbec161e76fb5f40c525",
+    "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+    "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-31T19:13:29+00:00",
+    "content_snippet": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border [&#8230;]",
+    "title_zh": "谷歌地球的AI深度伪造工具仅存活了一天",
+    "summary_zh": "报道称谷歌关闭了其刚推出的谷歌地球AI图像生成功能，该功能允许用户通过文字提示编辑卫星图像，被批评为可制造现实世界的深度伪造内容。",
+    "key_points": [
+      "谷歌地球允许用户用AI修改卫星图像",
+      "工具被指可轻易制造深度伪造内容",
+      "因巨大争议，谷歌在一天内紧急关闭该功能"
+    ],
+    "importance": 3,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "89945ce82381c3edacaf1049b64790be",
+    "title": "jevon's paradox at work",
+    "url": "https://nitter.net/gdb/status/2083259782891475431#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-31T18:33:31+00:00",
+    "content_snippet": "<p>jevon's paradox at work</p>\n<hr />\n<blockquote>\n<b>Greg Kamradt (@GregKamradt)</b>\n<p>\n<p>I had a gnarly research project I needed done - 78K different classifications<br />\n<br />\nI let GPT-5.6 Luna run over night, batch mode ($.10/M input!)<br />\n<br />\n158K requests, 143M input tokens ended up being $60<br />\n<br />\nYou don't have enough tokens working for you</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/GregKamradt/status/2083228765594018157#m\">https://nitter.net/GregKamradt/sta",
+    "title_zh": "杰文斯悖论正在发挥作用",
+    "summary_zh": "Greg Brockman引用杰文斯悖论，评论GPT-5.6 Luna因价格极低，仅需0.10美元/百万输入token，被用户用于处理超15万次请求、1.43亿输入token的大规模研究项目。",
+    "key_points": [
+      "GPT-5.6 Luna极低的批量处理价格激发大规模使用",
+      "用户项目使用超1.43亿token，成本却极低",
+      "体现了AI效率提升反而增加总消耗的杰文斯悖论"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bc0a4a270cc1500501bb4ff0f3797bfa",
+    "title": "AI helped produce two proofs for the same cryptography problem",
+    "url": "https://www.reddit.com/r/artificial/comments/1vbz2ml/ai_helped_produce_two_proofs_for_the_same/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-31T18:26:21+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vbz2ml/ai_helped_produce_two_proofs_for_the_same/\"> <img alt=\"AI helped produce two proofs for the same cryptography problem\" src=\"https://external-preview.redd.it/WU8DvatE8--An3Ib1IpjcimK5w4KiwrGAHWW8QFbS5c.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2bdcf2968ffeb4dee550d71f035eebc7ba3d3ab\" title=\"AI helped produce two proofs for the same cryptography problem\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https",
+    "title_zh": "AI帮助解决了同一个密码学问题并给出了两种证明",
+    "summary_zh": "一篇报道称，人工智能成功帮助研究人员为同一个密码学问题找到了两种不同的证明方法，展示了AI在数学推理领域的应用。",
+    "key_points": [
+      "AI为同一密码学难题生成了两种不同证明",
+      "展示了AI在高级数学和密码学领域的辅助能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
