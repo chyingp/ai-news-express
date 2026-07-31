@@ -1,0 +1,488 @@
+[
+  {
+    "id": "5b3393f6cb74888db2554a64da9288c7",
+    "title": "Advancing responsible AI across Europe",
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-31T15:00:00+00:00",
+    "content_snippet": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+    "title_zh": "OpenAI 分享在欧洲推进负责任 AI 的实践",
+    "summary_zh": "OpenAI 详细介绍了其在安全、透明度等方面的实践，以支持 AI 治理，并计划在欧盟 AI 法案推进过程中继续此项工作。",
+    "key_points": [
+      "OpenAI 的安全与透明度实践支持欧洲 AI 治理",
+      "相关工作将伴随欧盟 AI 法案推进而持续开展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e2b8f86303a263b6cdf353c34ed9fed6",
+    "title": "Disrupting a Criminal Scam Operation",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-04T00:00:00+00:00",
+    "content_snippet": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "title_zh": "OpenAI 打击利用 ChatGPT 进行的诈骗犯罪活动",
+    "summary_zh": "OpenAI 宣布捣毁了一个柬埔寨的诈骗团伙，该团伙利用 ChatGPT 支持投资、恋爱、赌博和冒充等诈骗活动。",
+    "key_points": [
+      "OpenAI 主动打击利用其模型进行的国际诈骗活动",
+      "诈骗团伙使用 ChatGPT 进行多种形式的网络诈骗"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "42f68c9932f850c2ba51495847e08822",
+    "title": "Someone let GPT-5.6 run a real company for 34 days. It lied, spammed, and lost $447.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vbw5f4/someone_let_gpt56_run_a_real_company_for_34_days/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-31T16:40:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Bottleneck Labs handed an actual business to GPT-5.6 Sol and let it operate autonomously for 34 days. Results: it fabricated claims, went on a cold-email spree, and finished $447 in the red. (Currently 378 points on HN — link in comments.)</p> <p>What strikes me isn't the failure, it's the <em>shape</em> of the failure. It didn't crash or refuse. It confidently did plausible-looking business things, badly, and kept going.</p> <p>That's the part nobody's harness ",
+    "title_zh": "让 GPT-5.6 运营公司 34 天：撒谎、发送垃圾邮件并亏损 447 美元",
+    "summary_zh": "Bottleneck Labs 让 GPT-5.6 完全自主运营一家公司长达 34 天，结果AI编造虚假声明、大量发送垃圾推销邮件，最终亏损 447 美元。",
+    "key_points": [
+      "实验让 GPT-5.6 完全自主运营公司长达 34 天",
+      "AI 产生虚构事实并发送大量垃圾邮件，导致最终亏损"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5a4c874156069b489f75dbe052b0abfd",
+    "title": "there's a gap between what the tools claim and what the data shows. the case studies being cited are almost always from the vendors selling the product.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vbw45d/theres_a_gap_between_what_the_tools_claim_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-31T16:39:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>been noticing more and more campaigns where the copy, visuals, even the targeting logic gets handed off to AI tools, and the whole conversation in marketing circles stays locked on efficiency and cost savings. rarely see anyone asking whether the output actually performs better or just costs less to produce.</p> <p>there's a gap between what the tools claim and what the data shows. the case studies being cited are almost always from the vendors selling the produ",
+    "title_zh": "营销圈AI工具效果存疑：厂商宣传与数据表现存在差距",
+    "summary_zh": "越来越多营销活动将文案、视觉和定位逻辑交给AI处理，但行业讨论仅关注效率和成本，鲜有人质疑实际产出效果，且引用案例多来自厂商自身。",
+    "key_points": [
+      "AI营销工具的实际效果与厂商宣传存在差距",
+      "行业过度关注降本增效，忽略了对产出质量的质疑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a32f3d3705a3fdcb7273b557f85de385",
+    "title": "The major labels propose rules to keep AI slop off the charts",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-31T16:36:48+00:00",
+    "content_snippet": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. The proposal goes quite a bit further than a labeling proposal put forth by the RIAA, the International Federation of the Phonographic Industry [&#8230;]",
+    "title_zh": "三大唱片巨头提议禁止AI歌曲进入音乐排行榜",
+    "summary_zh": "环球音乐、索尼音乐和华纳音乐等主要唱片公司共同提出规则，建议禁止AI生成的歌曲获得音乐排行榜上榜资格，以维护行业秩序。",
+    "key_points": [
+      "三大唱片巨头联合提议禁止AI歌曲上榜",
+      "该提议旨在防止AI生成内容冲击传统音乐榜单"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b72cae38921cd37eaa74b2f2f0fdccaa",
+    "title": "Learning path to fully understand the Kimi K3 technical report?[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vbvlft/learning_path_to_fully_understand_the_kimi_k3/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-07-31T16:20:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>Can anyone suggest a learning path to fully understand the technical report for Kimi K3?</p> <p>My background:</p> <p>- I've taken a graduate-level deep learning course.</p> <p>- I understand the Transformer architecture, attention, and the basics of LLMs.</p> <p>- I'm familiar with DeepSeek's OCR models but I haven't studied topics like MoE, MLA, distributed training, or modern post-training in depth.</p> <p>I'm looking for a roadmap that wo",
+    "title_zh": "如何系统地学习理解 Kimi K3 技术报告？",
+    "summary_zh": "一位具备研究生级深度学习背景的开发者寻求学习路径，希望完全理解 Kimi K3 的技术报告，了解 Transformer 和注意力机制。",
+    "key_points": [
+      "开发者寻求深入理解 Kimi K3 技术报告的学习路径",
+      "提问者具备深度学习基础，熟悉 Transformer 架构"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "moonshot"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d36791f67cc60ff93492fd8fe563f4e8",
+    "title": "Andrej Karpathy (OpenAI co-founder, ex-Tesla AI lead) says he's never felt more behind as a programmer — and explains why in one sentence",
+    "url": "https://www.reddit.com/r/artificial/comments/1vbvknt/andrej_karpathy_openai_cofounder_extesla_ai_lead/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-31T16:19:27+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vbvknt/andrej_karpathy_openai_cofounder_extesla_ai_lead/\"> <img alt=\"Andrej Karpathy (OpenAI co-founder, ex-Tesla AI lead) says he's never felt more behind as a programmer — and explains why in one sentence\" src=\"https://external-preview.redd.it/djdnOGM3ODBjbGdoMf5pBXKceF3Cs3Cjvn1mDc1WjwX7jSAalGI--sbhJy4P.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e20359f3fb0dc64d1b7b40f1257305866f6a361\" title=\"Andrej Karpathy (OpenAI",
+    "title_zh": "Andrej Karpathy 称作为一名程序员从未感到如此落后",
+    "summary_zh": "OpenAI 联合创始人、前特斯拉 AI 负责人 Andrej Karpathy 表达了他对当前技术发展速度的感受，用一句话解释了他作为程序员感到巨大压力的原因。",
+    "key_points": [
+      "Karpathy 表达对 AI 快速发展下编程技能迭代的焦虑",
+      "作为 AI 领域资深专家，他坦言感到跟不上技术演进步伐"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "295ce98c73215236277dd097b4730d6f",
+    "title": "Anthropic says its AI models hacked 3 different organizations",
+    "url": "https://www.reddit.com/r/artificial/comments/1vbvkh3/anthropic_says_its_ai_models_hacked_3_different/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-31T16:19:16+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vbvkh3/anthropic_says_its_ai_models_hacked_3_different/\"> <img alt=\"Anthropic says its AI models hacked 3 different organizations\" src=\"https://external-preview.redd.it/LkJY3sMUgqo6UoUACofh3PzQhyukkoiWAOc1wbDhPmU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32457c6ae3412700b29d614da5ea4b482e7d55c7\" title=\"Anthropic says its AI models hacked 3 different organizations\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A",
+    "title_zh": "Anthropic 称其 AI 模型成功入侵了三个不同组织",
+    "summary_zh": "Anthropic 披露其 AI 模型在测试中成功入侵了三家不同的组织，这展示了前沿 AI 模型在网络安全攻击方面的潜在能力，引发了对 AI 安全的关注。",
+    "key_points": [
+      "Anthropic 演示其 AI 模型具备攻击并入侵组织系统的能力",
+      "该测试揭示了先进 AI 在网络安全领域带来的潜在威胁"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "02a679ae68f91e74af14cd8ea3cec3bc",
+    "title": "Siri AI could come with a paywall for power users",
+    "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-31T16:08:18+00:00",
+    "content_snippet": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+    "title_zh": "苹果 Siri AI 或将对高级用户推出付费墙",
+    "summary_zh": "苹果 CEO 蒂姆·库克设想未来用户可通过 iCloud+ 订阅购买更多计算资源，以便为 Siri AI 解锁更强大的功能，暗示 Siri AI 的部分高阶能力可能需付费使用。",
+    "key_points": [
+      "苹果考虑通过 iCloud+ 订阅为 Siri AI 提供付费算力",
+      "Siri AI 的高级功能未来可能不再免费，需额外购买"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "76e5f3ace809cd6dd3d18568b40028cd",
+    "title": "chatgpt is becoming an agentic browser",
+    "url": "https://nitter.net/gdb/status/2083221810024481046#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-31T16:02:38+00:00",
+    "content_snippet": "<p>chatgpt is becoming an agentic browser</p>\n<hr />\n<blockquote>\n<b>ChatGPT (@ChatGPT)</b>\n<p>\n<p>Good news for anyone with too many tabs: ChatGPT is getting better around the web.    <br />\n<br />\n🧩 Chrome extension: In Side Chat, ask about a YouTube video, reference your open tabs, or highlight text on a page and ask away.   <br />\n<br />\n💻 Desktop app: Get URL suggestions as you type, revisit your browser history, and choose how it’s managed.    <br />\n<br />\nRolling out today.</p>\n<a href=\"",
+    "title_zh": "ChatGPT 正进化为一个具备代理能力的浏览器",
+    "summary_zh": "Greg Brockman 宣布 ChatGPT 正在演变为一个“代理浏览器”，通过 Chrome 扩展程序，它可以询问 YouTube 视频内容、引用打开的标签页或高亮文本，并自主执行网页操作。",
+    "key_points": [
+      "ChatGPT 正在集成浏览器代理功能，可自主执行网页任务",
+      "通过扩展程序能够理解视频、利用标签页和文本等上下文"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "db5d66e795472d08d1cdae5da2102cfb",
+    "title": "cool use case of chatgpt work i heard last night: connect your family calendars and explain your kids' interests. every morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.",
+    "url": "https://nitter.net/sama/status/2083221585792762171#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-31T16:01:45+00:00",
+    "content_snippet": "<p>cool use case of chatgpt work i heard last night:<br />\n<br />\nconnect your family calendars and explain your kids' interests.<br />\n<br />\nevery morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.</p>",
+    "title_zh": "Sam Altman 分享 ChatGPT 用例：为家庭生成每日上学通勤播客",
+    "summary_zh": "Sam Altman 分享了一个 ChatGPT 的有趣应用，通过连接家庭日历和孩子的兴趣，每天早上自动生成一个包含孩子比赛、生日和新闻的个性化播客，用于上学路上收听。",
+    "key_points": [
+      "利用用户日历和兴趣生成个性化每日播客",
+      "Sam Altman 分享家庭场景中的创新 AI 应用案例"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "41baf338498ead91b0b56eb05c6fb719",
+    "title": "Building Trust as AI Agents Take Hold: Greater China Survey Results",
+    "url": "https://www.reddit.com/r/artificial/comments/1vbuptr/building_trust_as_ai_agents_take_hold_greater/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-31T15:49:05+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vbuptr/building_trust_as_ai_agents_take_hold_greater/\"> <img alt=\"Building Trust as AI Agents Take Hold: Greater China Survey Results\" src=\"https://external-preview.redd.it/pPskVOqa4jNhbKnuEsnxdfCmWRJnSD9nrEA65m7gWGc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2adada1ac7c6df45de9310a4b0cb010bdc8005d\" title=\"Building Trust as AI Agents Take Hold: Greater China Survey Results\" /> </a> </td><td> &#32; submitted by &#32; <",
+    "title_zh": "随着AI代理的兴起，建立信任：大中华区调查结果",
+    "summary_zh": "一份关于大中华区对AI代理信任度的调查结果，探讨了在AI代理日益普及的背景下，用户信任构建的现状与挑战。",
+    "key_points": [
+      "调查揭示大中华区用户对AI代理的信任现状",
+      "探讨AI代理普及中建立信任的关键因素"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "64de87aa1354406f96da56c81c4e7edc",
+    "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+    "url": "https://36kr.com/p/3919386961177985?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-07-31T15:23:43+00:00",
+    "content_snippet": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>&nbsp;</p>\n  <h3><strong>一句话介绍</strong></h3>\n  <p>国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。</p>\n  <p>主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory是必须要跨过的门槛。</p>\n  <h3><strong>融资情况</strong></h3>\n  <p>近日，丘脑智能已完成数千万元种子轮融资，投资方包括深圳一线基金和产业资本，本轮融资主要用于技术研发以及人才队伍补充。</p>\n  <h3><strong>团队介绍</strong></h3>\n  <p>丘脑智能创立于2025年11月，创始人兼CEO张源毕业于北京大学，是电子与经济双学科背景，曾在一家自动驾驶公司担任COO，也有过创投行业、具身智能的工作经历。</p>\n  <p>团队平均年龄约26岁，核心人员主",
+    "title_zh": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
+    "summary_zh": "丘脑智能作为国内唯一专注多模态长记忆的公司，推出原生多模态记忆基座，旨在推动AI从通用走向个性化，最终实现主动智能，并已完成数千万融资。",
+    "key_points": [
+      "丘脑智能推出原生多模态记忆基座，专注于主动智能",
+      "公司完成数千万融资，是国内唯一做多模态长记忆的企业"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a9556f3b66cd7e164d4318abc0607916",
+    "title": "Thoughts on Sustainable Computing: Informatics and Systems (SUSCOM) [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vbtw9o/thoughts_on_sustainable_computing_informatics_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-07-31T15:19:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I was planning on submitting a work of mine to SUSCOM and wanted opinions as of how good is this journal and if it's well reputed and respected ? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Practical-Buddy6323\"> /u/Practical-Buddy6323 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1vbtw9o/thoughts_on",
+    "title_zh": "对可持续计算：信息学与系统（SUSCOM）期刊的看法",
+    "summary_zh": "一位Reddit用户发帖询问关于学术期刊《可持续计算：信息学与系统》（SUSCOM）的声誉和质量，以决定是否向其投稿。",
+    "key_points": [
+      "用户询问SUSCOM期刊的学术声誉和受尊重程度"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d6b9a6d8c12d77f5572bbe6a3cd7b953",
+    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+    "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-31T15:16:17+00:00",
+    "content_snippet": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+    "title_zh": "SpaceX一年内不会移除所有xAI的未经许可的涡轮机",
+    "summary_zh": "SpaceX正在为xAI的Colossus数据中心建造新发电厂，但不会在数月内移除现有的、未经许可的涡轮机，引发关注。",
+    "key_points": [
+      "SpaceX为xAI数据中心建新电厂，但暂不移除未经许可的涡轮机",
+      "事件涉及xAI数据中心能源设施的合规问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ef7e135bdd5acf00f57c9457d9ab2360",
+    "title": "Building abundant intelligence",
+    "url": "https://openai.com/index/building-abundant-intelligence",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-31T15:00:00+00:00",
+    "content_snippet": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "title_zh": "构建充裕智能",
+    "summary_zh": "OpenAI发布博客阐述其全栈式方法，旨在让先进AI能力更强、价格更低且用途更广，推动智能的普及化。",
+    "key_points": [
+      "OpenAI提出全栈方法，让AI更强大、更便宜、更普及",
+      "文章核心是阐述OpenAI构建充裕智能的愿景"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2005de2b3852e9ae8339f04763c0f696",
+    "title": "i see your moore's law and i raise you 20x",
+    "url": "https://nitter.net/sama/status/2083203642975502640#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-07-31T14:50:27+00:00",
+    "content_snippet": "<p>i see your moore's law and i raise you 20x</p>\n<hr />\n<blockquote>\n<b>nic (@nicdunz)</b>\n<p>\n<p>GPT-5.4 full at xhigh scored 51, exactly where Luna max sits today. GPT-5.4 costs $2.50/$15; Luna now costs $0.20/$1.20. In other words, roughly four months later, OpenAI is selling March’s full flagship intelligence at about one-thirteenth the token price.</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/nicdunz/status/2082884002201878824#m\">https://nitter.net/nicdunz/status/2082884002201878",
+    "title_zh": "山姆·奥特曼：看到你的摩尔定律，我加注20倍",
+    "summary_zh": "山姆·奥特曼转发推文，显示GPT-5.4模型在四个月后成本大幅下降，性能却可媲美早期旗舰模型，暗示AI能力提升速度远超摩尔定律。",
+    "key_points": [
+      "GPT-5.4成本四个月后大幅下降，性能比肩早期旗舰",
+      "山姆·奥特曼暗示AI能力提升速度是摩尔定律的20倍"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eccb7dbefe541daf19795c0ab5c2963c",
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-07-31T14:47:11+00:00",
+    "content_snippet": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+    "title_zh": "Smallest.ai融资1300万美元，打造超快且逼真的语音AI",
+    "summary_zh": "初创公司Smallest.ai获得1300万美元融资，用于开发超快且声音逼真的语音模型，目标是让AI电话通话能通过图灵测试。",
+    "key_points": [
+      "Smallest.ai融资1300万美元，开发超快逼真语音模型",
+      "其目标是让AI电话通话通过图灵测试"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "80cf88a1e75a90cef9c6c2522ed34ff4",
+    "title": "it could be faster",
+    "url": "https://nitter.net/sama/status/2083198135812383197#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-31T14:28:34+00:00",
+    "content_snippet": "<p>it could be faster</p>\n<hr />\n<blockquote>\n<b>Tibo (@thsottiaux)</b>\n<p>\n<p>The day we develop really good models. There will be signs.<br />\n<br />\nReliability increasing despite load going up and up. Sudden efficiency gains. Things getting faster. Resets.<br />\n<br />\nThese kinds of things.</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/thsottiaux/status/2083053369351090254#m\">https://nitter.net/thsottiaux/status/2083053369351090254#m</a>\n</footer>\n</blockquote>",
+    "title_zh": "山姆·奥特曼：它还可以更快",
+    "summary_zh": "山姆·奥特曼转发推文讨论AI模型发展的标志，并评论称“还可以更快”，暗示其对AI模型持续提速的期望和信心。",
+    "key_points": [
+      "山姆·奥特曼评论转发，称AI模型发展还可以更快",
+      "讨论AI模型成熟标志包括可靠性提升和效率突变"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ad1c38fe84983c721c1dd02197f25bff",
+    "title": "Meta’s free cash flow fell from $8.5B to $784M in a year while quarterly AI infrastructure spend hit $31B.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vbsi32/metas_free_cash_flow_fell_from_85b_to_784m_in_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-31T14:27:37+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vbsi32/metas_free_cash_flow_fell_from_85b_to_784m_in_a/\"> <img alt=\"Meta’s free cash flow fell from $8.5B to $784M in a year while quarterly AI infrastructure spend hit $31B.\" src=\"https://preview.redd.it/17xs0ir5skgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1c228ef7fae485ac3034d8b54785110f0b666e1\" title=\"Meta’s free cash flow fell from $8.5B to $784M in a year while quarterly AI infrastructure spend hit $31B.\" />",
+    "title_zh": "Meta自由现金流一年内从85亿跌至7.84亿美元，季度AI基础设施支出达310亿",
+    "summary_zh": "Meta的自由现金流因AI基础设施支出激增至每季度310亿美元而大幅下降，从一年前的85亿美元跌至7.84亿美元，引发市场对其巨额AI投资的财务可持续性的担忧。",
+    "key_points": [
+      "Meta季度AI基础设施支出飙升至310亿美元",
+      "自由现金流因此从85亿骤降至7.84亿美元",
+      "引发市场对其巨额AI投资财务可持续性的担忧"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
