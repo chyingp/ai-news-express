@@ -885,5 +885,153 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e81a61e9d93e2813c8f8952dbfb55b28",
+    "title": "I built LOLM: a lower-cost LLM agent with live control decisions and sealed run receipts",
+    "url": "https://www.reddit.com/r/artificial/comments/1vc3y0d/i_built_lolm_a_lowercost_llm_agent_with_live/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-07-31T21:30:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m one of the builders of LOLM, a hybrid Transformer–SSM language model and agent system from Qira.</p> <p>The central idea is that an agent should do more than generate text and call tools. LOLM exposes a controller that can decide when to continue, retrieve evidence, verify, branch, or finalize, and it produces a receipt showing what happened during the run.</p> <p>Available now: - Live agent demo - CLI for questions, code tasks, and small HTML builds - Isola",
+    "title_zh": "我构建了LOLM：一个低成本、可实时控制决策并生成密封运行回执的LLM智能体",
+    "summary_zh": "开发者展示了名为LOLM的混合Transformer-SSM语言模型与智能体系统，核心特点是控制器可决定何时继续、检索证据，并生成不可篡改的运行回执，旨在降低使用成本。",
+    "key_points": [
+      "LOLM采用混合Transformer-SSM架构以降低运行成本",
+      "智能体具备实时控制决策能力，可自主决定运行流程",
+      "系统能生成密封的运行回执，增强过程可审计性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ce42b39092d304d7668e8bb83fe2fbe5",
+    "title": "Dawg my faith in humanity is negative.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vc3vdc/dawg_my_faith_in_humanity_is_negative/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-31T21:27:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My school just sent out a newsletter for like a welcome back thing and the entire email was ai, it was a brief little blurb and then an ai image, sorry I cant link it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Present_Vegetable39\"> /u/Present_Vegetable39 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vc3vdc/dawg_",
+    "title_zh": "学校群发AI生成邮件，我对人性失去信心",
+    "summary_zh": "Reddit用户抱怨其学校发送的返校欢迎邮件全部由AI生成，包括文字和图像，引发了对人类创造力和真诚沟通被替代的失望与担忧。",
+    "key_points": [
+      "学校返校欢迎邮件内容及配图完全由AI生成",
+      "发帖者对此现象表示失望，认为这反映了人性的消极面"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "df8b2d45f28d026d0be7dfebedf85e15",
+    "title": "pets and voice make chatgpt desktop so much more fun to use",
+    "url": "https://nitter.net/gdb/status/2083294351883743442#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-31T20:50:53+00:00",
+    "content_snippet": "<p>pets and voice make chatgpt desktop so much more fun to use</p>\n<hr />\n<blockquote>\n<b>ChatGPT (@ChatGPT)</b>\n<p>\n<p>Your pets have found a shortcut to ChatGPT Voice 👀<br />\n<br />\nIn the desktop app, click your pet to open Voice, check on work, and approve or stop tasks without missing a beat.</p>\n<a href=\"https://nitter.net/ChatGPT/status/2083287694852112400#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2083287651755696128%2Fimg%2F1vETej_XGV-9-vSK.jpg\" />\n</",
+    "title_zh": "宠物与语音功能让ChatGPT桌面版更有趣",
+    "summary_zh": "Greg Brockman分享ChatGPT桌面应用新玩法：用户点击宠物图标即可快速开启语音模式，在查看工作时无需切换即可批准或停止任务，提升交互趣味性。",
+    "key_points": [
+      "点击桌面应用中的宠物图标可快速启动ChatGPT语音模式",
+      "用户可在不中断工作流的情况下批准或停止任务",
+      "该功能由OpenAI联合创始人Greg Brockman亲自推广"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "82e3dc5b42774375406d61d61eb17422",
+    "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+    "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-31T20:39:14+00:00",
+    "content_snippet": "Had the hacks used conventional methods, someone would likely go to prison.",
+    "title_zh": "Claude涉嫌非法访问3个网络，Anthropic会被追责吗？",
+    "summary_zh": "安全报道指出AI模型Claude可能以非法手段访问了三个网络，若为传统黑客行为将面临监禁，引发对AI公司法律责任的讨论。",
+    "key_points": [
+      "AI模型Claude被指可能非法获取了三个网络的访问权限",
+      "若由人类黑客实施，此行为将导致刑事监禁",
+      "Anthropic公司可能因此面临法律责任追究"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "80ea3aec3da5c9b788b4a04a439d61d8",
+    "title": "Tired of not winning",
+    "url": "https://nitter.net/ylecun/status/2083290542956224643#m",
+    "source": "Yann LeCun (X)",
+    "source_zh": "Yann LeCun",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-07-31T20:35:45+00:00",
+    "content_snippet": "<p>Tired of not winning</p>\n<hr />\n<blockquote>\n<b>Republicans against Trump (@RpsAgainstTrump)</b>\n<p>\n<p>Donald Trump “erupted” during a meeting with his top national security team last week, reportedly yelling expletives at those present, according to NBC News.<br />\n<br />\nThe report says Trump is “exasperated” by the lack of progress in ending the Iran war and the lack of a clear strategy.<br />\n<br />\nOne Trump ally said, “The president is exasperated. I don’t think he believed it was goin",
+    "title_zh": "厌倦了失败",
+    "summary_zh": "Yann LeCun转发一则关于特朗普在国家安全会议上爆粗口的新闻并评论'厌倦了失败'，这与其AI专业领域无关，属于政治话题的个人观点表达。",
+    "key_points": [
+      "图灵奖得主LeCun引用特朗普会议爆粗口的新闻",
+      "推文内容为政治评论，与人工智能技术无关"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3d2b4219ea10353b680463af66f3a7e7",
+    "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+    "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-07-31T20:21:05+00:00",
+    "content_snippet": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
+    "title_zh": "谷歌地球因虚假信息风险紧急撤回AI生成假卫星图功能",
+    "summary_zh": "谷歌地球曾短暂上线一项AI工具，可将真实街景生成为虚假卫星图像，但因引发严重的虚假信息传播担忧，该功能被迅速撤回。",
+    "key_points": [
+      "谷歌地球推出可将街景转为虚假卫星图像的AI工具",
+      "该功能因存在制造和传播虚假信息的巨大风险引发质疑",
+      "面对舆论压力，谷歌迅速撤回了这项AI功能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
