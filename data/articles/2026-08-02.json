@@ -163,5 +163,126 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "33f5b1ce76ecad5f4e5f1a25fe6bd102",
+    "title": "Help choose a reasonably cheap AI environment for Coding",
+    "url": "https://www.reddit.com/r/artificial/comments/1vcycta/help_choose_a_reasonably_cheap_ai_environment_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-01T20:49:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi, sorry if this is a repeated question on this subreddit but I want to know what is the monthly cheapest reasonable AI setup for myself.</p> <p>Basically im a &quot;full stack developer&quot; yea its lost its meaning but anyways I have like 5 projects with a company which is react laravel based (each in their own project folder thus i use file path to call them).</p> <p>Im at the stage where its bug fixing or sometimes new integrations with the already linked ",
+    "title_zh": "求助：帮我选择一套价格合理的 AI 编程环境",
+    "summary_zh": "一位全栈开发者在 Reddit 发帖，寻求关于如何以合理的月成本搭建 AI 编程辅助环境的建议，涉及多个项目。",
+    "key_points": [
+      "全栈开发者寻求低成本 AI 编程环境方案",
+      "涉及多个项目，需要合理的月度预算"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "88ab0b7f770b58a2c2b339b73b7cafd1",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-01T20:26:04+00:00",
+    "content_snippet": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "title_zh": "法官驳回 xAI 阻止明尼苏达州“一键脱衣”应用禁令的请求",
+    "summary_zh": "尽管 xAI 提起诉讼，但法官裁定明尼苏达州针对允许用户生成虚假裸照的应用的禁令可以继续推进。",
+    "key_points": [
+      "xAI 试图阻止明尼苏达州禁用“一键脱衣”应用未果",
+      "法官裁定该州禁令可继续推进"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f60e119fe127837f9b3e1d1f15f1d774",
+    "title": "What the Claude API Actually Costs",
+    "url": "https://www.reddit.com/r/artificial/comments/1vcxbsk/what_the_claude_api_actually_costs/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-01T20:08:21+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/techpotions\"> /u/techpotions </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"http://techpotions.com/lab/claude-api-cost\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1vcxbsk/what_the_claude_api_actually_costs/\">[comments]</a></span>",
+    "title_zh": "Claude API 的实际成本到底是多少",
+    "summary_zh": "一个 Reddit 帖子链接到分析 Claude API 实际使用成本的文章，探讨了其定价和潜在开销。",
+    "key_points": [
+      "分析 Anthropic Claude API 的实际使用成本",
+      "探讨其定价结构及潜在开销"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4ed2eedeb8e7d0c35fafa28e9ed80433",
+    "title": "chatgpt work's cloud browser is really cool to use, lets you easily monitor what your AI is up to and also intervene with the live application if needed",
+    "url": "https://nitter.net/gdb/status/2083641828415602989#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-01T19:51:38+00:00",
+    "content_snippet": "<p>chatgpt work's cloud browser is really cool to use, lets you easily monitor what your AI is up to and also intervene with the live application if needed</p>",
+    "title_zh": "Greg Brockman 称赞 ChatGPT Work 的云浏览器功能强大",
+    "summary_zh": "OpenAI 联合创始人 Greg Brockman 发推称，ChatGPT Work 的云浏览器能轻松监控 AI 操作并实时干预应用程序，体验极佳。",
+    "key_points": [
+      "ChatGPT Work 的云浏览器可监控 AI 操作并实时干预",
+      "Greg Brockman 称赞该功能体验极佳"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c3a681b5291466f92e6016c38ff1716b",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-01T19:45:45+00:00",
+    "content_snippet": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+    "title_zh": "YouTuber Hank Green 称其使用 AI 成瘾的状态“不健康”",
+    "summary_zh": "YouTuber Hank Green 公开道歉，表示与大型语言模型互动带来的多巴胺水平过高，这对他的身心健康和世界都不利。",
+    "key_points": [
+      "Hank Green 承认与 LLM 互动导致多巴胺水平过高",
+      "他认为这种 AI 使用习惯对自身和世界不健康"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
