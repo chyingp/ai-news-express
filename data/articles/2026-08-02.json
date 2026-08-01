@@ -1,0 +1,96 @@
+[
+  {
+    "id": "600bbe28ab21cbfd096ffaf7ea61760a",
+    "title": "AI documentation tools vs actually learning the thing, which is saving you more time right now?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vctc2f/ai_documentation_tools_vs_actually_learning_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-01T17:30:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been a PT by day, tinkering with code and AI tools by night for a while now. Writing dev tutorials as a side thing. And I keep running into this split where AI tools either make me faster or make me lazier in a way I regret later.</p> <p>Specifically with documentation and code explanation tools. Cursor, Copilot, the Claude API, whatever. They can explain a codebase to you in 30 seconds. But there's a real cost when you skip the part where you actually understan",
+    "title_zh": "AI文档工具 vs 真正学习技术：哪个更能节省时间？",
+    "summary_zh": "一位兼职开发者探讨使用AI文档工具与深入学习技术之间的利弊权衡，思考AI工具是让自己更高效还是因依赖而变得懒惰，导致事后后悔。",
+    "key_points": [
+      "AI工具可能加速开发，但也可能导致过度依赖而忽略基础学习。",
+      "开发者反思AI辅助编程带来的效率提升与长期学习代价的平衡问题。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "107f7b60818b58d28e131785c3243754",
+    "title": "EMNLP vs AACL commitment: Meta 3.5, reviews 3/3/4, what to do?[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vcsv1s/emnlp_vs_aacl_commitment_meta_35_reviews_334_what/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-01T17:11:05+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm trying to decide whether to commit my ARR May 2026 paper to <strong>EMNLP</strong> or <strong>AACL</strong>. (first time solo independent author).</p> <p>Final reviews after rebuttal (OA/Confidence/Excitement ):</p> <ul> <li>R1: <strong>2.5 → 3 /3/2.5</strong></li> <li>R2: <strong>2.5 → 3 /4/2.5</strong></li> <li>R3: <strong>4 /4 /3</strong></li> <li><strong>Meta: 3.5 (Borderline Conference)</strong></li> </ul> <p>The meta-review was overall positive and emp",
+    "title_zh": "EMNLP vs AACL论文投稿抉择：Meta 3.5分，评审意见3/3/4，该如何决定？",
+    "summary_zh": "一位独立作者在收到评分提升后的评审意见后，犹豫该将ARR论文提交至EMNLP顶级会议还是AACL会议，寻求社区关于投稿策略的建议。",
+    "key_points": [
+      "论文最终评审分数为3/3/4，综合评分从2.5提升至3。",
+      "独立作者在NLP顶会EMNLP与AACL之间面临投稿抉择。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "46b49e93011a861784d62407208d3f94",
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-01T17:07:34+00:00",
+    "content_snippet": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+    "title_zh": "Sam Altman仍在倡导用ChatGPT辅助育儿",
+    "summary_zh": "OpenAI首席执行官Sam Altman再次分享将ChatGPT用于育儿场景的“酷用例”，认为该工具能为父母提供创新帮助，引发热议。",
+    "key_points": [
+      "Sam Altman持续推广ChatGPT在家庭育儿方面的应用。",
+      "该观点将AI聊天机器人定位为父母的辅助工具，引发社会讨论。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "283e4bf27479271b2891b552939072ad",
+    "title": "How Symmetric Are the Insides of a Go Network? [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vcrki2/how_symmetric_are_the_insides_of_a_go_network_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-01T16:18:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I just now posted a small research / ML interp study on symmetries inside the neural nets for an open source Go-playing program that I maintain (&quot;KataGo&quot;). The rules of Go are completely symmetric under rotation/reflection, but such symmetry is not enforced in the models - the only thing we do for that is stochastic 8-fold data augmentation during training, randomizing the spatial orientation of each batch. </p> <p>To what degree do superhuman-strength",
+    "title_zh": "围棋AI网络内部对称性研究",
+    "summary_zh": "开源围棋AI程序KataGo的维护者发布了一项关于神经网络内部对称性的小型可解释性研究，探讨了网络是否自发学习了围棋规则的对称性。",
+    "key_points": [
+      "研究探讨了围棋AI网络内部是否自动习得了棋盘的旋转和反射对称性。",
+      "项目基于开源围棋AI KataGo进行神经网络可解释性分析。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
