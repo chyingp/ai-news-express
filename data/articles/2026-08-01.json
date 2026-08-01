@@ -1106,5 +1106,57 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "817155c8b571a4e5be99fcec611d4182",
+    "title": "put ChatGPT to work every day",
+    "url": "https://nitter.net/gdb/status/2083368795507474844#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-01T01:46:42+00:00",
+    "content_snippet": "<p>put ChatGPT to work every day</p>\n<hr />\n<blockquote>\n<b>Max Weinbach (@mweinbach)</b>\n<p>\n<p>With Luna being so cheap, automations like this feel very worth while</p>\n<img src=\"https://nitter.net/pic/media%2FHOlNeVRWMAAqM4s.jpg\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/mweinbach/status/2083281488745734195#m\">https://nitter.net/mweinbach/status/2083281488745734195#m</a>\n</footer>\n</blockquote>",
+    "title_zh": "让 ChatGPT 每天为你工作",
+    "summary_zh": "OpenAI 总裁 Greg Brockman 转发推文，强调 ChatGPT 在日常工作中的价值，提及 Luna 设备成本低廉，使得自动化任务变得非常值得。",
+    "key_points": [
+      "Greg Brockman 倡导每日使用 ChatGPT 提升效率",
+      "低成本的 Luna 设备使自动化变得更具性价比"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "088651be00d744dc7cbb5c32796fe32f",
+    "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
+    "url": "https://36kr.com/p/3920241240419720?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-08-01T00:38:59+00:00",
+    "content_snippet": "<h2>今日热点导览</h2>\n  <p>字节跳动发布视频创作模型Seedance 2.5</p>\n  <p>长鑫科技市值突破4万亿</p>\n  <p>人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线</p>\n  <p>韩国KOSPI指数上涨18%</p>\n  <p>Anthropic称AI模型在测试期间误侵三家真实机构系统</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>马斯克回应特斯拉剥离中国业务</strong></p>\n  <p>7月31日，对于特斯拉正考虑拆分中国业务的消息，特斯拉CEO马斯克在回应第三方转发评论时回复：“这是假新闻。”对于特斯拉正考虑出售或剥离其中国业务的消息，特斯拉中国内部人士也向第一财经记者表示：“不实消息。”（第一财经）</p>\n  <p><strong>去哪儿：8月5日起燃油附加费再下调，800公里以上航线每人省30元</strong></p>\n  <p>36氪获悉，7月31日，去哪儿接到多家航空公司通知，自2026年8月5日（出票日期）起，成人旅客：800公里以上航线每位旅客收取70元燃油附加费，800公里（含）以下",
+    "title_zh": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
+    "summary_zh": "36氪早报涵盖多条热点：马斯克否认特斯拉剥离中国业务；字节跳动发布视频模型 Seedance 2.5；Anthropic 称其 AI 在测试中意外侵入真实机构系统。",
+    "key_points": [
+      "马斯克称特斯拉剥离中国业务的消息是假新闻",
+      "字节跳动发布视频创作模型 Seedance 2.5",
+      "Anthropic 的 AI 在测试中意外侵入三家真实机构系统"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "bytedance",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
