@@ -1649,5 +1649,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9305b74a5df997ea13f797d69c215ac7",
+    "title": "team humanity",
+    "url": "https://nitter.net/sama/status/2083560847889023219#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-01T14:29:51+00:00",
+    "content_snippet": "<p>team humanity</p>\n<hr />\n<blockquote>\n<b>jason (@jxnlco)</b>\n<p>\n<p>one of the most beautiful things about OpenAI is that every employee really has a voice.<br />\n<br />\ni wanted to capture what it feels like to work here, what our mission means to me, and why you should join us. so i made this video with Codex, shared it with the team, and they felt it was worth producing and sharing with the world.<br />\n<br />\nthis is our mission. and it’s why i’m here.</p>\n<a href=\"https://nitter.net/jxnl",
+    "title_zh": "团队人性",
+    "summary_zh": "Sam Altman 转发员工关于 OpenAI 工作体验的帖子，强调每位员工都有发言权，并借此传递公司使命与文化。",
+    "key_points": [
+      "Sam Altman 转发员工帖子，展现 OpenAI 的开放文化",
+      "员工称在 OpenAI 每位员工都有真正的话语权",
+      "帖子旨在吸引人才，分享公司使命与工作感受"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
