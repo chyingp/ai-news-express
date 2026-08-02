@@ -775,5 +775,76 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "30ce5c01236a1d1ae8c58ca26d3d04a6",
+    "title": "is learning copywriting still worth it when AI output is already client-passable?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vdf1qe/is_learning_copywriting_still_worth_it_when_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-02T10:55:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been using a few AI tools to help with copy for a small side project and it's raised a question I can't quite shake. The output is genuinely decent now. Not great, but decent enough that clients who aren't paying close attention probably wouldn't notice the difference.</p> <p>The thing is, I've been spending real time learning copywriting. Reading books, studying good ads, practicing hooks. And part of me wonders if that investment still makes sense the way it d",
+    "title_zh": "当AI写作已能满足客户需求，学习文案写作还值得吗？",
+    "summary_zh": "文章探讨了在AI生成文案质量已足够通过客户审核的背景下，人工学习文案写作是否仍有价值。作者认为当前AI输出虽非顶尖，但对要求不高的客户已足够以假乱真。",
+    "key_points": [
+      "AI生成的文案质量已能达到客户可接受的水平",
+      "非专业客户可能难以分辨AI与人工撰写的文案",
+      "引发对学习传统文案写作技能必要性的反思"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e09fc309d32e548403d1f28c1b30471a",
+    "title": "To address the limits of deep learning and avoid stalling, the field of AI started by applying patch (1), which started being demoed 9 months later in December 2024 and has now become completely ubiquitous. However, long term, it is simply inevitable that AI will move to patch (2).",
+    "url": "https://nitter.net/fchollet/status/2083863030589231160#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-02T10:30:37+00:00",
+    "content_snippet": "<p>To address the limits of deep learning and avoid stalling, the field of AI started by applying patch (1), which started being demoed 9 months later in December 2024 and has now become completely ubiquitous. However, long term, it is simply inevitable that AI will move to patch (2).</p>\n<hr />\n<blockquote>\n<b>François Chollet (@fchollet)</b>\n<p>\n<p>There are essentially two main options to remedy this: <br />\n<br />\n1. Find ways to perform active inference, so that the model adapts its learned",
+    "title_zh": "François Chollet：AI为解决深度学习瓶颈，已从修补方案（1）转向不可避免的修补方案（2）",
+    "summary_zh": "AI领域为应对深度学习极限并避免停滞，先采用了修补方案（1），该方案于2024年12月演示后已迅速普及。但从长远看，AI向修补方案（2）的演进是必然趋势。",
+    "key_points": [
+      "AI为解决深度学习瓶颈采用了短期修补方案，并已普及",
+      "长期来看，AI演进到更根本的修补方案（2）不可避免"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8a78513736ad25bc9c0ac6a5d7fccc6b",
+    "title": "中信证券：调整基本结束，8月修复可期",
+    "url": "https://36kr.com/newsflashes/3922183036694147?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-08-02T09:58:47+00:00",
+    "content_snippet": "8月2日消息，中信证券研报表示，A股本轮调整更多是拥挤交易的修正，而非韩国式的去杠杆冲击，这体现在：1）整体杠杆情况比较安全，7月上涨股票数量接近全A一半，明显超过6月；2）相比全球历史上典型的去杠杆行情，当前的融资回落幅度并不算大；3）ETF市场呈现持续的资金流入，科技类ETF的流入提供了充足流动性支持。当然，局部的流动性压力依然存在，尤其是部分非核心AI股，这些个股的调整影响到了科技板块内部的持仓调整，造成核心标的定价短暂失效，不过中信证券认为目前该影响已基本消除。8月普遍修复的概率还在提升，但并非简单超跌反弹，非AI板块的负面叙事有边际好转，资金环境也支持适当修复。配置上，建议增配能化、有色、非银和创新药，科技内部需要借反弹更加聚焦持仓。（界面）",
+    "title_zh": "中信证券：调整基本结束，8月修复可期",
+    "summary_zh": "中信证券研报认为，A股近期的调整主要为拥挤交易修正，而非去杠杆冲击，整体杠杆风险可控。局部的非核心AI股流动性压力影响已基本消除，8月市场普遍修复概率提升，建议增配能化等板块。",
+    "key_points": [
+      "A股近期调整为拥挤交易修正，非去杠杆冲击",
+      "非核心AI股流动性压力对科技板块的影响已基本消除",
+      "8月市场修复可期，建议增配能化等非AI板块"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
