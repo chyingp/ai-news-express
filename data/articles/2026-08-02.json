@@ -307,5 +307,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "20a4b7e455047493475b323977a19449",
+    "title": "chatgpt work is such a good thought amplifier",
+    "url": "https://nitter.net/gdb/status/2083730016400195845#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-02T01:42:04+00:00",
+    "content_snippet": "<p>chatgpt work is such a good thought amplifier</p>",
+    "title_zh": "ChatGPT Work：强大的思维放大器",
+    "summary_zh": "Greg Brockman 在 X 平台表示，ChatGPT Work 是一个极佳的思维放大器，能有效增强和扩展个人的思考能力。",
+    "key_points": [
+      "Greg Brockman 称赞 ChatGPT Work 是优秀的思维放大器",
+      "该工具能显著增强用户的思考过程"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d5ad4a9eb1df959e6985d21489e74794",
+    "title": "I benchmarked which of 18 AI models writes the least like \"AI slop\"",
+    "url": "https://www.reddit.com/r/artificial/comments/1vd3om8/i_benchmarked_which_of_18_ai_models_writes_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-02T00:43:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>If you write with AI you already know the tells: the throat-clearing opener, the tidy rule of three, &quot;it's not just X, it's Y.&quot;</p> <p>But I was curious to see statistically what models actually produced the most slop, so I made my own opensource benchmark: <a href=\"http://theslopindex.com/\">theslopindex.com</a></p> <p><strong>Here's how I came up with the benchmark.</strong></p> <p><strong>1) The Baseline:</strong></p> <p>Slop can only be measured com",
+    "title_zh": "我实测了 18 款 AI 模型，看谁写的最不像“AI 废话”",
+    "summary_zh": "一位 Reddit 用户因对 AI 生成文本的套路化表达感到好奇，创建了一个开源基准测试，统计分析 18 款 AI 模型中哪一款生成的文本最不像典型的“AI 废话”。",
+    "key_points": [
+      "用户创建开源基准测试，对比 18 款模型的写作风格",
+      "旨在量化分析哪款模型生成的文本最少出现“AI 味”"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
