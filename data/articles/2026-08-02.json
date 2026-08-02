@@ -355,5 +355,81 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8c596b457242931f6ca77373e775e66f",
+    "title": "Swapping AI models rarely fixes bad output. The context you feed it does more work than people realize.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vd6q9p/swapping_ai_models_rarely_fixes_bad_output_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-02T03:11:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Noticed a pattern: people switch from GPT to Claude, upgrade to a newer version, try a bigger model and the output barely changes. If that's happened to you, the issue usually isn't the model. It's what you handed it before asking the question.</p> <p>Broke it down to three things context actually needs to supply, and most disappointing outputs are missing one of these, not all of them:</p> <ol> <li><strong>Current facts the training data can't know:</strong> yo",
+    "title_zh": "更换AI模型很少能解决输出不佳的问题，你喂给它的上下文比你想象的更重要。",
+    "summary_zh": "文章指出，用户频繁切换不同AI模型但输出质量未见改善的常见误区。核心问题往往不在于模型本身，而在于提问前提供的上下文信息不足或不当，强调了提示工程中上下文质量的重要性。",
+    "key_points": [
+      "频繁切换AI模型无法解决输出质量差的问题",
+      "提示词中的上下文质量比模型版本更影响输出效果",
+      "优化输入信息是提升AI产出的关键"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c78a51b1700f3b401c3714018ae89669",
+    "title": "ask chatgpt work to do any recurring task",
+    "url": "https://nitter.net/gdb/status/2083750556062093745#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-02T03:03:41+00:00",
+    "content_snippet": "<p>ask chatgpt work to do any recurring task</p>\n<hr />\n<blockquote>\n<b>Brett Bauman (@brttbmn)</b>\n<p>\n<p>chatgpt work is the new cron job<br />\n<br />\n<a href=\"http://bbrett.com/movies\">bbrett.com/movies</a></p>\n<img src=\"https://nitter.net/pic/media%2FHOqUL3AX0AA89UU.jpg\" />\n\n<img src=\"https://nitter.net/pic/media%2FHOqUZxwWcAAGDOq.png\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/brttbmn/status/2083641132534083915#m\">https://nitter.net/brttbmn/status/2083641132534083915#m</a>\n</foo",
+    "title_zh": "让ChatGPT替你执行任何周期性任务",
+    "summary_zh": "Greg Brockman转发了一条推文，展示了将ChatGPT作为新型定时任务工具（类似cron job）的用法。用户通过ChatGPT的“work”功能自动执行周期性任务，如定时抓取和更新网页内容。",
+    "key_points": [
+      "ChatGPT被用作执行周期性自动化任务的工具",
+      "展示了ChatGPT Work功能替代传统cron job的潜力",
+      "技术演示通过自动更新电影页面来体现"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8c513054e108acaa207c9fee31d09c43",
+    "title": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all. I also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand. Last thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.",
+    "url": "https://nitter.net/karpathy/status/2083749667410727319#m",
+    "source": "Andrej Karpathy (X)",
+    "source_zh": "Andrej Karpathy",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-02T03:00:09+00:00",
+    "content_snippet": "<p>We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate var",
+    "title_zh": "Andrej Karpathy用Opus 5和5500行代码将《指环王》文本渲染为3D动画世界",
+    "summary_zh": "Andrej Karpathy分享了一项实验：给Opus 5模型《指环王》首段文本和100万token预算，让其自动生成约5500行代码，以3D动画形式程序化渲染了故事场景。尽管画面简陋，但体现了LLM在创建超个性化虚拟世界方面的惊人耐心与潜力，同时也暴露了模型在多模态感知和游戏内测试方面的弱点。",
+    "key_points": [
+      "Opus 5花费2小时编写5500行代码，程序化生成《指环王》3D动画",
+      "该实验展示了LLM以近乎零成本创建超个性化虚拟世界的潜力",
+      "模型在多模态感知和游戏测试方面存在明显弱点，导致画面卡顿"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
