@@ -265,5 +265,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "797e03ac8a78b27408ba1a1064d2357a",
+    "title": "Neurips 2026: does every metareview recommend accept/reject? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vdvkp5/neurips_2026_does_every_metareview_recommend/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-02T22:28:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I see some people say their metareview already contains a decision/recommendation (all of them were rejections). Ours doesn’t. Even though our avg score is 3, the metareview seems optimistic and finishes with “a convincing response would be an important consideration while discussing the paper.” I wonder how to interpret that. We did a strong rebuttal, but none of the reviewers engaged. So I wonder whether there’s any point to keep hope due to the AC review or j",
+    "title_zh": "NeurIPS 2026 审稿流程引热议：元审稿是否该直接给出录用建议？",
+    "summary_zh": "Reddit 用户讨论 NeurIPS 2026 的元审稿（metareview）是否应包含明确的录用或拒稿建议。部分投稿者表示收到的元审稿已直接给出拒稿决定，而另一些投稿者则收到较为乐观、未明确表态的反馈，这种不一致性引发了社区对审稿流程透明度的关注。",
+    "key_points": [
+      "社区关注 NeurIPS 2026 元审稿是否直接给出录用/拒稿建议",
+      "部分投稿者收到明确拒稿决定，另一些则收到模糊的乐观反馈",
+      "审稿意见的不一致性引发对会议审稿流程透明度的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
