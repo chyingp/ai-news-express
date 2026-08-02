@@ -431,5 +431,274 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4b6906d62b9a8d28e205bf8d49960f61",
+    "title": "Don't ever use hackaigc.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vdabw4/dont_ever_use_hackaigc/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-08-02T06:20:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I don't know if anybody knows the site but don't ever use that shit, hackaigc is a scam, please if you see this crap website shit on it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Friendly-Heart-805\"> /u/Friendly-Heart-805 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vdabw4/dont_ever_use_hackaigc/\">[link]</a></s",
+    "title_zh": "警惕：hackaigc 网站实为诈骗",
+    "summary_zh": "Reddit 用户发帖警告称 hackaigc 网站是一个骗局，呼吁人们不要使用该网站，避免上当受骗。",
+    "key_points": [
+      "Reddit 用户警告 hackaigc 网站为诈骗平台",
+      "帖子呼吁用户远离该网站，避免财产损失"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0fb2ab7b1d9db9961b52e2edc249a5d1",
+    "title": "中国产品包揽全球大模型调用量前五",
+    "url": "https://36kr.com/newsflashes/3921989528432259?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "zh",
+    "published": "2026-08-02T06:14:03+00:00",
+    "content_snippet": "近日，全球多模型聚合平台OpenRouter发布最新一周AI大模型调用量榜单，排名前五的产品全部由中国企业研发。登顶榜单首位的是小米MiMo-V2.5，单周调用量达到10.5万亿Token，环比增长12%。排名第二和第五的均来自DeepSeek，两款模型形成高低搭配，覆盖不同开发需求，其中旗舰Pro版本在代码、复杂智能体任务性能对标海外顶级闭源模型。而这些模型的共同之处，是发布时间很短便快速上榜，位列第三的腾讯混元3，7月6日才正式开源，单周环比增幅超999%，是榜单增长势头最猛的模型。（人民财讯）",
+    "title_zh": "中国产品包揽全球大模型调用量前五",
+    "summary_zh": "OpenRouter 平台最新周榜显示，调用量前五的 AI 大模型全部由中国企业研发。小米 MiMo-V2.5 登顶，DeepSeek 两款模型分列二、五，腾讯混元 3 增长势头最猛。",
+    "key_points": [
+      "小米 MiMo-V2.5 以 10.5 万亿 Token 周调用量排名第一",
+      "DeepSeek 两款模型形成高低搭配，覆盖不同开发需求",
+      "腾讯混元 3 开源仅一周，单周环比增幅超 999%"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "deepseek",
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e09a7b1e8e9418e8899d06e82ee49012",
+    "title": "How strong are OpenAI's \"No Data Sharing\" clauses on enterprise plans?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vda6lp/how_strong_are_openais_no_data_sharing_clauses_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-08-02T06:12:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>People in my org tell me using the org certified AI is more secure because we are on an enterprise plan where our data is not used for training. Sure, I will use the company AI. But...</p> <p>Apple is suing OpenAI for for allegedly stealing trade secrets, where it was said employees were instructued by OpenAI to bring parts from apple into &quot;show and tell&quot; interviews at OpenAI and even take the company laptop with them. Also, the models are literally ba",
+    "title_zh": "OpenAI 企业版“不共享数据”条款的约束力有多强？",
+    "summary_zh": "Reddit 用户讨论 OpenAI 企业计划中承诺数据不用于训练的条款是否可靠，并提及苹果正以窃取商业机密为由起诉 OpenAI，引发对数据安全性的担忧。",
+    "key_points": [
+      "用户质疑 OpenAI 企业版不将数据用于训练的承诺",
+      "苹果起诉 OpenAI 涉嫌窃取商业机密，增加了数据安全疑虑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0ed5465f68e12554650a3bae5370559a",
+    "title": "I got tired of re-explaining my project to every AI tool, so I built a local memory layer for them",
+    "url": "https://www.reddit.com/r/artificial/comments/1vd9kbb/i_got_tired_of_reexplaining_my_project_to_every/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-02T05:38:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I kept running into the same problem: ChatGPT would help me think through an architecture, Claude Code would help me implement it, Cursor or Windsurf would touch the repo later, and every handoff would lose context.</p> <p>Not just “what files exist,” but the stuff that actually matters: why we chose one approach, what we already rejected, what the project conventions are, what setup detail will bite later, and what the agent learned last time.</p> <p>So I built",
+    "title_zh": "开发者构建本地记忆层，解决 AI 工具间上下文丢失问题",
+    "summary_zh": "一名开发者因厌倦向 ChatGPT、Claude Code 等不同 AI 工具重复解释项目，开发了一个本地记忆层，旨在跨工具保留项目上下文，提升开发效率。",
+    "key_points": [
+      "开发者创建本地记忆层，解决多 AI 工具切换时的上下文丢失",
+      "该工具旨在让 ChatGPT、Claude Code 等共享项目理解"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "66f09e569a454c6fbb0796eecc0b0b24",
+    "title": "新一代通信网建设加快，千兆光网覆盖超九成国民经济大类",
+    "url": "https://36kr.com/newsflashes/3921943840353668?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-08-02T05:27:35+00:00",
+    "content_snippet": "记者从工业和信息化部了解到，我国正加快新一代通信网建设，目前千兆光网典型应用已覆盖超九成国民经济大类。工业和信息化部信息通信发展司副司长赵策介绍，千兆光网与人工智能、云计算、大数据等技术加速融合，覆盖我国国民经济97个大类中的91个，在智能制造、智慧交通、数字医疗、智慧教育等领域形成一批可复制、可推广的典型方案。我国已经实现“县县通千兆”“村村通宽带”，千兆光网典型应用案例超过5万个，重庆等城市已实现千兆光网城乡全域覆盖。工业和信息化部依托全光网络通过实施城域“毫秒用算”专项行动，形成一批辨识度高、可复制推广的代表性实践成果。截至6月底，我国具备千兆网络服务能力的10G无源光网络端口数达到3286万个，围绕国家算力枢纽节点建设超70条算力大通道，相关算力枢纽节点间网络性能持续提升。 (央视财经)",
+    "title_zh": "我国千兆光网覆盖超九成国民经济大类",
+    "summary_zh": "工信部表示，我国千兆光网与 AI 等技术融合，已覆盖国民经济 97 个大类中的 91 个，在智能制造、数字医疗等领域形成超过 5 万个典型应用案例。",
+    "key_points": [
+      "千兆光网已覆盖国民经济 91 个大类，应用案例超 5 万",
+      "重庆等城市实现千兆光网城乡全域覆盖"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4641b7df18902ac560b44b054e785aa0",
+    "title": "How extreme is the difference in using vs not using quality prompts?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vd8ti3/how_extreme_is_the_difference_in_using_vs_not/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-02T04:58:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I started kind of tinkering with Ai and it all is super fascinating, particularly interesting to me is prompt structure. So I would like to ask is formatting your prompt (persona, few shot negative, whatever else) gives you much better results than without? I want to know it to determine for myself balance between effort dedicated to quality prompt vs quality of output given through that prompt</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://w",
+    "title_zh": "使用与不使用高质量提示词的差异有多大？",
+    "summary_zh": "Reddit 用户发帖探讨 AI 提示词结构的重要性，询问精心设计的提示词（如使用角色、少样本等技巧）相比简单提问，是否能带来显著更好的结果。",
+    "key_points": [
+      "用户讨论提示词结构和格式对 AI 输出质量的影响",
+      "涉及角色设定、少样本学习等高级提示工程技术"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b35173f29e4ca418c00bb0ee9ed31f64",
+    "title": "Bytedance is using seedance 2.5 to automatically generate animated study guides in gauth. interesting use case for ai video [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vd8ezp/bytedance_is_using_seedance_25_to_automatically/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-02T04:37:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>bytedance is using seedance 2.5 to automatically generate animated study guides in gauth. interesting use case for ai video</p> <p>saw this <a href=\"https://www.businessinsider.com/seedance-bytedance-education-push-study-app-gauth-ai-animations-2026-7\">business insider article</a> about how bytedance integrated their seedance 2.5 video model into their study app (gauth). basically generates animated lessons for complex topics like science or history on the fly i",
+    "title_zh": "字节跳动使用 Seedance 2.5 为教育应用自动生成动画学习指南",
+    "summary_zh": "据 Business Insider 报道，字节跳动正利用其 AI 视频生成模型 Seedance 2.5，在其教育应用 Gauth 中自动制作动画学习指南，展示了 AI 视频技术的应用场景。",
+    "key_points": [
+      "字节跳动将 Seedance 2.5 用于 Gauth 应用，自动生成教学动画",
+      "此举展示了 AI 视频生成在教育领域的商业应用案例"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "bytedance"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5a2133acdcb02621164dd474164f9983",
+    "title": "chatgpt for empowering your dad to build:",
+    "url": "https://nitter.net/gdb/status/2083773552793465087#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-02T04:35:04+00:00",
+    "content_snippet": "<p>chatgpt for empowering your dad to build:</p>\n<hr />\n<blockquote>\n<b>chloe venn (@khloyakafe)</b>\n<p>\n<p>my dad using gpt 5.6 sol for the 1st time:<br />\n<br />\n- wanted to build a webpage about indigenous south african fynbos (extreme plant dad) <br />\n<br />\n- read all of the thinking states as it streamed<br />\n<br />\n- final thoughts on the HTML file: “its gorgeous, its absolutely gorgeous”</p>\n<img src=\"https://nitter.net/pic/media%2FHOrQxgaXMAA4Ham.jpg\" />\n\n<img src=\"https://nitter.net/",
+    "title_zh": "ChatGPT 助力父亲开发者构建网站",
+    "summary_zh": "Greg Brockman 转发案例，一位父亲使用 GPT 5.6 Sol 首次尝试构建关于南非本土植物的网页，AI 的思考过程帮助他学习和完成项目，展示了 AI 赋能非专业开发者的潜力。",
+    "key_points": [
+      "一位父亲使用 GPT 5.6 Sol 首次构建植物主题网页",
+      "案例展示了 AI 如何降低编程门槛，赋能普通人创造"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "07955ac00aa7954c4756589accc6329d",
+    "title": "银河证券：Kimi K3正式开源重塑大模型商业生态，建议关注国产超节点及产业链相关公司",
+    "url": "https://36kr.com/newsflashes/3921888283848068?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "zh",
+    "published": "2026-08-02T04:31:04+00:00",
+    "content_snippet": "银河证券研报指出，Kimi K3上线后仅48小时，请求量便把现有集群打满，随后Kimi宣布暂停C端新用户会员订阅，验证Kimi K3模型能力突出与算力紧缺。银河证券认为，Kimi K3并非抑制算力需求，一方面国产开源模型的能力逼近全球顶级闭源模型，倒逼顶级大模型厂商通过更大规模的训练以及更快的迭代来维持差异化，另一方面持续引爆推理算力需求，当前Kimi K3已实现与多家国产算力平台的‌Day 0极速适配，拉动国产超节点的需求，进而推动产业链中服务器、交换机、光模块、液冷、电源等国产算力产业链环节配套需求，建议关注国产超节点及产业链相关公司。（界面）",
+    "title_zh": "银河证券：Kimi K3 开源引爆算力需求，建议关注国产超节点产业链",
+    "summary_zh": "银河证券研报指出，Kimi K3 模型开源后，访问量激增导致算力紧张，C 端新用户订阅已暂停。这验证了模型能力，并预计将引爆推理算力需求，拉动国产服务器、光模块等产业链。",
+    "key_points": [
+      "Kimi K3 上线 48 小时请求量打满集群，暂停新用户订阅",
+      "券商认为开源模型将引爆推理算力，利好国产算力产业链"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "moonshot"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5773c86ade67aec8f4e443ac101370ab",
+    "title": "山东：力争3年内集聚万名人工智能OPC创新人才",
+    "url": "https://36kr.com/newsflashes/3921849987706240?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-08-02T04:07:01+00:00",
+    "content_snippet": "36氪获悉，据山东政府网官微消息，山东省工信厅等12部门近日联合印发《关于支持人工智能OPC创新发展的行动方案》，培育壮大人工智能OPC（One Person Company，一人公司）新型市场主体，推动“AI+超级个体”新型创业模式加速落地。力争3年内，建成百个定位清晰、功能完善的特色载体，培育千家技术领先、成长性强的创业主体，集聚万名优秀人工智能OPC创新人才。支持济南、青岛、烟台等市结合产业禀赋，统筹规划存量资源与新增空间，依托数字经济产业园、广告产业园、网络视听产业园、双创孵化中心等，打造一批人工智能OPC特色园区。",
+    "title_zh": "山东力争 3 年内集聚万名人工智能 OPC 创新人才",
+    "summary_zh": "山东省工信厅等 12 部门联合印发行动方案，推动“AI+超级个体”创业模式，计划 3 年内建成百个特色载体，培育千家创业主体，集聚万名 AI 一人公司创新人才。",
+    "key_points": [
+      "山东推出政策支持“AI+超级个体”创业模式",
+      "目标 3 年内集聚万名 AI OPC 创新人才，打造特色园区"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ce42b977b8fc6ce869dc1c7aac8a66dd",
+    "title": "长三角（嘉兴）Token运营中心正式启动",
+    "url": "https://36kr.com/newsflashes/3921838043065736?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-08-02T03:39:57+00:00",
+    "content_snippet": "36氪获悉，长三角（嘉兴）Token运营中心发布会日前在嘉兴沙龙宾馆举行。发布会上，作为长三角（嘉兴）Token运营中心面向市场的统一服务窗口，长三角（嘉兴）Token运营中心门户网站同步上线。企业不再需要找代码、配环境、调参数。平台如同一个大型的“数据模型超市”，企业一次接入，即可按需调用DeepSeek、Qwen等100余款主流大模型。 (浙江发布)",
+    "title_zh": "长三角（嘉兴）Token运营中心正式启动",
+    "summary_zh": "长三角（嘉兴）Token运营中心在嘉兴启动，同步上线门户网站。该平台打造“数据模型超市”，企业一次接入即可按需调用DeepSeek、Qwen等100余款主流大模型，无需自行配置环境。",
+    "key_points": [
+      "长三角（嘉兴）Token运营中心正式启动，门户网站同步上线",
+      "平台集成100余款主流大模型，企业可一键按需调用",
+      "该中心旨在降低企业使用大模型的技术门槛和成本"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "deepseek",
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
