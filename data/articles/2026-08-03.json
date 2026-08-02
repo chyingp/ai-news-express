@@ -120,5 +120,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d5c0325ab1a857070287b093ad965058",
+    "title": "AI-generated software needs a completion signal separate from model confidence",
+    "url": "https://www.reddit.com/r/artificial/comments/1vdoetg/aigenerated_software_needs_a_completion_signal/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-02T17:44:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am building **Flows**, an execution and verification layer for software-building agents.</p> <p>The core rule: an agent should not convert “I think I finished” into “verified complete” without supporting proof.</p> <p>A Flows project can contain implementation steps, checks, repair instructions, review, and release conditions.</p> <p><a href=\"https://flows.oortstack.com\">https://flows.oortstack.com</a></p> <p>An independent agent used one plan to build a real ",
+    "title_zh": "AI 生成软件需要独立于模型置信度的完成信号",
+    "summary_zh": "开发者构建名为 Flows 的执行与验证层，旨在为软件构建代理提供验证机制，防止代理在无证据支持下将“我认为已完成”状态转为“已验证完成”，强调需独立完成信号。",
+    "key_points": [
+      "提出AI代理需独立完成验证信号，而非仅依赖模型置信度",
+      "Flows 层为软件构建代理提供执行与验证支持",
+      "核心规则是代理完成状态需有证明支撑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ab9f2d28c407e4bbef974530edcf47c3",
+    "title": "Kimi K3 Deep Dive — Architecture, Training & Benchmarks of the 2.78-Trillion-Parameter Open-Weight Model [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vdndys/kimi_k3_deep_dive_architecture_training/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-02T17:03:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone! 👋 </p> <p>I wrote an extensive technical deep-dive into Moonshot AI's <strong>Kimi K3</strong>, analyzing its architectural innovations, training stability tricks, and benchmark performance. </p> <p>The blog covers:</p> <ul> <li>Kimi Delta Attention (KDA)</li> <li>Attention Residuals</li> <li>Stable LatentMoE</li> <li>Quantile Balancing</li> <li>NoPE</li> <li>1M-token context</li> <li>RL training pipeline</li> <li>Infrastructure and serving optimiza",
+    "title_zh": "Kimi K3 深度解析：架构、训练与基准测试",
+    "summary_zh": "一篇技术博客深入分析了月之暗面 Kimi K3 模型，涵盖其架构创新、训练稳定性技巧及基准测试性能，该模型拥有 2.78 万亿参数并采用开放权重。",
+    "key_points": [
+      "Kimi K3 是参数规模达 2.78 万亿的开放权重模型",
+      "文章解析了其架构创新与训练稳定性技巧",
+      "模型由月之暗面（Moonshot AI）开发"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "moonshot"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
