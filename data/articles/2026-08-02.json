@@ -846,5 +846,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9754aadc29e40eb498dae114d9c51c91",
+    "title": "Is paying artists enough to convince them to embrace AI?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-02T13:00:00+00:00",
+    "content_snippet": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's [&#8230;]",
+    "title_zh": "支付艺术家报酬，足以说服他们拥抱人工智能吗？",
+    "summary_zh": "本文探讨了生成式AI公司未经许可使用艺术家作品训练模型的问题，艺术家们认为这等同于盗窃。文章聚焦于一家初创公司通过支付版税来寻求艺术家合作的模式，并分析这是否足以弥合AI行业与创作者之间的裂痕。",
+    "key_points": [
+      "艺术家长期抗议AI公司未经授权使用其作品进行训练",
+      "一家初创公司尝试通过支付版税来获得艺术家许可",
+      "文章探讨这种补偿模式能否解决AI与创作者的根本矛盾"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "70054f3b1e33444ebd441cc5f0387408",
+    "title": "LSP for AI Coding Agents: The Protocol Your Agent Isn't Using Yet",
+    "url": "https://www.reddit.com/r/artificial/comments/1vdg5wr/lsp_for_ai_coding_agents_the_protocol_your_agent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-02T11:56:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Coding agents can analyze your codebase with around 30% fewer tokens. Instead of searching your project as plain text, they get real code intelligence from a language server: exact answers, faster, cheaper, nothing missed.</p> <p>On our codebase it cut 16 to 22% of the agent's tokens and 30 to 40% of the run time</p> <p>Language Server Protocol is an underrated tool for agentic development. It plugs your agent straight into the compiler API.</p> <p>Article: <a h",
+    "title_zh": "面向AI编程代理的LSP协议：你的代理还未使用的利器",
+    "summary_zh": "本文介绍了一项技术方案，即让AI编程代理使用语言服务器协议（LSP）来获取代码智能，而非将代码库作为纯文本搜索。这种方法可节省约30%的令牌消耗，使分析更快速、更便宜且更准确，并在实际测试中减少了16%至22%的令牌使用量。",
+    "key_points": [
+      "AI编程代理使用LSP可节省约30%的令牌消耗",
+      "LSP提供精确的代码智能，替代纯文本搜索",
+      "在实际代码库测试中，该方法减少了16%至22%的令牌使用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
