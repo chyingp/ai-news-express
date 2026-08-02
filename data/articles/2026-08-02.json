@@ -700,5 +700,80 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "35138a812b773a7358cdb3916e134788",
+    "title": "雷军：小米正式推出小米龙甲电池体系",
+    "url": "https://36kr.com/newsflashes/3922092589805191?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-02T08:45:49+00:00",
+    "content_snippet": "36氪获悉，8月2日，雷军宣布小米正式推出小米龙甲电池体系。雷军称，这是小米汽车主导的动力电池系统化解决方案，小米负责产品定义、小米主导电池包的设计开发、小米参与电芯的设计开发、小米进行全流程质量管控。 小米龙甲电池的安全标准，远超国标。 质量管控体系：(1) “影子工厂” 穿透式管理体系。质量团队常驻生产一线，每个模块都有小米专家深度管控； (2) 全流程 穿透式质检，X光全检、CT检测和AI质检等； (3) 每一颗电芯专属电子身份证，全量存档，随时溯源。 小米澎程N70/N90 搭载小米龙甲电池。",
+    "title_zh": "雷军：小米正式推出小米龙甲电池体系",
+    "summary_zh": "小米发布自主主导的动力电池系统化解决方案“龙甲电池”，负责产品定义、设计开发及全流程质量管控，安全标准远超国标，并采用AI质检与电芯溯源等穿透式管理体系。",
+    "key_points": [
+      "小米主导电池包与电芯设计开发，安全标准远超国标",
+      "采用X光全检、CT检测和AI质检等穿透式质量管控",
+      "为每颗电芯配备电子身份证，实现全量存档与随时溯源"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xiaomi"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6a14a97e4557af6616ccb006cd4d2513",
+    "title": "谷歌地球紧急叫停AI生图：虚构场景可叠加卫星图散播假信息",
+    "url": "https://36kr.com/newsflashes/3922077104664199?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-02T07:51:54+00:00",
+    "content_snippet": "谷歌推出谷歌地球（Google Earth）人工智能（AI）图像生成功能不到48小时后，宣布暂停服务，以加强安全防护。专家此前警告，这项工具可把虚构场景叠加在真实卫星图像上，容易被用于散播假信息。 (澎湃新闻)",
+    "title_zh": "谷歌地球紧急叫停AI生图：虚构场景可叠加卫星图散播假信息",
+    "summary_zh": "谷歌地球推出AI图像生成功能不到48小时便紧急暂停，因该功能可将虚构场景叠加在真实卫星图上，被专家警告极易被用于制造和传播虚假信息。",
+    "key_points": [
+      "谷歌地球AI生图功能上线不到48小时即被暂停",
+      "该功能可将虚构场景叠加在真实卫星图像上",
+      "专家警告该工具容易被用于散播虚假信息"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fcad25ced54656012e355f0de15ced77",
+    "title": "Discussion About Meta-Review Issue Report in ARR Cycle [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vdb3ct/discussion_about_metareview_issue_report_in_arr/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-02T07:03:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So guys, this is one of the discussions that I wanted to engage in for sometime now.</p> <p>Based on your personal experience in the ARR cycles, I want you guys to share your experience on your meta reviews especially if you have filed a meta-review issue report in the same in the past cycles of your paper and if this thing has actually brought some changes into the acceptance rate of the conferences like EMNLP etc..</p> </div><!-- SC_ON --> &#32; submitted by &",
+    "title_zh": "关于ARR周期中元评审问题报告的讨论",
+    "summary_zh": "Reddit社区发起关于ARR（ACL滚动评审）周期中元评审环节的讨论，邀请分享个人经验，特别是针对提交元评审问题报告后的经历与反馈。",
+    "key_points": [
+      "讨论学术界ARR周期中的元评审流程与问题",
+      "邀请分享提交元评审问题报告的实际经验与反馈"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
