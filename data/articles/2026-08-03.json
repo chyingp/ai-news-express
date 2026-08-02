@@ -1,0 +1,124 @@
+[
+  {
+    "id": "1034e270695361785ad8012d778998b4",
+    "title": "Looking for the right pipeline to convert academic textbook figures into interactive/editable assets [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vdlj8j/looking_for_the_right_pipeline_to_convert/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-02T15:50:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I'm working on a document understanding project and would appreciate some advice on the right technical direction.</p> <p>The input will be scanned pages or images from academic books. I don't know in advance what kind of figures they'll contain—they could be biology diagrams, anatomy illustrations, chemistry figures, engineering drawings, maps, charts, art/history figures, or other educational illustrations.</p> <p>My end goal is to convert ",
+    "title_zh": "寻找将学术教材图表转换为交互式可编辑资产的正确流程",
+    "summary_zh": "一位Reddit用户正在做一个文档理解项目，输入是学术书籍的扫描页或图像，寻求技术建议，以将未知类型的图表转换为交互式或可编辑的数字资产。",
+    "key_points": [
+      "项目旨在将学术书籍扫描页中的图表转换为交互式资产",
+      "用户寻求处理未知类型图表的技术路线建议",
+      "这是一个关于文档理解的项目求助帖"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f7b61bf80619f0c84bed49918e657512",
+    "title": "The EU AI Act makes failure to disclose AI-generated content (especially if it's hallucinated) illegal and costly.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vdlbbx/the_eu_ai_act_makes_failure_to_disclose/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-02T15:41:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Today, August 2, Article 50 of the EU AI Act takes effect.</p> <p>Here’s the part that’s applicable to those creating AI-generated content that’s read by anyone in the EU:</p> <p>“Deployers of an AI system that <strong>generates or manipulates text which is published with the purpose of informing the public</strong> on matters of public interest <strong>shall disclose that the text has been artificially generated or manipulated</strong>. <strong>This obligation ",
+    "title_zh": "欧盟AI法案要求披露AI生成内容，违规将面临处罚",
+    "summary_zh": "欧盟AI法案第50条于8月2日生效，规定发布AI生成或操纵的文本必须进行披露，尤其是虚构内容，否则将面临非法和昂贵的后果。",
+    "key_points": [
+      "欧盟AI法案第50条要求必须披露AI生成或操纵的文本",
+      "未能披露AI生成内容，尤其是幻觉内容，将属非法",
+      "该条款于2026年8月2日正式生效，适用于所有在欧盟发布的AI内容"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b5b7db29add5b01a0b506542f9ce47f0",
+    "title": "Where's the line between AI helping with research vs AI just telling you what you want to hear?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vdksws/wheres_the_line_between_ai_helping_with_research/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-02T15:20:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>been using LLMs to help process customer feedback, dump a bunch of reddit comments or reviews in and ask it to find patterns, objections, common language. works well enough that i'm a little suspicious of it now.</p> <p>the thing that got me thinking about this: i fed it a batch of comments about a product category and asked for the top objections. it gave me a clean confident list. except when i went back and reread the raw comments myself, a couple of the &quo",
+    "title_zh": "AI辅助研究与迎合用户之间的界限在哪里？",
+    "summary_zh": "作者在使用大语言模型分析客户反馈时，开始怀疑AI可能只是在迎合用户的期望，而非提供客观分析，引发了对AI辅助研究可靠性的思考。",
+    "key_points": [
+      "用户使用LLM分析客户反馈时，怀疑AI可能迎合用户期望",
+      "讨论焦点在于AI辅助研究的客观性与可靠性边界",
+      "问题源于AI在分析中表现出过于符合用户预期的模式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f9c32fcdb6e3e9d23991f719ab3cfeee",
+    "title": "chatgpt for building interactive educational tools",
+    "url": "https://nitter.net/gdb/status/2083934330146197989#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-02T15:13:56+00:00",
+    "content_snippet": "<p>chatgpt for building interactive educational tools</p>\n<hr />\n<blockquote>\n<b>The Bugged Dev (@thebuggeddev)</b>\n<p>\n<p>Only if education could be this interactive ❤️‍🔥<br />\n<br />\nI've had a looong wish to build something genuinely useful through vibe coding, and I finally did it. <br />\n<br />\nA 3D human anatomy application built with <a href=\"https://nitter.net/threejs\" title=\"Three.js\">@threejs</a> using GPT 5.6 Sol. <br />\n<br />\nIt all started with a single design image that I created ",
+    "title_zh": "使用ChatGPT构建交互式教育工具",
+    "summary_zh": "Greg Brockman转发了一个使用ChatGPT通过“vibe coding”方式构建交互式物理学习工具的项目，展示了AI在教育应用中的潜力。",
+    "key_points": [
+      "开发者使用ChatGPT通过vibe coding构建了交互式教育工具",
+      "该工具旨在让物理学习变得直观和互动",
+      "Greg Brockman转发并认可了此AI教育应用案例"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "119d7220786b43724ebe4b5105f6d698",
+    "title": "Character consistency in AI video — has anyone actually cracked it?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vdkdlz/character_consistency_in_ai_video_has_anyone/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-02T15:04:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been watching a project that claims to have solved the problem of keeping the same character looking and sounding consistent across multiple scenes. Not just a single clip — across a full 22-minute episode. Genuinely curious whether people here think that's actually achievable yet or whether they've just hidden the inconsistencies well enough.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NoBigDealProduction\"> /u/NoBigDea",
+    "title_zh": "AI视频中的角色一致性，有人真正解决了吗？",
+    "summary_zh": "Reddit用户讨论一个声称能在一整集22分钟的AI视频中保持角色外观和声音一致性的项目，社区对是否真正解决了该问题持怀疑态度。",
+    "key_points": [
+      "有项目声称解决了AI视频中跨场景的角色一致性难题",
+      "该技术能在长达22分钟的剧集中保持角色外观和声音一致",
+      "Reddit社区对此技术突破的真实性表示好奇和怀疑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
