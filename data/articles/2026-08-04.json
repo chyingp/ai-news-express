@@ -434,5 +434,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5282dd987d87fa9f4e178f71cb653250",
+    "title": "GPT-Live is a new architecture and stack for realtime audio:",
+    "url": "https://nitter.net/gdb/status/2084405421041963356#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-03T22:25:53+00:00",
+    "content_snippet": "<p>GPT-Live is a new architecture and stack for realtime audio:</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>GPT-Live can listen while it speaks.<br />\n<br />\nTo make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model.<br />\n<br />\nThis new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.</p>\n<img src=\"https://nitter.net/pic/media%2FHO0uUesbYAAaHzK.jpg\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"",
+    "title_zh": "GPT-Live：OpenAI 发布实时音频新架构与堆栈",
+    "summary_zh": "OpenAI 推出 GPT-Live，一种全新的实时音频架构，实现模型在说话时也能同时倾听，以提供更自然的对话体验。为此，OpenAI 从客户端到模型端重建了整个语音技术栈。",
+    "key_points": [
+      "GPT-Live 实现同时聆听与说话，提升对话自然度",
+      "OpenAI 为大规模应用重建了从客户端到模型的完整语音技术栈"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ee0ed9500cdbbebfc9c80fc36e59269a",
+    "title": "I created an autonomous boxing benchmark [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1veqv8i/i_created_an_autonomous_boxing_benchmark_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-03T21:39:46+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1veqv8i/i_created_an_autonomous_boxing_benchmark_d/\"> <img alt=\"I created an autonomous boxing benchmark [D]\" src=\"https://preview.redd.it/r2i8f52ub8hh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=5ea73e9fad702339bb34f2c4c3a5ff60f2b2653b\" title=\"I created an autonomous boxing benchmark [D]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I created an AI boxing match to test the decision speed, adaptability and st",
+    "title_zh": "我创建了一个自主拳击基准测试",
+    "summary_zh": "Reddit 用户分享了一个自主拳击基准测试项目，旨在为机器学习研究提供新的评估环境。该帖子包含项目预览图片和讨论链接。",
+    "key_points": [
+      "用户创建了一个用于机器学习研究的自主拳击基准测试",
+      "该项目在 Reddit 上引发讨论，并提供了预览图片"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
