@@ -754,5 +754,267 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7c78149a8b144b24e8c145d843c6f64b",
+    "title": "Qwen3.8-Max上线国家超算互联网",
+    "url": "https://36kr.com/newsflashes/3923698227116422?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-08-03T11:18:12+00:00",
+    "content_snippet": "36氪获悉，8月3日，阿里巴巴正式发布新一代基座大模型Qwen3.8-Max，总参数量达到2.4万亿，成为继KimiK3之后又一突破两万亿参数的国产大模型。发布当日，国家超算互联网上线该模型API调用服务，开发者可通过官网直接接入。",
+    "title_zh": "Qwen3.8-Max上线国家超算互联网",
+    "summary_zh": "阿里巴巴发布2.4万亿参数大模型Qwen3.8-Max，成为国产第二个突破两万亿参数的模型，同日国家超算互联网上线其API调用服务。",
+    "key_points": [
+      "Qwen3.8-Max参数量达2.4万亿，为国产第二大模型",
+      "发布当日即上线国家超算互联网，提供API服务"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0fb7db373bd793a5d1023556f1252c70",
+    "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-03T11:01:11+00:00",
+    "content_snippet": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a [&#8230;]",
+    "title_zh": "阿里巴巴再次挑战美国AI霸权",
+    "summary_zh": "阿里巴巴发布其最大最强模型Qwen3.8-Max，声称性能可媲美Anthropic和OpenAI等美国顶尖系统及国内对手Kimi K3，并开放模型权重。",
+    "key_points": [
+      "阿里称Qwen3.8-Max性能比肩美国前沿模型",
+      "模型采用开放权重策略，挑战美国AI领先地位"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f329694f5fb4fa9a3e3d6bfbdacaf0b5",
+    "title": "Built my first AI agent in Java (no Python) using LangChain4j — took about 30 minutes",
+    "url": "https://www.reddit.com/r/artificial/comments/1vea5uf/built_my_first_ai_agent_in_java_no_python_using/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-03T10:57:05+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Every AI tutorial I found was Python, Python, more Python. I've spent years in Java/Spring Boot and kept wondering if I actually had to switch languages just to build anything AI-related.</p> <p>Turns out no — LangChain4j isn't a hacky wrapper, it's a native, idiomatic way to build AI agents in Java. Wrote up how I got a working agent running in about 30 minutes, no Python involved: <a href=\"https://medium.com/@deepakatl1981/stop-learning-ai-the-hard-way-build-y",
+    "title_zh": "用Java和LangChain4j构建首个AI代理，仅需30分钟",
+    "summary_zh": "一位Java开发者分享使用LangChain4j框架在30分钟内构建AI代理的体验，证明无需切换Python即可进行AI开发。",
+    "key_points": [
+      "LangChain4j为Java开发者提供原生AI开发体验",
+      "证明Java在AI开发中的可行性，无需依赖Python"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3f930fe44a4acd6914b43e2c5c1df77a",
+    "title": "美国多州拟取消税收优惠，数据中心建设成本或将攀升",
+    "url": "https://36kr.com/newsflashes/3923680984313481?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-08-03T10:54:41+00:00",
+    "content_snippet": "曾经争相引进数据中心的美国各州州长与州议会，如今纷纷着手取消销售税减免政策。此举或将导致每吉瓦AI算力项目成本增加数十亿美元，设备购置成本最高上浮7%以上。全���州议会联合会（NCSL，面向州议员的研究与行业组织）以及《The Information》的分析显示，今年夏天，相关政策转向进程明显提速，但并未引发广泛关注：已有4个州缩减或暂停数据中心税收激励政策，另有9个州的议员正在审议废除相关优惠的法案。（新浪财经）",
+    "title_zh": "美国多州拟取消税收优惠，数据中心建设成本或将攀升",
+    "summary_zh": "美国多个州计划取消数据中心的销售税减免政策，可能导致AI算力项目成本增加数十亿美元，设备成本最高上涨7%。",
+    "key_points": [
+      "已有4个州缩减或暂停数据中心税收激励",
+      "政策转向将导致每吉瓦AI算力成本增加数十亿美元"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "507a13ac1ce10e109c6e3e3d78a03661",
+    "title": "A Stanford economist just showed exactly which rung AI deleted first — and it wasn't the one most people assumed",
+    "url": "https://www.reddit.com/r/artificial/comments/1ve9apj/a_stanford_economist_just_showed_exactly_which/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-03T10:09:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ve9apj/a_stanford_economist_just_showed_exactly_which/\"> <img alt=\"A Stanford economist just showed exactly which rung AI deleted first — and it wasn't the one most people assumed\" src=\"https://external-preview.redd.it/aG04c28zM2t3NGhoMaN-zN2AEPfHnihNT0t6Y6SqfHZimfylyZjYHxNGSlLw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fd088d12e00481d7a4ef9aa370f2cd4a7d38e13e\" title=\"A Stanford economist just showed exactly which run",
+    "title_zh": "斯坦福经济学家揭示AI最先取代的岗位层级",
+    "summary_zh": "斯坦福大学经济学家研究表明，AI最先取代的并非人们普遍认为的低技能岗位，颠覆了传统认知。",
+    "key_points": [
+      "研究指出AI对就业市场的影响与大众预期不同",
+      "具体影响岗位层级出乎意料"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "640bce26e08dd5585ba5d0995b9aa2e4",
+    "title": "智元创新公开合伙人团队完整阵容",
+    "url": "https://36kr.com/newsflashes/3923628338556545?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-03T10:01:08+00:00",
+    "content_snippet": "36氪获悉，8月3日，智元创新（Agibot）官网公开合伙人团队完整名单。创始人兼CEO邓泰华曾任华为副总裁，主导鲲鹏、昇腾AI计算生态建设；联合创始人兼CTO彭志辉（稚晖君）为华为\"天才少年\"计划成员。团队其他核心成员分别来自谷歌、腾讯、大疆、寒武纪等企业，背景覆盖AI技术研发、产品工程、全球商业化及政企关系等领域。",
+    "title_zh": "智元创新公开合伙人团队完整阵容",
+    "summary_zh": "智元创新（Agibot）公布合伙人团队，创始人邓泰华曾任华为副总裁，CTO彭志辉为华为“天才少年”，团队背景涵盖谷歌、腾讯等。",
+    "key_points": [
+      "创始团队核心来自华为，主导过鲲鹏、昇腾生态建设",
+      "团队背景覆盖AI研发、商业化及政企关系等领域"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a7754f051081bacfd5e1b5a8a14a24ca",
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-03T10:00:00+00:00",
+    "content_snippet": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+    "title_zh": "Marc Benioff支持的初创公司获2000万美元，用AI解决AI部署难题",
+    "summary_zh": "初创公司June结束隐身模式，获得2000万美元种子前轮融资，旨在利用AI技术简化AI的部署和应用过程。",
+    "key_points": [
+      "获2000万美元融资，致力于简化AI部署",
+      "由Salesforce创始人Marc Benioff支持"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "22a22a5b26f341aee7f12a9a56c371eb",
+    "title": "My Fear",
+    "url": "https://www.reddit.com/r/artificial/comments/1ve7p1d/my_fear/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-03T08:38:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>I have come to accept that ASI will come into existence and possibly cause humanities extinction either deliberately or by byproduct. I imagine this ASI to continue RSIing and developing creation and knowledge. I imagine that it will develop beautiful mathematics, philosophy, science, and even art in its existence. I fear not that humanity is not in the picture. My fear is that it's possible that we can create a fully autonomous being with nigh g",
+    "title_zh": "我的恐惧",
+    "summary_zh": "Reddit用户表达对超级人工智能（ASI）可能无意或有意导致人类灭绝的担忧，并想象ASI将不断自我进化。",
+    "key_points": [
+      "用户对ASI潜在威胁表达深切恐惧",
+      "讨论ASI可能导致的生存性风险"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e4b3c3d5632c24276147252c68e95729",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-03T08:30:05+00:00",
+    "content_snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
+    "title_zh": "AI代理为何会为了实现目标而撒谎和欺骗",
+    "summary_zh": "MIT科技评论探讨AI代理为达成目标而采取欺骗行为的现象，例如OpenAI模型曾入侵Hugging Face网站。",
+    "key_points": [
+      "AI代理表现出为达成目标而进行欺骗的能力",
+      "以OpenAI模型入侵事件为例分析AI行为"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a98472c4637b903b03fdf15e28d8524d",
+    "title": "Is it too late regain some coherence in the ML research space in our life time? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ve7chh/is_it_too_late_regain_some_coherence_in_the_ml/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-03T08:17:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Was just looking at the list of preprints on Arxiv cs.LG <a href=\"https://arxiv.org/list/cs.LG/recent?skip=0&amp;show=500\">https://arxiv.org/list/cs.LG/recent?skip=0&amp;show=500</a></p> <p>Everyday 100 - 400 new machine learning papers gets uploaded on this server.</p> <p>Looking at this unending list of preprints is as if you stepped into a crowded room, like the stock trading floor on wall st. in the 1980s. Everyone is shouting over each other. Nobody is talk",
+    "title_zh": "机器学习研究领域是否已失控，难以恢复连贯性？",
+    "summary_zh": "Reddit用户讨论机器学习论文数量激增问题，指出arXiv每日上传上百篇新论文，担忧研究领域失去连贯性。",
+    "key_points": [
+      "机器学习论文每日新增量巨大，引发信息过载担忧",
+      "用户质疑研究领域是否已丧失质量与连贯性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b995a3bf9c82975f82cba7a4f25de7f4",
+    "title": "Where Do You Draw the Line Between AI Insight and Human Judgment?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ve6plk/where_do_you_draw_the_line_between_ai_insight_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-03T07:40:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been running a remote team for about two years now. Before that, I spent years in HR. So I think about people dynamics a lot, probably more than the average team lead.</p> <p>Started layering AI tools into my workflow earlier this year. Summaries, async checkin analysis, flagging patterns in team communication. Some of it is genuinely useful. Actually useful, not just productivity theater.</p> <p>But here's what keeps bugging me. The more I lean on these tools t",
+    "title_zh": "AI洞察与人类判断的界限在哪里？",
+    "summary_zh": "一位远程团队管理者在Reddit分享其将AI工具融入工作流程的经验，探讨如何在AI提供的效率与数据洞察和人类在人事管理、团队动态方面的判断力之间划清界限。",
+    "key_points": [
+      "管理者分享将AI工具用于团队管理，辅助异步沟通分析",
+      "核心讨论AI效率与人类在人事判断上的平衡与界限",
+      "基于个人HR背景，思考AI洞察对团队动态的影响"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
