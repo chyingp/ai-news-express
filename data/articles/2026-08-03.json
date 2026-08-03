@@ -683,5 +683,76 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "76c5d14710afc5905ea3fadc58c5d9ea",
+    "title": "Research on areas of AI harm or minimal benefit",
+    "url": "https://www.reddit.com/r/artificial/comments/1ve4t0y/research_on_areas_of_ai_harm_or_minimal_benefit/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-03T05:52:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am putting together a research-backed list of things where generative AI either has minimal benefits or is actually harmful. Ideally, this would be something convincing enough that, if shown to someone who is highly enthusiastic about AI, it could, if not change their mind, at least convince them that AI usage isn’t something that is positive and should be promoted by default.</p> <p> </p> <p>Anyway, what I have so far is that AI has been shown to have minimal",
+    "title_zh": "生成式AI危害或效益甚微领域研究",
+    "summary_zh": "一篇Reddit讨论帖，作者正在整理一份研究清单，列举生成式AI益处极小或实际有害的领域，旨在说服AI热情支持者进行更理性地思考。",
+    "key_points": [
+      "研究列举生成式AI益处甚微或有害的领域",
+      "旨在向AI热情支持者提供具有说服力的证据"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7b7c4b42a2b95ce67125060f0377c852",
+    "title": "Can AI mentoring help you complete your first real project?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ve4qfb/can_ai_mentoring_help_you_complete_your_first/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-03T05:48:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've noticed a lot of people use AI to learn new skills, but I'm curious about something else.</p> <p>Can AI actually help you get all the way through your first real project, or does there come a point where you still need a human mentor?</p> <p>If you've built something with the help of AI, I'd love to hear your experience. What was your first project, and how much did AI actually help?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.red",
+    "title_zh": "AI辅导能否助你完成首个真实项目？",
+    "summary_zh": "一篇Reddit社区讨论，探讨AI作为导师，能否全程辅助新手完成首个实战项目，还是说在某一阶段仍然需要人类导师的介入和指导。",
+    "key_points": [
+      "探讨AI能否全程指导完成首个实战项目",
+      "质疑AI辅导是否终将需要人类导师介入"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aa900237db6f465d87b3d024674857c5",
+    "title": "Sam Altman and AI’s decel debate",
+    "url": "https://www.reddit.com/r/artificial/comments/1ve3o4b/sam_altman_and_ais_decel_debate/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-03T04:50:53+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ve3o4b/sam_altman_and_ais_decel_debate/\"> <img alt=\"Sam Altman and AI’s decel debate\" src=\"https://external-preview.redd.it/2Kw5y_6uyzEBK9YifoBfXQoCYEuKoeeAQP6xI4gX8ZQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a1bee4f8cc342a58de9bbe7eda6a0da94574137\" title=\"Sam Altman and AI’s decel debate\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Inside-Bus6555\"> /u/Inside-Bus6555 </a> &#32; t",
+    "title_zh": "Sam Altman与AI减速辩论",
+    "summary_zh": "一篇Reddit帖子，内容涉及OpenAI首席执行官Sam Altman参与关于人工智能发展是否应减速的辩论，该话题是AI安全与发展的核心争议之一。",
+    "key_points": [
+      "Sam Altman深入参与AI发展减速辩论",
+      "涉及AI安全与加速发展间的核心争议"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
