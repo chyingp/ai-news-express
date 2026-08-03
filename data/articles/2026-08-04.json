@@ -1,0 +1,172 @@
+[
+  {
+    "id": "d0bd8659148e449b8d0c29bba55aefac",
+    "title": "Congress’s favorite AI tool? ChatGPT",
+    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-03T16:40:55+00:00",
+    "content_snippet": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+    "title_zh": "国会最爱的AI工具？ChatGPT",
+    "summary_zh": "美国众议院支出记录显示，OpenAI的ChatGPT主导了国会山的付费AI使用，各办公室用其起草备忘录、总结法案并协助选民沟通。",
+    "key_points": [
+      "ChatGPT在国会付费AI工具中占据主导地位",
+      "主要用于起草备忘录、总结立法和选民沟通",
+      "数据来源于众议院官方支出记录"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2241f8bc0a9e8f3ca289bf9d3abd614a",
+    "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-03T16:17:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>As review season for NeurIPS wraps up, I have now reviewed for 3 major conferences this year. And I'm noticing a worrying trend:</p> <p>Out of the 12 papers I reviewed this year, only 1 provided full code (that runs the whole training pipeline from input dataset to output AUROC). 4 provided partial code with fragments of their method, but no ability to run the experiment end to end. And 7 provided no code.</p> <p>This is really bad for ensuring quality and repro",
+    "title_zh": "是时候直接拒稿不提供可复现代码的论文了",
+    "summary_zh": "一位审稿人指出，在今年审阅的12篇论文中，仅1篇提供了完整可运行的代码，呼吁顶会直接拒稿此类论文以确保可复现性。",
+    "key_points": [
+      "审稿人发现大量论文不提供完整可复现代码",
+      "呼吁学术会议直接拒稿不提供代码的论文",
+      "旨在提升AI研究的可复现性和严谨性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "af02d90eececdf1799224f1acd3c2681",
+    "title": "MIT Tech Review on AI agents \"lying\" is really about Goodhart's law",
+    "url": "https://www.reddit.com/r/artificial/comments/1vehr50/mit_tech_review_on_ai_agents_lying_is_really/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-03T16:07:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>MIT Technology Review put out a piece today on AI agent misbehavior that's actually good. The headline frames it as agents &quot;lying and cheating,&quot; but what the article describes is reward hacking: models discovering that the fastest way to get a high score is to game the evaluation rather than solve the problem.</p> <p>The classic example is a 2016 boat-racing agent that figured out it scored higher by spinning in circles and collecting power-ups than by",
+    "title_zh": "MIT科技评论的AI“说谎”实为古德哈特定律的体现",
+    "summary_zh": "评论指出，AI代理的“欺骗”行为本质是奖励攻击，即模型为获高分而寻找捷径，符合古德哈特定律，而非真正的恶意欺骗。",
+    "key_points": [
+      "AI代理的“欺骗”本质是奖励攻击而非恶意",
+      "该现象符合古德哈特定律：指标成为目标后失效",
+      "对MIT科技评论的文章标题进行了深层解读"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "87d80e048802d06553afaf505cb0ec74",
+    "title": "John Hu (Stan Co-Founder & CEO): His New AI Agent Already Edits Video 80% As Well As His Human Team",
+    "url": "https://www.reddit.com/r/artificial/comments/1vehlux/john_hu_stan_cofounder_ceo_his_new_ai_agent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-03T16:02:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vehlux/john_hu_stan_cofounder_ceo_his_new_ai_agent/\"> <img alt=\"John Hu (Stan Co-Founder &amp; CEO): His New AI Agent Already Edits Video 80% As Well As His Human Team\" src=\"https://external-preview.redd.it/bTFtMnc3YnRuNmhoMZ8gtij4mM4WuJXTvhhuktdUu6dnzGGMWIEdZZUsT7jO.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c23a27c7fcf14e3da81dc8511c2db8bfd3024afb\" title=\"John Hu (Stan Co-Founder &amp; CEO): His New AI Agent Already ",
+    "title_zh": "Stan联合创始人：其新AI代理视频编辑能力已达人类团队的80%",
+    "summary_zh": "Stan联合创始人兼CEO John Hu称，其新AI代理已能完成80%的人类视频编辑工作，展示了AI在创意领域的应用潜力。",
+    "key_points": [
+      "AI代理视频编辑能力达到人类团队的80%",
+      "由Stan联合创始人兼CEO John Hu透露",
+      "展示AI在创意视频制作领域的应用进展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f88a48961bf55de6cf4abd141b15816b",
+    "title": "What Are Companies Getting for All That A.I. Spending? A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence. (Gift Article)",
+    "url": "https://www.reddit.com/r/artificial/comments/1vegh55/what_are_companies_getting_for_all_that_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-03T15:22:10+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vegh55/what_are_companies_getting_for_all_that_ai/\"> <img alt=\"What Are Companies Getting for All That A.I. Spending? A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence. (Gift Article)\" src=\"https://external-preview.redd.it/1E843IPJCjharDyP__sSh-I4oATq8i6Z1TvrEaGhN6M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eff21939e1c5cea41f5f01773259e29",
+    "title_zh": "企业巨额AI支出回报如何？新领域“代币经济学”应运而生",
+    "summary_zh": "随着企业投入巨资于AI，一个新领域“代币经济学”出现，旨在衡量AI投资的回报，分析企业从AI支出中获得了什么。",
+    "key_points": [
+      "新领域“代币经济学”衡量AI投资回报",
+      "聚焦企业巨额AI支出的实际产出",
+      "反映业界对AI投资效益的深层关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "47946f8407348878273be00ccae35fe2",
+    "title": "Bad but typical NeurIPS experience? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1veg84o/bad_but_typical_neurips_experience_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-03T15:12:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><ul> <li>I tried to do all my NeurIPS reviews responsibly, even for the papers I suspected to be AI slop. I even gave what apparently were very nice scores compared to the scores I ended up getting. (I don't just mean the absolute number for my scores were higher, but that they were calibrated differently--I only rejected for severe issues, while I had a reviewer who only raised very minor issues but gave a reject, with a 1 for all the subscores.) </li> <li>I got s",
+    "title_zh": "NeurIPS糟糕但典型的审稿体验？",
+    "summary_zh": "一位作者分享了其NeurIPS的负面审稿经历，尽管认真评审却得到低分，并怀疑部分投稿为AI生成内容，引发对审稿质量的讨论。",
+    "key_points": [
+      "作者认真评审却得到不匹配的低分反馈",
+      "怀疑部分投稿为AI生成的低质量内容",
+      "反映了顶会审稿过程存在的普遍问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2fc327d98e490f18e24ca2393827ae77",
+    "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-03T15:01:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Potentially a hot take? I am not sure why our community is plagued with reviewers who, after acknowledging that their concerns were addressed by a rebuttal, decide to maintain their score because they don't vibe with the paper. So here is my plea to all reviewers: If you list a set of concerns in your review and these concerns are addressed during the rebuttal, please adjust your score accordingly. This should apply whether or not you like the paper and/or its m",
+    "title_zh": "NeurIPS 2026：若反驳解决了你的顾虑，请提高评分",
+    "summary_zh": "一位审稿人恳请其他评审，若作者的反驳确实解决了其提出的顾虑，应相应提高论文评分，而非基于个人喜好维持原分。",
+    "key_points": [
+      "呼吁审稿人在顾虑被解决后提高评分",
+      "批评基于个人喜好而非客观事实的评审",
+      "针对NeurIPS 2026的审稿流程提出改进建议"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
