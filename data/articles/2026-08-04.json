@@ -386,5 +386,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c3a020ae57041a48c36b187ba88da429",
+    "title": "AI / Machine Learning Is Booming, So Why Isn't Anyone Hiring?",
+    "url": "https://www.reddit.com/r/artificial/comments/1veo7d4/ai_machine_learning_is_booming_so_why_isnt_anyone/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-03T20:00:15+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1veo7d4/ai_machine_learning_is_booming_so_why_isnt_anyone/\"> <img alt=\"AI / Machine Learning Is Booming, So Why Isn't Anyone Hiring?\" src=\"https://preview.redd.it/a7wei4xtt7hh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=30d8e3e1f6fc7cc74246acac6fe85873ea12d02c\" title=\"AI / Machine Learning Is Booming, So Why Isn't Anyone Hiring?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Full Article in the comments.</p> </div",
+    "title_zh": "AI/机器学习蓬勃发展，为何却无人招聘？",
+    "summary_zh": "文章探讨了AI行业看似繁荣但招聘市场冷淡的矛盾现象，分析可能的原因包括企业更倾向于投资基础设施而非扩充团队，以及AI自动化正在取代部分人工岗位。",
+    "key_points": [
+      "AI行业投资增长但岗位需求未同步增加",
+      "企业资金流向算力基础设施而非人力招聘",
+      "AI自动化技术可能减少了部分岗位需求"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5c210e03771f39bbc885100257e1d238",
+    "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-03T19:28:57+00:00",
+    "content_snippet": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+    "title_zh": "DesignArena 创作者融资 790 万美元，为 AI 模型注入“品味”",
+    "summary_zh": "设计评估平台DesignArena的创作者完成790万美元融资，该平台为前沿AI实验室提供关键的人类评估数据，全球用户已达530万。",
+    "key_points": [
+      "AI设计评估平台DesignArena获790万美元融资",
+      "平台为前沿AI实验室提供人类反馈评估数据",
+      "全球用户规模已达530万人"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
