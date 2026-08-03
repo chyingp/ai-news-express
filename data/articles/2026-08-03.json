@@ -554,5 +554,134 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3f107f0512b9be3a1f6d334758eb3f87",
+    "title": "We're building minds we can't fully explain, using minds we can't fully explain either",
+    "url": "https://www.reddit.com/r/artificial/comments/1ve23te/were_building_minds_we_cant_fully_explain_using/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-03T03:30:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Neuroscientists still argue about how human cognition actually produces a coherent sense of self. Meanwhile we're training systems with billions of parameters and calling their internal states a black box, as if that's a new problem. It isn't. We've always been building things smarter than our ability to describe them, starting with our own children. Maybe the discomfort isn't about AI. It's about finally being forced to admit we never understood the mind to beg",
+    "title_zh": "我们正在用我们自己也说不清的思维，构建我们无法完全解释的思维",
+    "summary_zh": "文章讨论了人工智能系统内部运作的“黑箱”问题，并将其与神经科学中人类对自我意识认知的未解难题相类比，指出这种不可解释性并非AI独有的新挑战。",
+    "key_points": [
+      "AI系统的黑箱特性与人类认知的未解之谜类似",
+      "神经科学对意识产生机制仍无定论",
+      "文章认为AI的不可解释性并非全新问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fe4e3ec60a64ff6bbee5bdd7ff687598",
+    "title": "OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题",
+    "url": "https://36kr.com/newsflashes/3923212228292232?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-08-03T02:57:51+00:00",
+    "content_snippet": "OpenAI当地时间8月1日发布有关数学和理论计算机科学的十项突破，这些成果由其下一代主要模型Astra的内部版本实现。按照Sol API的费率计算，找到这些问题的解决方案所需总词元（tokens）成本约为2000美元。十项突破涵盖高维球体堆积密度上限、二进制与球面码界限提升、非纯索菲群存在性证明、康涅斯刚性猜想的推翻、算术电路复杂性新下界、量子平行重复定理、最近向量问题的多项式因子近似难度证明、埃尔哈特体积猜想、多色拉姆齐数的超指数下界，以及极值数猜想等。（界面）",
+    "title_zh": "OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题",
+    "summary_zh": "OpenAI下一代模型Astra的内部版本以约2000美元的成本，解决了包括高维球体堆积和康涅斯刚性猜想推翻在内的十项数学和计算机科学前沿难题。",
+    "key_points": [
+      "OpenAI下一代模型Astra内部版本实现十项数学突破",
+      "解决这十项难题的总算力成本仅约2000美元",
+      "成果涵盖推翻康涅斯刚性猜想等理论计算机科学难题"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "56ac49896dd4a974e1e817a640582a49",
+    "title": "阿里巴巴正式发布新一代基座大模型Qwen3.8，总参数量2.4万亿",
+    "url": "https://36kr.com/newsflashes/3923193948614025?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-08-03T02:39:15+00:00",
+    "content_snippet": "36氪获悉，8月3日，阿里巴巴正式发布新一代基座大模型Qwen3.8，总参数量2.4万亿，在编程（Coding）和专业办公（Cowork）方面能力大幅提升。今日放榜的三方榜单Arena中，阿里Qwen模型仅次于Anthropic的Claude系列。目前，Qwen3.8的API已上线千问AI平台，并接入阿里今日同步推出的Agent产品“千问办公”。Qwen3.8-Max预计下周开源，同时还将开源Qwen3.8-27B。",
+    "title_zh": "阿里巴巴正式发布新一代基座大模型Qwen3.8，总参数量2.4万亿",
+    "summary_zh": "阿里巴巴发布参数达2.4万亿的Qwen3.8大模型，重点提升编程和专业办公能力，在Arena榜单上表现仅次于Claude系列，并计划开源部分模型。",
+    "key_points": [
+      "阿里发布2.4万亿参数Qwen3.8，编程和办公能力大幅提升",
+      "在Arena榜单中表现仅次于Anthropic的Claude系列",
+      "Qwen3.8-Max预计下周开源，并同步推出Agent产品"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "alibaba",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "da1c81ad8b29c7c0d13c580d1f609402",
+    "title": "Codex for helping operate your business",
+    "url": "https://nitter.net/gdb/status/2084104354911707518#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-03T02:29:33+00:00",
+    "content_snippet": "<p>Codex for helping operate your business</p>\n<hr />\n<blockquote>\n<b>Developing Adventures (@DevAdventur3s)</b>\n<p>\n<p>I let OpenAI's Codex app run ads for my business.<br />\n<br />\nIt cut the video, published it, built the audience, set the budget then stopped at the Pay button and asked permission.<br />\n<br />\nThe part that gets me: I watched the whole thing happen live inside the app.</p>\n<a href=\"https://nitter.net/DevAdventur3s/status/2084054616946176324#m\">\n<br />Video<br />\n  <img src=\"",
+    "title_zh": "OpenAI的Codex工具可用于辅助企业经营",
+    "summary_zh": "OpenAI总裁Greg Brockman转发案例，展示其Codex应用可自主为企业剪辑视频、投放广告、管理预算，仅在支付环节请求人工授权，体现了AI代理的商业应用潜力。",
+    "key_points": [
+      "OpenAI Codex可自主完成视频剪辑、广告发布和预算设置",
+      "AI代理在涉及支付的关键步骤会请求人工授权",
+      "展示了AI在商业运营自动化方面的应用前景"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "16bfe6acc45c0c8af1c7901cb8d3f0ba",
+    "title": "Nano Banana 2 vs OpenAI Image Generation.",
+    "url": "https://www.reddit.com/r/artificial/comments/1ve0b9r/nano_banana_2_vs_openai_image_generation/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-03T02:02:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have used both Nano banana 2 and OpenAI image generation (Not dall e )</p> <p>Prompt : &quot;An ancient celestial temple floating above an endless ocean of clouds during a breathtaking sunset, surrounded by colossal dragons, glowing phoenixes, and giant waterfalls cascading into the sky. A lone traveler wearing a flowing black cloak stands at the edge of a marble bridge holding a radiant crystal sword, while thousands of floating lanterns drift through the air",
+    "title_zh": "Nano Banana 2与OpenAI图像生成模型对比",
+    "summary_zh": "用户在Reddit上分享并对比了Nano Banana 2和OpenAI图像生成模型在相同提示词下的效果，提示词描绘了一个包含龙、凤凰和瀑布的奇幻天空场景。",
+    "key_points": [
+      "用户对比Nano Banana 2与OpenAI的图像生成效果",
+      "测试使用描绘奇幻天空场景的复杂提示词",
+      "属于社区中的非正式模型能力对比讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
