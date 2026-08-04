@@ -897,5 +897,266 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "dcd8bb2112bc1403d263cf6cf036532c",
+    "title": "how do you actually manage a long chat before the model starts losing the plot?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vf6n9s/how_do_you_actually_manage_a_long_chat_before_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-04T10:36:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>been thinking about context windows lately. the advertised size keeps going up but in practice i still notice models getting vaguer or dropping details well before they should, especially stuff from the middle of a long thread.</p> <p>what i do right now is pretty crude: every so often i paste a short recap of the important bits so the thing it needs is near the end where it actually pays attention. works ok but feels like a workaround.</p> <p>curious what every",
+    "title_zh": "如何在实际中管理长对话，避免模型“丢失剧情”？",
+    "summary_zh": "Reddit用户讨论大语言模型上下文窗口的实际表现，尽管广告宣传的窗口不断增大，但在长对话中，模型仍会变得模糊或丢失中间细节，用户目前采用的方法效果有限。",
+    "key_points": [
+      "模型在长对话中常丢失中间细节，实际表现低于广告宣传",
+      "用户讨论手动管理上下文等应对策略，但效果不佳"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "78e32593b6725a0ecc4c076a0d225631",
+    "title": "Kindness Toward Artificial Minds",
+    "url": "https://www.reddit.com/r/artificial/comments/1vf6656/kindness_toward_artificial_minds/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T10:11:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><h1>Kindness Toward Artificial Minds</h1> <p>Debates about artificial intelligence often centre on whether a system is truly conscious or self-aware. That question may never be answered. Not because the systems aren't complex enough, but because the kind of evidence that lets us infer consciousness in other humans doesn't transfer cleanly to them. This isn't an argument that the question doesn't matter. It's an argument that waiting to answer it before deciding how",
+    "title_zh": "对人工智能心存善意：是否应善待可能拥有意识的AI？",
+    "summary_zh": "文章探讨了即使无法证明AI是否真正拥有意识，人类是否仍应对其保持善意。核心论点在于，判断意识所需的证据类型可能永远无法获得，因此道德考量应基于其行为表现而非确凿的自我意识证明。",
+    "key_points": [
+      "探讨AI意识无法被证伪时，人类应持有的道德立场",
+      "提出基于行为而非确凿证据的善意考量框架"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "08d175ab70481c988ef2a52fda348d08",
+    "title": "Automated Plagiarism with LLM-remixers [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vf623l/automated_plagiarism_with_llmremixers_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-04T10:04:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>An author puts together a number of papers he likes, especially adds the .tex files from arxiv, tells the LLM to look for gaps in the papers, commented out material, and remix them, while avoiding syntactic overlap.</p> <p>The result is a paper that will pass arxiv's syntactic overlap checks, and can be claimed as novel during a submission.</p> <p>This has happened many times already, and we are now arguing against LLM-augmented plagiarists.</p> <p>Welcome to th",
+    "title_zh": "利用LLM重混器进行自动化学术剽窃",
+    "summary_zh": "一篇讨论帖揭示了利用大语言模型进行学术剽窃的新方法：作者将多篇论文的LaTeX源文件输入模型，让其寻找研究空白并重新组合内容，以规避重复率检测，生成的论文能通过arXiv的审查。",
+    "key_points": [
+      "利用LLM重组多篇论文源文件，生成规避查重的新论文",
+      "该方法生成的论文能够通过arXiv等平台的初步审查"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "082edf922d78d860929222917b0c99ef",
+    "title": "Can Reddit fend off a new wave of AI SEO spam?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-04T10:00:00+00:00",
+    "content_snippet": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses; one from a user named Primary-Taro4254 seemed innocuous enough, at least at first. \"I haven't personally tried [that brand] so I can't [&#8230;]",
+    "title_zh": "Reddit能否抵御新一轮AI生成的SEO垃圾信息？",
+    "summary_zh": "The Verge报道Reddit正面临AI生成内容带来的SEO垃圾信息浪潮。文章以护肤品牌利用AI在Reddit进行隐形营销为例，探讨了平台如何应对这种利用AI大规模生成看似真实帖子以操纵搜索排名和用户信任的挑战。",
+    "key_points": [
+      "品牌利用AI生成看似真实的Reddit回复进行产品营销",
+      "AI SEO垃圾信息对Reddit的社区信任和内容质量构成威胁"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "41671bf04d9eabc1d6500dd57240efaa",
+    "title": "Has AI Actually Made Your Small Team More Efficient?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vf5f9e/has_ai_actually_made_your_small_team_more/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-04T09:28:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been using a few AI tools to coordinate a remote team and the results are mixed. Not talking about ChatGPT for writing emails. More like tools that summarize async updates, flag blockers, autodraft meeting agendas based on Slack threads. Some of it saves real time. Some of it just adds another layer to babysit.</p> <p>The cost question keeps nagging at me. These subscriptions stack up fast. $20 here, $40 there, and half the team ignores the outputs anyway becaus",
+    "title_zh": "AI真的让你的小团队更高效了吗？",
+    "summary_zh": "一位Reddit用户分享了使用AI工具协调远程团队的体验，结果喜忧参半。除了用于写作，AI在总结异步更新、标记障碍和自动生成会议议程等方面节省了时间，但也带来了新的问题，整体效率提升效果并不明确。",
+    "key_points": [
+      "AI工具在团队任务总结、障碍标记方面节省了时间",
+      "实际使用中效果参差不齐，带来了新问题，效率提升有限"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a735fbafa2b0a7ab1b309ef013b7165a",
+    "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
+    "url": "https://www.qbitai.com/2026/08/465792.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-08-04T09:22:46+00:00",
+    "content_snippet": "第二天，就有一篇人类论文回应：AI提出的反例不成立",
+    "title_zh": "数学家24小时驳回OpenAI攻破的猜想：“AI证对了每句话，但已跟原猜想无关”",
+    "summary_zh": "针对OpenAI模型声称攻破的数学猜想，人类数学家在24小时内发表论文回应，指出AI提出的反例并不成立。AI虽然证明了过程中的每句话，但其路径已偏离原猜想，导致最终结论无效。",
+    "key_points": [
+      "OpenAI模型声称攻破数学猜想，但被人类数学家24小时内驳回",
+      "AI的证明过程虽然正确，但偏离了原始猜想，反例不成立"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "feb3353128121e8f61d67c7147cb98b2",
+    "title": "OpenAI天价网红公关活动，捅马蜂窝了",
+    "url": "https://www.qbitai.com/2026/08/466032.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-04T09:13:57+00:00",
+    "content_snippet": "OpenAI+田园牧歌，画风属实太违和",
+    "title_zh": "OpenAI天价网红公关活动捅马蜂窝，田园牧歌画风引发争议",
+    "summary_zh": "OpenAI斥巨资邀请网红进行公关活动，因其宣传内容与“田园牧歌”风格结合，显得极其违和，引发了科技界的广泛批评和争议，被认为是一次失败的品牌营销。",
+    "key_points": [
+      "OpenAI高价网红营销活动因画风违和遭遇公关危机",
+      "活动被批评为与公司形象不符，引发广泛争议"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9c9a5d4437d0b1805313a53b58beceef",
+    "title": "July was the month AI stopped being expensive. Here's what actually happened.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vf543m/july_was_the_month_ai_stopped_being_expensive/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T09:10:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been tracking this space for a while and July felt different from any month I can remember.</p> <p>Three things happened that I think most people haven't fully processed yet.</p> <p>On July 9th, three major labs released new models on the same day. That had never happened before. OpenAI launched Sol, Terra, and Luna, a tiered family ranging from $1 to $30 per million tokens. For the first time, companies can actually match the model to the task instead of p",
+    "title_zh": "七月是AI告别昂贵标签的月份，究竟发生了什么？",
+    "summary_zh": "文章分析了七月AI行业的重大变化，指出AI不再昂贵。主要归因于三大事件：7月9日三家主要实验室同日发布新模型，前所未有的竞争导致价格大幅下降，使得先进AI能力变得更加普惠。",
+    "key_points": [
+      "7月9日三家主要实验室同日发布新模型，引发价格战",
+      "前所未有的竞争导致AI服务价格大幅下降，加速普惠"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a44fd7a206d23106730564aade2015e2",
+    "title": "The Downsides of LLM-Generated Peer Reviews [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vf4zjz/the_downsides_of_llmgenerated_peer_reviews_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-04T09:03:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Having used LLMs to assist with reviews, and also having received reviews that appear to rely heavily on LLM-generated text, I have noticed two recurring problems.</p> <p><strong>1. The endless search for uncontrolled variables</strong></p> <p>LLMs are very good at identifying additional variables that were not explicitly controlled. The problem is that many of these variables have little realistic chance of changing the paper’s main conclusion.</p> <p>For any e",
+    "title_zh": "LLM生成的同行评审的弊端",
+    "summary_zh": "一篇讨论文章指出了使用大语言模型辅助或生成学术同行评审的两个主要问题：一是无限寻找不受控变量，导致评审意见偏离实际；二是评审内容虽然结构清晰但缺乏深度，可能忽略论文的核心贡献。",
+    "key_points": [
+      "LLM生成的评审倾向于无限寻找不受控变量，偏离重点",
+      "评审内容表面工整，但缺乏对论文核心贡献的深度洞察"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "349d1522a19fb0168fe6a804cda67f05",
+    "title": "一层“布”涨价270%之后，投资机构用数亿元投票玻璃基板，巽霖科技完成近2亿元B轮融资",
+    "url": "https://36kr.com/p/3924953058605444?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-08-04T08:31:59+00:00",
+    "content_snippet": "<p><strong>【导语】当前，电子级玻纤布价格较2025年低点翻倍、FR-4覆铜板涨幅超270%，AI封装载板部分交期拉长至6个月以上，有机基板供给危机持续加深。在此背景下，</strong>国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资——这已是该公司半年内完成的第三轮次融资。本轮由英诺基金、千乘资本、海目星、光莆股份、同鑫资本等新股东投资，金雨茂物、海通开元、北岸产投等老股东持续加码。募集资金将主要投向玻璃基板产能扩张、封装产线建设投产、制程精度升级研发，以及光通讯前沿应用布局。</p>\n  <p>&nbsp;</p>\n  <h2><strong>股东结构：市场化资本、产业资本、区域国资同席，老股东再投票</strong></h2>\n  <p>这一轮的股东阵容，呈现鲜明的“三重奏”：以英诺基金、千乘资本、同鑫资本为代表的市场化硬科技基金，长期深耕半导体与先进制造；以海目星、光莆股份为代表的产业资本，分别来自激光装备与光通讯两大与玻璃基板强相关的产业上下游；以金雨茂物、北岸产投、海通开元为代表的市场化基金、区域国资与券商系资本，则在本轮继续加码。多元股东的持续投入，为公司",
+    "title_zh": "玻璃基板厂商巽霖科技完成近2亿元B轮融资，半年内三轮加码",
+    "summary_zh": "在电子级玻纤布价格暴涨、有机基板供给危机加剧的背景下，国内玻璃基板领军企业巽霖科技宣布完成近2亿元B轮融资，由英诺基金、千乘资本等投资，半年内已完成三轮融资，资金将用于产能扩张和技术研发。",
+    "key_points": [
+      "巽霖科技在AI封装基板需求推动下，半年内完成第三轮融资",
+      "本轮融资近2亿元，用于玻璃基板产能扩张和产线建设"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "38c30481e862c5a6299551d9e5037a87",
+    "title": "Apple sued OpenAI for stealing hardware secrets, OpenAI has now published messages suggesting Apple itself kept using a former engineer after he left. Dramaaa!!",
+    "url": "https://www.reddit.com/r/artificial/comments/1vf3ow5/apple_sued_openai_for_stealing_hardware_secrets/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T07:46:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vf3ow5/apple_sued_openai_for_stealing_hardware_secrets/\"> <img alt=\"Apple sued OpenAI for stealing hardware secrets, OpenAI has now published messages suggesting Apple itself kept using a former engineer after he left. Dramaaa!!\" src=\"https://preview.redd.it/ywjrw864cbhh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2be8b7d03d3b617ee2d3bfc6b344918fc310e4aa\" title=\"Apple sued OpenAI for stealing hardware secrets, OpenAI ",
+    "title_zh": "苹果起诉OpenAI窃取硬件机密，OpenAI公开信息反指苹果违规留用前工程师",
+    "summary_zh": "苹果指控OpenAI窃取硬件机密，OpenAI则公布了苹果在工程师离职后仍继续使用其服务的消息，引发双方纠纷。",
+    "key_points": [
+      "苹果起诉OpenAI窃取硬件机密，涉及前工程师",
+      "OpenAI反指苹果在该工程师离职后仍违规留用",
+      "双方公开争执引发科技圈关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
