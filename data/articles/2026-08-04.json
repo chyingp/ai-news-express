@@ -800,5 +800,102 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c4106322c4a438c6d9dfed9b535d5266",
+    "title": "日产汽车全球设计高级副总裁阿尔拜萨将于10月卸任",
+    "url": "https://36kr.com/newsflashes/3924883613596039?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-04T07:18:04+00:00",
+    "content_snippet": "日产汽车8月4日宣布，公司全球设计高级副总裁阿方索·阿尔拜萨（Alfonso Albaisa）将于今年10月1日卸任，并担任顾问至12月31日，届时他将正式退休。现任高级设计总监马修·韦弗（Matthew Weaver）将接替阿尔拜萨出任全球设计负责人。韦弗于2001年加入日产，曾参与研发逍客（Qashqai）、Juke以及其他在欧洲和日本市场的重要车型。（界面）",
+    "title_zh": "日产汽车全球设计高级副总裁阿尔拜萨将于10月卸任",
+    "summary_zh": "日产汽车宣布全球设计高级副总裁阿方索·阿尔拜萨将于10月1日卸任，年底正式退休。现任高级设计总监马修·韦弗将接任全球设计负责人一职。",
+    "key_points": [
+      "日产全球设计负责人阿尔拜萨将于10月卸任并退休",
+      "继任者韦弗曾参与逍客、Juke等重要车型设计"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "49126d94c0b2c2dd3a83949ddca51f27",
+    "title": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
+    "url": "https://36kr.com/p/3924826666301831?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-08-04T06:32:05+00:00",
+    "content_snippet": "<p>&nbsp;</p>\n  <p>文 | 李炤锋</p>\n  <p>编辑 | 张雨忻</p>\n  <p>“长链任务如果只通过代码层面的反馈，误差可能会不断累积，最终效果会非常差。”谈及原生多模态的意义，一位多模态研究员表示，“视觉是一种更准确的反馈，也更贴近用户意图。”</p>\n  <p><strong>过去一年，Coding与Agent能力不断改写大模型的排名，也成为AI最快兑现商业价值的场景之一。与此同时，随着Agent开始接管更多长链任务，越来越多的通用大模型开始匹配原生多模态能力。</strong></p>\n  <p>今年1月，OpenAI发布的一份企业使用报告显示，在研发岗位最常使用的三类ChatGPT工具中，图片上传排在搜索和数据分析之后，位列第三。</p>\n  <p>随着Agent开始生成网页、操作软件并检查运行结果，视觉的作用正在逐步进化：它不再只是用户交给模型的一张图片，也开始成为模型检查工作、发现错误和调整行动的反馈。</p>\n  <p>刚刚过去的7月，月之暗面发布Kimi K3。这款总参数2.8万亿、支持100万token上下文的MoE（混合专家模型），在Co",
+    "title_zh": "Kimi K3与DeepSeek V4之间，隔着原生多模态的时间差",
+    "summary_zh": "文章探讨原生多模态能力对大模型的重要性，指出在Coding与Agent能力竞争加剧的背景下，原生多模态成为提升长链任务表现和贴近用户意图的关键技术差距。",
+    "key_points": [
+      "原生多模态通过视觉反馈可减少长链任务中的错误累积",
+      "通用大模型正在匹配原生多模态能力以提升Agent表现"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "deepseek",
+      "moonshot"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0519344126ebfa936cf1bb5e00b81282",
+    "title": "DeepSeek API出现性能下降情况，现已恢复",
+    "url": "https://36kr.com/newsflashes/3924803122903430?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-04T05:56:11+00:00",
+    "content_snippet": "8月4日，海外开源AI Coding Agent平台OpenCode发文称：DeepSeek V4 Flash当前因前所未有的访问量而出现容量不足问题，可能会遇到报错，正在紧急修复中。也有网友发文表示：DeepSeek V4 Flash官方API上午几乎不可用，和Kimi K3刚发布时情况差不多，国产模型能力赶上来了，但可用性与容量仍有改善空间。DeepSeek官方披露，今日上午DeepSeek V4 Flash API出现性能下降情况，目前问题已解决，服务已恢复。（一财）",
+    "title_zh": "DeepSeek API出现性能下降情况，现已恢复",
+    "summary_zh": "DeepSeek V4 Flash API因访问量激增出现容量不足和性能下降，部分用户遭遇报错。官方表示问题已解决，服务恢复正常。",
+    "key_points": [
+      "DeepSeek V4 Flash API因访问量过大出现性能下降",
+      "官方称问题已解决，服务现已恢复"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3960dd64fe800069e93498a98c64f947",
+    "title": "U.S company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own | $100 million deal gives 50,000 Ukrainian drones U.S-developed AI capabilities.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vf144v/us_companys_ai_lets_ukraines_cheap_kamikaze/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-04T05:22:10+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vf144v/us_companys_ai_lets_ukraines_cheap_kamikaze/\"> <img alt=\"U.S company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own | $100 million deal gives 50,000 Ukrainian drones U.S-developed AI capabilities.\" src=\"https://external-preview.redd.it/hJ2lz5sPWVznjgGmX4IfXomeiJL2sRunQc27NVfxIeo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a4a0d356cdb71bd9b281a47c3e8926c80f252a2\" title=\"U.S company’s AI lets",
+    "title_zh": "美国公司AI使乌克兰廉价自杀式无人机实现自主目标追踪",
+    "summary_zh": "一项价值1亿美元的交易为5万架乌克兰无人机提供美国开发的AI能力，使其能够自主追踪目标，大幅提升低成本无人机的作战效能。",
+    "key_points": [
+      "1亿美元交易为5万架乌克兰无人机提供AI自主追踪能力",
+      "AI技术使廉价自杀式无人机实现自主目标锁定"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
