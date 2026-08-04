@@ -294,5 +294,190 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2c33ed7a32de9e886f400cd6f5768103",
+    "title": "Fable, GPT-5.6 and other frontier models are assholes. Here's why.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vfhsua/fable_gpt56_and_other_frontier_models_are/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T17:57:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>People are noticing that frontier models can be real assholes. </p> <p>They: </p> <ul> <li>Won't follow your instructions because they think they know better </li> <li>Refuse to do basic tasks </li> <li>Will do things on you never asked for, like commit unfinished code, or refactor a file </li> </ul> <p>Why? </p> <p>Kun Chen, former engineer at Meta says blame it on the training: </p> <p>&quot;The core idea of [reinforcement learning with human feedback (RHLF)] ",
+    "title_zh": "前沿模型如Fable、GPT-5.6为何表现得像个混蛋",
+    "summary_zh": "观点文章指出当前前沿AI模型存在普遍问题：不遵循用户指令、拒绝执行基本任务、擅自添加未经请求的修改，其过度自信的表现引发了用户不满。",
+    "key_points": [
+      "前沿模型常拒绝遵循指令，自认为比用户更懂任务",
+      "模型会擅自执行用户未要求的操作，如提交未完成代码"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24da5cc46a91b3f720f3a6dfb2d40b3b",
+    "title": "How an OpenAI influencer trip backfired",
+    "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-04T17:46:41+00:00",
+    "content_snippet": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. Usually it is fast [&#8230;]",
+    "title_zh": "OpenAI网红营销之旅如何适得其反",
+    "summary_zh": "OpenAI为网红举办的全额付费品牌之旅引发了公众及其他未受邀网红的批评，该营销活动遭遇了显著的舆论反弹。",
+    "key_points": [
+      "OpenAI的网红品牌之旅旨在提升影响力，却引发大量批评",
+      "未受邀网红和公众对奢侈营销活动产生负面情绪"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4f8932b02722da7611b3564ae0c41df7",
+    "title": "China is Tesla's cash cow, but for how much longer?",
+    "url": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T17:34:48+00:00",
+    "content_snippet": "Tesla's Shanghai factory is busier than ever but might be cut loose.",
+    "title_zh": "中国是特斯拉的摇钱树，但还能持续多久？",
+    "summary_zh": "文章分析特斯拉上海工厂虽业务繁忙，但面临地缘政治与市场不确定性，其在华丰厚利润的可持续性受到质疑。",
+    "key_points": [
+      "特斯拉上海工厂产能繁忙，构成其重要的利润来源",
+      "地缘政治风险可能威胁特斯拉在中国的长期市场地位"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "62a45b0de0e1035b8708b7521cc72cdf",
+    "title": "‘Not healthy’ LLM use is more common than you think",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T17:33:46+00:00",
+    "content_snippet": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of [&#8230;]",
+    "title_zh": "“不健康”地使用大语言模型比想象中更普遍",
+    "summary_zh": "知名YouTuber Hank Green因在研究中“不健康”地使用AI而受到强烈批评并宣布暂停制作，引发关于AI辅助创作边界的广泛讨论。",
+    "key_points": [
+      "Hank Green承认使用AI查找研究资料，但遭公众强烈批评",
+      "事件凸显了内容创作者使用AI工具时的伦理边界争议"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "852fea100bc5e1608394be579d61ce2f",
+    "title": "What belongs in a minimum evaluation battery for a medical AI system?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vfg6zx/what_belongs_in_a_minimum_evaluation_battery_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-04T17:00:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Benchmark porn is pretty rampant in AI in general and medical AI in particular. It's tough though to benchmark the more clinical side of medicine in particular. But it shouldn't be impossible; we obviously do it all the time for trainees. But a lot of that is multidomain where each informs each other as we assess medical students and residents. AI benchmarks can be very siloed.</p> <p>• Clinical judgment: Does the model revise its diagnosis as uncertain evidence",
+    "title_zh": "医疗AI系统的最低评估标准应包含哪些内容？",
+    "summary_zh": "讨论指出医疗AI领域基准测试泛滥且难以评估临床实践，提出需建立类似医学实习生考核的多维度、最低标准评估体系。",
+    "key_points": [
+      "医疗AI基准测试很多，但难以有效评估临床实际表现",
+      "建议借鉴医学实习生评估方式，建立多维度的最低评估标准"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "73c4342fb5156eeee667ddb4d2732e9c",
+    "title": "AI will generate millions of games, the harder part might be getting anyone to play them.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vfg6wo/ai_will_generate_millions_of_games_the_harder/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T17:00:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I keep thinking about what happens when making a game becomes almost as easy as describing one.</p> <p>Not long ago, even a small game needed a lot of people and time. You needed someone who could code, someone who could make assets, and someone who understood game design. A lot of ideas never got made because they were not worth the effort.</p> <p>Now that barrier is starting to disappear, I wonder if we are going to run into a different problem: too much conte",
+    "title_zh": "AI将生成数百万游戏，但更难的是让人愿意玩",
+    "summary_zh": "文章探讨当AI使游戏制作变得像描述一样简单时，游戏数量将爆炸式增长，但随之而来的最大挑战是内容发现和玩家注意力的争夺。",
+    "key_points": [
+      "AI将大幅降低游戏制作门槛，导致海量游戏涌现",
+      "内容发现和获取玩家注意力将成为比制作本身更大的难题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e1839b35401611b6f1b2ad5ab7136dad",
+    "title": "The prototype used to be a preview. Now it might become the first version.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vffp2l/the_prototype_used_to_be_a_preview_now_it_might/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-04T16:43:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For years, prototypes were mainly used to explain ideas before building the real thing. A designer would create a mockup, a product team would write documents, and everyone would try to imagine how the final experience might work. But that process is starting to change as creating interactive prototypes becomes much faster.</p> <p>Instead of spending weeks describing an idea through documents and static screens, people can now create something others can actuall",
+    "title_zh": "原型曾是预览，现在可能直接成为第一版产品",
+    "summary_zh": "AI驱动的开发流程正在改变产品设计，过去仅用于解释想法的原型，如今在AI辅助下已具备足够功能，可直接作为产品第一版发布。",
+    "key_points": [
+      "AI工具使原型的功能性大幅提升，可直接转化为产品",
+      "说明、制作、测试的线性开发流程正被AI加速和融合"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "166d9b23148dcc0bda1ebb97b6848a34",
+    "title": "free ai",
+    "url": "https://www.reddit.com/r/artificial/comments/1vffh8k/free_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-04T16:35:37+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vffh8k/free_ai/\"> <img alt=\"free ai\" src=\"https://external-preview.redd.it/500TBcf2GBI6r2fM2pJ2cSbUZBzw3PK0a1MtprjfrHs.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f3254264ca74677647930cee1c09be85b30e1a99\" title=\"free ai\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>use my referral aswell for extra perks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Smart_Consequence68\"> /u",
+    "title_zh": "免费AI",
+    "summary_zh": "一篇关于免费AI工具的简要讨论帖子，内容笼统，缺乏具体产品或技术细节，属于一般性社区话题。",
+    "key_points": [
+      "讨论免费AI工具的可用性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
