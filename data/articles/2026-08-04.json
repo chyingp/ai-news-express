@@ -1386,5 +1386,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1b847ec895dc6d1e11e0cf629fc6c2e8",
+    "title": "Reactive Play: Achieved!! Experimenting with Atari Breakout [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vfa9im/reactive_play_achieved_experimenting_with_atari/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-04T13:23:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Six months ago I started experimenting with PPO and Breakout as a way to learn about Machine Learning and Reinforcement Learning. After a few experiuments just trying to get high scores, it bothered me that everything was a &quot;memorized&quot; script rather than reactive play, like a human would play. Thus began my journey to try and convince PPO to actually track the ball instead of focusing on scoring points. I read a lot of articles and tried a lot of thing",
+    "title_zh": "反应式游戏：达成！用 Atari 打砖块进行强化学习实验",
+    "summary_zh": "作者分享其使用 PPO 算法在 Atari 打砖块游戏中训练反应式 AI 的六个月实验历程，反思了传统高分追求模式中“记忆脚本”的局限性，并探索了更具适应性的智能体行为。",
+    "key_points": [
+      "使用 PPO 算法在 Atari 打砖块环境中训练强化学习智能体",
+      "反思高分追求导致智能体行为变为“记忆脚本”，缺乏适应性",
+      "实验目标转向实现更真实的“反应式”游戏能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fbe99e9d794e5d0ce011d12431d19b28",
+    "title": "AI is changing creativity from \"knowing how to make\" to \"knowing what to make\"",
+    "url": "https://www.reddit.com/r/artificial/comments/1vfa8ko/ai_is_changing_creativity_from_knowing_how_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-04T13:22:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For a long time, turning an idea into something real required knowing the tools first. Want to make a game? Learn game engines and programming. Want to create an interactive experience? Learn design tools and development workflows. Want to build a prototype? Find someone who knows how to build it.</p> <p>I have been experimenting with AI creation tools, and what surprised me was not just that AI could generate a game. It was that the starting point changed from ",
+    "title_zh": "AI 正将创造力从“知道如何制作”转变为“知道制作什么”",
+    "summary_zh": "文章探讨了 AI 如何将创意实现的重心从掌握工具技能转向清晰定义创意目标，降低了游戏、原型等制作的门槛，使有想法的人能更直接地将创意变为现实。",
+    "key_points": [
+      "AI 降低了将创意转化为现实的技术门槛，如编程和设计工具",
+      "创造力核心从掌握“如何制作”转向明确“制作什么”的构想",
+      "这一转变使没有技术背景的人也能更轻松地实现互动体验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d135853a04b5f473426f98a69738a07c",
+    "title": "Are frontier models becoming the default for tasks that don’t need them?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vfa4wz/are_frontier_models_becoming_the_default_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T13:18:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A lot of AI traffic is classification, extraction, redaction, moderation and structured summarization rather than open-ended reasoning.<br /> Using one frontier model for everything is easier, but routing repeatable tasks to smaller specialized models could reduce cost and latency.<br /> Do you think multi-model routing will become standard, or will the added evaluation and maintenance outweigh the savings?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a hr",
+    "title_zh": "前沿模型是否正在成为不需要它们的任务的默认选择？",
+    "summary_zh": "文章指出分类、提取、审核等大量 AI 任务并不需要前沿模型的强大推理能力，但为图方便而统一使用大模型，实际上通过路由到小型专用模型能在降低成本的同时提升效率。",
+    "key_points": [
+      "大量 AI 工作负载是分类、提取等确定性任务，无需前沿模型",
+      "为简单任务使用前沿大模型虽方便，但会导致成本过高",
+      "将重复性任务路由到小型专用模型可降低成本并提高效率"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
