@@ -1,0 +1,298 @@
+[
+  {
+    "id": "6a65da13328346e21f3eedac417ce548",
+    "title": "Why one ride along Isn't enough anymore",
+    "url": "https://www.reddit.com/r/artificial/comments/1vfempm/why_one_ride_along_isnt_enough_anymore/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-04T16:05:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Sales has one of the clearest use cases for AI but I think the conversation is still focused on the wrong thing. Most people talk about AI writing emails or scoring leads. The bigger opportunity is helping people get better at selling. Think about how sales coaching works today. A manager rides along with a rep once every few weeks. They watch one or two conversations then try to coach based on that small sample. The rest of the month they have almost no visibil",
+    "title_zh": "为什么一次跟车体验已经不够了",
+    "summary_zh": "文章讨论AI在销售领域的应用，认为当前关注点错误地聚焦于邮件撰写和线索评分，更大的机会在于帮助销售人员提升销售技巧和辅导能力。",
+    "key_points": [
+      "AI在销售领域应从辅助内容生成转向提升人员销售能力",
+      "销售辅导是AI在销售中更大的未开发机会",
+      "当前AI销售工具过于关注自动化，忽视了技能提升"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e1aaa95f6d7535b1269aa3439762968f",
+    "title": "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US",
+    "url": "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T16:00:56+00:00",
+    "content_snippet": "NVIDIA is participating in the U.S. National Science Foundation’s (NSF) State and Regional Artificial Intelligence Infrastructure Hubs program, an effort launching today to expand access to the advanced computing, data, software and expertise needed for AI-enabled research and education. Consistent with the aims of the Genesis Mission, the program will support state and multistate groups [&#8230;]",
+    "title_zh": "NVIDIA加入NSF州和区域AI中心计划，以扩大美国AI研究及教育",
+    "summary_zh": "NVIDIA参与美国国家科学基金会（NSF）的州和区域AI基础设施中心计划，旨在为AI研究和教育扩展先进计算、数据、软件和专业知识的使用范围。",
+    "key_points": [
+      "NVIDIA参与NSF项目，扩大AI计算与教育资源可及性",
+      "该计划致力于为全美AI研究提供先进基础设施",
+      "合作将推动AI在教育和跨学科研究中的应用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8b905173089f3a55d1b1307d44e3764c",
+    "title": "AI writing tools are making clients less able to tell what good writing actually is and that's the weirder problem",
+    "url": "https://www.reddit.com/r/artificial/comments/1vfea50/ai_writing_tools_are_making_clients_less_able_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-04T15:53:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The cost conversation around AI writing tools is pretty well trodden at this point. What I keep circling back to is something slightly different.</p> <p>When clients commission a lot of AIassisted or fully generated content, their reference point for what writing should feel like starts to shift. They read enough flat, competent, structurally sound copy and that becomes the baseline. Then when something with actual texture or a surprising angle lands in their in",
+    "title_zh": "AI写作工具正在让客户更难判断什么是好文章，这才是更奇怪的问题",
+    "summary_zh": "文章探讨AI写作工具普及后，客户因大量接触AI生成内容而丧失对优质写作的辨别能力，导致评判标准混乱，这比成本问题更值得关注。",
+    "key_points": [
+      "AI写作工具泛滥导致客户对写作质量的判断力下降",
+      "客户参考标准被AI生成内容拉低，形成恶性循环",
+      "这个问题比AI写作带来的成本节约更值得深入探讨"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3f9754e21cb16a7cceb659ecf778a4ff",
+    "title": "AI scribes are everywhere in healthcare now and I have genuinely mixed feelings about them",
+    "url": "https://www.reddit.com/r/artificial/comments/1vfe8sn/ai_scribes_are_everywhere_in_healthcare_now_and_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-04T15:51:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been on the product side of a healthtech rollout for ambient AI documentation, the kind that listens to a patient encounter and autogenerates the clinical note. Doctors love it. Physicians on our pilot were almost evangelical about getting their evenings back, which I understand completely because charting is a soulcrushing time sink.</p> <p>But here is what keeps nagging at me. The model is transcribing and interpreting conversations it was not originally train",
+    "title_zh": "AI听写工具在医疗领域无处不在，我对此感到五味杂陈",
+    "summary_zh": "作者从健康科技产品侧分享了对环境AI文档工具的看法，指出医生因节省时间而非常喜欢，但同时也带来了对医患关系和文档质量的复杂影响。",
+    "key_points": [
+      "环境AI听写工具显著减轻医生文档负担，深受欢迎",
+      "AI自动生成临床笔记可能影响医患互动质量",
+      "医疗AI文档工具的普及带来效率与人文关怀的平衡挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d239bf7b26606f6114ca6fddaa0566a7",
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-04T15:50:06+00:00",
+    "content_snippet": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+    "title_zh": "Spotify与Merlin合作，扩展AI混音和翻唱项目",
+    "summary_zh": "Spotify宣布与代表超过3万家独立厂牌的Merlin达成合作，共同推进其AI驱动的混音和翻唱产品，让付费用户能创建合法授权的AI生成音乐。",
+    "key_points": [
+      "Spotify与独立厂牌巨头Merlin合作扩展AI音乐功能",
+      "付费用户可基于授权音乐创作AI混音和翻唱",
+      "继环球音乐后，Spotify继续寻求版权方支持AI项目"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1b2b680bb879390d16e35ce228082a00",
+    "title": "i would rather be an optimist and work hard than a pessimist posting about why things won't work. it's much more difficult and the most likely path is failure, but society fails if people don't try. no amount of \"it will never work\" essays will drive society forward.",
+    "url": "https://nitter.net/sama/status/2084663673570971990#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T15:32:05+00:00",
+    "content_snippet": "<p>i would rather be an optimist and work hard than a pessimist posting about why things won't work.<br />\n<br />\nit's much more difficult and the most likely path is failure, but society fails if people don't try.<br />\n<br />\nno amount of \"it will never work\" essays will drive society forward.</p>\n<hr />\n<blockquote>\n<b>Brian Huang (@brianryhuang)</b>\n<p>\n<p>Dang it’s crazy that all of this literally did happen</p>\n<img src=\"https://nitter.net/pic/media%2FHO22LKxasAAvDBb.jpg\" />\n\n\n</p>\n<footer",
+    "title_zh": "Sam Altman：我宁愿做一个努力工作的乐观主义者",
+    "summary_zh": "OpenAI CEO Sam Altman在社交媒体上表示，他宁愿选择乐观并努力工作，也不愿做悲观者发帖唱衰，因为社会进步需要人们去尝试，而非空谈失败。",
+    "key_points": [
+      "Sam Altman倡导乐观主义和实干精神推动社会进步",
+      "他认为尝试虽可能失败，但悲观论调无法驱动发展",
+      "此番言论可能意在回应AI行业内的质疑声音"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "80e106fe7e7308168e2ca6eac7492b06",
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-04T15:20:06+00:00",
+    "content_snippet": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+    "title_zh": "马斯克在特斯拉财报电话会上花一半时间谈论机器人和AI",
+    "summary_zh": "分析显示，过去七年特斯拉财报电话会上，马斯克花了近一半时间讨论机器人和AI，而非汽车业务，反映其对核心业务的关注度转移。",
+    "key_points": [
+      "马斯克在财报会上对AI和机器人的关注远超汽车业务",
+      "七年分析显示其讨论重点已从电动车转向未来技术",
+      "这引发外界对特斯拉核心汽车业务发展前景的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9e93cc4c01b92b06d193afae6053682e",
+    "title": "NVIDIA Alpamayo 2 Super, the Frontier Open Model for Robotaxis and Autonomous Vehicles, Now Available for Commercial Use",
+    "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-04T15:00:49+00:00",
+    "content_snippet": "For robotaxis and other autonomous vehicles (AVs), the hardest problems aren’t the everyday scenarios. They’re the rare, complex situations that are difficult to anticipate and train for. Handling these long‑tail events takes more than just object detection and motion prediction. AVs must understand the situation, reason about cause and effect, choose the right action and [&#8230;]",
+    "title_zh": "NVIDIA发布用于自动驾驶出租车的前沿开放模型Alpamayo 2 Super",
+    "summary_zh": "NVIDIA发布Alpamayo 2 Super开放模型，专为自动驾驶出租车和自动驾驶汽车设计，旨在解决罕见复杂场景下的长尾问题，现已开放商用。",
+    "key_points": [
+      "NVIDIA推出Alpamayo 2 Super模型，专注自动驾驶长尾场景",
+      "该模型为开放发布，支持商业用途，助力自动驾驶发展",
+      "旨在解决超出常规检测和预测的复杂环境理解难题"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6373642319371ca4299eec4e182a83da",
+    "title": "As AI Increases Demands on Memory, Storage Steps Up",
+    "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-04T15:00:47+00:00",
+    "content_snippet": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory.  But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights.  At this week’s Future of [&#8230;]",
+    "title_zh": "AI对内存需求激增，存储技术加速升级",
+    "summary_zh": "随着AI对海量数据集和超长上下文窗口的需求激增，传统系统内存已无法满足，需要构建高效、安全的存储架构以提供可靠洞察。",
+    "key_points": [
+      "AI大模型对存储容量和架构提出更高要求",
+      "需要超越简单扩容，构建高效安全的AI工厂存储",
+      "存储升级是支撑AI应用落地和获取洞察的关键"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "965da038321979f0fd1cd3f0e7058c5a",
+    "title": "I built a game studio with zero human employees. Here's the office tour.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vfcbzs/i_built_a_game_studio_with_zero_human_employees/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-04T14:42:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.reddit.com/r/singularity/comments/1vfcaea/i_built_a_game_studio_with_zero_human_employees/\">I built a game studio with zero human employees. Here's the office tour.</a></p> <p><em>Built this together with Claude. An office full of AI agents, each one has a distinct role (CEO, Creative Director, QA, Marketer). They communicate, make decisions, and ship games autonomously. Happy to answer any questions.</em></p> <p><a href=\"https://www.youtube",
+    "title_zh": "我建了一个零人类员工的游戏工作室，这是办公室参观",
+    "summary_zh": "一位开发者分享其完全由AI代理组成的游戏工作室，展示了一个无人类员工的自动化办公环境，体现了AI在创意生产领域的应用潜力。",
+    "key_points": [
+      "开发者展示完全由AI代理运营的自动化游戏工作室",
+      "该项目展示了AI在游戏开发全流程中的应用可能性",
+      "零人类员工工作室引发对创意行业未来工作模式的思考"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a78bf2f175e68f5b6c5285a793e11411",
+    "title": "Are AI labs pelicanmaxxing?, If coding has been solved, why does software keep getting worse? and many other AI news",
+    "url": "https://www.reddit.com/r/artificial/comments/1vfc1h2/are_ai_labs_pelicanmaxxing_if_coding_has_been/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T14:31:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I just sent the <a href=\"https://eomail4.com/web-version?p=4077b7e0-9009-11f1-b21d-91d88a23ad15&amp;pt=campaign&amp;t=1785852251&amp;s=73acc4b88306142db07729ac62cfbca833d385b02815cbcc43241d1cbc91fed6\"><strong>latest issue of the AI Hacker Newsletter</strong></a>, a roundup of the best AI links and the discussions around them from Hacker News. Here are some titles that can be found in this issue: </p> <ul> <li>Startup founders urge U.S. government n",
+    "title_zh": "AI实验室在Pelicanmaxxing？编码已解决，软件为何仍变糟？",
+    "summary_zh": "本文为一期AI黑客新闻通讯，涵盖了多个话题，包括对AI实验室是否过度优化特定基准的质疑，以及探讨为何在AI编码能力看似强大的今天，软件质量反而持续下降的现象。",
+    "key_points": [
+      "AI实验室可能过度追求基准测试高分而忽视实际应用",
+      "AI编码能力的提升并未带来软件质量的整体改善"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "54ed8f1ef07ccd3efdfc9d9a38f13887",
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T14:03:01+00:00",
+    "content_snippet": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+    "title_zh": "苹果称更多前员工可能将机密数据带至OpenAI",
+    "summary_zh": "苹果公司在一份新法庭文件中表示，其针对OpenAI的商业机密调查范围已扩大，声称有更多前员工可能保留或访问了机密信息。",
+    "key_points": [
+      "苹果扩大对OpenAI的商业机密调查",
+      "更多苹果前员工被指可能泄露机密数据"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
