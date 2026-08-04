@@ -598,5 +598,103 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1a735b6a4be31e02a66a416e32d5f038",
+    "title": "Building a new project[P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vfnuxw/building_a_new_projectp/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-04T21:37:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have a project question.</p> <p>Right now, I am building a webapp for advanced arabic language learners that helps in Nahw (I'rab) which is something related to how Arabic sentences are built. My question is, how do you develop your idea when you know that there are other people out there doing the same thing. Additionally, how do you go beyond the idea that all you will have to do is get an OpenAI API key since ChatGPT is really good at Arabic Nahw </p> </div",
+    "title_zh": "构建一个新项目",
+    "summary_zh": "一个 Reddit 用户关于为高级阿拉伯语学习者构建一个帮助理解句子结构的网络应用的提问，寻求关于如何在没有数据的情况下开发想法的建议。",
+    "key_points": [
+      "用户开发阿拉伯语句法学习工具",
+      "询问如何在没有数据时推进项目",
+      "项目面向高级阿拉伯语学习者"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1670c7880711cf4494ef26274776b097",
+    "title": "AMD&#8217;s datacenter business is booming while gaming takes a backseat",
+    "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-04T20:57:49+00:00",
+    "content_snippet": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. At the same time, AMD's gaming revenue fell 31 [&#8230;]",
+    "title_zh": "AMD数据中心业务蓬勃发展，游戏业务退居次要",
+    "summary_zh": "AMD 最新财报显示，受 AI 需求驱动，其数据中心收入同比翻倍至 67 亿美元，而游戏业务继续下滑，显示公司重心正转向 AI 和服务器芯片。",
+    "key_points": [
+      "AMD 数据中心收入同比暴增 107% 至 67 亿美元",
+      "游戏业务收入持续下滑",
+      "公司战略重心全面转向 AI 数据中心业务"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dc48138fd85118247f38752355e5a11f",
+    "title": "SpaceX made more revenue as an AI company than a space company",
+    "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+    "source": "来源",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-04T20:47:55+00:00",
+    "content_snippet": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its [&#8230;]",
+    "title_zh": "SpaceX 的 AI 业务收入超过航天业务",
+    "summary_zh": "SpaceX 季度财报显示，其 AI 部门收入同比增长三倍多，达到 26 亿美元，主要来自向其他 AI 公司提供算力，已超过其传统航天发射收入。",
+    "key_points": [
+      "SpaceX AI 部门收入达 26 亿美元，超过航天业务",
+      "收入增长三倍，主要来自对外提供 AI 算力",
+      "公司定位为 AI 新云服务商"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6176f29427c292b9142600c66a756b48",
+    "title": "Texas halts data center connections to power grid amid overwhelming demand",
+    "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+    "source": "来源",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T20:34:28+00:00",
+    "content_snippet": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+    "title_zh": "德州因需求过大暂停数据中心接入电网",
+    "summary_zh": "美国德克萨斯州因数据中心电力需求激增，暂停了新的数据中心电网连接申请，尽管该州曾将自己定位为 AI 中心。",
+    "key_points": [
+      "德州暂停新数据中心接入电网",
+      "电力需求超过电网承载能力",
+      "与德州打造 AI 中心的计划相悖"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
