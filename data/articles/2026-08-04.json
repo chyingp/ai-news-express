@@ -753,5 +753,52 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "41d3d12d15a9047fd6cfefb40a39dde2",
+    "title": "Missed EMNLP commitment deadline, what can be done? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1veyvev/missed_emnlp_commitment_deadline_what_can_be_done/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-04T03:25:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Asking for a friend:</p> <p>We submitted our paper to ARR May 2026 and got decent scores from the reviewers - 2.5,3,3.5,4. The meta-reviewer gave an overall of 3.5.</p> <p>However, we missed the deadline to commit our work to EMNLP! On our Saturday (we live in the eastern half of the globe), we saw the EMNLP 2026 page on open review with deadline set as Aug3, 11:59PM UTC-0. Apparently, a mail had been sent by ARR on our Sunday regarding committing our work to EM",
+    "title_zh": "错过EMNLP提交截止日期，还有什么补救办法？",
+    "summary_zh": "一位用户替朋友求助，其论文在ARR评审中获得2.5至4分、总评3.5分的成绩，但因疏忽错过了提交至EMNLP会议的截止日期，询问是否还有补救措施。",
+    "key_points": [
+      "论文获得ARR评审3.5分但错过EMNLP提交截止日期",
+      "发帖者询问学术界是否有补救措施或替代方案"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a5b56eff414a683225f8ab001ba1e561",
+    "title": "截至今年7月底，国家标准中文版在线阅读量超1.74亿次",
+    "url": "https://36kr.com/newsflashes/3924624581523586?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-08-04T02:54:34+00:00",
+    "content_snippet": "今天了解到，市场监管总局将免费公开国家标准作为为民办实事的重要举措， 自去年对3万余项国家标准提供免费下载服务后，今年又全文免费公开了2600余项国家标准外文版。截至2026年7月底，国家标准中文版在线阅读量超过1.74亿次、下载量超过5300万次，上线仅三个多月的国家标准外文版在线阅读量超过12万次、下载量超过16万次，《智慧城市时空基础设施 评价指标体系》《有限空间作业安全技术规范》等人工智能与安全方面的国家标准阅读量和下载量位居前列。（央视新闻）",
+    "title_zh": "截至今年7月底，国家标准中文版在线阅读量超1.74亿次",
+    "summary_zh": "市场监管总局持续推进国家标准免费公开，中文版阅读量超1.74亿次，外文版也实现免费下载。人工智能与安全相关标准阅读和下载量位居前列。",
+    "key_points": [
+      "国家标准中文版在线阅读量超1.74亿次，下载量超5300万次",
+      "2600余项外文版国家标准实现全文免费公开",
+      "人工智能与安全类国家标准阅读和下载量位居前列"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
