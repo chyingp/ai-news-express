@@ -479,5 +479,124 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "624733b2cd6aae3faadd699fc8434cec",
+    "title": "Predictions about AI replacing programmers go back to the 1960s",
+    "url": "https://www.reddit.com/r/artificial/comments/1vflvt1/predictions_about_ai_replacing_programmers_go/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T20:23:04+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vflvt1/predictions_about_ai_replacing_programmers_go/\"> <img alt=\"Predictions about AI replacing programmers go back to the 1960s\" src=\"https://preview.redd.it/28hagyxp2fhh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e11b8573694b3841b81d8cdbd945fb26f7a3b10f\" title=\"Predictions about AI replacing programmers go back to the 1960s\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A Turing Award and Nobel prize winner p",
+    "title_zh": "关于AI取代程序员的预测可追溯到1960年代",
+    "summary_zh": "回顾了人工智能取代程序员这一话题的历史渊源，指出相关预测在1960年代就已出现，反映了该行业长期存在的焦虑与讨论。",
+    "key_points": [
+      "AI取代程序员的讨论并非新鲜事，可追溯至上世纪60年代",
+      "历史视角有助于理性看待当前AI编程工具带来的就业焦虑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c30ea359fc494916ec0e12a201a83241",
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-04T20:05:26+00:00",
+    "content_snippet": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+    "title_zh": "开源AI模型能力逼近前沿，但安全差距依然存在",
+    "summary_zh": "一份新报告显示，Z.ai的开源模型GLM-5.2在能力上已接近前沿AI，但缺乏关键的安全防护措施，引发了关于强大开源模型可能超越监管和防护的担忧。",
+    "key_points": [
+      "开源模型GLM-5.2能力接近前沿，但安全机制缺失",
+      "报告引发对强大开源模型治理与安全防护的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "af3fbfe150b00022cd319aa3b04b9280",
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-04T19:48:40+00:00",
+    "content_snippet": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+    "title_zh": "Anthropic与AI云初创公司Volta签署100亿美元协议",
+    "summary_zh": "Anthropic在云合作伙伴关系上动作频频，最新举措是与AI云初创公司Volta签署了价值100亿美元的巨额协议，以增强其计算基础设施。",
+    "key_points": [
+      "Anthropic与Volta签署100亿美元云服务协议",
+      "此举是Anthropic近期一系列云合作的最新扩展"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8cd05edd7a37d5b154da56828af1064c",
+    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-04T19:34:34+00:00",
+    "content_snippet": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+    "title_zh": "Wrinkles：一款揭示你身边隐藏故事的AI应用",
+    "summary_zh": "一款名为Wrinkles的AI应用登陆iOS和Android平台，它充当AI驱动的音频导游，为用户揭示所在地隐藏的历史和本地故事。",
+    "key_points": [
+      "Wrinkles是一款AI驱动的音频导游应用",
+      "通过AI技术挖掘并讲述用户周边的隐藏历史故事"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a21d180516b22df290a01a2e1c8f1f2b",
+    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T19:28:49+00:00",
+    "content_snippet": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+    "title_zh": "英伟达雷厉风行：开放AI行业联盟成立一周即展现进展",
+    "summary_zh": "由英伟达牵头成立的开放安全AI联盟在成立仅一周后，已拥有超过120家成员公司，并迅速提出了针对AI智能体的防御方案，展现了高效执行力。",
+    "key_points": [
+      "英伟达牵头的安全AI联盟成立一周已吸纳超120家公司",
+      "联盟已迅速提出针对AI智能体的防御方案"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
