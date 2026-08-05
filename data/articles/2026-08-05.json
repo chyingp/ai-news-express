@@ -1782,5 +1782,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "878b16620f09110bd634d3017df5b63d",
+    "title": "Six years into AI research and I genuinely can't define \"understanding\" anymore",
+    "url": "https://www.reddit.com/r/artificial/comments/1vg7fcd/six_years_into_ai_research_and_i_genuinely_cant/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-05T13:29:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have been doing AI research for about six years now and I think im starting to lose the plot on what &quot;understanding&quot; even means anymore.</p> <p>Had a weird moment last week. I was reviewing a paper for a conference, standard stuff, some group claiming their model &quot;understands&quot; causal reasoning because it passed a benchmark they designed. And I caught myself writing in the review &quot;the model does not actually understand causality, it is ",
+    "title_zh": "AI 研究六年，我已无法真正定义“理解”",
+    "summary_zh": "一位AI研究员分享其从业六年的困惑，在审阅论文时发现自己对“理解”一词的定义愈发模糊，引发了对AI领域核心概念本质的反思。",
+    "key_points": [
+      "AI研究员从业六年，对“理解”的定义感到日益困惑",
+      "在审阅学术论文时触发对AI概念本质的反思",
+      "主要是一篇个人感悟分享，非技术突破或产品发布"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b06efd7efeb5a59a46e5dead244e546f",
+    "title": "Anyone else using AI writing tools for both clinical and marketing copy? The context switching is kind of breaking my brain?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vg75af/anyone_else_using_ai_writing_tools_for_both/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-05T13:18:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been using a couple different AI tools for copywriting work and keep running into the same friction. When I write for PT clients, the voice needs to be grounded, specific, anatomyaware. When I switch to B2B marketing content the same day, I need something punchier and more abstract. The tools I've tested don't shift registers cleanly between these two modes unless I do a lot of prompt massaging each time.</p> <p>What I keep wondering is whether this is a prompti",
+    "title_zh": "在临床和营销文案间切换使用AI写作工具，大脑快被撕裂了",
+    "summary_zh": "用户分享在使用AI工具撰写临床和B2B营销文案时面临的语境切换困境，临床要求精准解剖学语言，营销则需冲击力，频繁切换带来思维摩擦。",
+    "key_points": [
+      "用户抱怨在临床和营销写作间切换导致思维混乱",
+      "临床写作要求精准，营销写作要求冲击力，语体风格迥异",
+      "反映AI应用场景中专业化与通用化之间的平衡难题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
