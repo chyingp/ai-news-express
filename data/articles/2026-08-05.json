@@ -1234,5 +1234,131 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "70cd38fcd232dbe36aafdb569e41cfd5",
+    "title": "🧠 How does the brain \"imagine\" a solution even before trying it?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vg0aoz/how_does_the_brain_imagine_a_solution_even_before/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-05T07:22:25+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vg0aoz/how_does_the_brain_imagine_a_solution_even_before/\"> <img alt=\"🧠 How does the brain &quot;imagine&quot; a solution even before trying it?\" src=\"https://preview.redd.it/brr2zohocihh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a7eef2a9ab48e967320091cca905bbf617bce33d\" title=\"🧠 How does the brain &quot;imagine&quot; a solution even before trying it?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Our brain con",
+    "title_zh": "大脑如何在尝试之前“想象”出解决方案？",
+    "summary_zh": "Reddit 上的一篇讨论文章，探讨人类大脑在未进行实际尝试前，如何通过内部模拟和想象来预演解决方案的认知神经科学机制。",
+    "key_points": [
+      "探讨大脑通过内部模拟预演方案的能力",
+      "涉及认知神经科学与 AI 的交叉讨论",
+      "来自 Reddit 社区的理论探讨"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "42ca2e4c78b0c946edfa285981a3c9eb",
+    "title": "微软叫停Tokenmaxxing！预算卡死，超限自负",
+    "url": "https://www.qbitai.com/2026/08/466739.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-05T06:33:40+00:00",
+    "content_snippet": "内部默认用GPT-5.6",
+    "title_zh": "微软叫停Tokenmaxxing！预算卡死，超限自负",
+    "summary_zh": "微软内部推行新政策，限制调用 GPT-5.6 等大模型时的 Token 预算，超出部分将由使用部门自行承担成本，旨在控制 AI 算力支出。",
+    "key_points": [
+      "微软内部默认使用 GPT-5.6 模型",
+      "对 Token 使用实施硬性预算限制",
+      "超限成本由各部门自负，以控制开支"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "37d51e978d2535269004f130c9d9554c",
+    "title": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
+    "url": "https://www.qbitai.com/2026/08/466553.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-08-05T05:53:38+00:00",
+    "content_snippet": "CUDA又危了？",
+    "title_zh": "老黄垒20年的CUDA护城河，AI刚刚用10小时凿开了",
+    "summary_zh": "文章报道了一项利用 AI 技术在 10 小时内绕过英伟达 CUDA 生态壁垒的突破，对英伟达长达 20 年的软件护城河构成潜在挑战。",
+    "key_points": [
+      "AI 用 10 小时突破 CUDA 生态壁垒",
+      "对英伟达的软件护城河构成潜在威胁",
+      "可能改变 AI 硬件编程的竞争格局"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b87c9eff1927f6c560a3e233a85d45de",
+    "title": "NeurIPS 2026 Main Track — Theory papers score tracking post Rebuttal [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vfx8pn/neurips_2026_main_track_theory_papers_score/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-05T04:36:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>Now that the rebuttal period is over, I’m curious about the score distribution specifically for theory papers this year.</p> <p>If you’re comfortable sharing, please drop:</p> <p>• Scores: x / x / x</p> <p>• Confidence: x / x / x</p> <p>• Whether scores changed after rebuttal</p> <p>• Broad area (optional)</p> <p>I got 4 / 4 / 4, with confidence 3 / 3 / 3.</p> <p>From my experience, theory papers often seem to get somewhat lower scores, and this ",
+    "title_zh": "NeurIPS 2026 理论论文 rebuttal 后评分追踪",
+    "summary_zh": "Reddit 机器学习社区发起讨论，追踪 NeurIPS 2026 主会议理论方向论文在 rebuttal 阶段结束后的评分分布和录用前景。",
+    "key_points": [
+      "追踪 NeurIPS 2026 理论论文 rebuttal 后评分",
+      "Reddit 社区自发收集评分、置信度等数据",
+      "反映学术会议审稿流程的动态"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "82189c98ec122ac4abd65837ff303efb",
+    "title": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
+    "url": "https://www.qbitai.com/2026/08/466454.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-08-05T04:28:31+00:00",
+    "content_snippet": "二季度AI收入暴涨247%",
+    "title_zh": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
+    "summary_zh": "报道称 SpaceX 公布首份财报，其二季度 AI 相关收入暴涨 247%，主要得益于对外出售英伟达 GPU 算力，其盈利速度甚至超过火箭和卫星业务。",
+    "key_points": [
+      "SpaceX 首次公布财报，AI 收入暴涨 247%",
+      "主要收入来自倒卖英伟达 GPU 算力",
+      "AI 算力销售盈利速度超越传统航天业务"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
