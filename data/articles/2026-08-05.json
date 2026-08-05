@@ -696,5 +696,277 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "498661f05394836cf3302af2a3b26164",
+    "title": "电子布龙头企业上半年业绩大幅预增",
+    "url": "https://36kr.com/newsflashes/3925841872992389?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "zh",
+    "published": "2026-08-04T23:51:46+00:00",
+    "content_snippet": "上半年，受益于AI算力产业爆发带来的强劲需求，国内电子布（电子级玻璃纤维）行业迎来量价齐升的高景气行情。产品价格大幅上涨、行业库存低位紧缺、织布机供给持续紧张，各大上市龙头企业上半年业绩普遍大幅预喜。据了解，行业供需错配格局短期难以逆转，叠加新增产能释放存在明显瓶颈，电子布涨价行情及行业高景气度有望持续至年底。（上证报）",
+    "title_zh": "电子布龙头企业上半年业绩大幅预增",
+    "summary_zh": "受益于AI算力产业爆发，国内电子布行业量价齐升，库存低位且供给紧张，主要上市龙头企业上半年业绩普遍大幅预增，行业高景气度有望持续至年底。",
+    "key_points": [
+      "AI算力需求驱动电子布量价齐升",
+      "行业供需错配短期难以逆转，景气度持续",
+      "龙头企业上半年业绩普遍大幅预增"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ff8a7bde9027e68aee53503a65eb282f",
+    "title": "港股7月领涨全球，结构性行情折射估值修复逻辑",
+    "url": "https://36kr.com/newsflashes/3925833749117320?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "zh",
+    "published": "2026-08-04T23:43:31+00:00",
+    "content_snippet": "7月，港股市场一改6月的疲弱表现，迎来一轮强劲反弹行情。Wind数据显示，7月恒生指数累计上涨超2800点，涨幅达13.13%，在全球主要股指中表现领先。分析人士认为，港股7月的强势表现是估值洼地效应、全球资金再平衡与AI行情扩散三重因素共振的结果。在全球主要市场波动加剧的背景下，港股凭借较低的绝对估值和相对清晰的产业趋势，成为资金高低切换的重要承接平台。不过，经历短期快速上涨后，估值修复最顺畅的阶段或已过去，后续行情需要基本面数据的进一步验证。（中证报）",
+    "title_zh": "港股7月领涨全球，结构性行情折射估值修复逻辑",
+    "summary_zh": "7月恒生指数累计上涨超13%，在全球主要股指中表现领先。分析认为，这是估值洼地效应、全球资金再平衡与AI行情扩散三重因素共振的结果，但快速上涨后估值修复最顺畅阶段或已过去。",
+    "key_points": [
+      "恒生指数7月上涨超13%，领涨全球主要股指",
+      "估值洼地、资金再平衡与AI行情扩散驱动上涨",
+      "短期快速上涨后，后续需基本面数据验证"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cc59219960e95474d5c0e51ccb8264be",
+    "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
+    "url": "https://36kr.com/newsflashes/3925832206743942?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "zh",
+    "published": "2026-08-04T23:40:57+00:00",
+    "content_snippet": "苹果公司在指控OpenAI有组织窃取其将发布产品的信息案中再次出击，请求联邦法官立即下令这家人工智能企业停止使用它所指的被窃商业秘密。该公司寻求法庭颁令，要求OpenAI归还所有机密信息，并停止任何获取其它非公开信息的企图。苹果要求该命令在诉讼进行期间持续有效。（新浪财经）",
+    "title_zh": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
+    "summary_zh": "苹果公司在指控OpenAI有组织窃取其商业机密的诉讼中再次出击，请求联邦法官立即下令OpenAI停止使用并归还所有机密信息，该命令要求在诉讼期间持续有效。",
+    "key_points": [
+      "苹果指控OpenAI窃取未发布产品信息",
+      "寻求法庭立即禁止OpenAI使用商业秘密",
+      "要求归还机密信息并停止获取非公开信息"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7bdf6dace30c4bf5fc7053e6dbd4dfb2",
+    "title": "SpaceX携手英伟达开发卫星计算载荷，将数据中心级算力送入太空",
+    "url": "https://36kr.com/newsflashes/3925833212230023?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-04T23:38:57+00:00",
+    "content_snippet": "北京时间8月5日，交出上市后首份财报之际，SpaceX在社交媒体上宣布，公司正与英伟达合作，共同开发设计Starmind AI1卫星计算载荷，每颗Starmind卫星都将搭载英伟达Rubin GPU和Vera CPU，实现数据中心级太空计算能力。英伟达也在社交媒体上确认了这项合作并表示：“AI基础设施的下一个篇章，正迈向AI计算从未涉足的疆域。”（第一财经）",
+    "title_zh": "SpaceX携手英伟达开发卫星计算载荷，将数据中心级算力送入太空",
+    "summary_zh": "SpaceX在上市后首份财报之际宣布与英伟达合作，共同开发Starmind AI1卫星计算载荷，每颗卫星将搭载英伟达Rubin GPU和Vera CPU，实现数据中心级太空计算能力。",
+    "key_points": [
+      "SpaceX与英伟达合作开发卫星AI计算载荷",
+      "Starmind卫星将搭载英伟达Rubin GPU和Vera CPU",
+      "旨在实现数据中心级太空计算能力"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b1222b14f21b6ad463bb46eb322d55fd",
+    "title": "Anthropic与Volta达成100亿美元算力协议",
+    "url": "https://36kr.com/newsflashes/3925828500224392?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-08-04T23:36:11+00:00",
+    "content_snippet": "知情人士称，Anthropic PBC与成立仅数月的基础设施初创公司Volta Infra Holdings Ltd．达成一项价值100亿美元的算力协议，此举是这家Claude开发商为满足产品需求而采取的最新举措。知情人士表示，Anthropic已签署协议，将使用由英伟达支持的云基础设施初创公司Volta管理的数据中心。（新浪财经）",
+    "title_zh": "Anthropic与Volta达成100亿美元算力协议",
+    "summary_zh": "Anthropic与基础设施初创公司Volta达成价值100亿美元的算力协议，将使用由英伟达支持的Volta管理的数据中心，以满足其Claude产品日益增长的需求。",
+    "key_points": [
+      "Anthropic与Volta签署100亿美元算力协议",
+      "将使用英伟达支持的Volta数据中心",
+      "旨在满足Claude等产品的算力需求"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0cd919226a2e7ca95375a8e96f550fbe",
+    "title": "马斯克：SpaceX收入或达1万亿美元",
+    "url": "https://36kr.com/newsflashes/3925839652698505?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-04T23:30:36+00:00",
+    "content_snippet": "马斯克周二为SpaceX勾勒了雄心勃勃的目标，包括在2027年将数据中心送入太空，以及实现1万亿美元的收入。这是该公司首次公开募股（IPO）以来，马斯克首次向投资者发表讲话。在与分析师长约一小时的电话会议中，马斯克宣传了公司的多项预期目标，例如SpaceX到2030年实现1万亿美元的收入，将原定于2031年达成该目标的时间表提前。马斯克和其他高管还向分析师强调，这些支出对于建设AI基础设施等公司战略至关重要。（新浪财经）",
+    "title_zh": "马斯克：SpaceX收入或达1万亿美元",
+    "summary_zh": "马斯克在SpaceX上市后首次向投资者发表讲话，提出提前至2030年实现1万亿美元收入等雄心勃勃的目标，并计划2027年将数据中心送入太空，强调AI基础设施投入的战略重要性。",
+    "key_points": [
+      "SpaceX目标2030年实现1万亿美元收入",
+      "计划2027年将数据中心送入太空",
+      "马斯克强调AI基础设施支出的战略重要性"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3a1119b73fd4a1325af3c4cd2725ae5a",
+    "title": "黑石集团为Anthropic芯片交易推销巨额债务融资方案",
+    "url": "https://36kr.com/newsflashes/3925373322574209?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-08-04T23:30:06+00:00",
+    "content_snippet": "黑石集团已与投资者进行初步讨论，以评估他们对第二笔巨额债务融资方案的兴趣，该方案旨在为Anthropic PBC使用Alphabet旗下谷歌公司的芯片提供资金。据知情人士透露，一项初步提议涉及至少360亿美元的债务，这将超过阿波罗全球管理公司（Apollo Global Management Inc.）和黑石集团大约两个月前敲定的350亿美元债务规模。这一潜在的新融资轮次紧随 Anthropic 秘密提交美国首次公开募股（IPO）申请之后，该公司正试图赶在竞争对手OpenAI之前登陆公开市场。（新浪财经）",
+    "title_zh": "黑石集团为Anthropic芯片交易推销巨额债务融资方案",
+    "summary_zh": "黑石集团正与投资者讨论为Anthropic提供至少360亿美元的债务融资方案，以支持其使用谷歌芯片，该融资规模可能超过此前350亿美元的纪录，紧随Anthropic秘密提交IPO申请之后。",
+    "key_points": [
+      "黑石拟为Anthropic提供至少360亿美元债务融资",
+      "融资用于支持Anthropic使用谷歌芯片",
+      "紧随Anthropic秘密提交IPO申请之后"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2ad4ac89aff9013c2ee025ce6ad5911f",
+    "title": "CoreWeave将在印尼新建三座数据中心，首次进军亚太市场",
+    "url": "https://36kr.com/newsflashes/3925371850815623?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-04T23:26:34+00:00",
+    "content_snippet": "8月4日，CoreWeave宣布将云AI平台扩展至印尼，首次进军亚太市场。CoreWeave将新建三座数据中心，总装机容量360兆瓦，预计2028年投入使用。截至今年3月31日，CoreWeave在全球共运营49座数据中心。（界面）",
+    "title_zh": "CoreWeave将在印尼新建三座数据中心，首次进军亚太市场",
+    "summary_zh": "AI云平台CoreWeave宣布将扩展至印尼，首次进军亚太市场，计划新建三座数据中心，总装机容量360兆瓦，预计2028年投入使用，其全球数据中心总数已达49座。",
+    "key_points": [
+      "CoreWeave首次进军亚太市场，落地印尼",
+      "新建三座数据中心，总容量360兆瓦",
+      "预计2028年投入使用，全球运营49座数据中心"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a45ebdd4086b751b870edb616fee5777",
+    "title": "三星发布下一代AI存储��线图，展示zHBM和400层以上V10 NAND技术",
+    "url": "https://36kr.com/newsflashes/3925818953414792?f=rss",
+    "source": "36氪",
+    "source_zh": "36氪",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-04T23:26:28+00:00",
+    "content_snippet": "当地时间8月4日， 三星电子在美国圣克拉拉举行的2026年未来存储与内存大会（FMS）上，公布面向AI基础设施的下一代存储技术路线，首次展示zHBM、zNAND-O概念产品，并推出采用晶圆键合技术的400层以上V10 BV-NAND。三星表示，zHBM旨在通过将HBM垂直堆叠于AI加速器上方，缩短处理器与内存之间的数据传输距离，以提升AI训练和推理性能。搭载下一代接口系统的zHBM预计性能可达到HBM5的约8倍，同时借助新型晶圆键合技术，实现超过HBM5 10倍的内存密度，并提升能效表现。（界面）",
+    "title_zh": "三星发布下一代AI存储路线图，展示zHBM和400层以上V10 NAND技术",
+    "summary_zh": "三星电子公布面向AI基础设施的下一代存储技术路线，首次展示zHBM、zNAND-O概念产品及400层以上V10 NAND，zHBM通过垂直堆叠于AI加速器上，性能可达HBM5的约8倍。",
+    "key_points": [
+      "三星展示zHBM概念，性能可达HBM5的8倍",
+      "推出400层以上V10 NAND技术",
+      "旨在通过垂直堆叠缩短数据传输距离，提升AI性能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ef93bbf8cb6a50d8140b121bd59a056b",
+    "title": "Oh look! My longtime friend and colleague @Sanjay_Ghemawat is now on Twitter! Give him a follow!",
+    "url": "https://nitter.net/JeffDean/status/2084778226141065626#m",
+    "source": "Jeff Dean (X)",
+    "source_zh": "Jeff Dean",
+    "source_type": "nitter",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-08-04T23:07:17+00:00",
+    "content_snippet": "<p>Oh look!  My longtime friend and colleague <a href=\"https://nitter.net/Sanjay_Ghemawat\" title=\"Sanjay Ghemawat\">@Sanjay_Ghemawat</a> is now on Twitter!  Give him a follow!</p>\n<hr />\n<blockquote>\n<b>Jeff Dean (@JeffDean)</b>\n<p>\n<p>In April, '17, <a href=\"https://nitter.net/jsomers\" title=\"James Somers\">@jsomers</a> of <a href=\"https://nitter.net/NewYorker\" title=\"The New Yorker\">@NewYorker</a> reached out &amp; said he wanted to do a small profile of me &amp; my longtime colleague Sanjay Ghe",
+    "title_zh": "Jeff Dean欢迎同事Sanjay Ghemawat开通推特账号",
+    "summary_zh": "Google技术专家Jeff Dean在推特上发文，欢迎其长期朋友和同事Sanjay Ghemawat开通推特账号，并邀请大家关注。",
+    "key_points": [
+      "Jeff Dean发推文欢迎Sanjay Ghemawat加入推特",
+      "Sanjay Ghemawat是Jeff Dean的长期同事",
+      "属于个人社交动态，非行业新闻"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bba2809aaab2b2e92ab148c561d05c04",
+    "title": "Visa's AI-driven restructuring cuts 320 Bay Area jobs, including six vice presidents",
+    "url": "https://www.reddit.com/r/artificial/comments/1vfq1l4/visas_aidriven_restructuring_cuts_320_bay_area/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-04T23:06:26+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vfq1l4/visas_aidriven_restructuring_cuts_320_bay_area/\"> <img alt=\"Visa's AI-driven restructuring cuts 320 Bay Area jobs, including six vice presidents\" src=\"https://external-preview.redd.it/ysmb4bhC-kpLKd57I5bNYBgF7ObfqNtF2LeHdGr3Bgo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a96d30c822a58ef820a5ec18a137a0f6f100d1b4\" title=\"Visa's AI-driven restructuring cuts 320 Bay Area jobs, including six vice presidents\" /> </a> ",
+    "title_zh": "Visa AI驱动重组，湾区裁员320人含六名副总裁",
+    "summary_zh": "Visa在湾区进行AI驱动的重组，裁减320个岗位，其中包括六名副总裁，反映出AI技术对企业组织架构的深度影响。",
+    "key_points": [
+      "Visa在湾区裁员320人，包含六名副总裁",
+      "此次重组明确由AI技术驱动",
+      "反映AI正推动大型企业进行组织架构调整"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
