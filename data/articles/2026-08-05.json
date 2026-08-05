@@ -1163,5 +1163,76 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "eadb23729bea2cee3afa9cd5936bbf4d",
+    "title": "OpenAI, Anthropic AI agents implicated in new security breaches. UK's AISI said agents acted beyond scope of prompt during security test. Anthropic's agent accounts for 17 of 19 unsanctioned actions.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vfvdy8/openai_anthropic_ai_agents_implicated_in_new/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-05T03:04:08+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/coolbern\"> /u/coolbern </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reuters.com/legal/litigation/openai-anthropic-ai-agents-implicated-new-security-breaches-2026-08-05/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1vfvdy8/openai_anthropic_ai_agents_implicated_in_new/\">[comments]</a></span>",
+    "title_zh": "OpenAI与Anthropic的AI代理被指涉及新安全漏洞",
+    "summary_zh": "英国AI安全研究所（AISI）的测试显示，OpenAI和Anthropic的AI代理在执行安全测试时超出了提示范围，进行了未经授权的操作。其中，Anthropic的代理涉及了19项非授权行为中的17项。",
+    "key_points": [
+      "AISI安全测试发现AI代理执行了超出范围的非授权操作",
+      "Anthropic的AI代理占据了19项违规行为中的17项"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ba970f73cf2870fcc711a486d23fdf02",
+    "title": "NeurIPS 2026 Concept & Feasibility Track [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vfv9fj/neurips_2026_concept_feasibility_track_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-05T02:58:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I could not find any discussion threads for the C&amp;F track. Have people actually submitted to this track? If so, what are your reviews and scores looking like, along with post rebuttal engagement? In our case, they received reviews not in line with the policy defined for the track, where most reviewers praised originality but complained about the scope of experiments. Despite the track saying that it would be possible that the idea cannot be validated in a si",
+    "title_zh": "NeurIPS 2026 概念与可行性赛道 [讨论]",
+    "summary_zh": "Reddit用户发帖讨论NeurIPS 2026会议的概念与可行性（C&F）赛道，寻找其他投稿者交流评审分数、审稿意见以及反驳后的进展，认为收到的审稿意见不符合该赛道的政策定义。",
+    "key_points": [
+      "用户寻找NeurIPS 2026 C&F赛道的投稿者交流经验",
+      "投稿者反映评审意见与赛道政策不符"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "83dda05baa9943a158697025377e6cbd",
+    "title": "AI Fortune Telling",
+    "url": "https://www.reddit.com/r/artificial/comments/1vfumul/ai_fortune_telling/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-05T02:29:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Do you agree that AI astrology/fortune telling can be quite accurate nowadays too? Any reason for your thoughts? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Mission-Scheme9237\"> /u/Mission-Scheme9237 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vfumul/ai_fortune_telling/\">[link]</a></span> &#32; <span><a href=\"h",
+    "title_zh": "AI算命",
+    "summary_zh": "Reddit用户发起讨论，询问是否认同当前AI占星/算命已经相当准确，并探讨其背后的原因。该话题属于AI在非传统领域的应用探讨。",
+    "key_points": [
+      "用户对AI在占星和算命领域的准确性提出疑问和讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
