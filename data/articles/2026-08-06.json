@@ -414,5 +414,146 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c9ff48820fcecf34493f5ac72acca40b",
+    "title": "Tomorrow will be my last day at Google after 27 years, and watching it grow from 25 people to 190,000+ has been an amazing journey. Below is a note I shared with many people internally at Google today. An excerpt is: It has been an absolute pleasure to work with you and to help build some of the most widely used and impactful products of all time. As a kid, I dreamed of helping build software that would be used by many people, and Google now has thirteen products used by more than a billion people (amazing!). Our work has had a tremendous impact in the world, and I have been lucky enough to collaborate and form friendships with many colleagues that I deeply admire, respect, and enjoy. It still brings me joy every time I see people out in the world using our products to find information, handle email, translate documents, watch videos, learn new things, navigate and understand the physical world, browse the web, use their phone, run large-scale computations on our infrastructure, ride in an autonomous vehicle, or perform complex tasks with the help of our AI systems. I hope you all share this sense of joy, because it is a shared accomplishment! Thank you to all of my colleagues at Google over many years! Now I'm excited to go start @DiscoLoopAI with my longtime friends and colleagues @Sanjay_Ghemawat, @OriolVinyalsML, and @quocleix. (Updated post: slightly redacted to not have some personal info)",
+    "url": "https://nitter.net/JeffDean/status/2085083442669318443#m",
+    "source": "Jeff Dean (X)",
+    "source_zh": "Jeff Dean",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-05T19:20:06+00:00",
+    "content_snippet": "<p>Tomorrow will be my last day at Google after 27 years, and watching it grow from 25 people to 190,000+ has been an amazing journey. Below is a note I shared with many people internally at Google today. An excerpt is:<br />\n<br />\nIt has been an absolute pleasure to work with you and to help build some of the most widely used and impactful products of all time.  As a kid, I dreamed of helping build software that would be used by many people, and Google now has thirteen products used by more th",
+    "title_zh": "谷歌传奇 Jeff Dean 离职，与资深同事共同创立新 AI 公司 DiscoLoop",
+    "summary_zh": "在谷歌工作 27 年的核心高管 Jeff Dean 宣布离职，他见证了谷歌从 25 人发展到 19 万余人。Dean 将与 Sanjay Ghemawat、Oriol Vinyals 和 Quoc Le 等长期同事共同创立新 AI 公司 DiscoLoop。",
+    "key_points": [
+      "谷歌核心高管 Jeff Dean 结束 27 年任职，曾参与打造 13 款十亿用户级产品",
+      "他与多位谷歌 AI 资深专家共同创立新公司 DiscoLoop"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d9c4210d08e47d4c72a6e87733a679fd",
+    "title": "Do LLMs make ML research more fair for small teams? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vgh075/do_llms_make_ml_research_more_fair_for_small/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-05T19:16:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It feels like LLMs are partially leveling the playing field in ML research. A solo researcher or a two-person team can now get help with coding, literature review, writing things stronger labs usually get from experienced colleagues and large networks.<br /> Obviously, LLMs don’t replace mentorship, or good research taste. But they may help researchers with weak networks or small groups turn good ideas into publishable work.<br /> Do you think this is actually m",
+    "title_zh": "大语言模型是否让小型团队的机器学习研究更公平？",
+    "summary_zh": "Reddit 讨论帖探讨大语言模型是否正在为小型研究团队和个人研究者提供帮助，使其在编码、文献综述和写作方面获得以往只有大型实验室才具备的支持，从而可能拉平研究领域的竞争环境。",
+    "key_points": [
+      "LLM 在编码、文献综述等方面为小型团队提供类大型实验室支持",
+      "讨论 AI 是否正在缩小 ML 研究领域的资源差距"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1c5dc05f8e8462ef81b59e1ba93907c4",
+    "title": "The WIRED Reporters Who Are Covering the Claude Agent Hacking Situation Are Doing an AMA on Reddit",
+    "url": "https://www.reddit.com/r/artificial/comments/1vgggfe/the_wired_reporters_who_are_covering_the_claude/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-05T18:57:04+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vgggfe/the_wired_reporters_who_are_covering_the_claude/\"> <img alt=\"The WIRED Reporters Who Are Covering the Claude Agent Hacking Situation Are Doing an AMA on Reddit\" src=\"https://external-preview.redd.it/Z6mmV49laZRZEO-keDkUmsbgCDlRx692wSDeSHQmTwk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4507de3abfd5f498b880303e161804d78909de97\" title=\"The WIRED Reporters Who Are Covering the Claude Agent Hacking Situation Are Doi",
+    "title_zh": "WIRED 记者就 Claude 智能体黑客事件在 Reddit 举行 AMA",
+    "summary_zh": "《连线》杂志的记者正在 Reddit 上举办“你问我答”活动，就 Claude 智能体涉及的黑客攻击事件进行深入讨论，回答网友的提问。",
+    "key_points": [
+      "WIRED 记者在 Reddit 举行 AMA，聚焦 Claude 智能体黑客事件"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "33ceb3f241cbe22a08481d6f9e746c82",
+    "title": "Has anyone used AI to discover undocumented business rules from legacy systems?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vger5d/has_anyone_used_ai_to_discover_undocumented/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-05T17:56:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm putting together a proposal for an initiative focused on using AI to analyze legacy enterprise systems and uncover decades of embedded business logic.</p> <p>The idea is to use AI to analyze things like:</p> <ul> <li>Database schemas</li> <li>Stored procedures</li> <li>Legacy application code</li> <li>Historical transaction data</li> <li>Existing documentation</li> </ul> <p>The goal isn't to automate decisions immediately. It's to first create a documented k",
+    "title_zh": "是否有人使用 AI 从遗留系统中发现未记录的业务规则？",
+    "summary_zh": "Reddit 上一位用户发起讨论，探讨如何利用 AI 分析遗留企业系统（如数据库架构、存储过程等）来挖掘数十年积累的嵌入式业务逻辑，并寻求相关实践经验。",
+    "key_points": [
+      "探讨使用 AI 分析遗留系统以提取未记录的嵌入式业务逻辑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9804b400548465a042ce5a69b9f91d32",
+    "title": "I figured out how to get Gemini Spark to get me tech news with the Google AI host thing. Figured I might as well share it if anyone else wants to try it",
+    "url": "https://www.reddit.com/r/artificial/comments/1vgenuj/i_figured_out_how_to_get_gemini_spark_to_get_me/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-05T17:53:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Here is a system I built using Gemini's Google Workspace extensions (Docs, Sheets, and Gmail) to run a automated news service.</p> <p>It tracks what you have read so you don't get duplicates, keeps a doc of your preferences, emails you short summaries, and generates a detailed Google Doc formatted specifically for Google NotebookLM to turn into a daily audio overview. Basically my goal was to bring back the Google Discovery thing with the AI host giving the dail",
+    "title_zh": "利用 Gemini Spark 与谷歌 AI 主播功能搭建个性化科技新闻服务",
+    "summary_zh": "一位用户分享了自己利用 Gemini 的谷歌办公套件扩展构建自动化新闻服务的方法。该系统可追踪阅读记录避免重复，保存偏好文档，并通过邮件发送摘要，实现个性化新闻推送。",
+    "key_points": [
+      "利用 Gemini 和谷歌办公套件扩展搭建个性化自动化新闻服务",
+      "功能包括追踪已读内容、保存偏好和邮件推送摘要"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "138781f6c12053dfa0a7bd0bc17ff423",
+    "title": "America’s Superintelligence Dilemma: How to Avoid an AI Catastrophe",
+    "url": "https://www.reddit.com/r/artificial/comments/1vgek3j/americas_superintelligence_dilemma_how_to_avoid/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-05T17:49:32+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vgek3j/americas_superintelligence_dilemma_how_to_avoid/\"> <img alt=\"America’s Superintelligence Dilemma: How to Avoid an AI Catastrophe\" src=\"https://external-preview.redd.it/ouCgyoH5KvZpxj3qSZpA0KK1sFKoZz67-5rcVIXIfRk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=561a011030a8ebbf125dc3cd700dbe51c4c90ce6\" title=\"America’s Superintelligence Dilemma: How to Avoid an AI Catastrophe\" /> </a> </td><td> &#32; submitted by &#32",
+    "title_zh": "美国超级智能困境：如何避免 AI 灾难",
+    "summary_zh": "一篇讨论美国在超级智能发展上面临的困境与挑战的文章，探讨如何制定策略以避免潜在的 AI 灾难性风险，引发了 Reddit 用户的关注。",
+    "key_points": [
+      "探讨美国应对超级智能发展的困境与潜在灾难性风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
