@@ -726,5 +726,82 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "686f69cb018d4a29f102af019874f11c",
+    "title": "Started noticing my team argues less with AI code review findings than they would with a human's, even when they shouldn't",
+    "url": "https://www.reddit.com/r/artificial/comments/1vgmqhz/started_noticing_my_team_argues_less_with_ai_code/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-05T22:52:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Not a research post, just something I've been chewing on after watching this happen a few times now. When a human reviewer leaves a comment saying &quot;this looks like a bug,&quot; people push back, ask questions, sometimes just disagree outright. When an AI leaves the exact same comment, phrased almost identically, people tend to just fix it. Same words, different reaction.</p> <p>Took me a while to figure out why that bothered me. It's not that the AI is wron",
+    "title_zh": "团队对AI代码审查的反馈抗拒小于人类，即使这未必合理",
+    "summary_zh": "文章讨论了团队在代码审查中的行为差异：面对AI提出的审查意见，开发者倾向于直接接受，即便这些意见可能存在错误；而面对人类同事的相同质疑，开发者则更常反驳、询问或直接不同意，引发了对盲目信任AI代码审查的反思。",
+    "key_points": [
+      "开发者对AI代码审查意见的接受度高于人类同事",
+      "这种低抗拒倾向可能导致团队盲目接受错误的AI建议",
+      "现象引发了对AI代码审查工具信任度的行业讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f827500d6571f6ac2caec177ee0ec310",
+    "title": "Claude Pro vs GPT Plus",
+    "url": "https://www.reddit.com/r/artificial/comments/1vgl83e/claude_pro_vs_gpt_plus/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-05T21:52:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A few months ago me and my roommate decided to buy Claude Max 5x to see how much we use it. We never went past 35% weekly usage combined. We both used it for coding. Yesterday he told me he didn't need it anymore and I decided to subscribe on my own, but I've been thinking which plan is better, Claude Pro or GPT Plus. FYI I've never used Fable 5. Opus 4.8 (and 5 for the last week) was enough for me except the constant &quot;Cybersecurity Flag&quot;. Claude start",
+    "title_zh": "Claude Pro 与 GPT Plus 对比：实际使用体验分享",
+    "summary_zh": "用户分享了与室友共同订阅并最终放弃Claude Max服务的经历，并根据个人编码需求，在Claude Pro和GPT Plus两大付费订阅方案之间进行对比和选择，探讨了哪个更适合个人编程使用。",
+    "key_points": [
+      "用户因使用率低放弃Claude Max，转而考虑个人订阅",
+      "对比Claude Pro与GPT Plus在编码场景下的实用价值",
+      "讨论不同AI订阅方案对个人开发者的成本效益"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f4b59bdfc21bfca7febe9386b880e4b0",
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-05T21:21:28+00:00",
+    "content_snippet": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+    "title_zh": "Meta 发布 Muse Code：面向大型代码库的 AI 代理",
+    "summary_zh": "Meta 宣布推出新的 AI 编程产品 Muse Code，这是一个专门为处理大型软件代码库中的复杂任务而设计的 AI 代理，扩展了其在 AI 编程辅助领域的布局。",
+    "key_points": [
+      "Meta 发布 Muse Code，专为处理大型代码库任务设计",
+      "该 AI 代理旨在解决复杂软件工程中的代码编写与维护问题",
+      "此举进一步扩展了 Meta 在 AI 辅助编程领域的产品矩阵"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
