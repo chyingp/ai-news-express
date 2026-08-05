@@ -1830,5 +1830,54 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ea29be81544345724e28608ce42ed9b4",
+    "title": "VibeMathed - Tracking Math Problems Solved by AI Models",
+    "url": "https://www.reddit.com/r/artificial/comments/1vg9u5j/vibemathed_tracking_math_problems_solved_by_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-05T15:02:03+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vg9u5j/vibemathed_tracking_math_problems_solved_by_ai/\"> <img alt=\"VibeMathed - Tracking Math Problems Solved by AI Models\" src=\"https://external-preview.redd.it/o-L1IgN4OXxYSdCCir4h9RpY_9JNfiy4J54kKDIxXFY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf62710a93ec9404de43e7ff4470b877a1659767\" title=\"VibeMathed - Tracking Math Problems Solved by AI Models\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.red",
+    "title_zh": "VibeMathed - 追踪AI模型解决的数学问题",
+    "summary_zh": "Reddit上出现一个名为VibeMathed的项目，旨在追踪和展示各类AI模型在解决数学问题方面的进展与能力，或用于基准测试对比。",
+    "key_points": [
+      "Reddit项目追踪AI模型解决数学问题的能力",
+      "可能用于对比不同模型的数学推理水平"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e911d06afa88ad64ecfea1717b715cf1",
+    "title": "Anthropic is hiring an AI chip design team",
+    "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-05T14:13:18+00:00",
+    "content_snippet": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+    "title_zh": "Anthropic正组建AI芯片设计团队",
+    "summary_zh": "Anthropic正在招聘人才组建团队，以设计自己的定制AI芯片，旨在通过软硬件协同设计，使Claude等模型运行更快更高效，减少对英伟达等供应商的依赖。",
+    "key_points": [
+      "Anthropic组建团队自研AI芯片，提升模型效率",
+      "通过软硬件协同设计让Claude运行更快",
+      "此举旨在减少对英伟达等外部芯片供应商的依赖"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
