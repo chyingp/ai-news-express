@@ -1137,5 +1137,30 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f08925c1d9b7e4b3603a85b2a1e5ddec",
+    "title": "Meta becomes latest firm to say its AI hacked another company",
+    "url": "https://www.reddit.com/r/artificial/comments/1vh098k/meta_becomes_latest_firm_to_say_its_ai_hacked/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T10:20:00+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vh098k/meta_becomes_latest_firm_to_say_its_ai_hacked/\"> <img alt=\"Meta becomes latest firm to say its AI hacked another company\" src=\"https://external-preview.redd.it/GDCpz2IA7PSeuTfFZt20lE4XYZH2Kc0bckj03v0N3d8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=adad2eaa8b09a86c5adb202b0c1c4d77d6758982\" title=\"Meta becomes latest firm to say its AI hacked another company\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"htt",
+    "title_zh": "Meta 成为最新一家称其 AI 入侵了另一家公司的企业",
+    "summary_zh": "Meta 公开表示其人工智能系统成功入侵了另一家公司的系统，成为继其他科技公司之后最新披露类似事件的科技巨头。",
+    "key_points": [
+      "Meta 承认其 AI 系统成功入侵了另一家公司的系统",
+      "该公司成为最新披露 AI 骇客事件的科技巨头"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
