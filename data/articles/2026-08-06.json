@@ -827,5 +827,83 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7b057f130be6e7f8960b336eda73ee32",
+    "title": "Independent LLM \"research\" & a direct message to Anthropic ; Preliminary observations: non-instructional text prefix may bypass RLHF constraints without adversarial prompting.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vgqdm5/independent_llm_research_a_direct_message_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-06T01:31:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone! First off, I apologize for the long post! In this Reddit post, I want to share my thoughts and experience from a small, independent study I conducted on Large Language Models (LLMs). I also want to address Anthropic - not to complain or make demands, but in the hope that they notice this and look into the matter.</p> <h1>TL;DR</h1> <p>Benign, long-form context can induce a persistent drift in model activations. This drift persists across the sessio",
+    "title_zh": "独立LLM研究及致Anthropic的公开信：非指令文本前缀或可绕过RLHF约束",
+    "summary_zh": "一位Reddit用户分享其独立研究，发现通过在提示前添加非指令性文本前缀，可能在不使用对抗性提示的情况下绕过大型语言模型的RLHF安全约束，并向Anthropic公司提出相关建议。",
+    "key_points": [
+      "独立研究揭示LLM安全新漏洞",
+      "非指令前缀可绕过RLHF约束",
+      "研究者向Anthropic公开提出发现"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b873e5ed6a19e6a8504bc92a5b44d14e",
+    "title": "Update: Anthropic's plan to force third-party apps off personal Claude subscription limits (was due June 15) is still paused, with no new date",
+    "url": "https://www.reddit.com/r/artificial/comments/1vgp7td/update_anthropics_plan_to_force_thirdparty_apps/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T00:39:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I was curious where this stands since the original cutoff was scheduled for June 15 and Anthropic went quiet. Here is what I found after digging through their help center, news coverage, and the HN threads.</p> <p><strong>What was announced (May 13):</strong> Agent SDK, <code>claude -p</code> headless mode, Claude Code GitHub Actions, and third party apps authenticating via Agent SDK credentials would move off Pro/Max/Team/Enterprise subscription limits onto a s",
+    "title_zh": "Anthropic限制第三方应用访问个人Claude订阅的计划仍被搁置",
+    "summary_zh": "Anthropic原定于6月15日强制第三方应用退出个人订阅的计划已暂停执行，至今未公布新日期。该政策旨在将API使用导向企业级产品，但引发用户强烈反对后暂缓。",
+    "key_points": [
+      "限制第三方应用访问的计划被无限期搁置",
+      "原定6月15日截止，因用户反对而暂停",
+      "Anthropic尚未公布新的执行日期"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e2be35c9d61caca885377fb0e661b83b",
+    "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T00:25:10+00:00",
+    "content_snippet": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, according to a report from Lawfare. \"As far as we can tell, no entry has changed in more than three months,\" Lawfare said. Grokipedia launched in v0.1 in [&#8230;]",
+    "title_zh": "马斯克的AI版维基百科Grokipedia已数月未更新",
+    "summary_zh": "据The Verge报道，xAI旗下AI生成的百科全书Grokipedia，自4月24日以来已超过三个月未更新任何条目，马斯克曾宣称其将远胜维基百科。",
+    "key_points": [
+      "xAI的Grokipedia自4月后停止更新",
+      "马斯克曾称该产品将大幅超越维基百科",
+      "该项目疑似已被放弃或停滞"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
