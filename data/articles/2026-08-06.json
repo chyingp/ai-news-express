@@ -1509,5 +1509,172 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c73ffcd8d928bf4e11571f0961c69902",
+    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+    "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T15:10:32+00:00",
+    "content_snippet": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly stolen information was properly protected.",
+    "title_zh": "OpenAI反诉苹果：自身安全措施不完善，削弱其商业机密案立场",
+    "summary_zh": "OpenAI在苹果商业机密诉讼中提交新证据，辩称苹果自身的安全和离职管理存在漏洞，包括允许经理访问前员工iCloud账户，从而削弱了苹果的指控。",
+    "key_points": [
+      "OpenAI以苹果安全漏洞为由反击商业机密诉讼",
+      "焦点在于苹果经理访问离职工程师iCloud账户",
+      "此举旨在削弱苹果的法律主张"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ea121f25d18711cebc04f6c1fe7a5f34",
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-06T15:06:15+00:00",
+    "content_snippet": "",
+    "title_zh": "谷歌DeepMind发布WeatherNext：AI模型在气旋预报上取得突破",
+    "summary_zh": "谷歌DeepMind推出WeatherNext模型，在热带气旋预报方面实现重大突破，有望提升灾害预警的准确性和时效性。",
+    "key_points": [
+      "WeatherNext模型专注于提升热带气旋预报能力",
+      "该模型代表了AI在气象预测领域的重要进展"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8726943c3362f75c2a8857e03ab5ab86",
+    "title": "Making my first AI Agent",
+    "url": "https://www.reddit.com/r/artificial/comments/1vh6o7o/making_my_first_ai_agent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-06T14:59:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I work for a motorsports company where we run physics simulations for race cars. Our expertise is in physics not AI but we know the power of AI. Our platform is quite complex in terms of physics so we would love an agent that can query our docs, query some vehicle dynamics textbooks, run simulations (pretty simple tool through our AI) and then analyse the results. The result files can be largeish so may need some python processing and access ",
+    "title_zh": "打造我的第一个AI智能体",
+    "summary_zh": "一名赛车运动公司员工发帖寻求建议，希望构建一个AI智能体，用于查询公司复杂的物理仿真平台文档。",
+    "key_points": [
+      "用户寻求构建AI智能体以查询物理仿真文档",
+      "帖子反映了非AI领域专业人士对AI应用的需求"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e2340817b63ae0bb41f1484a6754e6b6",
+    "title": "They Were Quoted $75–100M for a Satellite. They Built It for $2M — Because They Stopped Waiting to Be Sure.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vh6dqz/they_were_quoted_75100m_for_a_satellite_they/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T14:48:58+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vh6dqz/they_were_quoted_75100m_for_a_satellite_they/\"> <img alt=\"They Were Quoted $75–100M for a Satellite. They Built It for $2M — Because They Stopped Waiting to Be Sure.\" src=\"https://external-preview.redd.it/eTdrYTNiNmVwcmhoMRK3Gr6vlMmISGXTVtqZClUHK9PrH0KGzejvYP0IMFOo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a3d4e4e9d74344eb516223db4eca164c31b02e4\" title=\"They Were Quoted $75–100M for a Satellite. They Built It ",
+    "title_zh": "卫星制造从1亿美元降至200万美元：不再等待确定性的故事",
+    "summary_zh": "一家公司通过改变策略，将卫星制造成本从7500万至1亿美元的报价大幅削减至200万美元，核心在于放弃等待完美方案，快速迭代。",
+    "key_points": [
+      "通过快速迭代和停止追求确定性，大幅降低卫星制造成本",
+      "成本从近1亿美元降至200万美元，体现了创新工程思维"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cdf92eb1872684e6327c81b7c8015648",
+    "title": "This is the coolest thing I've seen AI used for",
+    "url": "https://www.reddit.com/r/artificial/comments/1vh5lac/this_is_the_coolest_thing_ive_seen_ai_used_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T14:19:17+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vh5lac/this_is_the_coolest_thing_ive_seen_ai_used_for/\"> <img alt=\"This is the coolest thing I've seen AI used for\" src=\"https://external-preview.redd.it/NmRvY3EycGhpcmhoMXJZw2Kh7xT4RQYdxSQxXKZ-7-I3zkc3i_lmpEat4lUb.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aaa9a0e11cc2f00cf8813dc34343dab082b2b39b\" title=\"This is the coolest thing I've seen AI used for\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Taken from the",
+    "title_zh": "这是我所见过AI最酷的应用",
+    "summary_zh": "Reddit用户分享一个令人印象深刻的AI应用案例，具体内容未详述，但发帖者认为其展现了AI技术的精彩潜力。",
+    "key_points": [
+      "用户分享了一个令人惊叹的AI应用实例",
+      "内容未披露，但被评价为所见过最酷的AI用途"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "03c0d1f5236799ebc2c8bfcf7307545d",
+    "title": "The left and right agree on one thing: no data centers",
+    "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T14:00:00+00:00",
+    "content_snippet": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.&#160; Gaby recently reported a fantastic piece about Hernando County, Florida, where last month the county commission unanimously approved a yearlong moratorium on data center construction. She attended a protest there organized by a [&#8230;]",
+    "title_zh": "美国左右两派罕见达成共识：反对新建数据中心",
+    "summary_zh": "报道指出，美国政治左右两派愈发一致地反对新建AI数据中心，佛罗里达州埃尔南多县已通过暂停建设数据中心的决议，反映出对能源消耗、环境影响的担忧。",
+    "key_points": [
+      "美国左右两派共同反对AI数据中心建设",
+      "反对声浪源于对能源消耗和环境影响的担忧",
+      "佛罗里达某县已通过为期一年的数据中心建设禁令"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5951f31359592dfec42333773aa75e55",
+    "title": "What am I doing wrong???",
+    "url": "https://www.reddit.com/r/artificial/comments/1vh4x27/what_am_i_doing_wrong/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T13:54:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I just keep getting disappointed by AI tools and I don't know if it is my not using the right ones or if they are just that bad. For example, I try to do something super simple, like take a photo of work order and tell AI to recreate it as a fully editable Adobe InDesign file and I can't get it to do it. I am not asking it to cure all disease or cure aging, just simple basic things and it always fails or heavily disappoints, yet people are raving about it consta",
+    "title_zh": "我哪里做错了？",
+    "summary_zh": "一名Reddit用户抱怨AI工具令人失望，例如尝试用AI将工单照片重建成可编辑的Adobe InDesign文件时遭遇失败，质疑是否是自己使用不当或工具本身太差。",
+    "key_points": [
+      "用户因AI工具无法完成简单任务而感到失望",
+      "具体案例为将工单照片转为可编辑设计文件失败"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
