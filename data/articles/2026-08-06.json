@@ -905,5 +905,51 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d86a25873763389b0ee756c5c2e28b2e",
+    "title": "Autobuilder",
+    "url": "https://www.reddit.com/r/artificial/comments/1vgs69q/autobuilder/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-06T02:54:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello fellow humans,</p> <p>During the recent months/years I became quite entangled with the idea of building an AI-assisted system which can self-replicate and improve itself. Although I am not there yet, I think, that the project reached actually a potential to get the work done with more minds involved. I am not really into gaining anything for myself, except for the progress of de-shittification. At this point, we reached a race where data centers in the clo",
+    "title_zh": "Autobuilder：构建自我复制与改进的AI辅助系统",
+    "summary_zh": "一位Reddit用户分享其正在开发一款名为Autobuilder的AI辅助系统，该系统旨在实现自我复制和自我改进，并已展现出一定潜力。",
+    "key_points": [
+      "开发者尝试构建能够自我复制和改进的AI系统",
+      "项目名为Autobuilder，已具备一定潜力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f098c523eaf52e4e88e02234dd82330c",
+    "title": "Building an AI-assisted video workflow for an event production project — looking for technical approaches",
+    "url": "https://www.reddit.com/r/artificial/comments/1vgrp3w/building_an_aiassisted_video_workflow_for_an/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-06T02:32:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!<br /> I’m currently working on a project called <strong>SAC</strong>, a small event production company based in Brazil. We’re developing the creative and digital side of the business, and we’re experimenting with ways to make our content production more scalable without turning everything into a completely manual process.<br /> One of the challenges we’re facing is video production.<br /> After each event, we can end up with a large amount of raw f",
+    "title_zh": "为活动制作项目构建AI辅助视频工作流的技术探讨",
+    "summary_zh": "巴西一家小型活动制作公司SAC正在探索利用AI技术优化其内容生产流程，发帖寻求实现AI辅助视频工作流的技术方法。",
+    "key_points": [
+      "巴西活动制作公司SAC寻求AI辅助视频制作方案",
+      "目标是使内容生产更高效、更具创意"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
