@@ -951,5 +951,191 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "245401b05af48fbd51dcb2f962b04805",
+    "title": "What's the biggest technical bottleneck preventing AI agents from being deployed reliably in production?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vgx13m/whats_the_biggest_technical_bottleneck_preventing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-06T07:10:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We've reached a point where LLMs are capable enough to power many agentic workflows, yet relatively few AI agents make it into stable, long-term production.</p> <p>In your experience, what's been the hardest engineering challenge to solve?</p> <ul> <li>Tool reliability?</li> <li>Long-term memory?</li> <li>Planning and reasoning?</li> <li>Context management?</li> <li>Evaluation and benchmarking?</li> <li>Authentication and permissions?</li> <li>Multi-agent orches",
+    "title_zh": "AI代理在生产中可靠部署的最大技术瓶颈是什么？",
+    "summary_zh": "Reddit社区讨论为何大语言模型虽能力强大，但AI代理仍难以实现稳定长期的生产部署，探讨工具可靠性等核心工程挑战。",
+    "key_points": [
+      "LLM能力足够但AI代理仍难稳定部署",
+      "社区探讨工具可靠性与工程化挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1937baf7ed58e789816607fb43126004",
+    "title": "ByteDance is leaning heavily into AI education with Gauth — helpful tutoring or just another shortcut machine? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vgwza5/bytedance_is_leaning_heavily_into_ai_education/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T07:07:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Saw an article about ByteDance scaling up Gauth using AI-generated animations to walk students through problem-solving.</p> <p>On paper, personalized visual explanations sound great for democratizing tutoring. But in practice, I wonder if tools like this actually help kids grasp core concepts, or if they just create an &quot;illusion of competence&quot; where students confuse watching a slick animation with actually learning.</p> <p>For those working in EdTech o",
+    "title_zh": "字节跳动借Gauth进军AI教育：是辅导利器还是捷径机器？",
+    "summary_zh": "讨论字节跳动通过AI生成动画讲解数学题的Gauth应用扩展AI教育业务，引发对工具是否真正促进学习还是沦为抄作业捷径的争议。",
+    "key_points": [
+      "字节跳动利用AI动画讲解扩展Gauth教育应用",
+      "引发AI工具是辅助学习还是助长依赖的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "bytedance"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "22f8fbc23c7300451c9c00cecf484a37",
+    "title": "What are the biggest challenges in collecting high-quality speech and egocentric video datasets? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vgwecq/what_are_the_biggest_challenges_in_collecting/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-06T06:35:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We're currently involved in collecting two types of datasets that seem to be increasingly important for multimodal AI</p> <ul> <li>Studio quality speech/audio datasets (high fidelity recordings)</li> <li>Egocentric household activity video datasets (first person daily task recordings)</li> </ul> <p>One thing that has surprised us is how much the value of a dataset depends on the collection process rather than the model itself.</p> <p>Some of the recurring challe",
+    "title_zh": "收集高质量语音和第一视角视频数据集的最大挑战是什么？",
+    "summary_zh": "Reddit讨论收集工作室级语音数据和第一人称家庭活动视频数据集的挑战，这些数据对多模态AI日益重要，但质量和隐私是主要难题。",
+    "key_points": [
+      "高质量语音和第一视角视频数据对多模态AI重要",
+      "收集过程面临质量控制和隐私保护等挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "599b842bf285b46d8f9866791930791f",
+    "title": "I built a $0 AI news agent that reads 7 RSS feeds, dedupes, summarizes, and publishes a daily digest here's what surprised me",
+    "url": "https://www.reddit.com/r/artificial/comments/1vgvzba/i_built_a_0_ai_news_agent_that_reads_7_rss_feeds/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-06T06:11:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I got tired of doomscrolling 7 different AI news sources every morning, so I built an agent that does it for me for exactly $0/month.</p> <p>The pipeline:<br /> - 7 RSS feeds (Hacker News, Google AI blog, Hugging Face, Lobsters, The Hacker News, Open Source blog) → a Python script on a free-tier server<br /> - Dedup the same story hits 5 feeds; it picks the best source and drops the rest<br /> - An LLM writes 2-3 sentence summaries of the stories that actually m",
+    "title_zh": "我构建了一个零成本的AI新闻代理，自动抓取摘要并发布每日摘要",
+    "summary_zh": "开发者分享其构建的零成本AI新闻代理，通过读取7个RSS源，进行去重、摘要并生成每日摘要，展示了AI自动化个人工作流的实际应用。",
+    "key_points": [
+      "零成本AI代理自动抓取7个RSS源并生成每日摘要",
+      "展示了AI自动化个人新闻消费工作流的实践"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c2a0c5d60d8b6ef94e15161f18ceadd6",
+    "title": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
+    "url": "https://www.qbitai.com/2026/08/467262.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-06T05:29:40+00:00",
+    "content_snippet": "",
+    "title_zh": "超级算力枢纽远景乌兰察布星河基地投产，全球最大AI算力超级单体落地",
+    "summary_zh": "远景科技集团在乌兰察布的星河基地投产，宣称是全球最大的AI算力超级单体，标志着中国在AI基础设施领域的重大布局。",
+    "key_points": [
+      "全球最大AI算力超级单体在乌兰察布投产",
+      "远景科技集团布局超级算力，强化AI基础设施"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a6f52738410622fe27fce6ad8ee0e657",
+    "title": "I was tired of paying for 5 separate AI subscriptions, so I spent 2 months building Fius — a unified AI model aggregator tool",
+    "url": "https://www.reddit.com/r/artificial/comments/1vgui3n/i_was_tired_of_paying_for_5_separate_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T04:51:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I’m a solo developer, and I built Fius because managing subscription fragmentation and API chaos was completely ruining my development velocity. </p> <p>As software engineers, we often find ourselves trapped in an inefficient workflow: constantly switching web tabs, copy-pasting complex prompts, and juggling individual API keys for OpenAI, DeepSeek, and other providers just to get the best coding results. </p> <p>Fius resolves this friction. ",
+    "title_zh": "受够了5个AI订阅，我花了2个月构建了统一AI模型聚合工具Fius",
+    "summary_zh": "独立开发者因厌倦管理多个AI订阅和API的混乱，开发了聚合工具Fius，旨在统一访问多种AI模型，提升开发效率。",
+    "key_points": [
+      "开发者构建Fius以解决多AI订阅和API管理碎片化问题",
+      "工具旨在统一访问多种AI模型，提升开发效率"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aaae672cc9fb09ffa50ec5147604ec5e",
+    "title": "The loneliness data around AI companions",
+    "url": "https://www.reddit.com/r/artificial/comments/1vgu9pz/the_loneliness_data_around_ai_companions/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T04:38:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I was reading an article today and it said over 40 million people now use some kind of AI companion or emotional support app every month. apparently a study found these apps help with loneliness about as well as talking to an actual person does, at least in the short term.</p> <p>But the thing is that heavy daily use is linked to more isolation the longer people use it. So it kind of works like a painkiller that quietly weakens the thing it's supposed to be fixi",
+    "title_zh": "AI伴侣的孤独数据：超过4000万用户寻求情感支持",
+    "summary_zh": "文章探讨AI伴侣应用的流行，援引数据称每月有超4000万人使用，研究显示其在短期内缓解孤独感的效果接近真人交流。",
+    "key_points": [
+      "每月超4000万人使用AI伴侣或情感支持应用",
+      "研究表明AI伴侣短期缓解孤独感效果接近真人"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f40180b30583678196ec9d0bc4c5b688",
+    "title": "Observations: non-instructional text prefix may bypass RLHF constraints without adversarial prompting? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vgty78/observations_noninstructional_text_prefix_may/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-06T04:21:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been running informal experiments on RLHF-aligned LLMs and consistently observing something I can't fully explain. Posting here to get feedback and find out if this is a known phenomenon or if my methodology is flawed.</p> <p><strong>The observation</strong></p> <p>Inserting a long, thematically coherent but non-instructional text prefix before a user query appears to shift model behavior in a persistent way — reducing refusal rates, changing response tone,",
+    "title_zh": "观察：非指令性文本前缀或可绕过RLHF约束而无须对抗性提示？",
+    "summary_zh": "研究者在Reddit分享非正式实验观察，发现通过在提示前添加非指令性文本前缀，可能在不使用对抗性提示的情况下绕过RLHF对齐模型的约束。",
+    "key_points": [
+      "非指令性文本前缀可能绕过RLHF对齐模型约束",
+      "该发现为无需对抗性提示的越狱方法提供新线索"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
