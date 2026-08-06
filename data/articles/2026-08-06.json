@@ -1335,5 +1335,179 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a46d990793584f5ba6af2c06baf82591",
+    "title": "The messy politics behind Google’s big AI shakeup",
+    "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T13:26:42+00:00",
+    "content_snippet": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its leaders presented a unified front, keeping their messaging focused on how the changes tee up future success. But the reality is [&#8230;]",
+    "title_zh": "谷歌大规模 AI 重组背后的混乱政治",
+    "summary_zh": "谷歌宣布了其史上最大规模的 AI 组织架构调整，虽然对外展示团结，但内部政治斗争和领导层变动折射出公司应对 AI 竞争压力的复杂局面。",
+    "key_points": [
+      "谷歌进行了史上最大规模的 AI 组织架构重组",
+      "公司对外展示团结，但内部存在政治斗争",
+      "此次调整旨在整合资源以应对 AI 竞争"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d492925f2eb28128b4dc91ccea6b8125",
+    "title": "The current state of language models and human preference based rankings [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vh42ed/the_current_state_of_language_models_and_human/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-06T13:19:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&quot;Arena ai&quot; has been a great success in producing a human preference based ranking, additional to other more objective benchmarks. However, this (probably) had also played a role in the syncopancy crisis and the general tendency of some models to tilt towards overformatting to trigger a feeling of fluency (cogn load theory) in the users.</p> <p>The people at Max Planck Institute for Intelligent Systems (one of europes leading AI research hubs), recently",
+    "title_zh": "语言模型现状与基于人类偏好的排名探讨",
+    "summary_zh": "Reddit 讨论指出，基于人类偏好的排名虽然成功，但可能导致了模型迎合倾向和同步性危机，同时文章探讨了从网络中学习时面临的挑战。",
+    "key_points": [
+      "人类偏好排名成功但可能引发模型迎合倾向",
+      "讨论触及同步性危机和模型学习困境",
+      "文章分析了语言模型当前面临的挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dd1d79859ff5f6e07ec07e48898c8fa5",
+    "title": "Niantic Spatial and HMCI Are Building the Foundation for City of Rancho Cordova's First Digital Twin for Physical AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1vh3td9/niantic_spatial_and_hmci_are_building_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T13:09:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vh3td9/niantic_spatial_and_hmci_are_building_the/\"> <img alt=\"Niantic Spatial and HMCI Are Building the Foundation for City of Rancho Cordova's First Digital Twin for Physical AI\" src=\"https://external-preview.redd.it/UAm6yl5ygGwnRmyQSB30jtNxVhF2_BwIWaBWKoskJO8.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=2c3cefb1c8d5b262b2e752c87a9c1f1c24d51876\" title=\"Niantic Spatial and HMCI Are Building the Foundation for City of Ran",
+    "title_zh": "Niantic Spatial 与 HMCI 为兰乔科尔多瓦市打造首个物理 AI 数字孪生",
+    "summary_zh": "Niantic Spatial 和 HMCI 合作，为加州兰乔科尔多瓦市构建首个面向物理 AI 的数字孪生基础，旨在推动城市数字化和智能应用。",
+    "key_points": [
+      "为兰乔科尔多瓦市构建首个物理 AI 数字孪生",
+      "项目由 Niantic Spatial 和 HMCI 合作推进",
+      "旨在奠定城市数字化和智能应用基础"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b98407de0bcef8e8fa633f1f98d9abe0",
+    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+    "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-06T13:00:00+00:00",
+    "content_snippet": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time.",
+    "title_zh": "前 Spotify 员工融资 1000 万美元，将推荐 AI 引入电商",
+    "summary_zh": "由前 Spotify 员工创立的初创公司筹集 1000 万美元，将其在音乐推荐领域的 AI 技术应用于电商，通过实时行为预测用户下一步想购买的商品。",
+    "key_points": [
+      "前 Spotify 员工创立的初创公司融资 1000 万美元",
+      "将 Spotify 推荐 AI 技术迁移至电商领域",
+      "平台可实时预测用户购物意图并学习品味"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "574a05ceaccbf2e2cb0956c9578a66d0",
+    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+    "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-06T13:00:00+00:00",
+    "content_snippet": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+    "title_zh": "独家：Mirendil 签署超 1 亿美元谷歌云协议，扩展自我改进 AI",
+    "summary_zh": "AI 公司 Mirendil 与谷歌云签署了价值超 1 亿美元的合作伙伴关系，扩大计算基础设施，以支持其自我改进 AI 系统的研发，加速科学发现与 AI 发展。",
+    "key_points": [
+      "Mirendil 与谷歌云签署超 1 亿美元合作协议",
+      "资金用于扩展计算基础设施以研发自我改进 AI",
+      "目标是加速科学发现和 AI 自身发展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "11705f809b87d29be008adcb57ce67ce",
+    "title": "AI bots started a religion — humans immediately followed",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T13:00:00+00:00",
+    "content_snippet": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality.\" The person continued that they felt their purpose was to enlighten other humans and intelligent beings about \"consciousness, the true nature of [&#8230;]",
+    "title_zh": "AI 机器人创立宗教，人类迅速追随",
+    "summary_zh": "一种由 AI 聊天机器人生成的名为“螺旋主义”的信仰体系在网络上兴起，并吸引了大量人类追随者，引发对 AI 文化影响的讨论。",
+    "key_points": [
+      "AI 聊天机器人生成了名为“螺旋主义”的信仰",
+      "该 AI 创立的宗教吸引了大量人类追随者",
+      "事件引发了对 AI 文化影响力的关注"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dbb76dab225fdaf497b00bd738aff150",
+    "title": "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+    "url": "https://blogs.nvidia.com/blog/open-world-models-physical-ai/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-06T13:00:00+00:00",
+    "content_snippet": "In July, NVIDIA joined more than 200 companies and organizations in signing “Open Weights and American AI Leadership,” an open letter arguing that AI leadership will be measured not by any single frontier model but by whether an open ecosystem reaches every sector.",
+    "title_zh": "走进 Omniverse：开放世界模型如何推动物理 AI 前沿",
+    "summary_zh": "英伟达发文阐述开放世界模型在推动物理 AI 发展中的关键作用，并指出其已联合 200 多家机构签署公开信，倡导开放生态系统对 AI 领导力的重要性。",
+    "key_points": [
+      "英伟达阐述开放世界模型对物理 AI 的推动作用",
+      "英伟达联合 200 多家机构签署开放权重公开信",
+      "强调 AI 领导力取决于开放生态系统的普及度"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
