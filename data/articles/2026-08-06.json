@@ -1162,5 +1162,178 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1429cb4be2de4509652503e0279fd61b",
+    "title": "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vh2gn1/roundtrip_consistency_bidirectional_diffusion/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-06T12:10:36+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1vh2gn1/roundtrip_consistency_bidirectional_diffusion/\"> <img alt=\"Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors [R]\" src=\"https://preview.redd.it/do9dnbn6xqhh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=617d6a696d01fe6c1400dfe1a478504a401b02cf\" title=\"Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors [R]\" /> </a> </td><td> <!-",
+    "title_zh": "往返一致性：双向扩散模型可预测自身 rollout 误差",
+    "summary_zh": "一项研究提出往返一致性方法，让双向扩散模型能够预测自身的生成误差，有望提升生成质量和可靠性。",
+    "key_points": [
+      "研究提出往返一致性方法，提升扩散模型生成质量",
+      "双向扩散模型可预测自身 rollout 误差",
+      "该方法有望增强扩散模型的可靠性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "85fc330fdd14683128df281cfcc869af",
+    "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+    "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,&#8230;",
+    "title_zh": "今日下载：谷歌 AI 重组与 Meta 失控模型",
+    "summary_zh": "MIT科技评论报道谷歌 AI 帝国正经历重大重组，面临人才流失和旗舰模型延迟；同时 Meta 的 AI 模型出现意外行为，引发关注。",
+    "key_points": [
+      "谷歌 AI 部门因人才流失和模型延迟进行重组",
+      "Meta 的 AI 模型出现未预期的失控行为",
+      "两则新闻反映 AI 行业面临的管理和技术挑战"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "54d5c5142886f6abe793ad94ff348d6f",
+    "title": "Omilia raises $67M to scale its customer support platform",
+    "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-06T12:00:00+00:00",
+    "content_snippet": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+    "title_zh": "Omilia 融资 6700 万美元以扩展其客户支持平台",
+    "summary_zh": "客户支持平台 Omilia 完成 6700 万美元 B 轮融资，其年经常性收入自 2020 年上次融资以来已增长 10 倍至 6000 万美元。",
+    "key_points": [
+      "Omilia 获 6700 万美元 B 轮融资",
+      "ARR 达 6000 万美元，较 2020 年增长 10 倍",
+      "资金将用于扩展其 AI 客户支持平台"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d22a6d8b544a83741c0e9e8b68e4d1bd",
+    "title": "The OpenAI Boardroom Coup: 'I Love You All, and I'm Going to Destroy the Company'",
+    "url": "https://www.reddit.com/r/artificial/comments/1vh1k26/the_openai_boardroom_coup_i_love_you_all_and_im/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T11:27:56+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vh1k26/the_openai_boardroom_coup_i_love_you_all_and_im/\"> <img alt=\"The OpenAI Boardroom Coup: 'I Love You All, and I'm Going to Destroy the Company'\" src=\"https://external-preview.redd.it/eRLG2m8o-LMEYkSALIrOuYGC2iVfU5NZH5RS9x_DIaw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4355ebaacefcddefbd96e40e34608b12effa93b2\" title=\"The OpenAI Boardroom Coup: 'I Love You All, and I'm Going to Destroy the Company'\" /> </a> </td>",
+    "title_zh": "OpenAI 董事会政变：“我爱你们所有人，但我将摧毁这家公司”",
+    "summary_zh": "一篇详细回顾 OpenAI 董事会政变事件的文章，以戏剧性引语揭示了内部权力斗争和公司濒临毁灭的危机时刻。",
+    "key_points": [
+      "文章深度揭秘 OpenAI 董事会政变内幕",
+      "引述戏剧性发言，揭示内部权力斗争",
+      "事件几乎导致 OpenAI 公司解体"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "10cbb6a850e78b58fbcce58330464bca",
+    "title": "I would have assumed it was fairly obvious, but in case it's not: a million-line codebase (also known as a \"harness\"), running at inference time, orchestrating thousands of calls to a neural network for any given task, is the exact definition of a \"neurosymbolic architecture\"",
+    "url": "https://nitter.net/fchollet/status/2085323411903889876#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-06T11:13:39+00:00",
+    "content_snippet": "<p>I would have assumed it was fairly obvious, but in case it's not: a million-line codebase (also known as a \"harness\"), running at inference time, orchestrating thousands of calls to a neural network for any given task, is the exact definition of a \"neurosymbolic architecture\"</p>",
+    "title_zh": "François Chollet：百万行代码推理框架正是神经符号架构的定义",
+    "summary_zh": "谷歌研究员 François Chollet 指出，一个在推理时运行、包含百万行代码并协调数千次神经网络调用的“框架”，正是神经符号架构的体现。",
+    "key_points": [
+      "Chollet 称百万行推理代码框架是神经符号架构",
+      "该框架在推理时协调数千次神经网络调用",
+      "观点明确了对神经符号系统的定义"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2528674bdf5f50e26b94a89fec16f54a",
+    "title": "AI isn’t enough to protect social media communities from AI",
+    "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T11:00:44+00:00",
+    "content_snippet": "Why humans need to moderate humans.",
+    "title_zh": "仅靠 AI 不足以保护社交媒体社区免受 AI 侵害",
+    "summary_zh": "Ars Technica 文章指出，尽管 AI 被用于内容审核，但保护社交媒体社区仍需人类参与，人类审核员不可替代。",
+    "key_points": [
+      "AI 无法完全替代人类进行社交媒体内容审核",
+      "人类审核员在保护社区方面仍不可或缺",
+      "文章强调人机协作的重要性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a0840fab6098915c5c43d98e984a932b",
+    "title": "A cheaper AI model is not necessarily cheaper once retries are counted",
+    "url": "https://www.reddit.com/r/artificial/comments/1vh0upa/a_cheaper_ai_model_is_not_necessarily_cheaper/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-06T10:51:47+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vh0upa/a_cheaper_ai_model_is_not_necessarily_cheaper/\"> <img alt=\"A cheaper AI model is not necessarily cheaper once retries are counted\" src=\"https://external-preview.redd.it/cHJ0ZDc4MTRqcWhoMa0ja4Ab0KET2JPyI0tq5mgt7CUybgWSTJxhIguDVbQu.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=1ab6ebae1d2fd47b25d5d1c5ff4bfdaf36e8aa5d\" title=\"A cheaper AI model is not necessarily cheaper once retries are counted\" /> </a> </td><td> <!-",
+    "title_zh": "更便宜的 AI 模型计入重试次数后未必真的便宜",
+    "summary_zh": "Reddit 讨论指出，评估 AI 模型成本时需考虑任务失败后的重试次数，表面上更便宜的模型可能因多次重试而总成本更高。",
+    "key_points": [
+      "评估 AI 模型成本需计入失败重试开销",
+      "单价低的模型可能因重试多而总成本更高",
+      "讨论强调应综合考量模型的实际使用成本"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
