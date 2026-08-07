@@ -1327,5 +1327,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4dc84660492edeea12bbc03116fac519",
+    "title": "With agentic AI, workflows are increasingly CPU hungry. The share of cognition moving to the CPU keeps increasing.",
+    "url": "https://nitter.net/fchollet/status/2085751995973964054#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-07T15:36:41+00:00",
+    "content_snippet": "<p>With agentic AI, workflows are increasingly CPU hungry. The share of cognition moving to the CPU keeps increasing.</p>\n<hr />\n<blockquote>\n<b>Catherine Perloff (@catherineperlo1)</b>\n<p>\n<p>Scoop: AWS engineers have been told to conserve CPU compute to make sure the cloud giant has enough for its customers, with some having to wait days to have the compute they need. GPUs have long been scarce — now high demand for CPUs and memory is leading to new constraints</p>\n\n</p>\n<footer>\n— <cite><a hr",
+    "title_zh": "代理式 AI 工作流日益消耗 CPU 资源，认知计算向 CPU 迁移的趋势持续增长",
+    "summary_zh": "François Chollet 指出，随着代理式 AI 的兴起，工作流对 CPU 计算资源的需求急剧增加，认知计算从传统 GPU 向 CPU 转移的趋势愈发明显，甚至导致 AWS 开始要求工程师节约 CPU 算力。",
+    "key_points": [
+      "代理式 AI 工作流对 CPU 的需求正快速增长",
+      "认知计算任务正从 GPU 向 CPU 迁移",
+      "AWS 开始要求工程师节约 CPU 资源以应对需求"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "222ccc18ac170e94144e969fd1452025",
+    "title": "AI designs a novel E. coli killer",
+    "url": "https://www.reddit.com/r/artificial/comments/1vi3jb6/ai_designs_a_novel_e_coli_killer/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-07T15:19:57+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HumbleRestaurant790\"> /u/HumbleRestaurant790 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://news.stanford.edu/stories/2026/08/evo-2-ai-tool-e-coli-killer-bacteriophages\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1vi3jb6/ai_designs_a_novel_e_coli_killer/\">[comments]</a></span>",
+    "title_zh": "AI 设计出新型大肠杆菌杀手",
+    "summary_zh": "斯坦福大学利用 AI 工具 Evo-2 成功设计出一种新型噬菌体，能够有效杀死大肠杆菌。这项研究展示了 AI 在合成生物学和药物设计领域的巨大潜力。",
+    "key_points": [
+      "斯坦福团队利用 AI 设计出新型噬菌体",
+      "该 AI 工具 Evo-2 可有效杀死大肠杆菌",
+      "研究成果展示了 AI 在合成生物学中的应用前景"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "595a38005220fe874b4b47936eb6dc5d",
+    "title": "Matt Van Horn shipped a real AI product and admits on camera he's never once looked at the code",
+    "url": "https://www.reddit.com/r/artificial/comments/1vi3935/matt_van_horn_shipped_a_real_ai_product_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-07T15:09:17+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vi3935/matt_van_horn_shipped_a_real_ai_product_and/\"> <img alt=\"Matt Van Horn shipped a real AI product and admits on camera he's never once looked at the code\" src=\"https://external-preview.redd.it/ZjdwanU1Ynh4eWhoMVnHqjfG-KfgW7Qo7w8LC2TyqcCoJHvaLD3kMqH2ceVg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=29d846e6e32d3926d94e2b5db47d420fe6c262ba\" title=\"Matt Van Horn shipped a real AI product and admits on camera he's neve",
+    "title_zh": "Matt Van Horn 发布实体 AI 产品后坦言从未看过代码",
+    "summary_zh": "Matt Van Horn 成功发布了一款真实的 AI 产品，但在公开场合坦诚表示自己从未查看过该产品的代码。这一事件引发了关于 AI 时代产品开发和代码审查必要性的讨论。",
+    "key_points": [
+      "Matt Van Horn 发布 AI 产品但从未看过代码",
+      "事件引发对 AI 产品开发流程的讨论",
+      "反映了 AI 工具降低开发门槛的趋势"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0ad4d1b6b0886067b0aa59915d5a9190",
+    "title": "Why is it so hard to just translate a book and put it into a downloadable file?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vi2sr1/why_is_it_so_hard_to_just_translate_a_book_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-07T14:52:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm trying to translate an accounting book I downloaded and make it a download able file with AI</p> <p>I've tried chatgpt, Claude. Even deepseek </p> <p>I've been at it for like an hour with deepseek because neither Claude or GPT can make a file from it. The first time with deepseek it gave me a download link that doesn't work</p> <p>And the next tries, it just generates the translation without giving me a file to download. Each time I tell it &quot;give me a f",
+    "title_zh": "为何用 AI 翻译一本书并生成可下载文件如此困难？",
+    "summary_zh": "一名用户尝试使用 ChatGPT、Claude 和 DeepSeek 等 AI 工具翻译一本会计书籍并生成可下载的文件，但遇到了技术障碍，感到过程异常困难，反映了当前 AI 工具在文档处理上的局限性。",
+    "key_points": [
+      "用户尝试用多种 AI 翻译书籍但生成文件受阻",
+      "ChatGPT、Claude 和 DeepSeek 均无法完成此任务",
+      "事件凸显 AI 工具在文档处理上的局限性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
