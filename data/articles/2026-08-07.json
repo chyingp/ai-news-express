@@ -1019,5 +1019,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e3cad7610916fafb1dbc6acd8610560f",
+    "title": "Improved compression of Bad Apple into a Neural Network [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vhvfws/improved_compression_of_bad_apple_into_a_neural/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-07T09:06:25+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1vhvfws/improved_compression_of_bad_apple_into_a_neural/\"> <img alt=\"Improved compression of Bad Apple into a Neural Network [P]\" src=\"https://preview.redd.it/op3rm5z65xhh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=eaf28da20b946a5af59dbee34cfbea020bb98608\" title=\"Improved compression of Bad Apple into a Neural Network [P]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I played a bit with the SIREN network fr",
+    "title_zh": "改进版：将《Bad Apple》视频压缩至神经网络中",
+    "summary_zh": "Reddit 用户分享了一个技术项目，改进了将经典影绘视频《Bad Apple》的画面信息压缩进小型神经网络的方法，展示了神经网络在数据压缩与表示学习方面的有趣应用。",
+    "key_points": [
+      "将《Bad Apple》视频成功压缩进一个小型神经网络。",
+      "项目在原有基础上改进了压缩效率或重建质量。",
+      "这是一个展示神经网络用于数据表示的趣味技术项目。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "04dbcdd1e1d91c0fe26d6a93fbaf0e3c",
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "url": "https://openai.com/index/hsp-gruppe",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-07T09:00:00+00:00",
+    "content_snippet": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+    "title_zh": "HSP GRUPPE 如何为税务咨询构建 AI 能力",
+    "summary_zh": "OpenAI 官方博客发文，介绍德国税务咨询公司 HSP GRUPPE 如何通过部署 ChatGPT Enterprise 来提升员工生产力、改善工作质量，并为客户服务创造更多空间。",
+    "key_points": [
+      "HSP GRUPPE 使用 ChatGPT Enterprise 提升税务咨询效率。",
+      "AI 工具帮助员工提高生产力并改善工作质量。",
+      "这是 OpenAI 展示其企业级产品在专业服务领域的应用案例。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
