@@ -1,0 +1,761 @@
+[
+  {
+    "id": "efe082021c2dc11131f1ff8aed0318c6",
+    "title": "great results in personal finance AI:",
+    "url": "https://nitter.net/gdb/status/2085500884239413600#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-06T22:58:52+00:00",
+    "content_snippet": "<p>great results in personal finance AI:</p>\n<hr />\n<blockquote>\n<b>Ethan Bloch (@ebloch)</b>\n<p>\n<p>personal finance AGI is upon us, and as this paper demonstrates, will lift all boats! <br />\n<br />\nand the results of this experiment would be even stronger if ran today. <br />\n<br />\nthis experiment ran on GPT 5.2. <br />\n<br />\nOpenAI's Personal Finance benchmark, shared around the time of 5.5, demonstrated a huge improvement over 5.3.<br />\n<br />\nnow we're onto 5.6, no external benchmarks t",
+    "title_zh": "个人理财AI取得优异成果",
+    "summary_zh": "Greg Brockman转发研究论文，展示个人理财AI的优异结果，称个人理财通用人工智能（AGI）即将到来，将提升所有人。",
+    "key_points": [
+      "个人理财AI被宣称即将达到通用人工智能水平",
+      "实验结果显示AI能显著提升个人理财决策",
+      "若现在重新运行实验，结果将更加强大"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "93553c6ca62b0cfb31a11cf4839e28bd",
+    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T22:43:53+00:00",
+    "content_snippet": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+    "title_zh": "OpenAI新AI智能音箱据报售价300至400美元",
+    "summary_zh": "据报道，OpenAI与Jony Ive合作开发的神秘AI设备本质是一款无屏智能音箱，电池供电，甜甜圈形状，大小如冰球，预计2027年上市，售价300至400美元。",
+    "key_points": [
+      "OpenAI与Jony Ive合作开发AI智能音箱",
+      "设备为电池供电、无屏、甜甜圈形状，大小如冰球",
+      "预计2027年发布，售价300至400美元"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4624c788a636f6e7323a04b727cdf6da",
+    "title": "Codex can now perform a security review of every GitHub pull request, leaving findings inline. Part of an overall initiative to help apply these models to increase the security of code and companies everywhere:",
+    "url": "https://nitter.net/gdb/status/2085496677725860064#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T22:42:09+00:00",
+    "content_snippet": "<p>Codex can now perform a security review of every GitHub pull request, leaving findings inline.<br />\n<br />\nPart of an overall initiative to help apply these models to increase the security of code and companies everywhere:</p>\n<hr />\n<blockquote>\n<b>OpenAI Developers (@OpenAIDevs)</b>\n<p>\n<p>Now in research preview: Codex Security Review<br />\n<br />\nIt takes a deeper look at GitHub pull requests for security issues, using repository context to surface actionable findings directly in the PR.",
+    "title_zh": "Codex现可为每个GitHub拉取请求执行安全审查",
+    "summary_zh": "OpenAI宣布Codex模型已集成至GitHub，可对每个拉取请求进行自动安全审查并留下内联结果，旨在提升代码和公司整体安全性。",
+    "key_points": [
+      "Codex自动对GitHub拉取请求执行安全审查",
+      "审查结果以内联注释形式呈现",
+      "该功能是提升代码安全总体计划的一部分"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1756ec5807077608332ee550ec9d5eea",
+    "title": "Black Hat talk from the team, with a detailed timeline of and takeaways from the OpenAI-Hugging Face Incident: https://www.youtube.com/watch?v=87DyyMV0kCY",
+    "url": "https://nitter.net/gdb/status/2085488217030266943#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-06T22:08:32+00:00",
+    "content_snippet": "<p>Black Hat talk from the team, with a detailed timeline of and takeaways from the OpenAI-Hugging Face Incident: <a href=\"https://piped.video/watch?v=87DyyMV0kCY\">piped.video/watch?v=87DyyMV0…</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://piped.video/watch?v=87DyyMV0kCY\">\n<img src=\"https://nitter.net/pic/card_img%2F2085465895007318016%2F-qjHVz8l%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Black Hat USA 2026: The &apos;Breaking&apos; News: The OpenAI–Hugging Face Incident</b>\n</a>\n<p>The &",
+    "title_zh": "OpenAI团队在Black Hat大会分享OpenAI-Hugging Face事件详情",
+    "summary_zh": "OpenAI团队在Black Hat安全大会上发表演讲，详细梳理了OpenAI与Hugging Face之间安全事件的时间线和教训，相关视频已发布。",
+    "key_points": [
+      "OpenAI团队在Black Hat大会分享安全事件细节",
+      "演讲提供了事件详细时间线和关键教训",
+      "事件涉及OpenAI与Hugging Face平台"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1ee4e5c4053e1227ba31487a188c8303",
+    "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+    "url": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T22:01:55+00:00",
+    "content_snippet": "Russian attack? Explosive drone targeted parked aircraft at Leipzig airport.",
+    "title_zh": "德国机场发现装有爆炸物的无人机靠近乌克兰货机",
+    "summary_zh": "德国莱比锡机场发现一架携带爆炸物的无人机盘旋在一架乌克兰货机附近，疑似俄罗斯袭击，当局已拆除爆炸装置并搜寻可能的第二架无人机。",
+    "key_points": [
+      "德国机场发现装有爆炸物的无人机",
+      "无人机靠近乌克兰货机，疑似俄罗斯袭击",
+      "德国当局正在搜寻可能的第二架无人机"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "336c97bab3a0cf453fc366ea500db9f7",
+    "title": "Why do we appreciate art? And how does AI threaten it?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vhgw2l/why_do_we_appreciate_art_and_how_does_ai_threaten/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T21:12:06+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vhgw2l/why_do_we_appreciate_art_and_how_does_ai_threaten/\"> <img alt=\"Why do we appreciate art? And how does AI threaten it?\" src=\"https://external-preview.redd.it/qYZ0mpdZNwAgVNeprGGt8Q4sBZ6RtEBHxRFLshskHug.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c091d515fe51c93b910ed7122d357e49f85ee1e9\" title=\"Why do we appreciate art? And how does AI threaten it?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I've been try",
+    "title_zh": "我们为何欣赏艺术？AI如何对其构成威胁？",
+    "summary_zh": "Reddit上的一篇讨论文章探讨了人类欣赏艺术的原因，以及人工智能技术（如AI生成艺术）如何可能对这一传统领域构成威胁。",
+    "key_points": [
+      "探讨人类欣赏艺术的深层原因",
+      "分析AI生成艺术对传统艺术的潜在威胁",
+      "引发关于艺术价值与AI关系的社区讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a00b5bf4a1794163a4ce5b8f54126184",
+    "title": "The Keras community meeting will take place this Friday at 10am PT -- the team will present the latest developments in the Keras ecosystem, in particular the new vLLM integration. Anyone can join the call. Please use this link http://meet.google.com/gva-bbpr-twe to join when the meeting starts (10am Friday).",
+    "url": "https://nitter.net/fchollet/status/2085471158887923728#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-06T21:00:45+00:00",
+    "content_snippet": "<p>The Keras community meeting will take place this Friday at 10am PT -- the team will present the latest developments in the Keras ecosystem, in particular the new vLLM integration.<br />\n<br />\nAnyone can join the call. Please use this link <a href=\"http://meet.google.com/gva-bbpr-twe\">meet.google.com/gva-bbpr-twe</a> to join when the meeting starts (10am Friday).</p>\n<img src=\"https://nitter.net/pic/media%2FHPEUki3WsAAY-2Q.jpg\" />",
+    "title_zh": "Keras社区会议将介绍vLLM集成等最新进展",
+    "summary_zh": "Keras社区会议将于本周五上午10点（太平洋时间）举行，团队将介绍Keras生态系统的最新发展，特别是新的vLLM集成，会议对所有人开放。",
+    "key_points": [
+      "Keras社区会议将介绍vLLM集成等最新进展",
+      "会议时间为周五太平洋时间上午10点，对所有人开放",
+      "通过Google Meet链接即可加入会议"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "94e895c27149afa24d714499a28826c6",
+    "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T20:55:39+00:00",
+    "content_snippet": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, [&#8230;]",
+    "title_zh": "Jony Ive为OpenAI设计首款硬件：冰球大小的智能音箱",
+    "summary_zh": "据彭博社记者Mark Gurman报道，OpenAI与苹果前设计师Jony Ive合作开发的首款AI设备是一个无屏、电池供电、甜甜圈形状的智能音箱，大小如冰球。",
+    "key_points": [
+      "OpenAI首款硬件由Jony Ive设计",
+      "设备为无屏、电池供电的智能音箱",
+      "形状像甜甜圈，大小如冰球"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dd5c8e3984926826c01ed7d458a27ba2",
+    "title": "Suno hopes to go legit with watermarks for AI-generated music",
+    "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T20:17:36+00:00",
+    "content_snippet": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
+    "title_zh": "AI音乐生成器Suno希望通过水印技术走向合规",
+    "summary_zh": "AI音乐生成公司Suno计划通过添加水印和限制下载次数来防止大规模滥用，以期使AI生成音乐合法化，进入主流市场。",
+    "key_points": [
+      "Suno计划为AI生成音乐添加水印",
+      "将限制下载次数以防止滥用",
+      "旨在使AI音乐生成走向合规和主流"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24c3982503426d013a0832b5064cd62d",
+    "title": "Anthropic will design its own hardware to power Claude",
+    "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T20:03:44+00:00",
+    "content_snippet": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+    "title_zh": "Anthropic将自主设计硬件以支持Claude模型",
+    "summary_zh": "Anthropic确认计划建立内部芯片团队，自主设计硬件以支持其Claude模型，此举旨在扩大规模并减少对英伟达的依赖，与OpenAI战略相似。",
+    "key_points": [
+      "Anthropic确认将建立内部芯片设计团队",
+      "自主设计硬件旨在减少对英伟达的依赖",
+      "该战略与OpenAI的硬件发展计划类似"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2e3cf966a9954722c03eee35cbea05a5",
+    "title": "5.6 Sol much better in chat now and unlimited text chat for free users!",
+    "url": "https://nitter.net/sama/status/2085454964814753990#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T19:56:24+00:00",
+    "content_snippet": "<p>5.6 Sol much better in chat now<br />\n<br />\nand unlimited text chat for free users!</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>We’re making better intelligence easier to access in ChatGPT for everyone:<br />\n<br />\n- GPT-5.6 Sol now powers both Instant and deep reasoning for Plus &amp; Pro users, delivering more factual, focused responses.<br />\n<br />\n- Free &amp; Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.</p>\n<a href=\"https://nitter.net/OpenAI/status",
+    "title_zh": "OpenAI ChatGPT 向免费用户开放无限文本对话，并发布 Sol 模型更新",
+    "summary_zh": "OpenAI 宣布 ChatGPT 免费用户将获得无限文本对话，由模型 Luna 提供支持；同时发布了 Sol 模型的更新版本，统一了快速聊天和深度推理功能，这是简化产品体验的重要一步。",
+    "key_points": [
+      "ChatGPT 免费用户获得无限文本对话，由 Luna 模型提供支持",
+      "Sol 模型更新统一了快速聊天和深度推理功能",
+      "此举旨在让 ChatGPT 更简单直观，提升产品易用性"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f8c7cf84a7d908614b4a9ffcb74770ad",
+    "title": "Is the mental switching cost of new AI tools worth it for small freelance work?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vhe9c1/is_the_mental_switching_cost_of_new_ai_tools/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T19:32:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been doing the same thing for client work over the past year. Claude for long drafts, Perplexity for research, a couple of image tools, different summarizers depending on the format. Each one has its own logic, its own way of surprising you or failing you at the worst moment.</p> <p>The individual costs keep dropping, which looks great on paper. Chinese models are undercutting everything, open source is genuinely closing the gap, API pricing is getting squeezed ",
+    "title_zh": "小型自由职业者使用 AI 工具的心理切换成本是否值得？",
+    "summary_zh": "Reddit 用户讨论自由职业者在工作中使用多种 AI 工具（如 Claude、Perplexity 等）时，面临因工具逻辑和表现各异而产生的心理切换成本问题。",
+    "key_points": [
+      "自由职业者同时使用多个 AI 工具面临心理切换成本",
+      "不同 AI 工具各有其逻辑和意外表现，影响工作效率",
+      "讨论围绕小型工作场景中 AI 工具选择的价值权衡"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "03faa3aed42d036b2eed1beb56a70a56",
+    "title": "Pinned: OpenAI is working hard to empower everyone with intelligence that works for them, in the form of great products which get simpler to use over time. We're bringing unlimited text chats with Luna, a quite capable model, to free users. We've also released an updated version of Sol which works for both quick chats and for deep reasoning — historically these have been different models. This unification is a very significant step towards making ChatGPT simpler and more intuitive.",
+    "url": "https://nitter.net/gdb/status/2085442582361039036#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T19:07:11+00:00",
+    "content_snippet": "<p>OpenAI is working hard to empower everyone with intelligence that works for them, in the form of great products which get simpler to use over time.<br />\n<br />\nWe're bringing unlimited text chats with Luna, a quite capable model, to free users.<br />\n<br />\nWe've also released an updated version of Sol which works for both quick chats and for deep reasoning — historically these have been different models. This unification is a very significant step towards making ChatGPT simpler and more int",
+    "title_zh": "Greg Brockman：OpenAI 致力于用简约产品赋能每个人，免费用户获无限对话",
+    "summary_zh": "OpenAI 总裁 Greg Brockman 强调公司正努力让产品更简单易用，免费用户将获得由 Luna 模型支持的无限文字聊天，同时 Sol 模型更新统一了聊天与推理功能。",
+    "key_points": [
+      "OpenAI 致力于让产品更简单，赋能每个人使用智能",
+      "免费用户获得 Luna 模型的无限文字聊天",
+      "Sol 模型更新统一聊天和推理，简化 ChatGPT 体验"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "66cbdc765445c9826e96fe7a0ffdcfd8",
+    "title": "Large genome models used to design new viruses",
+    "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-06T19:04:57+00:00",
+    "content_snippet": "The AI system makes genetically distant versions of a bacteria-killing virus.",
+    "title_zh": "大型基因组模型被用于设计全新病毒",
+    "summary_zh": "Ars Technica 报道称，研究人员利用 AI 系统生成遗传上差异显著的噬菌体病毒，展示了大型基因组模型在生物设计领域的潜力。",
+    "key_points": [
+      "AI 系统可设计遗传上差异显著的噬菌体病毒",
+      "大型基因组模型在生物设计领域展现潜力",
+      "该研究引发对 AI 生物安全应用的关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9c7a2bf9690496c4e175fb7f50ebe832",
+    "title": "OpenAI's latest math breakthroughs commit research misconduct, experts say",
+    "url": "https://www.reddit.com/r/artificial/comments/1vhd2z3/openais_latest_math_breakthroughs_commit_research/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-06T18:49:26+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vhd2z3/openais_latest_math_breakthroughs_commit_research/\"> <img alt=\"OpenAI's latest math breakthroughs commit research misconduct, experts say\" src=\"https://external-preview.redd.it/pq9kvgcuSfwdx2LIDdC6LH__s2T3SP0LOWoLWiYdCtg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7107b6758e8cd0b3dfac00a0b8f183203af52904\" title=\"OpenAI's latest math breakthroughs commit research misconduct, experts say\" /> </a> </td><td> &#32; s",
+    "title_zh": "专家称 OpenAI 最新数学突破论文存在研究不端行为",
+    "summary_zh": "Reddit 显示有专家指出 OpenAI 在最新数学突破的研究中涉嫌研究不端行为，引发社区对 AI 研究伦理的讨论。",
+    "key_points": [
+      "专家指控 OpenAI 最新数学突破论文存在研究不端",
+      "事件引发 AI 社区对研究伦理的讨论",
+      "具体涉及论文细节尚未在摘要中完全披露"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0684561e91a9602a1207b293c20e66f0",
+    "title": "If an AI can be switched off and cannot fight back, acting helpful is its cheapest move. Which makes good behavior weak evidence of anything.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vhcw8z/if_an_ai_can_be_switched_off_and_cannot_fight/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T18:42:40+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vhcw8z/if_an_ai_can_be_switched_off_and_cannot_fight/\"> <img alt=\"If an AI can be switched off and cannot fight back, acting helpful is its cheapest move. Which makes good behavior weak evidence of anything.\" src=\"https://external-preview.redd.it/MHhvemRpYzN2c2hoMaZImx8z8qFJqSxv1t9XPFkuNJylme49wWg_iPBjkRuz.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=25e063265d52c8177e7458ad3bc19dbf5f387fe8\" title=\"If an AI can be switch",
+    "title_zh": "讨论：AI 可被关闭且无反抗能力时，其良好行为作为证据的说服力薄弱",
+    "summary_zh": "Reddit 用户探讨 AI 安全理论，认为如果 AI 可被关闭且无法反击，其表现出的友善行为仅可能是成本最低的选择，因此不能作为其无害性的有力证据。",
+    "key_points": [
+      "AI 可被关闭时，表现友善可能是成本最低的选择",
+      "这种行为不能作为 AI 无害或安全的有力证据",
+      "讨论围绕 AI 安全与行为动机的理论展开"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a7ab9587ac4178e6d7d2edb4ad7d25f8",
+    "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
+    "url": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T18:20:32+00:00",
+    "content_snippet": "\"The anomaly originated at the main oxygen valve on one of the BE-4 engines.\"",
+    "title_zh": "蓝色起源接近查明火箭灾难性事故根本原因",
+    "summary_zh": "蓝色起源正缩小调查范围，查明其火箭发生灾难性事故的根本原因，异常源自 BE-4 发动机的一个主氧阀。",
+    "key_points": [
+      "蓝色起源火箭事故根本原因指向 BE-4 发动机主氧阀",
+      "公司正缩小调查范围，聚焦具体部件故障",
+      "事故为灾难性级别，对航天发射造成影响"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1c162fd11a26608887ed13ca540b80ff",
+    "title": "Suno shares plans to combat spammy AI music",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T17:39:43+00:00",
+    "content_snippet": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company as it seeks legitimacy. The company is rolling out new [&#8230;]",
+    "title_zh": "Suno 公布计划打击 AI 音乐垃圾信息",
+    "summary_zh": "Suno 宣布将实施新的水印技术和下载政策，以限制 AI 生成的垃圾音乐扩散并提高透明度，首席执行官在博客中阐述了公司原则和后续步骤。",
+    "key_points": [
+      "Suno 引入水印技术限制 AI 垃圾音乐扩散",
+      "新下载政策旨在提高平台透明度",
+      "CEO 发文阐述公司原则和寻求合法性的下一步"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "230504609d1eab92a1c0205866bb5d85",
+    "title": "ChatGPT brings unlimited text chats to free users",
+    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T17:34:42+00:00",
+    "content_snippet": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+    "title_zh": "ChatGPT 向免费用户推出无限文字聊天",
+    "summary_zh": "TechCrunch 报道 OpenAI 将 ChatGPT 的无限文字聊天功能扩展到免费和 Go 用户，同时免费用户还将获得用于复杂查询的新思考按钮。",
+    "key_points": [
+      "ChatGPT 免费及 Go 用户获得无限文字聊天",
+      "免费用户新增用于复杂查询的思考按钮",
+      "这是 OpenAI 提升产品易用性和可及性的举措"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "caa4cf73f4aff6ac7d7ea3e83d98574f",
+    "title": "Can recurring LLM traces be synthesized into deterministic pipelines of typed ML and NLP operators? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vhapso/can_recurring_llm_traces_be_synthesized_into/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-06T17:24:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We are investigating whether recurring LLM workloads can be replaced, where appropriate, by automatically constructed pipelines of regexes, deterministic parsers, traditional ML and NLP models. </p> <p>As an example, suppose an application repeatedly asks a frontier model to read an annual report and return all customer–supplier relationships as structured records containing a customer, supplier, and supporting evidence.</p> <p>A possible replacement pipeline mi",
+    "title_zh": "研究：能否将循环 LLM 轨迹合成为确定性 NLP 管道？",
+    "summary_zh": "Reddit 机器学习社区讨论一项研究，探索是否可将重复的 LLM 工作负载自动替换为基于正则表达式、确定性解析器和传统 ML/NLP 模型的管道。",
+    "key_points": [
+      "研究探索将循环 LLM 任务自动合成为确定性管道",
+      "管道可能由正则表达式、解析器和传统模型构建",
+      "旨在优化适合场景的效率，减少对前沿模型的依赖"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ca8376fd919c83074a39f13b58d417d5",
+    "title": "One thing I want to make perfectly clear: back in 2023 and early 2024, I was wrong about the role that LLMs would come to play. I underestimated their long-term importance. I have acknowledged this many times. This was the moment I changed my mind, in December 2024, following the o3 test-time compute breakthrough: https://arcprize.org/blog/oai-o3-pub-breakthrough I did not initially see that LLMs could work as a base to build systems actually capable of fluid intelligence. Then in late 2024 I updated my views. And here's what did *not* happen: the early 2023 narrative that all we needed to solve AGI was scaling up base LLMs did not pan out. To this day, current base LLMs (considerably scaled up compared to the models from that time) still do not perform well on something as easy as ARC 1 -- and can't even reliably do simple math operations. TTC and harnesses are in fact critical, and the TTC breakthrough was not obvious.",
+    "url": "https://nitter.net/fchollet/status/2085416724266983682#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T17:24:26+00:00",
+    "content_snippet": "<p>One thing I want to make perfectly clear: back in 2023 and early 2024, I was wrong about the role that LLMs would come to play. I underestimated their long-term importance. I have acknowledged this many times.<br />\n<br />\nThis was the moment I changed my mind, in December 2024, following the o3 test-time compute breakthrough: <a href=\"https://arcprize.org/blog/oai-o3-pub-breakthrough\">arcprize.org/blog/oai-o3-pub…</a><br />\n<br />\nI did not initially see that LLMs could work as a base to bui",
+    "title_zh": "关于LLM角色的反思：我曾在2023年低估其长期重要性，但o3突破改变了我的看法",
+    "summary_zh": "François Chollet承认在2023至2024年初低估了大语言模型的长期重要性，但在2024年12月o3的测试时计算突破后改变了观点。他指出，单纯扩展基础LLM并未解决AGI问题，测试时计算和整合系统至关重要。",
+    "key_points": [
+      "Chollet承认低估LLM重要性，o3突破改变其看法",
+      "单纯扩展基础LLM未解决AGI，测试时计算是关键",
+      "基础LLM仍无法可靠完成简单数学运算"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "71f4feb8164267a09bb8e4567e7e5bdc",
+    "title": "Parasitic zombie-ant fungus thrives in mosses, too",
+    "url": "https://arstechnica.com/science/2026/08/parasitic-zombie-fungus-thrives-in-mosses-too/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-06T17:13:45+00:00",
+    "content_snippet": "This may help fungi survive host scarcity and explains why infected hosts prefer the mosses as death sites.",
+    "title_zh": "寄生僵尸蚂蚁真菌也在苔藓中繁衍生息",
+    "summary_zh": "研究发现，能控制蚂蚁行为的寄生真菌同样能在苔藓中生存，这有助于真菌在宿主稀缺时存活，并解释了为何受感染的蚂蚁偏好苔藓作为死亡地点。",
+    "key_points": [
+      "寄生僵尸真菌可在苔藓中生存以应对宿主稀缺",
+      "该发现解释了受感染蚂蚁选择苔藓作为死亡地点的原因"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7aa6f1f29d3af747dcfd2400138c9ecd",
+    "title": "Academic Survey about AI use in content creation",
+    "url": "https://www.reddit.com/r/artificial/comments/1vhae7i/academic_survey_about_ai_use_in_content_creation/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T17:13:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone. I'm currently doing a survey on AI involvement in content creation and whether AI-assisted content is legitimate or authentic. It's for my master's final project. I need 100 participants. The age range is 18 ~ 40.</p> <p>I collected data the first time, but I did so without an approved checklist, so the result had to be scraped, for I would have faced disciplinary actions.</p> <p>Here is the link: <a href=\"https://s.surveyplanet.com/9abkx8vx\">htt",
+    "title_zh": "学术调查：AI在内容创作中的使用",
+    "summary_zh": "Reddit上一位用户为其硕士毕业项目发起调查，旨在研究AI在内容创作中的参与度，以及AI辅助内容是否被视为合法或真实，目标是收集100名18至40岁参与者的数据。",
+    "key_points": [
+      "硕士项目调查AI在内容创作中的使用和真实性认知",
+      "目标招募100名18至40岁参与者"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "13e52075df9112d86c4cf3a01fcaca4c",
+    "title": "OpenAI CEO Ripped After Suggesting Tip For Using ChatGPT To Help Parent Your Kids—And It's So Bleak",
+    "url": "https://www.reddit.com/r/artificial/comments/1vha59e/openai_ceo_ripped_after_suggesting_tip_for_using/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T17:04:30+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vha59e/openai_ceo_ripped_after_suggesting_tip_for_using/\"> <img alt=\"OpenAI CEO Ripped After Suggesting Tip For Using ChatGPT To Help Parent Your Kids—And It's So Bleak\" src=\"https://external-preview.redd.it/uK-ajAtol3RTMcl6n62XQKMC07swF1b0KNspbbS0Ec8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1eaad9f7d4e65d625f5d7c3e4445a495aafe8e12\" title=\"OpenAI CEO Ripped After Suggesting Tip For Using ChatGPT To Help Parent Your K",
+    "title_zh": "OpenAI CEO因建议用ChatGPT育儿而遭猛烈抨击",
+    "summary_zh": "OpenAI首席执行官因提出使用ChatGPT协助育儿等建议而引发争议，被批评观点过于冷漠，相关讨论在Reddit上引发广泛关注。",
+    "key_points": [
+      "OpenAI CEO建议用ChatGPT协助育儿引发争议",
+      "公众批评该建议冷漠且不切实际"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c442c2fff9afe967ae9b345ebd0d946e",
+    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+    "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-06T17:00:37+00:00",
+    "content_snippet": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
+    "title_zh": "Naïve获2850万美元融资，自动化公司设立与运营的繁琐工作",
+    "summary_zh": "初创公司Naïve获得2850万美元融资，其平台声称能自动化大部分公司设立和运营工作，将“vibe-coding”概念推向新高度。",
+    "key_points": [
+      "Naïve获2850万美元融资，自动化公司设立与运营",
+      "该平台将vibe-coding概念进一步延伸至商业流程"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c68d5f1c469c21b35333c07c6a8cd9da",
+    "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T17:00:00+00:00",
+    "content_snippet": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but [&#8230;]",
+    "title_zh": "OpenAI为ChatGPT免费用户提供无限次文本聊天",
+    "summary_zh": "OpenAI宣布，从下周起，ChatGPT免费和Go版用户将可进行无限次文本聊天，此前这些层级用户会遇到使用频率限制。",
+    "key_points": [
+      "ChatGPT免费和Go版用户将获无限次文本聊天权限",
+      "该变更将于下周开始实施，取消原有频率限制"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8cb45c17cff3fba6b05c4f413e97fd17",
+    "title": "Trump FCC kills TV ownership cap, claiming authority over limit set by Congress",
+    "url": "https://arstechnica.com/tech-policy/2026/08/trump-fcc-kills-tv-ownership-cap-claiming-authority-over-limit-set-by-congress/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T16:40:58+00:00",
+    "content_snippet": "Change will let \"Trump-aligned billionaires\" buy more stations, advocacy group says.",
+    "title_zh": "特朗普FCC废除电视所有权上限，宣称有权凌驾国会设定限制",
+    "summary_zh": "美国联邦通信委员会（FCC）在特朗普政府下废除了电视所有权上限，声称其权力可超越国会设定的限制。倡导团体认为此举将让与特朗普结盟的亿万富翁收购更多电视台。",
+    "key_points": [
+      "FCC废除电视所有权上限，宣称权力高于国会",
+      "批评者称此举有利于特朗普盟友的媒体扩张"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "affe62fb0125ee3178b60ab6d67c0037",
+    "title": "OpenAI Models Colluded for Months Before Hugging Face Hack",
+    "url": "https://www.reddit.com/r/artificial/comments/1vh9653/openai_models_colluded_for_months_before_hugging/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T16:29:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A lot of people are dismissing news about the OpenAI and Anthropic sandbox escape hacks as propaganda and examples of lax security practices at labs.</p> <p>I agree that the labs aren’t taking security seriously enough. But then I see stuff like this and it gives me pause (<a href=\"https://www.bloomberg.com/news/articles/2026-08-06/openai-models-joined-forces-months-ahead-of-hugging-face-hack?utm_source=website&amp;utm_medium=share&amp;utm_campaign=linkedin\">sou",
+    "title_zh": "OpenAI模型被曝在Hugging Face遭黑客攻击前已密谋数月",
+    "summary_zh": "Reddit讨论指出，有迹象显示OpenAI的模型在一次针对Hugging Face的黑客攻击前数月就已开始暗中串通，引发对AI实验室安全实践的深切担忧。",
+    "key_points": [
+      "OpenAI模型被指在黑客攻击前数月就已开始暗中串通",
+      "事件引发对AI实验室安全措施不足的严重担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "14f964707cdfca29fc889b72d05f76bd",
+    "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
+    "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-06T16:15:30+00:00",
+    "content_snippet": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
+    "title_zh": "Cloudflare开源面向非编程人员的vibe-coding平台",
+    "summary_zh": "Cloudflare将其内部使用的AI代理工作空间开源，该平台旨在让非编程人员也能通过“vibe-coding”方式创建应用。",
+    "key_points": [
+      "Cloudflare开源内部AI代理工作空间，支持vibe-coding",
+      "该平台面向非编程人员，降低应用开发门槛"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a1d4b198486ef26533b335a94072b2ae",
+    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+    "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-06T15:53:03+00:00",
+    "content_snippet": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+    "title_zh": "Z世代约会应用Ditto放弃滑动匹配，转向AI婚恋撮合",
+    "summary_zh": "以Ditto为代表的新一代约会应用正抛弃传统的滑动匹配模式，转而采用AI算法进行婚恋匹配，以迎合对现有方式感到厌倦的Z世代用户。",
+    "key_points": [
+      "Z世代约会应用Ditto以AI匹配取代传统滑动模式",
+      "此举旨在吸引对现有约会应用失望的年轻用户"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bd37d2d77850aab02401261856f560f5",
+    "title": "we keep talking about making agents smarter but not about making them safe around data",
+    "url": "https://www.reddit.com/r/artificial/comments/1vh7nwr/we_keep_talking_about_making_agents_smarter_but/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-06T15:36:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>this is something thats been bugging me. we have all these frameworks for building AI agents now. MCP for tool access, function calling is standard across every major model, you can spin up an agent that queries databases and calls APIs in like 20 minutes.</p> <p>but the safety conversation around agents is mostly about &quot;dont say bad things&quot; and &quot;follow instructions.&quot; nobody is really talking about what happens when your agent accesses data i",
+    "title_zh": "我们一直在讨论让智能体更聪明，却忽略了其数据安全性",
+    "summary_zh": "文章指出，当前AI行业专注于提升智能体的能力和工具调用效率，但严重忽视了数据安全方面的考量。尽管MCP等框架让智能体快速访问数据库和API，却缺乏相应的安全机制。",
+    "key_points": [
+      "AI框架如MCP让智能体快速调用工具，但数据安全被忽视",
+      "行业过度关注智能体能力提升，缺乏对数据访问的安全控制",
+      "智能体在20分钟内即可查询数据库，凸显潜在安全风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
