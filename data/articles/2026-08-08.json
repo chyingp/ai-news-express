@@ -122,5 +122,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ea4623cc7ffdd826c636ea8eefe0eab9",
+    "title": "Sam Altman believes AI will become incredibly abundant. If that's true, what actually becomes valuable?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vi7dxg/sam_altman_believes_ai_will_become_incredibly/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-07T17:42:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Sam Altman has often talked about AI becoming increasingly accessible over time.</p> <p>If every company eventually has access to frontier models, what becomes the competitive advantage?</p> <p>Better data?</p> <p>Better workflows?</p> <p>Better distribution?</p> <p>Better execution?</p> <p>Curious what people here think the real moat will be once the models themselves become commodities.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.red",
+    "title_zh": "Sam Altman认为AI将变得极其丰富，那么什么才真正有价值？",
+    "summary_zh": "Reddit用户讨论Sam Altman关于AI未来将变得非常普及的观点。文章探讨当每个公司都能获得前沿模型时，竞争优势将转向何处，比如更优质的数据、工作流程或分发渠道。",
+    "key_points": [
+      "Sam Altman相信AI将变得极其普及和易获取",
+      "核心问题：当AI模型普及后，企业的竞争优势将是什么",
+      "讨论焦点包括数据、工作流程和分发渠道等潜在优势"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bfd2b4f4e0d8a0964977862171e81421",
+    "title": "Our Next Reality: How the AI-powered Metaverse Will Reshape the World",
+    "url": "https://www.reddit.com/r/artificial/comments/1vi6m8i/our_next_reality_how_the_aipowered_metaverse_will/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-07T17:13:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Wondering if anyone read this book-- what are your thoughts? A lot of his work seems like wishful thinking but I believe it's the right direction.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MeMe_Cluppy\"> /u/MeMe_Cluppy </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vi6m8i/our_next_reality_how_the_aipowered_metaver",
+    "title_zh": "我们的下一个现实：AI驱动的元宇宙将如何重塑世界",
+    "summary_zh": "Reddit用户询问关于《我们的下一个现实》一书的看法。该书探讨AI驱动的元宇宙将如何改变世界，发帖者认为书中的一些想法虽然看似一厢情愿，但方向是正确的。",
+    "key_points": [
+      "书籍探讨AI驱动的元宇宙如何重塑世界",
+      "发帖者认为书中观点虽有理想化成分但方向正确",
+      "内容为Reddit上的读书讨论帖"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eb24ecced986110cdfa51be4e83a8ae9",
+    "title": "What is currently considered the theoretically optimal quantization bit-width for LLMs? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vi6im4/what_is_currently_considered_the_theoretically/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-07T17:10:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m curious whether there is now a theoretical or empirical “sweet spot” for LLM quantization, preferably research done using open-source formats like GGUF</p> <p>Suppose you have a fixed memory/compute budget and can choose the model size freely. For example, instead of a smaller model at 8-bit or 4-bit, you could fit a progressively larger model at 3-bit, 2-bit, 1.5-bit, etc.</p> <p>A few years ago, I remember 4-bit often being described as roughly the practic",
+    "title_zh": "目前LLM的理论最优量化位宽是多少？",
+    "summary_zh": "一篇机器学习社区的技术讨论帖，询问大型语言模型在固定内存和计算预算下，是否存在理论或经验上的量化位宽'最佳点'，并希望研究基于GGUF等开源格式。",
+    "key_points": [
+      "探讨LLM在固定资源下是否存在理论最优量化位宽",
+      "希望研究基于GGUF等开源格式的量化方案",
+      "属于机器学习社区的技术性讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2002a714518250b571c051e3a81279d6",
+    "title": "The Keras community call is starting now -- link to join in tweet below.",
+    "url": "https://nitter.net/fchollet/status/2085773575282143337#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-07T17:02:26+00:00",
+    "content_snippet": "<p>The Keras community call is starting now -- link to join in tweet below.</p>\n<hr />\n<blockquote>\n<b>François Chollet (@fchollet)</b>\n<p>\n<p>The Keras community meeting will take place this Friday at 10am PT -- the team will present the latest developments in the Keras ecosystem, in particular the new vLLM integration.<br />\n<br />\nAnyone can join the call. Please use this link <a href=\"http://meet.google.com/gva-bbpr-twe\">meet.google.com/gva-bbpr-twe</a> to join when the meeting starts (10am ",
+    "title_zh": "Keras社区电话会议正在进行中",
+    "summary_zh": "François Chollet宣布Keras社区电话会议开始，团队将展示Keras生态系统的最新进展，这是一个定期的开发者社区活动。",
+    "key_points": [
+      "Keras创始人François Chollet宣布社区会议开始",
+      "团队将展示Keras生态系统的最新开发进展",
+      "这是一个常规的社区开发者活动通知"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
