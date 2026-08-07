@@ -394,5 +394,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1a95a27981d82c40d3345c03b6d7dad6",
+    "title": "A practical question about agent trust: should the system that made a change be allowed to verify its own success?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vibujw/a_practical_question_about_agent_trust_should_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-07T20:28:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m working on a software-agent system and keep coming back to one design question:</p> <p>**Should the model/provider that performs an action be allowed to be the final authority on whether the action succeeded?**</p> <p>My current answer is “no,” at least for meaningful software work.</p> <p>I’m building Flows around a chain where execution, checks, repair, and evidence are separate concepts. Oort is the canonical library/provider layer underneath it.</p> <p><",
+    "title_zh": "关于智能体信任的实践问题：应允许执行更改的系统自我验证其成功吗？",
+    "summary_zh": "Reddit讨论AI智能体系统设计中的一个关键信任问题：是否应允许执行操作的模型或服务商自己成为判断操作是否成功的最终权威。发布者目前倾向于否定答案，以避免潜在风险。",
+    "key_points": [
+      "探讨AI智能体设计中的自我验证信任问题",
+      "发布者认为执行操作的AI不应作为最终验证者",
+      "讨论聚焦于软件智能体系统的安全与可靠性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6ea2f93ddcf6db8f6512255532deccb6",
+    "title": "GPT-5.6 Sol for cybersafety:",
+    "url": "https://nitter.net/gdb/status/2085819760953192790#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-07T20:05:58+00:00",
+    "content_snippet": "<p>GPT-5.6 Sol for cybersafety:</p>\n<hr />\n<blockquote>\n<b>Grigori Karapetyan (@GregKara6)</b>\n<p>\n<p>Thank you for the reach-out. I have 0 issues with openai models, codex (gpt 5.6 sol) is my goat!<br />\n<br />\nGpt 5.6 sol allowed us to investigate and respond in a very speedy manner. Thank you! Keep up the great work!</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/GregKara6/status/2085748755064647698#m\">https://nitter.net/GregKara6/status/2085748755064647698#m</a>\n</footer>\n</blockquot",
+    "title_zh": "GPT-5.6 Sol 用于网络安全",
+    "summary_zh": "Greg Brockman在X平台转发用户反馈，称赞GPT-5.6 Sol模型在网络安全调查与响应中极为迅速，帮助团队高效处理问题，并称其为“我的GOAT”。",
+    "key_points": [
+      "GPT-5.6 Sol在网络安全调查中表现出极高速度",
+      "用户称赞该模型为“GOAT”，解决零问题",
+      "Greg Brockman转发此反馈，强调模型能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
