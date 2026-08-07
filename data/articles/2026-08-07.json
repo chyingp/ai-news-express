@@ -853,5 +853,51 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "24c11e0ce5df95356561ac89ecc29bdb",
+    "title": "Adding AI to Your ASP.NET Core Application: What It Actually Involves",
+    "url": "https://www.reddit.com/r/artificial/comments/1vhq7za/adding_ai_to_your_aspnet_core_application_what_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-07T04:08:53+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vhq7za/adding_ai_to_your_aspnet_core_application_what_it/\"> <img alt=\"Adding AI to Your ASP.NET Core Application: What It Actually Involves\" src=\"https://external-preview.redd.it/lYyms6ExmlNTSBE4sJFtc0C0Kyxxklccq1SLYXEqy2k.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d3ec95ac948761f1ab8ebd439a4d7b63e6f7a413\" title=\"Adding AI to Your ASP.NET Core Application: What It Actually Involves\" /> </a> </td><td> <!-- SC_OFF --><d",
+    "title_zh": "为 ASP.NET Core 应用添加 AI 功能：实际涉及哪些内容",
+    "summary_zh": "本文介绍了在 ASP.NET Core 应用程序中集成人工智能功能所涉及的实际步骤和技术考量，为开发者提供了实践指导。",
+    "key_points": [
+      "讲解在 ASP.NET Core 中集成 AI 的实践方法",
+      "涵盖技术选型、API 调用与架构设计等关键环节"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d2c23da5093ad837be79003ecc8dc258",
+    "title": "AI SSD：大模型推理的存储范式转移",
+    "url": "https://www.qbitai.com/2026/08/467840.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-08-07T02:56:46+00:00",
+    "content_snippet": "算力、网络、内存与存储开始围绕每个Token协同",
+    "title_zh": "AI SSD：大模型推理的存储范式转移",
+    "summary_zh": "文章探讨了在大模型推理场景下，算力、网络、内存与存储如何围绕每个 Token 协同工作，标志着存储架构的范式转变。",
+    "key_points": [
+      "提出大模型推理中存储架构需围绕 Token 重新设计",
+      "强调算力、网络、内存与存储的深度协同"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
