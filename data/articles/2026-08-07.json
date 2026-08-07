@@ -1139,5 +1139,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ee208bfa5bf9f0cf1b67d0cd72e8cabb",
+    "title": "I built a domain‑specific AI plant care engine — but I’m unsure if this architecture scales. Thoughts?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vhzq24/i_built_a_domainspecific_ai_plant_care_engine_but/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-07T12:48:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been experimenting with a <strong>domain‑specific AI assistant</strong> for plant care and plant problem diagnosis.<br /> It’s called <em>Plantcoach</em> — an intent‑driven pipeline where the LLM only rewrites facts, never invents them.</p> <p><strong>Technical repo:</strong><br /> <a href=\"https://github.com/Introgreen/plantcoach\">https://github.com/Introgreen/plantcoach</a></p> <h1>How it works (short version)</h1> <ul> <li>Intent recognition (care, probl",
+    "title_zh": "我构建了一个领域专用的AI植物护理引擎——但我不确定这种架构能否扩展",
+    "summary_zh": "作者分享了一个名为Plantcoach的领域专用AI植物护理助手的构建经验。该引擎采用意图驱动管道，LLM仅负责改写事实而非凭空生成，以确保诊断准确性。作者对当前架构的可扩展性表示疑虑，并寻求社区对架构设计的反馈，探讨了其在更大规模应用中的可行性。",
+    "key_points": [
+      "领域专用AI引擎Plantcoach采用意图驱动管道，LLM仅改写事实不捏造信息",
+      "架构旨在确保植物护理和问题诊断的准确性，而非依赖生成式模型",
+      "开发者对当前架构的可扩展性存疑，向社区征求意见"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
