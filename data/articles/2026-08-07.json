@@ -1069,5 +1069,75 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "06d1a095d4dafdbb4e54a8ed1da91967",
+    "title": "Scott Galloway Explains Why Your Firm Doesn't Need 5 Analysts Anymore — Just 1 Who Understands AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1vhxze3/scott_galloway_explains_why_your_firm_doesnt_need/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-07T11:27:28+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vhxze3/scott_galloway_explains_why_your_firm_doesnt_need/\"> <img alt=\"Scott Galloway Explains Why Your Firm Doesn't Need 5 Analysts Anymore — Just 1 Who Understands AI\" src=\"https://external-preview.redd.it/a3FsNjc1OWJ1eGhoMdWN0A1Dm5pC0hixffdsSAFxcmUyD9mlFIKu1Z1oin__.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3da8d5a13d44330dabfb01e3fe053c5c2d2c2c32\" title=\"Scott Galloway Explains Why Your Firm Doesn't Need 5 Analysts ",
+    "title_zh": "斯科特·加洛韦：你的公司不再需要5名分析师，只需1名懂AI的人",
+    "summary_zh": "斯科特·加洛韦认为，AI技术进步将大幅提升分析师效率，企业未来可能只需一名善用AI的分析师即可完成过去一个团队的工作量。",
+    "key_points": [
+      "AI能大幅提升分析师工作效率，减少人员需求",
+      "企业未来更需懂AI的复合型人才，而非纯人工分析"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "daf7b27b47db6ee6587bee5907abba2d",
+    "title": "Imagenet-1k Classifier trained entirely on an Android [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vhwwfr/imagenet1k_classifier_trained_entirely_on_an/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-07T10:30:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It's an MLP architecture with around 500K total parameters.</p> <p>Top1</p> <p>Training accuracy: 5.11%</p> <p>Validation accuracy 4.59% </p> <p>Detailed Validation accuracy numbers:</p> <p>Top-1 Acc: 4.59%</p> <p>Top-3 Acc: 9.44%</p> <p>Top-5 Acc: 12.68%</p> <p>Top-10 Acc: 18.53%</p> <p>The model was trained on a downscaled version of the Imagenet-1k dataset (32x32) for 5 epochs.</p> <p>I used pytorch for the training and pyarrow for the dataset, all within ter",
+    "title_zh": "完全在安卓手机上训练的ImageNet-1k分类器",
+    "summary_zh": "一项研究项目展示了一个在安卓手机上训练的MLP架构分类器，拥有约50万参数，在ImageNet-1k数据集上取得了4.59%的top-1验证准确率。",
+    "key_points": [
+      "在安卓手机上完成ImageNet-1k分类器训练",
+      "模型为50万参数的MLP架构，top-1准确率仅4.59%",
+      "实验探索了在移动端设备上进行模型训练的可能性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8aff895f55b81091b81e6924d7d5fa42",
+    "title": "Everyone please spread the word!",
+    "url": "https://www.reddit.com/r/artificial/comments/1vhwh4k/everyone_please_spread_the_word/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-07T10:06:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Everyone please spread the word!</p> <p>Currently you can choose between 3 voice modes. Live,advanced and standard. This post is about standard voice mode NOT live or advanced.</p> <p>The current problem with the standard voice mode is that it is no longer turn based like it used to be. So it can keep getting interrupted and hear its own voice.</p> <p>Please bring back the turn based option to standard voice mode. So ChatGPT can finish what it saying without ran",
+    "title_zh": "大家请广而告之：标准语音模式不再是轮流对话",
+    "summary_zh": "网友发帖指出，当前AI语音模式的标准模式发生改变，已不再是基于轮流对话的机制，呼吁大家关注并传播此信息。",
+    "key_points": [
+      "标准语音模式更新，不再支持轮流对话功能",
+      "问题涉及标准模式，而非实时或高级语音模式"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
