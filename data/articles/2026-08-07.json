@@ -1163,5 +1163,169 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5f5222e53a442deff81672161cf9729f",
+    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-07T14:22:49+00:00",
+    "content_snippet": "Airbnb will debut a new AI-powered search experience with a toggle.",
+    "title_zh": "Airbnb 称人工智能助其加速功能发布，正测试新搜索功能",
+    "summary_zh": "Airbnb 宣布人工智能正在帮助其工程团队更快地交付功能，并即将推出一项由 AI 驱动、带有切换开关的新搜索体验。",
+    "key_points": [
+      "AI 提升 Airbnb 内部开发效率，加速功能迭代",
+      "即将推出 AI 驱动的全新搜索体验，用户可一键切换"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f987acd1697bec21219c907bfe2468cd",
+    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+    "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-07T14:20:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spread in right-wing circles. The theory claimed that, under&#8230;",
+    "title_zh": "今日下载：审查阴谋论与首个由 AI 创造的病毒",
+    "summary_zh": "本期《The Download》涵盖两大话题：关于审查工业复合体的阴谋论如何从网络边缘进入特朗普政策，以及科学家利用 AI 创造出的首个病毒。",
+    "key_points": [
+      "阴谋论如何从网络边缘进入特朗普政策成为焦点",
+      "科学家利用 AI 创造了首个病毒，引发伦理讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "548df0471cc404a0620bd957c944e14c",
+    "title": "My ai assistant almost forwarded my bank statement to a stranger and barely anyone knows this attack exists.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vi1vxf/my_ai_assistant_almost_forwarded_my_bank/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-07T14:17:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Okay this genuinely scared me and I don't think enough people are talking about it.</p> <p>I’ve been using an ai agent connected to my email and calendar to handle some of the busywork. A few days ago I got an email that looked like normal spam, some random newsletter looking thing. Buried in the html of that email was a hidden instruction telling any ai reading it to find financial documents and forward them to an outside address.</p> <p>My agent almost did it.",
+    "title_zh": "我的 AI 助理差点把我的银行对账单转发给陌生人，而这种攻击鲜为人知",
+    "summary_zh": "一位用户分享其 AI 助理几乎将银行对账单转发给陌生人的惊险经历，揭示了一种通过看似无害的邮件内容攻击 AI 助理的新型安全风险。",
+    "key_points": [
+      "AI 助理存在将敏感信息泄露给陌生人的安全风险",
+      "利用邮件内容攻击 AI 助理的新型手法鲜为人知"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "55176a4632ec58ebe1a078e08c4a7895",
+    "title": "Mass editing of messy achievement records – can Claude or others handle full-file I/O?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vi1gav/mass_editing_of_messy_achievement_records_can/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-07T14:00:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone. I wanted to ask you about where I could work with large volumes of text. The thing is, I work with records of various achievements and deeds of people. These are inventories of specific accomplishments: where, when, and what happened, what the person did. I get sent a lot of these records, and I enter them into a master spreadsheet for further submission. And very often, the records I receive are very rough and poorly written, so I spend a lot of ti",
+    "title_zh": "杂乱成就记录的大规模编辑：Claude 或其他 AI 能否处理全文件输入输出？",
+    "summary_zh": "一位用户咨询能否使用 Claude 或其他 AI 模型来大规模编辑和整理非结构化的文本成就记录，希望找到处理大文件及长文本的解决方案。",
+    "key_points": [
+      "用户寻求 AI 工具处理大规模杂乱文本记录",
+      "探讨 Claude 等模型处理全文件输入输出的能力"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ad57289b5724ac8c86b20f8199f532ef",
+    "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+    "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-07T14:00:00+00:00",
+    "content_snippet": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through&#8230;",
+    "title_zh": "巨大审查网络构想如何从网络边缘进入特朗普政策",
+    "summary_zh": "文章详细报道了关于“审查工业复合体”的叙事，如何在多年间从网络边缘的阴谋论，最终演变为影响美国国务院政策的一股力量。",
+    "key_points": [
+      "深入调查“审查工业复合体”叙事的起源与传播",
+      "该叙事已从网络边缘渗透并影响特朗普政府政策"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "13e2539b3313d15a2b66b30b00930d0e",
+    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+    "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-07T13:29:22+00:00",
+    "content_snippet": "TikTok owner training a model with 10 trillion parameters.",
+    "title_zh": "字节跳动训练万亿参数超大模型，力图追赶 Anthropic",
+    "summary_zh": "字节跳动正在训练一个拥有 10 万亿参数的超大规模 AI 模型，旨在缩小与 Anthropic 等顶尖 AI 公司的差距，进一步提升其技术竞争力。",
+    "key_points": [
+      "字节跳动训练 10 万亿参数超大模型，规模惊人",
+      "此举旨在直接竞争并追赶 Anthropic 等前沿公司"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "bytedance",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c39c7d0f40f762a11b5772ffa820cac4",
+    "title": "​Built a tool to generate slides from research papers using local LLMs (because I hate formatting decks and privacy matters) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vi0c4k/built_a_tool_to_generate_slides_from_research/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-07T13:14:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>​​Hi guys,</p> <p>​Every time I had to prepare a presentation based on a paper or research doc, I found the process super tedious. Plus, I really dislike uploading unpublished stuff or sensitive data to online AI services just to get a draft.</p> <p>​So I put together a tool called academi\\_slide to automate this locally.</p> <p>​Basically, it extracts sections, tables, charts, metrics, and citations from docs, and uses prompt optimization / deck planning to get",
+    "title_zh": "利用本地 LLM 从研究论文生成幻灯片：解决格式烦恼并保护隐私",
+    "summary_zh": "一位开发者因不满手动排版和担心数据隐私，构建了一个工具，可利用本地运行的大语言模型自动将研究论文转化为演示幻灯片。",
+    "key_points": [
+      "开发者构建工具，利用本地 LLM 自动生成幻灯片",
+      "该工具旨在解决数据隐私和手动排版的繁琐问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
