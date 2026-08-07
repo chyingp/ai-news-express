@@ -318,5 +318,81 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "10f6fae4c423d1a76deeb47cdf8f6c89",
+    "title": "Evaluations of our next major model, Astra, indicate significant capability advancements in agentic coding and cybersecurity. Team is doing the safety and security work to make Astra broadly available, and get its advanced cyber capabilities into the hands of defenders:",
+    "url": "https://nitter.net/gdb/status/2085805983440499060#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-07T19:11:13+00:00",
+    "content_snippet": "<p>Evaluations of our next major model, Astra, indicate significant capability advancements in agentic coding and cybersecurity.<br />\n<br />\nTeam is doing the safety and security work to make Astra broadly available, and get its advanced cyber capabilities into the hands of defenders:</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>After evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework.<br />\n",
+    "title_zh": "OpenAI 下一代模型 Astra 评估：智能体编码与网络安全能力显著提升",
+    "summary_zh": "OpenAI 联合创始人 Greg Brockman 透露，其下一代主要模型 Astra 在智能体编码和网络安全领域展现出显著的能力进步。团队正进行安全加固工作，旨在将 Astra 广泛发布，并使其高级网络能力惠及防御者。",
+    "key_points": [
+      "Astra 在智能体编码和网络安全方面取得重大能力突破",
+      "团队正进行安全与安保工作，为广泛发布做准备",
+      "目标是将高级网络能力提供给防御者使用"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "07afcb3878c26ed0fe5f64b8edfdd337",
+    "title": "OpenAI's 'hockey puck-sized' gadget to cost over $300",
+    "url": "https://www.reddit.com/r/artificial/comments/1vi9m5j/openais_hockey_pucksized_gadget_to_cost_over_300/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-07T19:04:12+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vi9m5j/openais_hockey_pucksized_gadget_to_cost_over_300/\"> <img alt=\"OpenAI's 'hockey puck-sized' gadget to cost over $300\" src=\"https://external-preview.redd.it/v4yxI_eoTbO6gt_AMIlPJ93FZqUiC_EOgNJ9PSK9DH8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d8fd98f771748dd426f5443aa66b1c04a566787\" title=\"OpenAI's 'hockey puck-sized' gadget to cost over $300\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>OpenAI’s consume",
+    "title_zh": "OpenAI 的“冰球大小”硬件设备售价将超 300 美元",
+    "summary_zh": "据 Reddit 消息，OpenAI 正在开发的一款体积如冰球大小的硬件设备，其售价预计将超过 300 美元。该消息引发了社区对 OpenAI 进军消费硬件领域及其定价策略的讨论。",
+    "key_points": [
+      "OpenAI 正在开发一款小型硬件设备",
+      "设备体积小如冰球，售价预计超过 300 美元",
+      "此举标志着 OpenAI 可能进一步拓展消费硬件市场"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "73ddfbd0f80f813647bbace9b62479e6",
+    "title": "Watching Roku’s AI channel is like eating from a trough",
+    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-07T18:59:46+00:00",
+    "content_snippet": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely focused on giving viewers access to a constant source of AI-generated content. [&#8230;]",
+    "title_zh": "体验 Roku 的 AI 频道：如同在食槽进食",
+    "summary_zh": "The Verge 评论指出，Roku 推出的 AI 频道 Fairground 体验糟糕，内容完全由 AI 生成，缺乏传统娱乐节目的魅力，感觉像在食槽里进食。该频道是 Roku 在 FAST 领域的最新实验。",
+    "key_points": [
+      "Roku 推出完全由 AI 生成内容的 FAST 频道 Fairground",
+      "评论认为该频道体验极差，缺乏传统节目的吸引力",
+      "此举是 Roku 在免费广告支持流媒体领域的最新尝试"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
