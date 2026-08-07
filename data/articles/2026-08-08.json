@@ -468,5 +468,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9195ef0cc99ebbbcac0e28c96cb4ae16",
+    "title": "I gave an AI persistent memory and a per-user trained adapter — the strangest result was what it does to how people talk to it",
+    "url": "https://www.reddit.com/r/artificial/comments/1vie3jj/i_gave_an_ai_persistent_memory_and_a_peruser/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-07T21:58:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><pre><code>Context: I've been building a system where the AI doesn't reset. It keeps a permanent memory of your conversations, and it trains a small per-user adapter that compounds — every day it's slightly more specifically tuned to you than it was yesterday. The adapter is yours and exportable. The technical part I expected to be hard was the memory retrieval. It wasn't really. The genuinely hard part was deciding what it should be allowed to forget, because a sy",
+    "title_zh": "我给AI装上了永久记忆和用户专属适配器——最奇怪的结果是它改变了人们说话的方式",
+    "summary_zh": "一位开发者构建了一个具备永久记忆和每日更新用户专属适配器的AI系统。实验发现，最出乎意料的结果不是AI能力的提升，而是人们与AI的对话方式因此发生了显著改变。",
+    "key_points": [
+      "AI拥有永久记忆和每日更新的用户专属适配器",
+      "最显著的发现是用户与AI的对话方式发生了改变",
+      "系统通过持续记忆和微调训练来适应特定用户"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "da0b6fc8a9a912541dc01cd8869bacd2",
+    "title": "In order to be anti-AI, you actually need to understand what AI is these days.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vidt92/in_order_to_be_antiai_you_actually_need_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-07T21:46:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am extremely anti AI. I think it’s incredibly dangerous and being built by the most irresponsible people and companies on earth. I am also keenly aware of its progress. Somewhere around mid- to late-2025, AI surpassed me, personally, on virtually all tasks. There is pretty much no longer anything I can do better than the latest models, even given significant prep time. AI is genuinely better at nearly every non-embodied task than virtually every human alive at",
+    "title_zh": "要反对AI，你首先需要真正理解当下的AI是什么",
+    "summary_zh": "文章作者表达了对AI的强烈反对态度，认为AI极其危险且由不负责任的公司构建。但同时指出，要有效反对AI，必须深入了解其进展，因为在2025年中后期，AI已在几乎所有任务上超越了他个人。",
+    "key_points": [
+      "作者认为AI极其危险，由不负责任的公司构建",
+      "反对AI的前提是深入理解AI的当下进展",
+      "2025年中后期，AI已在几乎所有任务上超越了作者个人"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
