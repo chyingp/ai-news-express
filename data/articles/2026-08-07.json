@@ -922,5 +922,102 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "75d1637969066c1d2c0d1563406ca18f",
+    "title": "Best ai tool for creating concept images",
+    "url": "https://www.reddit.com/r/artificial/comments/1vhud1w/best_ai_tool_for_creating_concept_images/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-07T08:01:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I currently use ChatGPT but after a while the images go a little weird like faces in the image go distorted also text in the image goes blurry I don’t actually how to fix that.</p> <p>Is Gemini good for creating concept images?<br /> I heard about another ai called Claude is that good? </p> <p>Or is there any other ai that is better</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/sunsetcoast28\"> /u/sunsetcoast28 </a> &#32; ",
+    "title_zh": "Best ai tool for creating concept images",
+    "summary_zh": "Reddit用户询问除ChatGPT外，用于创建概念图像的最佳AI工具，提到ChatGPT生成的图像会出现面部扭曲和文字模糊的问题，并咨询Gemini的表现。",
+    "key_points": [
+      "ChatGPT生成概念图时存在面部扭曲和文字模糊问题",
+      "用户寻求替代方案，询问Gemini是否适合生成概念图像"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "07f2ff3bd83a17a876016ed9c417f331",
+    "title": "On the ACM Multimedia 2026 Conference Registration and APC [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vhtrz2/on_the_acm_multimedia_2026_conference/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-07T07:24:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Having two papers accepted at two different workshops and planning to attend the main conference, I contacted the organizers by email. It is now clear that I need to register twice, using the same personal details, to cover both papers.</p> <p>The minimum cost would therefore be one full registration plus one workshop registration. However, I would also have to use two different email addresses, since the registration portal does not allow the same email address",
+    "title_zh": "关于ACM Multimedia 2026会议注册及APC费用的讨论",
+    "summary_zh": "一位作者有两篇论文被ACM Multimedia 2026的不同研讨会接收，但被要求为每篇论文单独注册并支付费用，引发了对会议注册政策的讨论。",
+    "key_points": [
+      "ACM Multimedia 2026要求作者为每篇被接收论文单独注册",
+      "此政策导致作者需重复支付注册费用，引发争议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "50e912ced38c5b0742dd6face8a5f148",
+    "title": "Chinese AI Models Turn Cost Into a Competitive Weapon",
+    "url": "https://www.reddit.com/r/artificial/comments/1vht6c2/chinese_ai_models_turn_cost_into_a_competitive/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-07T06:49:54+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vht6c2/chinese_ai_models_turn_cost_into_a_competitive/\"> <img alt=\"Chinese AI Models Turn Cost Into a Competitive Weapon\" src=\"https://external-preview.redd.it/r7v9iUduv1RekyXaSXzBUC1sVJkQKNPuUD6Gt5F4m8w.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d07e87892cd2a11f42ec2d010e43243fb694815\" title=\"Chinese AI Models Turn Cost Into a Competitive Weapon\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.",
+    "title_zh": "中国AI模型将成本转化为竞争武器",
+    "summary_zh": "文章探讨中国AI模型如何通过极具竞争力的低成本策略，在人工智能市场中形成差异化优势，挑战现有格局。",
+    "key_points": [
+      "中国AI公司通过极低的模型使用成本参与市场竞争",
+      "低成本策略成为其与海外模型竞争的关键差异化武器"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5f3529d9e6112eb9fa8b5d2dde61fdc0",
+    "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+    "url": "https://www.qbitai.com/2026/08/466738.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-07T06:21:05+00:00",
+    "content_snippet": "",
+    "title_zh": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+    "summary_zh": "大量由AI生成的虚假或低质量bug报告涌入苹果的漏洞赏金计划，导致审核团队不堪重负，系统一度瘫痪。",
+    "key_points": [
+      "AI生成的大量虚假报告冲击苹果漏洞赏金计划",
+      "审核团队因不堪重负被迫下线，暴露人工审核脆弱性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
