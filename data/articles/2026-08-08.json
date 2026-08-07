@@ -220,5 +220,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b2a6c14123950789c6498a7663713f90",
+    "title": "In the era of base LLM scaling (2022-2024), I believed the LLM line of research would reach a capability plateau (as later seen with base LLMs). In late 2024, after the o3 test-time compute demo, I changed my views: the new models were showing genuine fluid intelligence, and with this new line of work, the LLM line of research could achieve unbounded capability scaling. \"There will be no wall.\" I talked about it at length on Twitter and in a blog post. However, looking ahead, I still do not believe that future AI (say, in 15 years) will be based on the LLM stack. I believe it will necessarily have to move closer to its optimal, final form -- symbolic learning. Obviously this is a risky and contrarian belief -- the safe bet would be LRMs. But let's see. The only meaningful difference is efficiency, not task-specific skill. I believe current techniques are 4-6 orders of magnitude away from optimality in terms of data efficiency and test-time compute efficiency. But far future AI will be near-optimal.",
+    "url": "https://nitter.net/fchollet/status/2085796727362052241#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-07T18:34:26+00:00",
+    "content_snippet": "<p>In the era of base LLM scaling (2022-2024), I believed the LLM line of research would reach a capability plateau (as later seen with base LLMs).<br />\n<br />\nIn late 2024, after the o3 test-time compute demo, I changed my views: the new models were showing genuine fluid intelligence, and with this new line of work, the LLM line of research could achieve unbounded capability scaling. \"There will be no wall.\" I talked about it at length on Twitter and in a blog post.<br />\n<br />\nHowever, looki",
+    "title_zh": "François Chollet：LLM 并非 AI 最终形态，未来属于符号学习",
+    "summary_zh": "Keras 创始人 François Chollet 表示，尽管 o3 等推理模型展现了真正的流体智力并突破了 LLM 扩展瓶颈，但他仍认为未来 AI 将转向更高效的符号学习，当前技术在数据效率上距最优解有 4-6 个数量级的差距。",
+    "key_points": [
+      "Chollet 认为 o3 测试时计算展示的流体智力消除了 LLM 的能力天花板",
+      "他预测未来 15 年 AI 将转向符号学习，而非继续依赖 LLM 堆栈",
+      "当前技术在数据效率和测试时计算效率上距最优解差 4-6 个数量级"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bce689ed765de870c8ac6a44be1aa963",
+    "title": "I benchmarked my own recsys library against implicit — it wins on quality, loses 9x on speed, and I found 7 bugs in my own code doing it [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vi8rr8/i_benchmarked_my_own_recsys_library_against/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-07T18:32:46+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1vi8rr8/i_benchmarked_my_own_recsys_library_against/\"> <img alt=\"I benchmarked my own recsys library against implicit — it wins on quality, loses 9x on speed, and I found 7 bugs in my own code doing it [P]\" src=\"https://preview.redd.it/9qyf9d0vxzhh1.png?width=140&amp;height=87&amp;auto=webp&amp;s=ee3db0098d83928361a12c896b781e05fe11c439\" title=\"I benchmarked my own recsys library against implicit — it wins on quality, lo",
+    "title_zh": "我用自己的推荐系统库对战 implicit：质量领先但速度慢 9 倍，还发现了 7 个 bug",
+    "summary_zh": "一位开发者在 Reddit 上分享了自己对自研推荐系统库与 implicit 库的基准测试结果，自研库在推荐质量上胜出，但运行速度却慢了 9 倍，同时在测试过程中发现了自身代码中的 7 个漏洞。",
+    "key_points": [
+      "自研推荐系统库在推荐质量上优于 implicit 库",
+      "自研库的运行速度比 implicit 慢 9 倍",
+      "开发者在基准测试中发现了自己代码里的 7 个 bug"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c83e498b394ebb98375f5f6bfd79cfa1",
+    "title": "What safeguards do you use before giving ChatGPT agents permission to act?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vi800c/what_safeguards_do_you_use_before_giving_chatgpt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-07T18:04:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I watched an interview with AI safety researcher Roman Yampolskiy, and it raised a practical question for people who use ChatGPT for advanced workflows.</p> <p>His broader claim is that increasingly intelligent AI systems may become harder to predict and control. Whether or not you agree with his conclusions about AGI, a smaller version of this problem already exists when we give an AI access to tools.</p> <p>There is a major difference between asking ChatGPT to",
+    "title_zh": "在授予 ChatGPT 代理行动权限前，你会采取哪些安全措施？",
+    "summary_zh": "一篇 Reddit 帖子讨论了在让 ChatGPT 智能体执行高级工作流时的安全防范问题，引用 AI 安全研究员的观点，探讨了更智能的 AI 系统可能变得难以预测和控制，用户在授予权限前应设立哪些防护措施。",
+    "key_points": [
+      "讨论授予 ChatGPT 智能体行动权限前的安全防护措施",
+      "引用研究者观点，认为更智能的 AI 系统可能更难预测和控制",
+      "用户关注在实际应用中如何平衡 AI 自主性与安全性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "420b06b98db6442dcff17b3a7858e75c",
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "url": "https://huggingface.co/blog/allenai/tutormoments",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-07T17:53:32+00:00",
+    "content_snippet": "",
+    "title_zh": "TutorMoments：AI 导师知道何时该帮忙，何时该退后吗？",
+    "summary_zh": "Hugging Face 博客介绍了 Allen AI 的 TutorMoments 研究，探讨 AI 教育辅导系统如何判断介入时机，平衡主动提供帮助与鼓励学生独立思考之间的关系，旨在提升 AI 导师的教学策略。",
+    "key_points": [
+      "研究 AI 教育辅导系统如何判断合适的介入时机",
+      "探索 AI 在主动帮助与鼓励学生独立思考间的平衡策略",
+      "艾伦人工智能研究所通过 TutorMoments 提升 AI 教学效果"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
