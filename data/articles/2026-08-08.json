@@ -592,5 +592,21 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "972a1cd392771444840d29d9c8e3ba64",
+    "title": "Learned the term \"context poisoning\" today and now I can't stop noticing it",
+    "url": "https://www.reddit.com/r/artificial/comments/1vigmw3/learned_the_term_context_poisoning_today_and_now/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术社区",
+    "language": "en",
+    "published": "2026-08-07T23:49:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Someone explained this to me in a comment thread and it's been rattling around in my head since. The idea: in a long conversation, if the model says something wrong and you correct it, that correction doesn't necessarily erase the wrong idea's influence. The tokens around the mistake, including the back-and-forth about why it's wrong, can end up giving the original bad idea more weight in context, not less, because it's now been referenced multiple times. The mo",
+    "title_zh": "了解到",
+    "processed": true,
+    "proc_version": 1,
+    "companies": []
   }
 ]
