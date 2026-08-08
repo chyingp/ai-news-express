@@ -933,5 +933,56 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "69a0eae274371d3d44c8f4628d6fc86c",
+    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+    "url": "https://www.reddit.com/r/artificial/comments/1virisx/bytedance_trains_massive_ai_model_in_bid_to_rival/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-08T09:28:54+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1virisx/bytedance_trains_massive_ai_model_in_bid_to_rival/\"> <img alt=\"ByteDance trains massive AI model in bid to rival Anthropic\" src=\"https://external-preview.redd.it/koMVPXzFJzFJJCKpNprN_wWo7jPuIg41sYL48MK47Xc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=59df9f1f4f7a38e8a295aaa1782cfd3cc6c9863b\" title=\"ByteDance trains massive AI model in bid to rival Anthropic\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"htt",
+    "title_zh": "字节跳动训练大规模AI模型挑战Anthropic",
+    "summary_zh": "字节跳动正在训练一个大规模AI模型，旨在与Anthropic的模型展开竞争，此举可能加剧AI领域的竞争格局。",
+    "key_points": [
+      "字节跳动正在训练大规模AI模型以增强竞争力",
+      "该模型旨在直接挑战Anthropic的技术地位",
+      "此举可能重塑AI行业竞争格局"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "bytedance",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f482b4fb41199140c9283ab987033d53",
+    "title": "AI cost vs human cost math still doesn't add up for me and I work in healthcare",
+    "url": "https://www.reddit.com/r/artificial/comments/1viqva8/ai_cost_vs_human_cost_math_still_doesnt_add_up/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-08T08:48:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Physical therapy clinics run on thin margins. I see it every day. So when I hear that AI and robotics are going to be cheaper than humans I actually try to run the numbers in my own context and it falls apart fast.</p> <p>The hardware alone for anything resembling useful physical rehabilitation robotics is six figures minimum. Then you need maintenance contracts, software updates, liability coverage, and someone who actually knows how to run the thing. Meanwhile",
+    "title_zh": "AI成本与人力成本对比：医疗从业者的现实考量",
+    "summary_zh": "一位物理治疗从业者根据实际经验分析，认为在当前医疗场景下，AI和机器人技术替代人力的成本效益并不成立，硬件投入就难以回本。",
+    "key_points": [
+      "医疗从业者实测AI成本，发现无法替代人力",
+      "物理治疗中硬件投入远超人力成本，短期难以回本",
+      "质疑AI在薄利医疗领域的经济可行性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
