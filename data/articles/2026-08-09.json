@@ -258,5 +258,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "299c1e9c13da45c299b1703f25b5098c",
+    "title": "73 NeurIPS workshops, and not a single one on Causality [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vj8lag/73_neurips_workshops_and_not_a_single_one_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-08T22:12:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Is this it for Causal Inference? Looks like the field continues to be of interest only at UAI/AISTATS/CLeaR. All good venues, but LLMs/Agents/etc seem to have eaten much of the lunch of several other subfields at the top 3 conferences.</p> <p>God help us all.</p> <p>**p.s.** the list: <a href=\"https://danyaljj.github.io/neurips2026-workshops/\">https://danyaljj.github.io/neurips2026-workshops/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https:/",
+    "title_zh": "73个NeurIPS研讨会竟无一个因果推理专题：领域边缘化危机显现",
+    "summary_zh": "Reddit用户发现2026年NeurIPS大会的73个研讨会中没有一个专门讨论因果推理，认为该领域正被LLM和智能体等热门方向挤占，仅在UAI等小众会议中活跃，引发对因果推断未来发展的担忧。",
+    "key_points": [
+      "NeurIPS 2026的73个研讨会无一专注因果推理领域",
+      "LLM和智能体等热门方向挤占了因果推断的生存空间",
+      "因果推理仅在小众会议如UAI、AISTATS中保持活跃"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
