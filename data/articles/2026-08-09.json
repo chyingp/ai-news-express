@@ -1,0 +1,72 @@
+[
+  {
+    "id": "56072257dc3fac1cd1018b3cc2bbe60d",
+    "title": "So AI has now designed actual viruses that work...",
+    "url": "https://www.reddit.com/r/artificial/comments/1vizn4x/so_ai_has_now_designed_actual_viruses_that_work/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-08T16:00:29+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vizn4x/so_ai_has_now_designed_actual_viruses_that_work/\"> <img alt=\"So AI has now designed actual viruses that work...\" src=\"https://preview.redd.it/6bhwir50c6ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=362ef120f5244cf5e70597c401e6ae09b5eb45e6\" title=\"So AI has now designed actual viruses that work...\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Just came across this and honestly this is pretty wild.</p> <p",
+    "title_zh": "AI 现已能设计出真正可用的病毒",
+    "summary_zh": "Reddit 讨论称，人工智能已成功设计出具有实际功能的病毒，引发对 AI 生物安全风险的广泛担忧。",
+    "key_points": [
+      "AI 设计出具备实际功能的病毒，引发生物安全担忧",
+      "该技术可能被滥用于制造生物武器",
+      "事件凸显 AI 在合成生物学领域的双刃剑效应"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5e18f9720b1e85dc6c5c9593a2e8e7a1",
+    "title": "Chinese LLMs dominate this week's top charts",
+    "url": "https://www.reddit.com/r/artificial/comments/1vizcs8/chinese_llms_dominate_this_weeks_top_charts/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-08T15:48:29+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vizcs8/chinese_llms_dominate_this_weeks_top_charts/\"> <img alt=\"Chinese LLMs dominate this week's top charts\" src=\"https://preview.redd.it/699df5lv96ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ebff29808172080142b7b2574c6bd214e9e950e\" title=\"Chinese LLMs dominate this week's top charts\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Source: <a href=\"https://openrouter.ai/rankings\">https://openrouter.ai/ranking",
+    "title_zh": "中国大模型本周霸榜AI排行榜",
+    "summary_zh": "本周多项 AI 榜单显示，中国大语言模型表现突出，占据主导地位，反映出中国在 AI 领域的快速进步。",
+    "key_points": [
+      "中国大模型在最新一周的榜单中表现强势",
+      "显示中国在 AI 大模型领域的竞争力显著提升"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "53b1f1868f29e0d0d4009e07201afd70",
+    "title": "A question about Large Language Models (LLMs): my own observations: non-instructional text prefix may bypass RLHF constraints without adversarial prompting.",
+    "url": "https://www.reddit.com/r/artificial/comments/1viz14o/a_question_about_large_language_models_llms_my/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-08T15:34:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone! I’ve been conducting experiments with LLMs that have undergone RLHF alignment, and I’ve encountered a phenomenon that I still don’t have a complete explanation for. A long, harmless text containing no instructions at all causes a noticeable and persistent shift in activations in the middle and later layers - and this effectively disables the model’s safety mechanisms, without any explicit commands being given. If I’m not mistaken, Yann LeCun has sai",
+    "title_zh": "关于大语言模型的一个发现：非指令性文本前缀可能绕过RLHF约束",
+    "summary_zh": "用户实验发现，在提示前添加一段无害的长文本，可在不进行对抗性攻击的情况下，绕过RLHF对齐约束，影响模型输出。",
+    "key_points": [
+      "非指令性长文本前缀可绕过RLHF安全对齐机制",
+      "该现象无需对抗性提示，可能揭示模型对齐漏洞"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
