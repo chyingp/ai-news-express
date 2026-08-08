@@ -210,5 +210,30 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "61f42ecb8f77cb359ad2a12aa0cf5239",
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-08T19:41:13+00:00",
+    "content_snippet": "NextSlide says its team members are now working on ChatGPT.",
+    "title_zh": "OpenAI 收购演示文稿初创公司 NextSlide",
+    "summary_zh": "OpenAI 收购了演示文稿初创公司 NextSlide，其团队成员将加入并致力于 ChatGPT 的研发工作。",
+    "key_points": [
+      "OpenAI 收购演示文稿初创公司 NextSlide",
+      "NextSlide 团队将加入 OpenAI 参与 ChatGPT 开发"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
