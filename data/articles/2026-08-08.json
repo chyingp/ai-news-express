@@ -1079,5 +1079,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "83deddd1bbab570802027f83f5096f5d",
+    "title": "Pinned: GPT-4 finished training four years ago today.",
+    "url": "https://nitter.net/gdb/status/2086092396023120286#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-08T14:09:19+00:00",
+    "content_snippet": "<p>GPT-4 finished training four years ago today.</p>",
+    "title_zh": "GPT-4 完成训练四周年",
+    "summary_zh": "OpenAI 联合创始人 Greg Brockman 在社交媒体上回顾，指出 GPT-4 模型已于四年前的今天完成训练，引发业界对 AI 发展速度的讨论。",
+    "key_points": [
+      "GPT-4 模型训练完成已有四年时间",
+      "OpenAI 联合创始人 Greg Brockman 发文纪念",
+      "引发对 AI 大模型迭代速度的回顾与讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
