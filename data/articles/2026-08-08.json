@@ -984,5 +984,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "72d117cb0a5fb4f930119cdf00d13ea3",
+    "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+    "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-08T10:24:54+00:00",
+    "content_snippet": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure.  Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy [&#8230;]",
+    "title_zh": "Firebird 在亚美尼亚启动独联体地区最大 AI 工厂",
+    "summary_zh": "新兴 AI 云服务商 Firebird 在亚美尼亚启动了独联体地区最大的人工智能工厂，创建了由 NVIDIA 加速计算和戴尔科技高性能 AI 基础设施驱动的全新 AI 计算枢纽。",
+    "key_points": [
+      "Firebird 在亚美尼亚建立独联体地区最大 AI 工厂",
+      "该工厂由 NVIDIA 加速计算与戴尔高性能基础设施驱动",
+      "标志着全球 AI 基础设施建设的又一个里程碑"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
