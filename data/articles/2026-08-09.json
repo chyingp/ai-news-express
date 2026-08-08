@@ -138,5 +138,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d245de3c1d6620666b01c544fa536579",
+    "title": "I read a study that managers are the ones benefiting more from AI and it’s just getting started",
+    "url": "https://www.reddit.com/r/artificial/comments/1vj3zsu/i_read_a_study_that_managers_are_the_ones/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-08T18:55:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Managers are saving over 2x the time individual contributors are with AI tools.<br /> and it’s just starting</p> <p>I had a conversation recently with a copywriting agency owner who let her contractors go because her own prompts were giving her the same output they were.</p> <p>I believe that's one of the reasons you get a 2x gap between managers and everyone else.</p> <p>In the same survey, 36% of managers said they're not likely to launch training for their em",
+    "title_zh": "研究显示管理者从AI中获益远超普通员工，且差距才刚开始",
+    "summary_zh": "一项研究指出，管理者使用AI工具节省的时间是普通员工的两倍以上。有实例显示，文案机构老板因自身提示词产出与外包人员相当，而解雇了所有合同工。",
+    "key_points": [
+      "管理者利用AI工具节省的时间是普通员工的2倍多",
+      "AI提示词产出的内容质量已能媲美专业外包人员",
+      "AI对白领工作的冲击可能首先从外包岗位开始"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4d61656e02360a88551a123030bed659",
+    "title": "Will AI help speed up medical science?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vj3trr/will_ai_help_speed_up_medical_science/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-08T18:48:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What do you think? Could AI help the process so that chronic conditions could be treated, maybe even cured in the coming decades? Is it realistic to believe that? What kind of disorders could be examples where is helping the research right now?</p> <p>Could AI make the golden age of medicine come soon do you think? Are you optimistic?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jorgenalm\"> /u/jorgenalm </a> &#32; to &#3",
+    "title_zh": "AI能否加速医学科学进步？",
+    "summary_zh": "文章探讨了AI在加速医学研究方面的潜力，询问AI是否能在未来几十年内帮助治疗甚至治愈慢性疾病，以及目前AI正在哪些疾病的研发中发挥作用。",
+    "key_points": [
+      "探讨AI未来几十年内治疗甚至治愈慢性病的可能性",
+      "关注AI在具体疾病研究中的现有应用案例",
+      "AI被视为加速医学科学发现的关键工具"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "46a368c8bdcc18e2c302d69158cc50c6",
+    "title": "NeurIPS AI Assisted Review authors/reviewers? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vj3oqr/neurips_ai_assisted_review_authorsreviewers_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-08T18:42:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Out of curiosity, if you were a reviewer or author, how did the review period go?</p> <p>For me, it was weird, because I gave reviews with specific details (what specifically could have been better, how to fix it), but realized other reviewers gave similar superficial reviews. Even the paper which was a control for me (no LLM), I gave specific comments, but other reviewers focused on minor things. </p> <p>During the discussion period for one paper, one reviewer ",
+    "title_zh": "NeurIPS AI辅助评审：作者与评审者体验探讨",
+    "summary_zh": "针对NeurIPS会议的AI辅助评审环节，作者对评审者提出的具体修改建议与AI生成的表面化反馈进行了对比，引发了关于评审质量的讨论。",
+    "key_points": [
+      "NeurIPS评审者提供的具体反馈与AI生成的表面评论形成对比",
+      "AI辅助评审可能影响学术反馈的深度和质量",
+      "引发对AI介入学术评审流程的担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
