@@ -883,5 +883,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "903623b6b223cfd35229b6ef36165e32",
+    "title": "I’m Researching Leo — a byte-native learning architecture that tries to move beyond Transformers",
+    "url": "https://www.reddit.com/r/artificial/comments/1viotxh/im_researching_leo_a_bytenative_learning/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-08T06:45:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>I've been working on a project called Leo / PSCLS.</p> <p>The goal isn’t to build yet another Transformer with a different name.</p> <p>I’ve been trying to explore a different question:</p> <p>«What if we built an AI architecture around persistent neural state, sparse connectivity, recurrent processing, and memory — instead of making attention and large dense parameter matrices the core building blocks?»</p> <p>Leo is still very early and nowhere",
+    "title_zh": "我正在研究 Leo：一种试图超越 Transformer 的字节原生学习架构",
+    "summary_zh": "作者在 Reddit 上分享了一个名为 Leo/PSCLS 的个人研究项目，旨在探索一种全新的 AI 架构，其核心思路是围绕持久性神经记忆构建，而非简单地延续 Transformer 设计。",
+    "key_points": [
+      "研究者分享了一个名为 Leo 的非 Transformer AI 架构探索项目",
+      "该架构旨在围绕持久性神经记忆构建，挑战现有范式",
+      "项目为个人研究性质，目标是超越 Transformer 的限制"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
