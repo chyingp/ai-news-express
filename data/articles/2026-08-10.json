@@ -169,5 +169,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "700247b13669dfea78664234d30c45d2",
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-09T19:20:32+00:00",
+    "content_snippet": "Programming with Claude Code will soon require even less human oversight.",
+    "title_zh": "Anthropic 将默认开启 Claude Code 自动模式",
+    "summary_zh": "Anthropic 宣布其 AI 编程工具 Claude Code 将默认启用自动模式，使得编程过程需要更少的人工监督，允许 AI 更自主地执行操作。",
+    "key_points": [
+      "Claude Code 将默认开启自动模式，减少人工干预",
+      "AI 编程工具正朝着更高自主性方向发展",
+      "该更新旨在简化开发流程，但可能引发对控制权的担忧"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b56128bb46435fe9f76efe6c2690917e",
+    "title": "I Trained a One-shot Prototypical Network with just 984 learnable parameters on MNIST, here's how it went. [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vjyf8m/i_trained_a_oneshot_prototypical_network_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-09T19:10:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been experimenting with trying to make a &quot;good&quot; MNIST model by using just 10 images (1/class) and also keeping the model really small (under 1K parameters), overall this specific model achieves a validation accuracy of 62.46%.</p> <p>How it works is that the vision pipeline is entirely fixed, and then with deterministic compression it gets brought down to 81D. Then comes the trainable part, a single 81 - 12 linear layer. This 12D space then gets u",
+    "title_zh": "我用仅 984 个可学习参数在 MNIST 上训练了一次性原型网络",
+    "summary_zh": "作者分享了一个实验，使用仅 10 张图像（每类一张）和少于 1000 个参数的极小型原型网络，在 MNIST 数据集上实现了 62.46% 的验证准确率。",
+    "key_points": [
+      "使用每类 1 张图像和 984 个参数训练一次性原型网络",
+      "模型在 MNIST 上达到 62.46% 的验证准确率",
+      "实验探索了极小样本和极小模型下的性能极限"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
