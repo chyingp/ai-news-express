@@ -458,5 +458,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f945e8fc9b0e5543c0257385c79f2a6b",
+    "title": "ChatGPT Finance for helping you save money:",
+    "url": "https://nitter.net/gdb/status/2086364812326670454#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-09T08:11:48+00:00",
+    "content_snippet": "<p>ChatGPT Finance for helping you save money:</p>\n<hr />\n<blockquote>\n<b>Trevin Chow (@trevin)</b>\n<p>\n<p>Used ChatGPT finance just now and asked it to find phantom subscriptions. It unearthed $550 a year of random things I didn’t realize I was paying for and thought I canceled. Thanks <a href=\"https://nitter.net/OpenAI\" title=\"OpenAI\">@OpenAI</a> and whoever is on the Finance product.</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/trevin/status/2086241939637317896#m\">https://nitter.net",
+    "title_zh": "ChatGPT Finance 助你节省开支，发现隐藏订阅",
+    "summary_zh": "Greg Brockman 分享 ChatGPT Finance 功能，用户 Trevin Chow 用它找出每年550美元的未取消订阅，帮助节省资金。",
+    "key_points": [
+      "ChatGPT Finance 可识别并列出未取消的隐藏订阅",
+      "用户成功发现每年550美元的意外支出",
+      "该功能展示了 AI 在个人财务管理中的应用潜力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
