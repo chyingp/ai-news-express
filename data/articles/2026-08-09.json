@@ -331,5 +331,32 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1d477aa69cc54ca19ac17533823c32a4",
+    "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+    "url": "https://www.qbitai.com/2026/08/468766.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-09T03:25:00+00:00",
+    "content_snippet": "据说GPT-5.6很适合拿来做游戏",
+    "title_zh": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+    "summary_zh": "文章对比了Anthropic的Opus 5和OpenAI的GPT-5.6在游戏开发领域的成本与效率，Opus 5消耗6.9亿token完成游戏开发，而GPT-5.6仅用5美元成本即可复刻相同任务，凸显了GPT-5.6在性价比上的显著优势。",
+    "key_points": [
+      "Opus 5开发游戏耗费6.9亿token的高昂成本",
+      "GPT-5.6以仅5美元的成本复刻了游戏开发任务",
+      "对比凸显GPT-5.6在游戏开发领域的性价比优势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
