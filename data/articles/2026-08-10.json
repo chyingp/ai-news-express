@@ -219,5 +219,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e9bd494a94efb254d86dbf0aa60873e7",
+    "title": "We got 100% on ARC-AGI-3 ft09 with zero model calls. The failures are more interesting.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vk0150/we_got_100_on_arcagi3_ft09_with_zero_model_calls/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-09T20:14:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been building an experimental reasoning system at Orivael and testing it against ARC-AGI-3.</p> <p>One of the runs just scored <strong>100% on ft09</strong>.</p> <p>The unusual part:</p> <p><strong>There is no LLM in the loop.</strong></p> <p>Not for perception. Not for planning. Not for choosing an action.</p> <p>The agent reads the raw grid, decides, and acts directly.</p> <p>Results so far:</p> <p>• ft09: 6/6 levels, 80 actions, 100.0%<br /> <a href=\"htt",
+    "title_zh": "我们以零模型调用在ARC-AGI-3 ft09上取得100%成绩，失败案例更有趣",
+    "summary_zh": "Orivael团队开发了一个实验性推理系统，在ARC-AGI-3的ft09测试集上取得了100%的准确率，且整个过程未使用任何大语言模型。文章强调该系统的非LLM特性，并指出失败案例比成功本身更具研究价值。",
+    "key_points": [
+      "实验性推理系统在ARC-AGI-3 ft09上实现100%准确率",
+      "系统完全未使用大语言模型，不依赖模型调用",
+      "作者认为研究失败案例比成功更有意义"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "769a24c03d77f7b647347598bbe88c47",
+    "title": "Filtering out “[LLM] sucks”",
+    "url": "https://www.reddit.com/r/artificial/comments/1vjzrbx/filtering_out_llm_sucks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-09T20:03:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I understand there are a million variations on this theme, but it feels like half of my timeline is people coming on here to complain that this or that LLM sucks. Honestly, I don’t care. Everyone has a different experience. I would like to be able to filter out any of these posts. I don’t care whether it’s Claude or Codex or something else. I don’t want to hear about it. Suggestions?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.c",
+    "title_zh": "过滤掉“[LLM]很烂”的帖子",
+    "summary_zh": "Reddit用户抱怨AI相关时间线上充斥着大量宣称“某个LLM很烂”的帖子，认为这些内容因个人体验差异而缺乏价值。用户希望平台能提供过滤功能，并愿意为有效的过滤解决方案付费。",
+    "key_points": [
+      "用户不满AI社区中大量“LLM很烂”的抱怨帖",
+      "抱怨因人而异，缺乏建设性，用户希望过滤此类内容",
+      "用户表达愿意为过滤功能付费的意愿"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
