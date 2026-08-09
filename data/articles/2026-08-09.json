@@ -632,5 +632,78 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e10c6c755933bca17ce4f8b5b946f225",
+    "title": "Emad Mostaque, on camera: \"It's a bad time to be a pure mathematician.\" AI just solved 10 decade-old math problems for $2,000.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vjsil8/emad_mostaque_on_camera_its_a_bad_time_to_be_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-09T15:18:22+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vjsil8/emad_mostaque_on_camera_its_a_bad_time_to_be_a/\"> <img alt=\"Emad Mostaque, on camera: &quot;It's a bad time to be a pure mathematician.&quot; AI just solved 10 decade-old math problems for $2,000.\" src=\"https://external-preview.redd.it/dm5sY3M5OWM5ZGloMftUNgpf3pPGFfohbBprgndUGypf8lkwKsRK6L4vwuBY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0150a5679ba43652c667581d164973fecbe88ddd\" title=\"Emad Mostaque, on camera: ",
+    "title_zh": "Emad Mostaque 称：AI 以 2000 美元成本解决了 10 个十年未解的数学难题，纯数学家处境艰难",
+    "summary_zh": "前 Stability AI CEO Emad Mostaque 在采访中表示，AI 以极低成本解决了 10 个长期存在的数学难题，认为这预示着纯数学家将面临严峻挑战。",
+    "key_points": [
+      "AI 以 2000 美元成本解决 10 个十年未解数学难题",
+      "Emad Mostaque 认为纯数学家的职业前景黯淡"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7d383accc31d38ac8ffaede12b88a2a4",
+    "title": "lol another one of the things i like most about openai is tibo",
+    "url": "https://nitter.net/sama/status/2086470022772457950#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-09T15:09:52+00:00",
+    "content_snippet": "<p>lol another one of the things i like most about openai is tibo</p>\n<hr />\n<blockquote>\n<b>Stats Wire (@StatsWire)</b>\n<p>\n<p>How much they celebrate with Anthropic</p>\n<img src=\"https://nitter.net/pic/media%2FHPSgkjBaAAAEWWH.jpg\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/StatsWire/status/2086469085270004106#m\">https://nitter.net/StatsWire/status/2086469085270004106#m</a>\n</footer>\n</blockquote>",
+    "title_zh": "Sam Altman 调侃 Anthropic 对比 OpenAI 团队的庆祝文化",
+    "summary_zh": "Sam Altman 在 X 上转发并评论了一张对比 OpenAI 与 Anthropic 庆祝方式的图片，调侃对方文化，并称赞 OpenAI 团队成员 Tibo。",
+    "key_points": [
+      "Sam Altman 转发对比 OpenAI 与 Anthropic 庆祝文化的图片",
+      "Altman 称喜欢 OpenAI 团队聚焦客户成功并为其庆祝"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1164171837d70380f0785d3993da345d",
+    "title": "one of the things i like most about the openai team is how focused they are on our customers and users succeeding, and how much they celebrate it",
+    "url": "https://nitter.net/sama/status/2086468661670461671#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-09T15:04:28+00:00",
+    "content_snippet": "<p>one of the things i like most about the openai team is how focused they are on our customers and users succeeding, and how much they celebrate it</p>",
+    "title_zh": "Sam Altman 称赞 OpenAI 团队高度关注客户与用户成功",
+    "summary_zh": "OpenAI CEO Sam Altman 在社交媒体上发帖，表示他最欣赏 OpenAI 团队的一点是他们对客户和用户成功的高度专注及热烈庆祝。",
+    "key_points": [
+      "Altman 强调 OpenAI 团队的核心特质是聚焦客户成功",
+      "该表态旨在展示 OpenAI 以客户为中心的企业文化"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
