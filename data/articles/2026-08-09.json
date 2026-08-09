@@ -358,5 +358,81 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d83fac97aafca0448ecc98905e54a92d",
+    "title": "The EU wants to track every AI interaction! What kinda mess is this?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vjiqpn/the_eu_wants_to_track_every_ai_interaction_what/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-09T06:49:17+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vjiqpn/the_eu_wants_to_track_every_ai_interaction_what/\"> <img alt=\"The EU wants to track every AI interaction! What kinda mess is this?\" src=\"https://external-preview.redd.it/dms5emRsY2hwYWloMTkPxkvHsQLZfPgqHFdapD6_oAja8CTOlRHSXb2vMUSh.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3386d8f28cc861c26a2d68d2ee1195877da8b32\" title=\"The EU wants to track every AI interaction! What kinda mess is this?\" /> </a> </td><td> <!-- ",
+    "title_zh": "欧盟拟追踪每次AI交互，引发隐私争议",
+    "summary_zh": "Reddit用户讨论欧盟新提案计划追踪所有AI互动，担忧此举将严重侵犯个人隐私并可能扼杀创新，引发广泛争议。",
+    "key_points": [
+      "欧盟提案拟追踪记录所有AI交互过程",
+      "用户担忧该政策将侵犯个人隐私与数据安全",
+      "新规可能对AI创新产生抑制作用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e891ff3aab8ace3d9856153c9952f090",
+    "title": "If you're genuinely concerned about data centers' water consumption, do you also consider the water footprint of the food you eat?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vjiehd/if_youre_genuinely_concerned_about_data_centers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-09T06:29:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I keep seeing people on Reddit criticizing AI and data centers because of how much water they use. I think the concern is legitimate, but I also think there's a pretty obvious consistency problem with how this issue is discussed.</p> <p>If your argument is that <strong>water consumption itself is an environmental problem</strong>, then shouldn't you also care about the water footprint of the products you consume?</p> <p>Beef is a particularly striking example.</",
+    "title_zh": "如果你真的关心数据中心的耗水量，那你是否也考虑过食物的水足迹？",
+    "summary_zh": "Reddit用户发文质疑批评AI数据中心耗水的人存在双重标准，指出应同样关注食品生产等行业的巨大水足迹，引发关于AI环境影响的讨论。",
+    "key_points": [
+      "用户质疑AI数据中心耗水批评存在双重标准",
+      "食品生产等其他行业同样消耗大量水资源",
+      "讨论应更全面地评估AI的环境影响"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "580466fb901fa7354445916fa8d57018",
+    "title": "Meta debuts first AI coding agent to take on Anthropic and OpenAI",
+    "url": "https://www.reddit.com/r/artificial/comments/1vjh4s6/meta_debuts_first_ai_coding_agent_to_take_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-09T05:17:10+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vjh4s6/meta_debuts_first_ai_coding_agent_to_take_on/\"> <img alt=\"Meta debuts first AI coding agent to take on Anthropic and OpenAI\" src=\"https://external-preview.redd.it/s3dIGFmYfWxtKeu90fPdTW0xWGLrutXyd27YfgPgX4Q.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=000cf997d6a492701616de8361e2776abdd444fe\" title=\"Meta debuts first AI coding agent to take on Anthropic and OpenAI\" /> </a> </td><td> &#32; submitted by &#32; <a hr",
+    "title_zh": "Meta发布首个AI编码代理，挑战Anthropic和OpenAI",
+    "summary_zh": "Meta推出了其首款AI编程代理，直接与Anthropic的Claude Code和OpenAI的Codex展开竞争，标志着其在AI开发者工具领域的重要布局。",
+    "key_points": [
+      "Meta发布首款AI编码代理，进军AI编程工具市场",
+      "该产品旨在挑战Anthropic的Claude和OpenAI的Codex",
+      "此举是Meta在AI开发者生态系统中的关键战略部署"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta",
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
