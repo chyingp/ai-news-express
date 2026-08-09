@@ -48,5 +48,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "dc786ba85bb2347250f95666982c7ed7",
+    "title": "OpenAI's stated reason for Codex's 272k context cap is cache-read cost, not the 2x billing line at the same number",
+    "url": "https://www.reddit.com/r/artificial/comments/1vjvpwb/openais_stated_reason_for_codexs_272k_context_cap/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-09T17:25:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>codex ships with a model catalog, and its gpt-5.6 entry lists the context window as 272,000 tokens. the published spec for the model is 1,050,000. 272,000 is also where the api reprices: past that many input tokens the whole request bills at 2x input and 1.5x output, including the tokens under the line. the obvious read is that the window was set to keep sessions on the cheap side of it.</p> <p>that is not the reason openai gave. thibault sottiaux said the drive",
+    "title_zh": "OpenAI 解释 Codex 上下文限制：缓存读取成本而非 2 倍计费",
+    "summary_zh": "OpenAI 的 Codex 模型上下文窗口实际限制为 27.2 万 token，而非公布的 105 万。官方称此限制源于缓存读取成本，并非因为超过该 token 数后 API 价格翻倍。",
+    "key_points": [
+      "Codex 实际上下文上限为 27.2 万 token",
+      "官方解释限制原因为缓存读取成本",
+      "API 价格在超过 27.2 万 token 后翻倍"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1997e2a02f666e849cc90282cb548047",
+    "title": "is there any ai music tool that can recreate a garbage quality song into higher quality without altering the vocals or instruments",
+    "url": "https://www.reddit.com/r/artificial/comments/1vjugll/is_there_any_ai_music_tool_that_can_recreate_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-09T16:36:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>basically im asking for something that can make a carbon copy of the original, just in higher quality. i dont want it changing the vocals, melody, instruments, etc, literally just make the same recording sound cleaner/better</p> <p>i have a piece of lost media from circa 2003 so unfortunately the only recording i have is in absolutely horrible quality 😭</p> <p>i was wondering if theres any ai that could somehow restore/recreate it without changing the actual son",
+    "title_zh": "是否有 AI 音乐工具能无损提升低质量录音的音质？",
+    "summary_zh": "用户寻求一款 AI 音乐工具，希望将一段低质量录音（可能为遗失媒体）提升为高音质版本，同时要求不改变人声、旋律或乐器等任何原始元素。",
+    "key_points": [
+      "用户寻求能无损提升录音音质的 AI 工具",
+      "要求工具完全保留原始人声、乐器和旋律",
+      "目标可能是修复一段遗失的媒体文件"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
