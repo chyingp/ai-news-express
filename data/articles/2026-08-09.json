@@ -484,5 +484,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "810ef74ca183b089c52520a502c876f4",
+    "title": "Built a tiny AI sidehustle stack for under 30 bucks a month and now I am scared it actually works",
+    "url": "https://www.reddit.com/r/artificial/comments/1vjojr5/built_a_tiny_ai_sidehustle_stack_for_under_30/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-09T12:24:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I run a small digital tools consultancy between shifts at the cafe. Mostly I help solo creators glue together cheap SaaS stuff. A few months back I threw together my own workflow - some scraper I found on GitHub, a cheap Claude subscription, a nocode database, all held together with Zapier duct tape. Total monthly burn is like 27 dollars.</p> <p>It now handles client onboarding, drafts my proposals, and spits out pretty decent competitor teardowns. I have done m",
+    "title_zh": "我用30美元月费搭建的AI副业工具栈，好用到让我害怕",
+    "summary_zh": "一位咖啡馆兼职的独立开发者，用不到30美元月费搭建了一个AI工作流，包含网络爬虫、Claude订阅和无代码数据库，辅助其小型数字工具咨询业务，效果出乎意料地好。",
+    "key_points": [
+      "个人开发者用极低成本集成AI工具开展副业",
+      "组合使用开源爬虫、Claude和无代码数据库构建工作流",
+      "该低成本方案在实际业务中表现出色，令创建者感到意外"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "acf86426dbc37c6e996eea0c0e96dd7d",
+    "title": "AI detectors are creating a new era of distrust",
+    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-09T12:00:00+00:00",
+    "content_snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, [&#8230;]",
+    "title_zh": "AI检测器正在制造一个不信任的新时代",
+    "summary_zh": "文章探讨了AI写作检测工具的兴起如何引发广泛的不信任，从学术界到职场，人们开始相互怀疑内容由AI生成，这种猜疑文化正在侵蚀人际关系和机构公信力。",
+    "key_points": [
+      "AI检测器的普及导致社会各领域出现广泛的不信任氛围",
+      "人们开始频繁质疑他人作品是否由AI生成，引发猜疑文化",
+      "这种不信任感正在侵蚀人际关系和机构公信力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
