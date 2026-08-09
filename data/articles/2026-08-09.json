@@ -434,5 +434,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "057240b1998a9a1f9b7af80c7ec4d5bf",
+    "title": "[R] Generative design of novel bacteriophages with genome language models [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vjj4pr/r_generative_design_of_novel_bacteriophages_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-09T07:11:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Genome language models have emerged as a promising strategy for designing biological systems, but their ability to generate functional sequences at the scale of whole genomes has remained untested. Here, we report the first generative design of viable bacteriophage genomes. We leveraged frontier genome language models, Evo 1 and Evo 2, to generate whole-genome sequences with realistic genetic architectures and desirable host tropism, using the lytic phage ΦX174 ",
+    "title_zh": "利用基因组语言模型生成式设计新型噬菌体",
+    "summary_zh": "研究人员首次利用基因组语言模型成功生成了具有活性的噬菌体全基因组，验证了该技术在生物系统设计中的可行性，为噬菌体疗法和合成生物学开辟了新路径。",
+    "key_points": [
+      "首次实现利用语言模型生成活性噬菌体全基因组",
+      "验证了基因组语言模型在生物系统设计中的潜力",
+      "成果可推动噬菌体疗法与合成生物学发展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
