@@ -558,5 +558,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6067d645c2aab541ca09a2e60379df12",
+    "title": "Reddit is rolling out AI moderators for new communities, how long until every subreddit has one?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vjq4z0/reddit_is_rolling_out_ai_moderators_for_new/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-09T13:38:37+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vjq4z0/reddit_is_rolling_out_ai_moderators_for_new/\"> <img alt=\"Reddit is rolling out AI moderators for new communities, how long until every subreddit has one?\" src=\"https://preview.redd.it/lrmp7cekrcih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=08b657156ffe93077bcc3b70301ba83390b8b958\" title=\"Reddit is rolling out AI moderators for new communities, how long until every subreddit has one?\" /> </a> </td><td> <!-- SC_",
+    "title_zh": "Reddit 为新社区推出 AI 版主，每个子版块何时会普及？",
+    "summary_zh": "Reddit 开始为新建社区自动部署 AI 版主来协助内容管理，引发关于未来全平台普及时间及人工版主角色变化的讨论。",
+    "key_points": [
+      "Reddit 开始为新建子版块自动配置 AI 版主工具",
+      "此举旨在辅助社区管理者处理日常内容审核任务",
+      "社区讨论聚焦于 AI 版主全面取代人工版主的可能性与时间"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "reddit"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
