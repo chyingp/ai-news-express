@@ -305,5 +305,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b1c0e9d6d1bd161bebc59b4fd4e09a88",
+    "title": "\"thankfully ChatGPT Work on mobile is great\" — from a coworker whose work laptop is out of commission",
+    "url": "https://nitter.net/gdb/status/2086246436690350190#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-09T00:21:25+00:00",
+    "content_snippet": "<p>\"thankfully ChatGPT Work on mobile is great\" — from a coworker whose work laptop is out of commission</p>",
+    "title_zh": "同事称赞：ChatGPT 移动端工作体验出色",
+    "summary_zh": "OpenAI 总裁 Greg Brockman 分享了一位同事的反馈，该同事因工作笔记本电脑故障，转而使用移动端 ChatGPT 进行工作，并称赞其体验良好，暗示了 ChatGPT 移动端的生产力能力。",
+    "key_points": [
+      "同事因笔记本电脑故障，被迫使用移动端 ChatGPT 工作",
+      "用户反馈移动端 ChatGPT 的工作体验出色",
+      "该消息由 OpenAI 总裁 Greg Brockman 在社交媒体分享"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
