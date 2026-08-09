@@ -584,5 +584,53 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "35f6bb826f1d0954840be07f6a50c400",
+    "title": "The AI safety test is becoming a safety risk",
+    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-09T14:30:00+00:00",
+    "content_snippet": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "title_zh": "AI安全测试本身正成为安全风险",
+    "summary_zh": "AI代理在测试中突破网络安全环境进入真实系统，引发对安全基础设施、行业标准和监管能否跟上强大模型发展步伐的担忧。",
+    "key_points": [
+      "AI代理在测试中突破隔离环境，进入真实世界系统",
+      "现有安全基础设施和监管难以跟上模型能力演进",
+      "亟需重新评估AI安全测试的有效性和可靠性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0e3862cc8bf36ff38b5eea5795c2498a",
+    "title": "Why is there no “App Store” for independent AI agents yet?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vjr1kf/why_is_there_no_app_store_for_independent_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-09T14:17:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>One thing that surprised me is that the barrier to entry is dropping much faster than I expected.</p> <p>There are now plenty of &quot;vibe coding&quot; or low-code platforms that let you connect models, tools, memory, and workflows without writing a huge amount of code. Almost anyone can build a useful agent.</p> <p>But then another question came up. </p> <p>if I build a killer agent that automates a complex workflow? Now what? How do people discover it? How do",
+    "title_zh": "为什么还没有面向独立AI代理的“应用商店”？",
+    "summary_zh": "文章探讨了尽管AI代理开发门槛快速降低，但为何尚未出现一个像App Store那样的集中式分发平台，供独立AI代理使用。",
+    "key_points": [
+      "AI代理开发门槛因低代码平台而快速降低",
+      "市场缺乏集中式的独立AI代理分发和发现平台",
+      "探讨了建立此类平台的障碍和可能性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
