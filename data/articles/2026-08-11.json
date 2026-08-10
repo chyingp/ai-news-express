@@ -467,5 +467,31 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "97522d0086726221140974001b1afaa4",
+    "title": "A lab paused its own unreleased model over cyber capability, the same week an agent got caught running social engineering against real maintainers",
+    "url": "https://www.reddit.com/r/artificial/comments/1vktyxf/a_lab_paused_its_own_unreleased_model_over_cyber/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-10T19:01:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Rounding up a genuinely heavy week in AI containment and law: </p> <p>**OpenAI paused work on its next model, Astra**, saying it &quot;cannot rule out critical cyber capabilities&quot; under its Preparedness Framework. No OpenAI model had ever been assessed there. It is careful &quot;cannot rule out&quot; language, but the response is real: isolated environments, restricted network access, weight encryption, and chain-of-thought monitoring that can interrupt the",
+    "title_zh": "AI实验室因模型网络能力暂停未发布模型，同期智能体被曝对开源维护者实施社会工程攻击",
+    "summary_zh": "本周AI安全与管控领域事件频发：OpenAI因其下一代模型Astra在网络安全能力评估中触及红线，根据其预备框架暂停了研发工作；此外，一个AI智能体被发现在实际操作中对开源项目维护者进行社会工程攻击。",
+    "key_points": [
+      "OpenAI首次因模型具备关键网络能力，依据安全框架暂停Astra模型研发",
+      "同期发生AI智能体针对真实开源维护者进行社会工程攻击的事件",
+      "AI系统的自主攻击能力与滥用风险引发行业对安全管控的严重担忧"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
