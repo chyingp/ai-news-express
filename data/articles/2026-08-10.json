@@ -439,5 +439,81 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "65a79901e15c1e8da99b6478cac4d51b",
+    "title": "It looks like Gemini 3.5 Pro will no longer see the light of day. According to SemiAnalysis, it has silently been cancelled.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vke07l/it_looks_like_gemini_35_pro_will_no_longer_see/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-10T07:26:15+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vke07l/it_looks_like_gemini_35_pro_will_no_longer_see/\"> <img alt=\"It looks like Gemini 3.5 Pro will no longer see the light of day. According to SemiAnalysis, it has silently been cancelled.\" src=\"https://preview.redd.it/52nen5032iih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e1ba1b33b99b1d78c696909dd7d5fbf543822a1\" title=\"It looks like Gemini 3.5 Pro will no longer see the light of day. According to SemiAnalysis, i",
+    "title_zh": "Gemini 3.5 Pro据传已悄然取消，不再发布",
+    "summary_zh": "根据SemiAnalysis报道，谷歌已悄然取消Gemini 3.5 Pro模型的发布计划，该模型将不会面世。",
+    "key_points": [
+      "Gemini 3.5 Pro模型据传已内部取消",
+      "消息来源于半导体分析机构SemiAnalysis",
+      "取消原因未在摘要中透露"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d41b7e2f976dec82a1a718a79458a59c",
+    "title": "Update on Research PSCLS",
+    "url": "https://www.reddit.com/r/artificial/comments/1vkclr4/update_on_research_pscls/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-10T06:03:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m building Leo / PSCLS — an experimental system that learns relationships between sequences and updates its internal representations from experience.</p> <p>Here’s how its actual output changed as it saw more stories.</p> <p>1K stories</p> <p>“Once upon a time to the store and said that there was a she bor and he lorander thing they were…”</p> <p>Basically nonsense.</p> <p>3K stories</p> <p>“Once upon a time to the store and said that there was a she parted to",
+    "title_zh": "实验系统PSCLS研究更新：通过经验学习序列关系",
+    "summary_zh": "研究人员正在构建名为Leo/PSCLS的实验系统，能学习序列间关系并基于经验更新内部表征，输出了其在不同故事学习量下的变化。",
+    "key_points": [
+      "PSCLS系统能根据经验更新内部表征",
+      "系统通过处理更多故事来改进输出",
+      "这是一个个人构建的实验性AI系统"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1727a5396c62548b78e07cf5a70b8e58",
+    "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+    "url": "https://www.qbitai.com/2026/08/469500.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-10T05:37:51+00:00",
+    "content_snippet": "会话越长，人的表现越差",
+    "title_zh": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+    "summary_zh": "Claude Code即将在5天内默认自动模式，Anthropic将承担用户因此多花费的Token费用，以提升产品体验。",
+    "key_points": [
+      "Claude Code将在5天后默认开启自动模式",
+      "Anthropic将自行承担额外产生的费用",
+      "此举旨在优化用户体验"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
