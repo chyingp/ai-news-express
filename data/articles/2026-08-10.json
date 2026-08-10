@@ -515,5 +515,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ddbaaf5c5cccf32e795848c81223430f",
+    "title": "how do you all decide which of your AI agents actually get access to real stuff?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vkfrha/how_do_you_all_decide_which_of_your_ai_agents/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-10T09:13:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>ok so I have gone back and forth on this like three times now and still don't think I've actually landed on an answer.</p> <p>I have got a couple agents running for real, one drafts replies to stuff, one pokes through logs and flags weird things. those are fine, I don't really care if they mess up a little. but then I wanted to hook one up to actually touch billing data and immediately second-guessed myself, and honestly couldn't point to a real reason beyond &q",
+    "title_zh": "如何决定哪些AI Agent能获得真实系统的访问权限？",
+    "summary_zh": "用户对赋予AI Agent访问真实系统权限的决策感到困惑，通过实例分享了在试用邮件回复起草和日志异常标记Agent后的顾虑，并寻求社区建议。",
+    "key_points": [
+      "用户不确定如何安全地赋予AI Agent实际系统访问权限",
+      "已尝试邮件起草和日志监控Agent，但权限决策仍存疑",
+      "在Reddit社区寻求关于Agent权限管理的实用建议"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
