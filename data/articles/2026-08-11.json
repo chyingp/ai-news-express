@@ -564,5 +564,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a7bcaa7982df1cb12981276648928394",
+    "title": "What should I look for in an enterprise AI agent platform?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vky7wd/what_should_i_look_for_in_an_enterprise_ai_agent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-10T21:38:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We’re comparing a few options for a large contact center the main goal is to automate repetitive stuff so the team can focus on more important work.</p> <p>I care most about whether it can handle those routine conversations without creating more problems for customers or staff. It also needs to work with the systems we already use and give us enough visibility to catch issues once it’s live.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.",
+    "title_zh": "选择企业AI代理平台时应关注哪些要点？",
+    "summary_zh": "一位Reddit用户正在为大型呼叫中心评估企业AI代理平台，目标是自动化重复性工作，并询问平台应具备哪些关键能力，以避免给客户带来更多问题。",
+    "key_points": [
+      "企业寻求AI代理平台自动化呼叫中心例行对话",
+      "用户关注平台处理重复任务时避免产生新问题",
+      "文章为Reddit社区讨论，寻求平台选型建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "660d4208e04dd83452f6f1281caa32cd",
+    "title": "Scientists are using AI to design new viruses. Should they be?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vkxem4/scientists_are_using_ai_to_design_new_viruses/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-10T21:07:26+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vkxem4/scientists_are_using_ai_to_design_new_viruses/\"> <img alt=\"Scientists are using AI to design new viruses. Should they be?\" src=\"https://external-preview.redd.it/UjlNDatztAT1MNRDA1Gnucc1zAM5qv_lhTpZB7v6iAk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=79c2d495b7742262c20ee7d32448a12fd44d5563\" title=\"Scientists are using AI to design new viruses. Should they be?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"h",
+    "title_zh": "科学家正利用AI设计新病毒，这应该被允许吗？",
+    "summary_zh": "文章探讨了科学家利用人工智能设计新病毒这一前沿实践的伦理与安全问题，引发了对AI在生物领域应用边界和潜在风险的广泛讨论。",
+    "key_points": [
+      "AI被用于设计全新病毒，涉及生物安全与伦理",
+      "文章对AI在生物工程领域的应用提出质疑",
+      "引发对AI可能被滥用的担忧与监管讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "559fae1965599d6d964d8b8a7b6cae08",
+    "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+    "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-10T20:53:02+00:00",
+    "content_snippet": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+    "title_zh": "马克·扎克伯格的AI宣言正是人们不喜欢AI的原因",
+    "summary_zh": "TechCrunch评论文章批评扎克伯格关于个人AI和超级智能的长篇宣言，指出其展现了科技巨头对AI的傲慢态度，加深了公众对AI的负面看法。",
+    "key_points": [
+      "扎克伯格发表6500字宣言，阐述Meta的个人超级智能愿景",
+      "评论文章认为该宣言展现了科技巨头对AI的傲慢态度",
+      "文章分析此举加剧了公众对AI技术的反感"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "398d50885bb3ade25bdbfe522568b686",
+    "title": "Potentially dumb question: if AI is so good, why can't it lower the memory prices instead of hyper-inflating them?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vkwrmz/potentially_dumb_question_if_ai_is_so_good_why/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-10T20:43:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Basically the post header.</p> <p>Seeing lots of hype of how more and more powerful the AI is, how great it's for software development, robotics etc. Which I can see how AI can be a beneficial tool for.</p> <p>But for all the hype, what can it do that's actually real? So far I've seen a rise in AI-related employment and a huge spike in memory and SSD prices that is being attributed to the AI boom. But if AI is so incredible and smart and shortens the development",
+    "title_zh": "如果AI如此强大，为何不能降低内存价格反而使其飙升？",
+    "summary_zh": "一位Reddit用户质疑AI技术的实际价值，指出尽管AI被吹捧为强大工具，但并未带来内存等硬件价格下降，反而因为AI需求导致价格飙升，引发对AI现实经济贡献的讨论。",
+    "key_points": [
+      "用户质疑AI实用性，未能降低硬件成本反而推高价格",
+      "内存价格因AI需求飙升，与AI降本增效的承诺相悖",
+      "社区讨论AI在现实世界中的实际经济价值"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
