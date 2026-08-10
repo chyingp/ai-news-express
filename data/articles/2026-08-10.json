@@ -362,5 +362,82 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c5d99f06d8c7b30d0df1067f86095d6e",
+    "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
+    "url": "https://www.qbitai.com/2026/08/469493.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-10T03:24:23+00:00",
+    "content_snippet": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
+    "title_zh": "Meoo秒悟团队版全量上线，接入Qwen-3.8-Max，即日起可直接订阅",
+    "summary_zh": "AI创作工具Meoo秒悟推出团队版，从个人工具升级为组织级生产力平台，并接入通义千问3.8-Max模型，现已开放直接订阅。",
+    "key_points": [
+      "Meoo秒悟发布团队版，从个人工具扩展为组织平台",
+      "新版本接入通义千问Qwen-3.8-Max模型",
+      "产品即日起开放直接订阅，服务企业用户"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ca5383f42c5d8608fb4e84cbe175611",
+    "title": "Domain-grounded coding agents vs. general-purpose ones (Copilot, Claude Code) — what are you seeing?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vk9f56/domaingrounded_coding_agents_vs_generalpurpose/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-10T03:13:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Curious what people are seeing with domain-grounded coding agents vs. general-purpose ones (Copilot, Claude Code, etc.) for data/ML work specifically.</p> <p>The pitch from the vertical tools (Databricks' Genie Code is the one I've used) is that grounding in your actual schema/lineage/governance layer beats a general agent guessing from context alone. Databricks claims a jump from ~32% to ~77% success rate on real data science tasks after adding that grounding. ",
+    "title_zh": "领域扎根型编程代理 vs 通用型编程代理效果对比",
+    "summary_zh": "Reddit社区讨论在数据/机器学习工作中，Databricks Genie Code等垂直领域编程代理与Copilot、Claude Code等通用工具的体验差异。",
+    "key_points": [
+      "社区讨论垂直领域与通用编程代理在数据/ML工作中的表现差异",
+      "以Databricks Genie Code为例探讨领域扎根工具的优势",
+      "话题涉及GitHub Copilot、Claude Code等主流通用工具"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "microsoft",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d12952c73bbd06e362ed4893050db44b",
+    "title": "The future of AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1vk8mpf/the_future_of_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-10T02:35:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been thinking about AI dependency, because many ppl have told me that relying on AI is already making them forget how to do parts of their jobs.</p> <p>In some sense this is nothing new. Technology has always replaced skills that used to be essential. We stopped doing calculations by hand because calculators exist, and we stopped memorizing information because computers can store it for us.</p> <p>AI may be the same process taken to its extreme, because ins",
+    "title_zh": "AI依赖与未来技能退化之忧",
+    "summary_zh": "Reddit用户反思对AI的依赖导致部分工作技能遗忘，探讨技术替代人类技能的历史类比，并引发对AI时代人类能力演变的讨论。",
+    "key_points": [
+      "用户担忧过度依赖AI导致专业技能退化",
+      "讨论指出技术替代旧技能并非新鲜事",
+      "引发对AI时代人类能力演变方向的思考"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
