@@ -662,5 +662,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b6a795d1e48ad3aa58e4086569a6e6c0",
+    "title": "Mark Zuckerberg doesn’t understand how to live",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-10T22:00:00+00:00",
+    "content_snippet": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What [&#8230;]",
+    "title_zh": "马克·扎克伯格不懂得如何生活",
+    "summary_zh": "本文批评了马克·扎克伯格近期发布的AI宣言，认为其愿景片面强调用AI替代现实互动，反映出他对真实生活体验的贫乏理解，是一种危险且狭隘的未来观。",
+    "key_points": [
+      "文章批判扎克伯格AI宣言倡导用AI取代真实生活互动",
+      "作者认为扎克伯格对生活体验的理解贫乏且具误导性",
+      "文中通过登山轶事对比，讽刺扎克伯格观念的空洞"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
