@@ -146,5 +146,275 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bcdcc1627128737df100af13412e6fdb",
+    "title": "Transformers are famously bad at arithmetic, so I set one's weights by hand (no training) and it multiplies with 100% accuracy [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-10T17:37:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Obviously nobody needs a transformer that's good at multiplication. I wanted to know whether a stock transformer could do exact arithmetic if I chose its weights directly.</p> <p>I implemented the grade-school algorithm as a computation graph and compiled it into an ordinary Phi-3 Hugging Face checkpoint using Torchwright, a compiler I wrote. No training. The three-digit calculator gets all 3,000,000 supported expressions right. I've published checkpoints to Hug",
+    "title_zh": "通过手工设置权重让Transformer实现100%乘法准确率",
+    "summary_zh": "研究人员手工设计了Transformer的权重，无需训练即可使模型以100%准确率执行乘法运算，证明标准架构能够进行精确算术，只是需要正确的权重配置。",
+    "key_points": [
+      "手工设置Transformer权重实现100%乘法准确率",
+      "证明标准架构无需训练即可执行精确算术",
+      "通过计算图编译实现小学乘法算法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0042d3cbb8be392494222dcc9f067f1b",
+    "title": "How we're responsibly building AI infrastructure in Texas: https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "url": "https://nitter.net/gdb/status/2086868041451901009#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-10T17:31:27+00:00",
+    "content_snippet": "<p>How we're responsibly building AI infrastructure in Texas: <a href=\"https://openai.com/index/responsible-ai-infrastructure-texas/\">openai.com/index/responsible…</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://openai.com/index/responsible-ai-infrastructure-texas/\">\n<img src=\"https://nitter.net/pic/card_img%2F2086816483414532096%2FdF0fDza3%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas</b>\n</a>\n<p>OpenAI sent Governor",
+    "title_zh": "OpenAI在德克萨斯州负责任地建设AI基础设施",
+    "summary_zh": "OpenAI总裁Greg Brockman分享公司在德克萨斯州建设AI基础设施的负责任实践，强调可持续发展和社区参与。",
+    "key_points": [
+      "OpenAI在德克萨斯州建设AI基础设施",
+      "强调负责任实践和社区参与"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5f01892547cca0b4a31f0e7815360181",
+    "title": "We're releasing a new model (GPT-5.6-Cyber), and expanding Daybreak to help put frontier intelligence in defenders hands:",
+    "url": "https://nitter.net/gdb/status/2086866967479341305#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-10T17:27:11+00:00",
+    "content_snippet": "<p>We're releasing a new model (GPT-5.6-Cyber), and expanding Daybreak to help put frontier intelligence in defenders hands:</p>\n<img src=\"https://nitter.net/pic/media%2FHPYJzOUasAEpRLp.jpg\" />\n\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>We’re expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work.<br />\n<br />\nAs the threat landscape evolves, we’re putting frontier intelligence in the hands of trusted defend",
+    "title_zh": "OpenAI发布新模型GPT-5.6-Cyber并扩展网络安全计划Daybreak",
+    "summary_zh": "OpenAI推出GPT-5.6-Cyber模型，并扩展网络安全计划Daybreak，旨在将前沿智能交到防御者手中，加强网络安全防护能力。",
+    "key_points": [
+      "OpenAI发布GPT-5.6-Cyber新模型",
+      "扩展Daybreak网络安全计划",
+      "前沿AI赋能网络安全防御者"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "90b23994415e3cfb00d2ccab3160d856",
+    "title": "Need advice: Trying to generate realistic outdoor shots with a specific person. Krea outputs look too plastic/AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vkqs6c/need_advice_trying_to_generate_realistic_outdoor/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-10T17:06:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>​Hey everyone!</p> <p>​I’m working on a project where I need to place a specific person into realistic outdoor environments, like the Swiss Alps. The goal is to make it look like a real, candid travel photo.</p> <p>​I've been trying Krea.ai with a trained model, and while the likeness is okay, the aesthetic is way off. It looks very &quot;AI-generated&quot;: plastic-perfect skin, unnatural hair, and no raw texture.</p> <p>​I’m really just looking for a method th",
+    "title_zh": "求建议：用Krea生成特定人物户外照效果太塑料/AI感",
+    "summary_zh": "用户寻求建议，使用Krea.ai生成特定人物在户外环境中的逼真照片，但输出结果看起来不自然，想了解如何改进。",
+    "key_points": [
+      "Krea.ai生成人物户外照效果不真实",
+      "用户寻求改进生成逼真度的方法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0149116675c4e1e6fb02def018633c62",
+    "title": "why is ai the future?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vkqnk0/why_is_ai_the_future/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-10T17:02:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>everyone is saying ai is the future, but why?</p> <p>i mean robots and ai and stuff, which removes human labor is what we think of the future, but why do people say its inevitable and are incorparating ai, even though there are problems with that idea like currency, and because its not inevitable because its the choice for humans to incorporate ai?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/soemthingblahblah123\"> /u/so",
+    "title_zh": "为什么AI是未来？",
+    "summary_zh": "Reddit用户讨论AI被视为未来的原因，质疑其必然性，探讨替代人类劳动可能带来的货币、就业等问题。",
+    "key_points": [
+      "讨论AI被视为未来的原因",
+      "质疑AI替代人类劳动的必然性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1b4a121cfec6e61f7269c0f97cf68457",
+    "title": "What building an AI-native finance function taught me",
+    "url": "https://openai.com/index/building-an-ai-native-finance-function",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-10T17:00:00+00:00",
+    "content_snippet": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+    "title_zh": "构建AI原生财务职能的五大经验",
+    "summary_zh": "OpenAI CFO Sarah Friar分享构建AI原生财务职能的五个经验，涵盖自动预测、强化控制和AI投资回报率等关键领域。",
+    "key_points": [
+      "OpenAI CFO分享AI原生财务职能构建经验",
+      "涵盖自动预测、强化控制和AI投资回报率"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c4d3f8265edbaa9b49c0b966e132d86c",
+    "title": "I built a deterministic engine that catches AI's financial math errors before they ship — looking for people to poke holes in it",
+    "url": "https://www.reddit.com/r/artificial/comments/1vkqiik/i_built_a_deterministic_engine_that_catches_ais/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-10T16:57:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Quick context: I've spent the last year+ building something in the &quot;AI hallucination&quot; space, specifically for finance, and I want honest feedback before I go further — not upvotes, actual criticism.</p> <p><strong>The problem I'm trying to solve:</strong></p> <p>AI copilots are increasingly drafting financial numbers — ratios, covenant checks, reconciliations, KPIs pulled from statements. The issue isn't that AI is bad at this, it's that it's <em>confi",
+    "title_zh": "构建确定性引擎在AI金融数学错误上线前捕获它们",
+    "summary_zh": "开发者构建了一个确定性引擎，专门用于在AI模型发布前捕获金融数学错误，寻求技术社区的严格测试和反馈。",
+    "key_points": [
+      "确定性引擎捕获AI金融数学错误",
+      "专注于解决AI幻觉问题",
+      "寻求社区严格测试和反馈"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "634b4cf7fdb5fa859204c1721fc3d3a1",
+    "title": "Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-10T16:49:17+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vkqa02/bernie_sanders_has_written_a_letter_to_sam_altman/\"> <img alt=\"Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.\" src=\"https://preview.redd.it/hst1yb3jukih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3fb7f51a92687fb1b8c3c",
+    "title_zh": "参议员桑德斯致信Altman等人要求立即暂停AI开发",
+    "summary_zh": "美国参议员桑德斯致信Sam Altman、Dario Amodei和Mark Zuckerberg，敦促他们立即暂停所有AI开发，并警告参议院将采取行动。",
+    "key_points": [
+      "桑德斯要求AI公司立即暂停开发",
+      "致信OpenAI、Anthropic和Meta领导人",
+      "警告参议院可能采取强制行动"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "anthropic",
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1a03b098386ed16ac76c6cf18fe7aedd",
+    "title": "Source > Normalizer > Index for a KB pipeline worth the complexity or am I overthinking this?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vkpvb9/source_normalizer_index_for_a_kb_pipeline_worth/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-10T16:34:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Building a Go backend for orchestrating AI agents (multi-tenant, each agent has its own persona/tools/LLM). Now I'm stuck on how knowledge bases should work and I keep going back and forth between &quot;make it flexible&quot; and &quot;just ship something simple.&quot;</p> <p>Here's where I landed, architecture-wise:</p> <p><strong>Source</strong> = wherever the data lives. S3 bucket of PDFs, a website you crawl, a Notion workspace, whatever.</p> <p><strong>Norm",
+    "title_zh": "知识库管道使用Source > Normalizer > Index架构值不值得",
+    "summary_zh": "开发者讨论构建AI代理知识库时，是否应采用Source-Normalizer-Index管道架构，还是选择更简单的实现方案。",
+    "key_points": [
+      "讨论知识库管道架构的复杂度权衡",
+      "在灵活性和简单实现之间作出选择"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4662a98c4da9d5a35fdeb378bc1ce210",
+    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+    "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-10T16:20:13+00:00",
+    "content_snippet": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
+    "title_zh": "Meta新Glimmer AI模型揭示扎克伯格个人智能愿景",
+    "summary_zh": "Meta发布开源权重模型Muse Glimmer，体现了扎克伯格对个人超级智能的愿景，并显示用户可拥有AI与可访问AI之间的分歧。",
+    "key_points": [
+      "Meta发布Muse Glimmer开源权重模型",
+      "体现扎克伯格个人超级智能愿景",
+      "突显AI可拥有性与可访问性的分歧"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ceca9d893430d5bee8083feec4979400",
+    "title": "Radical Ventures' Rob Toews explains why his fund passes on almost every AI \"Neolab\" — except the one now worth $1T",
+    "url": "https://www.reddit.com/r/artificial/comments/1vkp36w/radical_ventures_rob_toews_explains_why_his_fund/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-10T16:06:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vkp36w/radical_ventures_rob_toews_explains_why_his_fund/\"> <img alt=\"Radical Ventures' Rob Toews explains why his fund passes on almost every AI &quot;Neolab&quot; — except the one now worth $1T\" src=\"https://external-preview.redd.it/aXZmMGVodHZta2loMf9kRM_W4HhfnlMkUXhXJH4PMLLYHR5iD_9KBNRAlLXD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=885ad1bc8633d1911f8016ed906a18e68146b585\" title=\"Radical Ventures' Rob Toews explain",
+    "title_zh": "Radical Ventures的Rob Toews解释为何其基金几乎避开所有AI“新实验室”——除了那家如今估值万亿美元的公司",
+    "summary_zh": "风险投资公司Radical Ventures的合伙人Rob Toews分享其投资逻辑，解释为何他们几乎不投AI领域的“新实验室”类创业公司，但唯独对一家如今估值达万亿美元的公司做出了例外投资。",
+    "key_points": [
+      "Radical Ventures几乎避开所有AI“新实验室”投资",
+      "唯一的例外是一家如今估值1万亿美元的公司"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
