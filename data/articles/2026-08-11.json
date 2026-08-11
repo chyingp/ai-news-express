@@ -1316,5 +1316,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "348b890e3b76c0893ae0c4ce40119e12",
+    "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+    "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-11T13:00:25+00:00",
+    "content_snippet": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally.  Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ecosystem. That includes NVIDIA’s latest open models, software [&#8230;]",
+    "title_zh": "NVIDIA 与本地 AI 社区联手推动开源模型与智能代理发展",
+    "summary_zh": "NVIDIA 庆祝合作伙伴和开源社区在本地 AI 领域的进展，重点介绍开源模型、应用和工具如何让开发者和爱好者更轻松地构建和运行本地 AI 代理。",
+    "key_points": [
+      "开源生态使开发者更容易在本地构建、定制和运行 AI 代理",
+      "NVIDIA 在八月庆祝合作伙伴和开源社区推动本地 AI 发展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "39c0907ab4edff65d6a8ac3c03e037d2",
+    "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+    "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-11T13:00:05+00:00",
+    "content_snippet": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. Today, NVIDIA is expanding its Nemotron 3 model family with Nemotron 3.5 Lightning, the highest-efficiency model in its class for long-running agentic AI workloads. This release follows Nemotron [&#8230;]",
+    "title_zh": "NVIDIA 发布 Nemotron 3.5 Lightning 与 NeMo Switchyard，提升代理 AI 效率",
+    "summary_zh": "NVIDIA 推出 Nemotron 3.5 Lightning 模型和 NeMo Switchyard 架构，旨在提供更快、更智能、更高效的代理 AI 体验，支持从聊天机器人到自主代理的 AI 转变。",
+    "key_points": [
+      "NVIDIA 发布 Nemotron 3.5 Lightning 高效模型，用于长时间运行的代理 AI",
+      "新模型和架构旨在满足市场对 AI 部署地点和方式的全方位控制需求"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "636a0618aace15d2ae3e463030889451",
+    "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+    "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-11T13:00:00+00:00",
+    "content_snippet": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+    "title_zh": "Spotify 将为“AI 虚拟人物”档案打标签，并将其音乐排除在推荐之外",
+    "summary_zh": "Spotify 宣布将为 AI 生成身份的艺人档案引入“AI 虚拟人物”标签，并默认将这些 AI 制作的音乐从编辑、算法和个性化推荐中剔除。",
+    "key_points": [
+      "Spotify 为 AI 虚拟艺人档案添加“AI 虚拟人物”标签",
+      "AI 制作的音乐将默认被排除在编辑、算法和个性化推荐之外"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "29c27da3275cd670211b7457de99dc29",
+    "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+    "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-11T13:00:00+00:00",
+    "content_snippet": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're [&#8230;]",
+    "title_zh": "Spotify 称不会推荐“AI 虚拟人物”创作的音乐",
+    "summary_zh": "Spotify 将很快为 AI 艺人添加标签，并将其音乐从推荐中移除。该功能将于九月中旬开始推出，AI 艺人档案将显示“AI 虚拟人物”徽章，平台将默认停止推荐。",
+    "key_points": [
+      "Spotify 将于九月中旬推出“AI 虚拟人物”标签功能",
+      "被标记的 AI 艺人音乐将不会出现在平台的推荐中"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
