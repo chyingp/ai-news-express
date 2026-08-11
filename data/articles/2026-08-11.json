@@ -964,5 +964,51 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9ab3c09c6870fb8baaf30d83a9bd3052",
+    "title": "Practically speaking, how easily can smart glasses REALLY identify people on the street?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vlcpn1/practically_speaking_how_easily_can_smart_glasses/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-11T09:33:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>With all the talk about smart glasses in the news at the moment, im quite confused about just how identifiable faces are using AI. For example, if someone walks down the street and photographs/films me, how easily it it for them to use AI to work out who I am? And what if they photograph me, save it and then use more advanced tools on it later outside of whatever software the glasses use?</p> <p>I have private social media accounts but do have photos of myself o",
+    "title_zh": "智能眼镜识别人脸到底有多容易？",
+    "summary_zh": "文章探讨了当前智能眼镜结合AI技术，在街头随机拍摄并识别普通人身份的现实可行性，引发对隐私安全的讨论。",
+    "key_points": [
+      "探讨智能眼镜街头随机识别人脸的技术可行性",
+      "聚焦于普通人在公共场所被AI识别的隐私风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bad8d407d096c5417e6711c92d9947f4",
+    "title": "Made an AI Wizard that interviews you before generating anything — curious what people think of the approach",
+    "url": "https://www.reddit.com/r/artificial/comments/1vlce62/made_an_ai_wizard_that_interviews_you_before/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-11T09:14:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most AI tools give you a text box. You write something, it generates something, and you spend the rest of the time trying to get it to understand what you actually meant.</p> <p>AI Wizard does it differently. You pick a workflow — website, app, pitch deck, logo, API, etc. — and it asks you a short series of adaptive questions before generating anything. Each answer narrows the next question. By the end, it has enough context to produce something genuinely useful",
+    "title_zh": "我做了一个AI向导，在生成内容前先采访你——想听听大家的看法",
+    "summary_zh": "作者开发了一款AI向导工具，区别于传统文本框输入，该工具通过采访式对话理解用户意图，再生成网站、应用、Logo等内容。",
+    "key_points": [
+      "AI工具通过采访式对话替代传统文本框输入",
+      "旨在更精准地理解用户意图后再生成内容"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
