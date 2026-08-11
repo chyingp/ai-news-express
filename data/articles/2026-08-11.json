@@ -1058,5 +1058,97 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d55758de01ec64e09cc9ef11af0c1c8f",
+    "title": "‎multi-nodal AI Architecture discusses Politics",
+    "url": "https://www.reddit.com/r/artificial/comments/1vley4b/multinodal_ai_architecture_discusses_politics/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-11T11:35:41+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vley4b/multinodal_ai_architecture_discusses_politics/\"> <img alt=\"‎multi-nodal AI Architecture discusses Politics\" src=\"https://external-preview.redd.it/MYl-0g4q_InPaJYmHk2kTnUj5x6m2uYMV7pS-ylgQzc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a6afc6c9a8782e4cb14557f31d1e42804b1cf81d\" title=\"‎multi-nodal AI Architecture discusses Politics\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Definition: Jasmine Council</p>",
+    "title_zh": "多节点AI架构讨论政治问题",
+    "summary_zh": "Reddit上关于多节点AI架构的讨论，涉及AI系统如何参与政治议题的辩论，探讨AI架构设计对政治立场表达的影响。",
+    "key_points": [
+      "多节点AI架构在处理政治话题时表现出复杂交互",
+      "讨论聚焦AI系统架构设计如何影响其政治倾向表达"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b26460d3649375ec72f8322ad389562d",
+    "title": "Help me decide the build.. [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vlel9g/help_me_decide_the_build_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-11T11:17:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My primary workload is local AI model inference and LoRA/QLoRA fine-tuning, mostly with models in the &lt;10B parameter range. I also do some gaming, but gaming is definitely secondary.</p> <p>Current options:</p> <ul> <li>RTX 5060 Ti 16GB for ₹73,000 (~US$770)</li> <li>RTX 4060 Ti 16GB if I can find one around ₹50,000 (~US$525)</li> </ul> <p>I'm also open to other NVIDIA GPUs around the $500-550 range that have more than 8GB of VRAM. CUDA support is a requireme",
+    "title_zh": "求硬件配置建议——本地AI推理与微调",
+    "summary_zh": "用户在Reddit寻求PC配置建议，主要需求为运行10B参数以下模型的本地推理和LoRA微调，次要需求为游戏，提供RTX 5060 Ti等选项。",
+    "key_points": [
+      "用户主要需求是10B以下模型的本地推理和LoRA微调",
+      "提供RTX 5060 Ti 16GB显卡等具体配置选项"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e3819a34287aa99e927518b97341c35f",
+    "title": "Update: posted here asking what would make you trust AI financial calculations. The best critique broke my core assumption — here's what changed.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vlecr8/update_posted_here_asking_what_would_make_you/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-11T11:05:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A little while back I posted here asking accountants what it would actually take to trust an AI-generated financial calculation. I said I was looking for reasons <em>not</em> to pursue this, not encouragement. You delivered — genuinely the sharpest feedback I've gotten anywhere on this, and I want to close the loop on what it changed.</p> <p><strong>The critique that mattered most (paraphrasing</strong> <a href=\"/u/usually_guilty99\">u/usually_guilty99</a><strong",
+    "title_zh": "AI财务计算的信任度反馈更新",
+    "summary_zh": "用户此前发帖询问如何让会计人员信任AI生成的财务计算，获得尖锐批评后更新了核心假设，并分享了改进后的思路。",
+    "key_points": [
+      "用户根据会计专业人士的反馈修正了AI财务计算的核心假设",
+      "文章反映了AI在专业领域建立信任的实际挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8a7d5b391d35ec2377de588fc8b1b355",
+    "title": "The AI takeover of mathematics has begun",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-11T11:00:00+00:00",
+    "content_snippet": "Mathematician James Maynard has spent a lot of time this past year \"soul searching.\" A professor at the University of Oxford and winner of the prestigious Fields Medal, Maynard told The Verge he's been grappling with the future of his field as the traditionally slow-moving discipline hurries to adapt to AI. Days before we spoke, [&#8230;]",
+    "title_zh": "AI正开始接管数学领域",
+    "summary_zh": "菲尔兹奖得主James Maynard表示，数学界正迅速适应AI技术，传统缓慢发展的学科正在经历AI带来的深刻变革，引发数学家对未来的反思。",
+    "key_points": [
+      "菲尔兹奖得主Maynard认为AI正深刻改变数学研究方式",
+      "数学这一传统慢学科正迅速适应AI工具的应用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
