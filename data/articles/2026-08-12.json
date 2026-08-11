@@ -491,5 +491,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "72b5dc595f2f8b34b45093081bd81e1b",
+    "title": "Outsourced my thinking and cognitive debt gives me anxiety",
+    "url": "https://www.reddit.com/r/artificial/comments/1vlwvpk/outsourced_my_thinking_and_cognitive_debt_gives/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-11T22:58:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm a dev. In my company I am an early adapter of LLMs, it just so happened that i became the &quot;AI guy&quot; in my department. I was given a project to lead, a rather complex system. A lot of it i architected at the start, but as models got better i started outsourcing not only implementation but planning as well.<br /> My team started delivering features with blazing speed. We are churning out dozens of PRs per day and they are being reviewed by agents. </p",
+    "title_zh": "外包了我的思考，认知债务让我焦虑",
+    "summary_zh": "一名开发者分享了自己在工作中过度依赖大语言模型（LLM）的焦虑体验。他作为早期采用者，从最初的架构设计逐步将大量思考工作外包给AI，导致自身认知能力下降，产生了“认知债务”，并对此感到困扰和担忧。",
+    "key_points": [
+      "过度依赖LLM导致开发者自身认知能力下降",
+      "提出“认知债务”概念，描述因AI代劳思考而产生的焦虑",
+      "反思从架构设计到日常编码全面外包思考的负面影响"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
