@@ -1412,5 +1412,151 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "51278e0f10dbf8b7ebb380de1279e4fe",
+    "title": "The Breakdown: OpenAI",
+    "url": "https://www.reddit.com/r/artificial/comments/1vliv6l/the_breakdown_openai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-11T14:22:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>\\OC\\ An article I wrote breaking down OpenAI as a company. Everything from the ethical questions and valuation to the potential future TAM and areas that OpenAI can expand into such as robotics and hardware.<br /> 100% human written, pangram confirmed. </p> <p><a href=\"https://preipomedia.substack.com/p/the-breakdown-openai\">https://preipomedia.substack.com/p/the-breakdown-openai</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.c",
+    "title_zh": "深度解析：OpenAI 公司全景",
+    "summary_zh": "一篇人工撰写的文章，全面剖析 OpenAI 公司，涵盖其伦理问题、估值、潜在市场总量，以及向机器人技术和硬件领域扩张的可能性。",
+    "key_points": [
+      "分析 OpenAI 的伦理争议与公司估值",
+      "探讨 OpenAI 进入机器人、硬件等新领域的前景",
+      "评估 OpenAI 的潜在市场总量 (TAM)"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9d4d467f26c9dacb5227d3b3c302ba99",
+    "title": "Hiring: Remote, Salary: Your Hourly Rate, Remote Contract [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vlirj3/hiring_remote_salary_your_hourly_rate_remote/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-11T14:18:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We’re looking for an ML consultant to support my game development business in its effort to create anticheat infrastructure. We are offering a flexible, part-time contract on an as-needed basis, with no guaranteed weekly hours.</p> <p>The initial priority is building the foundation for future ML development, and not immediately training a sophisticated anti-cheat model. We need someone who can work with us to:</p> <ul> <li>Identify which gameplay telemetry, repl",
+    "title_zh": "招聘：远程机器学习顾问，薪资面议",
+    "summary_zh": "一家游戏开发公司正在招聘兼职机器学习顾问，负责构建游戏反作弊基础设施，职位为远程合同制，按需工作，无固定工时。",
+    "key_points": [
+      "招聘远程兼职 ML 顾问，按小时计费",
+      "首要任务是构建游戏反作弊系统"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7bdf74c872c8885f35cde1678e75b1c5",
+    "title": "We stopped building stateless \"AI\" and moved to HI (Human-Engineered Intelligence): Architecting a dual-axle brain structure with permanent wall-etched memory",
+    "url": "https://www.reddit.com/r/artificial/comments/1vligp2/we_stopped_building_stateless_ai_and_moved_to_hi/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-11T14:07:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most local AI setups are still treating models like stateless chatbots—relying on ephemeral context windows, unbounded RAM vectors that eventually leak, or vector databases that just shuffle text chunks around.</p> <p>Today, we locked in a major architectural shift for our local-first stack. We are moving away from generic AI (probabilistic, stateless text generation) and into HI (Human-Engineered Intelligence)—where persistent identity, cognitive structure, and",
+    "title_zh": "从无状态 AI 转向人类工程智能：构建双轴脑结构与永久记忆",
+    "summary_zh": "文章介绍了一种重大架构转变，放弃传统的无状态聊天机器人模式，转而采用具备永久性蚀刻记忆的双轴脑结构，以解决上下文窗口和向量数据库的局限性。",
+    "key_points": [
+      "提出从无状态 AI 到人类工程智能 (HI) 的架构转变",
+      "采用双轴脑结构和永久性蚀刻记忆替代传统方法",
+      "旨在解决聊天机器人长期记忆和上下文限制问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9da5730aadc5d08f1c8b599c4eaf2990",
+    "title": "Open Source AI Popularity Leaderboard",
+    "url": "https://www.reddit.com/r/artificial/comments/1vlie3h/open_source_ai_popularity_leaderboard/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-11T14:04:32+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/aviaviaviavi\"> /u/aviaviaviavi </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://app.scarf.sh/ai-leaderboard\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1vlie3h/open_source_ai_popularity_leaderboard/\">[comments]</a></span>",
+    "title_zh": "开源 AI 人气排行榜",
+    "summary_zh": "一个关于开源人工智能项目受欢迎程度的排行榜链接，由用户提交并分享，旨在追踪和展示当前最热门的开源 AI 工具或模型。",
+    "key_points": [
+      "分享开源 AI 项目的受欢迎程度排行榜",
+      "用于追踪和比较热门开源 AI 工具"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "798b15435a878f0e4c9e3abdb063ef55",
+    "title": "Looking for mind blowing facts about AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1vlhu1n/looking_for_mind_blowing_facts_about_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-11T13:42:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone,</p> <p>I am a PhD student and I am doing a speech basically how to explain AI to your grandparents...</p> <p>I would like to open with some mind blowing numbers. </p> <p>Do you have any fun facts that stuck in your mind? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/worststudentofmyuni\"> /u/worststudentofmyuni </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <sp",
+    "title_zh": "征集关于 AI 的惊人事实",
+    "summary_zh": "一名博士生为准备一场向长辈解释 AI 的演讲，在社区发帖寻求关于人工智能的令人印象深刻的数据或有趣事实，作为演讲的开场素材。",
+    "key_points": [
+      "博士生为科普演讲征集 AI 相关的惊人数据",
+      "旨在用生动事实向非专业人士解释 AI"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aca3d33a076870f19db69543e72f1c4d",
+    "title": "Why your Amazon order confirmation emails have become so unhelpful",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-11T13:27:20+00:00",
+    "content_snippet": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only item categories. \"Your Beauty item is confirmed!\" an email about my retainer cleaning tablets read. Shoppers have posted other iterations of the redacted emails as well: \"Ordered: [&#8230;]",
+    "title_zh": "为什么你的亚马逊订单确认邮件变得如此无用",
+    "summary_zh": "亚马逊近期更改了订单确认邮件内容，不再显示具体商品名称，仅列出商品类别，此举可能与防止谷歌 Gmail 等平台的 AI 扫描数据有关。",
+    "key_points": [
+      "亚马逊订单邮件不再显示具体商品名称，仅显示类别",
+      "改变可能与阻止谷歌 Gmail AI 代理扫描邮件数据有关",
+      "此变化导致用户无法快速确认订单详情"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
