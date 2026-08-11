@@ -295,5 +295,132 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2faa79de0f7579e242af5dc9636e666f",
+    "title": "Research direction: Intelligent Model Weight transfer between LLMs [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vlt7t7/research_direction_intelligent_model_weight/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-11T20:35:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Few days ago I feel like I need to get started with researching about LLMs. One thing which strikes the most in my mind , how we can reduce the time required for pre-training an LLM model to just few minutes. Right now the most efficient method that we have is knowledge distillation, which still takes time in response generation by the teacher model from prompts, backpropagation and training, to adjust the weights of student model making it to mimic the teacher ",
+    "title_zh": "研究方向：大语言模型间的智能权重迁移",
+    "summary_zh": "一位研究者分享了其关于如何大幅缩短大语言模型预训练时间的研究方向，核心思路是实现模型间的智能权重迁移。",
+    "key_points": [
+      "探讨通过智能权重迁移大幅缩短LLM预训练时间",
+      "发布者认为当前高效的知识迁移方法仍不足以实现分钟级预训练",
+      "这是一篇在Reddit上寻求讨论的研究方向帖"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7cea10866b1743821f3ab98df291c964",
+    "title": "ChatGPT and Gemini both just passed 1 billion users",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-11T19:41:42+00:00",
+    "content_snippet": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT [&#8230;]",
+    "title_zh": "ChatGPT和Gemini用户数双双突破10亿",
+    "summary_zh": "谷歌CEO桑达尔·皮查伊宣布Gemini月活用户已达10亿，成为谷歌增长最快的产品。与此同时，OpenAI的ChatGPT也达到了相同的里程碑。",
+    "key_points": [
+      "谷歌Gemini和OpenAI ChatGPT月活用户均突破10亿大关",
+      "Gemini是谷歌历史上增长最快的产品",
+      "两大AI聊天机器人应用在用户规模上展开激烈竞争"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "291310ab332695cc4627de51d2461fc8",
+    "title": "Continued development of the model based on the SSN [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vlrajq/continued_development_of_the_model_based_on_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-11T19:25:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Back after ~6 months — rebuilding my spiking language model around CPU-first inference</p> <p>Hey everyone. It’s been around six months since I last posted anything about this project here.</p> <p>Some of you might remember Project NORD, my experimental hybrid spiking / brain-inspired language model architecture. I basicall disappeared for a while 😅, but recently I came back to the project, went through the old architecture again, and realized I didn’t really wa",
+    "title_zh": "基于SSN的模型持续开发",
+    "summary_zh": "一位开发者分享了其脉冲神经网络语言模型项目NORD的更新，该项目专注于CPU优先的推理，并在中断约六个月后重启开发。",
+    "key_points": [
+      "项目NORD是一个基于脉冲神经网络的混合语言模型",
+      "该模型专注于CPU优先的推理架构",
+      "开发者在中断半年后重启项目并分享进展"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c836abb2e39288469fe6dcdaef605b3d",
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-11T19:15:35+00:00",
+    "content_snippet": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+    "title_zh": "OpenAI为Linux系统推出ChatGPT桌面应用",
+    "summary_zh": "OpenAI正式发布了专用于Linux操作系统的ChatGPT桌面应用程序，扩大了对不同平台的覆盖。",
+    "key_points": [
+      "OpenAI发布ChatGPT原生Linux桌面应用",
+      "此举扩展了ChatGPT对Windows和macOS之外操作系统的支持",
+      "标志着ChatGPT桌面端生态的进一步完善"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f3985f5902ff34051ef7458c18b32a41",
+    "title": "Pinned: 1B for the @GeminiApp ! Our fastest growing product ever 🚀 Incredible milestone - huge congratulations to @JoshWoodward and the amazing team! Could not be prouder of all of our hard work together. And thank you to all our wonderful users, we can't wait to see what you'll do next with it!",
+    "url": "https://nitter.net/demishassabis/status/2087255967549243425#m",
+    "source": "Demis Hassabis (X)",
+    "source_zh": "Demis Hassabis",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-11T19:12:56+00:00",
+    "content_snippet": "<p>1B for the <a href=\"https://nitter.net/GeminiApp\" title=\"Google Gemini\">@GeminiApp</a> ! Our fastest growing product ever 🚀<br />\n<br />\nIncredible milestone - huge congratulations to <a href=\"https://nitter.net/JoshWoodward\" title=\"Josh Woodward\">@JoshWoodward</a> and the amazing team! Could not be prouder of all of our hard work together. <br />\n<br />\nAnd thank you to all our wonderful users, we can't wait to see what you'll do next with it!</p>\n<hr />\n<blockquote>\n<b>Sundar Pichai (@sunda",
+    "title_zh": "Gemini应用月活用户突破10亿，成为谷歌增长最快产品",
+    "summary_zh": "谷歌DeepMind联合创始人德米斯·哈萨比斯在社交媒体宣布，Gemini应用月活用户已达10亿，是谷歌增长最快的产品，并向团队和用户表示感谢。",
+    "key_points": [
+      "Demis Hassabis庆祝Gemini应用月活用户突破10亿",
+      "Gemini是谷歌有史以来增长最快的产品",
+      "他向团队表达了祝贺，并向全球用户致谢"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
