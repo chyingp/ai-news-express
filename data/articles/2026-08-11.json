@@ -864,5 +864,31 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f56d1595ce980c6ac55454c646a46d87",
+    "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+    "url": "https://www.qbitai.com/2026/08/470485.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-08-11T05:12:20+00:00",
+    "content_snippet": "把下界推高了一大截",
+    "title_zh": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+    "summary_zh": "Anthropic利用未公开的Claude新模型，在黎曼猜想验证中将下界推高了一大截，取得突破性进展，展示了AI在数学前沿研究中的强大能力。",
+    "key_points": [
+      "未公开Claude模型将黎曼猜想下界推高至新纪录",
+      "该成果展示了AI在纯数学研究中的突破性应用",
+      "或为Anthropic即将发布的新模型能力预热"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
