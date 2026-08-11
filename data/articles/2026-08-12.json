@@ -1,0 +1,28 @@
+[
+  {
+    "id": "2fa7ca7a84f32b0343662a36babf59a3",
+    "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+    "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-11T15:00:06+00:00",
+    "content_snippet": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU.  In traditional power delivery, electricity travels from the grid as an alternating current (AC) [&#8230;]",
+    "title_zh": "为何扩展 AI 计算性能需要全新电源架构",
+    "summary_zh": "NVIDIA 探讨了随着 AI 加速计算性能提升，传统电源架构已成为瓶颈，未来数据中心需要向更高电压的 800V 直流配电架构转型，以支持更高机架密度和更高效的电能传输，满足下一代 GPU 的供电需求。",
+    "key_points": [
+      "传统电源架构成为从电网到 GPU 供电的瓶颈",
+      "下一代 AI 数据中心需向 800V 直流配电架构演进",
+      "新架构旨在提升机架密度与电能传输效率"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
