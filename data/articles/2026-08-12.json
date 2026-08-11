@@ -174,5 +174,126 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c43defd5405c15ae513634fde9252b0d",
+    "title": "AAAI 2027 Review: No code submission? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vlqjby/aaai_2027_review_no_code_submission_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-11T18:58:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am now reviewing a bunch of papers for AAAI 2027 and it has surprised me the low amount of submissions with no code implementation. I don’t know if it has been only in my batch or it is common, but I was expecting very detailed appendices + code submission since AAAI is very explicit with the topic of reproducibility. I was planning to take this into consideration when assigning my initial scores, but I would like to hear your opinions. I have always submitted",
+    "title_zh": "AAAI 2027 审稿观察：极少有论文提交代码实现",
+    "summary_zh": "一位 AAAI 2027 审稿人在 Reddit 上表示，其所审稿件中附带代码实现的比例极低，与预期不符，引发社区对学术可复现性的讨论。",
+    "key_points": [
+      "审稿人惊讶于 AAAI 2027 投稿中代码提交率极低",
+      "反映了 AI 学术论文可复现性仍面临挑战",
+      "社区讨论是否应强制要求代码提交"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ac465f31c43dd1eaefed42482a1842ef",
+    "title": "Open-source tool that maps what concepts an LLM has learned into browsable tree structures using hyperbolic geometry",
+    "url": "https://www.reddit.com/r/artificial/comments/1vlqi6s/opensource_tool_that_maps_what_concepts_an_llm/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-11T18:56:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I built HyperSAE, an open-source interpretability tool that extracts what an LLM &quot;knows&quot; and organizes it into tree-shaped concept maps.</p> <p>The idea: LLMs learn concepts hierarchically. &quot;Programming&quot; contains &quot;Python&quot; contains &quot;list comprehensions.&quot; But current interpretability tools dump everything into a flat, unstructured list of thousands of features with no organization.</p> <p>HyperSAE uses a branch of geometry w",
+    "title_zh": "开源工具 HyperSAE：用双曲几何将 LLM 学到的概念映射为树状结构",
+    "summary_zh": "开发者发布开源可解释性工具 HyperSAE，能提取大语言模型（LLM）学到的概念，并以分层树状结构可视化，帮助理解模型内部知识组织方式。",
+    "key_points": [
+      "HyperSAE 可提取并可视化 LLM 内部学到的概念",
+      "利用双曲几何以树状结构组织概念层级",
+      "开源工具旨在提升大模型可解释性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "61f03f2379bc9dfa6cd3858879b03c3e",
+    "title": "Google’s Gemini app surges to one billion users",
+    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-11T18:49:12+00:00",
+    "content_snippet": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+    "title_zh": "Google Gemini 应用用户数突破 10 亿",
+    "summary_zh": "TechCrunch 报道，Google 的 Gemini 应用月活用户已突破 10 亿大关，追平 OpenAI 的 ChatGPT 在今年 6 月达到的里程碑，竞争进入新阶段。",
+    "key_points": [
+      "Gemini 应用月活用户数突破 10 亿",
+      "与 ChatGPT 在今年 6 月达到的 10 亿用户持平",
+      "标志 Gemini 在用户规模上跻身顶级 AI 应用"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d782b7937a9a0372bdf07f51f06fb6ea",
+    "title": "Which ai is best for planing stuff?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vlp4iq/which_ai_is_best_for_planing_stuff/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-11T18:07:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I want to plan my schedule and stuff. I’m trying to go pro, and I need an AI that’s smart for that job. It needs to know what I need to do, to become a pro. Bonus if it can remember previous conversations, but it’s okay if it can’t.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AmbitiousAfternoon64\"> /u/AmbitiousAfternoon64 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span>",
+    "title_zh": "Reddit 用户询问：哪款 AI 最适合做日程规划？",
+    "summary_zh": "一位 Reddit 用户发帖寻求推荐，希望找到一款能够帮助规划日程、助力职业发展且具备记忆能力的 AI 工具。",
+    "key_points": [
+      "用户寻求能进行日程规划和职业指导的 AI",
+      "期望 AI 具备记忆过往对话的能力"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1dfc10ebd13720322ffed26a5f4bc992",
+    "title": "Less than 2.5% of Taylor Farms' recalled lettuce went to Taco Bells",
+    "url": "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-11T18:00:14+00:00",
+    "content_snippet": "FDA report finally reveals where Taylor Farms sent its lettuce—and it raises questions.",
+    "title_zh": "FDA 报告：Taylor Farms 召回生菜中仅不到 2.5% 流向 Taco Bell",
+    "summary_zh": "Ars Technica 报道，FDA 报告显示 Taylor Farms 召回的受污染生菜中，流向 Taco Bell 的比例不足 2.5%，引发对供应链追溯和透明度的质疑。",
+    "key_points": [
+      "FDA 报告揭示 Taylor Farms 召回生菜去向",
+      "仅不到 2.5% 的召回生菜流向 Taco Bell",
+      "事件引发对食品供应链追溯系统的质疑"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
