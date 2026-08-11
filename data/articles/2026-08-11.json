@@ -890,5 +890,79 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "08e82e82782531d84ad077ffb1c37ef9",
+    "title": "The next big AI use case may be family coordination",
+    "url": "https://www.reddit.com/r/artificial/comments/1vlbh6p/the_next_big_ai_use_case_may_be_family/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-11T08:20:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I saw the beta announcement for Norton Family Assistant, and the idea stuck with me. Most AI assistants are still built around one person and their own tasks. Family life does not really work that way. The useful information is usually split across different inboxes, calendars, chats, and people who each remember a different part of the plan.</p> <p>I had already seen this in a health context through Theta Wellness's Care Circle. I use it to help organize my dad",
+    "title_zh": "AI 的下一个大用例可能是家庭协调",
+    "summary_zh": "文章探讨 AI 助手从个人任务向家庭协调场景的延伸，指出家庭信息分散在不同成员间，现有 AI 工具缺乏共享与协调能力，并提及 Norton Family Assistant 测试版带来的启发。",
+    "key_points": [
+      "AI 助手从个人中心转向家庭共享协调的场景分析",
+      "家庭信息割裂现状凸显多成员 AI 协作的潜在需求",
+      "以 Norton Family Assistant 为例讨论家庭 AI 用例"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5689639d6aa8eac58f535d8b1526ff14",
+    "title": "Is artificial intelligence turning everyone into a product builder?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vlbdpn/is_artificial_intelligence_turning_everyone_into/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-11T08:15:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>No, I don’t think so, if I look at my Reddit feed, yes. But if I look around me? Suddenly, not so much.</p> <p>I think AI is like money, it amplifies personality traits that already exist.</p> <p>If you’re generous without money, you’ll be even more generous when you have money.</p> <p>When Adobe Creative Suite came out, didn’t everyone become a graphic artist or designer?</p> <p>When YouTube came out, didn’t everyone become a YouTuber?</p> <p>That’s how I see A",
+    "title_zh": "人工智能是否正将每个人变成产品构建者？",
+    "summary_zh": "文章认为 AI 并未让每个人都成为产品构建者，而是像金钱一样放大了原本就存在的性格特质。在 Reddit 等社区中看似普遍的现象，在现实生活里并不常见。",
+    "key_points": [
+      "AI 的作用是放大已有的性格特质，而非改变人性",
+      "Reddit 等线上社区的产品构建热潮与现实存在脱节",
+      "AI 对创造力的影响取决于个体原本的倾向"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c0b1bf4392bfc705c955fdf6361012bf",
+    "title": "Claude now embeds an invisible watermark into every piece of text it generates.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vlag0q/claude_now_embeds_an_invisible_watermark_into/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-11T07:20:06+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vlag0q/claude_now_embeds_an_invisible_watermark_into/\"> <img alt=\"Claude now embeds an invisible watermark into every piece of text it generates.\" src=\"https://preview.redd.it/zzmemgrv5pih1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d92be7970ba29c6c35a054d9b2132071a5fd05f6\" title=\"Claude now embeds an invisible watermark into every piece of text it generates.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Anthro",
+    "title_zh": "Claude 现已在生成文本中嵌入隐形水印",
+    "summary_zh": "Anthropic 的 Claude 模型开始在生成的每段文本中嵌入隐形水印，以增强内容溯源和真实性验证能力，这一举措可能对 AI 生成内容的识别与监管产生重要影响。",
+    "key_points": [
+      "Claude 为所有生成文本嵌入隐形水印以助力溯源",
+      "该功能旨在提升 AI 生成内容的可识别性与监管可行性",
+      "水印技术可能成为 AI 内容安全标准的新趋势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
