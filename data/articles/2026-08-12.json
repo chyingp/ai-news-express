@@ -422,5 +422,74 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2deee44b21d97eea44880bd28ac59aa7",
+    "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+    "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-11T21:39:11+00:00",
+    "content_snippet": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+    "title_zh": "Accel 超额认购完成 5.5 亿美元印度基金，距上一轮仅 19 个月",
+    "summary_zh": "美国风投公司 Accel 在短短几周内完成了一轮超额认购的 5.5 亿美元印度基金募集，而其上一轮 6.5 亿美元基金仍有超过 55% 的资金尚未投出。",
+    "key_points": [
+      "Accel 新印度基金仅数周即超额完成 5.5 亿美元募资。",
+      "上一轮 6.5 亿美元基金尚有超 55% 资金未部署。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ec0ad1449c94ba7a9552a6756d4934ec",
+    "title": "AI Agents Are Not People. Here’s the Math.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vlud9g/ai_agents_are_not_people_heres_the_math/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-11T21:18:40+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vlud9g/ai_agents_are_not_people_heres_the_math/\"> <img alt=\"AI Agents Are Not People. Here’s the Math.\" src=\"https://external-preview.redd.it/I68MyOXXNv74bXhKbVnw2VUt1fYPiZe-siyESfj0zHc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=20cf6f14d1ee676fdbdeb65cd9c61591b4342242\" title=\"AI Agents Are Not People. Here’s the Math.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Independent-Key-162",
+    "title_zh": "AI 智能体不是人，用数学来证明",
+    "summary_zh": "本文通过数学论证，探讨 AI 智能体与人类智能的根本差异，强调不应将 AI 智能体拟人化，而应理解其底层计算逻辑与局限性。",
+    "key_points": [
+      "从数学角度论证 AI 智能体与人类存在本质区别。",
+      "强调不应将 AI 拟人化，需关注其底层计算逻辑。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5c8c24387af198bfe6991cf35061ed9b",
+    "title": "Decoupled Descent: Enforcing Exact Train-Test Error Tracking Via AMP Onsager Corrections [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vlu1se/decoupled_descent_enforcing_exact_traintest_error/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-11T21:06:36+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1vlu1se/decoupled_descent_enforcing_exact_traintest_error/\"> <img alt=\"Decoupled Descent: Enforcing Exact Train-Test Error Tracking Via AMP Onsager Corrections [R]\" src=\"https://preview.redd.it/kvlzc5378tih1.png?width=140&amp;height=56&amp;auto=webp&amp;s=a5e05d304bcb94e3d955ccf6181541b0ce477939\" title=\"Decoupled Descent: Enforcing Exact Train-Test Error Tracking Via AMP Onsager Corrections [R]\" /> </a> </td><td> <!-- SC",
+    "title_zh": "解耦下降：通过 AMP Onsager 校正实现精确的训练-测试误差跟踪",
+    "summary_zh": "这是一篇研究论文，提出了一种名为“解耦下降”的新方法，利用近似消息传递（AMP）中的 Onsager 校正技术，实现对训练和测试误差的精确跟踪。",
+    "key_points": [
+      "提出“解耦下降”方法，可精确跟踪训练与测试误差。",
+      "方法基于近似消息传递中的 Onsager 校正技术。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
