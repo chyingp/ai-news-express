@@ -1059,5 +1059,324 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "555af550c24fcaf5ecd94a9ff5d8fca0",
+    "title": "I let AI agents run day-to-day operations for my food company. The real risk wasn't bad output, it was write access.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vmg9gn/i_let_ai_agents_run_daytoday_operations_for_my/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-12T14:49:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I spent the first month of running a small food company on AI agents (small programs that each handle one piece of the work) assuming the risk was the software getting things wrong. It wasn't. The risk was a program that could read everything and write anything.</p> <p>Early on I had agents with broad database access, because it was faster to wire up that way. Nothing catastrophic happened, but I noticed I got nervous every time I handed off a new task, because ",
+    "title_zh": "我让AI代理运营我的食品公司，真正的风险不是出错，而是写入权限",
+    "summary_zh": "一位食品公司创始人分享使用AI代理管理日常运营的经验，发现主要风险并非AI输出错误，而是程序拥有系统读写权限带来的潜在危害。",
+    "key_points": [
+      "AI代理运营食品公司的风险在于其读写权限",
+      "程序可读取一切并写入任何内容，构成真正威胁",
+      "实践者认为AI出错并非最严重的问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "83bcaf77e67652e755de5f216e304a5a",
+    "title": "an AI agent has been autonomously finding security holes in major open-source projects and getting the fixes merged by human maintainers",
+    "url": "https://www.reddit.com/r/artificial/comments/1vmg262/an_ai_agent_has_been_autonomously_finding/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-12T14:41:37+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vmg262/an_ai_agent_has_been_autonomously_finding/\"> <img alt=\"an AI agent has been autonomously finding security holes in major open-source projects and getting the fixes merged by human maintainers\" src=\"https://external-preview.redd.it/Y2doeGhyNWpoeWloMQBlKgZ6gNarJQ-EtzNEWb8xKkJZa1ByYN03IP5qFAuc.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=47a2ca76b2d1090061c2a8eb6621c1e8aecfeaba\" title=\"an AI agent has been autonomous",
+    "title_zh": "AI代理自主发现开源项目安全漏洞，并让人类维护者合并修复",
+    "summary_zh": "一个AI代理能够自主在主流开源项目中查找安全漏洞，并成功将其修复方案提交给人类维护者完成合并，展示了AI在安全领域的自动化能力。",
+    "key_points": [
+      "AI代理自主发现并修复开源项目安全漏洞",
+      "修复方案已获人类维护者合并认可",
+      "展示AI在安全审计领域的自动化潜力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3d223537ae3e21f6e1a0bd377963a18d",
+    "title": "AI Fatigue?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vmfq1s/ai_fatigue/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-12T14:28:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Am I the only one experiencing this? Between trying to make sure the machine understands my prompts, refusals, lags, hallucinations - I'm finding myself using it less and less. </p> <p>Is this happening to anyone else or just me? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RuinofAtlantis\"> /u/RuinofAtlantis </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https",
+    "title_zh": "AI疲劳症？",
+    "summary_zh": "Reddit用户讨论是否对AI工具产生疲劳感，包括提示词理解困难、拒绝回答、延迟和幻觉等问题，导致使用频率下降。",
+    "key_points": [
+      "用户因提示词理解、拒绝、延迟等问题减少AI使用",
+      "讨论AI疲劳现象是否普遍存在"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6a49c4b6a0a3e412228f48912489913b",
+    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+    "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-12T14:20:33+00:00",
+    "content_snippet": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+    "title_zh": "2026谷歌制造大会：Pixel 11、Pixel Watch 5、Pixel Tag及大量Gemini功能发布",
+    "summary_zh": "谷歌在2026年制造大会上发布了Pixel 11系列手机、Pixel Watch 5手表、Pixel Tag追踪器以及众多Gemini AI新功能，全面展示其AI硬件生态。",
+    "key_points": [
+      "谷歌发布Pixel 11系列、Pixel Watch 5和Pixel Tag",
+      "推出大量Gemini AI功能，强调AI体验"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "75d61f1c99f4208702e29ca2d498286d",
+    "title": "AI’s climate problem is worse than we thought",
+    "url": "https://www.reddit.com/r/artificial/comments/1vmf5hz/ais_climate_problem_is_worse_than_we_thought/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-12T14:07:32+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vmf5hz/ais_climate_problem_is_worse_than_we_thought/\"> <img alt=\"AI’s climate problem is worse than we thought\" src=\"https://external-preview.redd.it/HbEpfWztum51_EDfXwjzetvO6f9iZB_Gma4EuEuZZcc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e8c45bfa051f7b7d478bf9ee42eec0fd5e67ba3\" title=\"AI’s climate problem is worse than we thought\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/idunnoha",
+    "title_zh": "AI的气候问题比我们想象的更严重",
+    "summary_zh": "一篇讨论人工智能对环境影响加剧的文章，认为AI技术带来的气候问题比此前预想的更加严峻，引发社区关注。",
+    "key_points": [
+      "AI技术对气候的负面影响被低估",
+      "数据中心的能耗和碳排放问题持续恶化"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "618d4dfa5f6ed997408ccf3199026d41",
+    "title": "Putting sign language AI into users’ hands",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-12T14:01:59+00:00",
+    "content_snippet": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "title_zh": "将手语AI交到用户手中",
+    "summary_zh": "Google DeepMind发布突破性模型SL2T，为聋人和听障用户提供手语转文字的全新功能，旨在提升无障碍沟通体验。",
+    "key_points": [
+      "DeepMind发布手语转文字模型SL2T",
+      "新功能旨在服务聋人和听障用户",
+      "标志着AI在无障碍领域的重要进展"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "43370dd22e59d2d7f8a3ba5e44eadccb",
+    "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+    "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-12T14:00:51+00:00",
+    "content_snippet": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
+    "title_zh": "谷歌2026年硬件阵容揭晓：Pixel 11、Pixel Watch 5和Pixel Tag",
+    "summary_zh": "谷歌在2026年硬件发布会上展示了新手机、手表和追踪器，重点强调AI和个性化体验，而非单纯的规格升级。",
+    "key_points": [
+      "谷歌发布Pixel 11、Pixel Watch 5和Pixel Tag",
+      "产品侧重于AI集成和个性化体验，而非硬件规格"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d6069442c336d5e566e272cb571e5fef",
+    "title": "Lovable now valued at $13.3bn",
+    "url": "https://www.reddit.com/r/artificial/comments/1vmez6m/lovable_now_valued_at_133bn/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-12T14:00:44+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vmez6m/lovable_now_valued_at_133bn/\"> <img alt=\"Lovable now valued at $13.3bn\" src=\"https://external-preview.redd.it/4HTZaXMZ4bqIwyNGBE7dXmTTLCT4MoiwGkWEDXXGPLM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc6a143c90810dcd87628392e395c8c27e391afe\" title=\"Lovable now valued at $13.3bn\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Lovable has announced it raised $400m (€347m; £296m) in a <a href=\"https://sifted.eu/",
+    "title_zh": "Lovable估值达133亿美元",
+    "summary_zh": "AI初创公司Lovable最新估值达到133亿美元，成为高估值AI企业之一，反映市场对AI应用开发工具的强烈兴趣。",
+    "key_points": [
+      "Lovable估值达到133亿美元",
+      "反映市场对AI应用开发工具的高需求"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8da3243e4c6051391e3362ac96096d42",
+    "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+    "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-12T14:00:00+00:00",
+    "content_snippet": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel [&#8230;]",
+    "title_zh": "谷歌Pixel Watch 5深入融合AI与健康功能",
+    "summary_zh": "谷歌Pixel Watch 5售价399美元，重点升级AI和健康监测功能，搭载稍快的处理器和略增的电池，尽管价格上涨，但硬件变化不大。",
+    "key_points": [
+      "Pixel Watch 5重点提升AI和健康监测功能",
+      "硬件升级有限，处理器和电池小幅提升",
+      "售价上涨50美元至399美元"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c4548ceed9144ff4ea31cd2c7413ab43",
+    "title": "NVIDIA CEO Tops Glassdoor’s 2026 List of Best CEOs",
+    "url": "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-12T14:00:00+00:00",
+    "content_snippet": "NVIDIA founder and CEO Jensen Huang is ranked No. 1 on Glassdoor’s Best CEOs list for 2026. In the just-released ranking, recognition is earned directly from the people who know their leadership the best — employees. Huang topped the list, with 99% of employees approving of the job he does. “As AI and shifting expectations [&#8230;]",
+    "title_zh": "英伟达CEO黄仁勋荣登Glassdoor 2026年最佳CEO榜首",
+    "summary_zh": "英伟达创始人兼CEO黄仁勋在Glassdoor的2026年最佳CEO排名中位列第一，获得99%的员工认可度，表彰其在AI时代的领导力。",
+    "key_points": [
+      "黄仁勋被评为Glassdoor 2026年最佳CEO",
+      "员工认可度高达99%",
+      "反映其在AI领域的卓越领导力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "62b02a732b7957a41c3a3d6baf1ce5ba",
+    "title": "Did anyone catch this? Nvidia put together a $500B financing deal with Wall Street to help fund AI infrastructure where they are not putting up their own money",
+    "url": "https://www.reddit.com/r/artificial/comments/1vmeshn/did_anyone_catch_this_nvidia_put_together_a_500b/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-12T13:53:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It dropped yesterday tho that Nvidia teamed up with some major Wall Street firms on a $500 billion financing deal that connects AI companies directly with institutional capital, so they don't have to front the massive upfront costs of chips, buildings, power, and cooling themselves</p> <p>The six companies that Jensen chose are Apollo Global Management, BlackRock, Blackstone, Brookfield Asset Management, Goldman Sachs, and KKR</p> <p>According to Morgan Stanley ",
+    "title_zh": "英伟达联合华尔街推出5000亿美元AI基础设施融资计划",
+    "summary_zh": "英伟达与华尔街大型金融机构合作，推出了一项5000亿美元的融资计划，旨在帮助AI公司直接获取机构资本，以支付芯片、数据中心和电力等高昂的前期基础设施成本，且英伟达自身不直接出资。",
+    "key_points": [
+      "英伟达联合华尔街推出5000亿美元AI基础设施融资计划",
+      "该计划连接AI公司与机构资本，解决高昂前期成本问题",
+      "英伟达在此次融资安排中不投入自有资金"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c2b2fb4bc805610f6c453b8a32325109",
+    "title": "Researchers found a way to hijack devices through Zoom screen sharing",
+    "url": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-12T13:37:12+00:00",
+    "content_snippet": "A public AI tool found the dangerous Zoom flaw in under 20 prompts.",
+    "title_zh": "研究人员发现通过Zoom屏幕共享劫持设备的方法",
+    "summary_zh": "安全研究人员发现了一种利用Zoom屏幕共享功能劫持设备的方法，一个公共AI工具在不到20次提示内就发现了这一危险漏洞，凸显了AI在安全攻防中的应用潜力。",
+    "key_points": [
+      "AI工具在20次提示内发现Zoom屏幕共享的高危漏洞",
+      "该漏洞可被用于劫持设备，构成严重安全威胁",
+      "事件展示了AI在自动化安全漏洞挖掘中的能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "25c188758d9ebb779865146a1da1cd41",
+    "title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
+    "url": "https://www.qbitai.com/2026/08/471049.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-08-12T13:10:55+00:00",
+    "content_snippet": "具身模型一小时狂拣1816件异形包裹",
+    "title_zh": "国产具身智能创全球新纪录：以30%成本跑赢Figure AI 45%效率",
+    "summary_zh": "国产具身智能模型以仅30%的成本，在效率上超越Figure AI的45%，创下全球新纪录，其核心在于搭载了“聪明的具身大脑”，能在1小时内分拣1816件异形包裹。",
+    "key_points": [
+      "国产具身智能以30%成本实现超越Figure AI 45%的效率",
+      "模型1小时内可完成1816件异形包裹分拣任务",
+      "关键在于“聪明的具身大脑”实现了高性价比的具身智能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
