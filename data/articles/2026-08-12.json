@@ -911,5 +911,153 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "fdda86186a89bd5837485eeb63452c40",
+    "title": "Expedia recently moved its ranking models to a state-of-the-art Keras 3 setup. Results: 30% faster training, and inference latency decreased by 70%. Read their writeup about the upgrade: https://medium.com/expedia-group-tech/how-keras-3-helped-modernise-expedia-groups-lodging-ranking-stack-7fec96f052fd",
+    "url": "https://nitter.net/fchollet/status/2087519531547701335#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-12T12:40:15+00:00",
+    "content_snippet": "<p>Expedia recently moved its ranking models to a state-of-the-art Keras 3 setup. Results: 30% faster training, and inference latency decreased by 70%. <br />\n<br />\nRead their writeup about the upgrade:<br />\n<a href=\"https://medium.com/expedia-group-tech/how-keras-3-helped-modernise-expedia-groups-lodging-ranking-stack-7fec96f052fd\">medium.com/expedia-group-tec…</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://medium.com/expedia-group-tech/how-keras-3-helped-modernise-expedia-groups-lodging-r",
+    "title_zh": "Expedia 借助 Keras 3 升级排序模型，训练速度提升 30%，推理延迟降低 70%",
+    "summary_zh": "Expedia 将其住宿排序模型迁移至最新的 Keras 3 框架，实现了训练速度提升 30% 和推理延迟降低 70% 的显著性能优化，并分享了技术升级详情。",
+    "key_points": [
+      "迁移至 Keras 3 后训练速度提升 30%",
+      "推理延迟大幅降低 70%",
+      "Expedia 分享了详细的技术升级文章"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e31bc571b8eb46ba0a30bc0ccae52976",
+    "title": "10 AI automation ideas you can build today with no code: the 3 that actually saved me time",
+    "url": "https://www.reddit.com/r/artificial/comments/1vmck3c/10_ai_automation_ideas_you_can_build_today_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-12T12:20:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Everyone posts &quot;10 AI automations&quot; lists, but most of them are fake. Here are 3 from the list I actually run, all no-code, all free: 1. **Email triage bot**: a webhook that reads your inbox, summarizes non-urgent mail into one daily Discord digest, and only pages you for urgent stuff. Killed my morning inbox anxiety. 2. **Self-healing webhook**: the boring one that matters most: a watchdog that checks your automation is alive every 5 minutes and rebuil",
+    "title_zh": "10 个无需代码的 AI 自动化创意：其中 3 个真正节省了时间",
+    "summary_zh": "一篇 Reddit 帖子分享了 10 个零代码的 AI 自动化想法，并重点介绍了 3 个作者实际使用且有效的免费自动化方案，如邮件分类机器人和日常摘要生成。",
+    "key_points": [
+      "分享无需代码的免费 AI 自动化方案",
+      "重点介绍 3 个实际有效的自动化案例",
+      "包括邮件分类和 Discord 每日摘要等应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b6c12b9ffd07d59ff0aa78f1fd010e47",
+    "title": "Warning fear mongering hack writer - 311 in New Orleans using AI to answer calls.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vmcchp/warning_fear_mongering_hack_writer_311_in_new/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-12T12:10:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm not a huge fan of AI in between myself and a human, but for 311 calls (Hack writer Joe Wilkins states 911) I think would be ok. </p> <p><a href=\"https://futurism.com/artificial-intelligence/ai-dispatch-911-new-orleans-emergency-automation?utm_source=beehiiv&amp;utm_medium=email&amp;utm_campaign=futurism-newsletter\">https://futurism.com/artificial-intelligence/ai-dispatch-911-new-orleans-emergency-automation?utm_source=beehiiv&amp;utm_medium=email&amp;utm_cam",
+    "title_zh": "警告：新奥尔良市 311 热线使用 AI 接听电话引发争议",
+    "summary_zh": "针对一篇关于新奥尔良市利用 AI 接听 311 非紧急热线的文章，Reddit 用户批评原文作者制造恐慌，但同时对 AI 介入公共服务表达了谨慎态度。",
+    "key_points": [
+      "新奥尔良市 311 热线引入 AI 接听电话",
+      "原文被指为制造恐慌，混淆 311 与 911 热线",
+      "讨论 AI 在公共服务中介入的边界"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aa04d9fec56dd3410556a70fe939c202",
+    "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+    "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-12T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people&#8230;",
+    "title_zh": "麻省理工科技评论：2026 年 35 位青年创新者及“审查工业复合体”",
+    "summary_zh": "《麻省理工科技评论》本期简报预告了即将公布的 2026 年“35 岁以下创新者”榜单，并探讨了所谓的“审查工业复合体”现象，涵盖科技与社会交叉议题。",
+    "key_points": [
+      "预告 2026 年“35 岁以下创新者”榜单",
+      "本期同时探讨“审查工业复合体”议题",
+      "涵盖科技与社会交叉领域的最新动态"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4361bd4cf51a12e2faf9b74ec4e3a2ce",
+    "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-12T12:09:34+00:00",
+    "content_snippet": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: he's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well [&#8230;]",
+    "title_zh": "用 ChatGPT 研发狗癌症疫苗的故事果然催生了一家初创公司",
+    "summary_zh": "此前利用 ChatGPT 和 Grok 等 AI 工具为宠物狗研制个性化癌症疫苗的澳大利亚企业家，现已正式创立初创公司 Gamgee，旨在提供个性化 mRNA 癌症疫苗。",
+    "key_points": [
+      "AI 辅助研制狗癌症疫苗的故事催生初创公司",
+      "新公司名为 Gamgee，提供个性化 mRNA 疫苗",
+      "创始人曾使用 ChatGPT 和 Grok 进行研发"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ebfb3cbe9d9719eb9f903964601a03b",
+    "title": "Grok is now an AI ‘teammate’ you can assign work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-12T11:58:54+00:00",
+    "content_snippet": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environment, and can sign into apps, tools, and websites you already use to complete multi-step workplace tasks, only coming back when their assigned work [&#8230;]",
+    "title_zh": "Grok 变身 AI “队友”：可分配工作任务",
+    "summary_zh": "SpaceXAI 推出 Grok Bot 测试版，这是一个常驻 AI 代理服务，可像独立 AI 队友一样，在其云端环境中登录应用和网站，完成多步骤工作任务。",
+    "key_points": [
+      "SpaceXAI 推出 Grok Bot 测试版 AI 代理",
+      "可像队友一样独立完成多步骤工作任务",
+      "拥有云端环境，能登录各类应用和工具"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
