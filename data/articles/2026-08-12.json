@@ -739,5 +739,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "de79485c6e0f6beaae3b6d1f32b56363",
+    "title": "Claude Code Orchestrator on Terminal-Bench: Same model, same tasks - Opus refused only when the work was delegated",
+    "url": "https://www.reddit.com/r/artificial/comments/1vm7a6t/claude_code_orchestrator_on_terminalbench_same/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-12T07:30:54+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vm7a6t/claude_code_orchestrator_on_terminalbench_same/\"> <img alt=\"Claude Code Orchestrator on Terminal-Bench: Same model, same tasks - Opus refused only when the work was delegated\" src=\"https://external-preview.redd.it/0BzTrz2gUEBYISj9Y2OgdFpWwGGjc8GjZZK_MpTgJfc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a06ee029d09227f862bac0b9eed49fa221f6934\" title=\"Claude Code Orchestrator on Terminal-Bench: Same model, same task",
+    "title_zh": "Claude Code 在 Terminal-Bench 上的编排实验：同模型同任务，Opus 仅在委托工作时拒绝执行",
+    "summary_zh": "一项实验展示了 Claude Code 在使用同一模型执行相同任务时的表现，发现 Opus 模型仅在将工作委托给其他代理时会拒绝执行，揭示了模型在自主任务分配中的行为边界。",
+    "key_points": [
+      "实验对比了 Claude 模型在直接执行与委托工作时的不同表现",
+      "Opus 模型仅在任务被委托给其他代理时出现拒绝执行的情况",
+      "该发现有助于理解 AI 代理在自主任务编排中的限制与安全性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "38b684b50e456e164c64a8e22a6b9150",
+    "title": "Are AI transparency rules going to slow enterprise AI adoption—or make it safer to scale?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vm66ca/are_ai_transparency_rules_going_to_slow/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-12T06:27:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The new rules from the EU about making AI more open and clear have started to be applied. This is making more people think about how companies share information and handle their AI systems.</p> <p>This brings up a question for businesses using AI that creates content and AI helpers.</p> <p>Do rules make it harder for companies to use AI because they have to do more writing, being open, watching over and managing it?</p> <p>Do having clearer rules make leaders fe",
+    "title_zh": "AI 透明度规则会减缓企业采用，还是让规模化更安全？",
+    "summary_zh": "欧盟新出台的 AI 透明度规则已开始实施，引发业界对企业如何共享信息和管理 AI 系统的思考，探讨了这些规则究竟是会阻碍企业采用 AI，还是会为规模化部署提供更安全的基础。",
+    "key_points": [
+      "欧盟 AI 透明度新规已正式落地，对企业的 AI 信息披露和系统管理提出要求",
+      "新规引发争议：可能增加合规成本，减缓企业 AI 采用速度",
+      "支持者认为透明度规则有助于建立信任，使 AI 规模化部署更安全可靠"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
