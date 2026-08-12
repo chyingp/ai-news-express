@@ -1378,5 +1378,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0268aeed91a739ed09500fb82e2d4605",
+    "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-12T15:52:07+00:00",
+    "content_snippet": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plugins like Autotune introducing [&#8230;]",
+    "title_zh": "吉他公司D'Addario承认在宣传视频中使用AI音乐",
+    "summary_zh": "音乐设备公司D'Addario在持续数周的争议和猜测后，最终承认在近期的宣传视频中使用了AI工具Suno生成音乐，此前该公司曾多次否认相关指控。",
+    "key_points": [
+      "D'Addario承认使用Suno AI生成宣传视频音乐",
+      "该公司此前数周一直否认使用AI的指控",
+      "事件引发对AI在创意产业中透明度的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4aad839266449a126158a8c54aa4d402",
+    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+    "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-12T15:44:56+00:00",
+    "content_snippet": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+    "title_zh": "2.5亿美元收购案演变为欺诈及伪造签名指控",
+    "summary_zh": "VideoVerse以2.5亿美元被收购的交易破裂，投资人仍未收回款项，其联合创始人Vinayak Shrivastav正面临多项法律诉讼，涉及欺诈和伪造签名指控。",
+    "key_points": [
+      "2.5亿美元收购案失败，投资者血本无归",
+      "VideoVerse联合创始人面临欺诈和伪造签名指控",
+      "该事件揭示了科技收购中的法律风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6b0cc768728a5d21647d47f796caf3ec",
+    "title": "Booksellers suspect AI firms are buying and then destroying rare books",
+    "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-12T15:19:17+00:00",
+    "content_snippet": "AI firms quietly bulk buying rare books face resistance from booksellers.",
+    "title_zh": "书商怀疑AI公司批量购买并销毁稀有书籍",
+    "summary_zh": "书商们发现AI公司正在悄然批量购买稀有书籍，并怀疑这些书籍在用于训练AI模型后被销毁，这一行为引发了行业的抵制和担忧。",
+    "key_points": [
+      "AI公司被指批量购买稀有书籍用于模型训练",
+      "书商怀疑买来的书籍用后即被销毁",
+      "该行为引发对AI训练数据伦理的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
