@@ -315,5 +315,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "79ba0d5b9ddaf8f20889938c97813c60",
+    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-12T22:26:37+00:00",
+    "content_snippet": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+    "title_zh": "部分Claude用户不满Anthropic新水印功能将暴露其作弊行为",
+    "summary_zh": "Anthropic为Claude增加水印功能，旨在检测AI生成内容，但部分用户因在工作或学业中作弊会被发现而在社交媒体上表达不满。",
+    "key_points": [
+      "Anthropic为Claude添加内容水印以识别AI生成文本",
+      "部分用户抱怨新功能会暴露其工作或学业中的作弊行为",
+      "该功能引发关于AI使用伦理的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "04a3c04ecceac20c3f80ed6369610021",
+    "title": "Terabytes of credentials leaked in massive supply-chain attack",
+    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-08-12T21:43:21+00:00",
+    "content_snippet": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+    "title_zh": "大规模供应链攻击导致数TB凭证数据泄露",
+    "summary_zh": "一次大规模供应链攻击中，一个被入侵的AI软件包导致2500名用户的数据被窃取，泄露了数TB的凭证信息。",
+    "key_points": [
+      "被入侵的AI软件包导致大规模供应链攻击",
+      "2500名用户受影响，数TB凭证数据泄露",
+      "攻击者通过数据抓取和外泄方式盗取信息"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
