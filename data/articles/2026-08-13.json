@@ -118,5 +118,148 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c55a17c4d6aaac5ef64253da79406ab9",
+    "title": "Does pre-generative-AI data become more valuable as the internet fills with synthetic material?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vmmi1o/does_pregenerativeai_data_become_more_valuable_as/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-12T18:31:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey hey folks, </p> <p>I’ve been thinking about an odd consequence of the generative AI boom. Especially in light of these doomer stories about Anthropic destroying books (boo bad Anthropic bad).</p> <p>The first major LLMs inherited decades of internet that was overwhelmingly produced by humans. Now those same systems and their descendants are producing articles, code, summaries, books, comments, and other material that ends up back in the information environme",
+    "title_zh": "随着合成材料充斥互联网，生成式AI出现前的数据是否变得更有价值？",
+    "summary_zh": "一篇Reddit讨论引发思考：当AI生成的合成内容充斥网络时，早期由人类创造的互联网数据是否会因其真实性和稀缺性而价值上升？文章提及了Anthropic销毁书籍的争议事件。",
+    "key_points": [
+      "AI合成内容泛滥可能使真实人类数据价值提升",
+      "讨论源于对Anthropic销毁书籍事件的反思"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fedb51cc07b1d84a5a94c18edffe77f9",
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-12T18:19:12+00:00",
+    "content_snippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+    "title_zh": "AI编程初创公司Cognition据报正洽谈以400亿美元估值融资",
+    "summary_zh": "AI编程初创公司Cognition在数月前以260亿美元估值融资10亿美元后，据报正寻求新一轮融资，估值可能高达400亿美元。",
+    "key_points": [
+      "Cognition数月前刚以260亿美元估值融资10亿美元",
+      "最新一轮融资谈判估值高达400亿美元，增长迅速"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b77f0ff8e5502479a3562eebb6197be2",
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-12T17:51:00+00:00",
+    "content_snippet": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+    "title_zh": "AI安全担忧加剧，三位先驱为开放路线辩护",
+    "summary_zh": "在Ai4大会上，Geoffrey Hinton、李飞飞和吴恩达三位AI专家就AI监管、开源获取以及美国如何应对中国在亚洲的崛起展开辩论，共同为保持开放的AI发展路线辩护。",
+    "key_points": [
+      "三位顶尖AI专家共同为开放、开源路线辩护",
+      "辩论聚焦AI监管、开源及中美AI竞争格局"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2fd40c918be855216ae767e5bb820dfe",
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-12T17:41:29+00:00",
+    "content_snippet": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+    "title_zh": "OpenAI支持的Thrive Holdings融资20亿美元，将AI带入企业",
+    "summary_zh": "Thrive Holdings完成20亿美元新融资，估值达120亿美元，投资方包括软银等。该公司计划利用资金将AI技术引入企业应用。",
+    "key_points": [
+      "Thrive Holdings获20亿美元融资，估值120亿美元",
+      "投资方包括软银、D1 Capital Partners等",
+      "融资将用于推动AI技术在企业中的应用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e6442b51adcf382e4e7b40c72a19add4",
+    "title": "Does using AI for 1-on-1s actually make you a better manager?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vmkt36/does_using_ai_for_1on1s_actually_make_you_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-12T17:31:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been leading a remote team for about two years now. Before that I was in HR, so I have pretty strong opinions on what good people management looks like. Real talk, real conversations, reading the room.</p> <p>Started using an AI tool a few weeks ago that summarizes meeting notes, flags recurring friction points across checkins, and suggests followup questions based on what someone said last week. It's genuinely useful. I used to forget to circle back on things. ",
+    "title_zh": "使用AI进行一对一沟通真的能让你成为更好的管理者吗？",
+    "summary_zh": "一位有HR背景的远程团队管理者分享经验，探讨使用AI工具总结一对一沟通是否有助于提升管理能力，并引发了关于AI在人员管理中作用的讨论。",
+    "key_points": [
+      "管理者探讨AI工具在团队一对一沟通中的应用效果",
+      "引发关于AI能否真正提升人员管理能力的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dd46bfe4c4e4d6d45a2fd1c7cc1b4a33",
+    "title": "Twitch streamers can now opt out from training Amazon’s AI",
+    "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-12T17:29:10+00:00",
+    "content_snippet": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, [&#8230;]",
+    "title_zh": "Twitch主播现可拒绝其内容用于训练亚马逊AI",
+    "summary_zh": "Twitch用户现在可以选择不允许其直播、视频、剪辑、聊天记录等内容被用于训练亚马逊的生成式AI模型。",
+    "key_points": [
+      "Twitch新增选项，允许用户拒绝内容用于AI训练",
+      "涵盖直播、视频、聊天等所有频道内容"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
