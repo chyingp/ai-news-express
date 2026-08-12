@@ -261,5 +261,59 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3ce8c2bf7081c1bdd68df9a586fd25b9",
+    "title": "Grok, Qwen and Nvidia are competing in three different AI markets now",
+    "url": "https://www.reddit.com/r/artificial/comments/1vmq6nn/grok_qwen_and_nvidia_are_competing_in_three/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-12T20:48:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The model releases this week looked like one race on the surface, but the business models are separating.</p> <p>xAI's Grok 4.6 is a closed API product. Its leverage comes from controlling access and setting the token price.</p> <p>Alibaba's Qwen3.8 is an open-weight release. Its leverage comes from adoption by organizations that want to operate or adapt the model themselves.</p> <p>Nvidia's Switchyard is a routing layer. It sends each job to the cheapest model ",
+    "title_zh": "Grok、Qwen 和 Nvidia 正在三个不同的 AI 市场展开竞争",
+    "summary_zh": "文章分析了 xAI 的 Grok、阿里巴巴的通义千问和英伟达的商业模式差异，指出它们虽然表面都在发布模型，但实际上分别在封闭 API、开源权重和基础设施三个不同市场竞争。",
+    "key_points": [
+      "xAI 的 Grok 采用封闭 API 模式，通过控制访问和定价盈利",
+      "阿里巴巴的通义千问走开源路线，服务不同市场需求",
+      "英伟达聚焦 AI 基础设施层，与模型开发商形成差异化竞争"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai",
+      "alibaba",
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0e1a976108c71a3d479219e2a4937d0e",
+    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-12T20:10:40+00:00",
+    "content_snippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+    "title_zh": "亚马逊将默认使用 Twitch 主播内容训练 AI，除非主播主动退出",
+    "summary_zh": "亚马逊宣布将默认使用 Twitch 平台主播的直播内容进行 AI 训练，主播需手动选择退出。Twitch 首席产品官回应称，如果改为主动加入，将无人参与。",
+    "key_points": [
+      "亚马逊将 Twitch 内容默认纳入 AI 训练数据，主播需手动退出",
+      "Twitch 高管承认若改为主动加入机制，几乎无人会同意",
+      "此举引发对内容创作者权益和数据隐私的广泛讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
