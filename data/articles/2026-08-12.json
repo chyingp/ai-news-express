@@ -789,5 +789,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "530d265d5afe5ef829f8ab4aed5f197b",
+    "title": "OpenAI Presence packages policies, evaluations and human escalation around enterprise AI agents",
+    "url": "https://www.reddit.com/r/artificial/comments/1vm9bwk/openai_presence_packages_policies_evaluations_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-12T09:33:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>OpenAI has introduced Presence, an enterprise product for deploying voice and chat agents across workflows such as billing support, insurance claims and employee IT requests.</p> <p>The notable part is less the underlying model and more the operational layer. Each agent is scoped to a specific job and receives only the knowledge and system access required for it. Organizations define approved actions, policies and escalation conditions, while simulations and eva",
+    "title_zh": "OpenAI推出Presence：为企业AI助理提供政策、评估与人工升级服务",
+    "summary_zh": "OpenAI发布企业级产品Presence，专为部署语音和聊天AI助理设计，覆盖账单支持、保险理赔等场景。该产品亮点在于其运营层面，包括内置政策、评估框架和人工升级机制，以确保企业应用的安全合规。",
+    "key_points": [
+      "Presence内置政策、评估与人工升级机制，强化企业AI治理",
+      "产品覆盖账单支持、保险理赔及员工IT咨询等工作流",
+      "核心价值在于运营层而非底层模型，瞄准企业部署需求"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
