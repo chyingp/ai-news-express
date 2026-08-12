@@ -591,5 +591,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b303efac9d9cecd2af45f8b8e5b59d9e",
+    "title": "The guardrail tax: why enterprise AI safety overhead is costing more compute than actual reasoning",
+    "url": "https://www.reddit.com/r/artificial/comments/1vm3jxj/the_guardrail_tax_why_enterprise_ai_safety/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-12T04:04:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>When enterprise technology officers evaluate large language model infrastructure, financial analysis almost universally focuses on API list pricing, GPU instance rates, and raw token throughput. Standard accounting models calculate compute expenditure per million tokens, factor expected query volume, and project annual licensing cost. This standard framework omits single largest operational inefficiency in modern commercial models: economic tax imposed by safety",
+    "title_zh": "护栏税：为什么企业AI安全开销比实际推理更耗算力",
+    "summary_zh": "文章揭示了企业AI安全基础设施（护栏）的高昂算力成本问题，指出安全审查、内容过滤等机制消耗的算力资源已超过模型本身的推理计算，成为企业部署LLM的主要财务负担，并警告这种“护栏税”正阻碍AI规模应用。",
+    "key_points": [
+      "企业AI安全护栏的算力消耗已超过实际推理计算",
+      "按每百万token计价的传统成本模型掩盖了护栏开销",
+      "高昂的安全开销正成为企业AI规模化部署的障碍"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
