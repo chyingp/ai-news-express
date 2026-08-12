@@ -615,5 +615,129 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "fd80ce259b61ab50cae69a849772057c",
+    "title": "Wrote up lessons the climate movement learned the hard way, and where they might apply to AI-related debates Curious what you make of them!",
+    "url": "https://www.reddit.com/r/artificial/comments/1vm5fet/wrote_up_lessons_the_climate_movement_learned_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-12T05:44:52+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vm5fet/wrote_up_lessons_the_climate_movement_learned_the/\"> <img alt=\"Wrote up lessons the climate movement learned the hard way, and where they might apply to AI-related debates Curious what you make of them!\" src=\"https://external-preview.redd.it/G2RbEhsHtcGHt1GF2w8KWaxLaiSIN4PvevDmd5D2_rg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4f761ac07493792e631324e0c273d657ad58fbc\" title=\"Wrote up lessons the climate movemen",
+    "title_zh": "气候运动的教训如何应用于AI相关辩论",
+    "summary_zh": "一篇反思气候运动经验教训的帖子，探讨其可能对AI相关政策辩论的启示。作者从过往失败中总结，并提出这些教训如何帮助当前AI领域应对类似挑战。",
+    "key_points": [
+      "气候运动的历史教训可应用于AI政策辩论",
+      "探讨如何避免在AI议题上重蹈覆辙",
+      "分享个人对气候与AI关联的思考"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "442514b9dc894d35c587dc259a3b6929",
+    "title": "Does AI agents create more problems or what?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vm5at9/does_ai_agents_create_more_problems_or_what/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-12T05:37:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Since the rise of AI technology is growing day by day and AI agents are increasing in the same way with the evolution of tech and user's requirements. And one thing that I keep wondering about is this really solving the problems or creating more problems? </p> <p>As many people have became the victim of AI scams. Is there any solutions that can actually verify who's behind that AI agents or do we even need to verify who's behind the AI agents like actual human o",
+    "title_zh": "AI智能体是解决问题还是制造更多问题？",
+    "summary_zh": "一篇讨论AI智能体日益增长背后的潜在问题，引发技术社区对AI是否真正解决问题还是制造新麻烦的反思。",
+    "key_points": [
+      "AI智能体快速发展引发对其实用性的质疑",
+      "探讨AI智能体是否在解决现有问题还是制造新问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ce449327361a2da95a6064ae4ae7d493",
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "url": "https://www.reddit.com/r/artificial/comments/1vm4i7d/stealing_reasoning_traces_from_proprietary_llm/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-12T04:54:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Proprietary reasoning can be recovered from its encrypted traces. Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed across sessions, users, and models. We take a trace produced by a frontier model, replay it into a weaker sibling, jailbreak the weaker model, and recover the stronger model’s hidden reasoning in plaintext, without ever attacking the stronger model directly or triggering its anti-distillation saf",
+    "title_zh": "从专有LLM API窃取推理痕迹",
+    "summary_zh": "一项研究揭示Anthropic、OpenAI和谷歌的专有推理模型返回的加密思维链可被重放，从而恢复其推理痕迹，影响模型安全与知识产权保护。",
+    "key_points": [
+      "研究表明可从加密痕迹中恢复专有推理内容",
+      "Anthropic、OpenAI和谷歌的推理模型均受影响",
+      "推理痕迹可跨会话、用户和模型重放"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "anthropic",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "de3553c4c64c3754cf28452361fbb7f8",
+    "title": "Challenge * can updated AI video generators still make the nightmare fuel vids of the earlier generations?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vm48x4/challenge_can_updated_ai_video_generators_still/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-12T04:40:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Just curious if it can purposely make those old body morphing videos that were due to limitations of the technology. </p> <p>Just a random thought but I don't think it will be able to. That should be a benchmark of AGI lol. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LamboForWork\"> /u/LamboForWork </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.red",
+    "title_zh": "挑战：更新后的AI视频生成器还能制造早期恐怖视频吗？",
+    "summary_zh": "一篇社区讨论帖，好奇新一代AI视频生成器是否还能故意重现早期技术限制导致的怪异身体变形视频，并戏称这可能是AGI基准。",
+    "key_points": [
+      "探讨新AI视频生成器能否重现早期技术缺陷画面",
+      "社区戏称此为AGI的有趣基准测试"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "65962f317bf27e92db398bebfda75cef",
+    "title": "Meta AI can now connect to email and calendars, create slides, and run recurring tasks",
+    "url": "https://www.reddit.com/r/artificial/comments/1vm4723/meta_ai_can_now_connect_to_email_and_calendars/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-12T04:37:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Meta’s Muse Spark 1.1 update moves Meta AI beyond answering questions toward carrying out ongoing tasks.</p> <p>According to Meta, it can now connect with email and calendar apps, conduct web research, produce slide decks, and deliver recurring outputs such as daily briefings or weekly plans. Users can also redirect its work while a report or presentation is being generated.</p> <p>The rollout began in selected markets through the Meta AI app and <a href=\"http:/",
+    "title_zh": "Meta AI现可连接邮箱日历、创建幻灯片及执行重复任务",
+    "summary_zh": "Meta通过Muse Spark 1.1更新，为其AI助手新增连接邮箱日历、进行网络研究、生成幻灯片及执行日常重复任务的能力，向持续任务代理迈进。",
+    "key_points": [
+      "Meta AI新增跨应用连接与持续任务执行能力",
+      "可连接邮箱、日历，生成幻灯片，进行网络研究",
+      "Muse Spark 1.1更新推动AI从问答走向任务处理"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
