@@ -515,5 +515,81 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4050394a325596b6117353c89b7e6850",
+    "title": "About the new Claude watermark",
+    "url": "https://www.reddit.com/r/artificial/comments/1vlzjc8/about_the_new_claude_watermark/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-12T00:53:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Anthropic finally made it official this August. Starting now, every chunk of text that Claude pumps out gets an invisible digital tag stitched into it. You won't see it. You won't feel it. But it's there—buried in the statistical noise, waiting for anyone with the right key to unlock it. The company frames this as some kind of public service. A gift to the confused masses who can't tell where the human ends and the machine begins. They have a word for it, natura",
+    "title_zh": "关于新的Claude水印",
+    "summary_zh": "Anthropic正式宣布，Claude即日起在所有生成文本中嵌入不可见数字水印，用于追踪AI生成内容，以增强透明度和安全性。",
+    "key_points": [
+      "Claude输出的文本将嵌入不可见的数字水印",
+      "水印用于标记和追踪AI生成内容，提升透明度",
+      "Anthropic正式宣布该功能，本月开始实施"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7700ad67b4c00a7efab1d44a908b71bf",
+    "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+    "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-12T00:39:26+00:00",
+    "content_snippet": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [&#8230;]",
+    "title_zh": "Saber否认用ChatGPT取代《Rideshare Stimulator》编剧",
+    "summary_zh": "游戏公司Saber的首席执行官否认用AI取代编剧，但前首席编剧声称被ChatGPT替代，双方各执一词，引发关于AI在游戏创作中应用的争议。",
+    "key_points": [
+      "Saber CEO否认用ChatGPT取代编剧，声称未替代任何作者",
+      "前首席编剧公开表示自己被AI取代，与公司说法矛盾",
+      "争议凸显游戏行业AI应用对创作岗位的冲击"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "af37d3b1038572e0352d71cb90995603",
+    "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+    "url": "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-12T00:38:21+00:00",
+    "content_snippet": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capital to support the buildout of AI infrastructure over time. This is a major milestone for NVIDIA and the AI industry. We have moved from an era in which companies [&#8230;]",
+    "title_zh": "英伟达AI工厂计算正成为可投资的资产类别",
+    "summary_zh": "英伟达宣布与Apollo、黑石等顶级金融机构合作，建立独立融资平台，计划调动超5000亿美元社会资本支持AI基础设施建设，标志AI算力成为新型投资资产。",
+    "key_points": [
+      "英伟达联手黑石、KKR等机构，调动超5000亿美元资本",
+      "将通过独立融资平台支持AI基础设施的大规模建设",
+      "AI工厂算力正在成为一种全新的可投资资产类别"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
