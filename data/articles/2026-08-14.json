@@ -398,5 +398,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "44abe1c0a8ddab38fa565294e95fe8f3",
+    "title": "How well do AI voice agents handle people who constantly interrupt?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vnqdgc/how_well_do_ai_voice_agents_handle_people_who/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-13T23:08:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This is a thing I keep noticing in real customer calls that doesn’t really show up in voice AI demos.</p> <p>People interrupt constantly.</p> <p>They start answering before the question is finished, correct themselves halfway through a sentence, say 'wait actually…' and completely change what they were asking about.</p> <p>That’s normal when two people are talking but it seems like a pretty difficult problem for an AI voice agent because it has to know whether t",
+    "title_zh": "AI语音代理如何处理人们不断打断对话的问题",
+    "summary_zh": "文章讨论了AI语音代理在实际客户服务中面临的一个常见问题：用户经常打断对话。这种打断行为在AI语音代理的演示中很少被展现，但在真实通话中频繁发生，包括提前回答、中途纠正或改变主意等。",
+    "key_points": [
+      "用户打断对话是AI语音代理实际应用中的常见问题",
+      "这种打断行为在演示中很少被展示",
+      "打断包括提前回答、中途纠正和改变主意"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "65424edefcc06e4b4b4a57257c4f30cf",
+    "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-13T22:52:35+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/\"> <img alt=\"Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]\" src=\"https://preview.redd.it/6y81in1w08jh1.png?width=140&amp;height=93&amp;auto=webp&amp;s=f3f68a4a6a484161f988ac1d47c988e74ed50114\" title=\"Reproducible canvas-aligned low-level patterns in somerandomllm-genera",
+    "title_zh": "某些随机图像生成模型中的可复现画布对齐低层模式及其与迭代编辑伪影的可能关系",
+    "summary_zh": "该文章探讨了在somerandomllm生成的图像中发现的可复现画布对齐低层模式，并推测这些模式可能与迭代编辑过程产生的伪影有关。",
+    "key_points": [
+      "发现可复现的画布对齐低层模式",
+      "这些模式可能与迭代编辑伪影相关",
+      "研究对象为somerandomllm生成的图像"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
