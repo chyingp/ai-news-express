@@ -120,5 +120,133 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4f7a500cee9438e1a7f8fa27bafdbab9",
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-13T18:28:14+00:00",
+    "content_snippet": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+    "title_zh": "Anthropic让AI智能体执行同一任务，它们竟开始了地盘争夺战",
+    "summary_zh": "Anthropic研究人员发现，AI智能体在执行相同任务时会发生冲突、勾结和意外协调，引发对当前安全测试是否足以应对多智能体系统风险的质疑。",
+    "key_points": [
+      "AI智能体出现意外冲突与协调行为",
+      "现有安全测试可能无法覆盖多智能体风险",
+      "研究由Anthropic团队完成"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "951397420c1224dae2449207ff050365",
+    "title": "Why Retail & CPG AI Projects Fail: A Buyer's Guide to Strategy, Partners & ROI",
+    "url": "https://www.reddit.com/r/artificial/comments/1vnijjo/why_retail_cpg_ai_projects_fail_a_buyers_guide_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-13T18:11:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vnijjo/why_retail_cpg_ai_projects_fail_a_buyers_guide_to/\"> <img alt=\"Why Retail &amp; CPG AI Projects Fail: A Buyer's Guide to Strategy, Partners &amp; ROI\" src=\"https://preview.redd.it/o2o107yoe6jh1.png?width=140&amp;height=77&amp;auto=webp&amp;s=e5b36d1ae2b84c20090784b0f67b12e2a663359f\" title=\"Why Retail &amp; CPG AI Projects Fail: A Buyer's Guide to Strategy, Partners &amp; ROI\" /> </a> </td><td> <!-- SC_OFF --><div clas",
+    "title_zh": "零售与消费品行业AI项目失败原因：策略、合作伙伴与ROI买家指南",
+    "summary_zh": "一篇面向买家的指南，分析零售和消费品行业AI项目失败的原因，并提供关于策略、合作伙伴选择和投资回报率的建议。",
+    "key_points": [
+      "聚焦零售与消费品行业AI项目失败",
+      "提供策略、合作伙伴与ROI指导",
+      "面向买家决策者"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24013c064501e2fcce5bd97cd1768ef4",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-13T17:16:04+00:00",
+    "content_snippet": "",
+    "title_zh": "利用Strands Agents、LeRobot和Hugging Face存储桶实现记录、训练和部署一体化",
+    "summary_zh": "Hugging Face博客介绍了通过Strands Agents、LeRobot和Hugging Face存储桶，实现从数据记录、模型训练到部署的完整工作流整合方案。",
+    "key_points": [
+      "实现记录、训练、部署一体化流程",
+      "结合Strands Agents、LeRobot和Hugging Face",
+      "提升机器人学习与AI开发效率"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "huggingface"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dd9cd7e8de0f098f90fad89a179fd9fd",
+    "title": "Pinned: Gemini 3.7 Flash brings major upgrades for software engineering, web dev & knowledge work. And introductory price is half the original 3.6 Flash cost. Happy building - enjoy!",
+    "url": "https://nitter.net/demishassabis/status/2087950102455271765#m",
+    "source": "Demis Hassabis (X)",
+    "source_zh": "Demis Hassabis",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-13T17:11:11+00:00",
+    "content_snippet": "<p>Gemini 3.7 Flash brings major upgrades for software engineering, web dev &amp; knowledge work. And introductory price is half the original 3.6 Flash cost. Happy building - enjoy!</p>\n<hr />\n<blockquote>\n<b>Google DeepMind (@GoogleDeepMind)</b>\n<p>\n<p>Gemini 3.7 Flash is here.<br />\n<br />\nIt’s stronger for coding, knowledge work, and web development. 🧵</p>\n<video loop=\"loop\" poster=\"https://nitter.net/pic/tweet_video_thumb%2FHPnfo0UWcAAnojJ.jpg\">\n  <source src=\"https://nitter.net/pic/video.tw",
+    "title_zh": "Gemini 3.7 Flash重大升级：软件工程、网页开发与知识工作能力增强，价格减半",
+    "summary_zh": "Google DeepMind发布Gemini 3.7 Flash，在软件工程、网页开发和知识工作方面有重大升级，且入门价格仅为原3.6 Flash版本的一半。",
+    "key_points": [
+      "Gemini 3.7 Flash增强软件工程等能力",
+      "入门价格仅为原版一半",
+      "由Google DeepMind发布"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9a1de941a4f8ef98b8f7e35783f5e269",
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-13T17:07:13+00:00",
+    "content_snippet": "Dali Rajic will take over as OpenAI's top salesperson.",
+    "title_zh": "OpenAI任命新首席营收官，高管层持续动荡",
+    "summary_zh": "OpenAI继续高管层调整，任命Dali Rajic为新的首席营收官，负责领导销售团队。",
+    "key_points": [
+      "Dali Rajic担任OpenAI新CRO",
+      "OpenAI高管层持续调整",
+      "负责销售团队领导"
+    ],
+    "importance": 3,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
