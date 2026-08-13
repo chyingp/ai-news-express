@@ -248,5 +248,131 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7261e6583d8e84ce7ddde3811fc833db",
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-13T20:14:39+00:00",
+    "content_snippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+    "title_zh": "Databricks 原计划融资 10 亿美元，投资者欲投 150 亿，最终以 1900 亿美元估值融资 50 亿",
+    "summary_zh": "Databricks 原计划融资 10 亿美元，但因投资者热情高涨，最终以 1900 亿美元估值融资 50 亿美元。CEO Ali Ghodsi 表示 AI 成本高昂，因此接受了超出预期的投资。",
+    "key_points": [
+      "Databricks 以 1900 亿美元估值融资 50 亿美元",
+      "投资者需求远超公司预期，融资额扩大",
+      "AI 高昂成本是接受更多投资的原因"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4452f5546135ef674e175992b472e10d",
+    "title": "worldproof: diagnosing where world-model predictions break and a measurement of when pixel metrics stop being able to rank models at all [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-13T19:58:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been building an open-source tool for diagnosing world models, the kind that predict future frames from a starting context and a sequence of actions. It compares a rollout against ground truth and against physical invariants, then tells you where and why the prediction falls apart. It doesn't score task success or planning quality on purpose, since there are already benchmarks for those.</p> <p>While validating it I ran into something I think is more intere",
+    "title_zh": "WorldProof：诊断世界模型预测失败并衡量像素指标失效的新工具",
+    "summary_zh": "一篇关于开源工具 WorldProof 的论文，该工具用于诊断世界模型预测失败的原因，并衡量像素指标何时无法再对模型进行排序。",
+    "key_points": [
+      "开源工具用于诊断世界模型预测错误",
+      "可衡量像素指标失效的临界点",
+      "比较模型预测与真实结果及物理不变量"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "45947aa8ee00249092fb00801936f596",
+    "title": "OpenAI is losing its second executive this week",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-13T19:28:39+00:00",
+    "content_snippet": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the [&#8230;]",
+    "title_zh": "OpenAI 本周第二位高管离职",
+    "summary_zh": "OpenAI 首席营收官 Denise Dresser 宣布离职，成为本周第二位离职的高管。她将去追求其他机会，Dali Rajic 将接替其职位。",
+    "key_points": [
+      "首席营收官 Denise Dresser 宣布离职",
+      "这是 OpenAI 本周第二位高管离职",
+      "Dali Rajic 将接任首席营收官"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "459413c052960c038377ef0c38b4807a",
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-13T19:22:40+00:00",
+    "content_snippet": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+    "title_zh": "OpenAI 推出“Ultrafast”模式，让 GPT-5.6 Sol 速度提升 14 倍",
+    "summary_zh": "OpenAI 推出预览版“Ultrafast”模式，能让其最新最强模型 GPT-5.6 Sol 运行速度提升 14 倍，旨在吸引企业用户。",
+    "key_points": [
+      "Ultrafast 模式使模型速度提升 14 倍",
+      "面向企业用户的预览版发布",
+      "用于加速 GPT-5.6 Sol 模型"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b377fa89f3ad152d5e1d6e4218e33c19",
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-13T19:19:49+00:00",
+    "content_snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+    "title_zh": "IBM 与 OpenAI 合作，推动企业 AI 应用",
+    "summary_zh": "IBM 与 OpenAI 达成合作，计划培训并认证数万名顾问掌握 OpenAI 技术，以推动企业级 AI 应用。",
+    "key_points": [
+      "IBM 将培训数万名顾问使用 OpenAI 技术",
+      "合作旨在推动企业 AI 应用",
+      "OpenAI 拓展企业级合作伙伴"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
