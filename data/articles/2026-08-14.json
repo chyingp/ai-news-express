@@ -1,0 +1,124 @@
+[
+  {
+    "id": "4cdd6362e5e2164e07892753516cc37f",
+    "title": "Introducing Gemini 3.7 Flash",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-13T17:04:18+00:00",
+    "content_snippet": "",
+    "title_zh": "Gemini 3.7 Flash 发布",
+    "summary_zh": "谷歌DeepMind宣布推出Gemini 3.7 Flash，这是一款新的AI模型，旨在提供更快速、更高效的性能。该模型是Gemini系列的最新迭代，可能专注于推理和成本优化。",
+    "key_points": [
+      "谷歌发布Gemini 3.7 Flash模型",
+      "主打快速和高效性能",
+      "可能面向推理和成本优化"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e0140177b39a2eb6b8d4323329594429",
+    "title": "UrgenT Help Detecting Performance Regressions Using Machine Learning and Hardware Counters [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vngjmv/urgent_help_detecting_performance_regressions/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-13T17:01:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m working on performance regression detection using machine learning/anomaly detection.</p> <p>My setup is basically:</p> <ul> <li>Healthy runs are used to learn normal behaviour</li> <li>Regression runs are used to see whether the model detects the anomaly</li> <li>For each counter group I only have about 10 healthy samples</li> <li>I’m currently using leave-one-out on the healthy data to set the detection threshold</li> <li>The regression samples are not use",
+    "title_zh": "紧急求助：使用机器学习检测性能回归",
+    "summary_zh": "一位开发者在Reddit上求助，介绍其使用机器学习/异常检测方法检测性能回归问题的项目，涉及通过健康运行学习正常行为，再用回归运行测试模型检测能力。",
+    "key_points": [
+      "机器学习用于性能回归检测",
+      "需学习正常行为并检测异常",
+      "社区求助帖，非重大新闻"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "71dac4d87cb2a8c578265cc943be8a72",
+    "title": "Recommended Machine Learning / AI Academic Papers [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vng8jb/recommended_machine_learning_ai_academic_papers_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-13T16:50:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m currently looking to expand my knowledge past utilisation of AI and Machine Learning through using LLMs and SaS in business applications but I don’t know where to start. </p> <p>I have a university background with CompSci, and so a degree of theoretical knowledge behind AI / ML but nothing really past basics.</p> <p>I would appreciate it if people could share academic research or articles that have been published that go past the current AI craze and actuall",
+    "title_zh": "推荐机器学习/AI学术论文",
+    "summary_zh": "一位具有计算机科学背景的用户在Reddit上寻求推荐AI/ML学术论文，以扩展其超越LLM和SaaS应用的理论知识，追求更深入的技术理解。",
+    "key_points": [
+      "用户寻求AI/ML学术论文推荐",
+      "背景为计算机科学，有理论认知",
+      "旨在扩展技术深度"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fee695160641378839b454920a0e034c",
+    "title": "AI CEO Building Platform Based On Human Nature Is Confused By Human Nature",
+    "url": "https://www.reddit.com/r/artificial/comments/1vnf4nc/ai_ceo_building_platform_based_on_human_nature_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-13T16:10:41+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vnf4nc/ai_ceo_building_platform_based_on_human_nature_is/\"> <img alt=\"AI CEO Building Platform Based On Human Nature Is Confused By Human Nature\" src=\"https://external-preview.redd.it/Qh2Ff6Q5gsXp3Jp_U9oPfMHahkL6iA_x9OYV_A43e9g.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a0982ded7fb31052e75916f459b3e3d592f3f12d\" title=\"AI CEO Building Platform Based On Human Nature Is Confused By Human Nature\" /> </a> </td><td> &#32; s",
+    "title_zh": "AI CEO基于人性做平台，却被人性困惑",
+    "summary_zh": "一篇Reddit帖子讨论一位AI CEO，他正在构建一个基于人性的平台，但自己却对人性感到困惑，暗示了AI产品设计与真实人类行为之间的脱节。",
+    "key_points": [
+      "AI CEO基于人性构建平台",
+      "CEO本人困惑于人性",
+      "反映AI产品与人类行为脱节"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "10399f170c3bdbb0bbce417b03233ec2",
+    "title": "Suno is trying to look more like a real music production tool",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-13T16:00:00+00:00",
+    "content_snippet": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, [&#8230;]",
+    "title_zh": "Suno试图更像一个真正的音乐制作工具",
+    "summary_zh": "Suno发布Studio 2.0，新增MIDI支持等重大升级，使其更接近专业的数字音频工作站，而不仅仅是带有AI功能的简易音频编辑器，旨在提升音乐制作的真实感。",
+    "key_points": [
+      "Suno发布Studio 2.0升级版",
+      "新增MIDI支持，最受欢迎功能",
+      "向专业数字音频工作站靠拢"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
