@@ -374,5 +374,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "539d991b17b150c976ddb39134ec7dc7",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-13T21:13:24+00:00",
+    "content_snippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+    "title_zh": "Writer推出新AI模型及升级工具以降低Token成本",
+    "summary_zh": "Writer基于Z.ai的开源模型GLM-5.2推出了后训练变体，声称新系统能以更低价格提供部署就绪的能力，并升级了成本控制工具。",
+    "key_points": [
+      "基于Z.ai开源模型GLM-5.2开发",
+      "后训练变体，价格更低",
+      "升级工具以控制Token成本"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
