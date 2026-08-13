@@ -847,5 +847,153 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "28a3199d8dd3940bebb7d8799ff26efc",
+    "title": "The attack surface of your agent",
+    "url": "https://www.reddit.com/r/artificial/comments/1vnem07/the_attack_surface_of_your_agent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-13T15:52:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've put a lot of work into the cybersecurity aspect of my agent, Lumina. There's a lot of guardrails, hook and gates, trust channels, and such to help prevent catastrophic failures. Running test after test and harness eval after eval. Last night, I got to test it live against a real threat in the wild... a website that had hidden prompt injections, commands invisible to humans, but machine readable, and directed at any AI agent that visited the site with explic",
+    "title_zh": "你的AI代理的攻击面",
+    "summary_zh": "作者在Reddit上分享为AI代理Lumina构建网络安全防护的经验，包括护栏、钩子、门和信任通道等机制，以防止灾难性故障，但测试中仍发现漏洞。",
+    "key_points": [
+      "AI代理面临严重网络安全攻击面",
+      "作者通过多种防护机制降低风险",
+      "测试中仍发现防护漏洞"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ae02d5bda82cc078f6d3abf7324bdbf1",
+    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-13T15:30:52+00:00",
+    "content_snippet": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+    "title_zh": "微软砍掉不成功的AI功能，合并独立Copilot应用",
+    "summary_zh": "微软简化Copilot产品线，将消费者和商业应用合并，并取消AI生成的播客、群聊、深度研究和Mico角色等功能，显示对AI产品策略的调整。",
+    "key_points": [
+      "微软合并消费者和商业Copilot应用",
+      "废弃AI播客、群聊、深度研究等功能",
+      "显示微软对AI产品策略的调整"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ac0550e394f4863af61c272a33d7bb92",
+    "title": "Namecheap is currently completely down",
+    "url": "https://www.reddit.com/r/artificial/comments/1vndzuy/namecheap_is_currently_completely_down/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-13T15:30:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Namecheap is currently experiencing a major outage following a power failure affecting its Phoenix data center.</p> <p><strong>Web hosting, websites, DNS, email services, and other Namecheap services may currently be unavailable or disrupted.</strong></p> <p>So if your website or hosting is suddenly offline, the issue is likely on Namecheap’s side rather than with your own server or configuration.</p> <p>Emergency maintenance is currently underway.</p> </div><!-",
+    "title_zh": "Namecheap目前完全宕机",
+    "summary_zh": "Namecheap因凤凰城数据中心电力故障导致重大宕机，网络托管、网站、DNS、电子邮件等服务中断，影响用户正常使用。",
+    "key_points": [
+      "Namecheap数据中心电力故障致宕机",
+      "网络托管、DNS、邮件等服务中断",
+      "影响用户正常使用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "70410d3b984c144343d68690002ec3ab",
+    "title": "I looked inside an AI generated movie, and the best parts were all human",
+    "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-13T15:30:00+00:00",
+    "content_snippet": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each other's idealized visions of the future with a series of increasingly glitzy fantasies in which their fame leads to access to [&#8230;]",
+    "title_zh": "我深入研究了AI生成的电影，发现最好的部分都是人类创作的",
+    "summary_zh": "作者分析AI生成电影《Cully Hill Boys》后发现，尽管AI能生成画面，但最精彩的部分（如角色、剧情）均来自人类编剧，凸显AI在创意领域的局限性。",
+    "key_points": [
+      "AI生成电影中最佳部分是人类创作",
+      "AI在创意角色和剧情上仍有局限",
+      "人类编剧在AI电影中不可或缺"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d864b0aecca2bfe1d692eda0789c5fca",
+    "title": "Tim Tiah runs RM500K/month with zero full-time staff — one AI agent absorbs what used to take a whole team",
+    "url": "https://www.reddit.com/r/artificial/comments/1vndwo4/tim_tiah_runs_rm500kmonth_with_zero_fulltime/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-13T15:27:32+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vndwo4/tim_tiah_runs_rm500kmonth_with_zero_fulltime/\"> <img alt=\"Tim Tiah runs RM500K/month with zero full-time staff — one AI agent absorbs what used to take a whole team\" src=\"https://preview.redd.it/xzbyyw3mu5jh1.jpg?width=140&amp;height=56&amp;auto=webp&amp;s=32f911b2d71985e2e2b5f224bc98d6c120c88e82\" title=\"Tim Tiah runs RM500K/month with zero full-time staff — one AI agent absorbs what used to take a whole team\" /> </a>",
+    "title_zh": "Tim Tiah每月创收50万马币，零全职员工——AI代理取代整个团队",
+    "summary_zh": "企业家Tim Tiah通过一个AI代理实现了每月50万马币的收入，无需任何全职员工，展示了AI代理在商业运营中的巨大潜力。",
+    "key_points": [
+      "AI代理替代整个团队实现高收入",
+      "每月50万马币收入零全职员工",
+      "展示AI代理在商业中的巨大潜力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7e37825fb53ff2ee9198f836abd133ec",
+    "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+    "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-13T15:08:00+00:00",
+    "content_snippet": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+    "title_zh": "英伟达5000亿美元新计划风险高但精妙，尤其针对老旧GPU",
+    "summary_zh": "英伟达推出5000亿美元计划，旨在让GPU保持价值，说服新投资者继续为AI建设贷款，以应对老旧GPU贬值问题，风险与机遇并存。",
+    "key_points": [
+      "英伟达推出5000亿美元计划",
+      "旨在保持GPU价值并吸引新投资者",
+      "风险高但针对老旧GPU问题精妙"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
