@@ -654,5 +654,52 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "967189fe76c5782f2e815466dc866369",
+    "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
+    "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-13T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;",
+    "title_zh": "下载：孩子们对AI的看法，以及雄性小鼠的雌性克隆",
+    "summary_zh": "本文是MIT Technology Review的每日新闻简报，主要介绍了两项内容：一是儿童对AI的看法，来自一份独立杂志的调查；二是关于雄性小鼠的雌性克隆技术进展。",
+    "key_points": [
+      "儿童对AI的看法调查",
+      "雄性小鼠雌性克隆技术"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2ac6dd8193c38f33e770b701d9be64be",
+    "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-13T11:59:58+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/\"> <img alt=\"City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]\" src=\"https://preview.redd.it/4vi2d3zjt4jh1.png?width=140&amp;height=75&amp;auto=webp&amp;s=449a7301e08aaa1e20ce77f1b29141f588abf034\" title=\"City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban system",
+    "title_zh": "City2Graph：用于城市系统中异构图神经网络和空间分析的Python库",
+    "summary_zh": "City2Graph是一个新的Python库，专为城市系统中的异构图神经网络和空间分析设计，旨在帮助研究人员利用图神经网络进行城市空间数据分析。",
+    "key_points": [
+      "用于城市系统分析的Python库",
+      "支持异构图神经网络",
+      "适用于空间数据分析"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
