@@ -532,5 +532,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7188ebbf2bc607a0a70af31f38c5f566",
+    "title": "The White House is reportedly preparing to bring open AI models under its secret prerelease safety-testing framework. So yeah, its getting interesting.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vn3n70/the_white_house_is_reportedly_preparing_to_bring/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-13T07:15:33+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vn3n70/the_white_house_is_reportedly_preparing_to_bring/\"> <img alt=\"The White House is reportedly preparing to bring open AI models under its secret prerelease safety-testing framework. So yeah, its getting interesting.\" src=\"https://preview.redd.it/3bgxz2kwe3jh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c36a1f326048086d7c23bb9a0109cab9fe0a6a4\" title=\"The White House is reportedly preparing to bring open AI models ",
+    "title_zh": "白宫正拟将开放AI模型纳入其秘密的发布前安全测试框架",
+    "summary_zh": "据报道，白宫准备将开放AI模型纳入其现有的、用于AI系统发布前的秘密安全测试框架中，此举可能对开源AI的发布流程产生重大影响。",
+    "key_points": [
+      "白宫拟将开放AI模型纳入秘密发布前安全测试",
+      "此举可能影响开源AI模型的发布自由度",
+      "该框架原本用于AI系统的发布前安全评估"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "84992a0660f39076bd39817cc299726e",
+    "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
+    "url": "https://www.qbitai.com/2026/08/471697.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-13T06:33:52+00:00",
+    "content_snippet": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
+    "title_zh": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
+    "summary_zh": "联想集团公布第一季度财报，营收达1834亿元人民币，同比增长43%，创历史新高。业绩增长主要得益于AI服务器业务的强劲需求和爆发式增长。",
+    "key_points": [
+      "联想Q1营收1834亿元，同比增长43%创历史新高",
+      "AI服务器业务成为业绩增长的核心驱动力",
+      "公司整体业绩受益于AI算力需求的爆发"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
