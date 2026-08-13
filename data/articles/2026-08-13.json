@@ -701,5 +701,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5bf708d29669a4269512d4e8c5a1a7f6",
+    "title": "SL2T is our amazing sign-language-to-text model allows users to sign directly to their phones for the first time. Built in close collaboration with the Deaf community, it’s a great example of the good that can be done with AI. Congrats to the team for the launch!",
+    "url": "https://nitter.net/demishassabis/status/2087885303855944001#m",
+    "source": "Demis Hassabis (X)",
+    "source_zh": "Demis Hassabis",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-13T12:53:42+00:00",
+    "content_snippet": "<p>SL2T is our amazing sign-language-to-text model allows users to sign directly to their phones for the first time. Built in close collaboration with the Deaf community, it’s a great example of the good that can be done with AI. Congrats to the team for the launch!</p>\n<hr />\n<blockquote>\n<b>Google DeepMind (@GoogleDeepMind)</b>\n<p>\n<p>SL2T is our breakthrough sign language-to-text model powering new features for Deaf and hard of hearing users on <a href=\"https://nitter.net/Android\" title=\"Andr",
+    "title_zh": "Google发布SL2T手语转文本模型，首次实现手机端直接手语输入",
+    "summary_zh": "Google发布SL2T手语转文本模型，与聋人社区紧密合作开发，首次实现用户直接通过手机手语输入。该模型展示了AI技术的社会价值，获得公司高层祝贺。",
+    "key_points": [
+      "SL2T模型实现手机端直接手语输入",
+      "与聋人社区紧密合作开发",
+      "展示AI技术的社会价值"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
