@@ -580,5 +580,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e8c3026ba0ae460a6245e936d14ca6c1",
+    "title": "Andrej Karpathy just admitted OpenAI's own researchers feel the same career anxiety we do — his actual reasoning is more useful than the doom headlines",
+    "url": "https://www.reddit.com/r/artificial/comments/1vn601y/andrej_karpathy_just_admitted_openais_own/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-13T09:35:23+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vn601y/andrej_karpathy_just_admitted_openais_own/\"> <img alt=\"Andrej Karpathy just admitted OpenAI's own researchers feel the same career anxiety we do — his actual reasoning is more useful than the doom headlines\" src=\"https://external-preview.redd.it/aGdkb2U5c3AzNGpoMa7tEhPlN7twPS1oqtzf5e2-lOn3NxmmbPOSWgVG3cUW.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=99b349b567d3ba013f71cba87a6ada93f5b7de83\" title=\"Andrej Karpathy ",
+    "title_zh": "Andrej Karpathy 坦言 OpenAI 研究员同样面临职业焦虑，其实际见解比末日论更有用",
+    "summary_zh": "前OpenAI研究员Andrej Karpathy公开表示，即使是OpenAI的内部研究人员也对AI快速发展带来的职业前景感到焦虑，但他提出的实际应对思路比媒体渲染的末日论调更具参考价值。",
+    "key_points": [
+      "OpenAI内部研究人员同样担忧AI取代人类工作",
+      "Karpathy分享的理性应对思路比恐慌性报道更有价值",
+      "文章探讨了AI时代从业者如何调整职业心态"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "599ea52fc1f6bec35e8ff8a758bd5015",
+    "title": "How kids feel about AI, in their own words",
+    "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-13T09:00:00+00:00",
+    "content_snippet": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
+    "title_zh": "孩子们亲述对AI的真实感受",
+    "summary_zh": "MIT科技评论采访了孩子们对人工智能的看法，发现他们并非只是用AI作弊，而是有着更复杂多元的体验和思考，有些孩子甚至用AI进行创造性的学习和探索。",
+    "key_points": [
+      "MIT采访揭示孩子们对AI的多元态度远超成人预期",
+      "部分孩子将AI用于创造性学习而非简单作弊",
+      "文章呈现了年轻一代与AI互动的真实图景"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "30cf26657b837a457b221c20db8b2fb2",
+    "title": "Test-time training was popularized during the ARC Prize 2024 competition, after being explored in particular by @MindsAI_Jack and team. To date, I believe ARC 1-2 are the only datasets where TTT strongly outperforms. It would be interesting if TTT started becoming more mainstream. I believe it has great potential.",
+    "url": "https://nitter.net/fchollet/status/2087821894581973426#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-13T08:41:44+00:00",
+    "content_snippet": "<p>Test-time training was popularized during the ARC Prize 2024 competition, after being explored in particular by <a href=\"https://nitter.net/MindsAI_Jack\" title=\"Jack Cole\">@MindsAI_Jack</a> and team. To date, I believe ARC 1-2 are the only datasets where TTT strongly outperforms. It would be interesting if TTT started becoming more mainstream. I believe it has great potential.</p>\n<hr />\n<blockquote>\n<b>François Chollet (@fchollet)</b>\n<p>\n<p>Today we're announcing the winners of ARC Prize 20",
+    "title_zh": "François Chollet 认为测试时训练潜力巨大，有望成为主流",
+    "summary_zh": "Keras框架创始人François Chollet表示，测试时训练（TTT）技术在ARC Prize 2024竞赛中表现突出，但目前仅在ARC 1-2数据集上显著优于其他方法，他相信该技术有巨大潜力并有望成为主流。",
+    "key_points": [
+      "测试时训练在ARC 2024竞赛中表现优异",
+      "目前TTT仅在ARC 1-2数据集上显著优于其他方法",
+      "Chollet认为TTT具有成为主流技术的巨大潜力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
