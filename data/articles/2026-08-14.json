@@ -446,5 +446,105 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e1fe0b03447bc94a1011f612cbf57bef",
+    "title": "And Claude has a watermark now.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vnwnep/and_claude_has_a_watermark_now/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-14T03:58:54+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vnwnep/and_claude_has_a_watermark_now/\"> <img alt=\"And Claude has a watermark now.\" src=\"https://preview.redd.it/mplf5rtok9jh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a07b8d4d5e6818dfba9143ae9459d88504990488\" title=\"And Claude has a watermark now.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Imoldok\"> /u/Imoldok </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r",
+    "title_zh": "Claude 现在有了水印",
+    "summary_zh": "Reddit 用户发现 Claude 的输出中开始出现水印技术，可能用于内容溯源和防止滥用。",
+    "key_points": [
+      "Claude 输出内容中加入了水印",
+      "水印技术可能用于AI生成内容溯源"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "55b72a7dfbdc5e9ec6b9775c1fb93655",
+    "title": "wild to see Sol at 14x speed:",
+    "url": "https://nitter.net/gdb/status/2088111733973934346#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-14T03:53:27+00:00",
+    "content_snippet": "<p>wild to see Sol at 14x speed:</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed.<br />\n<br />\nLaunching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows.</p>\n<a href=\"https://nitter.net/OpenAI/status/2087947721936359705#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2087946208128237568%2Fimg%2FwHXN7OyTUGjd05DS.jpg\" />\n</a>\n\n\n</p>\n<f",
+    "title_zh": "GPT-5.6 Sol 超快模式预览：速度提升 14 倍",
+    "summary_zh": "OpenAI 预览 GPT-5.6 Sol 的超快模式，速度可达原来的 14 倍，将首先通过 API 向特定客户群开放。",
+    "key_points": [
+      "GPT-5.6 Sol 推出超快模式，速度提升 14 倍",
+      "该模式优先在 API 中向部分客户推出"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bbc27dfc404d42c78a2fa82eee12fc48",
+    "title": "chatgpt for saving you money",
+    "url": "https://nitter.net/gdb/status/2088111005297471894#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-14T03:50:33+00:00",
+    "content_snippet": "<p>chatgpt for saving you money</p>\n<hr />\n<blockquote>\n<b>jason (@jxnlco)</b>\n<p>\n<p>has chatgpt or codex ever saved you actual money?<br />\n<br />\ncaught an incorrect invoice, found a billing mistake, canceled subscriptions, negotiated a bill, etc.<br />\n<br />\nwhat happened, how much did you save, and what was the workflow?<br />\n<br />\nreply or dm me. looking for real stories!</p>\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/jxnlco/status/2087956442175418736#m\">https://nitter.net/jxnlc",
+    "title_zh": "ChatGPT 帮你省钱",
+    "summary_zh": "Greg Brockman 分享用户讨论 ChatGPT 或 Codex 是否曾帮助用户通过发现账单错误、取消订阅等方式节省实际金钱。",
+    "key_points": [
+      "用户讨论 ChatGPT 在财务方面的实际省钱案例",
+      "案例包括发现错误账单和协商费用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d9cd1e16dbbad183b0834e659422d00d",
+    "title": "/ultrafast",
+    "url": "https://nitter.net/sama/status/2088101491802243121#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-14T03:12:45+00:00",
+    "content_snippet": "<p>/ultrafast</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>Previewing Ultrafast mode: GPT-5.6 Sol at up to 14x the speed.<br />\n<br />\nLaunching first in the OpenAI API to a select group of customers with expanded access to more businesses as capacity grows.</p>\n<a href=\"https://nitter.net/OpenAI/status/2087947721936359705#m\">\n<br />Video<br />\n  <img src=\"https://nitter.net/pic/amplify_video_thumb%2F2087946208128237568%2Fimg%2FwHXN7OyTUGjd05DS.jpg\" />\n</a>\n\n\n</p>\n<footer>\n— <cite><a h",
+    "title_zh": "/ultrafast",
+    "summary_zh": "Sam Altman 转发 OpenAI 的超快模式预告，GPT-5.6 Sol 速度提升 14 倍，即将通过 API 向部分客户推出。",
+    "key_points": [
+      "Sam Altman 转发 GPT-5.6 Sol 超快模式预告",
+      "新模式速度提升 14 倍，优先 API 客户开放"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
