@@ -1020,5 +1020,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "20e51876ed5664f9ce29af0261ffd5b2",
+    "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-14T15:50:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This is the project my last two posts were building towards (this is the last of this silliness). I ported the Doom rendering algorithm to run inside a transformer. Instead of training a model, I used a compiler I wrote which converts computation graphs into transformer weights, and then ported Doom's algorithm into a compatible graph. The generated checkpoints can be loaded in Hugging Face without trust_remote_code -- it's just a standard transformers checkpoin",
+    "title_zh": "我将《毁灭战士》渲染器编译成了一个21B参数的Transformer——完全无需训练",
+    "summary_zh": "作者将经典游戏《毁灭战士》的渲染算法移植到Transformer架构中，通过编写编译器将计算图转换为Transformer权重，无需任何训练过程，展示了模型架构的非常规应用。",
+    "key_points": [
+      "将Doom渲染算法编译为21B参数Transformer权重，无需训练",
+      "通过自定义编译器将计算图转换为Transformer架构",
+      "展示AI模型架构的非传统创造性应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d0a06ebad8a62813c06f0091c01ce040",
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-14T15:43:28+00:00",
+    "content_snippet": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]",
+    "title_zh": "马克·扎克伯格真的相信AI是‘为所有人服务的’吗？",
+    "summary_zh": "Meta发布了开源模型Glimmer，与仅限API访问的Muse Spark形成对比，同时扎克伯格发表公开信。文章质疑Meta开放策略的真实意图，探讨AI民主化背后的商业考量。",
+    "key_points": [
+      "Meta发布开源模型Glimmer，与闭源模型Muse Spark形成战略对比",
+      "扎克伯格发表公开信强调AI开放理念，引发对其真实动机的讨论",
+      "文章探讨Meta开放策略背后的商业与竞争考量"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b90fe9c27d08f61e1dcb922435a45870",
+    "title": "🚀 New version of Android Remote Control MCP released! Let your AI agent control your phone, now with on-device PII redaction! 🛡️ No cables or root needed!",
+    "url": "https://www.reddit.com/r/artificial/comments/1voafib/new_version_of_android_remote_control_mcp/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-14T15:29:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1voafib/new_version_of_android_remote_control_mcp/\"> <img alt=\"🚀 New version of Android Remote Control MCP released! Let your AI agent control your phone, now with on-device PII redaction! 🛡️ No cables or root needed!\" src=\"https://external-preview.redd.it/em00cHQ0MHd6Y2poMbomiQQjJUcmbqnq6H2q_Ly4mLNymtxXbXvA2yN9T4zV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=309087cbf65de48676c2b014aa5ab541a65556f7\" title=\"🚀 New version",
+    "title_zh": "新版Android远程控制MCP发布：AI代理可控制手机，新增设备端PII脱敏功能",
+    "summary_zh": "Android远程控制MCP工具发布新版本，允许AI代理远程操控安卓手机，新增设备端个人身份信息(PII)自动脱敏功能，无需数据线或Root权限即可使用。",
+    "key_points": [
+      "AI代理可远程控制安卓手机，无需数据线或Root权限",
+      "新增设备端PII自动脱敏功能，增强隐私保护",
+      "作为MCP工具发布，扩展AI代理的物理设备交互能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9387317688bd1722bb70675cdcaa19c0",
+    "title": "Is it over for AI UGC ads? Has the bubble finally burst?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vo9qsc/is_it_over_for_ai_ugc_ads_has_the_bubble_finally/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-14T15:03:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I hv been in the trenches with ai generated ad content and I feel strongly a shift is coming and it surely doesnt look good for ai video tools</p> <p>Starting with new york, any ad featuring an ai generated person has to be labeled as a synthetic performer like an on ad label and ny is kind of state that tends to set the template for everyone else to copy(coz no one want two versions of a policy)</p> <p>Meta also is now auto detecting and labeling ads when their",
+    "title_zh": "AI生成广告的末日到了吗？泡沫终于破裂了？",
+    "summary_zh": "文章探讨AI生成用户内容广告的衰退趋势，指出纽约等地开始要求标注AI生成的虚拟人物，法规趋严和观众疲劳导致AI视频广告工具前景黯淡。",
+    "key_points": [
+      "纽约等地法规要求AI生成人物需标注为合成表演者",
+      "法规趋严和观众审美疲劳导致AI生成广告效果下降",
+      "AI视频广告工具行业面临泡沫破裂的风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
