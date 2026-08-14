@@ -192,5 +192,53 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "19e51bb2d067cf663045a86389a77697",
+    "title": "How much does adding an honest limitations section hurt the paper? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1voksgz/how_much_does_adding_an_honest_limitations/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-14T21:55:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi, </p> <p>How much does adding an honest limitations section hurt the paper (apart from making it better)?</p> <p>Does it bias the reviewers? Will they want you to fix the things in the limitations section?</p> <p>If the reviewers let AI read the paper, will the limitations section bias AI? </p> <p>Would it be better if the limitations section was hidden from the reviewers? And if the reviewers would have to author a limitations section?</p> </div><!-- SC_ON -",
+    "title_zh": "在论文中添加诚实的局限性部分会带来多大负面影响？[讨论]",
+    "summary_zh": "Reddit讨论帖探讨在学术论文中坦诚列出研究局限性是否会招致审稿人偏见,或要求作者在修改时解决这些问题,以及AI审稿可能带来的影响。",
+    "key_points": [
+      "讨论学术论文公开局限性是否会引发审稿人偏见",
+      "担忧审稿人可能要求作者在修改中解决所列局限性",
+      "AI参与审稿场景下坦诚局限性可能带来的新风险"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "37440adc7d02ea5ee8341411c54a8c4d",
+    "title": "Custom AI Agents for Non-Developers: What’s Real",
+    "url": "https://www.reddit.com/r/artificial/comments/1vokj1y/custom_ai_agents_for_nondevelopers_whats_real/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-14T21:45:08+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/techpotions\"> /u/techpotions </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"http://techpotions.com/lab/custom-ai-agents-non-developers-whats-real\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1vokj1y/custom_ai_agents_for_nondevelopers_whats_real/\">[comments]</a></span>",
+    "title_zh": "面向非开发者的自定义AI代理：什么是真实的",
+    "summary_zh": "文章探讨了面向非技术用户的AI代理构建工具现状,分析哪些是实际可行的方案,哪些是过度宣传,旨在帮助非开发者理解当前技术的真实能力边界。",
+    "key_points": [
+      "探讨面向非开发者的自定义AI代理工具的实际可用性",
+      "区分当前AI代理技术中真实能力与过度宣传的内容",
+      "帮助非技术人员理解构建AI代理的真实门槛与可能性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
