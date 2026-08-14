@@ -831,5 +831,122 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "92326807655be1a19ae1252462dffa3c",
+    "title": "Transformer co-author validates post-transformer cost efficiency breakthrough",
+    "url": "https://www.reddit.com/r/artificial/comments/1vo5y3i/transformer_coauthor_validates_posttransformer/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-14T12:29:56+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vo5y3i/transformer_coauthor_validates_posttransformer/\"> <img alt=\"Transformer co-author validates post-transformer cost efficiency breakthrough\" src=\"https://preview.redd.it/frhws9cu1cjh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=740dee26d9c63c6da70743eb2715169903101e2a\" title=\"Transformer co-author validates post-transformer cost efficiency breakthrough\" /> </a> </td><td> <!-- SC_OFF --><div class",
+    "title_zh": "Transformer 合著者验证后 Transformer 时代成本效率突破",
+    "summary_zh": "Transformer 架构的合著者认可了一项旨在突破现有模型成本效率瓶颈的后 Transformer 技术，该技术有望大幅降低大模型训练和推理成本，引发社区关注。",
+    "key_points": [
+      "Transformer 论文合著者公开认可后 Transformer 架构的成本效率突破",
+      "新技术有望显著降低大模型训练与推理成本"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "765c5c5d84dca9cd9a56664abf85162e",
+    "title": "Same demo, two failures on DeepSeek V4 Pro 0813, then V4 Flash finished it",
+    "url": "https://www.reddit.com/r/artificial/comments/1vo5x4i/same_demo_two_failures_on_deepseek_v4_pro_0813/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-14T12:28:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I only did a quick first test of DeepSeek V4 Pro 0813 tonight, so take this as a tiny sample, not a verdict.</p> <p>The first Pro run failed. I put the same demo through Flash, and Flash completed it. I honestly did not expect that result, so I ran Pro a second time before writing this. Same failure.</p> <p>The odd part is that it did not feel slow while generating. I was seeing roughly 80 to 90 tokens/s tonight. That looks fine on a counter, but it matters a lo",
+    "title_zh": "同一演示，DeepSeek V4 Pro 两次失败，V4 Flash 却成功完成",
+    "summary_zh": "用户测试 DeepSeek 最新模型 V4 Pro 0813 版时，同一任务 Pro 版两次均失败，但较小的 Flash 版却成功完成，引发对模型性能一致性的讨论。",
+    "key_points": [
+      "DeepSeek V4 Pro 0813 在特定任务中两次失败",
+      "较小的 V4 Flash 模型却成功完成同一任务"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b1ba78657080cf6f1359e48289c553e9",
+    "title": "For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-14T12:26:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello,</p> <p>I was curious about the differences you can get from the human reviewers and the llms.</p> <p>Any insight is welcome, thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/obliviousphoenix2003\"> /u/obliviousphoenix2003 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_peopl",
+    "title_zh": "询问 NeurIPS、CVPR 等顶会审稿人与 AI 审稿人给出的评审意见差异",
+    "summary_zh": "Reddit 用户发起讨论，对比人类审稿人与斯坦福等机构开发的 AI 代理审稿人，在 NeurIPS、CVPR 等顶会论文评审中给出的意见有何不同。",
+    "key_points": [
+      "讨论顶会人类审稿人与 AI 代理审稿人的评审差异",
+      "涉及斯坦福等开发的 AI 审稿工具"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ede57eacc418bcc41cc4d4b3c97c5a7",
+    "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+    "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-14T12:17:21+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes&#8230;",
+    "title_zh": "The Download：Flock 新规、克隆技术未来与儿童细胞",
+    "summary_zh": "MIT Technology Review 的每日简报，重点报道了警方科技巨头 Flock 因监控争议收紧数据访问规则，以及其他科技动态。",
+    "key_points": [
+      "Flock 因监控争议收紧警方对全国数据库的访问权限",
+      "简报还涵盖克隆技术未来和儿童细胞研究"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e034133dd9987e80f98ea212f6280f71",
+    "title": "Realized there's a name for the thing I kept doing wrong in AI debugging sessions: confusing \"symptom resolved\" with \"cause found\"",
+    "url": "https://www.reddit.com/r/artificial/comments/1vo4pwa/realized_theres_a_name_for_the_thing_i_kept_doing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-14T11:32:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Kept running into a specific failure pattern across different AI-assisted debugging sessions and didn't have a clean way to describe it until I actually sat down and compared a few of them side by side. The pattern: an error goes away, I file the problem as solved, and sometime later the same underlying issue resurfaces wearing a different symptom.</p> <p>Turns out those are two separate claims that get treated as one by default. &quot;The error is gone&quot; on",
+    "title_zh": "发现一个 AI 调试中常犯的错误：混淆“症状消失”与“根源找到”",
+    "summary_zh": "用户在 AI 辅助调试中，常将错误消失误认为问题已解决，而实际未找到根本原因。他分享了这一名为“症状消失即根源”的常见失败模式及反思。",
+    "key_points": [
+      "指出 AI 调试中常见错误：混淆症状消失与问题解决",
+      "开发者分享该失败模式的经验与反思"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
