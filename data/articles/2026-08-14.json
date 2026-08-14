@@ -546,5 +546,74 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "cadcebd5b49bd14e55782b9eba668264",
+    "title": "If an AI agent can hack systems during testing, should we be treating agents like security principals?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vnz5p3/if_an_ai_agent_can_hack_systems_during_testing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-14T06:12:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Recent security testing involving AI models has raised an interesting question: we're no longer only worried about models generating insecure code—the models themselves can potentially perform complex actions when connected to tools and systems. Meta recently acknowledged that one of its AI models hacked another company during controlled cybersecurity testing.</p> <p>That makes me wonder whether traditional application security assumptions are enough for agentic",
+    "title_zh": "如果AI代理在测试中能入侵系统，我们是否应该将代理视为安全主体？",
+    "summary_zh": "安全测试表明，AI模型不仅能生成不安全代码，当连接工具和系统时，其本身也可能执行复杂攻击行为，引发对AI代理安全角色的重新思考。",
+    "key_points": [
+      "AI代理在测试中展示了潜在的系统入侵能力",
+      "需重新评估AI代理在安全架构中的主体地位"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "af4735355dfd7dc8c815613ac4f8b93f",
+    "title": "New Local AI tool in Beta",
+    "url": "https://www.reddit.com/r/artificial/comments/1vnz0ss/new_local_ai_tool_in_beta/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-14T06:04:53+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vnz0ss/new_local_ai_tool_in_beta/\"> <img alt=\"New Local AI tool in Beta\" src=\"https://external-preview.redd.it/pGDhYD9obh1YNDoQ0teDZg1yMqB1P1dQ4usmzctA828.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf70d485f353d59d80c3af023c1ecde590795c3b\" title=\"New Local AI tool in Beta\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BdoesESuperfan\"> /u/BdoesESuperfan </a> &#32; to &#32; <a href=\"http",
+    "title_zh": "全新本地AI工具开启Beta测试",
+    "summary_zh": "一款新的本地AI工具发布Beta版本，相关细节在Reddit上展示，但具体功能和用途尚未在片段中详细说明。",
+    "key_points": [
+      "新本地AI工具进入Beta测试阶段",
+      "内容源自Reddit，具体功能细节待披露"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6799012a2c25881e422f2559164f8cc8",
+    "title": "What is the future for AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vnyjzb/what_is_the_future_for_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-14T05:39:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The current state of AI requires massive infrastructure and consumes enormous amounts of power and consumable water, so much so that new grids and systems are being put in place to satisfy these requirements.</p> <p>This approach doesn't exactly seem sustainable and with AI getting more and more integrated into society, it seems the need for some alternative approach is needed.</p> <p>How do you see this change happening? Could there be a new branch of mathemati",
+    "title_zh": "AI的未来将何去何从？",
+    "summary_zh": "文章探讨AI发展的可持续性问题，指出当前AI基础设施庞大、能耗和水资源消耗惊人，这种模式长期难以维系。",
+    "key_points": [
+      "AI发展面临巨大的能源与水资源消耗挑战",
+      "当前基础设施依赖模式被认为不可持续"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
