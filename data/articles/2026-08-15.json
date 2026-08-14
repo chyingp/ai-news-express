@@ -71,5 +71,76 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a9c728294163b9ba7b62f657735a58f5",
+    "title": "LiquidAI LFM2.5-VL-3B: a 3.1B local VLM that beats Gemma-4 E4B — screen understanding 2.5 → 82.2",
+    "url": "https://www.reddit.com/r/artificial/comments/1vodx2x/liquidai_lfm25vl3b_a_31b_local_vlm_that_beats/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-14T17:37:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>LiquidAI LFM2.5-VL-3B: a 3.1B local VLM that beats Gemma-4 E4B — screen understanding 2.5 → 82.2</p> <p>TL;DR: LiquidAI released LFM2.5-VL-3B, a 3.1B vision-language model that runs fully local (llama.cpp, MLX, vLLM, even a WebGPU demo).</p> <p>• Beats Gemma-4 E4B (8B) 69.4 vs 59.7; edges Qwen3.5-4B • Screen understanding: 2.5 → 82.2 on ScreenSpot-v2 Web (huge jump) • 228 tok/s on M5 Max, 20 tok/s on a Galaxy S26 Ultra • Function calling / object grounding inclu",
+    "title_zh": "LiquidAI 发布 LFM2.5-VL-3B：本地视觉语言模型，屏幕理解能力碾压 Gemma-4",
+    "summary_zh": "LiquidAI 推出了一个 31 亿参数的视觉语言模型 LFM2.5-VL-3B，可在本地运行，并在屏幕理解基准测试中以 82.2 分大幅超越谷歌 Gemma-4 E4B 模型，支持多种推理框架。",
+    "key_points": [
+      "该 3.1B 参数模型可在本地运行，支持 llama.cpp、MLX 等多种框架",
+      "屏幕理解基准测试得分 82.2，显著优于竞争对手 Gemma-4 E4B"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "46cf85637aa1a83fec594e1d84bb71c3",
+    "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent",
+    "url": "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-14T17:13:05+00:00",
+    "content_snippet": "Indonesia is taking charge of its AI future. This week, the Ministry of Communication and Digital Affairs (Komdigi), Indosat Ooredoo Hutchison (Indosat or IOH), NVIDIA and Universitas Gadjah Mada (UGM) launched the UGM Indosat NVIDIA AI Technology Center (NVAITC) in Yogyakarta — the country’s first university-based AI technology center. Established under Indonesia’s AI Center of [&#8230;]",
+    "title_zh": "印尼大学联合 Indosat 与英伟达开设该国首个大学 AI 中心",
+    "summary_zh": "印度尼西亚通信部、Indosat 及英伟达与加札马达大学合作，在日惹启动了该国首个大学 AI 技术中心，旨在培养本地人工智能人才，推动印尼 AI 发展。",
+    "key_points": [
+      "英伟达与印尼政府、大学合作建立该国首个大学 AI 中心",
+      "该中心旨在培养本地 AI 人才，加速印尼人工智能发展"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "30b7180bee146f701844d9f2b523eeb9",
+    "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-14T17:06:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most classification metrics for oncology AI models (AUC, ICC, MAE) measure global agreement. They don't answer the question that actually matters at the point of care: how reliable is this model at the exact cutoff that decides whether a patient gets flagged, biopsied, or treated?</p> <p>I built <code>oncothresh</code> to evaluate models at a specific clinical threshold rather than in aggregate: sensitivity/specificity/PPV/NPV at the cutoff, bootstrap confidence",
+    "title_zh": "开源 Python 库及无代码仪表板：用于在临床决策阈值评估肿瘤学 AI 模型",
+    "summary_zh": "研究人员发布了一个开源 Python 库和无代码仪表板，专门用于在特定临床决策阈值评估肿瘤学 AI 模型的可靠性，解决了传统评估指标无法回答诊疗关键问题这一痛点。",
+    "key_points": [
+      "该工具库专注于在临床决策阈值点评估肿瘤 AI 模型的可靠性",
+      "解决传统指标（如 AUC）无法评估模型在实际诊疗中表现的问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
