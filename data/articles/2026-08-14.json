@@ -615,5 +615,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "afceb440046b15134f15ac77308c5afd",
+    "title": "When the smartest AI model is actually a terrible business move",
+    "url": "https://www.reddit.com/r/artificial/comments/1vo13up/when_the_smartest_ai_model_is_actually_a_terrible/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-14T08:06:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I came across this article that flips the script on AI hype: sometimes the most advanced models are the worst for business. High costs, misaligned incentives, and ethical risks can turn a technical win into a strategic loss. Have you seen this play out in your work or industry?</p> <p>(Not affiliated, just thought it was a refreshing take.)</p> <p>[Source: <a href=\"https://www.hitechies.com/ai-smartest-model-worst-business-decision/%5C\">https://www.hitechies.com",
+    "title_zh": "当最聪明的AI模型实际上是糟糕的商业决策",
+    "summary_zh": "本文探讨了AI领域的一个反直觉现象：技术上最先进的模型可能因高昂成本、错位的激励机制和伦理风险，反而成为商业上的战略损失，而非成功。",
+    "key_points": [
+      "最先进的AI模型可能因高成本成为商业损失",
+      "技术优势可能被错位激励和伦理风险抵消",
+      "AI开发需平衡技术领先与商业可行性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "95618840260b3c36251383764d293ea4",
+    "title": "Are supervised and unsupervised learning still relevant today? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vo08wd/are_supervised_and_unsupervised_learning_still/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-14T07:14:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I'm trying to get a better sense of where classic ML fits in the current landscape, dominated by LLMs and deep learning. Are supervised and unsupervised learning still considered important skills/topics to learn in 2026, or have they become mostly a &quot;foundations&quot; step before moving to more advanced techniques?</p> <p>Also, if you have any book recommendations for Python that cover these topics well, I'd really appreciate it. </p> <",
+    "title_zh": "监督学习和无监督学习在当今还重要吗？",
+    "summary_zh": "一篇讨论帖，询问在大型语言模型和深度学习主导的2026年，经典的监督学习与无监督学习是否仍值得学习和掌握，以及它们在当前AI领域的定位。",
+    "key_points": [
+      "探讨经典机器学习在当前LLM时代的地位",
+      "询问监督/无监督学习在2026年是否仍属必备技能",
+      "反思深度学习主导下传统ML方法的实用性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
