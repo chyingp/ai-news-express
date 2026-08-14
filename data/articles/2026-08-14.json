@@ -663,5 +663,149 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6c0f0ce0fb3b2f953a6a75c30c551ac9",
+    "title": "New to AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1vo2xy9/new_to_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-14T09:55:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi!</p> <p>I recently graduated high school and will be starting university this upcoming fall as an engineering major. Although I have used AI tools like Claude, ChatGPT etc but I lack experience (or any kind of knowledge) about how to make my own AI models and AI ethics. I just wanted to ask for some guidance from people who are already experienced in this field if there are classes/courses they recommend I take. I have some free time before university starts ",
+    "title_zh": "AI 新手求助",
+    "summary_zh": "一位即将进入大学工程专业的学生在 Reddit 发帖，表示自己使用过 ChatGPT 等 AI 工具，但缺乏制作 AI 模型的知识，寻求入门建议。",
+    "key_points": [
+      "工程系新生寻求 AI 模型开发入门指导",
+      "有使用 AI 工具经验但缺乏底层开发知识"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6d17fc55b6ccb43eaad1b35862c87e5f",
+    "title": "Meet Ember, my custom ChatGPT Pet Dragon",
+    "url": "https://www.reddit.com/r/artificial/comments/1vo2pdn/meet_ember_my_custom_chatgpt_pet_dragon/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-14T09:41:35+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vo2pdn/meet_ember_my_custom_chatgpt_pet_dragon/\"> <img alt=\"Meet Ember, my custom ChatGPT Pet Dragon\" src=\"https://preview.redd.it/ls3qv7es9bjh1.gif?width=640&amp;crop=smart&amp;s=e055e7a0a881d5ca80c590749f118c1282afbd22\" title=\"Meet Ember, my custom ChatGPT Pet Dragon\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>So I was poking around with ChatGPT settings, while waiting for a task to finish, and noticed that I can ",
+    "title_zh": "认识 Ember：我的定制 ChatGPT 宠物龙",
+    "summary_zh": "Reddit 用户展示了自己利用 ChatGPT 定制功能创建的一个名为 Ember 的虚拟宠物龙，并分享了其动态图像。",
+    "key_points": [
+      "用户利用 ChatGPT 定制功能创建虚拟宠物龙",
+      "展示了 AI 在个性化娱乐和陪伴方面的应用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ea00a3de11d9c21b6036da6c75664d69",
+    "title": "A collision-entropy floor for watermark/retrieval AI-text detection. Looking for a sanity check before I take this further [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vo2nfc/a_collisionentropy_floor_for_watermarkretrieval/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-14T09:38:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone!</p> <p>I've been working through a formalization of why similarity-based AI-text detectors (watermarking, retrieval-based matching) hit a hard floor on false-positive rate, and I'd like holes poked in it before I put more time in.</p> <p>Self-verified only so far, no external review. Below you can find the core argument inline but if interested I can link the full PDF with proof.</p> <p><strong>SETUP</strong></p> <p>Fix a distribution P over poss",
+    "title_zh": "AI 文本检测的碰撞熵下限：寻求验证",
+    "summary_zh": "一位研究人员在 Reddit 发帖，针对基于相似度的 AI 文本检测器（如水印、检索匹配）的误报率硬下限问题，提出了一个碰撞熵的正式化论点，并寻求社区的反馈和批评。",
+    "key_points": [
+      "研究者提出 AI 文本检测器误报率存在基于碰撞熵的硬下限",
+      "涉及水印和检索匹配等 AI 文本检测技术",
+      "发帖目的在于寻求同行对其理论的审查和反馈"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5414aeb8c2344111d3cafb625b5ea55c",
+    "title": "I've built a fully autonomous meditation system for TouchDesigner",
+    "url": "https://www.reddit.com/r/artificial/comments/1vo2kku/ive_built_a_fully_autonomous_meditation_system/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-14T09:33:34+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vo2kku/ive_built_a_fully_autonomous_meditation_system/\"> <img alt=\"I've built a fully autonomous meditation system for TouchDesigner\" src=\"https://external-preview.redd.it/cTZqNGdsdGU4YmpoMZl5svpQrp8w19Wwvdz288hsc-eU3j5SoHIpZ85jdfl9.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c2baf4fd24e4e56c539c0c159a54554854d2ed4\" title=\"I've built a fully autonomous meditation system for TouchDesigner\" /> </a> </td><td> <!-- SC_OFF ",
+    "title_zh": "为 TouchDesigner 构建全自动冥想系统",
+    "summary_zh": "一位开发者分享了自己为视觉编程软件 TouchDesigner 构建的一个全自动冥想系统，该系统可能融合了 AI 技术来生成冥想内容或视觉效果。",
+    "key_points": [
+      "开发者为 TouchDesigner 构建全自动冥想系统",
+      "项目融合 AI 技术，探索创意与冥想的结合"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "809a6ceeb0f2b71ba4a53de1782671e2",
+    "title": "This scientist is helping build a missing map of childhood",
+    "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-14T09:00:00+00:00",
+    "content_snippet": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the&#8230;",
+    "title_zh": "这位科学家正在帮助绘制缺失的童年图谱",
+    "summary_zh": "MIT Technology Review 报道了科学家 Deanne Taylor 参与人类细胞图谱项目，致力于绘制儿童基因表达图谱的工作，以填补当前研究中对儿童发育理解的空白。",
+    "key_points": [
+      "科学家 Deanne Taylor 参与人类细胞图谱项目",
+      "重点绘制儿童基因表达图谱，弥补研究空白",
+      "该研究有助于深入理解儿童生长发育过程"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4a72e91bba8ce8309e74ddccc5c5c3f6",
+    "title": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+    "url": "https://www.qbitai.com/2026/08/473144.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-14T08:36:00+00:00",
+    "content_snippet": "",
+    "title_zh": "百度文库网盘「库库AI」AI办公MAU超2500万，新推办公独立端",
+    "summary_zh": "百度旗下文库和网盘业务推出的 AI 办公助手「库库AI」月活跃用户突破 2500 万，并发布了独立的办公应用客户端，进一步整合 AI 能力。",
+    "key_points": [
+      "百度「库库AI」AI办公助手月活用户超 2500 万",
+      "发布独立办公客户端，强化 AI 生产力工具定位"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "baidu"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
