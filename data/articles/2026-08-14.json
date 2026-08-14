@@ -807,5 +807,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b0a40a53de622837815ba09c5ea48f79",
+    "title": "Building text to ASCII diffusion model , need advice and guidance [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vo3m71/building_text_to_ascii_diffusion_model_need/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-14T10:33:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>i wanna build a text diffusion model which interpret text and convert it into ascii images </p> <p>so like </p> <p>Text : build a cat </p> <p>Output : </p> <p>/\\\\\\_/\\\\</p> <p>( o.o )</p> <p>\\&gt; \\^ &lt;</p> <p>So , i have a decent background of ml algo ( completed cs229 , cs230 , Ml architecture and basic CNN and diffusion model )</p> <p>ik making a project like this is tricky and making diffusion model like that from scratch is hard but i wanna try it because ",
+    "title_zh": "构建文本到ASCII扩散模型，寻求建议与指导",
+    "summary_zh": "Reddit用户发帖寻求技术指导，计划构建一个文本到ASCII艺术的扩散模型，将文字描述转换为ASCII图像，并表示已具备一定的机器学习算法基础。",
+    "key_points": [
+      "用户计划开发文本转ASCII图像的扩散模型",
+      "发帖目的是寻求技术建议和指导",
+      "用户自称已具备相当的机器学习算法背景"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
