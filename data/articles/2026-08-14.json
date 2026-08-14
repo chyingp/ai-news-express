@@ -948,5 +948,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e585122ef19eb94c1b6a5ada6803e1c3",
+    "title": "The most useful AI skill in 2026 isn't prompting or agents. It's knowing when NOT to use AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1vo6h13/the_most_useful_ai_skill_in_2026_isnt_prompting/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-14T12:53:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Every day I see someone bolt an LLM onto something a shell script did better. The best AI practitioners I know are the ones who draw the line early: - Deterministic task, fixed rules? Script it.<br /> - One-off analysis with judgment? Ask a human or a cheap model.<br /> - Open-ended, branching, context-heavy? Now AI earns its keep. The $0 automation stack I run uses AI for exactly one step (summarizing news) and plain code for everything else. That's the whole s",
+    "title_zh": "2026 年最有用的 AI 技能不是提示词或智能体，而是知道何时不该用 AI",
+    "summary_zh": "文章指出，2026 年最关键的 AI 技能并非复杂的提示工程或构建智能体，而是懂得在 AI 并非最优解时果断放弃使用。作者强调，面对确定性任务应使用脚本，一次性分析可求助人工，滥用大模型往往不如简单工具高效。",
+    "key_points": [
+      "顶级 AI 从业者的核心能力是识别并避免在不必要场景中滥用大模型",
+      "确定性、规则固定的任务使用脚本比使用大语言模型更高效可靠",
+      "提倡在一次性分析中优先考虑人工判断或廉价模型，而非盲目套用 AI"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
