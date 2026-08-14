@@ -1,0 +1,75 @@
+[
+  {
+    "id": "b8d906c341782b43a44ddfdf2b941564",
+    "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+    "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-14T16:39:32+00:00",
+    "content_snippet": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of [&#8230;]",
+    "title_zh": "用户现可关闭谷歌 Gemini 的可见水印",
+    "summary_zh": "谷歌允许用户移除其 AI 工具生成的图片、视频和音乐中的可见水印，用户可在 Gemini 和 Flow 中关闭“媒体水印”设置。",
+    "key_points": [
+      "谷歌让用户可关闭 Gemini 及 Flow 的可见水印",
+      "关闭水印设置不影响隐形数字标识符"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b5639ae98b75c1263adb5e6fa7a3173d",
+    "title": "New: A map of the most important skills in AI Engineering.",
+    "url": "https://nitter.net/AndrewYNg/status/2088302050706686198#m",
+    "source": "Andrew Ng (X)",
+    "source_zh": "吴恩达 Andrew Ng",
+    "source_type": "nitter",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-14T16:29:42+00:00",
+    "content_snippet": "<p>New: A map of the most important skills in AI Engineering.</p>\n<hr />\n<b>Article</b><br />\n<a href=\"https://nitter.net/i/article/2088302050706686198\">\n<img src=\"https://nitter.net/pic/media%2FHPsiabfXoAEz0wO.jpg\" />\n<br />\n<b>The AI Engineering Skills Map</b>\n</a>\n<p>I am delighted to present The AI Engineering Skills Map. AI allows us to build software very differently today than in 2022, and everyone with the skills to take advantage of this shift has numerous</p>",
+    "title_zh": "AI 工程领域最重要技能图谱发布",
+    "summary_zh": "吴恩达发布 AI 工程技能图谱，梳理了 AI 工程领域最重要的核心技能，为从业者提供学习和发展方向的参考。",
+    "key_points": [
+      "吴恩达发布 AI 工程技能图谱",
+      "图谱梳理了 AI 工程领域的关键技能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0e0aa648101264aa2f9a823cf309735c",
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-14T16:13:40+00:00",
+    "content_snippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file",
+    "title_zh": "谷歌将允许用户移除其 AI 生成内容的可见水印",
+    "summary_zh": "谷歌宣布用户可移除其 AI 生成内容中的可见水印，但关闭此设置不会影响用于识别 AI 生成文件的隐形标识。",
+    "key_points": [
+      "用户可自主移除谷歌 AI 生成内容的可见水印",
+      "隐形水印等数字标识符不受影响，仍用于溯源"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
