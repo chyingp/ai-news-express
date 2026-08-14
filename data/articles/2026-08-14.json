@@ -972,5 +972,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0fccedf8ea195bfb949e8a73d9fa413e",
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-14T14:05:00+00:00",
+    "content_snippet": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+    "title_zh": "超大规模云商押注天然气发电，或因价格飙升而后悔",
+    "summary_zh": "最新预测显示美国部分地区天然气价格可能翻三倍，这将使依赖天然气为AI数据中心供电的超大规模云商面临巨额电费账单，其能源战略的风险日益凸显。",
+    "key_points": [
+      "美国部分区域天然气价格或暴涨三倍，推高AI数据中心运营成本",
+      "超大规模云商当前依赖天然气发电的战略面临巨大财务风险",
+      "数据中心的巨额电力需求与波动的天然气价格形成矛盾"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "36d1d0556e35303412a909347f551030",
+    "title": "Regular reminder -- the set of public ARC 3 games is called \"demonstration set\", not \"eval set\" nor \"training set\". It is not meant to be used as training data, and it is not meant to be used as an eval. Scores on the public demonstration set are not indicative of scores on the actual benchmark. The demonstration set is intended to demonstrate the format and drive human engagement. The private eval set is substantially more difficult and more novel. The top score on the Kaggle leaderboard today is 2.70% (that's the semi-private set -- at the end of the competition, the submissions are scored on the fully private set).",
+    "url": "https://nitter.net/fchollet/status/2088254592182305165#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-14T13:21:07+00:00",
+    "content_snippet": "<p>Regular reminder -- the set of public ARC 3 games is called \"demonstration set\", not \"eval set\" nor \"training set\". It is not meant to be used as training data, and it is not meant to be used as an eval. Scores on the public demonstration set are not indicative of scores on the actual benchmark.<br />\n<br />\nThe demonstration set is intended to demonstrate the format and drive human engagement.<br />\n<br />\nThe private eval set is substantially more difficult and more novel.<br />\n<br />\nThe ",
+    "title_zh": "ARC 3 基准测试提醒：公开演示集不能用于训练或评估",
+    "summary_zh": "François Chollet 重申，ARC 3 的公开数据集仅为演示集，旨在展示格式和促进人类参与，不能作为训练数据或正式评估依据。真正私有的评估集难度更高，目前 Kaggle 半公开集最高分仅为 2.70%。",
+    "key_points": [
+      "ARC 3 公开数据集仅用于演示格式，非训练或评估集",
+      "私有评估集难度远高于公开演示集，现有最高分仅 2.70%",
+      "提醒研究者避免误用公开数据导致基准测试结果失真"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
