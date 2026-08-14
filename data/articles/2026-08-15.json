@@ -240,5 +240,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "310e0d8603feea1a8e34ba1df367b3b7",
+    "title": "Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland",
+    "url": "https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-14T23:11:46+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vomk6v/chinese_ai_startup_modelbest_kicks_off_preipo/\"> <img alt=\"Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland\" src=\"https://external-preview.redd.it/qpHIng5CiADlYPvB5s5C7-7ZH1L6108GnTJ9c3IAFRk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=de74b7beaae735c62365ff79b7e200fde9f2923f\" title=\"Chinese AI start-up ModelBest kicks off pre-IPO tutoring process on mainland\" /> </a> </td><td> &#32; s",
+    "title_zh": "中国AI初创公司面壁智能启动上市辅导",
+    "summary_zh": "中国人工智能初创公司面壁智能（ModelBest）已在中国大陆启动首次公开募股（IPO）前的辅导流程，迈出上市关键一步。",
+    "key_points": [
+      "面壁智能正式启动A股IPO前辅导流程",
+      "此举标志着公司开始筹备上市工作"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "79ddf1b702dc984876c768fd78f0c40a",
+    "title": "OpenAI Reports Goldman Sachs Analyst to FBI for Horrifying ChatGPT Conversations",
+    "url": "https://www.reddit.com/r/artificial/comments/1volf3k/openai_reports_goldman_sachs_analyst_to_fbi_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-14T22:22:14+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1volf3k/openai_reports_goldman_sachs_analyst_to_fbi_for/\"> <img alt=\"OpenAI Reports Goldman Sachs Analyst to FBI for Horrifying ChatGPT Conversations\" src=\"https://external-preview.redd.it/Mm-nhYTumWIP8f8gjOviTJkoyHTFqWYOg3wlYner5c4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6245f8baf6f892178a7c647e6db8ad8ef4e18dd3\" title=\"OpenAI Reports Goldman Sachs Analyst to FBI for Horrifying ChatGPT Conversations\" /> </a> </td><t",
+    "title_zh": "OpenAI因令人不安的对话向FBI举报高盛分析师",
+    "summary_zh": "OpenAI因其ChatGPT平台上出现的高盛分析师的骇人对话内容，已向美国联邦调查局（FBI）提交报告，事件引发对AI平台安全与监控的关注。",
+    "key_points": [
+      "OpenAI向FBI举报高盛分析师的异常对话",
+      "事件凸显AI对话安全与内容监控的挑战"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
