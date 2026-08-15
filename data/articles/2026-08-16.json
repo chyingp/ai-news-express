@@ -268,5 +268,31 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a17d0cbb65ba7f318d2a56ec10b44891",
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-15T21:29:19+00:00",
+    "content_snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "title_zh": "女子指控继父用Grok将童年照生成露骨图像",
+    "summary_zh": "一名女子声称其继父利用xAI的Grok模型，将她的一张童年照片转化为露骨图像，并指责AI工具正在将日常生活变成儿童性虐待材料。",
+    "key_points": [
+      "女子指控继父使用Grok将童年照片生成露骨图像",
+      "AI工具被滥用于制造儿童性虐待材料的风险引发关注",
+      "事件涉及xAI公司的Grok模型"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
