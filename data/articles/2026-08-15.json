@@ -312,5 +312,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f52fbef1641f8fe721f9a73a531f2c5c",
+    "title": "try reservation search in chatgpt!",
+    "url": "https://nitter.net/gdb/status/2088489438297133066#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-15T04:54:19+00:00",
+    "content_snippet": "<p>try reservation search in chatgpt!</p>\n<hr />\n<blockquote>\n<b>Adam Fry (@adamhfry)</b>\n<p>\n<p>This week's ChatGPT feature drop - Aug 14:<br />\n<br />\n1/ Quizzes - \"Quiz me on [topic]\" will now automatically generate quizzes right in Chat. Learn any topic!<br />\n<br />\n2/ Reservation search - \"I'm looking for a reservation for two next Saturday for a place with a great outdoor patio\". Nice thing is you can just describe what you want.<br />\n<br />\n3/ Google Drive for Paid Users - You can now a",
+    "title_zh": "ChatGPT 新增预约搜索和测验功能",
+    "summary_zh": "OpenAI 联合创始人 Greg Brockman 在 X 平台分享 ChatGPT 最新功能更新，包括自动生成测验和预约搜索功能，用户可更便捷地学习和获取信息。",
+    "key_points": [
+      "ChatGPT 新增自动生成测验功能，支持指令'Quiz me on [topic]'",
+      "新功能 Reservation Search 允许用户预约搜索任务",
+      "功能更新于 8 月 14 日发布，由 Greg Brockman 转发推广"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
