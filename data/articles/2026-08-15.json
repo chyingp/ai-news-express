@@ -431,5 +431,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "318502058b28f2f54252e224153a24f0",
+    "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+    "url": "https://www.reddit.com/r/artificial/comments/1voy5dh/openai_talent_exodus_raises_huge_red_flag_ahead/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-15T09:15:32+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1voy5dh/openai_talent_exodus_raises_huge_red_flag_ahead/\"> <img alt=\"OpenAI talent exodus raises 'huge red flag' ahead of IPO\" src=\"https://external-preview.redd.it/mcn-UV8mTnMzpeldbSWBfHnve0jlmgo6wxGA5WdWKrk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=66d78eae3eeb26f695ded56460ef559acbd0f47d\" title=\"OpenAI talent exodus raises 'huge red flag' ahead of IPO\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www",
+    "title_zh": "OpenAI 人才流失为 IPO 前敲响'巨大警钟'",
+    "summary_zh": "OpenAI 正面临严重的人才流失，多位高管和研究骨干相继离职，这为其计划中的首次公开募股（IPO）前景蒙上阴影，引发市场对其内部稳定性和未来发展的担忧。",
+    "key_points": [
+      "OpenAI 多位核心高管与研究人才近期接连离职",
+      "人才流失发生在公司筹备 IPO 的关键阶段，构成重大风险",
+      "此现象引发外界对其内部管理和未来竞争力的质疑"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "70e39b7f952f57fb0f40064834a3d434",
+    "title": "Do those who aspire to \"natural language programming\" with AI consider that debugging will involve couples therapy? 🤣",
+    "url": "https://www.reddit.com/r/artificial/comments/1voy2os/do_those_who_aspire_to_natural_language/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-15T09:10:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Of course this is amusing.</p> <p>It's also intended in Ig Nobel spirit.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lbt_mer\"> /u/lbt_mer </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1voy2os/do_those_who_aspire_to_natural_language/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comment",
+    "title_zh": "调侃：用 AI 实现'自然语言编程'，调试时是否需要夫妻治疗？",
+    "summary_zh": "一则幽默帖，调侃用 AI 进行自然语言编程时，如果 AI 误解了模糊的指令，调试过程可能像夫妻沟通一样充满误解和争吵，需要情感治疗。",
+    "key_points": [
+      "以幽默方式调侃 AI 自然语言编程的模糊性问题",
+      "探讨 AI 误解指令可能导致非传统的调试挑战"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ecea0a8dd445f7d0f4cfad497a772cd0",
+    "title": "Foto in costume o slip sexy",
+    "url": "https://www.reddit.com/r/artificial/comments/1voxuzy/foto_in_costume_o_slip_sexy/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-15T08:58:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Ho provato a chiedere all’intelligenza artificiale di ChatGPT di mettere la mia persona in un PRATO, ma mi dice che non è possibile perché sono nudo in realtà sono in tanga come posso fare?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/23cleverfox23\"> /u/23cleverfox23 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vo",
+    "title_zh": "性感泳装或内衣照片",
+    "summary_zh": "一位用户发帖询问，如何能让 ChatGPT 将自己穿着丁字裤的身体放入草地背景中，因为 AI 以裸体为由拒绝了请求，实际用户穿着丁字裤。",
+    "key_points": [
+      "用户试图绕过 AI 内容安全策略生成特定图像",
+      "帖子反映了用户与 AI 图像生成规则之间的常见冲突"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
