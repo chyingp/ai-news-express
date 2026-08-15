@@ -294,5 +294,76 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bee484de71cb7f7cad11cf47d8a0544d",
+    "title": "How do you prompt for better environmental cohesion in multi-character AI images?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vph1zo/how_do_you_prompt_for_better_environmental/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-15T23:15:40+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vph1zo/how_do_you_prompt_for_better_environmental/\"> <img alt=\"How do you prompt for better environmental cohesion in multi-character AI images?\" src=\"https://preview.redd.it/rtqfrmqfemjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dcaa4e7354d0bf05c6136a09b34a753995433f0a\" title=\"How do you prompt for better environmental cohesion in multi-character AI images?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Not su",
+    "title_zh": "如何通过提示词提升多角色AI图像的环境协调性？",
+    "summary_zh": "Reddit用户讨论在多角色AI图像生成中，如何通过提示词技巧使角色与环境、光照及风格更协调统一，避免出现违和感。",
+    "key_points": [
+      "探讨多角色AI图像中环境与角色风格统一的提示词方法",
+      "用户分享避免光照、阴影不一致的生成技巧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "098bf4383bcb0a8c4fa3c2348a88aff1",
+    "title": "sounds accurate",
+    "url": "https://nitter.net/gdb/status/2088755962131747085#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-15T22:33:23+00:00",
+    "content_snippet": "<p>sounds accurate</p>\n<hr />\n<blockquote>\n<b>a16z (@a16z)</b>\n<p>\n<p>Wild adoption gap: the top 1% of AI spenders are spending more than 600x as much as the median company<br />\n<br />\nCharts of the Week: <a href=\"https://www.a16z.news/p/charts-of-the-week-head-in-the-neoclouds\">a16z.news/p/charts-of-the-we…</a></p>\n<img src=\"https://nitter.net/pic/media%2FHPxnlyKbUAAz6UR.jpg\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/a16z/status/2088658228959953052#m\">https://nitter.net/a16z/statu",
+    "title_zh": "OpenAI总裁Greg Brockman回应AI支出差距：头部企业支出是普通公司的600倍",
+    "summary_zh": "Greg Brockman转发a16z数据图表，认同AI支出存在巨大差距，前1%的公司支出是普通公司的600倍以上，引发行业关注。",
+    "key_points": [
+      "a16z数据显示AI支出头部集中效应显著，差距达600倍",
+      "OpenAI总裁Greg Brockman对此表示认同"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9917a6afb4cd36f3d7ec87fbe8d12e14",
+    "title": "Training and unlimited API inference for Small Language Models",
+    "url": "https://www.reddit.com/r/artificial/comments/1vpfvgy/training_and_unlimited_api_inference_for_small/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-15T22:21:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For a long time, I’ve had the feeling that generative AI models, for most of the tasks they’re used for, don’t actually need the oversized capabilities offered by frontier models. On top of that, they’re often prohibitively expensive when accessed via API.</p> <p>An open-source model with 4–14 billion parameters, multimodal capabilities, and the right harness of tools, data, and knowledge is more than enough for most use cases.</p> <p>With this idea in mind, I d",
+    "title_zh": "小型语言模型训练与无限API推理服务发布",
+    "summary_zh": "Reddit用户分享针对小型语言模型的训练工具和无限API推理方案，认为多数任务无需超大模型，且现有API成本过高，旨在提供更经济的选择。",
+    "key_points": [
+      "推出小型语言模型训练与无限API推理服务",
+      "旨在降低生成式AI成本，认为多数任务无需大模型"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
