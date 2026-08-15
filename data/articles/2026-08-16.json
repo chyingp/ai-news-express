@@ -1,0 +1,76 @@
+[
+  {
+    "id": "ddcc3220a448d2e6dd6bf1f227625ca9",
+    "title": "Who is responsible when an AI agent makes a bad decision?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vp6y2l/who_is_responsible_when_an_ai_agent_makes_a_bad/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-15T16:17:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI agents are getting better at making decisions and taking actions on their own.</p> <p>But when an agent sends the wrong email, changes the wrong data, or triggers something it shouldn't, who's responsible?</p> <p>The developer? The company? Or the person supervising it?</p> <p>The more autonomy we give them, the more important accountability becomes.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/KKevinjad\"> /u/KKevinja",
+    "title_zh": "AI代理做出错误决策时，谁该负责？",
+    "summary_zh": "Reddit上的一场讨论探讨了AI代理自主决策出错时的责任归属问题。随着AI代理能力增强，错误发送邮件、更改数据等风险上升，责任应归于开发者、部署公司还是监督者尚无定论。",
+    "key_points": [
+      "AI代理自主决策出错的责任归属存在争议",
+      "讨论涉及开发者、公司或监督者等多方责任",
+      "问题源于AI代理日益增强的自主行动能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1b7cf5db5d825ff13914e1de8a3c3453",
+    "title": "towards never having to manually select a model again",
+    "url": "https://nitter.net/gdb/status/2088658133971509640#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-15T16:04:39+00:00",
+    "content_snippet": "<p>towards never having to manually select a model again</p>\n<hr />\n<blockquote>\n<b>eric provencher (@pvncher)</b>\n<p>\n<p>This went under the radar this week, but we just shipped the ability for models with multi agents v2 to delegate to any supported model, including Luna!<br />\n<br />\nTook a bit of time to make sure this worked reliably</p>\n<img src=\"https://nitter.net/pic/media%2FHPxX-NGWQAAdAs6.jpg\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/pvncher/status/2088641056237580632#m\">",
+    "title_zh": "迈向无需手动选择模型的时代",
+    "summary_zh": "OpenAI联合创始人Greg Brockman转发消息，称其多智能体系统已能自动将任务委托给最合适的模型，包括Luna，旨在实现零手动选择模型。",
+    "key_points": [
+      "OpenAI多智能体系统可自动委托任务给最佳模型",
+      "该系统已支持委托给任何模型，包括Luna",
+      "目标是实现完全无需手动选择模型的未来"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "031bef8b9f41de6530b9510aa8bb28a0",
+    "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+    "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-15T15:46:05+00:00",
+    "content_snippet": "\"Flamingo missiles were used. A good achievement.\"",
+    "title_zh": "乌克兰用巡航导弹袭击俄罗斯重要火箭工厂",
+    "summary_zh": "乌克兰使用巡航导弹成功打击了俄罗斯一座主要的火箭制造工厂，报道称袭击中使用了'火烈鸟'导弹，并取得良好战果。",
+    "key_points": [
+      "乌克兰使用巡航导弹袭击俄罗斯火箭工厂",
+      "袭击中使用了'火烈鸟'导弹并取得成功",
+      "这是俄乌冲突中针对俄航天工业的一次打击"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
