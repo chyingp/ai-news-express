@@ -142,5 +142,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "73cbb223a27a0a6dd5fe734f2eb53d41",
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-15T18:58:39+00:00",
+    "content_snippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+    "title_zh": "Anthropic 披露 Claude 新型水印技术更多细节",
+    "summary_zh": "Anthropic 公布了其AI模型Claude即将采用的水印技术的更多工作细节，探讨了水印的实际运作方式、能否通过编辑隐藏以及对代码生成的影响等问题。",
+    "key_points": [
+      "Anthropic 详细解释了 Claude 水印技术的实现机制",
+      "回应了水印可否被编辑隐藏及对代码输出影响的疑问",
+      "旨在提升 AI 生成内容透明度和可追溯性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
