@@ -362,5 +362,74 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "de8acc61b5611c45648970e1c935cb88",
+    "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-15T07:26:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Be honest if someone dropped a stack of high-end GPUs on your desk tomorrow, what would you actually <em>do</em> with them?</p> <p>And before the usual answers roll in: running local LLMs is banned for this thread. It’s been done to death and feels pretty pointless at this point.</p> <p>So… what else?</p> <ul> <li>Some niche scientific/simulation workload?</li> <li>Weird generative stuff that isn’t text?</li> <li>Distributed something-or-other?</li> <li>Renderin",
+    "title_zh": "如果你有一堆GPU闲置，你会实际用来构建什么？（禁止运行大语言模型）",
+    "summary_zh": "Reddit上发起的一个讨论帖，假设拥有大量高端GPU但不能运行大语言模型，探讨其实际应用场景。",
+    "key_points": [
+      "探讨高端GPU除运行大语言模型外的实际应用方向",
+      "社区讨论聚焦于机器学习、图形渲染等高性能计算任务"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6d09f32a606ccd0e4f088bddcf731abe",
+    "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+    "url": "https://www.qbitai.com/2026/08/473876.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-08-15T06:42:23+00:00",
+    "content_snippet": "理解大模型，无需再训练一个替代网络",
+    "title_zh": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
+    "summary_zh": "至知研究院发布了一种新的大模型可解释性方法，通过直接分解模型权重来理解模型行为，无需训练替代网络，且所需数据成本极低。",
+    "key_points": [
+      "提出通过分解权重实现大模型可解释性的新方法",
+      "无需训练替代网络，极大降低数据成本至1%以下"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "82a3651dbe60868c78cf286d23e56c4e",
+    "title": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+    "url": "https://www.qbitai.com/2026/08/473866.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-15T06:36:05+00:00",
+    "content_snippet": "音潮API限时免费开放",
+    "title_zh": "根治AI音乐通病！这家国产音乐模型正面挑战SUNO",
+    "summary_zh": "一家国产AI音乐模型声称解决了AI生成音乐的常见问题，并正式向行业领先者Suno发起挑战，同时宣布其API限时免费开放。",
+    "key_points": [
+      "国产音乐模型声称解决AI音乐生成通病，挑战Suno",
+      "通过免费开放API吸引开发者，加速市场应用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
