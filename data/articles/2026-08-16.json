@@ -168,5 +168,105 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "68aa70934e0a0361ef31aa34b8c9ed6f",
+    "title": "Zuckerberg is betting Meta's whole ad business on AI and his own ai ugc tools are turning dresses into pants",
+    "url": "https://www.reddit.com/r/artificial/comments/1vpcxj4/zuckerberg_is_betting_metas_whole_ad_business_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-15T20:15:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Zuckerberg's out here telling everyone ai is the future of meta's ad revenue, reuters covered his latest ai pitch and called it more ad than substance. Fine tho, he is the ceo thats his job.</p> <p>Altho his own ai ad tools are currently generating gibberish copy and mangled products and business insider found one advertiser's dress ad came out as a shirt and trousers. Emarketer and mediapost both confirmed it and also some of these features are turning themselv",
+    "title_zh": "扎克伯格将Meta全部广告业务押注人工智能，自家AI工具却把连衣裙生成裤子",
+    "summary_zh": "扎克伯格宣称AI是Meta广告收入的未来，但其AI广告工具目前生成的内容质量堪忧，广告文案混乱，图片生成出错，被媒体评价为'广告多于实质'。",
+    "key_points": [
+      "扎克伯格押注AI驱动Meta广告业务增长",
+      "Meta自家AI广告工具生成内容质量低下",
+      "路透社批评其AI宣传'广告多于实质'"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5c50ef816721c54269eaf49c90a230a0",
+    "title": "This text was all written by AI. Can you prove it?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vpcqw3/this_text_was_all_written_by_ai_can_you_prove_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-15T20:08:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><h1>Before you answer, what does all written by AI even mean?</h1> <p>Did I give Claude a six-word prompt and paste the result? Did I spend an hour arguing the point and ask it to tidy the punctuation? Did it rewrite one awkward sentence? Maybe it changed one comma. How much AI is enough before the whole thing becomes AI slop?</p> <p>And who decides the value by counting words?</p> <p>I could supply one insight and let a model turn it into 2,000 words. That single ",
+    "title_zh": "这篇文字完全由AI撰写，你能证明吗？",
+    "summary_zh": "文章探讨了'完全由AI撰写'的模糊定义，从简单提示生成到多次修改都属于AI辅助写作，引发对AI内容检测和原创性界定的思考。",
+    "key_points": [
+      "探讨'完全由AI撰写'的多种定义和边界",
+      "AI辅助写作程度差异巨大，难以简单界定",
+      "对AI内容检测和原创性提出挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "af080ad44e178550120f723418179674",
+    "title": "I built a small game discovery toy, not a chatbot wrapper",
+    "url": "https://www.reddit.com/r/artificial/comments/1vpccuk/i_built_a_small_game_discovery_toy_not_a_chatbot/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-15T19:52:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm Eli. GameCombiner embeds 146,288 games as 1024-dimensional vectors built from their genres, user tags and store descriptions, not their titles, and lets you combine two games by taking the mathematical midpoint of their vectors and returning the closest real game to that point.</p> <p>No LLM is choosing the answer, and nothing is generated. The output is always a real catalog entry, and the same pair always returns the same result.</p> <p>Combining is free. ",
+    "title_zh": "我构建了一个游戏发现小工具，不是聊天机器人套壳",
+    "summary_zh": "开发者Eli分享了他构建的游戏发现工具GameCombiner，通过向量嵌入技术将14.6万款游戏的特征数学化，用户可组合两款游戏来发现相似的新游戏。",
+    "key_points": [
+      "游戏发现工具嵌入14.6万款游戏的特征向量",
+      "通过计算游戏向量的数学中点来发现新游戏",
+      "强调非聊天机器人套壳，具有技术原创性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b3220430e849bb0d27c952e0e378f8a0",
+    "title": "The Trump administration is pressuring Apple not to buy Chinese memory chips as AI data centers drain global supply.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vpbtqz/the_trump_administration_is_pressuring_apple_not/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-15T19:30:54+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vpbtqz/the_trump_administration_is_pressuring_apple_not/\"> <img alt=\"The Trump administration is pressuring Apple not to buy Chinese memory chips as AI data centers drain global supply.\" src=\"https://preview.redd.it/ajjghwbvbljh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=63b6457520b6b0b11cfe73ae717629b5e4fb91d2\" title=\"The Trump administration is pressuring Apple not to buy Chinese memory chips as AI data centers drai",
+    "title_zh": "特朗普政府施压苹果，阻止其购买中国存储芯片以应对AI数据中心需求",
+    "summary_zh": "因AI数据中心导致全球存储芯片供应紧张，特朗普政府正在向苹果施压，要求其不要采购中国制造的存储芯片，涉及地缘政治和供应链安全。",
+    "key_points": [
+      "AI数据中心消耗全球存储芯片供应",
+      "美国政府施压苹果限制采购中国存储芯片",
+      "涉及技术供应链地缘政治博弈"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
