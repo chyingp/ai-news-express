@@ -553,5 +553,74 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4541d136278c8b757fe8919ea72aa0b3",
+    "title": "The defense tech bottleneck isn't AI anymore — it's manufacturing",
+    "url": "https://www.reddit.com/r/artificial/comments/1vp4xrx/the_defense_tech_bottleneck_isnt_ai_anymore_its/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-15T14:56:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For the last three years, the defense tech story was: better sensors, better models, better decision-making software. Anduril, Shield AI, Palantir — all riding the idea that AI-native companies could out-think legacy primes like Lockheed and Raytheon.</p> <p>Funding backs this up — defense tech startups raised close to $50B in 2025, nearly double the year before, and 2026 has already topped that full-year pace.</p> <p>But the constraint shifting into 2026 isn't ",
+    "title_zh": "国防科技的瓶颈不再是AI，而是制造",
+    "summary_zh": "文章指出，过去三年国防科技的重点是AI驱动的软件和决策系统，但真正的瓶颈已转向制造业。Anduril、Shield AI等AI原生公司挑战洛克希德·马丁等传统巨头，但规模化生产成为关键制约因素。",
+    "key_points": [
+      "国防科技瓶颈从AI软件转向物理制造能力",
+      "AI原生公司需克服规模化生产挑战以对抗传统军工巨头"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4e68244914b51ee8e62207a25950aa7a",
+    "title": "The voluntary-to-mandatory pipeline for AI safety frameworks — with sources",
+    "url": "https://www.reddit.com/r/artificial/comments/1vp4vvl/the_voluntarytomandatory_pipeline_for_ai_safety/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-15T14:53:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There's a pattern happening right now that most people aren't tracking. Coalitions form to define &quot;AI safety.&quot; Voluntary frameworks get published. Companies join the coalition to signal responsibility. Enterprise procurement adopts the framework as a requirement. Then it becomes regulatory standard. Voluntary becomes mandatory, and the path from one to the other is documented.</p> <p>I started a site that tracks this in real time. It's not opinion. Eve",
+    "title_zh": "AI安全框架从自愿到强制的演进路径",
+    "summary_zh": "文章揭示了一个正在形成的模式：行业联盟定义AI安全标准，企业自愿采纳以彰显责任感，随后企业采购流程将其作为准入要求，最终演变为实际上的强制性监管框架。",
+    "key_points": [
+      "AI安全框架正从自愿承诺演变为事实上的强制性要求",
+      "企业采购流程成为推动AI安全标准落地的关键环节"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9a561365d4c46ea5574fa065489db237",
+    "title": "Emad Mostaque: the \"digital double\" mechanism nobody's retraining plan accounts for",
+    "url": "https://www.reddit.com/r/artificial/comments/1vp4uav/emad_mostaque_the_digital_double_mechanism/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-15T14:52:05+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vp4uav/emad_mostaque_the_digital_double_mechanism/\"> <img alt=\"Emad Mostaque: the &quot;digital double&quot; mechanism nobody's retraining plan accounts for\" src=\"https://preview.redd.it/lkn6gis5yjjh1.jpg?width=140&amp;height=56&amp;auto=webp&amp;s=105946a1d674fedef7e0ecdfd16350047c02408c\" title=\"Emad Mostaque: the &quot;digital double&quot; mechanism nobody's retraining plan accounts for\" /> </a> </td><td> <!-- SC_OFF --><d",
+    "title_zh": "Emad Mostaque：无人问津的“数字分身”机制将颠覆再培训计划",
+    "summary_zh": "Emad Mostaque提出“数字分身”机制的概念，指AI能够复制个人技能和知识，形成数字化的替代劳动力。这一机制可能对现有的劳动力再培训计划构成根本性挑战，因为岗位被取代的速度可能远超培训转型的速度。",
+    "key_points": [
+      "AI“数字分身”能复制个人技能，形成数字化劳动力替代",
+      "该机制可能使传统再培训计划失效，加速岗位被取代"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
