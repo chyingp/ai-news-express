@@ -288,5 +288,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "082e981c643e9d1b798ae607bd44f193",
+    "title": "Your thoughts on RNN's (RWKV approach) for language generation",
+    "url": "https://www.reddit.com/r/artificial/comments/1vonp6j/your_thoughts_on_rnns_rwkv_approach_for_language/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-15T00:02:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I recently was thinking about reducing the cost of LLMs, specially LLMs which are doing repetitive tasks (such as coding, which has a lot of repetition) and I was thinking of RNN's and had RWKV paper open. </p> <p>I'm not really good at math but as far as I could understand, they just added that QKV matrix system to a traditional RNN. Based on my personal tests, RWKV models are a little faster on both colab and gaming systems and even when quantized, faster on a",
+    "title_zh": "你如何看待 RNN（RWKV 方法）用于语言生成？",
+    "summary_zh": "Reddit 用户讨论使用 RNN（特别是 RWKV 架构）来降低大型语言模型成本，尤其是在编程等重复性任务中，并提及了 RWKV 相关论文。",
+    "key_points": [
+      "用户探讨 RWKV 等 RNN 架构降低 LLM 推理成本的可能性",
+      "讨论聚焦于编程等具有高度重复性模式的任务场景",
+      "帖子提及 RWKV 论文，但仅为个人思考与社区讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
