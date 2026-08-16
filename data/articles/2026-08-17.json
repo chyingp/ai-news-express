@@ -146,5 +146,57 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7430ad56634d75f96ac27c8711820bbd",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-16T20:57:04+00:00",
+    "content_snippet": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+    "title_zh": "Stripe 据报将以 70 亿美元以上收购 AI 网关初创公司 OpenRouter",
+    "summary_zh": "支付巨头 Stripe 被报道将以超过 70 亿美元的价格收购 AI 网关初创公司 OpenRouter，后者 CEO 曾将其比作“AI 领域的 Stripe”。",
+    "key_points": [
+      "Stripe 拟以超 70 亿美元收购 AI 网关公司 OpenRouter",
+      "OpenRouter 定位为 AI 模型调用的统一网关",
+      "收购将强化 Stripe 在 AI 基础设施领域的布局"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "30514dd888ea36f4401edc9b92ac9eb4",
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-16T20:32:01+00:00",
+    "content_snippet": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+    "title_zh": "为何人们不买账马克·扎克伯格的 AI 未来愿景",
+    "summary_zh": "TechCrunch 的 Equity 播客节目讨论了为何扎克伯格关于 AI 未来的宏大愿景未能获得市场或公众的普遍认可。",
+    "key_points": [
+      "探讨扎克伯格 AI 愿景未获广泛认可的原因",
+      "Meta 在 AI 领域的巨额投入与回报引发质疑",
+      "市场对 Meta 的 AI 商业化路径持观望态度"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
