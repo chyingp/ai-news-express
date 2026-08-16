@@ -97,5 +97,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "12300a949d727710c67a07c9b68ab7a7",
+    "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vq3p9w/career_advice_finalyear_in_physical_ai_robotics/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-16T17:53:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I am heading into my final year of my BTech at a tier 1 college in India and just wrapped up a Physical AI internship at a MNC, working heavily with NVIDIA Isaac Sim and OpenFOAM. </p> <p>My background is fully focused on robotics and autonomy. My tech stack includes:</p> <ol> <li>Simulation &amp; Middleware: Isaac Sim, Gazebo, ROS / ROS 2, PX4 Autopilot.<br /></li> <li>Perception &amp; Control: VIO, SLAM (RTAB-Map), Nav2, depth perception, a",
+    "title_zh": "[职业建议] 物理AI/机器人技术应届生市场与全球招聘情况如何？",
+    "summary_zh": "一名印度顶尖高校的应届生分享了其在跨国公司从事物理AI（使用NVIDIA Isaac Sim与OpenFOAM）的实习经历，并就机器人及自主系统领域的全球就业市场与招聘需求寻求建议。",
+    "key_points": [
+      "应届生询问物理AI与机器人领域的全球就业市场现状",
+      "分享在跨国公司使用NVIDIA Isaac Sim和OpenFOAM的实习背景",
+      "帖子为红迪社区讨论，非正式行业报告或新闻"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
