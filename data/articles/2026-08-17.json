@@ -25,5 +25,77 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0397d6546371e87dc735238e5fb21069",
+    "title": "1.7B model leading strict-7 formal reasoning above Qwen3-8B and Gemma-4-26B - specialists eating generalist territory?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vq2io1/17b_model_leading_strict7_formal_reasoning_above/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-16T17:08:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most of the reasoning gains coming out of the big labs are still tied to scale. More params, more compute, better reasoning. That's been the play for a while.</p> <p>Ran into TwIL-LM2 which flips the script for narrow tasks. PEFT LoRA adapter on SmolLM2-1.7B, specialized purely for formal logic translation. On strict-7 scoring (no partial credit, exact-format required) it hits 0.2386 - ahead of Qwen3-8B at 0.2093 and Gemma-4-26B at 0.2050. On the loose-match six",
+    "title_zh": "1.7B模型在严格形式推理上超越Qwen3-8B和Gemma-4-26B——专家模型正在蚕食通用模型领地？",
+    "summary_zh": "一个基于SmolLM2-1.7B的PEFT LoRA适配器TwIL-LM2，在特定狭义推理任务上超越了参数量大得多的通用模型Qwen3-8B和Gemma-4-26B，引发对小模型通过专业化超越大模型的讨论。",
+    "key_points": [
+      "1.7B参数模型在严格形式推理任务上击败了8B和26B通用模型",
+      "该模型采用PEFT LoRA适配器基于SmolLM2-1.7B进行专业化训练",
+      "这引发了关于专家模型在特定领域能否替代通用模型的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9eeacf6b78b6dd6218f6848794b849e1",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-16T16:53:51+00:00",
+    "content_snippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "title_zh": "Anthropic CEO称AI抵制浪潮‘本质上是一场信任危机’",
+    "summary_zh": "Anthropic首席执行官Dario Amodei反驳了外界对其过度悲观描绘AI的批评，认为当前公众对AI的抵制根源在于信任缺失，而非技术本身的问题。",
+    "key_points": [
+      "Dario Amodei认为AI公众抵制是信任危机而非技术问题",
+      "他反驳了外界对其AI前景描述过于悲观的批评"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "28e5558583ae498d7af7a02a05c90235",
+    "title": "A split from neuroscience (cortex vs hippocampus) is the best explanation I've found for why AI agents fail on real company work",
+    "url": "https://www.reddit.com/r/artificial/comments/1vq21ve/a_split_from_neuroscience_cortex_vs_hippocampus/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-16T16:50:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There's a split from neuroscience I can't stop thinking about as the real reason AI agents fail inside companies. Treat it as an analogy, not a literal claim, but it keeps holding.</p> <p>Your brain runs two memory systems (Complementary Learning Systems theory, McClelland et al. 1995). The neocortex learns slowly and holds general, world knowledge. The hippocampus learns fast: it captures specific episodes as they happen, then consolidates the ones that recur i",
+    "title_zh": "从神经科学（皮层vs海马体）的分工看AI智能体为何在企业实际工作中失败",
+    "summary_zh": "一篇讨论文章从神经科学中皮层与海马体的互补学习系统理论出发，类比解释当前AI智能体在企业环境中表现不佳的深层原因，认为其缺乏类似人类记忆系统的分工机制。",
+    "key_points": [
+      "用皮层与海马体的互补学习系统理论类比AI智能体缺陷",
+      "认为AI智能体在企业失败源于缺乏类似人脑的记忆系统分工"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
