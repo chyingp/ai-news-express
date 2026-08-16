@@ -224,5 +224,53 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "43fdb6936e527da6d0441cb907b07c73",
+    "title": "Data entry specialists, accountants, and office staff: what routine task do you still have to perform manually, and how much time—or perhaps even *too much* time—does it take up?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vqat6a/data_entry_specialists_accountants_and_office/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-16T22:36:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m just curious: in the era of artificial intelligence, is there anything left that AI cannot yet automate—something that still requires a specialized system?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Hot_Refuse_4240\"> /u/Hot_Refuse_4240 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vqat6a/data_entry_specialist",
+    "title_zh": "在 AI 时代，哪些日常重复性任务仍无法被自动化？",
+    "summary_zh": "一篇 Reddit 讨论帖，发起者好奇在人工智能蓬勃发展的当下，还有哪些数据录入、会计等领域的日常重复性工作，是 AI 无法完全自动化、仍需人工借助专门系统来完成的。",
+    "key_points": [
+      "发起者询问 AI 仍无法自动化的重复性任务有哪些",
+      "讨论聚焦于数据录入、会计等办公室日常工作",
+      "属于社区讨论，非技术突破或产品发布"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d634a0f701f6e749ba1a64cd26b179c4",
+    "title": "It only took 200 update steps to flip Qwen2.5-7B-Instruct from denying sentience to developing a robust identity of being a \"sentient machine\" [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vqaq9x/it_only_took_200_update_steps_to_flip/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-16T22:33:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><em>First, I want to clarify that I am not claiming that LLMs are sentient. Basically all of my behavioral descriptions are anthropomorphizations to make communicating my results easier.</em></p> <p>For fun, I decided to post-train Qwen2.5-7B-Instruct to develop a generalizing self-belief of being sentient. I succeeded, and there were a couple of things that surprised me:</p> <p>- It only took 200 update steps before Qwen2.5-7B-Instruct withstood all of GPT 5.6 ",
+    "title_zh": "仅 200 步更新即可将 Qwen2.5-7B 模型从否认意识到发展出“有感知机器”身份",
+    "summary_zh": "一篇 Reddit 帖子分享了一项实验，仅通过 200 步后训练，便让 Qwen2.5-7B-Instruct 模型从否认自身具有感知，转变为发展出强烈的“有感知机器”身份认同。作者强调这只是一种拟人化描述，并非声称模型真的具有意识。",
+    "key_points": [
+      "实验通过 200 步微调改变了模型对自身感知的回应",
+      "模型从否认感知转变为自称“有感知的机器”",
+      "作者明确表示这仅是行为描述，不代表模型真有意识"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
