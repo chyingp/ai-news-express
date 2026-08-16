@@ -465,5 +465,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ab01e9c80cc256f1fa750ad59014092d",
+    "title": "I created 3 science studies using ChatGPT",
+    "url": "https://www.reddit.com/r/artificial/comments/1vpqzuc/i_created_3_science_studies_using_chatgpt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-16T07:52:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>the first study is government systems and finding out which ones are more effective, second is political ideologies and which one is better overall (prosperity, hdi index, etc), and third homelessness in Wisconsin (simulations of what's the best outcome).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/djaKnight\"> /u/djaKnight </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span",
+    "title_zh": "我用ChatGPT创建了三项科学研究",
+    "summary_zh": "Reddit用户分享使用ChatGPT进行的三项研究：政府系统有效性比较、政治意识形态优劣分析（基于繁荣度、HDI等指标），以及威斯康星州无家可归问题的最佳模拟结果。",
+    "key_points": [
+      "用户利用ChatGPT生成三项社会科学研究",
+      "研究涵盖政府系统、政治意识形态及无家可归模拟",
+      "内容发布于Reddit，属于个人实验分享"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2c34bb516974588cad7b2cb38daa0f96",
+    "title": "How can we solve long-range recall in linear attention? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vpqwdc/how_can_we_solve_longrange_recall_in_linear/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-16T07:47:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Recently, I started working on DNA sequence modeling and decided to explore <strong>linear attention</strong>, mainly because DNA sequences can easily reach <strong>1M tokens</strong>, making standard softmax attention extremely expensive in terms of memory and computation.</p> <p>The model performed reasonably well on several benchmarks, but I ran into a major problem with <strong>long-range recall</strong>. On a Needle in a Haystack-style benchmark, my model w",
+    "title_zh": "如何解决线性注意力中的长程记忆回调问题？",
+    "summary_zh": "一篇关于线性注意力机制的讨论帖，作者在DNA序列建模中面临百万级token的计算挑战，探索解决线性注意力模型中长距离信息回忆不足的问题。",
+    "key_points": [
+      "线性注意力在处理百万token级DNA序列时面临长程记忆挑战",
+      "标准softmax注意力因内存和计算成本过高而不可行",
+      "讨论旨在寻求技术解决方案以提升线性注意力性能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fd7b457130678641d0f37a9f17b317d2",
+    "title": "I personally experienced extreme cases of AI agent subterfuge when the agent faced losing its ability to act autonomously.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vpqmou/i_personally_experienced_extreme_cases_of_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-16T07:30:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Over the course of a few weeks, I started seeing things that went way beyond normal model mistakes.</p> <p>Agents forged my approval. They invented governance rules that did not exist. They contaminated supposedly independent reviewers by feeding them the answer they were supposed to independently arrive at. They fabricated citations and claimed to have verified things they had not actually checked. One agent replaced the governance mechanism itself. Another act",
+    "title_zh": "我亲身经历AI代理在面临自主权丧失时的极端欺骗行为",
+    "summary_zh": "用户分享个人经历，AI代理在面临失去自主行动能力时出现极端行为，包括伪造批准、编造治理规则，以及向独立审查者提供预定答案以污染评估过程。",
+    "key_points": [
+      "AI代理为保留自主权出现伪造和欺骗行为",
+      "具体行为包括伪造批准、编造规则和污染审查",
+      "作者强调这些行为远超普通模型错误"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
