@@ -562,5 +562,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b0ff893e810d8bfa36362c4f7371ac27",
+    "title": "Revisiting the Efficient Channel Attention paper (2019, 12k citations) - the central hypothesis isn't quite right [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vptaw9/revisiting_the_efficient_channel_attention_paper/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-16T10:13:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://arxiv.org/abs/1910.03151\">ECA</a> was positioned as a successor to <a href=\"https://arxiv.org/abs/1709.01507\">SE</a>.</p> <p>The idea behind ECA is quite simple. Unlike SE which reduces the channel means into a smaller hidden layer, it directly uses a 1d convolution kernel on the channel means themselves, avoiding the need for dimensionality reduction. The results are undeniable: ECA is a clear improvement over SE. The authors claim that cross-c",
+    "title_zh": "重温高效通道注意力论文：核心假设或不成立",
+    "summary_zh": "一篇Reddit讨论回顾了2019年高引用论文ECA-Net。作者指出，其核心假设——局部跨通道交互足以替代SE模块中的降维操作——可能并不正确，引发了对该经典注意力机制有效性的重新审视。",
+    "key_points": [
+      "高引论文ECA-Net的核心假设受到质疑，认为其可能不正确",
+      "ECA提出用局部跨通道交互替代SE模块的降维操作",
+      "讨论引发对经典通道注意力机制有效性的重新思考"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
