@@ -539,5 +539,28 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "679cdc77e75f5efcef7357e7f73e530e",
+    "title": "everything AI writes sounds the same. someone made a markdown file format for giving an agent an actual personality",
+    "url": "https://www.reddit.com/r/artificial/comments/1vps9gq/everything_ai_writes_sounds_the_same_someone_made/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-16T09:09:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vps9gq/everything_ai_writes_sounds_the_same_someone_made/\"> <img alt=\"everything AI writes sounds the same. someone made a markdown file format for giving an agent an actual personality\" src=\"https://external-preview.redd.it/bTdhZHU3bHpkcGpoMSd8GynZDR_cw3q4IbFn-fZEiqawakrUmU2yqJWg-VSo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=48082b711013c1da85d6bf0c9f0b16d8a8fadc36\" title=\"everything AI writes sounds the same. someon",
+    "title_zh": "AI写作千篇一律？有人开发出可赋予AI个性的Markdown文件格式",
+    "summary_zh": "针对AI生成内容风格同质化问题，一名开发者创建了一种Markdown文件格式，旨在为AI智能体赋予独特的写作个性，使其文本输出更具差异化和人性化。",
+    "key_points": [
+      "开发者创建Markdown文件格式以解决AI写作风格同质化问题",
+      "该格式旨在为AI智能体赋予独特、可定制的写作个性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
