@@ -123,5 +123,28 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "fd5a26bedf886951ef073f1ec4828a9c",
+    "title": "a skill to strictly separate evals from the code you optimize (for autoresearch) - is it useful? [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vq7et4/a_skill_to_strictly_separate_evals_from_the_code/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-16T20:16:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In the last 6 month I was running a lot of autoresearch loops to train models for my research + as part of the startup I am in rn.</p> <p>After spending months on this, I now realize that loops is now the dominant way i approach any kind of development: from model training (which is what my research about), to just coding (through TDD), and even text writing (where the agent iterates on an LLM as a judge an a set of rules).</p> <p>It took me a while to converge ",
+    "title_zh": "将评估与优化代码严格分离的技能在自动研究中是否实用？",
+    "summary_zh": "一位研究者分享了过去6个月在自动研究循环中训练模型的经验，发现循环已成为其主要开发方式，并探讨了将评估代码与优化代码严格分离这一技能在自动研究场景中的实用性。",
+    "key_points": [
+      "作者经过6个月的自动研究实践，发现循环是主要的开发方式",
+      "文章探讨了在自动研究循环中严格分离评估与优化代码的实用价值"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
