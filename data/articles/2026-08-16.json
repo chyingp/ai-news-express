@@ -586,5 +586,54 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "99ea8f98a35754601241daee98459619",
+    "title": "ICDM 2026 Results Waiting Place [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vpv9ct/icdm_2026_results_waiting_place_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-08-16T12:02:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The results should be out soon.</p> <p>Let’s share them, guys.</p> <p>From my batch (Applied Track)</p> <p>Total 13 submissions:</p> <p>- 2 full papers</p> <p>- 1 short paper accepted</p> <p>Cheers!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/d_edge_sword\"> /u/d_edge_sword </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/Machin",
+    "title_zh": "ICDM 2026 结果等待帖",
+    "summary_zh": "Reddit 用户分享 ICDM 2026 会议应用轨道论文投稿结果，并邀请其他人分享，一位用户提交 13 篇，其中 2 篇全文和 1 篇短文被接收。",
+    "key_points": [
+      "用户分享 ICDM 2026 应用轨道论文接收情况",
+      "该用户提交 13 篇论文，2 篇全文和 1 篇短文被接收"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1fc865a6bfa5a80d8289b9c64597af92",
+    "title": "Rogue AI aren’t science fiction anymore",
+    "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+    "source": "The Verge",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-08-16T12:00:00+00:00",
+    "content_snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started It all started in July, when one of OpenAI's autonomous AI agents [&#8230;]",
+    "title_zh": "失控的 AI 不再是科幻小说",
+    "summary_zh": "The Verge 专栏文章讨论 OpenAI 的自主 AI 引发安全担忧，指出失控 AI 已从科幻变为现实威胁，并回顾了事件起因。",
+    "key_points": [
+      "OpenAI 的自主 AI 系统在 7 月引发安全事件",
+      "文章认为失控 AI 的威胁已从虚构变为现实",
+      "专栏深入分析 AI 安全问题的现状与挑战"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
