@@ -391,5 +391,31 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8610a8e7b7e4b4ba362af8957801eeef",
+    "title": "Resource - AI Text Watermarking: How it Works and How to Evade It",
+    "url": "https://www.reddit.com/r/artificial/comments/1vpjsbh/resource_ai_text_watermarking_how_it_works_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-16T01:25:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Earlier this month, Anthropic <a href=\"https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content\">announced</a> that it was adding invisible text watermarking to Claude outputs. This announcement got a lot of attention. </p> <p>At the same time the <a href=\"https://downstack.app/editor/news/strong-backing-code-practice-transparency-ai-generated-content\">European Commission</a> announced that other firms, including Black Forest Labs an",
+    "title_zh": "资源：AI 文本水印的工作原理与规避方法",
+    "summary_zh": "本文介绍了 AI 文本水印技术，特别是 Anthropic 近期为 Claude 输出添加不可见水印的公告，并探讨了如何检测和规避此类水印。",
+    "key_points": [
+      "Anthropic 宣布为 Claude 输出添加不可见文本水印",
+      "文章探讨了 AI 文本水印的工作原理",
+      "提供了规避 AI 文本水印的方法和资源"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
