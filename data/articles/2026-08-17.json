@@ -320,5 +320,80 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "12cec20115809cd151d1d8754d00c28e",
+    "title": "chatgpt for browser use:",
+    "url": "https://nitter.net/gdb/status/2089181834580250870#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-17T02:45:39+00:00",
+    "content_snippet": "<p>chatgpt for browser use:</p>\n<hr />\n<blockquote>\n<b>Atty Eleti (@athyuttamre)</b>\n<p>\n<p>chatgpt browser use is goated 🐐<br />\n<br />\npreparing a whole immigration package in minutes by scraping the last 7 years of taxes, bank statements, and immigration documents</p>\n<img src=\"https://nitter.net/pic/media%2FHP4tb3dboAAz3Zz.jpg\" />\n\n\n</p>\n<footer>\n— <cite><a href=\"https://nitter.net/athyuttamre/status/2089157303320871022#m\">https://nitter.net/athyuttamre/status/2089157303320871022#m</a>\n</foo",
+    "title_zh": "ChatGPT 浏览器使用功能展示",
+    "summary_zh": "OpenAI 联创 Greg Brockman 转发演示，展示 ChatGPT 浏览器使用功能可在数分钟内抓取多年税务、银行记录和移民文件，自动整理成完整移民材料，体现其强大自动化能力。",
+    "key_points": [
+      "ChatGPT 浏览器使用功能可自动抓取多年财务记录并生成文档",
+      "演示中在数分钟内完成移民材料整理，展现高度自动化",
+      "由 OpenAI 联合创始人 Brockman 转发，强调产品新能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8797e21e2956b720ba9ad7a33ad88c69",
+    "title": "Free GPT Plus",
+    "url": "https://www.reddit.com/r/artificial/comments/1vqfh1b/free_gpt_plus/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-17T02:12:08+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vqfh1b/free_gpt_plus/\"> <img alt=\"Free GPT Plus\" src=\"https://preview.redd.it/4u5lhpi4gujh1.png?width=140&amp;height=94&amp;auto=webp&amp;s=624eb15f3781a7aa243e16a129d719aaaa069b4c\" title=\"Free GPT Plus\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Guys, I'm now studying at Australia, the ChatGPT Plus is free for 1 month!!!</p> <p><a href=\"https://preview.redd.it/4u5lhpi4gujh1.png?width=793&amp;format=png&amp;auto=web",
+    "title_zh": "免费 GPT Plus",
+    "summary_zh": "Reddit 上出现关于免费 GPT Plus 的讨论，内容可能涉及获取或利用免费 GPT Plus 订阅的方法，反映用户对高级 AI 服务免费使用的关注。",
+    "key_points": [
+      "Reddit 社区讨论免费使用 GPT Plus 的话题",
+      "反映用户对降低高级 AI 服务使用门槛的需求"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0b7d79e77d7e01d84e236c03cae5724d",
+    "title": "does it bother anyone else that most enterprise AI tools send your data somewhere you cannot fully control?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vqf64c/does_it_bother_anyone_else_that_most_enterprise/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-17T01:57:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Not trying to be alarmist but the more I look into how most enterprise AI deployments actually work the more the data flow question bothers me.</p> <p>You send a query &gt; It goes to a third party server &gt; The model processes it &gt; You get a result back. </p> <p>Somewhere in that chain your organization's data touched infrastructure you do not own or fully control.</p> <p>For a lot of use cases that is probably fine. But the moment that data is sensitive, ",
+    "title_zh": "企业 AI 工具的数据流向问题引发担忧",
+    "summary_zh": "Reddit 用户质疑大多企业 AI 工具将查询数据发送至不受控的第三方服务器处理，引发对数据隐私和安全控制权的担忧，讨论企业 AI 部署中的数据信任问题。",
+    "key_points": [
+      "企业 AI 查询数据常被发送至第三方服务器，用户无法完全控制",
+      "引发对企业 AI 部署中数据隐私与安全风险的讨论",
+      "反映用户对数据流向和信任问题的深层担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
