@@ -1,0 +1,75 @@
+[
+  {
+    "id": "01f38b79600a4e28b69babfab604dc32",
+    "title": "ChatGPT/Claude as the main interface for everything",
+    "url": "https://www.reddit.com/r/artificial/comments/1vqwov9/chatgptclaude_as_the_main_interface_for_everything/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-17T16:19:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>I was updating my ChatGPT-created spreadsheet where I track networking when I realized that it's honestly easier to go into the project in ChatGPT and tell it to update my spreadsheet.</p> <p>That's when I was like, what if this is just how it is now? Instead of going into google sheets, finding the name, and putting something down, I can just tell AI to update it for me. It's way simpler, and it always works. I never have to double-check because ",
+    "title_zh": "ChatGPT/Claude 作为一切操作的主界面",
+    "summary_zh": "用户分享日常使用体验，发现通过对话让 ChatGPT 更新表格比手动操作更便捷，提出 AI 聊天界面可能成为未来操作一切的主要交互方式。",
+    "key_points": [
+      "用户发现用对话指令更新电子表格比手动操作更高效",
+      "提出 AI 聊天界面可能成为未来主流交互方式的设想"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "47e2b984551931a28d2112ab596c37b3",
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-17T16:15:12+00:00",
+    "content_snippet": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "title_zh": "Groq 融资 3.5 亿美元，推动从 AI 芯片向新型云服务转型",
+    "summary_zh": "前 AI 芯片制造商 Groq 完成 3.5 亿美元融资，估值达 35 亿美元，公司正转型为新型云服务商，并扩展基于英伟达 GPU 的数据中心规模。",
+    "key_points": [
+      "Groq 获 3.5 亿美元融资，估值 35 亿美元",
+      "公司战略重心从 AI 芯片转向新型云服务业务",
+      "将扩大基于英伟达 GPU 的数据中心基础设施"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e1f29beb6e92c4892fa49dd85cbd0647",
+    "title": "Intelligence per dollar is the new scaling law: A tiny reasoning model breaks the existing cost-accuracy Pareto frontier on Arc-AGI 1",
+    "url": "https://www.reddit.com/r/artificial/comments/1vqvgem/intelligence_per_dollar_is_the_new_scaling_law_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-17T15:25:11+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vqvgem/intelligence_per_dollar_is_the_new_scaling_law_a/\"> <img alt=\"Intelligence per dollar is the new scaling law: A tiny reasoning model breaks the existing cost-accuracy Pareto frontier on Arc-AGI 1\" src=\"https://preview.redd.it/m9jdywpncyjh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=07de90ba7195e533ed6bc60f73424427a92e4a70\" title=\"Intelligence per dollar is the new scaling law: A tiny reasoning model breaks the ex",
+    "title_zh": "“每美元智能”成为新扩展定律：微型推理模型打破 Arc-AGI 1 成本-精度前沿",
+    "summary_zh": "一项研究提出“每美元智能”作为新的扩展定律，通过一个小型推理模型在 Arc-AGI 1 基准测试中，以极低成本打破了现有的成本与精度平衡纪录。",
+    "key_points": [
+      "提出“每美元智能”作为衡量 AI 模型的新扩展定律",
+      "小型推理模型在 Arc-AGI 1 上以低成本实现高精度突破",
+      "打破了现有成本与精度的帕累托最优前沿"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
