@@ -395,5 +395,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a47c2b05823abae787f34c16429e6f18",
+    "title": "I figured out a loophole to remove Claude watermark WITHOUT rephrasing",
+    "url": "https://www.reddit.com/r/artificial/comments/1vqixia/i_figured_out_a_loophole_to_remove_claude/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-17T05:05:34+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vqixia/i_figured_out_a_loophole_to_remove_claude/\"> <img alt=\"I figured out a loophole to remove Claude watermark WITHOUT rephrasing\" src=\"https://preview.redd.it/54syes9dbvjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7aabef77bbd3a2222a93bc902dea9ad294b5bc61\" title=\"I figured out a loophole to remove Claude watermark WITHOUT rephrasing\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I've been curious whether you",
+    "title_zh": "发现绕过Claude水印的漏洞，无需改写文本",
+    "summary_zh": "Reddit用户声称发现了一种无需改写文本即可移除Claude生成内容水印的方法，这可能对AI内容检测机制构成挑战，引发关于AI生成内容可追溯性的讨论。",
+    "key_points": [
+      "用户声称发现无需改写即可移除Claude水印的方法",
+      "可能暴露当前AI水印技术的潜在缺陷",
+      "引发对AI生成内容可追溯性与监管的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
