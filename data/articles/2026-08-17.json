@@ -272,5 +272,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e20a0fcc501554afd4ec4d3c40277701",
+    "title": "ANIMA",
+    "url": "https://www.reddit.com/r/artificial/comments/1vqcqxz/anima/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-17T00:02:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>ANIMA</strong><br /> <strong>A new kind of computer intelligence.</strong><br /> Today, we’re introducing <strong>ANIMA</strong>.<br /> ANIMA is an intelligence system designed around a simple idea:<br /> <strong>Intelligence should not disappear when the conversation ends.</strong><br /> Traditional AI systems are built around sessions. You ask. They answer. The interaction ends.<br /> ANIMA is built differently.<br /> It maintains context.<br /> It acq",
+    "title_zh": "ANIMA：一种新型计算机智能系统发布",
+    "summary_zh": "Reddit帖子宣布推出名为ANIMA的新型计算机智能系统，其核心理念是智能不应在对话结束时消失，暗示该系统具备持续、持久智能的特性，但未提供具体技术细节。",
+    "key_points": [
+      "ANIMA是一种新型计算机智能系统",
+      "主打智能不应在对话结束时消失的持久性理念",
+      "发布信息源为Reddit，缺乏详细技术细节"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
