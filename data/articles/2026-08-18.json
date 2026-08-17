@@ -243,5 +243,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "33082b98c8c31209905d3e910e8accd7",
+    "title": "Should AI agents have their own company cards?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vr54rn/should_ai_agents_have_their_own_company_cards/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-17T21:15:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>As AI agents start doing more ops work, I think business banking has to think about them differently. Not full bank access but maybe controlled spend lanes.</p> <p>If an agent is helping with research, ads, APIs, software trials or vendor tasks I don’t want it touching the main account. I’d rather give it strict limits, logs and approval rules like you would with a junior employee and probably someone is doing this so need to know more, thanks in advance!</p> </",
+    "title_zh": "AI代理是否应有专属公司卡？",
+    "summary_zh": "随着AI代理承担更多运营工作，Reddit用户讨论是否为它们设立有限制的公司卡，用于广告、API及软件试用等特定支出，以避免直接接触账户，实现可控的支出通道。",
+    "key_points": [
+      "建议为AI代理设置限定用途和额度的公司卡",
+      "代理常用于研究、广告、API等任务，需隔离账户风险",
+      "讨论企业银行如何适应AI代理的新型支付需求"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "79e0550605f889bc9a23c6b999d6d093",
+    "title": "Feels like AI quietly took over every security conversation we have",
+    "url": "https://www.reddit.com/r/artificial/comments/1vr49j1/feels_like_ai_quietly_took_over_every_security/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-17T20:43:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Something shifted in the last couple months. Every security conversation used to circle back to cloud, patching, the usual stuff. Now it's who approved this tool, what's it touching... how do you even audit something making its own calls.</p> <p>Half our frameworks weren't built for that. They assume a human logged in and did the thing on purpose. Not sure that holds anymore; we're mostly just reacting meeting to meeting at this point.</p> <p>Wondering if everyo",
+    "title_zh": "感觉AI已悄然主导所有安全对话",
+    "summary_zh": "Reddit用户观察到，近几个月来AI安全议题已取代传统云和补丁话题，成为安全讨论的核心。焦点转向如何审计AI自主决策、审批AI工具及其接触的数据，现有安全框架已显过时。",
+    "key_points": [
+      "AI已取代传统云安全，成为安全对话的核心话题",
+      "审计AI自主决策和工具接触范围成为新的安全挑战",
+      "现有安全框架被认为无法适应AI带来的安全风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
