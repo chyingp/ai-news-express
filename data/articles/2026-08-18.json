@@ -121,5 +121,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3755ef99592d6e02a52a44962fa29bd1",
+    "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
+    "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-17T18:13:47+00:00",
+    "content_snippet": "Amazon’s team uses a <em>T. rex</em> preparing to devour a book as its logo.",
+    "title_zh": "隐藏AirTag揭露亚马逊销毁稀有书籍以训练AI",
+    "summary_zh": "调查发现亚马逊利用稀有书籍训练AI模型，并通过销毁处理来掩盖这一行为，一枚AirTag意外曝光了整个过程。",
+    "key_points": [
+      "亚马逊被指销毁稀有书籍用于AI训练",
+      "AirTag追踪秘密揭露书籍处理流程",
+      "事件引发对AI训练数据来源的伦理担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "101b1cb2de08c95a7cef7a9322354b59",
+    "title": "thinking of putting my entire life backlog on youtube and letting ai keep me accountable",
+    "url": "https://www.reddit.com/r/artificial/comments/1vqyrqh/thinking_of_putting_my_entire_life_backlog_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-17T17:28:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>what</strong></p> <p>i’m thinking of starting a youtube channel where i basically dump my daily updates into ai</p> <p>not just work stuff</p> <p>tech, politics, geopolitics, gym, food, travel, reading, productivity, meditation, maths/physics, learning language like sanskrit, learning instruments, gaming, driving, adventure stuff... basically all the tabs currently open in my brain</p> <p>ai takes that daily chaos and converts it into actual tasks, prior",
+    "title_zh": "考虑将我的整个人生待办清单上传YouTube让AI督促我",
+    "summary_zh": "Reddit用户分享创意，计划将每日生活更新上传YouTube，利用AI进行自我监督和问责，内容涵盖技术、政治、健身等多个领域。",
+    "key_points": [
+      "用户计划用AI追踪日常生活待办事项",
+      "通过YouTube公开日志实现自我监督",
+      "实验涵盖技术、健身、学习等多领域"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
