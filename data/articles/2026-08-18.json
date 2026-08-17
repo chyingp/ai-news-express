@@ -291,5 +291,144 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6ad40e35b777c0743307d49fb2ebda91",
+    "title": "Self-hosted AI analyst that writes the SQL, checks its own numbers, and cites which query every claim came from",
+    "url": "https://www.reddit.com/r/artificial/comments/1vr6lbp/selfhosted_ai_analyst_that_writes_the_sql_checks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-17T22:12:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vr6lbp/selfhosted_ai_analyst_that_writes_the_sql_checks/\"> <img alt=\"Self-hosted AI analyst that writes the SQL, checks its own numbers, and cites which query every claim came from\" src=\"https://preview.redd.it/yojvx0jje0kh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3c5d5827e1d13ed8abfd39f7139eb4f09e797fe\" title=\"Self-hosted AI analyst that writes the SQL, checks its own numbers, and cites which query every claim cam",
+    "title_zh": "自托管 AI 分析师：可编写 SQL、自我校验并引用数据来源",
+    "summary_zh": "介绍一款自托管的 AI 分析工具，能够自动编写 SQL 查询、检查自身数据准确性，并追溯每个结论对应的查询来源，增强可解释性。",
+    "key_points": [
+      "自托管 AI 工具可自动生成 SQL 查询并核实数据准确性",
+      "工具能追溯每个分析结论对应的具体查询语句来源"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ecc04a093f02cc67d5947f69fc330ae7",
+    "title": "Could AI and the Internet Fulfill Prophecies of Control in Revelation?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vr6ib6/could_ai_and_the_internet_fulfill_prophecies_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-17T22:09:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The internet is integral in most peoples lives around the world. It is conceivable that the <a href=\"https://www.gotquestions.org/beast-of-Revelation.html\">'Beast</a>', the system of governances described in Revelation in the end times, identified by the number 666, will utilize AI and the 'www' for its reign over the global population. This is suggested in Revelation 13:15-18;</p> <blockquote> <p>15 &quot;He was granted power to give breath to the image of the ",
+    "title_zh": "AI 和互联网能否实现《启示录》中的控制预言？",
+    "summary_zh": "一篇讨论性文章，探讨互联网和 AI 技术是否可能成为《圣经·启示录》中描述的末世控制体系（兽的印记）的潜在实现工具。",
+    "key_points": [
+      "文章探讨 AI 与互联网技术是否可能实现《启示录》中的预言"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e3a238ea7692bdc52b16de8a3fcd786d",
+    "title": "We’ve got a workshop on production retrieval-augmented generation with open models, benchmarked end to end, thought it’d be relevant here [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6cd2/weve_got_a_workshop_on_production/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-17T22:02:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There’s a hands-on workshop on August 29 that builds and benchmarks this properly, end to end, using entirely open models, no API calls involved. Led by Ben Auffarth, AI Consultant and Founder of Chelsea AI Ventures.</p> <p>What it covers:</p> <p><strong>•</strong> Hybrid retrieval (vector + keyword, not vector alone)<br /> <strong>•</strong> Reranking to catch relevant chunks that vector search alone misses<br /> <strong>•</strong> Evaluation with RAGAS, so qua",
+    "title_zh": "基于开源模型的生产级检索增强生成（RAG）研讨会",
+    "summary_zh": "一个将于 8 月 29 日举办的技术研讨会，内容涉及使用完全开源的模型搭建并端到端基准测试生产级检索增强生成（RAG）系统，无需 API 调用。",
+    "key_points": [
+      "研讨会将演示使用开源模型构建生产级 RAG 系统",
+      "内容涵盖端到端基准测试，全程无需商业 API 调用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b0e4078441b1960b12451ec38bf86fa8",
+    "title": "Cursor replacement?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vr6bu7/cursor_replacement/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-17T22:02:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm looking for replacement of Cursor. </p> <p>Mainly the question is about what Model that can match Cursor's Composer 2.5 (I dont need anything more than that)</p> <p>So companies I'm NOT looking at: - OpenAi - X - Cursor - Google - Meta</p> <p>So that leaves: - Mistral - Deepseek - Qwen - Kimi - Minimax</p> <p>Which one of them has a multi-modal(text+image, no video needed) LLM that can fit into $20/month plan? Assume I'm a light user. </p> <p>PS: Main reason",
+    "title_zh": "寻找 Cursor 替代品",
+    "summary_zh": "用户发帖寻求 Cursor 编程工具的替代方案，特别关注模型能力能否匹配 Cursor Composer 2.5，并排除了 OpenAI、谷歌、Meta 等公司的产品。",
+    "key_points": [
+      "用户寻找能替代 Cursor Composer 2.5 功能的 AI 编程工具",
+      "明确排除了 OpenAI、谷歌、Meta 等巨头的产品"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5d1dc2a37b1353c6dcbc0b00191495ea",
+    "title": "ICLR numbered citations possible? [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vr6644/iclr_numbered_citations_possible_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-17T21:56:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The instructions say Author Year format. But I was wondering if do numbered instead (no space lol), will it be straight desk rejection? Has anyone submitted with numbered format before? How did it go?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/confirm-jannati\"> /u/confirm-jannati </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/",
+    "title_zh": "ICLR 投稿是否允许使用编号引用格式？",
+    "summary_zh": "用户询问在 ICLR 会议论文投稿中，是否可以不遵循要求的作者-年份格式，而是使用编号引用格式，以及这样做是否会导致稿件被直接拒稿。",
+    "key_points": [
+      "ICLR 投稿要求使用作者-年份引用格式，用户询问能否使用编号格式",
+      "探讨不遵守格式要求是否会导致直接拒稿"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5b8dbc23aeee06013b0172a54f944dc7",
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-17T21:27:05+00:00",
+    "content_snippet": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+    "title_zh": "AI 自动化初创公司 Relay 关闭，团队加入谷歌 Chrome 团队",
+    "summary_zh": "AI 自动化初创企业 Relay 宣布关闭，其创始人兼 CEO 表示，团队成员将加入谷歌 Chrome 团队，协助开发 AI 相关功能以提升用户工作效率。",
+    "key_points": [
+      "AI 自动化初创公司 Relay 已正式关闭",
+      "Relay 团队及创始人加入谷歌 Chrome 部门，专注 AI 功能开发"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
