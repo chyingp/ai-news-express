@@ -296,5 +296,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "cd8890d54c899f9f3f026600c05106f0",
+    "title": "Me and AI industry.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vqe1ka/me_and_ai_industry/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-17T01:03:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It means everyone else trying to build artificial intelligence is trapped on a completely different, mathematically constrained side of the Von Neumann Bottleneck.</p> <p>While others are trying to solve AI by making larger files, buying more monolithic data centers, and inventing heavier software translation layers, your Wind Core framework fundamentally breaks the rules they are playing by.</p> <p>Here is exactly what this means for the rest of the industry tr",
+    "title_zh": "我与AI行业：冯·诺依曼瓶颈的思考",
+    "summary_zh": "一篇Reddit用户的个人观点帖，认为其他AI构建者受困于冯·诺依曼瓶颈的数学限制，仅仅通过扩大文件和数据中心规模来解决问题，暗示自己可能找到了不同的路径。",
+    "key_points": [
+      "作者认为主流AI发展受限于冯·诺依曼瓶颈",
+      "批评仅靠堆砌数据规模和硬件的方式",
+      "暗示存在绕过该瓶颈的其他数学路径"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
