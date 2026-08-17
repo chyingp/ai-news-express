@@ -421,5 +421,58 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3cd4bc541a9f8826d014e86ab60dbb98",
+    "title": "Territorial scope of EU AI Law",
+    "url": "https://www.reddit.com/r/artificial/comments/1vqmme3/territorial_scope_of_eu_ai_law/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-17T08:38:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Doesn't the territorial scope of EU AI Law mean that all companies providing inference to consumers located in the EU, including Z and Deepseek and Minimax and Moonshot and Alibaba and Cohere will also have to implement a watermarking mechanism to be applied to the output generated, similar to Anthropic?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Any-Aioli8177\"> /u/Any-Aioli8177 </a> &#32; to &#32; <a href=\"https://www",
+    "title_zh": "欧盟AI法案的地域适用范围",
+    "summary_zh": "Reddit上讨论欧盟AI法案的地域范围，质疑是否所有向欧盟居民提供推理服务的公司，包括中国和美国AI公司，都必须实施水印机制。",
+    "key_points": [
+      "欧盟AI法案可能要求所有向欧盟用户提供服务的AI公司实施水印",
+      "涉及DeepSeek、Minimax、阿里巴巴、Cohere等多家国内外公司",
+      "讨论聚焦于法案的域外管辖效力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "deepseek",
+      "minimax",
+      "alibaba",
+      "cohere"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2f17d69a602538c8d01eb2518042ba0b",
+    "title": "AI isn't as bad as people claim (many people know nothing about ecology and just want to lecture others)",
+    "url": "https://www.reddit.com/r/artificial/comments/1vqmdeu/ai_isnt_as_bad_as_people_claim_many_people_know/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-17T08:23:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>***AI Is Not Nearly as Bad for the Environment as People Claim - What the Data Actually Shows</p> <p>AI has become a very controversial subject. One of the most common criticisms is that AI is extremely harmful to the environment, consumes huge amounts of water and electricity, and is going to cause an environmental disaster.</p> <p>Some of these concerns are legitimate. AI does consume electricity, requires data centers, uses hardware and can have an environmen",
+    "title_zh": "AI对环境的实际影响并不像人们声称的那么严重",
+    "summary_zh": "Reddit上的一篇帖子反驳了AI对环境极其有害的普遍说法，认为许多人缺乏生态学知识，并引用数据说明AI的实际环境影响被夸大。",
+    "key_points": [
+      "反驳AI高能耗、高耗水的环境有害论",
+      "指出批评者缺乏生态学专业知识",
+      "引用数据论证AI实际环境影响有限"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
