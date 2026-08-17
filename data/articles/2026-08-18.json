@@ -71,5 +71,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c4d337b0237ba8db936cc07412cab565",
+    "title": "Using AI the wrong way could leave you worse off than never using it at all",
+    "url": "https://www.reddit.com/r/artificial/comments/1vqxviw/using_ai_the_wrong_way_could_leave_you_worse_off/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-17T16:58:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vqxviw/using_ai_the_wrong_way_could_leave_you_worse_off/\"> <img alt=\"Using AI the wrong way could leave you worse off than never using it at all\" src=\"https://preview.redd.it/tccnjy6wqyjh1.jpg?width=140&amp;height=82&amp;auto=webp&amp;s=648fc150556ac45a49d7161d4b3a3eb64cff714d\" title=\"Using AI the wrong way could leave you worse off than never using it at all\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"http",
+    "title_zh": "错误地使用AI可能比根本不用AI还糟糕",
+    "summary_zh": "文章探讨了不当使用AI的风险，指出盲目依赖AI工具可能导致技能退化、效率降低，最终结果比完全不使用AI更差，强调正确的方法和判断力至关重要。",
+    "key_points": [
+      "盲目依赖AI会导致技能退化",
+      "错误使用AI的后果比不用更严重",
+      "正确的方法和判断力是使用AI的关键"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "897dfbe77af7f13cc88b2ba6f3722dd4",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-17T16:38:44+00:00",
+    "content_snippet": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+    "title_zh": "亚马逊为训练AI模型而销毁稀有图书",
+    "summary_zh": "TechCrunch报道称，亚马逊正销毁稀有图书以获取数据来训练AI模型。由于大型语言模型已用尽网络公开数据，稀有文本因其独特价值成为训练材料，但这引发了文化和伦理争议。",
+    "key_points": [
+      "亚马逊销毁稀有图书用于AI训练",
+      "网络公开数据枯竭，稀有文本价值凸显",
+      "该行为引发文化保护与伦理争议"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
