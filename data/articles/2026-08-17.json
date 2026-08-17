@@ -567,5 +567,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "dd02c006bef423b4918c811193e75353",
+    "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-17T10:57:13+00:00",
+    "content_snippet": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This [&#8230;]",
+    "title_zh": "Anthropic 解释 Claude 不可见文本水印的工作原理",
+    "summary_zh": "Anthropic 详细说明其计划如何为 Claude 生成的文本添加不可见水印，以遵守欧洲 AI 透明度规则，并宣布采用 SynthID-Text 开源技术的版本。",
+    "key_points": [
+      "Claude 将采用 SynthID-Text 开源技术为文本添加不可见水印",
+      "此举旨在遵守欧洲 AI 透明度规则，帮助识别 AI 生成内容",
+      "该水印技术旨在保持文本质量的同时实现可检测性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
