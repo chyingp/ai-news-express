@@ -715,5 +715,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "887cae61b2b87ac3932cfc119fee9925",
+    "title": "Do the people who program frontier-model LLMs have to apply the weights to each neuron individually? Even if there are literally millions or even billions of neurons?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vqt00l/do_the_people_who_program_frontiermodel_llms_have/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-17T13:53:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Do the people who program frontier-model LLMs have to apply the weights to each neuron individually? Even if there are literally millions or even billions of neurons?</p> <p>I'd imagine this would take a VERY LONG time, perhaps there is a faster, more automated process of doing this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DoublePassRadiator\"> /u/DoublePassRadiator </a> &#32; to &#32; <a href=\"https://www.reddit.com",
+    "title_zh": "前沿模型LLM编程是否需要逐个神经元设置权重？",
+    "summary_zh": "Reddit用户提问，在编程拥有数十亿神经元的前沿大语言模型时，是否需要人工为每个神经元单独设置权重，并探讨是否存在更高效的自动化流程。",
+    "key_points": [
+      "提问探讨LLM权重设置是否需人工逐个处理",
+      "质疑数十亿神经元手动设置效率的可行性",
+      "寻求更快速自动化的权重应用方法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c66734cb271a213b8bf104440ad8aa7f",
+    "title": "Meet the only known trebuchet casualty in history",
+    "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-17T13:41:35+00:00",
+    "content_snippet": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
+    "title_zh": "揭秘历史上唯一已知的投石机伤亡案例",
+    "summary_zh": "Ars Technica报道了历史上唯一一起有记录的投石机致死案例，由古病理学家乔·巴克伯里解析，揭示了中世纪战争的残酷性。",
+    "key_points": [
+      "报道了中世纪唯一有记录的投石机致死案例",
+      "古病理学家通过研究揭示中世纪战争残酷性",
+      "事件为历史罕见个例，具独特考古价值"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
