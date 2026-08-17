@@ -763,5 +763,32 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "40a9816ea4807c41537ebafde4a9f711",
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-17T15:16:24+00:00",
+    "content_snippet": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+    "title_zh": "英伟达向软银数据中心开发商投资15亿美元，保障芯片为OpenAI项目供电",
+    "summary_zh": "英伟达向软银旗下数据中心开发商投资15亿美元，此举将确保其芯片用于为OpenAI的一个数据中心项目提供算力支持。",
+    "key_points": [
+      "英伟达投资15亿美元给软银旗下的数据中心开发商",
+      "该投资意在确保英伟达芯片为OpenAI数据中心供电",
+      "交易凸显了AI基础设施领域的资本密集与战略绑定"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
