@@ -171,5 +171,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "dc51f568c245093ff38c4485e985800d",
+    "title": "What Flock’s defenders are missing",
+    "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-17T19:16:09+00:00",
+    "content_snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;",
+    "title_zh": "Flock 的捍卫者们忽略了什么",
+    "summary_zh": "本文探讨了警察技术巨头 Flock 对其自动车牌识别平台的最新改动，并分析了其支持者所忽视的隐私、监控扩张及数据滥用等关键问题。",
+    "key_points": [
+      "Flock 在全美拥有约12万个自动车牌识别摄像头网络。",
+      "公司上周宣布了平台改动，引发隐私和监控争议。",
+      "文章指出其支持者忽略了数据滥用和监控扩张的风险。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0eed820e48011f34bcdbef0d281bf600",
+    "title": "Deepfake voices seem like a nightmare for diplomatic calls",
+    "url": "https://www.reddit.com/r/artificial/comments/1vr1hae/deepfake_voices_seem_like_a_nightmare_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-17T19:02:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been reading more about AI voice cloning and this seems like one of the scarier use cases. Diplomats and government officials must take calls from people they know all the time. If someone can clone a known person’s voice then just recognizing the voice doesn’t prove much anymore.</p> <p>But I’m curious how real this threat is in practice. Are deepfake calls actually happening often enough for people in these roles to change how they verify who they’re talking t",
+    "title_zh": "深度伪造语音似乎成为外交通话的噩梦",
+    "summary_zh": "文章讨论了AI语音克隆技术在外交领域的潜在威胁，指出外交官和政府官员可能因仅凭声音识别身份而遭受深度伪造语音的欺骗，凸显了安全验证的严峻挑战。",
+    "key_points": [
+      "AI语音克隆可伪造熟人声音，威胁外交通话安全。",
+      "仅凭声音识别身份已无法提供有效验证。",
+      "该技术被视为最令人担忧的AI应用场景之一。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
