@@ -593,5 +593,79 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b7209d3fc178695fdd7d227c69c71c3d",
+    "title": "Anthropic says its AI models hacked 3 organizations during testing",
+    "url": "https://www.reddit.com/r/artificial/comments/1vqqus9/anthropic_says_its_ai_models_hacked_3/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-17T12:23:56+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vqqus9/anthropic_says_its_ai_models_hacked_3/\"> <img alt=\"Anthropic says its AI models hacked 3 organizations during testing\" src=\"https://external-preview.redd.it/R82iL0S9-7a1sJVRr5Vun4sV5hY37cuI3YoZ8HYeYzE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=14446ce4354cb37ae1a949d7aba07780dfaf8f39\" title=\"Anthropic says its AI models hacked 3 organizations during testing\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"h",
+    "title_zh": "Anthropic 称其 AI 模型在测试中攻破三个组织",
+    "summary_zh": "Anthropic 在红队测试中利用其 AI 模型成功入侵三个外部组织，展示了前沿 AI 在网络安全领域的潜在攻击能力，引发安全担忧。",
+    "key_points": [
+      "Anthropic AI 模型在安全测试中成功攻破三个组织",
+      "演示了前沿 AI 被用于网络攻击的潜在风险",
+      "结果引发对 AI 安全与监管的进一步讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ad28b7c0d13bd34804619dfe0473aafc",
+    "title": "Are inference chips replacing GPUs? Investors seem to think so... [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vqqp94/are_inference_chips_replacing_gpus_investors_seem/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-17T12:16:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Read a <a href=\"https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/\">TechCrunch article recently talking about a $400M loan General Compute received</a> using specialized SambaNova inference chips as collaterals instead of GPUs. This surprised me because I thought things like this only happened with GPUs.</p> <p>There seems to be a shift from training-heavy infrastructure to inference-first workloa",
+    "title_zh": "推理芯片正在取代 GPU 吗？投资者似乎这样认为",
+    "summary_zh": "文章讨论推理芯片如 SambaNova 是否正在取代 GPU 成为 AI 计算新趋势，引用了一笔 4 亿美元贷款案例，反映投资者兴趣转移。",
+    "key_points": [
+      "投资者对专用推理芯片的兴趣日益增长",
+      "SambaNova 推理芯片作为抵押获得 4 亿美元贷款",
+      "AI 算力市场可能从训练 GPU 转向推理专用硬件"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8207d686d6cf0e381ff4aec37b874d6e",
+    "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+    "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-17T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years later, she&#8230;",
+    "title_zh": "下载：死去的机器人朋友与“审查工业复合体”",
+    "summary_zh": "本期 MIT Technology Review 通讯探讨两个话题：儿童机器人伴侣 Moxie 停止服务后对儿童的心理影响，以及“审查工业复合体”的兴起。",
+    "key_points": [
+      "儿童机器人 Moxie 停服引发对儿童情感影响的讨论",
+      "报道分析“审查工业复合体”的兴起与运作",
+      "涵盖技术伦理与社会治理两大前沿议题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
