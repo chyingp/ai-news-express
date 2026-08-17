@@ -430,5 +430,99 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8c2d4f1c6b1aa000a91f1197afb85205",
+    "title": "Looking for the name of an old ai app",
+    "url": "https://www.reddit.com/r/artificial/comments/1vr7dkg/looking_for_the_name_of_an_old_ai_app/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-17T22:44:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Around 2021/2022 time, you could customise your ai character they were kinda 3d like the sims and you could chat to them like in c.ai , anyone know what it was called?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/adorable_k1ttenn\"> /u/adorable_k1ttenn </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vr7dkg/looking_for",
+    "title_zh": "寻找一款旧AI应用的名字",
+    "summary_zh": "一位Reddit用户发帖寻找一款2021/2022年左右的AI应用，该应用允许用户自定义类似《模拟人生》风格的3D角色并进行聊天。",
+    "key_points": [
+      "用户寻找一款可自定义3D角色并聊天的旧AI应用",
+      "该应用风格类似《模拟人生》，活跃于2021/2022年"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5404e7c1efc2e3d22aab512783cafee0",
+    "title": "trying to build a solid math library for stats/ML/DL, need a sanity check on my picks[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vr76lf/trying_to_build_a_solid_math_library_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-17T22:36:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>engineering student here, decent calc and linear algebra background from continuum mechanics coursework, already comfortable with ML basics through transformers and modern architectures. want to go deep on the actual math now, not just intuition videos, real derivations, and books that build from intuition up to advanced stuff. big thing for me is actually seeing how the math applies inside the models, not just abstract theory sitting next to it. most modern mod",
+    "title_zh": "寻求构建统计/机器学习/深度学习数学库的建议",
+    "summary_zh": "一名工程专业学生在Reddit发帖，希望为深入学习统计、机器学习和深度学习的数学基础构建一个扎实的数学库，并寻求社区对其选择的验证。",
+    "key_points": [
+      "工程学生寻求构建数学库以深入学习ML/DL背后的数学",
+      "帖子旨在获取社区对学习资料选择的反馈"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "02fb63ceea413c8c785d821ca7adeb03",
+    "title": "Strongest candidates for an AI Microchip moment",
+    "url": "https://www.reddit.com/r/artificial/comments/1vr6x5j/strongest_candidates_for_an_ai_microchip_moment/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-17T22:25:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am curious about all these data centers being built. What are the chances AI can have a microchip moment potentially rendering them all useless?</p> <p>This could be a black swan event that could wipe out a lot of investment and potentially destroy some very large businesses.</p> <p>If this is possible, what are the mostly likely candidates?</p> <p>In particular, I am interested in hearing from anyone who may be working on one of these candidates, even if it i",
+    "title_zh": "AI领域最有可能出现“芯片时刻”的候选者",
+    "summary_zh": "一篇Reddit讨论帖，探讨AI领域是否可能发生类似微芯片颠覆传统计算的“芯片时刻”，导致大量数据中心投资变得无用，并分析其潜在影响。",
+    "key_points": [
+      "讨论AI领域可能发生的颠覆性技术突破",
+      "分析此类突破可能使现有数据中心投资失效的风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c918f006d4a7b019c62f88e651e0ca14",
+    "title": "A week after OpenAI paused a cyber-capable model, two labs shipped one anyway, through opposite doors",
+    "url": "https://www.reddit.com/r/artificial/comments/1vr6wje/a_week_after_openai_paused_a_cybercapable_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-17T22:24:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Rounding up a genuinely heavy week. The throughline: last issue OpenAI paused internal work on a model it couldn't rule out was cyber-capable. This week the capability shipped anyway, two different ways. </p> <p>**OpenAI GPT-5.6 Cyber** (Aug 10): a security-specialized model gated behind a &quot;Daybreak Red&quot; tier. OpenAI's own eval has it answering 95% of offensive-security requests the standard model refuses 98.5% of the time. Access stays with 16 named p",
+    "title_zh": "OpenAI暂停后一周，两家实验室从不同途径发布了网络能力模型",
+    "summary_zh": "文章回顾了OpenAI因安全顾虑暂停内部网络能力模型工作一周后，仍有其他两家实验室通过不同方式发布了具备类似网络能力的模型。",
+    "key_points": [
+      "OpenAI因无法排除风险而暂停了内部网络能力模型",
+      "本周有两家实验室通过不同途径发布了类似模型"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
