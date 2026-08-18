@@ -346,5 +346,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "38269b8f7f4f379576a651024456e017",
+    "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T22:14:25+00:00",
+    "content_snippet": "Cursor, known for its AI Code Editor, is launching a new code hosting platform to rival developers' long preferred favorite, Github.",
+    "title_zh": "Cursor 利用开发者对 GitHub 的不满，推出竞争性代码托管平台",
+    "summary_zh": "以 AI 代码编辑器闻名的 Cursor 公司，宣布推出新的代码托管平台，意图挑战开发者长期偏好的 GitHub，并利用近期开发者对 GitHub 变化的不满情绪吸引用户。",
+    "key_points": [
+      "Cursor 推出新代码托管平台，直接与 GitHub 竞争",
+      "此举旨在利用部分开发者对 GitHub 近期变化的不满情绪",
+      "Cursor 此前以 AI 代码编辑器为主要产品"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "17b78a4ce6e2146bc4e26fb59ae8f6c9",
+    "title": "Military Use Cases",
+    "url": "https://www.reddit.com/r/artificial/comments/1vs3g2k/military_use_cases/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-18T22:01:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Maybe this is a dumb question, but I keep hearing of this supposed line in the sand where “handing over military decisions” to AI is something we don’t want to do. Like we always want a human pulling the trigger when it’s all said and done. So maybe I’m misunderstanding how this works, but isn’t that the exact sort of thing you’d hope to <em>remove</em> humans in the loop from? Let’s say it’s a fighter jet — is the human rocketing at almost 2G’s fighting tunnel ",
+    "title_zh": "关于 AI 军事应用决策权的讨论",
+    "summary_zh": "Reddit 用户发帖探讨 AI 军事应用中的一条假定红线，即不愿将军事决策权完全交给 AI，希望始终由人类掌控最终扳机，质疑这一假设是否合理。",
+    "key_points": [
+      "探讨将军事决策权完全交给 AI 的伦理与安全边界",
+      "讨论是否应始终保留人类对最终攻击决定的控制权",
+      "该话题源于对 AI 军事应用现状的观察与疑问"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cce02fa43f7b2671dbe75e4906383215",
+    "title": "I built pagedMark to remove AI provenance from images and video you generated yourself",
+    "url": "https://www.reddit.com/r/artificial/comments/1vs36xw/i_built_pagedmark_to_remove_ai_provenance_from/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-18T21:51:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The important distinction is that AI provenance can exist in two forms.</p> <p>First, there is metadata like C2PA, EXIF, XMP, IPTC and generator parameters. That part is easy to remove.</p> <p>Second, there are invisible marks embedded directly into the pixels, such as SynthID style watermarks. A screenshot does not reliably remove those. pagedMark deals with them by regenerating the image.</p> <p>The output is therefore not identical to the original. Faces, tex",
+    "title_zh": "开发者推出 pagedMark 工具，用于移除自生成 AI 图像的溯源信息",
+    "summary_zh": "Reddit 用户发布了一款名为 pagedMark 的工具，声称可以移除自己生成的 AI 图像和视频中的溯源信息，包括元数据和水印，以增强隐私保护。",
+    "key_points": [
+      "pagedMark 可清除 AI 生成内容的元数据（如 C2PA）",
+      "该工具也能移除嵌入像素的隐形水印标记",
+      "旨在帮助用户移除自己生成内容的 AI 溯源信息"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "243daf8aaf6a4e948e55b27ebedb5dd2",
+    "title": "At what point does AI automation actually save time instead of creating more work?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vs2zmc/at_what_point_does_ai_automation_actually_save/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-18T21:43:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've started wondering about this because sometimes I’m not sure whether I’m automating a task or just creating another task for myself.</p> <p>Set up the workflow. Connect everything. Fix it when something goes wrong. Check what it did. Then check it again because you don't fully trust it yet.</p> <p>At that point, I’m thinking... was this actually faster?</p> <p>Maybe I'm looking at it the wrong way, but I feel like there's a big difference between AI doing so",
+    "title_zh": "AI 自动化在何时才能真正节省时间，而非制造更多工作？",
+    "summary_zh": "Reddit 用户反思 AI 自动化的效率问题，指出设置、维护和反复检查自动化流程的过程有时会演变成新的工作负担，而非节省时间。",
+    "key_points": [
+      "AI 自动化流程的搭建、维护和纠错可能消耗大量时间",
+      "用户质疑自动化是否只是将一项任务替换为另一项管理工作",
+      "讨论了自动化实践中效率收益与额外工作负担的平衡点"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
