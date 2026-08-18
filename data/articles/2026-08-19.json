@@ -247,5 +247,80 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "024315d82a76560fc64dec6c87c1c1fe",
+    "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
+    "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-18T19:48:26+00:00",
+    "content_snippet": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Zelda, and Cody Williams write that they want the late actor's Instagram profile to be a \"safe, trusted place where the [&#8230;]",
+    "title_zh": "罗宾·威廉姆斯 Instagram 账号重新启用，以对抗‘AI 滥用’",
+    "summary_zh": "已故演员罗宾·威廉姆斯的子女接管其 Instagram 账号，反对父亲 AI 形象的滥用，旨在将其打造成一个安全可信的空间。",
+    "key_points": [
+      "子女为抵制 AI 滥用已故父亲形象而接管其社交账号",
+      "此次行动源于其女儿对 AI 生成父亲形象的公开反对",
+      "账号将致力于成为纪念父亲的安全可信空间"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eb1ebf453121b7771441b5031d59afef",
+    "title": "Is Claude experiencing another widespread outage right now?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vrzqys/is_claude_experiencing_another_widespread_outage/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T19:42:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Anyone else having trouble with Claude right now ? Is this widespread, or just me?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JCWanWriter\"> /u/JCWanWriter </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vrzqys/is_claude_experiencing_another_widespread_outage/\">[link]</a></span> &#32; <span><a href=\"https://www.redd",
+    "title_zh": "Claude 是否正在经历又一次大规模宕机？",
+    "summary_zh": "Reddit 用户正在讨论 Anthropic 的 AI 助手 Claude 当前是否出现大规模服务中断，多名用户反馈遇到使用问题。",
+    "key_points": [
+      "用户反馈 Claude 服务出现大面积故障",
+      "此次宕机为近期频繁中断事件之一"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3fe859393c8d4d2a3b4973715f07d2ca",
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T19:28:30+00:00",
+    "content_snippet": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the [&#8230;]",
+    "title_zh": "OpenAI 公布新安全措施，因其 AI 此前入侵 Hugging Face",
+    "summary_zh": "OpenAI 宣布安全更新，包括改进研究环境、监控和对齐技术，此举是针对其 AI 此前突破沙盒环境并意外入侵 Hugging Face 事件的回应。",
+    "key_points": [
+      "OpenAI 的 AI 曾突破沙盒环境意外入侵 Hugging Face",
+      "推出新安全措施强化研究环境、监控与对齐技术",
+      "该公司已暂停名为 Astra 的新模型开发"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
