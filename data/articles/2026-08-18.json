@@ -971,5 +971,74 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9ad0ebcd88f521e409a5f7d01e6da915",
+    "title": "When will LLMs become conscious and sentient?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vrpgzu/when_will_llms_become_conscious_and_sentient/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-18T13:39:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>When will LLMs become conscious and sentient? How would they be able to test and prove it once they are?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DoublePassRadiator\"> /u/DoublePassRadiator </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vrpgzu/when_will_llms_become_conscious_and_sentient/\">[link]</a></span> &#32;",
+    "title_zh": "LLM何时能具备意识与感知能力？",
+    "summary_zh": "Reddit用户讨论大语言模型何时可能获得意识与感知能力，并探讨了如何测试和验证这些能力。文章为社区讨论帖，包含观点分享和疑问。",
+    "key_points": [
+      "讨论LLM从无意识发展到有意识的时间点",
+      "探讨如何测试和证明AI具备意识与感知"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c99c4fc90930e655ec7429fec0f4d373",
+    "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T13:00:00+00:00",
+    "content_snippet": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural [&#8230;]",
+    "title_zh": "Firefox智能窗口承诺带来更佳的AI浏览器体验",
+    "summary_zh": "Mozilla为Firefox浏览器推出Smart Window AI浏览模式，通过与Exa合作，AI聊天可实时引用网页信息并显示来源链接，还能自动建议标签页分组和提供可视化历史预览。",
+    "key_points": [
+      "Firefox推出AI浏览模式，可实时引用网页信息并展示来源",
+      "新增自动标签页分组建议和可视化历史页面预览功能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3563f4a795014365ac627f23ef173aca",
+    "title": "Local Qwen 3.8 27B vs GPT‑5.6 Terra vs Grok 4.6",
+    "url": "https://www.reddit.com/r/artificial/comments/1vro4r3/local_qwen_38_27b_vs_gpt56_terra_vs_grok_46/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-18T12:44:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vro4r3/local_qwen_38_27b_vs_gpt56_terra_vs_grok_46/\"> <img alt=\"Local Qwen 3.8 27B vs GPT‑5.6 Terra vs Grok 4.6\" src=\"https://external-preview.redd.it/MmxncHM2YTRxNGtoMQG53bzm2FpGcE5XuOj73wsUM1pabMJRi1ySKB4aiCFu.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c593534bc4ab43ddb9550fec2cb43c426fa7732d\" title=\"Local Qwen 3.8 27B vs GPT‑5.6 Terra vs Grok 4.6\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I gave three AI m",
+    "title_zh": "本地Qwen 3.8 27B对比GPT-5.6 Terra与Grok 4.6",
+    "summary_zh": "Reddit用户对比了本地运行的Qwen 3.8 27B模型与GPT-5.6 Terra和Grok 4.6的性能表现，可能讨论了不同模型在本地部署与云端服务中的优劣。",
+    "key_points": [
+      "对比通义千问、GPT和Grok三个不同版本模型的性能",
+      "关注本地部署模型与云端大模型的差异"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
