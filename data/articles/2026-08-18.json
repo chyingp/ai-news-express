@@ -947,5 +947,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "09bcb622f42ceed9c81b37ad005a02ae",
+    "title": "The result looked unusually strong. The clean re-split killed it.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vrnv4s/the_result_looked_unusually_strong_the_clean/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-18T12:32:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The part of this paper I trust most is the failure it chose to show.<br /> AQuA’s Appendix B describes an earlier feature that divided intraday volume by the current day’s total volume. The wording sounded backward-looking, so an author agent proposed it and a reviewer agent approved it, even though the denominator included later bars.<br /> The suspicious feature then produced held-out IC far above comparable price-volume features. It failed a clean re-split, a",
+    "title_zh": "结果异常强劲，但干净的数据重分割使其失效",
+    "summary_zh": "一篇Reddit讨论指出，某篇论文中看似强劲的结果可能是由数据泄露造成的。论文附录提及一个早期特征用当日总成交量除以日内成交量，这种未来信息的使用导致了过强的结果，而干净的数据重分割方法消除了这种虚假表现。",
+    "key_points": [
+      "论文附录揭示早期特征使用了未来信息（当日总成交量）",
+      "该特征导致了异常强劲但虚假的结果",
+      "采用干净的数据重分割方法后，原有强劲表现消失"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
