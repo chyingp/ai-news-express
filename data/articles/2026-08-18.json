@@ -869,5 +869,83 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b0bd1f948cf02d486c81e99e6c7ef140",
+    "title": "Anthropic Is Watermarking AI Text at a $65B Run Rate: 2026 Is the Year AI Goes Regulatory and Agentic",
+    "url": "https://www.reddit.com/r/artificial/comments/1vrnmc4/anthropic_is_watermarking_ai_text_at_a_65b_run/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-18T12:22:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Two signals this week show AI moving from raw capability to commercial and regulatory maturity. Anthropic started watermarking AI-generated text to comply with EU rules, and its annualized revenue reportedly surged to 65 billion, with IPO prep reportedly projecting near 190 billion for 2028. Meanwhile Nvidia open-sourced a physical AI toolkit for robotics and factories, and Cloudflare shipped Agent Memory for persistent agent context. Gartner now expects 40% of ",
+    "title_zh": "Anthropic 年化收入达 650 亿美元并添加文本水印，AI 迈向监管与代理之年",
+    "summary_zh": "Anthropic 开始为 AI 生成文本添加水印以遵守欧盟法规，同时其年化收入据称飙升至 650 亿美元，并筹备 IPO，标志着 AI 行业正从技术能力向商业和监管成熟度过渡。",
+    "key_points": [
+      "Anthropic 为 AI 文本添加水印以符合欧盟监管要求",
+      "公司年化收入达 650 亿美元，并启动 IPO 筹备",
+      "表明 AI 行业正转向商业化和监管合规新阶段"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ec7cbb3ceccb6b00200a5fa19cbb689c",
+    "title": "Google&#8217;s Pet Memory forgot who my cats are",
+    "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T12:01:29+00:00",
+    "content_snippet": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, [&#8230;]",
+    "title_zh": "谷歌宠物记忆功能失灵，认不出我的猫",
+    "summary_zh": "谷歌为 Gemini 在 Nest 摄像头推出的宠物记忆功能在实际使用中表现不佳，未能准确识别作者的宠物猫，导致用户错失重要通知，体验令人失望。",
+    "key_points": [
+      "谷歌 Gemini 宠物记忆功能无法正确识别用户宠物",
+      "该功能本意是帮助用户筛选重要通知，但未能实现",
+      "作者是智能家居深度用户，对功能缺陷感到失望"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "103e27ee585b45d926a198e2a7ca8069",
+    "title": "OpenAI just launched ChatGPT for Teens — are age-specific AI experiences becoming necessary?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vrmr64/openai_just_launched_chatgpt_for_teens_are/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T11:41:55+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vrmr64/openai_just_launched_chatgpt_for_teens_are/\"> <img alt=\"OpenAI just launched ChatGPT for Teens — are age-specific AI experiences becoming necessary?\" src=\"https://preview.redd.it/pivaqb00f4kh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=26662f28062cb724b9dfdcbd6dce0583b94e822f\" title=\"OpenAI just launched ChatGPT for Teens — are age-specific AI experiences becoming necessary?\" /> </a> </td><td> <!-- SC_OFF --><d",
+    "title_zh": "OpenAI 推出青少年版 ChatGPT，年龄专属 AI 体验是否必要？",
+    "summary_zh": "OpenAI 发布了专为青少年设计的 ChatGPT 版本，旨在提供更安全、更适合的 AI 交互体验，引发了对是否需要为不同年龄段定制 AI 产品的讨论。",
+    "key_points": [
+      "OpenAI 推出面向青少年的 ChatGPT 版本",
+      "产品旨在提供更安全的 AI 交互体验",
+      "引发对年龄专属 AI 服务必要性的行业讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
