@@ -624,5 +624,30 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8b855118e64bdca1cdbecacd5ff25eb6",
+    "title": "Claude Fabe 5 composing a song in Muuic DAW",
+    "url": "https://www.reddit.com/r/artificial/comments/1vrip4a/claude_fabe_5_composing_a_song_in_muuic_daw/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T07:55:07+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vrip4a/claude_fabe_5_composing_a_song_in_muuic_daw/\"> <img alt=\"Claude Fabe 5 composing a song in Muuic DAW\" src=\"https://external-preview.redd.it/cjA4eDJ3M2hhM2toMez37u98PPXvjxL-Vo_7488FfqmeoD-CM-ZFRjegzJJy.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=067494e0a66e4789f8f4e5860c8139e1b49b4d22\" title=\"Claude Fabe 5 composing a song in Muuic DAW\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/us",
+    "title_zh": "Claude Fabe 5 在 Muuic DAW 中创作歌曲",
+    "summary_zh": "Reddit 用户分享了一段视频，展示 Claude Fabe 5 模型在 Muuic DAW 数字音频工作站中创作歌曲的过程，体现了 AI 在音乐生成领域的应用。",
+    "key_points": [
+      "展示 Claude 模型在 Muuic DAW 中创作音乐的过程",
+      "体现 AI 在音乐生成领域的实际应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
