@@ -1162,5 +1162,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f20c862aa71cdf85bf4644415980ae8f",
+    "title": "ChatGPT for teens: OpenAI launches new age-appropriate bot. Here’s what parents should know",
+    "url": "https://www.reddit.com/r/artificial/comments/1vrrtvu/chatgpt_for_teens_openai_launches_new/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T15:07:08+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vrrtvu/chatgpt_for_teens_openai_launches_new/\"> <img alt=\"ChatGPT for teens: OpenAI launches new age-appropriate bot. Here’s what parents should know\" src=\"https://external-preview.redd.it/30b7_r3p7y3eXNfzEewzXsFEG-Ni2aKz-W1Y7YAybtM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec9421f1b77919ee71eeb0dd5e88bbd49048a910\" title=\"ChatGPT for teens: OpenAI launches new age-appropriate bot. Here’s what parents should know\" /> ",
+    "title_zh": "OpenAI 推出青少年版 ChatGPT，家长需知要点",
+    "summary_zh": "OpenAI 发布了一款专为青少年设计的 ChatGPT 版本，旨在提供适龄内容。新版本增加了额外的安全护栏和家长控制功能，以回应用户对未成年人使用 AI 的担忧。",
+    "key_points": [
+      "OpenAI 推出青少年定制版 ChatGPT，强调内容适龄性",
+      "新增安全护栏和家长控制功能，保障未成年人使用安全",
+      "此举旨在应对社会对 AI 影响未成年人的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
