@@ -524,5 +524,33 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "745e40136adead18fad867b8ff92aeee",
+    "title": "DeepSeek's Peak-Hour Pricing Betrays Where Its Users Really Live, Calming US Fears of a China AI Takeover, Even As Alibaba's Qwen Models Bury Meta On Hugging Face",
+    "url": "https://www.reddit.com/r/artificial/comments/1vrba1f/deepseeks_peakhour_pricing_betrays_where_its/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-18T01:32:39+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vrba1f/deepseeks_peakhour_pricing_betrays_where_its/\"> <img alt=\"DeepSeek's Peak-Hour Pricing Betrays Where Its Users Really Live, Calming US Fears of a China AI Takeover, Even As Alibaba's Qwen Models Bury Meta On Hugging Face\" src=\"https://external-preview.redd.it/QLWLAjCIKYg4vLEzkGw_79FJPQUC8JttYeT3HC2kdf4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=86afd1a7fd124fdc6d28e3ccd160643a558dddf2\" title=\"DeepSeek's Peak-Ho",
+    "title_zh": "DeepSeek高峰时段定价披露用户地理分布，缓解美国对中国AI主导担忧，同时阿里通义模型在Hugging Face上碾压Meta",
+    "summary_zh": "DeepSeek的高峰时段定价策略揭示了其用户主要位于亚洲时区，这一发现缓解了美国对中国AI接管全球市场的担忧。与此同时，阿里巴巴的通义千问模型在Hugging Face平台上的受欢迎程度和下载量显著超越Meta的Llama模型，显示了中国AI模型的开源竞争力。",
+    "key_points": [
+      "DeepSeek高峰定价暴露用户集中在亚洲时区，减轻美国对中国AI全球主导的焦虑",
+      "阿里通义千问模型在Hugging Face平台受欢迎度大幅超越Meta的Llama系列",
+      "中国AI模型虽在开源社区表现强劲，但用户地理分布显示其全球影响力有限"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "deepseek",
+      "alibaba",
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
