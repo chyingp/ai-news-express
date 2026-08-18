@@ -172,5 +172,80 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a01f37bb53942b9d3ddf7176ba7025cc",
+    "title": "The AI didn't get worse at coding. I got worse at explaining what I actually wanted.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vrys9i/the_ai_didnt_get_worse_at_coding_i_got_worse_at/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-18T19:08:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Noticed this after blaming a model for a string of bad outputs on a task I'd been running for weeks. Same model, same general request, quality visibly declining. Went back and compared my actual messages over that period instead of assuming model drift.</p> <p>Turned out I'd been getting lazier, not the model. Early requests spelled out constraints explicitly. Later ones assumed the model would infer them from earlier context, patterns established messages ago t",
+    "title_zh": "AI 编程能力没变差，是我描述需求的能力变差了",
+    "summary_zh": "一位 Reddit 用户通过对比历史消息发现，AI 模型输出质量下降并非模型本身退化，而是自己随着时间推移，对需求的描述变得不够清晰准确，导致模型产生不符合预期的结果。",
+    "key_points": [
+      "用户误以为 AI 编程模型质量下降，实为自身需求描述能力退化",
+      "通过对比数周内请求记录，发现是输入质量而非模型漂移导致输出变差"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4f39df6a0205868958f8271decfe5f74",
+    "title": "We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment. We care very deeply about AI safety. We believe the entire field will have to coordinate on shared safety standards, but will act unilaterally in the meantime. We expect confidence in safety to increasingly set the pace of AI progress. We are optimistic about the alignment work we are doing, and we remain committed to making frontier capabilities widely available. https://openai.com/index/pacing-model-development-cyber-capabilities/",
+    "url": "https://nitter.net/sama/status/2089787807611195475#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-18T18:53:34+00:00",
+    "content_snippet": "<p>We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.<br />\n<br />\nWe care very deeply about AI safety. We believe the entire field will have to coordinate on shared safety standards, but will act unilatera",
+    "title_zh": "OpenAI 暂停部分前沿强化学习训练，以应对安全对齐挑战",
+    "summary_zh": "Sam Altman 宣布 OpenAI 已暂停部分前沿强化学习训练，以确保模型的安全、对齐和监控标准能跟上快速发展的能力。他强调，对安全的信心将日益成为 AI 进展速度的决定性因素，并呼吁行业协调安全标准。",
+    "key_points": [
+      "OpenAI 因模型能力发展过快，主动暂停部分前沿强化学习训练",
+      "暂停目的是加强安全、对齐和监控，确保能力不超越安全标准",
+      "Altman 认为对安全的信心将决定 AI 发展速度，呼吁行业协调标准"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d4295b1b0eba2da0e98bd5790624b78f",
+    "title": "Pinned: we temporarily slowed scaling of our frontier training, including our largest planned frontier RL, to strengthen security and monitoring. we believe confidence in safety will increasingly set the pace of AI development:",
+    "url": "https://nitter.net/gdb/status/2089783608630284758#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-18T18:36:53+00:00",
+    "content_snippet": "<p>we temporarily slowed scaling of our frontier training, including our largest planned frontier RL, to strengthen security and monitoring. we believe confidence in safety will increasingly set the pace of AI development:</p>\n<hr />\n<blockquote>\n<b>OpenAI (@OpenAI)</b>\n<p>\n<p>As models become more capable, the risks associated with developing and testing them internally also grow.<br />\n<br />\nWe temporarily paused reinforcement learning (RL) training on our latest models intended for deploymen",
+    "title_zh": "OpenAI 联合创始人证实已放缓前沿训练规模以加强安全",
+    "summary_zh": "Greg Brockman 发帖证实，OpenAI 已暂时放缓了包括最大规模前沿强化学习在内的前沿训练扩展，旨在加强安全与监控。他认为，对安全的信心将日益成为 AI 发展的节奏控制者。",
+    "key_points": [
+      "Greg Brockman 确认已放缓包括最大规模前沿 RL 在内的训练规模",
+      "放缓目的是为了加强安全与监控措施",
+      "重申安全信心将日益成为 AI 发展速度的决定因素"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
