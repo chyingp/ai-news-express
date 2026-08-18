@@ -576,5 +576,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "852be98f5a32bed25c049a67d3ae5b1b",
+    "title": "Chinese AI models are getting good enough to replace tools I actually pay for-is anyone else switching?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vrhy7t/chinese_ai_models_are_getting_good_enough_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T07:11:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The cost calculus for small builders is shifting faster than I expected. A few months ago, using a cheaper Chinese model felt like a tradeoff: you saved money but got noticeably worse output. That gap is closing, and in some cases it has closed entirely. I've been running the same prompts through DeepSeek and a couple others against what I was using before, and the difference for practical tasks like summarizing customer feedback, drafting copy, and generating b",
+    "title_zh": "中国AI模型已足够好，我开始用它们替代付费工具，还有人也在换吗？",
+    "summary_zh": "一位小型开发者观察到，中国AI模型与付费工具的性能差距正迅速缩小甚至消失，成本优势使其成为极具吸引力的替代方案，改变了个人和团队的付费工具使用习惯。",
+    "key_points": [
+      "中国AI模型性能大幅提升，已接近或追平付费工具",
+      "成本优势正促使个人开发者放弃现有付费AI服务",
+      "性能差距的消失速度快于预期，使用体验不再妥协"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bb0c14a40762dbc8bf14423120b171ac",
+    "title": "Do enterprise AI projects actually fail because the AI isn't good enough?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vrhj8m/do_enterprise_ai_projects_actually_fail_because/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-18T06:47:41+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vrhj8m/do_enterprise_ai_projects_actually_fail_because/\"> <img alt=\"Do enterprise AI projects actually fail because the AI isn't good enough?\" src=\"https://preview.redd.it/j1005x9fy2kh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=99109ab5f92a1aedb322aef39816c2df29d5e6ae\" title=\"Do enterprise AI projects actually fail because the AI isn't good enough?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Lately I have sta",
+    "title_zh": "企业AI项目失败，真的是因为AI不够好吗？",
+    "summary_zh": "文章探讨企业AI项目失败的根本原因，质疑通常归咎于技术不成熟的说法，指出问题可能更多出在组织适配、数据基础、流程改造等非技术因素上。",
+    "key_points": [
+      "企业AI项目失败常被归咎于技术，但实际原因可能更复杂",
+      "组织适配、数据质量和流程变革等非技术因素或是关键",
+      "单纯追求模型性能提升未必能解决企业落地难题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
