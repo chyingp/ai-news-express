@@ -45,5 +45,106 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7252208b6ca6564f399df04a79d4cae5",
+    "title": "Google buys crashed airline Spirit’s data at auction, because AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1vrvsw4/google_buys_crashed_airline_spirits_data_at/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T17:24:01+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NISMO1968\"> /u/NISMO1968 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1vrvsw4/google_buys_crashed_airline_spirits_data_at/\">[comments]</a></span>",
+    "title_zh": "谷歌在拍卖会上购得已破产航空公司Spirit的数据，目的为AI",
+    "summary_zh": "谷歌在拍卖中收购了已破产的廉价航空公司Spirit的数据资产，此举旨在利用这些数据训练和增强其人工智能模型，引发对数据隐私和使用的关注。",
+    "key_points": [
+      "谷歌通过拍卖获得破产航空公司Spirit的数据用于AI训练",
+      "此举凸显科技巨头对专有数据来源的渴求",
+      "数据隐私和后续使用方式引发外界讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "506ef6f4e04268f7231b47f7b5ae18b5",
+    "title": "Etched’s valuation doubles to $21B in a month",
+    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-18T17:21:58+00:00",
+    "content_snippet": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+    "title_zh": "AI芯片公司Etched估值一个月内翻倍至210亿美元",
+    "summary_zh": "AI芯片初创公司Etched宣布，在简街资本安装其首个AI集群系统后印象深刻，并领投新一轮融资，使其估值在一个月内从约100亿美元飙升至210亿美元。",
+    "key_points": [
+      "简街资本安装并使用Etched的AI芯片后追加投资",
+      "Etched估值在短短一个月内从约100亿翻倍至210亿美元",
+      "新融资将用于加速其专用AI推理芯片的生产和部署"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "41b7a15aac4ae26a4c602fd30f1b8cb1",
+    "title": "Has your own reasoning gotten weaker since you started using LLMs regularly?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vrv8z1/has_your_own_reasoning_gotten_weaker_since_you/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-18T17:04:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Since using LLMs daily I notice that the moment I know a model is available, I offload the effortful part: breaking down the problem, building the argument, phrasing it. When I work without one, it is harder than it should be.</p> <p>Two studies point the same way. MIT Media Lab (Kosmyna et al. 2025) found reduced EEG connectivity, worse recall of one's own text and lower sense of ownership under LLM-assisted essay writing. Gerlich (2025, Societies) found a nega",
+    "title_zh": "自从定期使用大语言模型后，你自己的推理能力变弱了吗？",
+    "summary_zh": "Reddit用户讨论日常使用大语言模型是否导致个人推理能力下降，指出当知道模型可用时，会不自觉地将分解问题、构建论证等费脑工作外包给AI，感觉不使用时更吃力。",
+    "key_points": [
+      "用户反映长期依赖LLM会导致自主推理和问题分解能力下降",
+      "讨论引用两项研究，表明过度依赖AI可能削弱认知能力",
+      "引发关于AI工具对人类思维长期影响的社区反思"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b0540684efa418c91d0e77d84731bf74",
+    "title": "excited to work together on this. thank you jensen!",
+    "url": "https://nitter.net/sama/status/2089758522678657212#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T16:57:12+00:00",
+    "content_snippet": "<p>excited to work together on this. thank you jensen!</p>\n<hr />\n<blockquote>\n<b>Jensen Huang (@JensenHuang)</b>\n<p>\n<hr />\n<b>Article</b><br />\n<a href=\"https://nitter.net/i/article/2089331487342829862\">\n<img src=\"https://nitter.net/pic/media%2FHP7LcKmaQAAo4tT.jpg\" />\n<br />\n<b>Securing the Infrastructure of Intelligence</b>\n</a>\n<p>Land, power and shell: The next critical resource for AI factories.\n\nAI factories are the defining infrastructure of the AI era—where compute transforms energy and",
+    "title_zh": "很高兴能一起合作，谢谢你黄仁勋！",
+    "summary_zh": "OpenAI CEO萨姆·奥尔特曼转发英伟达CEO黄仁勋关于保障AI基础设施的文章，并表达对合作的兴奋和感谢，暗示两家公司将在AI基础设施方面展开深度合作。",
+    "key_points": [
+      "奥尔特曼公开回应黄仁勋，表达对双方合作的兴奋",
+      "英伟达将助力OpenAI保障其AI基础设施",
+      "此举标志着两大AI巨头在算力层面的合作进一步深化"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
