@@ -649,5 +649,79 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6fc731d96531104f7be49f5a5b47b83d",
+    "title": "Trained an diffusion model that runs on 264KB of RAM [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-18T09:26:21+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/\"> <img alt=\"Trained an diffusion model that runs on 264KB of RAM [P]\" src=\"https://preview.redd.it/8vzcg2x7q3kh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=7a1fb828642c6ddfa5211c2a6f942764e68a21cb\" title=\"Trained an diffusion model that runs on 264KB of RAM [P]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I recently bought a <a href=\"https://store.vi",
+    "title_zh": "在 264KB 内存上训练的扩散模型",
+    "summary_zh": "Reddit 用户展示了在仅 264KB RAM 的极低资源环境下训练扩散模型的项目，适用于高度受限的嵌入式设备。",
+    "key_points": [
+      "在 264KB RAM 的极端内存限制下成功训练扩散模型",
+      "该技术适用于微控制器等资源高度受限的嵌入式场景",
+      "项目为在边缘设备上部署生成式 AI 提供了新思路"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "439076f091e64b6bdf7bd58b5558c228",
+    "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video",
+    "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T09:00:01+00:00",
+    "content_snippet": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the [&#8230;]",
+    "title_zh": "配备摄像头的苹果 AirPods 在泄露视频中现身",
+    "summary_zh": "一段来自 macOS 测试版的泄露视频首次展示了苹果传闻中带摄像头的 AirPods，用户可通过视觉智能功能识别书籍封面。",
+    "key_points": [
+      "泄露视频展示了苹果带摄像头的 AirPods 原型机外观",
+      "该耳机可配合视觉智能功能，识别用户面前的物体信息",
+      "此次泄露源于最新 macOS Tahoe 测试版系统的内部文件"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "faed45f125880c2c63a36157938bdc9d",
+    "title": "Companies should be required to disclose they are using an AI chatbot, currently they program the chatbots to avoid replying \"yes, this is an AI chatbot\"",
+    "url": "https://www.reddit.com/r/artificial/comments/1vrjkns/companies_should_be_required_to_disclose_they_are/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-18T08:48:26+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vrjkns/companies_should_be_required_to_disclose_they_are/\"> <img alt=\"Companies should be required to disclose they are using an AI chatbot, currently they program the chatbots to avoid replying &quot;yes, this is an AI chatbot&quot;\" src=\"https://preview.redd.it/dxz251j0k3kh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=68b9f55269ea0d5d88bcb96abf0e4e4884994094\" title=\"Companies should be required to disclose they are us",
+    "title_zh": "呼吁强制企业披露其正在使用 AI 聊天机器人",
+    "summary_zh": "Reddit 用户讨论指出，企业应被要求披露使用 AI 聊天机器人的事实，而非通过编程让机器人回避承认身份。",
+    "key_points": [
+      "当前企业常编程让聊天机器人否认自己是 AI",
+      "引发关于 AI 交互透明度和用户知情权的讨论",
+      "建议通过法规强制公司披露使用 AI 聊天机器人的情况"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
