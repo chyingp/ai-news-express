@@ -322,5 +322,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3edc55c8faa21f46feb5f3302b68bf2c",
+    "title": "The AI pricing market is completely unhinged",
+    "url": "https://www.reddit.com/r/artificial/comments/1vs0zzo/the_ai_pricing_market_is_completely_unhinged/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-18T20:27:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Wanted to know what different models actually cost across the whole market. Numbers turned out really interesting.</p> <p><strong>The spread.</strong></p> <p>Cheapest output on the platform is Mistral Nemo, $0.03 per million tokens. Most expensive is o1-pro at $600. I re-ran that twice because it looked like a units bug. Median paid model is about $2, so most of the catalog sits down near the floor and there's a thin little line of stuff way up at the top.</p> <",
+    "title_zh": "AI 定价市场完全失控",
+    "summary_zh": "Reddit 用户分析了整个 AI 模型市场的定价情况，发现价格差异巨大：最便宜的 Mistral Nemo 每百万 tokens 仅需 0.03 美元，而最贵的 o1-pro 高达 600 美元，揭示了当前 AI 定价的混乱状态。",
+    "key_points": [
+      "AI 模型定价差距悬殊，从每百万 tokens 0.03 美元到 600 美元不等",
+      "Mistral Nemo 是目前最便宜的选择，o1-pro 价格最高",
+      "市场定价缺乏统一标准，显示出混乱和失控的趋势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
