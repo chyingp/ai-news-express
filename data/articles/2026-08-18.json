@@ -771,5 +771,103 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8e365c2bc3dddaf13c17d563287e7fe1",
+    "title": "Elon Musk made flying even worse so Palantir could profit",
+    "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-18T11:00:00+00:00",
+    "content_snippet": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal [&#8230;]",
+    "title_zh": "马斯克让飞行体验更糟，只为Palantir牟利",
+    "summary_zh": "文章指责伊隆·马斯克的行为导致美国明尼阿波利斯空管中心发生两小时雷达和通信中断，影响超过1100架次航班，并可能使Palantir公司从中获利。",
+    "key_points": [
+      "明尼阿波利斯空管中心中断两小时，影响1100多架航班",
+      "文章将事故归咎于马斯克，并暗示Palantir可能因此获利"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "beb2473cc8f36c9be25fb59f1085a374",
+    "title": "ChatGPT is getting a dedicated mode for teens",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T11:00:00+00:00",
+    "content_snippet": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens is \"an experience designed to help teens [&#8230;]",
+    "title_zh": "ChatGPT即将推出专门的青少年模式",
+    "summary_zh": "OpenAI为青少年用户推出专属ChatGPT模式，整合了现有的青少年保护措施和新的安全功能，以应对公众对AI工具影响年轻用户的日益关注。",
+    "key_points": [
+      "OpenAI推出整合性青少年模式，强化安全保护",
+      "此举旨在应对AI对青少年影响的公众审查压力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f7788bfa76bccfc8ddc73ebf3c2c07e9",
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T11:00:00+00:00",
+    "content_snippet": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+    "title_zh": "与CodeAI合作，培养首代AI人才",
+    "summary_zh": "OpenAI与CodeAI建立合作伙伴关系，旨在帮助学生培养AI素养、批判性思考AI的能力，并掌握负责任地使用和塑造AI的技能。",
+    "key_points": [
+      "OpenAI与CodeAI合作提升学生AI素养",
+      "合作重点在于培养批判性思维和负责任使用AI"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d2f9414bcd09423d774f40949435008c",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "url": "https://openai.com/index/introducing-chatgpt-for-teens",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-18T11:00:00+00:00",
+    "content_snippet": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "title_zh": "推出青少年版ChatGPT：为学习而生，受保护护航",
+    "summary_zh": "OpenAI正式推出青少年版ChatGPT，该版本拥有更强大的内置保护措施、健康使用功能以及家长控制选项，旨在帮助青少年安全自信地学习和使用AI。",
+    "key_points": [
+      "青少年版ChatGPT内置更强保护与家长控制",
+      "产品旨在帮助青少年安全、自信地学习并使用AI"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
