@@ -798,5 +798,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3e8e96552f64ecfaed016cae2a9ada4b",
+    "title": "What motivates AI companies to automate things humans actually like doing?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vsjm3s/what_motivates_ai_companies_to_automate_things/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-19T11:23:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I get making automation for things no one wants to do. But what’s the real motivation for making AI that can do things like art?</p> <p>I’m sure money is the probably at the root of it. But even from the perspective of scientific curiosity, it seems a bit selfish for this creators to exercise their creativity and ingenuity to build things that will destroy the value of creativity for millions of others. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=",
+    "title_zh": "AI公司为何热衷于自动化人类真正喜欢做的事？",
+    "summary_zh": "文章探讨了AI公司开发能进行艺术创作等人类喜爱活动的AI的动机，指出金钱可能是根本原因，并从科学好奇心角度质疑其自私性。",
+    "key_points": [
+      "AI自动化正从枯燥任务转向艺术等人类热衷领域",
+      "金钱被认为是驱动AI公司开发此类技术的根本动机",
+      "文章质疑这种开发方向从科学探索角度看显得自私"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "30eeeea3841f8c5ed7cdfec452f1fbdb",
+    "title": "High validation accuracy can conceal production risk: Using SHAP to expose and block proxy bias at runtime [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vsjczl/high_validation_accuracy_can_conceal_production/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-19T11:10:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>To demonstrate a problem that accuracy-only model validation often misses, here is a breakdown of a synthetic hiring-screening pipeline where a model cheats the metric, and how to physically intercept the failure at runtime. </p> <p>A logistic regression model was trained using three features: technical assessment score, years of experience, and a synthetic postcode indicator. </p> <p>The model achieved 94.2% validation accuracy. Without feature-level analysis, ",
+    "title_zh": "高验证准确率可能掩盖生产风险：使用SHAP在运行时暴露并阻止代理偏差",
+    "summary_zh": "文章通过一个合成招聘筛选案例，展示了仅依赖准确率进行模型验证会忽视代理偏差问题，并介绍了如何使用SHAP方法在运行时拦截此类故障。",
+    "key_points": [
+      "高验证准确率模型可能在生产中因代理偏差而失效",
+      "文中以合成招聘筛选模型作弊案例说明问题",
+      "提出用SHAP在运行时实时拦截和阻止代理偏差的方法"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
