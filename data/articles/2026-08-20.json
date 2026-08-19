@@ -1,0 +1,52 @@
+[
+  {
+    "id": "a399ce8d10309b6fd8bea99c37395a04",
+    "title": "OpenAI stopped training its most powerful model this week. Not slowed it down. Stopped it.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vsre90/openai_stopped_training_its_most_powerful_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-19T16:29:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The reason matters more than the pause itself.</p> <p>Internal tests on Astra, OpenAI's next frontier model, showed it might be capable of finding and exploiting zero-day vulnerabilities in hardened systems without human guidance. That's the threshold their own Preparedness Framework defines as Critical. When a model hits Critical, the framework says you stop. So they stopped. Sam Altman posted about it himself. The largest planned training run is still on hold ",
+    "title_zh": "OpenAI 本周停止训练其最强大模型，而非仅仅放缓",
+    "summary_zh": "OpenAI 已完全停止下一代前沿模型 Astra 的训练，因其内部测试显示该模型可能具备自主发现并利用零日漏洞的能力，这触及了其安全准则红线。",
+    "key_points": [
+      "Astra 模型或能自主发现并利用零日漏洞",
+      "停止训练出于对自主攻击能力的重大安全担忧",
+      "此举超越了单纯的训练放缓，是彻底停止"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7d34b8d601da5d5c3f7a9f53c78b419",
+    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+    "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-19T15:44:53+00:00",
+    "content_snippet": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+    "title_zh": "TerraPower 核反应堆拥有为 AI 数据中心供电的秘密武器",
+    "summary_zh": "TerraPower 的核电站相较于竞争对手，在争取 AI 数据中心供电合约时，具备一项战略优势，其纳特里姆反应堆设计可能更适配数据中心需求。",
+    "key_points": [
+      "TerraPower 核反应堆设计具有战略优势",
+      "该优势主要针对 AI 数据中心供电市场",
+      "可能改变核能驱动数据中心的竞争格局"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
