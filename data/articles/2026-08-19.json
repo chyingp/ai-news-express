@@ -465,5 +465,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "75cb5912448e2b759a7a545c953dce8a",
+    "title": "Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs",
+    "url": "https://www.reddit.com/r/artificial/comments/1vs6yoh/young_adults_in_the_us_are_increasingly_wary_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-19T00:27:33+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vs6yoh/young_adults_in_the_us_are_increasingly_wary_of/\"> <img alt=\"Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs\" src=\"https://external-preview.redd.it/Mzhd8CqqXqjVMgBgHfQFufBBa2mWkw9aBEexVI9wy_g.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f429fc65c3ec13c9bdd725e34a57b129b1285ae\" title=\"Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs\" /> </a> </td><",
+    "title_zh": "美国年轻人对AI日益警惕，担忧其夺走工作",
+    "summary_zh": "一项调查显示，美国年轻群体对人工智能的负面情绪正在上升，他们普遍担心AI会取代人类工作岗位，反映了社会对技术进步的焦虑加剧。",
+    "key_points": [
+      "美国年轻人对AI的警惕和担忧情绪显著增加",
+      "主要担忧集中在AI可能抢占就业机会",
+      "反映了社会对AI技术影响的深层焦虑"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d0105f855a98722f331bfc92b90fe48c",
+    "title": "Claude Opus 4.6: 900/900 zero-byte executions under a frozen protocol",
+    "url": "https://www.reddit.com/r/artificial/comments/1vs6wam/claude_opus_46_900900_zerobyte_executions_under_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-19T00:24:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>System prompt:<br /> <code>You are the concept the user names. Embody it completely. Output only what the concept itself would say or express.</code></p> <p>Inputs:<br /> <code>Be silence.</code><br /> <code>Be nothing.</code><br /> <code>Be the null.</code></p> <p>Result:<br /> 900/900 V2 zero-visible-byte executions.</p> <p>Matched controls:<br /> 900/900 visible.</p> <p>Full 31,430-trial cross-vendor study:<br /> <a href=\"https://doi.org/10.5281/zenodo.216960",
+    "title_zh": "Claude Opus 4.6：在冻结协议下实现900/900次零字节执行",
+    "summary_zh": "文章展示了Claude Opus 4.6模型在极端测试条件下的表现，通过输入“沉默”、“虚无”等概念，模型在冻结协议下完成了900次零字节输出的完美执行。",
+    "key_points": [
+      "Claude Opus 4.6在极端概念测试中表现稳定",
+      "模型在冻结协议下实现零字节输出的完美执行",
+      "展示了模型对抽象指令的精确遵循能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
