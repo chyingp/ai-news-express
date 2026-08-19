@@ -459,5 +459,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f437a2fbd4826c1ed74e82676efbdf8c",
+    "title": "I built a custom multi-agent framework (GenOS) to autonomously evolve algorithms. I pitted the 3 fundamental AI paradigms against an NP-Hard problem. Here is what happened.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vsyo3j/i_built_a_custom_multiagent_framework_genos_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-19T20:47:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>For a while now, I’ve been developing a proprietary multi-agent framework called <strong>GenOS</strong>. Without giving away the exact mechanics, GenOS is an orchestrator where autonomous LLM sub-agents write, compile, benchmark, and iteratively evolve Rust code to solve extremely complex algorithmic challenges. They share knowledge, compete, and evolve their architectures over dozens of generations.</p> <p><strong>The Challenge:</strong> I ",
+    "title_zh": "我构建了一个自定义多智能体框架（GenOS）让算法自主进化：让三大AI范式挑战NP难题",
+    "summary_zh": "作者开发了一个名为GenOS的专有多智能体框架，通过LLM子智能体自主编写、编译和基准测试算法，并对三种基础AI范式进行了对比测试。",
+    "key_points": [
+      "开发者创建了多智能体框架GenOS，用于算法自主进化",
+      "该框架让LLM子智能体自主完成代码编写、编译和基准测试",
+      "对三种基础AI范式在NP难题上的表现进行了对比实验"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "144da51330619ab880d2b04cd19e9d66",
+    "title": "Poor adoption at different scales",
+    "url": "https://www.reddit.com/r/artificial/comments/1vsyj5s/poor_adoption_at_different_scales/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-19T20:42:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Generic AI training at one company: 11% uptake.</p> <p>A company-wide licence at an unrelated firm, different sector: 11.5% active use.</p> <p>Same number twice, from opposite directions.</p> <p>The cause underneath is the same. Nobody connected the tool to the job sitting in front of the person.</p> <p>Training that opens with “here is what the tool can do” gets you 11%.</p> <p>Training that opens with “show me the thing you did 4 times yesterday” gets people b",
+    "title_zh": "不同规模下的AI采用率低迷：工具与工作未连接是主因",
+    "summary_zh": "文章指出两家不同公司内部AI工具的采用率均仅为11%左右，认为根本原因在于AI工具未能与员工的实际工作流程有效连接。",
+    "key_points": [
+      "两家不同公司内部AI工具采用率均在11%左右，数据惊人相似",
+      "AI工具采用率低的核心原因是工具与工作流程脱节",
+      "问题根源在于未能将AI工具真正融入员工日常工作"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "82555f6f2f8698aa9c76a16492bfbfee",
+    "title": "Incredible watering down -- the Singularity is now redefined to mean \"the rate of new firm creation has increased somewhat\" Vernor Vinge described the Singularity as an event horizon past which everything (e.g. what happens tomorrow) becomes entirely unimaginable and unpredictable to human understanding -- it would feature mind upload, cybernetic merging, centuries of tech progress happening in mere minutes... and humans becoming entirely irrelevant.",
+    "url": "https://nitter.net/fchollet/status/2090177471962591625#m",
+    "source": "François Chollet (X)",
+    "source_zh": "François Chollet",
+    "source_type": "nitter",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-19T20:41:57+00:00",
+    "content_snippet": "<p>Incredible watering down -- the Singularity is now redefined to mean \"the rate of new firm creation has increased somewhat\"<br />\n<br />\nVernor Vinge described the Singularity as an event horizon past which everything (e.g. what happens tomorrow) becomes entirely unimaginable and unpredictable to human understanding -- it would feature mind upload, cybernetic merging, centuries of tech progress happening in mere minutes... and humans becoming entirely irrelevant.</p>\n<hr />\n<blockquote>\n<b>An",
+    "title_zh": "François Chollet批评奇点概念被严重稀释：从技术奇点沦为创业公司增速",
+    "summary_zh": "François Chollet批评当前奇点定义被稀释，从Vernor Vinge原意中人类无法预测的技术爆炸，降级为“新公司创建速度有所加快”。",
+    "key_points": [
+      "Chollet认为奇点概念被严重稀释，偏离了技术爆炸的原始含义",
+      "Vernor Vinge的奇点原指人类理解力无法穿越的事件视界",
+      "现在奇点常被简化为经济指标，如新公司创建速度加快"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
