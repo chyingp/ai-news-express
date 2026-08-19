@@ -894,5 +894,53 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7f1e26d1b0625951575e4b97dff48fc0",
+    "title": "Built with Claude: A live 3D OSINT globe tracking heavy industry emissions & public registry data",
+    "url": "https://www.reddit.com/r/artificial/comments/1vsmg4g/built_with_claude_a_live_3d_osint_globe_tracking/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-19T13:28:00+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vsmg4g/built_with_claude_a_live_3d_osint_globe_tracking/\"> <img alt=\"Built with Claude: A live 3D OSINT globe tracking heavy industry emissions &amp; public registry data\" src=\"https://external-preview.redd.it/ux_JMAatkaBdavXDtj62kcqCcYTemTgVg73JkX-Vs38.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=458696d1f50e43883e5c35aca93d76d761ee0448\" title=\"Built with Claude: A live 3D OSINT globe tracking heavy industry emissions ",
+    "title_zh": "用Claude构建：实时3D开源情报地球仪追踪重工业排放与公共注册数据",
+    "summary_zh": "文章展示了一个利用Claude AI构建的实时3D地球仪，用于追踪全球重工业排放和公共注册数据，属于开源情报（OSINT）应用案例。",
+    "key_points": [
+      "展示基于Claude构建的3D地球仪，可视化重工业排放数据",
+      "可用于追踪公共注册数据，属于开源情报工具"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0a11c87dcb534a2ce6769dbf79231010",
+    "title": "Is everybody else getting tired of AI tools that only tell you what went wrong after the customer hangs up or is it just me?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vsm0zn/is_everybody_else_getting_tired_of_ai_tools_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-19T13:11:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A lot of the tools seem great at analyzing calls after they happen. You get transcripts. QA scores. Sentiment. Coaching notes. Maybe a dashboard showing why AHT went up. Useful stuff but the customer already had the bad call. The more interesting idea to me is using that data while the next conversation is still happening. If your best reps have figured out how to handle a billing issue or save a customer who wants to cancel then why leave that knowledge buried ",
+    "title_zh": "大家是否厌倦了只在客户挂断后才告诉你哪里出错的AI工具，还是只有我这样？",
+    "summary_zh": "文章讨论当前AI客服分析工具的局限性，指出它们多在通话结束后才提供分析，引发对实时干预、预防性AI方案的思考和讨论。",
+    "key_points": [
+      "批评AI工具仅在通话后提供分析，无法实时改善客户体验",
+      "引发对能够实时干预、预防问题的AI方案的探讨"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
