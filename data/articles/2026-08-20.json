@@ -385,5 +385,79 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "79dc66050d734a73f8c5b7c9c1eff3da",
+    "title": "we support business privacy! https://openai.com/index/offering-zero-data-retention-for-frontier-models/",
+    "url": "https://nitter.net/sama/status/2090163991234453611#m",
+    "source": "Sam Altman (X)",
+    "source_zh": "Sam Altman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-19T19:48:23+00:00",
+    "content_snippet": "<p>we support business privacy!<br />\n<br />\n<a href=\"https://openai.com/index/offering-zero-data-retention-for-frontier-models/\">openai.com/index/offering-ze…</a></p>\n<hr />\n<b>Link</b><br />\n<a href=\"https://openai.com/index/offering-zero-data-retention-for-frontier-models/\">\n<img src=\"https://nitter.net/pic/card_img%2F2090125740121686017%2F80VfjGcK%3Fformat%3Djpg%26name%3D800x419\" />\n<br />\n<b>Offering Zero Data Retention for frontier models</b>\n</a>\n<p>OpenAI reaffirms Zero Data Retention fo",
+    "title_zh": "我们支持企业隐私！OpenAI 为前沿模型提供零数据保留方案",
+    "summary_zh": "OpenAI 宣布为其前沿模型（如 GPT-4）推出零数据保留选项，此举旨在满足企业对数据隐私的严格要求，增强商业用户信任，巩固其在 B2B 市场的竞争优势。",
+    "key_points": [
+      "OpenAI 推出前沿模型零数据保留选项以保障企业隐私",
+      "此举旨在满足企业用户的严格数据合规与安全需求",
+      "有助于 OpenAI 在与 Anthropic 等对手的竞争中赢得企业客户"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aba3653aa223cd8337708835c26a9c1a",
+    "title": "Hi everyone, I’ve been working on an independent conceptual paper and architecture called FRONT 3.1, and I wanted to share it with this community to get your techn",
+    "url": "https://www.reddit.com/r/artificial/comments/1vsx18h/hi_everyone_ive_been_working_on_an_independent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-19T19:48:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>​The Core Premise</p> <p>​Current Large Language Models (LLMs) are powerful statistical engines, but they are fundamentally decoupled from any internal somatic or homeostatic state. Every prompt is evaluated from scratch, with no persistent internal needs or history-driven predispositions. </p> <p>​The core thesis is simple: Cognition without a persistent affective-interoceptive base is just processing, not cognition. In biological systems, interoceptive and aff",
+    "title_zh": "独立概念架构 FRONT 3.1：探索具身化 AI 新范式",
+    "summary_zh": "一位独立研究者提出名为 FRONT 3.1 的概念性架构，旨在为大型语言模型引入持久的内在状态和稳态需求，以解决当前模型缺乏内在动机、每次推理均需重置的问题。",
+    "key_points": [
+      "FRONT 3.1 架构旨在为大模型赋予内部稳态和持久状态",
+      "试图解决当前 LLM 缺乏内在动机和持续上下文的问题",
+      "该工作为独立研究者的概念性论文，尚未有实际产品推出"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7a3f40ee8bb3a01e6e62b162031507b4",
+    "title": "How much of the weight-space perception gap is actually symmetry? Evidence from ~1.8M fitted SIRENs [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vswdnf/how_much_of_the_weightspace_perception_gap_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-19T19:24:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been looking at a fairly basic question in weight-space learning that I don’t think gets separated cleanly enough:<br /> Why does reading semantics directly from neural network weights work pretty well when the networks share an initialization, but collapse when the networks are fitted independently?<br /> The usual explanation is parameter symmetry. Permute hidden units, flip equivalent signs, etc., and two parameter vectors can represent the same function",
+    "title_zh": "权重空间感知差距有多少来自对称性？基于 180 万个 SIREN 网络的分析",
+    "summary_zh": "一项研究通过分析约 180 万个拟合的 SIREN 网络，探讨为何从神经网络权重直接读取语义在初始化相同时效果良好，而在初始化不同时失效，指出对称性可能是关键因素。",
+    "key_points": [
+      "研究通过海量 SIREN 网络分析权重空间与感知的差距",
+      "发现网络对称性可能是导致权重语义读取差异的关键原因",
+      "该工作属于基础机制研究，有助于理解神经表征学习"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
