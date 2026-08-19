@@ -990,5 +990,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "655769ab72fd01b5bb1493d91a90cc8e",
+    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+    "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-19T15:00:00+00:00",
+    "content_snippet": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+    "title_zh": "亚马逊在Fire TV上免费开放AI助手Alexa+，无需Prime会员",
+    "summary_zh": "亚马逊宣布在美国所有兼容的Fire TV设备上，免费向用户提供AI驱动的Alexa+助手，无论用户是否订阅Prime会员服务，系统将自动完成升级。",
+    "key_points": [
+      "Alexa+在Fire TV上全面免费，无需Prime订阅",
+      "美国所有兼容Fire TV设备将自动升级",
+      "此举旨在扩大AI助手用户基础"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
