@@ -531,5 +531,80 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d306eafa18af68ae57f60c3d33b7280f",
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-19T22:10:46+00:00",
+    "content_snippet": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+    "title_zh": "OpenAI 推出新隐私保护措施，试图超越 Anthropic",
+    "summary_zh": "OpenAI 宣布针对企业客户的新数据隐私保护功能，旨在与主要竞争对手 Anthropic 争夺对数据安全有高要求的客户，加剧了双方在企业隐私领域的竞争。",
+    "key_points": [
+      "OpenAI 推出新企业客户数据隐私保护功能",
+      "旨在与 Anthropic 争夺注重安全的客户",
+      "加剧了双方在企业隐私领域的竞争"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6aba2536a5ec84cdb999fdc0c0e846c1",
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-19T21:51:23+00:00",
+    "content_snippet": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+    "title_zh": "Cognition CEO 否认 SpaceX 收购传闻，报道称曾洽谈",
+    "summary_zh": "AI 编程初创公司 Cognition 的 CEO 否认了关于 SpaceX 曾试图收购该公司的报道。此前有消息称 SpaceX 在收购 Cursor 后，曾与 Cognition 洽谈，以追赶 OpenAI 等企业 AI 领域的对手。",
+    "key_points": [
+      "Cognition CEO 公开否认 SpaceX 收购传闻",
+      "报道称 SpaceX 为追赶 OpenAI 曾洽谈收购",
+      "SpaceX 此前已收购 AI 编程工具 Cursor"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1eebb6ed97beced1c7e1003903ff6edb",
+    "title": "Same GRPO recipe on three from-scratch LLMs (353M/316M/672M) gave three different outcomes, with no clean relationship to scale [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vszsit/same_grpo_recipe_on_three_fromscratch_llms/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-19T21:30:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I trained three LLMs from scratch in raw PyTorch then post-trained each one with SFT and then GRPO. Same process every time: same synthetic arithmetic curriculum, same reward function, same hyperparameters, same KL coefficient.</p> <p>Pre-training went as expected, the val loss went down as the model got more modern techniques (V1 to V2) and bigger (V3 being the biggest). However, GRPO hurt both V2 and V3 and I'm not sure why.</p> <p><strong>Setup</strong></p> <",
+    "title_zh": "研究：相同 GRPO 方法训练三个不同规模 LLM 结果各异",
+    "summary_zh": "一项研究使用完全相同的 GRPO 强化学习方法和超参数，对三个从零开始预训练的不同规模语言模型（353M/316M/672M）进行后训练，发现结果差异显著，且与模型规模无明确关联，挑战了缩放法则的简单预期。",
+    "key_points": [
+      "用相同 GRPO 方法训练三个不同规模的从零开始 LLM",
+      "最终性能结果差异显著且与模型规模无明确关系",
+      "挑战了强化学习微调性能随规模简单提升的预期"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
