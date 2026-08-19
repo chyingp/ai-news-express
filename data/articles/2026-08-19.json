@@ -538,5 +538,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "41349f2d04e60ab5b83e8b727d5e8069",
+    "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
+    "url": "https://www.reddit.com/r/artificial/comments/1vsebj5/when_ai_art_has_no_author_study_finds_generated/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-19T06:24:12+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vsebj5/when_ai_art_has_no_author_study_finds_generated/\"> <img alt=\"When AI art has no author: Study finds generated images often can’t be traced to training data\" src=\"https://external-preview.redd.it/aUpt6EQqiOVB0_GHfHwdaiVEW6_nnVR-S1C-1jMsokA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=497a808f62ae78e2fbb0a5cb675549ff2804c6ff\" title=\"When AI art has no author: Study finds generated images often can’t be traced to tra",
+    "title_zh": "当AI艺术没有作者：研究发现生成图像往往无法追溯至训练数据",
+    "summary_zh": "一项新研究发现，AI生成的图像通常无法被准确追溯到其训练数据集中对应的原始图像，这表明AI艺术的创作过程缺乏明确的作者归属和版权溯源能力。",
+    "key_points": [
+      "研究发现AI生成图像难以追溯至训练数据中的具体来源",
+      "该现象对AI艺术的版权和作者归属问题提出了新挑战",
+      "研究揭示了当前生成模型在数据溯源方面的技术局限性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
