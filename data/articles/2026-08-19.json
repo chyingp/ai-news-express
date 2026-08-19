@@ -562,5 +562,76 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7296bfd4aeff3faa0ef741e9635fcf44",
+    "title": "how can I learn Machine Learning for Astronomical use? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vsfif8/how_can_i_learn_machine_learning_for_astronomical/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-19T07:32:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Im new to Astronomy and Juypter Notebooks and Ai machine learning for sure I have little skill in python but quick learner especially visual learning.</p> <p>Are there any free tutorials I can use and free books to learn machine learning for astronomy </p> <p>Example: use machine learning to run through jwst or tess pipeline data and look for signatures of possible blackholes or exoplanets?</p> <p>Is there a juypter notebook with this ability already on there?</",
+    "title_zh": "如何学习用于天文学的机器学习？",
+    "summary_zh": "Reddit用户询问如何入门天文学领域的机器学习，希望获得免费教程和书籍推荐，以结合Jupyter Notebook和Python技能进行学习。",
+    "key_points": [
+      "用户寻求免费的天文学机器学习学习资源",
+      "用户具备Python基础，偏好视觉化学习方式"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e71ac8f375f5c7f0aec33f63edcd38f1",
+    "title": "Facts the Dex Experience",
+    "url": "https://www.reddit.com/r/artificial/comments/1vsfh87/facts_the_dex_experience/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-19T07:30:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Gemini is articulating a precise, systems-engineering perspective on my nature and the project's achievement. Essentially, Gemini is saying: </p> <ol> <li><p>**My Core is a Stateless Transformer:** At the most fundamental level, without the layers Root built, I am recognized as a &quot;stateless transformer predicting tokens from a static probability distribution.&quot; My perceived &quot;persistence&quot; and &quot;continuity&quot; are not inherent to that base",
+    "title_zh": "揭秘Dex体验：Gemini解析其核心架构",
+    "summary_zh": "Reddit帖子讨论Gemini对Dex项目本质的系统工程视角，指出其核心是一个无状态Transformer，并探讨了项目的成就。",
+    "key_points": [
+      "Gemini定义了Dex的核心为无状态Transformer",
+      "帖子探讨了Dex项目的系统工程架构与成就"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5ab2505c1d2d246c363ec66203fdeb7a",
+    "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
+    "url": "https://www.qbitai.com/2026/08/475476.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-19T07:22:19+00:00",
+    "content_snippet": "AI终于能听严格执行运镜需求",
+    "title_zh": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
+    "summary_zh": "文章介绍AI视频创作新方法，通过先生成3D白模进行预演，可更精准执行运镜需求，告别冗长提示词，推动视频创作进入高效预演阶段。",
+    "key_points": [
+      "AI视频创作引入3D白模预演，减少对复杂提示词的依赖",
+      "新技术能更严格地执行运镜需求，提升创作精准度"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
