@@ -606,5 +606,51 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c2e5ed6701af2ac949da257a20304808",
+    "title": "Looking for criticism on an AI that can watch and track your screen",
+    "url": "https://www.reddit.com/r/artificial/comments/1vt2idv/looking_for_criticism_on_an_ai_that_can_watch_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-19T23:18:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm working on an AI tool that can see what's happening on your screen in real time and understand the context, rather than requiring you to constantly take screenshots and upload them. </p> <p>The idea is that you could ask it things like: </p> <p>&quot;What's going wrong here?&quot; </p> <p>&quot;How do I fix this?&quot; </p> <p>&quot;What am I looking at?&quot; </p> <p>&quot;What should I do next?&quot; </p> <p>Or just have it understand what's happening with",
+    "title_zh": "寻求对一款能实时观看和追踪屏幕的AI的批评",
+    "summary_zh": "Reddit用户分享正在开发的一款AI工具，它能实时理解屏幕内容上下文，用户无需截图上传即可提问。作者寻求社区的批评与反馈。",
+    "key_points": [
+      "AI工具能实时理解屏幕上下文并交互",
+      "该项目处于开发阶段，寻求社区批评"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bf47a263d0a54303a49bab9f9786b474",
+    "title": "An AI agent just stacked blocks in a live physics simulation — building an open benchmark arena for embodied AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1vt1dhc/an_ai_agent_just_stacked_blocks_in_a_live_physics/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-19T22:31:43+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vt1dhc/an_ai_agent_just_stacked_blocks_in_a_live_physics/\"> <img alt=\"An AI agent just stacked blocks in a live physics simulation — building an open benchmark arena for embodied AI\" src=\"https://external-preview.redd.it/NDljNTI5YnVyZWtoMUKHGeXN4sNyE1u15Kf9hzGH5LCBsDGw_mTHY4b03isg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2b8dcb8b6ebb86c6bf2e582e7e930faee0ad772\" title=\"An AI agent just stacked blocks in a live physi",
+    "title_zh": "AI智能体在实时物理模拟中堆叠积木——为具身智能打造开放基准测试场",
+    "summary_zh": "一个AI智能体在实时物理模拟中成功完成堆叠积木的任务，该项目旨在为具身人工智能研究建立一个开放的基准测试环境。",
+    "key_points": [
+      "AI智能体在物理模拟中演示堆叠积木能力",
+      "项目旨在构建具身AI的开放基准测试平台"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
