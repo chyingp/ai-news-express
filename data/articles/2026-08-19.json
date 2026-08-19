@@ -846,5 +846,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3e94c5135e4a645b18dc09e1f71b8946",
+    "title": "Uber's President Just Confirmed the Internal AI Adoption Leaderboard Is Real",
+    "url": "https://www.reddit.com/r/artificial/comments/1vsksq3/ubers_president_just_confirmed_the_internal_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-19T12:17:37+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vsksq3/ubers_president_just_confirmed_the_internal_ai/\"> <img alt=\"Uber's President Just Confirmed the Internal AI Adoption Leaderboard Is Real\" src=\"https://external-preview.redd.it/eTFxdm01cjdxYmtoMWehfebGHPL77a_T1iCFad8KjcvAjJ2yseKmLb-ff2_v.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aabb3621276aacd8fed8c19aee80936bcf325047\" title=\"Uber's President Just Confirmed the Internal AI Adoption Leaderboard Is Real\" /> </a> ",
+    "title_zh": "Uber总裁确认内部AI应用排行榜属实",
+    "summary_zh": "Uber总裁证实公司内部确实存在一个AI应用排行榜，用于追踪不同部门采用AI技术的进展，此举旨在加速AI在公司内部的推广与落地。",
+    "key_points": [
+      "Uber内部使用AI排行榜来推动各部门技术采纳",
+      "该排行榜旨在通过竞争机制加速AI应用落地"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c9300d6f9773535f36ffd367d058a9ad",
+    "title": "Nvidia’s new financial strategy does not compute",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-19T12:00:00+00:00",
+    "content_snippet": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute [&#8230;]",
+    "title_zh": "英伟达的新财务策略令人费解",
+    "summary_zh": "英伟达正与高盛、贝莱德等顶级金融机构合作，计划筹集5000亿美元，将GPU算力打造为一种新的资产类别，但这一策略引发了市场质疑。",
+    "key_points": [
+      "英伟达联合多家金融机构将GPU算力证券化",
+      "计划筹集5000亿美元，将算力作为新资产类别"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
