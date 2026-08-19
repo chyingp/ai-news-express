@@ -48,5 +48,151 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b75ccb58158969be5394d157d43957ec",
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-19T19:00:00+00:00",
+    "content_snippet": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "title_zh": "OpenAI 承诺为前沿模型提供零数据保留",
+    "summary_zh": "OpenAI 重申对符合条件的 API 客户实行零数据保留政策，并预览了在不损害数据隐私的前提下实现高级 AI 安全的隐私安全处理功能。",
+    "key_points": [
+      "OpenAI 重申并强化 API 客户的零数据保留政策",
+      "预览了用于高级 AI 安全的新隐私安全处理功能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "235645f43781e5101e196fa2a52a54e4",
+    "title": "An open-weight model just closed most of the gap on autonomous cyber offense - and that changes who can run it",
+    "url": "https://www.reddit.com/r/artificial/comments/1vsstg0/an_openweight_model_just_closed_most_of_the_gap/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-19T17:19:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Irregular (an AI security research group) tested Kimi K3, an open-weight model, against CyScenarioBench, a benchmark built around autonomous cyber campaigns - adapting public exploit techniques to constrained environments, building custom tooling, diagnosing failed attempts, and validating each stage before moving on. It is the first open-weight model to pass. It trails closed frontier models by roughly six months, at an estimated third of the inference cost.</p",
+    "title_zh": "开源模型 Kimi K3 在自主网络攻击能力上接近闭源模型",
+    "summary_zh": "AI 安全研究团队 Irregular 测试发现，开源模型 Kimi K3 在自主网络攻击基准测试中表现出色，大幅缩小了与闭源模型的差距，引发了对攻击能力民主化的担忧。",
+    "key_points": [
+      "开源模型 Kimi K3 在自主网络攻击测试中接近闭源模型水平",
+      "该进展可能改变谁能运行高级网络攻击的能力格局"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "moonshot"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7c2fec452c0837e0d612b0071ed27d9",
+    "title": "OpenAI hit the brakes. Now what?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-19T17:10:09+00:00",
+    "content_snippet": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
+    "title_zh": "OpenAI 踩下刹车，接下来会怎样？",
+    "summary_zh": "在 IPO 临近和激烈竞争下，OpenAI 反而宣布放慢部分 AI 开发节奏，以加强安全措施和防护栏，这一决定引发了对其战略的广泛讨论。",
+    "key_points": [
+      "OpenAI 在竞争压力下主动放慢部分 AI 开发速度",
+      "决定旨在加强安全措施和防护栏，为 IPO 做准备"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0768a85d4d05bd84bf783d94b8773b41",
+    "title": "A fantastical journey unfolds in gorgeous Wildwood trailer",
+    "url": "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-19T17:06:06+00:00",
+    "content_snippet": "\"I will tear apart this forest and bring back what it took from me.\"",
+    "title_zh": "奇幻旅程在《Wildwood》绚丽预告片中展开",
+    "summary_zh": "Ars Technica 报道了电影《Wildwood》的预告片，展现了一段在美丽森林中展开的奇幻冒险旅程，情感核心是角色为所失之物而战。",
+    "key_points": [
+      "电影《Wildwood》发布绚丽预告片，展现奇幻冒险",
+      "故事围绕主角在森林中寻找失去之物的旅程展开"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6edc2343165488ff44cd2aead6f697a0",
+    "title": "Meta AI is getting a Mac app",
+    "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-19T17:00:00+00:00",
+    "content_snippet": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [&#8230;]",
+    "title_zh": "Meta AI 将推出 Mac 应用",
+    "summary_zh": "Meta 宣布推出专用的 Mac 版 AI 聊天机器人应用，支持屏幕内容共享、语音输入等功能，可基于用户屏幕内容提供建议和回答问题。",
+    "key_points": [
+      "Meta 发布 Mac 版 AI 聊天机器人应用",
+      "支持屏幕共享和语音输入，可基于屏幕上内容互动"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "04f5c1e557e5be92dc08f55fe3963aaa",
+    "title": "Crazy we live in world were software is becoming free",
+    "url": "https://www.reddit.com/r/artificial/comments/1vss3eo/crazy_we_live_in_world_were_software_is_becoming/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-19T16:54:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Can't wait to have a cell phone that is completely open source, I can customize at the source code level and I get to boot multiple versions.</p> <p>Would be nice if PCs became as secure as cell phones.</p> <p>What do you think?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Terminator857\"> /u/Terminator857 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://w",
+    "title_zh": "我们正生活在软件免费化的世界，疯狂",
+    "summary_zh": "Reddit 用户讨论开源软件普及的趋势，表达了对完全开源手机的期待，并希望个人电脑也能获得像手机一样的安全性。",
+    "key_points": [
+      "用户讨论软件免费化趋势，期待完全开源手机",
+      "希望个人电脑安全性也能像手机一样得到提升"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
