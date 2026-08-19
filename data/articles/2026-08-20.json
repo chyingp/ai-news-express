@@ -287,5 +287,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "88cde3112e540acb7b71b776e15ea39c",
+    "title": "AI was supposed to win people over by now — it hasn’t",
+    "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-19T19:11:40+00:00",
+    "content_snippet": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+    "title_zh": "AI本该赢得人心，但至今未如愿",
+    "summary_zh": "尽管AI技术日益普及，但消费者对其警惕性反而上升，硅谷发现广泛采用并不等同于公众接受，AI推广面临信任与接受度挑战。",
+    "key_points": [
+      "AI普及未提升消费者接受度，警惕性反增",
+      "广泛采用不等于公众信任，行业面临新挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8656b8f78d55f67d1be979255e660a15",
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-19T19:00:00+00:00",
+    "content_snippet": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+    "title_zh": "谷歌为搜索和Gemini整合全新AI学习工具",
+    "summary_zh": "谷歌推出面向学生的新AI学习功能，旨在将Gemini打造成学生首选学习助手，以应对OpenAI等竞争对手的挑战。",
+    "key_points": [
+      "谷歌在搜索和Gemini中推出AI学习工具",
+      "目标是将Gemini定位为学生学习和备考的首选助手"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dc3d81799698c80d04615a9a9cdc8c8c",
+    "title": "Google Gemini is getting a dedicated student hub",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-19T19:00:00+00:00",
+    "content_snippet": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
+    "title_zh": "谷歌Gemini推出专属学生中心",
+    "summary_zh": "谷歌为返校季推出Gemini学生中心，提供研究笔记、闪卡和练习测验等一站式学习功能，并增强了笔记功能。",
+    "key_points": [
+      "Gemini新增一站式学生中心，整合学习工具",
+      "提供研究笔记、闪卡和练习测验等功能"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5276b3d7b6156aa104e44db780290421",
+    "title": "Researchers say OpenAI revoked their access to limited cyber program",
+    "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-19T18:46:14+00:00",
+    "content_snippet": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vetted users.",
+    "title_zh": "研究人员称OpenAI撤销其受限网络项目访问权限",
+    "summary_zh": "多名网络安全研究人员表示，他们突然失去OpenAI“可信网络访问”项目的访问权限，该项目为审查用户提供限制较少的模型。",
+    "key_points": [
+      "OpenAI撤销研究人员受限网络项目访问权限",
+      "该项目为审查用户提供限制较少的AI模型"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
