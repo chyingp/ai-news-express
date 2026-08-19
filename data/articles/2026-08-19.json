@@ -657,5 +657,52 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "803f17c61c4734b168650ff7e6afca3d",
+    "title": "Use AI became useful when I stopped comparing answers and started comparing disagreements",
+    "url": "https://www.reddit.com/r/artificial/comments/1vsh1wi/use_ai_became_useful_when_i_stopped_comparing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-19T09:03:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>How are people comparing models without drowning in duplicate text? Do you assign roles, score outputs, or only investigate the points where they conflict?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HappyKick2706\"> /u/HappyKick2706 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vsh1wi/use_ai_became",
+    "title_zh": "当我不再比较答案，而是比较分歧时，AI 才真正变得有用",
+    "summary_zh": "一篇 Reddit 讨论帖，探讨如何更有效地比较不同 AI 模型的输出。用户认为判断模型价值的关键不在于对比它们一致的答案，而在于分析和研究它们产生分歧的地方，这能带来更深入的洞察。",
+    "key_points": [
+      "比较 AI 模型时，应关注输出分歧而非重复的一致答案",
+      "通过分析分歧点可更有效地评估模型能力和获得洞察"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2fd4207b218211dd435233acd73c6c53",
+    "title": "Child-monitoring apps might need a reboot",
+    "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-19T09:00:00+00:00",
+    "content_snippet": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. Online, she&#8230;",
+    "title_zh": "儿童监控应用可能需要重启",
+    "summary_zh": "MIT Technology Review 文章通过 Pam Wisniewski 的个人经历，探讨了当前儿童监控应用的缺陷。这类应用虽旨在保护孩子，但可能破坏信任并侵犯隐私，需要一种更健康的、以沟通为基础的新模式。",
+    "key_points": [
+      "现有儿童监控应用可能破坏亲子信任并侵犯隐私",
+      "专家呼吁以开放沟通替代单纯的数字监控",
+      "文章通过个人故事揭示了在线安全与青少年自主权的平衡难题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
