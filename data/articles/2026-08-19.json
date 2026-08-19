@@ -942,5 +942,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b89a2c56ab0c3ba81c0d900b67bf89ed",
+    "title": "Same effective batch does not mean same training time with gradient accumulation, tested on LoRA on T4 and L4 [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vsnwcv/same_effective_batch_does_not_mean_same_training/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-19T14:23:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I had assumed <code>1 × 4</code>, <code>2 × 2</code> and <code>4 × 1</code> will take somewhat similar time because effective batch is 4 in all cases.</p> <p>They did not.</p> <p>I ran Qwen3-1.7B with TRL and LoRA for 100 optimizer updates.</p> <table><thead> <tr> <th>GPU</th> <th align=\"right\"><code>1 × 4</code></th> <th align=\"right\"><code>2 × 2</code></th> <th align=\"right\"><code>4 × 1</code></th> </tr> </thead><tbody> <tr> <td>T4</td> <td align=\"right\">287.6",
+    "title_zh": "梯度累积中相同有效批次不等于相同训练时间：基于T4/L4的LoRA测试",
+    "summary_zh": "作者在T4和L4 GPU上对Qwen3-1.7B模型进行LoRA微调，测试不同梯度累积步数（1×4, 2×2, 4×1）对训练时间的影响。结果表明，即使有效批次大小相同，实际训练时间仍存在显著差异，打破了常见假设。",
+    "key_points": [
+      "梯度累积步数不同，即使有效批次大小相同，训练时间也显著不同",
+      "在T4和L4 GPU上使用Qwen3-1.7B与TRL、LoRA进行100次优化器更新进行验证",
+      "实验破除\"相同有效批次意味着训练时间相似\"的常规假设"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f8a8e90f0b14a68696d94b74962f51b2",
+    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "source": "VentureBeat AI",
+    "source_zh": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-19T14:18:12+00:00",
+    "content_snippet": "<p>Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI.</p><p>The enterprise AI stack is being rewritten in real time, and the",
+    "title_zh": "VentureBeat任命Rob Strechay为首位首席分析师，拓展企业AI研究",
+    "summary_zh": "科技媒体VentureBeat任命前theCUBE Research董事总经理Rob Strechay为首位首席分析师，并共同创立VentureBeat Research。此举旨在深化媒体在企业AI领域的专业化分析能力，是其战略转型的一部分。",
+    "key_points": [
+      "Rob Strechay从theCUBE Research加入VentureBeat，担任首位首席分析师",
+      "此举标志着VentureBeat向更深层次的企业AI专业化分析转型",
+      "Strechay将共同创立VentureBeat Research，推动研究业务发展"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
