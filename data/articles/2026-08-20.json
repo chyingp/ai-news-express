@@ -846,5 +846,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b54ef6bd33eb2fdfe5d988491c6543cb",
+    "title": "The alignment tax: corporate AI guardrails add 25-35% to your compute bill and nobody talks about it",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtbsca/the_alignment_tax_corporate_ai_guardrails_add/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-20T06:42:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There is a cost line item in every enterprise AI budget that almost nobody audits. It does not appear on the invoice. It is not broken out in the pricing tier comparison. But it represents between 25% and 35% of the actual compute expenditure for every organization using commercial closed-source models.</p> <p>I have been measuring what happens when you pay for tokens that do nothing useful for your business. Every API call to a commercial model like GPT-4, Clau",
+    "title_zh": "对齐税：企业AI安全护栏消耗25-35%算力，却无人提及",
+    "summary_zh": "文章揭示企业AI部署中一个被忽视的成本：安全对齐护栏会消耗25%至35%的算力，且这笔开销不会显现在账单上，构成隐藏的“对齐税”。",
+    "key_points": [
+      "企业AI安全护栏消耗25-35%的算力成本",
+      "这项成本隐藏在账单中，几乎不被审计",
+      "它构成了企业AI预算中一项重大的隐性支出"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
