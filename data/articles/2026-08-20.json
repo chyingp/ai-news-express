@@ -818,5 +818,33 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c5471b6e7215eb13ba2b5cff3e0bf2f1",
+    "title": "Asked Gemini, GPT, Claude for help with a cat castle, never seen Claude drop the ball so badly",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtbiz1/asked_gemini_gpt_claude_for_help_with_a_cat/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T06:27:53+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vtbiz1/asked_gemini_gpt_claude_for_help_with_a_cat/\"> <img alt=\"Asked Gemini, GPT, Claude for help with a cat castle, never seen Claude drop the ball so badly\" src=\"https://external-preview.redd.it/m5f7mQXMq0AQWBxnuGA7aagG6JPjzhSBPb2CQNkWaaA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f53bdd8ebc319d498fdf7d0c613b4b53c3c06be9\" title=\"Asked Gemini, GPT, Claude for help with a cat castle, never seen Claude drop the ball so",
+    "title_zh": "询问Gemini、GPT、Claude搭建猫城堡，从未见过Claude表现如此糟糕",
+    "summary_zh": "Reddit用户分享用三大AI助手设计猫城堡的体验，Claude此次表现极差，完全出乎意料，未能完成简单任务，与其他模型形成鲜明对比。",
+    "key_points": [
+      "用户测试Gemini、GPT、Claude协助搭建猫城堡",
+      "Claude在此次任务中表现异常糟糕，完全失败",
+      "结果与Claude一贯的可靠形象形成强烈反差"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
