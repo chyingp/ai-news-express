@@ -721,5 +721,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b302781172b03999321df575d35e1553",
+    "title": "Please recommend best priced ai powered website builder. My mom wants to open a new business site for beach for tables, chairs, decor etc. Free would be great but not expecting it.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vt6ho0/please_recommend_best_priced_ai_powered_website/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T02:11:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Any advice would be helpful. Is there a better or better priced one than Base44? Just need a checkout portal, booking calendar, separate pages for add ons like fruit baskets etc. She would like the ability to approve schedulings. Thank you.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BumblebeeNo504\"> /u/BumblebeeNo504 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a h",
+    "title_zh": "求推荐性价比高的AI网站搭建工具",
+    "summary_zh": "一位Reddit用户为母亲寻找价格合理的AI建站工具，用于搭建海滩租赁业务网站，需包含结账、预约日历等功能，并询问是否有比Base44更便宜的选择。",
+    "key_points": [
+      "用户寻求AI建站工具用于海滩租赁业务",
+      "需要结账、预约日历和分页功能",
+      "比较Base44与其他工具的价格"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6e104b18e0b58ddb8491917a1276a366",
+    "title": "codex can power much more than coding tools: a tax-prep pilot processed 7,000 returns and cut preparation time by about a third. you can build your own products on our codex open-source harness:",
+    "url": "https://nitter.net/gdb/status/2090246288478814281#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-20T01:15:24+00:00",
+    "content_snippet": "<p>codex can power much more than coding tools: a tax-prep pilot processed 7,000 returns and cut preparation time by about a third.<br />\n<br />\nyou can build your own products on our codex open-source harness:</p>\n<hr />\n<blockquote>\n<b>OpenAI Developers (@OpenAIDevs)</b>\n<p>\n<p>Teams are using the open-source Codex harness to bring agents into the tools they already use, from internal apps to operations dashboards.<br />\n<br />\nTheir applications control the interface, context, tools, and appr",
+    "title_zh": "Codex不止于编程：税务试点处理7000份申报，效率提升三分之一",
+    "summary_zh": "OpenAI联合创始人Greg Brockman透露，Codex模型驱动的税务准备试点项目已处理7000份税单，准备时间缩短约三分之一，并宣布开发者可利用其开源框架构建自有产品。",
+    "key_points": [
+      "Codex税务试点处理7000份申报，提效三分之一",
+      "Codex应用场景扩展至编程之外的领域",
+      "开放Codex开源框架供开发者构建产品"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
