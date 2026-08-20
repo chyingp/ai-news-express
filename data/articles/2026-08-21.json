@@ -196,5 +196,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6a117175909714878d3bb7f41e7f258b",
+    "title": "Inside Our Distributed LLM Inference Research for Intel PCs",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtrvod/inside_our_distributed_llm_inference_research_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-20T18:36:22+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vtrvod/inside_our_distributed_llm_inference_research_for/\"> <img alt=\"Inside Our Distributed LLM Inference Research for Intel PCs\" src=\"https://external-preview.redd.it/plE3y9qsLl3BfYmcF0mOPiUjyS_x8bhZMxwLSoH2DkA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2eaf022cd48e914552afedf11cec4b5b9e835cd\" title=\"Inside Our Distributed LLM Inference Research for Intel PCs\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"htt",
+    "title_zh": "深入探索面向英特尔PC的分布式LLM推理研究",
+    "summary_zh": "文章介绍了一项针对英特尔PC的分布式大语言模型推理研究，旨在利用多台PC的计算资源协同处理LLM任务，提升本地推理效率。",
+    "key_points": [
+      "研究利用多台英特尔PC进行分布式LLM推理",
+      "目标是通过本地设备集群提升推理效率",
+      "探索在消费级硬件上运行大模型的可行方案"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "intel"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "501a92a0a8133cd83490f806b7c4a230",
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T18:20:35+00:00",
+    "content_snippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+    "title_zh": "Linkdaze推出智能日历：旨在管理家庭事务而非仅跟踪日程",
+    "summary_zh": "Linkdaze的智能数字日历以家庭管理为核心，特色是所有功能不设付费墙，内置AI膳食规划工具，帮助用户更好地协调家庭生活。",
+    "key_points": [
+      "Linkdaze智能日历专注家庭事务管理",
+      "内置AI膳食规划工具，且所有功能免费",
+      "区别于传统日历，强调家庭协调而非仅记录"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a13979a77cbcfbcf901664b8fe9b291b",
+    "title": "Are you good at AI, or just using it?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtr49w/are_you_good_at_ai_or_just_using_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-20T18:09:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We’re working on a ladder for individual AI proficiency and would love feedback on both the levels and the definitions.</p> <p>L0 New: brand new to AI, or has not yet used it.</p> <p>L1 Chat: simple prompt-and-response use. Work is serial: ask, wait for an answer, then ask again.</p> <p>L2 Contextual Work: gives AI relevant documents, data, or workspace context so it can work within the actual artifact and produce a more useful result.</p> <p>L3 Orchestrate: coo",
+    "title_zh": "你是擅长AI，还是仅仅在使用它？",
+    "summary_zh": "文章探讨了个人AI熟练度分级，提出从L0到更高等级的定义，并邀请社区反馈，旨在区分对AI的深度掌握与简单使用。",
+    "key_points": [
+      "提出个人AI熟练度分级框架，从新手到更高级别",
+      "区分简单对话式使用与真正的AI能力",
+      "邀请社区对分级定义提供反馈"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "064d68243459f579703a5e087354bdab",
+    "title": "Jason Kelce Encourages People To Mail Jars Of Pee To AI Data Centers In Bizarre New Ad—And We Don't Know What To Think",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtqv2e/jason_kelce_encourages_people_to_mail_jars_of_pee/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-20T18:00:21+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vtqv2e/jason_kelce_encourages_people_to_mail_jars_of_pee/\"> <img alt=\"Jason Kelce Encourages People To Mail Jars Of Pee To AI Data Centers In Bizarre New Ad—And We Don't Know What To Think\" src=\"https://external-preview.redd.it/m411pLlnKZFcQckKQ0r8kriB1Q1w9al7E-fszWX4BDE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8fcdc47d17e73e0bc769243d661bf4a6c8ffcd07\" title=\"Jason Kelce Encourages People To Mail Jars Of Pee To AI D",
+    "title_zh": "Jason Kelce 在怪异新广告中鼓励人们向AI数据中心邮寄尿液瓶",
+    "summary_zh": "一则奇特的广告中，前橄榄球明星Jason Kelce鼓励人们向AI数据中心邮寄尿液，广告内容令人费解，引发广泛讨论。",
+    "key_points": [
+      "Jason Kelce 出演广告鼓励邮寄尿液至数据中心",
+      "广告内容怪异，意图不明引发公众不解",
+      "事件与AI数据中心相关，但并非严肃新闻"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
