@@ -771,5 +771,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "676f962c1320c394cdb7483e14cea99a",
+    "title": "I described my messy AI memory setup on one sub. Eighteen strangers replied describing almost the same architecture, independently.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vt7zpg/i_described_my_messy_ai_memory_setup_on_one_sub/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-20T03:21:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Yesterday I posted in a Claude-focused subreddit about a setup I have been running for about eight months. I keep a folder of markdown files that a language model reads at the start of every session: an identity file, dated journal entries, and a project ledger. Nothing exotic. No fine tuning, no vector database, no custom model. Files, and the discipline of writing to them.</p> <p>I expected either silence or someone telling me I had reinvented a worse version ",
+    "title_zh": "我在一个子版块描述了我混乱的AI记忆设置，18个陌生人回复描述了几乎相同的架构，独立地",
+    "summary_zh": "一位Reddit用户分享了自己使用Markdown文件为AI语言模型建立记忆系统的个人实践，包括身份文件、日志和项目记录。意外的是，该帖子引发了18位陌生人的独立回复，他们都描述了几乎相同的架构，显示出AI用户社区中一种非正式但共同演进的自发趋势。",
+    "key_points": [
+      "用户用Markdown文件为AI建立持久记忆，包括身份、日志和项目记录",
+      "18位陌生人独立回复，描述了几乎相同的AI记忆架构",
+      "揭示了AI用户社区中自发形成的非正式最佳实践趋势"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
