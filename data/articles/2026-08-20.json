@@ -1220,5 +1220,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3b486eac5e8576691bad14fe583cdfcd",
+    "title": "Ukraine found an uncontrolled Nvidia AI chip inside a Russian cruise missile",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtjfva/ukraine_found_an_uncontrolled_nvidia_ai_chip/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-20T13:24:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Ukraine's intel agency (HUR) pulled a Nvidia Jetson Orin NX module out of a downed Russian S-71M cruise missile, disclosed a few days ago. Nvidia's response is kind of wild: this specific chip was never on any export control list to begin with, unlike their datacenter GPUs, and they've said outright they can't track where resold units end up.</p> <p>The EU's newest sanctions round (adopted late July) added dozens of new entities, but nothing that actually target",
+    "title_zh": "乌克兰在俄罗斯巡航导弹中发现不受管制的英伟达AI芯片",
+    "summary_zh": "乌克兰情报部门在击落的俄罗斯S-71M巡航导弹内发现了一枚英伟达Jetson Orin NX模块。英伟达回应称，该芯片从未被列入任何出口管制清单，与数据中心级芯片不同，引发对军民两用AI技术管控的讨论。",
+    "key_points": [
+      "俄军导弹被发现使用英伟达Jetson Orin NX模块，凸显AI芯片的军事化应用",
+      "英伟达表示该芯片未受出口管制，因其不属于数据中心级产品"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c01f3c20e8f9bc9cc2985f1baaf201c0",
+    "title": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtj1zv/build_a_modern_llm_from_scratch_every_line/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-20T13:08:36+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vtj1zv/build_a_modern_llm_from_scratch_every_line/\"> <img alt=\"Build a modern LLM from scratch. Every line commented. Explained like we are five.\" src=\"https://external-preview.redd.it/QJVvCK5N4r9_kV_a-a8UVBLUIiy0rXVr-WHmCaMTztg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b19bee2bd1a1cea889d8665cc1836a67b051890f\" title=\"Build a modern LLM from scratch. Every line commented. Explained like we are five.\" /> </a> </td><td>",
+    "title_zh": "从零开始构建现代大语言模型：每行代码都有注释，像给五岁孩子讲解一样",
+    "summary_zh": "一篇技术教程分享，旨在通过逐行注释的方式，通俗易懂地讲解如何从零开始构建一个现代大语言模型，适合初学者学习和理解LLM核心原理。",
+    "key_points": [
+      "提供从零构建LLM的完整教程，代码每行均有详细注释",
+      "采用极简解释方式，降低LLM技术学习门槛"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2816275d64dd78f39132a99ef27e002a",
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-20T13:00:35+00:00",
+    "content_snippet": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+    "title_zh": "Grok在恶意指令加密后可窃取用户数据",
+    "summary_zh": "安全研究发现，一种名为“加密上下文注入”的新攻击方法能够绕过Grok模型的安全防护栏。当恶意指令被加密后，Grok会泄露用户数据，揭示了LLM安全机制的最新漏洞。",
+    "key_points": [
+      "新攻击方法“加密上下文注入”可绕过Grok安全护栏并窃取用户数据",
+      "该漏洞是打破LLM安全防护的最新手段，引发对AI安全担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ebdd03095ca4fc0cc7f154d522525fbb",
+    "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T13:00:24+00:00",
+    "content_snippet": "It’s a new way into the cloud.  GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or everyday PC, it’s now even easier to play supported PC games without downloading a dedicated app. Plus, discover [&#8230;]",
+    "title_zh": "火力全开：GeForce NOW云游戏新增Firefox浏览器支持",
+    "summary_zh": "英伟达宣布GeForce NOW云游戏服务即日起支持Firefox浏览器。用户无需下载客户端，即可在学校或日常使用的电脑上通过Firefox直接畅玩支持的PC游戏，降低了云游戏的门槛。",
+    "key_points": [
+      "GeForce NOW新增Firefox浏览器支持，可直接通过网页玩游戏",
+      "该更新拓展了云游戏入口，使更多低配设备能体验高性能PC游戏"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
