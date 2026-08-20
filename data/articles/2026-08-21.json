@@ -368,5 +368,56 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "fc53f9f20e6ec49bdd7f4a7a90f09960",
+    "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T22:09:51+00:00",
+    "content_snippet": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+    "title_zh": "ChatGPT 现可通过新的 Apple Messages 插件为你发送短信",
+    "summary_zh": "ChatGPT 推出 Apple Messages 集成插件，可像自动短信记录员一样，代替用户发送短信，进一步拓展了 AI 助手的日常沟通应用场景。",
+    "key_points": [
+      "ChatGPT 新增 Apple Messages 插件，可代发短信",
+      "旨在将 AI 转化为自动化日常文本沟通的工具"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "60d44502cd811ab04b2b916894a9c8b9",
+    "title": "Google Discover is getting an AI chatbot-tuned feed",
+    "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T21:50:22+00:00",
+    "content_snippet": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your [&#8230;]",
+    "title_zh": "Google Discover 将推出 AI 聊天机器人调优的信息流",
+    "summary_zh": "Google Discover 将推出新功能，允许用户通过描述想看到的内容，利用 AI 自动调整信息流并记住偏好，该功能将于近日在 Google 应用中上线。",
+    "key_points": [
+      "Google Discover 新增 AI 自定义信息流功能",
+      "用户可通过文字描述偏好，AI 自动调整内容",
+      "新功能将在未来几天内于 Google 应用推出"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
