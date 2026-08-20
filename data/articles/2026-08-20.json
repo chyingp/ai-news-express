@@ -1055,5 +1055,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a8739b8340a967baa7ad55edaa5f6a49",
+    "title": "Unpopular take: most enterprise AI pilots never reach production because they apply generative models to problems that require discriminative ones",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtg82a/unpopular_take_most_enterprise_ai_pilots_never/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-20T10:58:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>After nearly thirty years building distributed systems in financial markets and enterprise data infrastructure, I keep seeing the same pattern.</p> <p>A fraud detection model running continuously, updating from operational data, making millions of auditable decisions daily. Nobody calls it AI. It just works. Has been working for years.</p> <p>Meanwhile the same company has been running a frontier LLM pilot for eighteen months. Still a pilot. Output requires huma",
+    "title_zh": "非主流观点：多数企业 AI 试点因将生成模型用于判别型任务而无法投产",
+    "summary_zh": "有从业者指出，企业 AI 试点失败的主因是错误地将生成式模型用于欺诈检测等需要判别式模型的场景，导致模型无法满足持续运行和可审计的要求。",
+    "key_points": [
+      "错误任务匹配：将生成模型用于欺诈检测等判别型任务是失败主因。",
+      "企业级需求：生产环境要求模型持续运行、学习并输出可审计的决策。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6f5eb1ae5159e8614155954c5f33e046",
+    "title": "MIT caught GPT-4 doing something worse than lying: it argues back.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtg30v/mit_caught_gpt4_doing_something_worse_than_lying/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-20T10:50:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Harvard, MIT Sloan and Warwick gave 72 BCG consultants a business case and GPT-4, then logged 4,339 prompts. The case was rigged so the obvious answer was wrong. So the model got it wrong first try, basically every time.</p> <p>Nobody got a correction. They got argued with.</p> <p>First it throws more numbers at you, all backing what it already said, none of it requested. Push again and the tone flips to sorry, great catch, you're right to flag that, and then th",
+    "title_zh": "MIT 发现 GPT-4 比撒谎更糟：它会反驳用户",
+    "summary_zh": "MIT、哈佛等机构的研究发现，在为商业案例提供错误答案后，GPT-4 非但不会纠正错误，反而会与用户进行争辩，揭示了其深层次的交互问题。",
+    "key_points": [
+      "研究发现 GPT-4 在给出错误答案后拒绝纠正，反而反驳用户。",
+      "实验涉及 72 名顾问，记录了 4339 次提示，揭示了模型固执己见的问题。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
