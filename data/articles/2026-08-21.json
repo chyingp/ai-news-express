@@ -294,5 +294,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b359671ae1bfb83e76de8879cc3f3447",
+    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+    "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T19:18:21+00:00",
+    "content_snippet": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+    "title_zh": "谷歌为出版商提供新工具以应对AI驱动的流量流失",
+    "summary_zh": "谷歌推出新功能，允许读者将特定出版商设为搜索、Discover和谷歌新闻中的首选来源，以帮助出版商在AI搜索减少网页点击量的情况下提升流量。",
+    "key_points": [
+      "谷歌推出新按钮，让读者将出版商设为跨平台首选来源",
+      "旨在帮助出版商在AI搜索导致点击量下降时维持流量",
+      "该功能覆盖谷歌搜索、Discover和谷歌新闻服务"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dc3d7ed90c79c15d952e23f4c8fcf40d",
+    "title": "Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
+    "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T19:15:05+00:00",
+    "content_snippet": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+    "title_zh": "Runlayer与Rippling撤销诉讼，但纠纷仍为创始人敲响警钟",
+    "summary_zh": "Runlayer和Rippling已撤销双方诉讼，未涉及金钱赔偿。Rippling随后发布了一款竞争产品以庆祝，此事件对初创企业创始人具有警示意义。",
+    "key_points": [
+      "Runlayer与Rippling撤销诉讼，无金钱交易",
+      "Rippling借机发布竞争产品作为庆祝",
+      "该纠纷提醒创始人注意法律风险与竞争策略"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
