@@ -344,5 +344,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c6a17d0ad1e833795a48c34e94f4ad25",
+    "title": "Thomson Reuters launches CoCounsel Legal with a Westlaw-backed agentic workflow",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtuapq/thomson_reuters_launches_cocounsel_legal_with_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T20:00:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Thomson Reuters says the next generation of CoCounsel Legal is now generally available. It brings legal research, drafting, verification, and matter workflows into one product built on Westlaw and Practical Law.</p> <p>The new Westlaw Brief Builder moves from research and issue analysis to a first draft while checking the supporting authority. Thomson Reuters also added workspaces, Word drafting, and tabular review for up to 10,000 documents and 100 questions.</",
+    "title_zh": "汤森路透推出整合Westlaw的CoCounsel Legal智能法律工作流",
+    "summary_zh": "汤森路透发布新一代CoCounsel Legal产品，将法律研究、文书起草、事实核查和案件管理工作流整合至一个平台，并基于其Westlaw和Practical Law数据库构建。",
+    "key_points": [
+      "汤森路透发布新一代AI法律助手CoCounsel Legal",
+      "产品整合Westlaw数据库，覆盖研究、起草、核查全流程",
+      "新增Westlaw简报生成器，自动化法律文档工作流"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
