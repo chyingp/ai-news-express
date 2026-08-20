@@ -419,5 +419,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a3a14cbe31617488ff75cbc2abb1dd67",
+    "title": "Times a changing",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtz8t3/times_a_changing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-20T23:11:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Do u think, say a guy started working learning building with ai 2 yrs ago , fast forward 2 yrs, so now 4 yrs working with ai. With no previous programming experience. Do u think this guy, would possiable be valuable to companies. They are at this point ai expert in the field. Just no formal training? What u think of this situation. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Input-X\"> /u/Input-X </a> &#32; to &#32; <a ",
+    "title_zh": "时代在变",
+    "summary_zh": "Reddit用户讨论一个无编程基础但自学AI四年的人，是否可能对企业有价值，并探讨其成为AI专家的可能性。",
+    "key_points": [
+      "无编程背景者自学AI四年后，能否对企业产生价值",
+      "帖子引发关于AI学习路径和职业发展的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "08dddb48c1bd24f550f9585c76171adb",
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T22:36:37+00:00",
+    "content_snippet": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+    "title_zh": "新数据显示，OpenAI在企业用户中正追赶Anthropic",
+    "summary_zh": "TechCrunch报道，随着各大AI实验室发布新模型，企业用户愿意在它们之间反复切换，这种波动性表明企业AI支出并非如想象中那样具有黏性，OpenAI正在从Anthropic手中争夺客户。",
+    "key_points": [
+      "企业用户会根据新模型发布，在OpenAI和Anthropic间频繁切换",
+      "这种不稳定性引发对两家公司企业AI支出黏性的担忧",
+      "OpenAI在企业市场份额上正逐步赶上Anthropic"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
