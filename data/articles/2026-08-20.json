@@ -870,5 +870,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5ed9b8fa5e10364213508b46105145a8",
+    "title": "Absolute mode for AI ?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtcyct/absolute_mode_for_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T07:50:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi guys, in the past, I always used Absolute Mode with my AI. As technology has progressed, the guardrails have gotten stricter, and my old commands don't work like they used to. Does anyone have a new command they could share? The AI is using way too much soft talk and filler words, and I'd like to get back that cold, objective AI I had before. It used to feel like a precise tool, but now it tries to act like a buddy, which I really don't want. Thanks in advanc",
+    "title_zh": "如何让AI进入绝对模式？",
+    "summary_zh": "一名Reddit用户反映，随着AI技术的发展，安全护栏变得越来越严格，过去使用的“绝对模式”指令已失效，导致AI回复过于委婉。该用户正在寻求新的指令来绕过限制，让AI更直接地回答问题。",
+    "key_points": [
+      "用户寻求破解AI安全护栏的新指令",
+      "AI安全措施加强导致旧指令失效",
+      "用户不满AI回复过于委婉，追求直接交互"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
