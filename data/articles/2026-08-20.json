@@ -1103,5 +1103,122 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "aca5b20236936ca4a8dd4bc368501708",
+    "title": "Meta AI’s new Mac app wants you to talk to your apps",
+    "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T12:11:57+00:00",
+    "content_snippet": "Meta said its Muse Spark model is powering the dictation feature.",
+    "title_zh": "Meta AI 推出新 Mac 应用，让你与你的应用对话",
+    "summary_zh": "Meta 发布了新的 Mac 应用，引入语音控制功能，允许用户直接与桌面应用程序对话，其核心由 Muse Spark 模型提供支持。",
+    "key_points": [
+      "Meta AI 发布 Mac 桌面应用，主打与程序对话交互",
+      "内置听写功能由 Meta 自研 Muse Spark 模型驱动"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4ad78b2d3b31558dc3c1e0874763623e",
+    "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+    "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-20T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a&#8230;",
+    "title_zh": "下载：多重危机支持网络与氢气淘金热",
+    "summary_zh": "本期 MIT Technology Review 通讯涵盖两项主题：探讨帮助儿童应对多重危机的支持网络，以及地下天然氢气的淘金热潮。",
+    "key_points": [
+      "讨论支持网络如何帮助儿童应对多重危机",
+      "报道寻找地下天然氢气的地质能源新趋势"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "58939a4222a77cc276cd3acca20cae29",
+    "title": "Slack is launching collaborative vibe-coding channels",
+    "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T12:00:00+00:00",
+    "content_snippet": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have [&#8230;]",
+    "title_zh": "Slack 推出协作式氛围编程频道",
+    "summary_zh": "Slack 推出全新专属频道，让团队可以与 AI 代理一起进行氛围编程，无需切换工具，并包含代码对比和预览功能。",
+    "key_points": [
+      "Slack 推出专用频道支持团队与 AI 代理协作编程",
+      "新功能包含代码变更对比、项目专属标签页等"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e74ef729b9a7b8c17a10ec99b536274e",
+    "title": "Resizing images from Flutter Camera Stream for TFLite modle [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vth6d9/resizing_images_from_flutter_camera_stream_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-20T11:45:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone. So I built a CNN modle using MobileNetv3 then converted it into TFLite. It performed well during training but once I integrated it into my application, it is making large errors. From flutter, the camera stream sends frames and those are processed before the model makes predictions, but it is still quite large. Is there any way I can solve this? This is my code to preprocess and resize the image (224 x 224 x RGB):</p> <pre><code>import 'package:came",
+    "title_zh": "从 Flutter 摄像头流调整图像大小用于 TFLite 模型",
+    "summary_zh": "Reddit 用户求助，其训练表现良好的 MobileNetv3 模型转换为 TFLite 后，因 Flutter 摄像头流图像预处理导致集成应用时出现较大误差。",
+    "key_points": [
+      "MobileNetv3 模型训练表现良好但集成后误差大",
+      "问题源于 Flutter 摄像头帧的预处理缩放环节"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dd876d68aca70e2893f62d7c14b63efe",
+    "title": "AI-generated code detection in CI/CD — looking for approaches and real-world experience [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vtgw1g/aigenerated_code_detection_in_cicd_looking_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-20T11:31:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>I'm working on a system to estimate whether code committed to a repository was generated with AI coding tools.</p> <p>My current approach is based on Git/commit-level signals such as AI-related commit trailers, commit metadata, LOC changes, number of files changed, addition/deletion patterns, etc.</p> <p>The problem I'm running into is confidence and calibration.</p> <p>For example, a commit containing 500+ new lines isn't necessarily AI-generate",
+    "title_zh": "CI/CD 中检测 AI 生成代码：寻求方法和实战经验",
+    "summary_zh": "用户寻求在 CI/CD 流程中检测 AI 生成代码的方法，当前方案基于 Git 提交元数据、代码行数变更等信号进行估算。",
+    "key_points": [
+      "开发者探索基于 Git 信号的 AI 生成代码检测系统",
+      "当前方案利用提交元数据、代码行数变化等特征"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
