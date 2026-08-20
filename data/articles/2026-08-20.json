@@ -795,5 +795,28 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2a252774695207a515bd907c90df074f",
+    "title": "Did anyone Tried making a loop LM with exit gate, sparced, compressed and highly compressed attention and layer attention with diffusion optimize? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vtaev3/did_anyone_tried_making_a_loop_lm_with_exit_gate/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-20T05:25:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm trying to make a small experimental LM by combining a bunch of ideas I found in different papers. I know this sounds like I threw half the recent LM literature into a blender, but I'm trying to see if the pieces can actually work together.</p> <p>The main idea is a <strong>Loop Language Model</strong>, where the same model is run multiple times instead of just making the network deeper and deeper.</p> <p>Right now I'm using <strong>4 loops</strong>.</p> <p><",
+    "title_zh": "有人尝试过用出口门、稀疏化、压缩注意力和扩散优化制作循环语言模型吗？[讨论]",
+    "summary_zh": "一位Reddit用户发帖讨论，其正尝试组合多种论文中的技术（如出口门、稀疏注意力、压缩注意力、层注意力和扩散优化）来构建一个实验性的小型循环语言模型，并询问社区是否有人做过类似尝试，意图探索这些技术是否能协同工作。",
+    "key_points": [
+      "用户尝试融合出口门、稀疏注意力等多种技术构建实验性循环语言模型",
+      "发帖目的是询问社区是否已有类似尝试，探讨技术组合的可行性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
