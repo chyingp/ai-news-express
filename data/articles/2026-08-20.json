@@ -652,5 +652,74 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4816fca897701d9bd5f6f42acc764a74",
+    "title": "Companies buying rare books to train AI and destroying them",
+    "url": "https://www.reddit.com/r/artificial/comments/1vt3gsm/companies_buying_rare_books_to_train_ai_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-19T23:58:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Has this been addressed in this subreddit? </p> <p><a href=\"https://youtu.be/LAslxexwhOU?is=W745WpGFlnmQI2PQ\">https://youtu.be/LAslxexwhOU?is=W745WpGFlnmQI2PQ</a> this is from Forbes. </p> <p>Why destroy those books? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SubstantialPressure3\"> /u/SubstantialPressure3 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https:",
+    "title_zh": "公司购买珍本书籍训练AI并销毁，引发争议",
+    "summary_zh": "据《福布斯》报道，有公司购买珍本书籍用于训练AI模型并在使用后将其销毁，此举引发对文化资产保护和版权伦理的担忧。",
+    "key_points": [
+      "公司被指出于AI训练目的购买并销毁珍本书籍",
+      "视频来源《福布斯》，引发对数据获取伦理的质疑"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "42bbaa081fc3b432b4a8e3bcfd809551",
+    "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+    "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-19T23:32:00+00:00",
+    "content_snippet": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+    "title_zh": "Stripe收购OpenRouter并非因“奇点论”，实为战略布局",
+    "summary_zh": "Stripe收购AI模型路由初创公司OpenRouter，官方宣称原因是“奇点临近”，但实际更可能出于整合支付与AI工作流、拓展生态的真实商业需求。",
+    "key_points": [
+      "Stripe收购AI模型路由平台OpenRouter",
+      "官方称收购动机为“奇点”，但实质是商业战略整合"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7bf99ebc5a6a42b4c84ac3e4ce0db8cf",
+    "title": "My View on A.i Art",
+    "url": "https://www.reddit.com/r/artificial/comments/1vt2p49/my_view_on_ai_art/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-19T23:25:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>how i see it? humans are the pancil and a.i is the paintbrush; essentially expanding on you own creative ideas and concepts intead of a.i just doing all the conceptualization itself. Ultimately, i see a.i as an extension of ones own creativity, a multiplier if you will.</p> <p>At the end of the day, nothing a.i does is on its own accord, its all the input of a human's concept or idea, so this all just seem really silly one you actually LOGICALLY think about it. ",
+    "title_zh": "我对AI艺术的看法：AI是画笔，人类是铅笔",
+    "summary_zh": "Reddit用户发文阐述对AI艺术的看法，认为AI应被视为人类创造力的延伸和倍增器，类似于画笔之于铅笔，帮助扩展创意概念而非替代人类构思。",
+    "key_points": [
+      "提出AI艺术中人类是铅笔，AI是画笔的比喻",
+      "强调AI作为创造力延伸工具，而非替代人类概念化过程"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
