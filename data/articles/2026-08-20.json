@@ -894,5 +894,74 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ad5059a21e1bb200b1d533573d0ff4b0",
+    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+    "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T09:30:00+00:00",
+    "content_snippet": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+    "title_zh": "币安允许AI代理交易，但监控责任主要依赖用户",
+    "summary_zh": "币安推出Agent OS平台，支持ChatGPT、Claude Code和Cursor等AI工具进行加密货币交易，但该平台将AI代理的监管和风险控制责任主要交由用户承担。",
+    "key_points": [
+      "币安Agent OS支持多种AI工具进行加密货币交易",
+      "平台将AI代理交易的风险管控责任主要交给用户"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f13376a8d8ed762485896de9629d0723",
+    "title": "Support networks aim to help kids through the polycrisis",
+    "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-20T09:00:00+00:00",
+    "content_snippet": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried&#8230;",
+    "title_zh": "支持网络旨在帮助儿童应对多重危机",
+    "summary_zh": "文章探讨了在面对气候变化、经济不稳定等多重危机时，各种支持网络和项目如何帮助儿童及青少年培养心理韧性，以应对时代挑战。",
+    "key_points": [
+      "探讨支持网络如何帮助儿童应对多重社会与环境危机",
+      "聚焦培养儿童心理韧性以面对时代挑战的方法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8c632361bd94dd0fb3ec3fa0f8fcf406",
+    "title": "Discussion thread for EMNLP 2026 Notifications/Results [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vtdpve/discussion_thread_for_emnlp_2026/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-20T08:37:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Discussion thread for EMNLP 2026 notifications/results which should be released today.</p> <p>Wishing everybody to be in Budapest.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/sweetsalt10\"> /u/sweetsalt10 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1vtdpve/discussion_thread_for_emnlp_2026/\">[link]</",
+    "title_zh": "EMNLP 2026 录用结果讨论帖",
+    "summary_zh": "Reddit机器学习版块上的一个讨论帖，用于交流EMNLP 2026自然语言处理顶会的论文录用通知情况，结果预计在当天发布。",
+    "key_points": [
+      "EMNLP 2026自然语言处理顶会论文录用结果公布",
+      "Reddit社区创建讨论帖供研究者交流论文录用情况"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
