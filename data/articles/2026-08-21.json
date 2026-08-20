@@ -124,5 +124,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "072ab33f0182f13783841e8a0a9dd0d6",
+    "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
+    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-20T17:18:58+00:00",
+    "content_snippet": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+    "title_zh": "研究显示ChatGPT发布后三分之一的网页内容带有AI创作痕迹",
+    "summary_zh": "一项新研究发现，自ChatGPT推出以来，网络上发布的新网页中约有三分之一显示出由AI生成或辅助编辑的迹象，表明AI正在大规模重塑互联网内容生态。",
+    "key_points": [
+      "ChatGPT等AI模型正大量参与新网页内容的创作与编辑",
+      "研究统计显示约三分之一新网页存在AI创作迹象",
+      "此趋势反映了AI对互联网内容生态的深刻影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "28cd1afbb67e577e7314b1f44dc3c68f",
+    "title": "Ramp launches its own AI model router, called Router",
+    "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T16:46:00+00:00",
+    "content_snippet": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+    "title_zh": "金融科技公司Ramp推出自研AI模型路由服务Router",
+    "summary_zh": "金融科技公司Ramp发布了一款名为Router的AI模型路由服务，允许用户和企业通过统一的API接口调用并切换多种不同的大语言模型。",
+    "key_points": [
+      "Ramp发布AI模型路由服务Router，简化多模型调用流程",
+      "用户可通过Router的API统一访问和切换不同的大语言模型",
+      "该服务旨在帮助企业更灵活地使用AI模型"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e10342f895c7bd8d25845446f10b313d",
+    "title": "Three of you told me my LLM résumé-screening study measured the wrong thing. You were right. Here is the data.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtokti/three_of_you_told_me_my_llm_résuméscreening_study/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-20T16:37:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Three months ago, I posted an LLM resume-screening study in which an auditor flagged 45 per cent of score differences as bias. Thread feedback challenged my methodology, so I ran new experiments testing three specific objections. </p> <p>To test <a href=\"/u/kamilc86\">u/kamilc86</a>'s claim that reasoning is invented post hoc, I transplanted positive and negative justifications back into prompts across 320 runs. Scores moved 3.62 points in the reasoning's directi",
+    "title_zh": "研究者承认LLM简历筛选实验存在缺陷并发布新数据",
+    "summary_zh": "一位Reddit用户承认其此前关于大语言模型简历筛选偏见的研究方法存在问题，并根据社区反馈重新进行了实验，发布了新的数据结果。",
+    "key_points": [
+      "研究者承认此前LLM简历筛选研究的实验方法存在错误",
+      "根据社区反馈对三项具体质疑重新进行了实验",
+      "发布了新的实验数据作为对先前研究的修正"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
