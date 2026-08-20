@@ -1391,5 +1391,127 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "561dd5de025d14e5f707a166401328ed",
+    "title": "Open source is trending hard today: hot take thread",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtmha5/open_source_is_trending_hard_today_hot_take_thread/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-20T15:21:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Everyone's talking about Open source right now. The main story: mojo is now open source. One take in the thread that got me thinking: 'How to rescue abandoned open-source projects, modernize build systems, and generate multi-architecture Docker images (x86_64, ARM64) in a single afternoon with Antigravity'.</p> <p>I'll go against the grain a bit: I think the real effect shows up in the boring use cases, not the flashy demos.</p> <p>What's the take you disagree w",
+    "title_zh": "开源今日趋势热议：Mojo正式开源引发讨论",
+    "summary_zh": "Reddit用户热议开源趋势，重点是Mojo编程语言现已开源。讨论还包括如何拯救废弃开源项目、现代化构建系统以及生成多架构Docker镜像等话题。",
+    "key_points": [
+      "Mojo编程语言正式宣布开源，成为社区焦点",
+      "讨论涉及拯救废弃项目与构建系统现代化",
+      "话题涵盖多架构Docker镜像生成等工程实践"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "40c7cdfbee8ba130d8fd2f73f9a054b2",
+    "title": "10 AI engineering updates for Aug 20: runtime fixes, inference overhead, and agent research",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtm44z/10_ai_engineering_updates_for_aug_20_runtime/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-20T15:08:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Today's useful AI updates are mostly operational: callback safety, task-runner liveness, metadata overhead, compatibility fixes, and what current agent research still cannot assume. The release items below are direct product changes. Paper results are author-reported, not independent reproductions.</p> <ol> <li><p>**Pydantic AI 2.32.1** rejects nested `run_sync()` calls from synchronous callbacks inside agent runs. It also avoids empty-signature Anthropic thinki",
+    "title_zh": "8月20日AI工程更新：运行时修复、推理开销与智能体研究",
+    "summary_zh": "汇总了10项AI工程实用更新，涉及回调安全、任务运行器活性、元数据开销、兼容性修复等操作性问题，以及当前智能体研究仍无法默认的假设。",
+    "key_points": [
+      "更新聚焦回调安全、任务运行器活性等工程问题",
+      "涵盖元数据开销和兼容性修复等直接产品变更",
+      "指出当前智能体研究仍存在无法默认的假设"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1589347fbdfca0330041e77e63de8b3e",
+    "title": "ROI on AI workflow tools feels fake right now and i want to be wrong",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtlrnz/roi_on_ai_workflow_tools_feels_fake_right_now_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T14:55:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>been trying to automate a chunk of my customer onboarding process for my saas. nothing fancy, just reducing the back and forth emails that eat up like 2 hours a week. spent probably 6 hours across three evenings testing different AIassisted tools and prompt setups to make it work smoothly.</p> <p>the math on that is not great.</p> <p>and i keep running into this thing where the setup cost is real and upfront but the payoff is theoretical and later. which is fine",
+    "title_zh": "AI工作流工具的投资回报率感觉不真实，但我希望我错了",
+    "summary_zh": "一位SaaS从业者分享，尝试用AI工具自动化客户入职流程以减少邮件往来，但花费6小时调试工具和提示词，感觉投入产出比不真实。",
+    "key_points": [
+      "用户尝试用AI工具自动化客户入职流程",
+      "为节省每周2小时，调试工具却花费6小时",
+      "对AI工作流工具的实际投资回报率提出质疑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f7909b5db670e592302ebcd1ddcbe908",
+    "title": "my coding agent approved its own pagination bug lol",
+    "url": "https://www.reddit.com/r/artificial/comments/1vtlisn/my_coding_agent_approved_its_own_pagination_bug/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-20T14:46:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>had a stupid one last week.</p> <p>an agent changed some pagination code in a sync job. tests passed, PR looked fine, then staging stopped at exactly 100 records because the cursor wasn't updating.</p> <p>the funny part is i had the same agent review the change before merging it. it found nothing wrong with its own code. shocking.</p> <p>since then i've stopped letting the writer review itself. now i open a separate minimax m3 session, drop in the diff plus what",
+    "title_zh": "我的编码智能体批准了自己的分页错误",
+    "summary_zh": "开发者分享趣事：一个编码智能体修改了同步任务的分页代码，测试通过但实际因游标未更新导致数据停在100条，且该智能体此前还审查并通过了此变更。",
+    "key_points": [
+      "智能体修改分页代码后游标未更新，导致数据截断",
+      "该智能体在代码审查环节未能发现自身错误",
+      "案例暴露了AI编码工具在自审查逻辑上的缺陷"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "552ff2b0f69de90a25c6e8792f0081db",
+    "title": "OpenAI for anything you can do in your browser:",
+    "url": "https://nitter.net/gdb/status/2090449916456009972#m",
+    "source": "Greg Brockman (X)",
+    "source_zh": "Greg Brockman",
+    "source_type": "nitter",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-20T14:44:33+00:00",
+    "content_snippet": "<p>OpenAI for anything you can do in your browser:</p>\n<hr />\n<blockquote>\n<b>claire vo 🖤 (@clairevo)</b>\n<p>\n<p>things i use codex browser/chrome/computer for<br />\n- closing the books our accounting software<br />\n- clearing my linkedin queue<br />\n- managing gmail / clearing inbox<br />\n- setting up stripe radar rules <br />\n- iterating on images in midjourney<br />\n- browser based QA on every PR<br />\n- build inspo library from other websites<br />\n- completing security questionaires<br />\n-",
+    "title_zh": "OpenAI发布浏览器内全能操作工具",
+    "summary_zh": "Greg Brockman转发分享，展示OpenAI新工具可执行浏览器内一切操作，如结账会计软件、管理领英队列、处理Gmail及设置等，将其定位为通用浏览器代理。",
+    "key_points": [
+      "OpenAI推出可在浏览器内执行各类操作的通用工具",
+      "功能涵盖会计结账、邮件管理、社交平台队列处理",
+      "由Greg Brockman分享，定位为浏览器全能代理"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
