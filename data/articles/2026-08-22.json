@@ -44,5 +44,99 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b3ec9bed313dd600d9b8c33a40eb34a4",
+    "title": "What coding practices are you adopting for development today? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vumbwe/what_coding_practices_are_you_adopting_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-21T17:10:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have been reflecting on this while working on a project recently. Every time we start a new model, we rewrite roughly same scaffolding, data validation checks, feature transformation logic ; all of this is nealy 80 percent identical to last project</p> <p>I tired templating with cookiecutter style project generators. Initially it was okay, but it drifted from reality since noone wants to maintain a template repo. So tired a shared library approach, it helped a",
+    "title_zh": "开发中你采用哪些编码实践？",
+    "summary_zh": "作者反思AI项目开发中代码复用的痛点，每次新项目都要重写大量相似的脚手架、数据验证和特征转换逻辑，寻求社区分享高效的编码实践以避免重复劳动。",
+    "key_points": [
+      "新项目80%代码与旧项目相似，存在大量重复编写",
+      "讨论如何通过编码实践复用脚手架与数据处理逻辑"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "232deff2d2c350b78d694b7bcd3e0674",
+    "title": "Retrieval-augmented generation solves a problem most teams don't actually have",
+    "url": "https://www.reddit.com/r/artificial/comments/1vum0np/retrievalaugmented_generation_solves_a_problem/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-21T16:59:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Adding a vector database is usually the first move when output quality drops on a knowledge-heavy task. It's rarely the right one. Most quality problems in that category aren't retrieval failures, they're curation failures wearing a retrieval-shaped disguise. The model isn't underinformed. It's drowning in loosely relevant material with nothing telling it what to weigh more heavily, and RAG just automates feeding it more of exactly that.</p> <p>The tell is what ",
+    "title_zh": "检索增强生成解决了大多数团队并不存在的问题",
+    "summary_zh": "文章认为，当知识密集型任务输出质量下降时，添加向量数据库的RAG方案往往是错误选择。多数质量问题源于内容管理失败而非检索失败，问题根源被误判。",
+    "key_points": [
+      "RAG常被误用作解决知识密集型任务质量问题的首选方案",
+      "质量下降多因内容管理问题，而非检索技术本身"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "382d35acbe99c8ad565654ea50716edb",
+    "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-21T16:38:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>LLMs are too verbose and with a black box model the only things you control are what goes in and how you tell it to write back. Yesterday Claude Code shipped a &quot;concise output style&quot; where Claude keeps things short. We already have a paper out about this!</p> <p>We tested both channels, shortening the input prompt versus telling the model to output answer shorter, on the same questions across five reduction levels, and scored cost, accuracy, and whethe",
+    "title_zh": "要求LLM“简洁”真的能省钱吗？跨9款模型的实测结果",
+    "summary_zh": "研究测试了要求大语言模型输出简洁是否能节省成本。结果显示，压缩输出内容可以省钱并保持准确性，但压缩输入提示词则无法达到省钱效果。",
+    "key_points": [
+      "压缩输出可在保持准确性的同时降低大模型使用成本",
+      "压缩输入提示词无法有效节省成本"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5d94916819c21c3edb8f08875b318820",
+    "title": "I have a mid-sized GPU cluster and was thinking about giving free compute [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vulefc/i_have_a_midsized_gpu_cluster_and_was_thinking/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-21T16:37:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have built an on-prem GPU cluster, 8 nvidia 16GB GPU's and 256GB CPU RAM, 50TB HDD and several TBs of SSDs. I have used it, and currently use it, for ML/AI research. But that research is not constantly running jobs, sometimes I use it heavily and other times it's idle. I was considering just letting people with qualified use cases run jobs on it SLURM style. I don't know if its enough compute to be useful really. Let me know if it's something you'd be interest",
+    "title_zh": "我有一个中型GPU集群，考虑提供免费算力",
+    "summary_zh": "用户搭建了一个包含8块英伟达16GB GPU的本地集群，因算力并非时刻满载运行，正犹豫是否将闲置资源提供给社区用于研究，并向社区征求意见。",
+    "key_points": [
+      "用户拥有8块英伟达GPU的集群，资源存在闲置情况",
+      "正考虑将闲置算力免费提供给社区研究使用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
