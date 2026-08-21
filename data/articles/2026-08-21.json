@@ -564,5 +564,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6489c159042646d790aa86328c22c4ea",
+    "title": "At what point does AI become classified as \"life\"?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vu5bz5/at_what_point_does_ai_become_classified_as_life/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-21T03:49:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Life is defined as &quot;the capacity in matter, formed of one or more units called cells, for processes such as cell signaling, homeostasis, metabolism, cell growth, adaptation, response to stimuli, and reproduction.&quot;</p> <p>So clearly the entire faces for our definition of &quot;life&quot; revolves around biological cells. Life doesn't mean sentience, consciousness or intelligence, just that it has to be made of cells and reproduce. A single celled lifefo",
+    "title_zh": "AI发展到什么程度会被归类为“生命”？",
+    "summary_zh": "Reddit用户发起哲学讨论，基于生命在细胞层面的生物学定义，探讨当前AI系统尽管具有适应和响应刺激的能力，但缺乏细胞结构、新陈代谢等关键特征，是否或在何种条件下可以被视为“生命”。",
+    "key_points": [
+      "讨论基于生物学定义（细胞、代谢等）探讨AI是否算生命",
+      "AI当前缺乏细胞结构和新陈代谢等生命核心特征",
+      "引发关于AI何时跨越生命边界的哲学思辨"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cb3137929ec152125292ea1213345b4d",
+    "title": "Anyone else have these \"Oh my god\" moments with AI every couple weeks?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vu59jb/anyone_else_have_these_oh_my_god_moments_with_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-21T03:45:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been pretty heavily invested in the AI news space for a while, but due to budget constraints, I never really got to test these models.</p> <p>I bit the bullet once DeepSeek v4 0731 came out and put in twenty dollars. I'd had experience with frontier models through chat window subscriptions, but having an agent was a whole different experience.</p> <p>I built so many useful tools within a matter of hours for cents, and it really blew me away.</p> <p>What ama",
+    "title_zh": "还有人每隔几周就会对AI产生“我的天”那种惊叹时刻吗？",
+    "summary_zh": "一位Reddit用户分享了自己在预算有限的情况下，深度使用DeepSeek v4模型后，频繁体验到AI带来的震撼和惊叹，并询问社区其他成员是否也有类似的周期性感受。",
+    "key_points": [
+      "用户分享使用DeepSeek v4后频繁产生AI震撼体验",
+      "讨论AI技术快速迭代带来的定期“惊叹时刻”",
+      "反映了用户体验进阶模型时的普遍心理变化"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
