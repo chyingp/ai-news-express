@@ -1,0 +1,48 @@
+[
+  {
+    "id": "e9af85a2a9c9f9b550054f3c6a466e41",
+    "title": "EMNLP26 Cost [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-21T16:24:00+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d/\"> <img alt=\"EMNLP26 Cost [D]\" src=\"https://preview.redd.it/to16g93h7rkh1.png?width=140&amp;height=48&amp;auto=webp&amp;s=96b72fe62af68603b123386ce4bc159d90457585\" title=\"EMNLP26 Cost [D]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>What is up with the EMNLP prices? What is the actual price for attending as a student with one accepted paper? If I register now in August, is it $350 or $550? ",
+    "title_zh": "EMNLP26 成本 [讨论]",
+    "summary_zh": "一篇 Reddit 讨论帖，探讨 EMNLP 2026 学术会议参与成本的问题，可能涉及注册费、旅行或出版费用。",
+    "key_points": [
+      "讨论 EMNLP 2026 会议的经济成本",
+      "可能涉及学术界对会议费用上涨的担忧"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f05c7aab19afacac491da8bbf942cb44",
+    "title": "Safety critical systems (SCS) are the only real benchmark for ML systems. Thoughts? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vukv7j/safety_critical_systems_scs_are_the_only_real/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-21T16:17:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What are real-world safety critical systems (SCS)?</p> <ul> <li>A flight controller for a commercial airplane carrying 300 passengers.</li> <li>A braking system for a bullet train that operates at 320km/hour.</li> <li>A reactor protection system for nuclear power plant that serves millions of people.</li> <li>A piece of medical equipment that regulate certain bodily rhythm for a patient.</li> <li>A railway crossing system for a network involving dozens of trains",
+    "title_zh": "安全关键系统是机器学习系统唯一的真正基准吗？[讨论]",
+    "summary_zh": "一篇 Reddit 讨论帖，提出安全关键系统（如飞机控制器、高铁刹车）才是衡量机器学习系统可靠性的唯一标准。",
+    "key_points": [
+      "探讨安全关键系统作为 ML 基准的合理性",
+      "列举航空、铁路、核能等领域的安全关键应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
