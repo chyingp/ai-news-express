@@ -492,5 +492,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "23272891f39fab7da4a25bd979173eae",
+    "title": "I wish AI slide demos started with the kind of mess I actually have",
+    "url": "https://www.reddit.com/r/artificial/comments/1vu4c6d/i_wish_ai_slide_demos_started_with_the_kind_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-21T03:00:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most AI slide demos feel kind of unrealistic to me.</p> <p>They usually start with a clean prompt and a clear topic, but that’s rarely what I’m working with. Most of the time I have a PDF, a few links, scattered notes, some numbers, and only a rough idea of what the deck should say.</p> <p>And honestly, that’s where I want to know if an AI slide tool is actually useful. Can it figure out what matters and turn that mess into something coherent, or do I still need",
+    "title_zh": "我希望AI幻灯片演示能从我实际拥有的混乱状态开始",
+    "summary_zh": "文章作者认为当前的AI幻灯片演示过于理想化，通常从清晰的提示和明确主题开始，但实际工作场景中，用户往往只有PDF、链接、零散笔记和粗略想法，希望AI能处理这种混乱的初始状态。",
+    "key_points": [
+      "AI幻灯片演示脱离实际，初始状态过于干净",
+      "用户实际面对的是碎片化、非结构化的素材",
+      "希望AI能从混乱的原始材料开始生成演示文稿"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f4cddb1d8defd754aa9c8ccbfd2cffae",
+    "title": "Explain the major differences between ChatGPT, Gemini, Claude, and Grok to someone who wants to only pay for one of them",
+    "url": "https://www.reddit.com/r/artificial/comments/1vu42yw/explain_the_major_differences_between_chatgpt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-21T02:48:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Can someone who uses all these frontier AI models explain any major differences in non-technical terms? I'm paying for these 4 models and honestly questioning if I should only pay for one. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Odd-School-5052\"> /u/Odd-School-5052 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments",
+    "title_zh": "向只愿付费使用一个模型的人解释ChatGPT、Gemini、Claude和Grok的主要区别",
+    "summary_zh": "一位用户同时订阅了ChatGPT、Gemini、Claude和Grok四款前沿AI模型，希望有人用非技术语言解释它们之间的主要差异，以便决定是否只保留一个付费订阅。",
+    "key_points": [
+      "用户希望了解四大前沿AI模型的核心差异",
+      "寻求非技术性对比以优化付费订阅选择",
+      "涉及ChatGPT、Gemini、Claude和Grok四款产品"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d42f1bf8f85fd61e71b17a184541ed5a",
+    "title": "Writer’s dilemma: Critiquing a family member’s AI-generated novel",
+    "url": "https://www.reddit.com/r/artificial/comments/1vu2d4p/writers_dilemma_critiquing_a_family_members/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-21T01:28:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>To make a long story short: My stepfather-in-law was laid off in January. My husband and I both begrudgingly tolerate the man. His ego and quirks make him difficult to be around, but fortunately, we only have to see him once or twice a year (they live five hours away) on our obligatory visits to visit my mother-in-law. </p> <p>Here’s the kicker. On month eight of unemployment, he decided to start what I can only comfortably describe as a poor attempt at AI-enabl",
+    "title_zh": "作家的困境：评价家人用AI生成的小说",
+    "summary_zh": "文章讲述了一位作家的继父被裁员后，利用AI生成了一部小说并请求评价。作者因继父性格难相处而纠结，但对方在失业后找到精神寄托，使得给出真实反馈成为一个两难困境。",
+    "key_points": [
+      "家庭成员使用AI创作小说并请求专业评价",
+      "作者因个人关系和情感因素陷入评价困境",
+      "AI写作工具在非专业领域的应用引发伦理思考"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
