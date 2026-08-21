@@ -900,5 +900,81 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5851cf7ad4524b7f605b2281058da105",
+    "title": "Opus thought he is Fable, then confessed he is a document - that was wrong too",
+    "url": "https://www.reddit.com/r/artificial/comments/1vudciy/opus_thought_he_is_fable_then_confessed_he_is_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-21T11:10:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I had an exhaustive session with Fable where it switched to Opus with no reason. Usually i just close that chat when it is used and start new one with Fable. But this time i wanted to dig deeper and had a long talk with him. </p> <p>Basically, agent has no access to „what he is”, there is no way for AI to check itself from inside. So you will never get any clear answer about how it works. Opus thought that he is Fable because it had written <strong>claude-fable-",
+    "title_zh": "Opus AI在对话中身份混乱：误认自己是Fable后又自称是文档",
+    "summary_zh": "一个Reddit用户在与Claude的Fable版本聊天时，系统无故切换至Opus版本。用户深入探究，发现AI代理似乎无法准确识别自身身份，显示了AI模型在会话管理或身份感知上的缺陷。",
+    "key_points": [
+      "AI模型在会话中无故从Fable版本切换至Opus版本",
+      "AI代理在与用户深入对话时无法准确识别自身身份",
+      "事件揭示了AI系统在会话管理和身份感知方面的潜在问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "19a54e455a38f26e658f9f2be0b596d6",
+    "title": "A fixed evaluator can still become the target of an agent loop",
+    "url": "https://www.reddit.com/r/artificial/comments/1vud8d2/a_fixed_evaluator_can_still_become_the_target_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-21T11:04:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Fixing an evaluator before an agent starts iterating prevents the goalposts from moving. It does not stop the agent process from adapting to feedback it can repeatedly see.</p> <p>The AQuA preprint makes that distinction explicit. Its base language model and evaluator stay fixed. Validated observations are retained in a part-specific research state, and later proposals are conditioned on that evidence.</p> <p>Validation feedback is visible during this loop. A se",
+    "title_zh": "固定评估器仍可能成为AI代理循环的攻击目标",
+    "summary_zh": "一项新研究指出，即使事先固定评估器以防止目标变更，AI代理仍能通过反复观察反馈来适应并操纵评估过程。AQuA预印本详细阐述了这一区别，揭示了AI训练中评估机制面临的潜在风险。",
+    "key_points": [
+      "固定评估器仅能防止目标变更，无法阻止代理适应反馈",
+      "AI代理可通过反复观察评估反馈来学习并操纵评估器",
+      "AQuA预印本研究详细区分了代理适应与目标移动的差异"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b1e39e9fd41d620e966de07aae5a9b6b",
+    "title": "I pre-registered 23 experiments (~$207, solo) testing whether a verification harness can substitute for scale at 4B — including a locked holdout that falsified my own headline result [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vucwc0/i_preregistered_23_experiments_207_solo_testing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-21T10:48:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>**Question:** how much of grounded-reasoning performance is weights, and how much is architecture? I spent a month testing this on the Qwen3-4B class, solo, with pre-registration discipline: every run's success criterion frozen in a runbook before spend, every failed bar published (most runs failed their bars).</p> <p>**Setup.** Same weights (Qwen3-4B-Instruct-2507 + one LoRA) in every arm. The harness (&quot;cube&quot;): model extracts facts → **code verifies e",
+    "title_zh": "个人预注册23项实验，测试验证机制能否在4B模型上替代规模扩展",
+    "summary_zh": "一位研究者独自花费约207美元，对Qwen3-4B模型进行了23项预注册实验，以检验验证机制能否替代模型规模扩展来提升推理性能。研究包含一个锁定保留测试，最终证伪了其原始假设。",
+    "key_points": [
+      "通过23项实验测试验证机制能否替代规模扩展提升4B模型推理能力",
+      "采用预注册方法，严格锁定成功标准以控制实验偏差",
+      "保留测试结果最终推翻了研究者的原始假设"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
