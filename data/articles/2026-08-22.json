@@ -138,5 +138,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f61a0f9a3872828847d406a20e30cf5b",
+    "title": "1.7B model leading strict-7 formal reasoning above Qwen3-8B and Gemma-4-26B - specialists eating generalist territory?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vunilm/17b_model_leading_strict7_formal_reasoning_above/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-21T17:54:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most of the reasoning gains coming out of the big labs are still tied to scale. More params, more compute, better reasoning. That's been the play for a while.</p> <p>Ran into TwIL-LM2 which flips the script for narrow tasks. PEFT LoRA adapter on SmolLM2-1.7B, specialized purely for formal logic translation. On strict-7 scoring (no partial credit, exact-format required) it hits 0.2386 - ahead of Qwen3-8B at 0.2093 and Gemma-4-26B at 0.2050. On the loose-match six",
+    "title_zh": "1.7B模型在严格形式推理上超越Qwen3-8B和Gemma-4-26B——专家模型正在蚕食通才模型领地？",
+    "summary_zh": "一个基于SmolLM2-1.7B模型的PEFT LoRA适配器TwIL-LM2，在特定形式推理任务中性能超越了参数量更大的Qwen3-8B和Gemma-4-26B，展示了专用小模型在垂直领域挑战通用大模型的潜力。",
+    "key_points": [
+      "TwIL-LM2在严格形式推理任务上优于Qwen3-8B和Gemma-4-26B",
+      "该模型基于SmolLM2-1.7B，使用PEFT LoRA适配器进行微调",
+      "该案例体现了专用小模型在特定任务上挑战通用大模型的趋势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
