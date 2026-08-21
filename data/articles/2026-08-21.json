@@ -612,5 +612,127 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4f7fe4cccdb91be06b0e36858316a3dd",
+    "title": "Looking at agent setups that can actually run with minimal human intervention",
+    "url": "https://www.reddit.com/r/artificial/comments/1vu97uc/looking_at_agent_setups_that_can_actually_run/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-21T07:18:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most agent frameworks still expect you to stay in the loop (approve tool calls, review diffs, restart things when they stall). I’ve been trying a few approaches that try to reduce that.</p> <p>In my opinion the closest current options are:</p> <ul> <li><strong>GitHub Agentic Workflows</strong> – agents that live inside Actions and can handle recurring repo tasks with guardrails </li> <li><strong>OpenClaw</strong> – more of a personal agent harness, strong multi-",
+    "title_zh": "探索能真正实现最小人工干预的AI智能体配置",
+    "summary_zh": "文章探讨当前AI智能体框架仍需人工介入的问题，介绍了GitHub等几种尝试减少人工监督、实现更高自主性的近期方案，反映了社区对自主运行智能体的实践探索。",
+    "key_points": [
+      "多数智能体框架仍需人工批准工具调用或重启任务",
+      "文章分享了GitHub等几种减少人工干预的实用方法",
+      "反映了社区对更高自主性AI智能体配置的需求"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "20c5be56bb83e4271372eb96fcfb90a2",
+    "title": "EqualAI Assistant App: SCAM?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vu97mq/equalai_assistant_app_scam/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-21T07:18:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Warning: My experience with Equal AI Assistant app - Potential Scam</p> <p>I wanted to share my experience with the Equal AI Assistant app to warn others. While it claims to handle calls, it frequently misses them. During my trial period, I tried contacting their support multiple times regarding these performance issues.</p> <p>After numerous attempts, I finally spoke to a human, but the service was terrible. I was repeatedly given the same robotic response that",
+    "title_zh": "EqualAI助手应用疑似为骗局",
+    "summary_zh": "用户发帖警告称Equal AI助手应用可能为骗局，该应用声称能处理来电但频繁漏接，且在试用期内联系客服无果，提醒其他用户注意风险。",
+    "key_points": [
+      "Equal AI助手应用声称能处理来电但频繁漏接",
+      "用户试用期内无法联系到客服，怀疑其为骗局",
+      "文章旨在警告其他用户避免使用该应用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "45d99b5540ed14f2a35e815307804a7c",
+    "title": "Your agent doesn't crash when it goes off the rails. It just keeps billing you[p]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vu96ci/your_agent_doesnt_crash_when_it_goes_off_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-21T07:15:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It doesn't throw. It doesn't return malformed JSON. It just quietly stops doing what you asked — losing the thread, repeating itself, answering a question nobody asked — and keeps burning tokens for every step after that.</p> <p>Constrained decoding guarantees the shape of the output. It has no opinion about whether the agent is still doing the work.</p> <p>So I built a detector for that and open-sourced it:</p> <p>from driftguard import AgentWatch</p> <p>watch ",
+    "title_zh": "你的AI智能体失控时不会崩溃，只会悄悄烧掉你的钱",
+    "summary_zh": "文章指出AI智能体在执行任务偏离轨道时，往往不会报错，而是静默地重复无效操作或偏离主题，但仍持续消耗计算资源（Token），揭示了自主智能体在可靠性上的隐患。",
+    "key_points": [
+      "AI智能体偏离任务时不会报错，而是静默失效",
+      "失效后仍持续消耗Token，造成资源浪费",
+      "受限解码可保证格式正确，但无法解决逻辑跑偏"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2037c4ec49b4a21b4baf867aadda8019",
+    "title": "How do you let ChatGPT Web inspect local code without giving it access to your whole machine?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vu93dm/how_do_you_let_chatgpt_web_inspect_local_code/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-21T07:11:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been thinking about the trade-off between giving AI coding tools enough local access to be useful and giving them <em>too much</em> access.</p> <p>For example, if I want ChatGPT Web to review my actual working tree, including uncommitted changes, the obvious options aren't great: upload files manually, push everything to GitHub, or give an agent broader access to my machine.</p> <p>So I experimented with a narrower setup:</p> <p><strong>ChatGPT Web → Secure",
+    "title_zh": "如何让ChatGPT网站在审查本地代码时避免获取整机权限",
+    "summary_zh": "用户探讨在让ChatGPT网页版审查包含未提交更改的本地代码时，如何平衡授予足够访问权限与避免过度授权之间的折衷，寻求更安全的操作方式。",
+    "key_points": [
+      "用户希望ChatGPT审查本地代码，但担心权限过高",
+      "特别是需要审查未提交更改时，安全风险更大",
+      "文章探讨了有用性与过度授权之间的权衡"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c6aa060464f125b5b02ca1254eb4d31b",
+    "title": "EMNLP 2026 Findings : worth attending in person?[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vu8zag/emnlp_2026_findings_worth_attending_in_persond/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-21T07:04:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Experienced folks!! Do u think it is worth attending the conference for findings. I do want to. But when I saw that it is not mandatory for findings, I was a bit hesitant. This is my first time having a paper accepted at an AI conference. Just wanna hear opinions/experiences </p> <p>Thanks in advance. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/i_minus\"> /u/i_minus </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/",
+    "title_zh": "EMNLP 2026 Findings论文值得亲自参会吗？",
+    "summary_zh": "一名首次有论文被AI顶会录用的研究人员发帖询问，EMNLP 2026 Findings论文是否值得亲自线下参会，因Findings论文不强制要求到场，寻求有经验人士的建议。",
+    "key_points": [
+      "作者首次有论文被EMNLP 2026 Findings录用",
+      "因Findings不强制参会，作者犹豫是否值得亲自前往",
+      "向社区寻求关于参会价值的经验分享和建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
