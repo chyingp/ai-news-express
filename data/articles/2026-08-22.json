@@ -286,5 +286,76 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d46793ea6319aa4446251a2c81f6125a",
+    "title": "Are we losing the incentive to be creative? The \"AI did it\" assumption.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vuttop/are_we_losing_the_incentive_to_be_creative_the_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-21T21:52:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been thinking a lot lately about the intersection of AI, copyright, and meritocracy, and honestly, it’s incredibly demotivating.</p> <p>Here is my point: whatever I code today, people are going to look at it and say, &quot;It wasn't you, it was AI.&quot; The exact same problem is happening with any kind of text. If I spend hours pouring my soul into an amazing article, researching and crafting the perfect arguments, the immediate cynical reaction is, &quot;",
+    "title_zh": "我们正在失去创造的动力吗？\"AI干的\"预设",
+    "summary_zh": "一篇Reddit讨论帖，作者表达了对AI时代创造力的担忧，认为无论人类创作什么，都会被他人默认为AI生成，这严重打击了创作的积极性。",
+    "key_points": [
+      "AI的存在导致人们默认人类创作是AI所为",
+      "这种预设会打击创作者的动力和原创性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bb978ce6aab9148596ec9e5e1e356424",
+    "title": "On-prem MLOps in a hospital: advice needed for production monitoring of self-built and vendor models? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vut9wm/onprem_mlops_in_a_hospital_advice_needed_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-21T21:30:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>TL;DR: Hospital, fully on-prem OpenShift cluster. Multiple teams building prediction models, so we’re setting up a self-service platform with boundary policies. Evaluating ClearML vs OpenShift AI for the full MLOps lifecycle. Both look fine for development/deployment, but neither seems to give us production monitoring at the level we need (drift, bias, live dashboards per model). Extra twist: we also need to monitor models that run at our vendors, where all we g",
+    "title_zh": "医院本地化MLOps：自建和供应商模型的生产监控求助",
+    "summary_zh": "一家医院在完全本地化的OpenShift集群上搭建自服务MLOps平台，用于多个团队构建预测模型，目前正在评估ClearML和OpenShift AI两种方案，并寻求生产环境监控的建议。",
+    "key_points": [
+      "医院在本地OpenShift环境探索MLOps平台",
+      "正评估ClearML和OpenShift AI用于模型全生命周期管理",
+      "核心需求是解决生产环境监控问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1cd4198d78c973adcc320149d6a48142",
+    "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-21T21:25:50+00:00",
+    "content_snippet": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
+    "title_zh": "超百万人点击LinkedIn的\"AI垃圾\"按钮",
+    "summary_zh": "LinkedIn于7月30日推出\"看起来像AI垃圾\"按钮，首席产品官表示已有超过一百万人通过三点菜单使用了该功能，用于标记平台上的AI生成内容。",
+    "key_points": [
+      "LinkedIn推出用于标记AI生成内容的反馈按钮",
+      "推出不到一个月内已有超过百万人使用",
+      "该功能可帮助用户反馈低质量AI内容"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
