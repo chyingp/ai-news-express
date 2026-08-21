@@ -734,5 +734,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8513871769f41357783853d959c234cd",
+    "title": "Most AI agents are sending your data somewhere you can't fully see into. Does that bother anyone else?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vuai26/most_ai_agents_are_sending_your_data_somewhere/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-21T08:35:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Maybe I'm overthinking this but it's been sitting with me for a few weeks now. The way most AI tools work is pretty seamless on the surface. </p> <p>You send something in, something happens, you get an answer back. </p> <p>Nobody really thinks about the middle part. I didn't for a long time. Then someone in a conversation asked me a simple question. </p> <p>Where exactly is the model running when you send it a document. And I realized I didn't have a clean answe",
+    "title_zh": "大多数AI代理正在将你的数据发送到你无法完全看清的地方。还有其他人为此感到困扰吗？",
+    "summary_zh": "一篇Reddit帖子讨论了对AI工具数据流向的担忧，作者指出大多数AI代理在后台将用户数据发送至未知位置，而用户往往只关注输入和输出，忽视了中间处理过程，引发了对隐私和透明度的讨论。",
+    "key_points": [
+      "AI代理的数据处理过程缺乏透明度，用户不知数据去向",
+      "引发对AI工具隐私和安全的广泛担忧",
+      "呼吁关注AI交互中容易被忽视的中间环节"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "01c611764a11aa7ae4cd45563692f2d3",
+    "title": "This old sci-fi story video is highly similar to what we have with nearing the singularity and AGI today with all work routed to one central machine",
+    "url": "https://www.reddit.com/r/artificial/comments/1vu9ma4/this_old_scifi_story_video_is_highly_similar_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-21T07:42:12+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vu9ma4/this_old_scifi_story_video_is_highly_similar_to/\"> <img alt=\"This old sci-fi story video is highly similar to what we have with nearing the singularity and AGI today with all work routed to one central machine\" src=\"https://external-preview.redd.it/MGx6YjR2aHhtb2toMaVFd_tJ4G6xRrVF7W7y_dAbfi5p8kQ5aP3c9EskfTdP.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b1db37b3ae95255441af6f54b07a96fd3f3e3b6b\" title=\"This old sci-",
+    "title_zh": "这个老科幻故事视频与当今接近奇点和AGI的现状高度相似，所有工作都路由到一台中央机器",
+    "summary_zh": "一篇Reddit帖子分享了一个老科幻故事视频，认为其内容与当前AI发展、接近技术奇点和通用人工智能（AGI）的趋势高度相似，视频中描绘了所有工作都由一台中央机器处理的情景，引发了关于AI集中化的联想。",
+    "key_points": [
+      "老科幻故事内容与当前AGI和奇点概念高度相似",
+      "视频描绘了由中央机器处理所有工作的未来场景",
+      "引发对AI技术集中化和未来社会形态的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
