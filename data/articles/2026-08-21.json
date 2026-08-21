@@ -782,5 +782,99 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c0ef6339f2f297db573eabdd2c6ca7bb",
+    "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+    "url": "https://www.qbitai.com/2026/08/476628.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-21T09:00:06+00:00",
+    "content_snippet": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
+    "title_zh": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+    "summary_zh": "雷鸟创新发布全新AI眼镜雷鸟iO，重量仅34克，续航可达两天，并搭载全天候主动式AI功能，标志着消费级AR眼镜在轻量化和智能体验上的新突破。",
+    "key_points": [
+      "雷鸟iO AI眼镜重量仅34克，续航长达两天",
+      "搭载全天候主动式AI，提供智能交互体验",
+      "新品发布展示了消费级AR眼镜的轻量化趋势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2be7e5f3f7443ccce5144e198cde3b18",
+    "title": "Mother tongue",
+    "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-21T09:00:00+00:00",
+    "content_snippet": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids were supposed to flutter gently closed,&#8230;",
+    "title_zh": "母语",
+    "summary_zh": "这是一篇科幻小说，讲述了一个孩子提问“词语消亡后去了哪里”，父亲在睡前场景中陷入沉思，探讨语言消亡与记忆的主题。",
+    "key_points": [
+      "一篇关于语言消亡的科幻小说，以父子对话引出主题",
+      "故事通过诗意场景探索词语的归宿与记忆的留存"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "66806890d27852dd360745e89d7c8662",
+    "title": "When AI designs a drug, who gets the credit?",
+    "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-21T09:00:00+00:00",
+    "content_snippet": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think&#8230;",
+    "title_zh": "当AI设计药物，功劳该归谁？",
+    "summary_zh": "文章探讨了AI在药物发现中引发的知识产权和功劳归属问题，以英科智能(AI)宣称其AI平台发现肺纤维化药物为例，分析AI作为发明者的法律和伦理挑战。",
+    "key_points": [
+      "AI药物发现带来知识产权归属争议",
+      "英科智能案例凸显AI作为发明者的法律挑战",
+      "文章探讨AI在药物研发中的伦理与功劳分配问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ea4ee76a5529bc2be3bc9779b48e6afc",
+    "title": "Rejected at EMNLP with decent scores. What can be done next? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vuatkw/rejected_at_emnlp_with_decent_scores_what_can_be/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-21T08:54:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So I got rejected at EMNLP with scores:-<br /> Meta: 3 (very positive in the review)<br /> Reviewers: OA(conf)<br /> 3(4)<br /> 3(4)<br /> 2.5(3)<br /> Avg: 2.83(3.67)<br /> Track: multimodality<br /> Rebuttals never got any acknowledgements. Most weaknesses were already discussed in the paper. What are my options now? As it was my first paper (solo as well). </p> <p>- If I want to commit to NACL in December. Do i need ti submit to acl arr again or can i use the",
+    "title_zh": "投稿EMNLP被拒，得分尚可，下一步怎么办？",
+    "summary_zh": "一位研究者在Reddit发帖求助，其论文被EMNLP会议拒绝，虽然评审得分尚可（平均2.83/3.67），但评审意见未获回应，咨询下一步改进或投稿建议。",
+    "key_points": [
+      "论文被EMNLP拒绝，平均评审得分2.83/3.67",
+      "评审认为弱点主要是...，作者寻求改进建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
