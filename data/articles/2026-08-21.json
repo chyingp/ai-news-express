@@ -1148,5 +1148,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a61e5d53e192a4ccd2b7c68e67d675bc",
+    "title": "Epistemic Intelligence in Machine Learning Neurips Workshop page limit? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vujk2p/epistemic_intelligence_in_machine_learning/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-21T15:29:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm aiming to submit a paper to The 3rd Workshop on Epistemic Intelligence in Machine Learning at Neurips<br /> <a href=\"https://eiml.cc/\">https://eiml.cc/</a></p> <p>I can't find a page limit anywhere on their website and I've emailed the organisers (twice) asking for clarity on it. The previous workshop at ICML had a page limit of 6 pages. Do I assume that's the limit here? Or do I assume I have the 9 page limit of the main conference?</p> <p>(If anyone knows ",
+    "title_zh": "关于NeurIPS认知智能研讨会论文页数限制的询问",
+    "summary_zh": "一位Reddit用户计划向NeurIPS的第三届认知智能（Epistemic Intelligence in Machine Learning）研讨会投稿，但无法在官方网站找到论文页数限制，且联系组织者未获回复，因此在论坛发帖求助。",
+    "key_points": [
+      "用户找不到EIML研讨会的论文页数限制信息",
+      "已两次邮件联系研讨会组织者但未得到回复",
+      "该研讨会属于NeurIPS会议的一部分"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ebdb660176bb0956ae698ed1216c80e3",
+    "title": "Let scan is trending hard today: hot take thread",
+    "url": "https://www.reddit.com/r/artificial/comments/1vuj4o6/let_scan_is_trending_hard_today_hot_take_thread/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-21T15:13:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Everyone's talking about Let scan right now. The main story: aI companies destroy physical books, let's scan rare books before it's too late.</p> <p>I'll go against the grain a bit: I think the real effect shows up in the boring use cases, not the flashy demos.</p> <p>What's the take you disagree with?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Positive-Ad3618\"> /u/Positive-Ad3618 </a> &#32; to &#32; <a href=\"https://w",
+    "title_zh": "Let Scan成为今日热议话题：对AI扫描稀有书籍的冷静思考",
+    "summary_zh": "Reddit上关于'Let Scan'的讨论热度很高，起因是AI公司销毁实体书的行为引发担忧，倡议应尽快扫描稀有书籍。发帖者则认为，其真正影响体现在日常的普通用例中，而非华丽的演示。",
+    "key_points": [
+      "AI公司销毁实体书引发'Let Scan'保护稀有书籍的倡议",
+      "发帖者认为该技术的真正价值在于日常应用场景",
+      "该话题在Reddit上引发广泛讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d9e526fde03df45f75635ce9ae15e378",
+    "title": "Maharlika's CEO Put a Number on AI Job Losses — 1.9M Filipino BPO Jobs. The Real Question Is Who's Liable When It Breaks.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vui5vd/maharlikas_ceo_put_a_number_on_ai_job_losses_19m/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-21T14:37:33+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vui5vd/maharlikas_ceo_put_a_number_on_ai_job_losses_19m/\"> <img alt=\"Maharlika's CEO Put a Number on AI Job Losses — 1.9M Filipino BPO Jobs. The Real Question Is Who's Liable When It Breaks.\" src=\"https://external-preview.redd.it/b2R0aWRnZ3pvcWtoMVK7GmqnPmWTPdTDCnamzS51Z6kenHyQBrkDGA2KVNCY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=946c2b5fe02ce05fa99f96dba6f5c5706071e306\" title=\"Maharlika's CEO Put a Number on AI Job ",
+    "title_zh": "Maharlika CEO预估AI将导致菲律宾190万BPO岗位流失，责任归属成焦点",
+    "summary_zh": "Maharlika公司CEO给出了一个具体数字，预测AI将导致菲律宾业务流程外包（BPO）行业失去190万个工作岗位。文章指出，比起失业数字，当AI系统出现问题时谁应承担责任才是更关键的问题。",
+    "key_points": [
+      "Maharlika CEO预测AI将导致菲律宾190万BPO岗位流失",
+      "文章核心探讨AI系统出错时的责任归属问题",
+      "反映了AI对全球服务外包行业就业的巨大冲击"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
