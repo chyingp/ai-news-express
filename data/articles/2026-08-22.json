@@ -262,5 +262,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f1abc1ef830e4527c4fe3294dcc79dd0",
+    "title": "using ai to stress-test ideas before building, is it actually useful or just expensive pattern matching?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vursep/using_ai_to_stresstest_ideas_before_building_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-21T20:31:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been bootstrapping a tiny B2B SaaS for about a year now and runway anxiety is a constant low hum in the background. One thing that genuinely changed how I work is using LLMs as a sounding board before I commit to any feature or a new positioning angle.</p> <p>Not in a promptengineery way. More like I dump my halfformed thinking into a chat, describe the problem I think customers have, and ask it to poke holes in my assumptions. It catches stuff I miss because I'",
+    "title_zh": "用AI在构建前压力测试想法，是真正有用还是昂贵的模式匹配？",
+    "summary_zh": "一位独立开发者分享使用大型语言模型（LLM）作为头脑风暴伙伴，在投入开发前对功能或定位进行压力测试的经验，探讨了这种方法的实际效用与成本，引发了关于AI辅助决策价值的讨论。",
+    "key_points": [
+      "开发者用LLM在开发前检验产品想法，以减少资源浪费",
+      "探讨了AI辅助决策是提供实质洞见还是仅做模式匹配",
+      "该方法旨在缓解创业初期的试错成本和资源焦虑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
