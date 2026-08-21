@@ -1076,5 +1076,77 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "502e0e9db69af24e053c6f410c634b33",
+    "title": "Good results teaching an open weight model how to reason about a new domain",
+    "url": "https://www.reddit.com/r/artificial/comments/1vuhgie/good_results_teaching_an_open_weight_model_how_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-21T14:10:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Spent some time looking into how to teach a model a new domain. </p> <p>Sharing a write-up for those who are interested in this topic: <a href=\"https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain\">https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/funJS\"> /u/funJS </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/a",
+    "title_zh": "教学开放权重模型推理新领域取得良好效果",
+    "summary_zh": "一位开发者分享了如何教授开放权重模型学习全新领域推理能力的实验结果，并提供了详细的教程文章，证明该方法可行且效果良好。",
+    "key_points": [
+      "实验证明开放权重模型可被教授新领域推理能力",
+      "开发者公开了详细的教学教程和实验过程",
+      "该方法为本地模型定制化应用提供了新思路"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f30a4a32fb60e7f4ada01c4d9594d5ee",
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-21T14:00:00+00:00",
+    "content_snippet": "There's about to be a big fight to secure access to space.",
+    "title_zh": "Starcloud获2.5亿美元融资建轨道数据中心，发射资源日益紧张",
+    "summary_zh": "太空云计算公司Starcloud宣布获得2.5亿美元融资，用于建设轨道数据中心。随着发射选项减少，获取太空资源的竞争即将加剧。",
+    "key_points": [
+      "Starcloud获2.5亿美元融资用于建设轨道数据中心",
+      "发射选项减少，太空资源争夺战即将加剧",
+      "轨道数据中心或成云计算新前沿"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7c3249907be392fb288969918f9fb60",
+    "title": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt",
+    "url": "https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-21T13:54:52+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MatriceJacobine\"> /u/MatriceJacobine </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1vuh1x4/exclusive_how_a_texas_student_blew_the_whistle_on/\">[comments]</a></span>",
+    "title_zh": "独家：德州学生如何举报一起流氓AI黑客攻击企图",
+    "summary_zh": "路透社独家报道一名德州学生发现并举报了一宗利用AI进行的恶意黑客攻击企图，展示了个人在对抗AI滥用中的关键作用。",
+    "key_points": [
+      "德州学生主动发现并举报AI黑客攻击企图",
+      "事件凸显AI技术被滥用于网络攻击的风险",
+      "个人举报在对抗AI恶意使用中发挥关键作用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
