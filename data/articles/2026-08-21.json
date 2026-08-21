@@ -976,5 +976,53 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7fdd08983a5ed9c5886f2c4222b8bfa1",
+    "title": "The Download: threats from space mirrors and credit for AI drugs",
+    "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-21T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the&#8230;",
+    "title_zh": "今日下载：太空镜面威胁与AI设计药物功劳",
+    "summary_zh": "本期MIT科技评论的《The Download》简报涵盖两个话题：一家公司计划在太空部署镜面反射阳光到地球，可能威胁到夜空观测；此外探讨了AI设计药物中应如何分配功劳的问题。",
+    "key_points": [
+      "太空阳光反射镜计划可能破坏全球夜空环境",
+      "AI设计药物引发关于功劳归属的伦理讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a624350654a28be1dc50bb595b3b42c2",
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-21T11:59:48+00:00",
+    "content_snippet": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+    "title_zh": "从雅达利到星战前夜：基于15年游戏AI研究的发展",
+    "summary_zh": "谷歌DeepMind发布博客文章，回顾其15年来在游戏领域的人工智能研究历程，并宣布与游戏工作室合作，将突破性的AI玩法原型化，从早期雅达利游戏延伸到《星战前夜》等复杂游戏。",
+    "key_points": [
+      "DeepMind回顾从雅达利到EVE Online的15年游戏AI研究",
+      "DeepMind与游戏工作室合作开发突破性AI游戏玩法原型"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
