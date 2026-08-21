@@ -162,5 +162,28 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "32717a4925970ec3b5e9bc8bbc8e869c",
+    "title": "Ling-3.0 opens six base checkpoints across three training stages",
+    "url": "https://www.reddit.com/r/artificial/comments/1vup2uv/ling30_opens_six_base_checkpoints_across_three/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-21T18:50:23+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vup2uv/ling30_opens_six_base_checkpoints_across_three/\"> <img alt=\"Ling-3.0 opens six base checkpoints across three training stages\" src=\"https://preview.redd.it/84h8xxj6yrkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=34de0fb5a7bdd9ea671727a54137883335bb4082\" title=\"Ling-3.0 opens six base checkpoints across three training stages\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Ant Group's new release makes six b",
+    "title_zh": "Ling-3.0 开放三个训练阶段的六个基础检查点",
+    "summary_zh": "Ling-3.0 模型在三个不同的训练阶段中，共开放了六个基础检查点，供研究者和开发者使用，体现了其开源的阶段性成果。",
+    "key_points": [
+      "Ling-3.0 在三个训练阶段开放六个基础检查点",
+      "此举为研究社区提供了多阶段模型训练过程的参考"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
