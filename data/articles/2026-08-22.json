@@ -185,5 +185,82 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "dd8986baf6fe90c44284cea4f460c1bf",
+    "title": "A Classification model trained entirely on a scientific calculator [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vurfv8/a_classification_model_trained_entirely_on_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-21T20:18:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The calculator model is the Casio FX-82CE X. It is not programmable or graphical so everything had to be done by hand.</p> <p>The architecture is simple, MNIST images (just 0s and 1s) downscaled to 3x3, with binary pixels, then with a fully connected layer, they are brought down to just 1 neuron, which serves as the output neuron. If it's value is above 0 it counts as a one, otherwise as a zero. </p> <p>The training was done with a simple perceptron style traini",
+    "title_zh": "一个完全在科学计算器上训练的分类模型",
+    "summary_zh": "有人在不可编程的卡西欧科学计算器上，通过手算方式训练了一个简单的图像分类模型。该模型用于识别MNIST数据集中的0和1，图像被降采样到3x3像素以适配计算器有限的运算能力。",
+    "key_points": [
+      "在不可编程的卡西欧计算器上手工训练分类模型",
+      "使用降采样到3x3的二值化MNIST图像进行训练",
+      "架构为简单的全连接层，展示极端受限环境下的机器学习"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2147756bdf5c4b9cd75b11745db016c7",
+    "title": "OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model",
+    "url": "https://www.reddit.com/r/artificial/comments/1vuqtt1/openaibacked_legal_tech_firm_pivots_to_chinese/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-21T19:55:18+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vuqtt1/openaibacked_legal_tech_firm_pivots_to_chinese/\"> <img alt=\"OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model\" src=\"https://external-preview.redd.it/OnhKJ2qruhKbn-KJISEdNbDpIt6ovf8DGBN5B6f4dFg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42c848338b9170e3e7f9a2a7f8434939d63e3f5e\" title=\"OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model\" /> </a> </td><td> &#32; submit",
+    "title_zh": "OpenAI投资的法律科技公司转而采用中国Kimi K3开源模型",
+    "summary_zh": "一家获得OpenAI投资的法律科技公司，因性能或成本原因，决定将其业务从OpenAI的模型转向采用中国初创公司月之暗面推出的Kimi K3开源模型。",
+    "key_points": [
+      "OpenAI投资的法律科技公司放弃OpenAI模型",
+      "转向采用中国月之暗面的Kimi K3开源模型",
+      "可能出于模型性能或成本效益的考量"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "moonshot"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4af5149f16f931f443ffb708617c6afa",
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-21T19:43:39+00:00",
+    "content_snippet": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+    "title_zh": "英伟达展示：AI护轨，而非AI模型本身，才是真正的英雄",
+    "summary_zh": "英伟达的研究表明，通过微调和施加约束（即AI护轨），即便底层AI模型本身在特定任务上表现不佳，AI代理也能稳定地良好运行，而不会失控。",
+    "key_points": [
+      "英伟达研究强调AI护轨比模型本身更重要",
+      "通过微调和约束可让性能不佳的模型稳定运行",
+      "该发现为AI代理的安全部署提供了新思路"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
