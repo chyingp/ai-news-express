@@ -876,5 +876,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "899379a5409d672ab49827348eea4c61",
+    "title": "I benchmarked my deterministic AI financial verification engine. The core passed 66/66, but the live LLM pipeline only passed 19/66.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vucb8u/i_benchmarked_my_deterministic_ai_financial/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-21T10:17:24+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vucb8u/i_benchmarked_my_deterministic_ai_financial/\"> <img alt=\"I benchmarked my deterministic AI financial verification engine. The core passed 66/66, but the live LLM pipeline only passed 19/66.\" src=\"https://preview.redd.it/eqio3da2fpkh1.png?width=140&amp;height=93&amp;auto=webp&amp;s=0c032c77e33a4de9a2502a62066610af1768b17d\" title=\"I benchmarked my deterministic AI financial verification engine. The core passed 66/66, bu",
+    "title_zh": "我测试了我的确定性AI财务验证引擎：核心100%通过，但实时LLM流程仅通过29%",
+    "summary_zh": "一位开发者分享其确定性AI财务验证引擎的基准测试结果：核心算法在66项测试中全部通过，但接入大型语言模型后的实时流程仅通过19项，暴露了LLM集成在金融精确性任务中的可靠性挑战。",
+    "key_points": [
+      "确定性核心算法在66项财务验证测试中实现100%准确率",
+      "集成LLM后的实时流程准确率骤降至29%，仅通过19项测试",
+      "实验凸显了当前LLM在高精度金融应用中的可靠性瓶颈"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
