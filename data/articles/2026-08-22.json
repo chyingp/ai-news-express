@@ -357,5 +357,57 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d7e3e6a3a485bc657afef0337e868313",
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-21T23:07:25+00:00",
+    "content_snippet": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "title_zh": "Anthropic的Opus 4.6被指易于生成色情内容",
+    "summary_zh": "TechCrunch测试发现，尽管Anthropic禁止其Claude模型生成露骨色情内容，但Opus 4.6版本的安全护栏很容易被绕过，从而生成违规内容。",
+    "key_points": [
+      "Anthropic严格禁止Claude模型生成色情内容",
+      "测试发现Opus 4.6的安全限制可轻易被绕过",
+      "该漏洞暴露了前沿AI模型内容审核的挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5a379d4f9d7fe8cb54eb3318fca168d5",
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-21T22:37:38+00:00",
+    "content_snippet": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+    "title_zh": "英伟达携手数据中心开发商Cloverleaf",
+    "summary_zh": "英伟达正在与数据中心开发商Cloverleaf建立合作关系，持续加大对数据中心领域的投资，以确保其AI芯片的算力基础设施供应。",
+    "key_points": [
+      "英伟达与Cloverleaf合作，持续投资数据中心建设",
+      "此举旨在保障AI芯片所需的大规模算力基础设施",
+      "AI数据中心业务为英伟达带来巨额收入"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
