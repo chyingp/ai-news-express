@@ -626,5 +626,52 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7cc226fdb3d2ca5832b93e5734a5307c",
+    "title": "What Parsewave’s Work Says About the Next Phase of AI Training",
+    "url": "https://www.reddit.com/r/artificial/comments/1vvasub/what_parsewaves_work_says_about_the_next_phase_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-22T12:11:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>One of the questions I've been asking myself recently is how AI training will evolve when simply adding more data provides diminishing returns.</p> <p>We've made tremendous progress in scaling up generation of synthetic examples, but it doesn't always equal diversity in capabilities learned. It's possible to generate thousands of different examples which train your model in the same manner.</p> <p>This is why the data for post-training becomes really interesting",
+    "title_zh": "Parsewave的工作揭示了AI训练的下一阶段",
+    "summary_zh": "文章探讨当简单增加数据量带来收益递减时，AI训练将如何演变。合成数据的生成虽取得巨大进步，但并未总能带来多样性，Parsewave的工作对此提供了新见解。",
+    "key_points": [
+      "增加训练数据量正面临收益递减的挑战",
+      "合成数据生成虽进步巨大，但多样性仍不足",
+      "Parsewave的工作为AI训练新阶段指明了方向"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1e93b40d98bea3f09b0060f2cdc24831",
+    "title": "Putting mice into hibernation causes a major loss of synapses",
+    "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-22T11:22:32+00:00",
+    "content_snippet": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+    "title_zh": "小鼠冬眠导致突触大量丧失，但记忆似乎得以保留",
+    "summary_zh": "一项研究发现，小鼠进入冬眠状态后，大脑中突触数量会显著减少，但即便如此，它们似乎仍能保留原有的记忆，这为理解记忆存储机制提供了新线索。",
+    "key_points": [
+      "冬眠会使小鼠大脑中的突触数量大幅减少",
+      "即使突触损失过半，小鼠的记忆似乎仍能保留"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
