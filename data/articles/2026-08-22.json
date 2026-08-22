@@ -554,5 +554,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "524f0a682e194ea28fb57bb2045b2f01",
+    "title": "AI for editing existing Songs/Music?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vv4zqz/ai_for_editing_existing_songsmusic/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-22T06:44:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I was just wondering if there is an AI Software available, that allows to edit existing songs, like changing words or sentences in the Lyrics. </p> <p>Suno does not allow uploads with vocals and Minimax H3 Music only has text to music feature. </p> <p>A few years ago, before generative AI was released, there was this one app (idk how it is called anymore), where you could make funny lyrics and an artificial Voice sung the song (if I remember correctly it use",
+    "title_zh": "是否有AI软件可以编辑现有歌曲/音乐？",
+    "summary_zh": "Reddit用户询问是否存在能编辑现有歌曲歌词的AI软件，指出Suno不支持带人声上传，而Minimax H3 Music仅提供文本生成音乐功能。",
+    "key_points": [
+      "用户寻找可修改现有歌曲歌词的AI工具",
+      "Suno不支持带人声上传，MiniMax仅文本生成音乐",
+      "目前缺乏直接编辑现有歌曲的AI解决方案"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "minimax"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
