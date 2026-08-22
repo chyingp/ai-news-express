@@ -67,5 +67,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d1a98348f403c7808723daf8c238992f",
+    "title": "GOP urges top AI firms to do something about the toxic image of data centers",
+    "url": "https://www.reddit.com/r/artificial/comments/1vvhngn/gop_urges_top_ai_firms_to_do_something_about_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-22T16:59:28+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vvhngn/gop_urges_top_ai_firms_to_do_something_about_the/\"> <img alt=\"GOP urges top AI firms to do something about the toxic image of data centers\" src=\"https://external-preview.redd.it/mDVSDLWVhQTxu-7OLXI2BJtnSaqJWob3gXCRsn6KYAc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=294f1676b9ac2cb6105b9b3782c40c394eb044b5\" title=\"GOP urges top AI firms to do something about the toxic image of data centers\" /> </a> </td><td> &#32;",
+    "title_zh": "美国共和党敦促顶尖AI公司改善数据中心负面形象",
+    "summary_zh": "美国共和党议员呼吁人工智能公司解决数据中心日益增长的环境和社区影响问题，包括能源消耗、水资源使用和噪音污染等，以改善公众对数据中心的负面看法。",
+    "key_points": [
+      "共和党议员要求AI公司处理数据中心的环境与社区影响",
+      "数据中心因能源、水资源和噪音问题引发公众担忧",
+      "此举旨在改善AI基础设施的公众形象"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bc6c487570261fb662112de530c66352",
+    "title": "Unpopular opinion: AI is going to hit a peak, fade into the background, and human stuff becomes the luxury item",
+    "url": "https://www.reddit.com/r/artificial/comments/1vvh293/unpopular_opinion_ai_is_going_to_hit_a_peak_fade/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-22T16:36:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Remember when computers were the luxury thing? Now they’re everywhere and basically invisible but nobody’s impressed by “I own a laptop” anymore.</p> <p>I think AI is heading the same way. It gets so common, so good, so baked into everything that it stops being a “thing” at all. It just disappears into the background, like electricity or wifi. Nobody says “wow, AI” anymore, the same way nobody says “wow, computer.”</p> <p>And when that happens, the rare thing wo",
+    "title_zh": "AI将触及顶峰后融入背景，人类创作成为奢侈品",
+    "summary_zh": "一篇观点文章认为，人工智能将像计算机一样从新奇事物演变为无形的基础设施，届时人类的原创作品和真实互动将因其稀缺性而成为新的奢侈品。",
+    "key_points": [
+      "AI将像计算机一样普及并融入日常生活背景",
+      "AI生成内容的泛滥可能使人类原创作品价值提升",
+      "真实的人类互动和创作将成为稀缺的奢侈品"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "39119bad22dbbf0e98d96157ef02ef70",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-22T16:30:34+00:00",
+    "content_snippet": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+    "title_zh": "OpenAI态度逆转，呼吁加州加强AI安全法案",
+    "summary_zh": "OpenAI改变立场，呼吁加利福尼亚州立法者加强SB 53人工智能安全法案，该法案此前曾遭到该公司反对，此举可能对AI监管格局产生重要影响。",
+    "key_points": [
+      "OpenAI从反对转为支持，呼吁加强加州AI安全法案",
+      "SB 53法案旨在对AI模型实施更严格的安全要求",
+      "此立场转变可能影响美国AI监管政策走向"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
