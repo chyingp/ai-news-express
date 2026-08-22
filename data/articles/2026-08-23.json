@@ -141,5 +141,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "aacd0a48f3517fe436bc5a4c3d8227c0",
+    "title": "I spent the morning digging into Anthropic so I could write it up properly. The short version",
+    "url": "https://www.reddit.com/r/artificial/comments/1vvjmmo/i_spent_the_morning_digging_into_anthropic_so_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-22T18:15:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Anthropic appears to be A/B testing reduced effort levels in Claude Code</p> <p>I went through the primary sources and the threads this morning so I could write it up properly, and the short version is: the hype is half right.</p> <p>I collect daily AI news and write guides around exactly these stories at <a href=\"https://apexnexus.site\">https://apexnexus.site</a> (free, no email wall) if you want the deeper version. The writeup on Anthropic goes up later today.",
+    "title_zh": "我花了一上午深入挖掘 Anthropic，以便能恰当地写清楚。简短版",
+    "summary_zh": "Anthropic 似乎在 Claude Code 中 A/B 测试降低的努力水平，该发现基于对一手资料和讨论帖的梳理，热度部分属实。",
+    "key_points": [
+      "Anthropic 疑似在 Claude Code 中 A/B 测试降低努力水平",
+      "分析基于一手资料和社区讨论，确认热度部分属实",
+      "作者日常收集 AI 新闻并撰写相关内容"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "097a9a974b8df853c65d232751c943db",
+    "title": "I built an open-source roguelike specifically for training game-playing agents [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-22T17:32:17+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/\"> <img alt=\"I built an open-source roguelike specifically for training game-playing agents [P]\" src=\"https://external-preview.redd.it/xal8TZSFXwvnJsLkbPfywFBsppO09WqzMuEXDjLXH1Q.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=69a3140a7c6ecd5b02efe1ef8ae32766ce442d85\" title=\"I built an open-source roguelike specifically for training game-playing agents [P]\" /> </a",
+    "title_zh": "我构建了一个开源 Roguelike 游戏，专门用于训练游戏智能体",
+    "summary_zh": "作者开发了一款开源 Roguelike 游戏，旨在为训练游戏 AI 智能体提供专用环境，强调其作为研究工具的价值。",
+    "key_points": [
+      "构建开源 Roguelike 游戏环境用于训练游戏智能体",
+      "项目旨在为游戏 AI 研究提供专用工具",
+      "发布在 Reddit 机器学习社区"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
