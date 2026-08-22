@@ -480,5 +480,79 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "55e1a23cc175cc04523e37c4c356499a",
+    "title": "Are we paying a \"Reasoning Tax\" for smarter AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vv2wi8/are_we_paying_a_reasoning_tax_for_smarter_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-22T04:52:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>More reasoning does not automatically mean more factual reliability.</p> <p>OpenAI’s evaluations produced a counterintuitive result: on PersonQA, o3 recorded a 33% hallucination rate, compared with 16% for o1. On SimpleQA, the reported hallucination rate was 51% for o3 and 79% for the smaller o4-mini.</p> <p>These results do not prove that reasoning models always hallucinate more. They do show something important for enterprise AI: stronger reasoning performance",
+    "title_zh": "我们是否为更聪明的AI支付了“推理税”？",
+    "summary_zh": "文章探讨了更强推理能力是否意味着更高的事实可靠性。OpenAI的评估显示，o3模型在PersonQA上的幻觉率高达33%，远高于o1的16%，在SimpleQA上更是达到51%，表明推理增强可能带来更多幻觉。",
+    "key_points": [
+      "o3模型幻觉率显著高于o1，推理增强可能降低事实可靠性",
+      "推理能力的提升并不自动等同于更高的事实准确性",
+      "在特定基准测试中，更强推理模型反而产生更多错误信息"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2868f2221499be6f25473b89aedec4f0",
+    "title": "I developed my own quantized LLM from scratch, trained on 30B tokens, deploys in 60 MB [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-22T04:39:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I trained a 250M parameter model from scratch on 30B tokens of fineweb. It’s quantized to under 2 bits so the whole deployment is 60 MB and it needs about 80 MB of RAM to run. Runs around 400 tok/s on a normal laptop CPU, no GPU needed.</p> <p>How the long context works: the most recent 2048 tokens stay in fp16 like a normal KV cache. Everything older gets compressed to 1 bit and written to disk, about 320 bytes per token, so 1 million tokens of history is rough",
+    "title_zh": "我从零开发了量化大语言模型，30B令牌训练，60MB部署",
+    "summary_zh": "一位开发者从零训练了一个2.5亿参数的大语言模型，使用300亿令牌数据进行训练，并量化至2位以下，最终部署仅需60MB空间和80MB内存，可在普通笔记本CPU上以约400令牌/秒的速度运行。",
+    "key_points": [
+      "从零训练2.5亿参数模型，仅需60MB存储部署",
+      "使用300亿令牌训练，量化后可在笔记本CPU高效运行",
+      "无需GPU，运行速度达400令牌/秒，极大降低使用门槛"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dd96409efebc616a796d7fb295dd2e94",
+    "title": "Why Self-Correction Loops Can Degrade Reliability in LLM Pipelines (85% Down to 62%)",
+    "url": "https://www.reddit.com/r/artificial/comments/1vv2kki/why_selfcorrection_loops_can_degrade_reliability/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-22T04:35:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In structured data extraction, adding an LLM-as-a-judge self-correction loop is often expected to improve accuracy. In practice, our pipeline showed the opposite: standalone extraction scored <strong>~85% consistency</strong>, but introducing a validation/retry loop dropped consistency to <strong>62% or lower.</strong></p> <p><strong>Architecture &amp; Testing:</strong></p> <p><strong>Model Setup:</strong> GPT-5.4 used across separate instances for the extractor",
+    "title_zh": "为何自校正循环会降低LLM管道的可靠性（从85%降至62%）",
+    "summary_zh": "文章指出，在结构化数据提取中，引入LLM自校正校验循环常被认为能提升准确性，但实际测试显示，独立提取一致性约85%，而加入校验重试循环后，一致性反而下降至62%，揭示了自校正机制的潜在风险。",
+    "key_points": [
+      "自校正循环使数据提取一致性从85%下降至62%",
+      "LLM作为校验器可能引入新的错误，降低整体可靠性",
+      "实践结果与预期相反，揭示了自校正机制的局限性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
