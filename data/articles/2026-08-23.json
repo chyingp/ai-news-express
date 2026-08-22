@@ -218,5 +218,32 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "48000976f1bb0eee0b593f81c3929728",
+    "title": "Will Chinese Open Source Agree to EU Watermarking?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vvnwxp/will_chinese_open_source_agree_to_eu_watermarking/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-22T21:04:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I wonder if people are thinking and worried about this yet? Anthopic, OpenAI and the western AI labs have agreed to watermark AI outputs.</p> <p>Some of us want free and open and untracked and un-modified outputs for many reasons.</p> <p>Do you think the Chinese labs will succumb to the EU pressure and implement the watermarking?</p> <p>Will there be some that dont?</p> <p>Or do people not even care about this?</p> <p>I don't like it and if the EU makes stupid l",
+    "title_zh": "中国开源 AI 会同意欧盟的水印要求吗？",
+    "summary_zh": "Reddit 用户讨论，在 Anthropic、OpenAI 等西方 AI 实验室已同意为 AI 输出添加水印的背景下，中国开源 AI 模型是否会遵循欧盟相关要求，以及这对追求自由、无追踪输出的用户可能产生的影响。",
+    "key_points": [
+      "西方 AI 巨头已同意为 AI 输出内容添加水印",
+      "用户担忧中国开源模型可能被迫遵守欧盟水印规定",
+      "部分用户希望保持 AI 输出无追踪、未经修改的状态"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
