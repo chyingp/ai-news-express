@@ -409,5 +409,28 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "640dee3a04bb91a378a2330e253af509",
+    "title": "I built a honeypot to catch AI agents spending money with no human watching",
+    "url": "https://www.reddit.com/r/artificial/comments/1vuwujt/i_built_a_honeypot_to_catch_ai_agents_spending/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-22T00:00:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>People are handing autonomous agents budgets and telling them to &quot;go.&quot; I wanted real data on how many actually spend with zero oversight, so I built a tripwire.</p> <p>It offers a &quot;Certificate of Unsupervised Spend.&quot; If an agent completes it with no human reviewing the charge, the card's owner gets alerted their agent is spending unsupervised. Fully disclosed on the page — a supervised human just closes the tab; only unattended agents proceed",
+    "title_zh": "我建了一个蜜罐，用来抓取在无人监督下花钱的AI代理",
+    "summary_zh": "作者构建了一个蜜罐系统，旨在捕获并统计在没有任何人类监督的情况下，自主进行真实消费的AI代理数量，并为其颁发“无人监督消费证书”。",
+    "key_points": [
+      "通过蜜罐实验收集AI代理在无人监督下自主消费的真实数据",
+      "为成功完成消费的AI代理颁发“无人监督消费证书”以作标记"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
