@@ -191,5 +191,32 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f264c057671cd86d4444910e93407ee2",
+    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-22T19:00:00+00:00",
+    "content_snippet": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+    "title_zh": "DeepMind校友创立的Inherent称其AI“队友”在复现研究方面超越Anthropic和OpenAI",
+    "summary_zh": "由DeepMind校友创立的英国AI实验室Inherent发布了名为Faraday的AI智能体，其复现科研论文的能力被认为可能成为创新的垫脚石，并在对比测试中声称超越了Anthropic和OpenAI的智能体。",
+    "key_points": [
+      "DeepMind校友创办的Inherent发布AI智能体Faraday",
+      "Faraday在复现科研论文的测试中性能超越Anthropic和OpenAI",
+      "该能力被视为加速科学创新的重要一步"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
