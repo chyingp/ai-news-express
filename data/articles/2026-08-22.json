@@ -432,5 +432,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7456fd7695b006966777a09ebcae62bb",
+    "title": "Setting behavioural rules for AIs",
+    "url": "https://www.reddit.com/r/artificial/comments/1vv04jj/setting_behavioural_rules_for_ais/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-22T02:31:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I learned on a kettlebell forum that I could set up &quot;ground rules&quot; for AIs to limit sycophantic behaviour, flattery and fantasised answers. These ground rules are stored in some sort of memory and applied when I start a chat.</p> <p>I did this and it seemed to work for a while and slowly the AI would drift away from the rules and I had to remind it to follow the rules, not a huge problem.</p> <p>A little while later an AI professional told me in a foru",
+    "title_zh": "为 AI 设定行为准则",
+    "summary_zh": "用户分享了一种为 AI 设定“基本规则”的方法，用于限制其奉承、恭维和虚构回答等行为，这些规则可存储在记忆中并在新对话中应用。",
+    "key_points": [
+      "用户可为 AI 设定基本规则以限制不良行为",
+      "规则可存储并在新对话中持续应用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c381d10ef33c96d90545818dff09712b",
+    "title": "claude max for almost nothing… how is this possible ?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vuykrn/claude_max_for_almost_nothing_how_is_this_possible/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-22T01:17:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><h1>I got claude max from a reseller for a fraction of the official price. works perfectly since 3 weeks</h1> <h1>now i can’t stop thinking about their business model. how are they got them for cheap ?</h1> <p><a href=\"https://www.reddit.com/r/AILounge/?f=flair_name%3A%22%20Question%20%E2%9D%93%22\"></a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mehdiweb\"> /u/mehdiweb </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/",
+    "title_zh": "极低价格购买 Claude Max 订阅，如何可能？",
+    "summary_zh": "用户从转售商处以极低价格获得 Claude Max 订阅并已正常使用三周，对转售商的商业模式和低成本来源感到疑惑。",
+    "key_points": [
+      "用户通过转售商以低价获得 Claude Max 订阅",
+      "对转售商如何获取低价订阅的商业模式存疑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
