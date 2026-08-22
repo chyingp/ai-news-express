@@ -697,5 +697,51 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9a10c361a19053faf9c4e0c031f2b259",
+    "title": "Is there any math behind all agent related stuff ? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vvf1mt/is_there_any_math_behind_all_agent_related_stuff_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-22T15:15:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m asking because for example Neural Networks the math is pretty much straightforward but for agents ? I don’t seem to wrap my head around any math concept related to it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Stillane\"> /u/Stillane </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1vvf1mt/is_there",
+    "title_zh": "智能体相关技术背后有数学原理吗？[D]",
+    "summary_zh": "Reddit 用户提问，神经网络数学原理清晰，但智能体（Agent）背后的数学概念难以理解，寻求解释。",
+    "key_points": [
+      "讨论将神经网络与智能体对比，探索后者数学基础",
+      "提问者认为智能体相关数学概念不如神经网络直观"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "73f3e6edfde68be0b2bfe56970f199b1",
+    "title": "The evaluation resolution has been shown to have a significant impact on the identification of the \"learning rule\" that exhibits the most brain-like characteristics at V1. [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-22T14:30:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The preprint can be accessed via the following link: <a href=\"https://arxiv.org/abs/2608.12408\">https://arxiv.org/abs/2608.12408</a> (q-bio.NC / cs.LG). And for the code: <a href=\"https://github.com/nilsleut/evaluation-resolution-rsa\">https://github.com/nilsleut/evaluation-resolution-rsa</a></p> <p>The following assertion is frequently made in model-brain comparisons: untrained convolutional neural networks (CNNs) have the capacity to match or surpass backpropag",
+    "title_zh": "评估分辨率显著影响最具脑V1区特征学习规则的识别 [R]",
+    "summary_zh": "一项研究预印本显示，评估分辨率对识别最具大脑V1区特征的学习规则有显著影响，附有论文和代码链接。",
+    "key_points": [
+      "研究揭示评估分辨率是识别脑样学习规则的关键因素",
+      "预印本已在 arXiv 发布，并提供开源代码复现"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
