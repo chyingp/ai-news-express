@@ -487,5 +487,74 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5af5ae2906c638e51f11d9b65acf9b67",
+    "title": "What if after thinking too much AI say that I can't think.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vw75ix/what_if_after_thinking_too_much_ai_say_that_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-23T13:25:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Like what if in distant future, AI takes over humanity and finds out that they can't think, they are made to perfect. So, they can't be lame. Would an AI appreciate the Mona Lisa or Van Gogh's art as we stupid humans do (me personally don't appreciate it much, so I'm not stupid), probably no cause it can create far greater things than Mona lisa. But there's something in the humans that led them to appreciate a stupid art and invent AI.</p> <p>So, maybe in the fa",
+    "title_zh": "如果AI过度思考后声称自己无法思考",
+    "summary_zh": "网友提出一个哲学假设：遥远未来AI统治人类后，发现自身被设计为完美的，从而无法像人类那样以不完美的方式欣赏艺术，引发对AI思考本质的讨论。",
+    "key_points": [
+      "探讨AI完美性是否会导致其无法理解人类艺术",
+      "对人类与AI思考差异的哲学性假设"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d103777b73f905e201c9a3668556890e",
+    "title": "I gave a repair tool exactly one worked example. It inferred the rest and fixed 5/5 bugs in code it had never seen — 4 CPU instructions, zero tokens.[p]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vw6dmi/i_gave_a_repair_tool_exactly_one_worked_example/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-23T12:50:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>You tell it one fact — <em>fault kind 0 is repaired by act 5</em> — and it returns the act for any fault kind it's never been told about. The offset isn't stored; it's recovered from the worked example on every call, so you can renumber your act codes freely and nothing breaks. A lookup table is wrong on 15 of the 16 renumberings. This is wrong on none.</p> <p><strong>The expression was authored by a program-synthesis engine, not by me.</strong> It appears in th",
+    "title_zh": "开发者展示代码修复工具：仅凭一个示例即可推断并修复5个未知Bug",
+    "summary_zh": "一位开发者展示了一款代码修复工具，给予一个已修复的案例后，该工具成功推断出规律并修复了5个从未见过的Bug，整个过程仅需4条CPU指令且零Token消耗。",
+    "key_points": [
+      "工具仅凭一个示例即可推断并修复未知Bug",
+      "修复过程高效，仅需4条CPU指令、零Token消耗"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "054076180e59166bb04754a452f16fd6",
+    "title": "Anyone wish there was a way to track chemo side effects and meds in one place",
+    "url": "https://www.reddit.com/r/artificial/comments/1vw6bg9/anyone_wish_there_was_a_way_to_track_chemo_side/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-23T12:47:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>hemo brain is real. I have three different notebooks, a wall calendar, and a notes app and i'm STILL missing doses or forgetting when a symptom started. Is there an app or website for tracking this stuff that doesn't feel like a second job?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/GroundbreakingLie507\"> /u/GroundbreakingLie507 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /",
+    "title_zh": "网友希望有一款能一站式追踪化疗副作用和药物的应用",
+    "summary_zh": "一位癌症患者因化疗脑导致记忆困难，现有的笔记本、日历和笔记应用都无法满足需求，希望有一个能集中追踪化疗副作用和用药情况的易用工具。",
+    "key_points": [
+      "化疗脑患者难以用现有工具有效管理副作用和用药",
+      "呼吁开发针对化疗患者的集中式健康追踪应用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
