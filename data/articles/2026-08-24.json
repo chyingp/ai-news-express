@@ -119,5 +119,51 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "be28f1428bf35df8501cff039929dda1",
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-23T20:01:36+00:00",
+    "content_snippet": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+    "title_zh": "神秘新模型 Ox Alpha 背后是谁？",
+    "summary_zh": "一款名为 Ox Alpha 的神秘新 AI 模型引发了互联网部分角落的疯狂猜测，人们对其创造者充满好奇。",
+    "key_points": [
+      "一款名为 Ox Alpha 的神秘AI模型出现，引发网络热议和猜测。",
+      "该模型的来源和背后团队目前尚不明确。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5e655ab72c5f07040e7b47258916c3fe",
+    "title": "More human or machine",
+    "url": "https://www.reddit.com/r/artificial/comments/1vwh8vl/more_human_or_machine/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-23T19:57:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>when i ask ai something do you think it answers like a machine or a human?</p> <p>because it's a machine that feeds on human data right? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Inuulipin\"> /u/Inuulipin </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vwh8vl/more_human_or_machine/\">[link]</a></span> &#32; <span><",
+    "title_zh": "更像人类还是机器？",
+    "summary_zh": "一篇 Reddit 讨论帖，用户提问 AI 在回答问题时，其表现是更像机器还是更像人类，因为它本质上是基于人类数据训练的机器。",
+    "key_points": [
+      "用户发起关于AI回答风格是更接近人类还是机器的哲学性讨论。",
+      "问题触及AI的本质：基于人类数据训练的机器。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
