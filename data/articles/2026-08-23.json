@@ -463,5 +463,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "82d87d86f8489de96aa9ca4a2644f004",
+    "title": "28 TPS on Qwen2.5-7B across two separate cloud regions over public WAN using speculative decoding + CUDA Graphs [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vw5ysj/28_tps_on_qwen257b_across_two_separate_cloud/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-23T12:30:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>been building ShardFlow for the past few months, a distributed LLM inference </p> <p>framework that splits any HuggingFace transformer across N GPU machines and uses </p> <p>neural speculative decoding to deal with WAN latency.</p> <p>the setup for the benchmark: two T4 nodes in separate GCP regions (Iowa + Oregon) </p> <p>talking through an AWS EC2 TCP relay in Ohio. ~86ms RTT on public internet.</p> <p>the key insight with speculative decoding here is that WAN",
+    "title_zh": "利用推测解码与CUDA图在广域网上实现跨云区域28 TPS推理Qwen2.5-7B",
+    "summary_zh": "开发者展示了名为ShardFlow的分布式大模型推理框架，通过将模型拆分至多台机器，并利用神经推测解码和CUDA图技术，成功在跨两个云区域的公共广域网上以28 TPS的速度运行Qwen2.5-7B模型。",
+    "key_points": [
+      "ShardFlow框架通过推测解码和CUDA图克服WAN延迟",
+      "在跨云区域广域网上实现Qwen2.5-7B模型28 TPS推理",
+      "该框架可将任意HuggingFace模型拆分至多GPU机器运行"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
