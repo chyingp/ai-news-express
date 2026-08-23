@@ -237,5 +237,28 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c0485dde2628d9c18ad62e12109bbe24",
+    "title": "AI agents are now using 5x more tokens than humans..",
+    "url": "https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-23T22:10:28+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vwkkoh/ai_agents_are_now_using_5x_more_tokens_than_humans/\"> <img alt=\"AI agents are now using 5x more tokens than humans..\" src=\"https://preview.redd.it/x27vp87p77lh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=41dcc60a8b4c3a5eac6bc295431a47c0fee4c6ea\" title=\"AI agents are now using 5x more tokens than humans..\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BrightLeopard7590\"> /u/Brig",
+    "title_zh": "AI 智能体消耗的 Token 量已达人类用户的五倍",
+    "summary_zh": "最新数据显示，AI 智能体在交互过程中消耗的 Token 数量已超过人类用户的五倍，反映了自动化工作流和工具调用对计算资源需求的急剧增长。",
+    "key_points": [
+      "AI 智能体因工具调用和思维链推理，Token 消耗量远超人类",
+      "这一趋势突显了 AI 推理成本与基础设施面临的新挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
