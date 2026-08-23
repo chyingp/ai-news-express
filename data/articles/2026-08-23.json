@@ -364,5 +364,57 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b851b5676830fbb5ef99c985846d5f08",
+    "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+    "url": "https://www.qbitai.com/2026/08/478191.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "zh",
+    "published": "2026-08-23T09:56:12+00:00",
+    "content_snippet": "Tokenizer、视频编码、API报错全扒一遍",
+    "title_zh": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+    "summary_zh": "社区通过分析Tokenizer、视频编码和API报错信息，发现匿名大模型“牛来”与智谱GLM模型高度相似，引发其是否基于GLM训练的猜测。同时，Cursor也被怀疑使用开源GLM模型进行训练。",
+    "key_points": [
+      "匿名模型“牛来”被指技术栈与智谱GLM高度重合",
+      "分析依据包括Tokenizer、视频编码和API报错特征",
+      "Cursor也被社区怀疑使用开源GLM模型进行训练"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "zhipu"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a907132bc2717a45efdd5addcbd40bb0",
+    "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+    "url": "https://www.qbitai.com/2026/08/478164.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-23T09:51:49+00:00",
+    "content_snippet": "内存成本飙升逼涨硬件",
+    "title_zh": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+    "summary_zh": "受内存成本飙升影响，英伟达AI服务器预计将涨价15%。对于1GW规模的数据中心，这一涨价将导致其总成本增加高达50亿美元，进一步推高AI基础设施的建设费用。",
+    "key_points": [
+      "英伟达AI服务器因内存成本飙升将涨价15%",
+      "1GW数据中心总成本将因此激增50亿美元",
+      "涨价将显著推高AI基础设施的建设成本"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
