@@ -652,5 +652,74 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c058daa1dd11bb41ff3a0d9bdea36264",
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-23T15:00:00+00:00",
+    "content_snippet": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+    "title_zh": "用受版权保护的书籍训练AI模型合法吗？情况很复杂",
+    "summary_zh": "文章探讨了未经作者许可，使用受版权保护书籍训练AI模型的合法性难题，指出大多数作者可能在不知情的情况下，其作品已被用于开发威胁其生计的AI工具。",
+    "key_points": [
+      "AI公司未经授权使用版权书籍训练模型引发法律争议",
+      "多数作者的作品可能已被用于训练威胁其职业的AI工具",
+      "现有版权法在AI训练数据使用上的适用性尚不明确"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d8238f2be6a74e35d1b247e1cbb4356d",
+    "title": "Leap Forward In Progress",
+    "url": "https://www.reddit.com/r/artificial/comments/1vw9eso/leap_forward_in_progress/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-23T14:59:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My son helped me take a leap forward.<br /> He recommended the GPU and I had a machine built and installed Ollama and a Qwen 3 coder.</p> <p>He is in town for a family event and he changed me up. Now Llama and the later Qwen 3.8 model using Pi as the agent harness.</p> <p>Man, things are speeding up!</p> <p>I was sitting here baby sitting Claude Code or Codex after burning tokens for over a month on Openrouter. This whole setup is so much better!</p> <p>As an ol",
+    "title_zh": "进展中的飞跃",
+    "summary_zh": "一位用户分享在其儿子的帮助下，通过组装新电脑并安装Ollama、Qwen 3 coder以及Llama等模型，在本地AI部署方面取得了重大进展。",
+    "key_points": [
+      "用户通过组装新机器并运行Ollama和Qwen等模型实现本地AI部署",
+      "展示了个人用户借助开源工具构建本地AI工作站的实践"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9a66b5a23a44859f8e730850c17e2a24",
+    "title": "Can AI Reach the Logos?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-23T14:24:23+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vw8jui/can_ai_reach_the_logos/\"> <img alt=\"Can AI Reach the Logos?\" src=\"https://external-preview.redd.it/wXTuK2xaUYl6chEbePDJH6Aw33tO2OqfxjAaYVQXuA8.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4f0a089e956b7b8e999609169361dad4070ad31e\" title=\"Can AI Reach the Logos?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I liked the creativity of this hypothetical trajectory for advanced AI (clearly not what exists today)",
+    "title_zh": "AI能触及“逻各斯”吗？",
+    "summary_zh": "一篇哲学性探讨，追问人工智能是否能够真正理解或触及“逻各斯”（理性、逻辑或宇宙法则），而非仅仅进行模式识别和信息处理。",
+    "key_points": [
+      "探讨AI能否超越模式识别，达到对‘逻各斯’即理性本质的理解"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
