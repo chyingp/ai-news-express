@@ -269,5 +269,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c0df1cad62f082b4502ff2351e770bff",
+    "title": "How to grow a project? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vvsm9j/how_to_grow_a_project_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-23T00:31:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I recently got my first paper accepted at EMNLP and open-sourced the code. The core idea is fundamental change, so I’ve been expanding it into a larger system with chatbot agents and extra components.</p> <p>My goal was to build a community around it as I plan to use it on other projects too but also knowing the field O genuinely see it being very useful. I’ve been highlighting open research questions and posting updates in different communities, but I’m getting",
+    "title_zh": "如何发展一个开源项目？",
+    "summary_zh": "一位研究人员在EMNLP上发表论文并开源代码后，寻求社区建设建议，希望将核心算法扩展为包含聊天代理的更大系统，以吸引贡献者。",
+    "key_points": [
+      "作者在EMNLP发表论文并开源代码",
+      "计划将核心算法扩展为包含聊天代理的更大系统",
+      "求教如何围绕项目构建开源社区"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ffc346ecd5218dd67c950c78b1646f46",
+    "title": "Ablating 1 of a chess transformer's 128 attention heads causes the model to stop finding the queen sacrifice in a famous chess game. [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vvsf5b/ablating_1_of_a_chess_transformers_128_attention/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-23T00:22:19+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1vvsf5b/ablating_1_of_a_chess_transformers_128_attention/\"> <img alt=\"Ablating 1 of a chess transformer's 128 attention heads causes the model to stop finding the queen sacrifice in a famous chess game. [P]\" src=\"https://external-preview.redd.it/grEQomqgonsYWIlG4q39OuAiwtlk5iaR0bjS7C3VcB4.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=001919417871a62afbf290ebe0b7e12042a6d528\" title=\"Ablating 1 of a chess transformer's",
+    "title_zh": "切除一个注意力头导致国际象棋Transformer无法发现著名弃后杀招",
+    "summary_zh": "一项研究展示，对一个拥有128个注意力头的国际象棋Transformer模型，仅切除其中一个特定注意力头，就会让模型在分析一盘著名棋局时无法找到关键的弃后杀招。",
+    "key_points": [
+      "切除一个注意力头使模型无法发现著名弃后杀招",
+      "实验对象为拥有128个注意力头的国际象棋Transformer",
+      "揭示了Transformer模型中存在功能高度特化的注意力头"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
