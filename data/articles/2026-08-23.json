@@ -317,5 +317,52 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0eb04c4d535cd5d0577b159623256d60",
+    "title": "AI Models rankings…",
+    "url": "https://www.reddit.com/r/artificial/comments/1vvvi8d/ai_models_rankings/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-23T02:53:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vvvi8d/ai_models_rankings/\"> <img alt=\"AI Models rankings…\" src=\"https://preview.redd.it/myixfl7bh1lh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=14a4349b9a246da5cf5deb48a8431fe59001064d\" title=\"AI Models rankings…\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Theo T3 recently ranked AI models, and I couldn’t agree more. It’s spot on, lol.</p> <p>So, why am I sharing this? Well, it’s about Anthropic. It’s crazy",
+    "title_zh": "AI 模型排行榜…",
+    "summary_zh": "Reddit 用户分享了一张 AI 模型排行榜图片，但未提供具体排名细节或分析内容。",
+    "key_points": [
+      "Reddit 帖子仅包含一张排行榜图片",
+      "缺乏具体模型对比或文字分析"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e702e5e7db2158138420d807f94f4479",
+    "title": "Our deterministic verification engine passed 66/66 benchmark cases on canonical structured inputs.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vvucil/our_deterministic_verification_engine_passed_6666/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-23T01:55:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>Our deterministic verification engine passed 66/66 benchmark cases on canonical structured inputs.</strong></p> <p><strong>In live model evaluation, the end-to-end pipeline currently passed 19/66 cases. We are restructuring the benchmark to isolate failures by their first invalid state and to separately measure deterministic verifier correctness, production contract integrity, and live model generation reliability.</strong></p> <p><strong>The next benchm",
+    "title_zh": "确定性验证引擎在规范结构化输入上通过 66/66 基准测试",
+    "summary_zh": "一个确定性验证引擎在规范结构化输入基准测试中全部通过，但端到端管道在实时模型评估中仅通过 19/66 例，团队正在重构基准以隔离故障。",
+    "key_points": [
+      "验证引擎在理想化输入下实现 100% 通过率",
+      "端到端实际表现仅 19/66，存在显著差距",
+      "团队正重构基准以诊断和解决故障"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
