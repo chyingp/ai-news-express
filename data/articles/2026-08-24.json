@@ -165,5 +165,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8e315a5ce84d50bc27ca5bd83c3ea869",
+    "title": "Testing whether discrete topology is a more durable memory medium than continuous weights — it isn't ... probably [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vwjbu8/testing_whether_discrete_topology_is_a_more/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-23T21:18:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I ran a controlled comparison of two &quot;write-in-place&quot; memory adapters for a frozen LM: one edits continuous weights, the other (EPMem) keeps weights frozen and random and only edits a binary edge mask via straight-through estimation. Storage bits and write steps are matched across both.</p> <p>On a continual fact-writing benchmark (TinyStories-33M), EPMem writes facts fine but forgets them just as fast as the continuous adapter, underperforms it overal",
+    "title_zh": "测试离散拓扑是否比连续权重更持久——可能不是",
+    "summary_zh": "一项研究对比了两种用于冻结语言模型的记忆适配器，一种编辑连续权重，另一种仅编辑二进制边缘掩码，以测试离散拓扑是否比连续权重更持久。",
+    "key_points": [
+      "对比了两种记忆适配器，一种编辑连续权重，另一种仅编辑二进制边缘掩码",
+      "测试离散拓扑是否比连续权重更持久，结论可能是否定的",
+      "实验使用冻结语言模型，通过直通估计编辑二进制掩码"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "86b2b9ba6394e8a94ef4579479326ee1",
+    "title": "\"ask AI a question\" is the wrong workflow for research",
+    "url": "https://www.reddit.com/r/artificial/comments/1vwjbgz/ask_ai_a_question_is_the_wrong_workflow_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-23T21:18:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been doing a lot of market and user research lately, and I kept running into the same problem: the research itself wasn’t particularly difficult, but there were a ridiculous number of small steps around it. </p> <p>For one project, I had to check competitor websites, product pages, Reddit discussions, a few industry reports, and some customer feedback. I’d have 15–20 browser tabs open, copy useful bits into a doc, clean up the notes, group similar findings,",
+    "title_zh": "研究中的'向AI提问'是错误的工作流程",
+    "summary_zh": "作者在市场和用户研究中发现，研究本身不难，但围绕研究的琐碎步骤繁多，例如需要检查竞争对手网站等，因此认为简单地向AI提问并非正确的研究工作流程。",
+    "key_points": [
+      "作者认为简单向AI提问并非正确的研究工作流程",
+      "研究过程中存在大量琐碎步骤，如检查竞争对手网站",
+      "该观点基于市场与用户研究的实践经验"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "754dfcb4fe369aed6fa5c31c810a46a0",
+    "title": "What military use of AI/robotics advancement could have such a profound effect that whichever country first put it to use could become an overwhelmingly dominant global power?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vwhuz8/what_military_use_of_airobotics_advancement_could/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-23T20:21:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Any advancement that can have a profound military use will be profoundly funded. What advance could have such a significant military use that it could make the country which first puts it to use become effectively immune from attack, and have such offensive capability that it would become the world’s near-complete dominant military power?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/distantpapaya\"> /u/distantpapaya </a> ",
+    "title_zh": "AI/机器人技术的何种军事应用可使一国获得压倒性全球主导地位？",
+    "summary_zh": "讨论哪种AI或机器人技术的军事进步，能率先使一个国家获得压倒性全球主导地位，具备免于攻击的防御能力和强大的进攻能力，从而引发大量资助。",
+    "key_points": [
+      "探讨哪种AI军事进步能带来压倒性全球主导地位",
+      "认为具有重大军事用途的技术将获得大量资助",
+      "讨论涉及防御和进攻能力的颠覆性提升"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
