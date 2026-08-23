@@ -1,0 +1,53 @@
+[
+  {
+    "id": "c5ca9a8cceca3c488f1cfcd684856925",
+    "title": "UK publishers are lobbying to keep ChatGPT OFF Google's new search choice screen - and the reason isn't what you'd think",
+    "url": "https://www.reddit.com/r/artificial/comments/1vwbj6p/uk_publishers_are_lobbying_to_keep_chatgpt_off/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-23T16:21:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So Google has to show UK users a screen letting them pick their default search engine, it's a competition remedy under the new DMCCA law. Publishers just filed with the regulator to make sure ChatGPT and Perplexity don't get a slot on that screen next to Google and Bing.</p> <p>Sounds backwards right, publishers usually want more competition against Google. But the actual argument is about what happens after the click. Pick Bing as your default and you still get",
+    "title_zh": "英国出版商游说阻止ChatGPT出现在谷歌搜索选择页面，原因出人意料",
+    "summary_zh": "英国出版商根据新的竞争法，向监管机构申请，阻止ChatGPT和Perplexity等AI搜索服务出现在谷歌的默认搜索引擎选择界面上，其理由并非出于传统竞争考量。",
+    "key_points": [
+      "英国出版商要求监管机构将ChatGPT等AI搜索排除在默认搜索引擎选择屏幕之外",
+      "此举依据英国DMCCA新竞争法，旨在影响谷歌的竞争补救措施",
+      "出版商的反对理由与传统搜索市场竞争不同，另有隐情"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c2585a0df0063c083655e77d25ca0da0",
+    "title": "When an AI agent says “done” how do you know it actually happened? [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vwa9ap/when_an_ai_agent_says_done_how_do_you_know_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-23T15:32:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>i’m testing an early concept called agentuptime. there’s no product or sdk yet.</p> <p>the idea came from something that keeps bothering me with agents:</p> <p>an agent saying “done” doesn’t necessarily mean the thing actually happened.</p> <p>a tool can return success, the trace can look fine, and the external system can still end up in the wrong state.</p> <p>so i’m experimenting with a small “receipt” concept where the agent’s claim is separate from an indepe",
+    "title_zh": "当AI智能体说“完成”时，如何确认它真的完成了？",
+    "summary_zh": "文章探讨了AI智能体系统中一个根本性问题：智能体声称任务“完成”不等于工作真正执行完毕，仅靠工具返回成功状态不足以验证，作者提出了一个名为agentuptime的早期概念来解决此信任问题。",
+    "key_points": [
+      "AI智能体声称“完成”任务不等同于实际执行，存在验证缺口",
+      "作者提出agentuptime概念，旨在监测智能体行为的真实完成情况",
+      "该问题源于智能体工具返回成功状态缺乏实际意义"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
