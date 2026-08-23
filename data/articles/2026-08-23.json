@@ -556,5 +556,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8f258523c3b0067b1495b901aa2bf626",
+    "title": "If AI eventually helps cure cancer, how should we think about people trying to slow its development today?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vw8bj1/if_ai_eventually_helps_cure_cancer_how_should_we/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-23T14:14:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m genuinely curious about this rather than trying to attack people who are against AI. Please threat that as an arguments discussion, not a mess.</p> <p>There are obviously legitimate concerns around jobs, privacy, copyright, misinformation, military use, etc. But there’s another side.</p> <p>What if significantly faster AI development also means significantly faster progress in medicine?</p> <p>Maybe it’s not literally nanobots in our blood tomorrow, but thin",
+    "title_zh": "如果AI最终帮助治愈癌症，我们该如何看待今天试图减缓其发展的人？",
+    "summary_zh": "文章探讨了一个伦理困境：若AI未来能带来如治愈癌症等巨大益处，当前基于就业、隐私等担忧而试图减缓AI发展的行为应如何评价，引发对风险与回报平衡的思考。",
+    "key_points": [
+      "提出AI潜在巨大益处与当前发展阻碍的伦理矛盾",
+      "列举就业、隐私、版权等合理担忧作为讨论背景",
+      "引导读者思考技术进步与风险防范的权衡"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f3d0324eb690a78a6e3f97beb4e35b17",
+    "title": "Napster's homepage is now entirely AI agents. It's a clean test case for how fast training data goes stale.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vw85a0/napsters_homepage_is_now_entirely_ai_agents_its_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-23T14:07:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I checked <a href=\"http://napster.com\">napster.com</a> today, out of curiosity. The page title is &quot;Napster | Visible AI Agents with Voice, Video and Memory&quot;. The headline is &quot;AI agents you can see, talk to, and create with&quot;. The products listed are AI specialists, productivity assistants, 3D holographic displays, and an agent API. I could not find a music product anywhere on the homepage.</p> <p>So the brand that basically defined file sharin",
+    "title_zh": "Napster主页全面转向AI智能体，成为训练数据过时的典型案例",
+    "summary_zh": "Napster.com主页现已完全由具备语音、视频和记忆功能的可见AI智能体构成，这一转变清晰展示了AI生成内容如何导致传统训练数据迅速过时。",
+    "key_points": [
+      "Napster主页完全由AI智能体驱动，提供语音视频交互",
+      "该案例凸显AI生成内容使训练数据过时问题加剧",
+      "反映了AI原生应用对传统互联网数据生态的冲击"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1f65377cf3fcf28156b7cb6f949062dd",
+    "title": "An AI podcast on any topic that you can interrupt mid-episode and ask questions",
+    "url": "https://www.reddit.com/r/artificial/comments/1vw83oh/an_ai_podcast_on_any_topic_that_you_can_interrupt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-23T14:05:35+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vw83oh/an_ai_podcast_on_any_topic_that_you_can_interrupt/\"> <img alt=\"An AI podcast on any topic that you can interrupt mid-episode and ask questions\" src=\"https://external-preview.redd.it/aGJ2Mm1xZzR0NGxoMYoOgvUcYUH_WvD5f7GXEohxo6xa1p7bqziW9k-nGLlV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d15c1bc68587217faa4044d6288c6971069cd7cf\" title=\"An AI podcast on any topic that you can interrupt mid-episode and ask questions\"",
+    "title_zh": "可中途打断并提问的AI播客：任意话题的交互式收听体验",
+    "summary_zh": "一款新型AI播客应用允许用户在任何话题的节目中随时打断并提问，实现实时交互，将被动收听转变为主动对话式学习体验。",
+    "key_points": [
+      "AI播客支持用户中途打断并提问，实现实时交互",
+      "将被动收听转化为主动对话式学习体验",
+      "展示了AI在个性化内容消费领域的创新应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "39d594929dfb7d3f73528fcfb6cc0f7a",
+    "title": "The failure mode isnt rebellion. It is \"it works anyway\"",
+    "url": "https://www.reddit.com/r/artificial/comments/1vw7goc/the_failure_mode_isnt_rebellion_it_is_it_works/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-23T13:38:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI can do many things today. And will do even more with time. It will be like only the person in seat matters. Only human judgement and experience, battle scars. But there is the big humanity problem: <em>&quot;I just wont check, because it all works anyway. Why bother doing extra work if everything is fine. When the mechanism visibly starts failing, then sure, you can check. But by then its already too late.&quot;</em></p> <p>My wife said: <em>&quot;I changed m",
+    "title_zh": "AI的失败模式不是叛乱，而是“它反正能运行”",
+    "summary_zh": "文章指出AI真正危险的失败模式并非反抗人类，而是系统看似正常运行，导致人类因过度信任而放弃核查，最终在关键决策上丧失判断力。",
+    "key_points": [
+      "AI核心风险不是主动叛乱，而是看似正常的隐性故障",
+      "人类可能因系统总在运行而放弃核查，丧失判断",
+      "强调人类经验和判断力在AI时代的不可替代性"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
