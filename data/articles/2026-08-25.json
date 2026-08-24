@@ -120,5 +120,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "414205e448fb84529b962190fc1425b8",
+    "title": "[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-24T19:10:39+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1vxcc1h/r_using_ai_as_a_spatial_software_generator_to/\"> <img alt=\"[R] Using AI as a spatial software generator to create 3D objects that are inherently programmable\" src=\"https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de730fbf7ecace6df0036b21470c16a2d4feacfb\" title=\"[R] Using AI as a spatial software generator to create 3D objects that are in",
+    "title_zh": "[R] 使用人工智能作为空间软件生成器，创建本质上可编程的3D对象",
+    "summary_zh": "一篇研究论文提出了一种方法，利用AI作为空间软件生成器，来创建从设计之初就内嵌可编程特性的3D对象，可能为3D建模和交互设计带来新范式。",
+    "key_points": [
+      "提出AI驱动的3D对象生成新方法",
+      "生成的对象内嵌可编程特性",
+      "可能改变3D建模与交互设计流程"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "18ebcc1d698f16e95a465dbb5ab037e6",
+    "title": "Is EMNLP not going to Provide a MetaReview [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vxc1nw/is_emnlp_not_going_to_provide_a_metareview_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-24T19:01:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>As the title says, we haven't seen any like ACL provided. Very salty about the decision, as AC recommended findings and the reviewers tanked our paper intentionally (we flagged them, and AC acknowledged that). Just want to see if the decision was made based on poor reviewer scores, as we don't know if we need to resubmit to an ARR cycle to cleanse or not.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Massive-Bobcat-5363\">",
+    "title_zh": "[D] EMNLP会议是否将不提供MetaReview？",
+    "summary_zh": "一位论文作者在Reddit上讨论EMNLP会议的审稿流程，质疑其是否不再提供MetaReview。作者对评审结果不满，称审稿人故意打压其论文且领域主席已承认，希望了解最终决定的依据。",
+    "key_points": [
+      "作者质疑EMNLP是否取消MetaReview环节",
+      "声称审稿人故意给低分，领域主席已确认",
+      "对会议审稿流程的透明度和公平性表达不满"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ab4a1ff6384822925de5006324608054",
+    "title": "How could I help my parents (in their 50s/60s) better recognize AI content?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxc1kc/how_could_i_help_my_parents_in_their_50s60s/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-24T19:01:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi! Not sure if this community is suitable for this, if not, please let me know and I will take it down.</p> <p>My parents love sharing online content with me, we love animals so a lot of that is cute animal stuff, and lately I've been getting a lot of AI cats. </p> <p>I gave them some hints so they spot the obvious ones but not all the time. We haven't yet had an election cycle with AI content being this common, and it scares me a bit.</p> <p>I appreciate your ",
+    "title_zh": "如何帮助我的父母（50-60岁）更好地识别AI生成的内容？",
+    "summary_zh": "一位用户求助，其父母喜欢分享网络内容，但最近频繁分享AI生成的猫咪图片等虚假内容。用户希望获得方法，帮助年长父母提高辨别AI生成内容的能力。",
+    "key_points": [
+      "担忧年长父母无法识别AI生成内容",
+      "寻求帮助父母辨别AI内容的方法",
+      "反映了AI虚假内容对普通网民的影响"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "685e02ef36e7d658ca6cc91ad84ae103",
+    "title": "I built an awards institution for human orchestration of AI. Thesis: recognition authority should stay human. Tear it apart.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxbhha/i_built_an_awards_institution_for_human/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-24T18:41:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Disclosure up front: I'm the founder, this is my project, and I'm posting it myself. Not looking for upvotes — looking for holes in the argument.</p> <p>The premise: as AI gets more capable, the interesting question for recognizing creative and technical work isn't &quot;was AI used&quot; (everything will use it) but &quot;who directed it, and who's accountable for the result.&quot; So the thing being recognized is the orchestrator — the person or team who made ",
+    "title_zh": "我建立了一个表彰人类指挥AI的奖项机构，核心论点是：认受权威应保留在人类手中。请猛烈批评。",
+    "summary_zh": "一位创始人分享其创立的新奖项机构，旨在表彰人类在创造性工作中对AI的协调与指挥能力。其核心观点是，随着AI能力增强，创意工作的认受权威应始终由人类掌握。",
+    "key_points": [
+      "创立专注于表彰人类指挥AI创作的奖项",
+      "核心主张是创意认受权威必须属于人类",
+      "寻求对其论点和项目模式的批评与反馈"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
