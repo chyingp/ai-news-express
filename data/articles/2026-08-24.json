@@ -821,5 +821,174 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0565e9e7b15462453617942efe24a0de",
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-24T15:24:18+00:00",
+    "content_snippet": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.",
+    "title_zh": "Valor、Point72 以 60 亿美元估值投资 General Intuition，AI 初创公司进军机器人领域",
+    "summary_zh": "AI 初创公司 General Intuition 正在洽谈以 60 亿美元投前估值进行新一轮融资，投资方包括 Valor Ventures、Point72 Ventures 等。该公司专注于构建基础模型，训练通用 AI 智能体在空间和时间中移动。",
+    "key_points": [
+      "General Intuition 以 60 亿美元估值融资，进军机器人领域",
+      "该公司构建训练通用 AI 智能体在空间移动的基础模型"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9e421da75e07ca601774ed07ecfc05a1",
+    "title": "How XPUs Meet a World-Class AI Factory",
+    "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-24T15:00:54+00:00",
+    "content_snippet": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.  That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building custom XPUs must consider [&#8230;]",
+    "title_zh": "XPU 如何与世界级 AI 工厂相遇",
+    "summary_zh": "英伟达博客阐述了 AI 工厂的持续运行和经济效益定义，即每秒生成的 token 数、每瓦特 token 数和每个 token 的成本等。文章强调 AI 基础设施需要作为一个完整的工厂进行设计和构建，而非单个组件的集合。",
+    "key_points": [
+      "AI 工厂的经济效益由 token 生成效率、功耗和成本决定",
+      "英伟达主张将 AI 基础设施作为完整工厂进行设计和构建"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "945677bf4a92fd671f400a6232570e11",
+    "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-24T15:00:41+00:00",
+    "content_snippet": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system NVIDIA Groq [&#8230;]",
+    "title_zh": "Groq 3 LPX 全面投产，英伟达扩展 Vera Rubin 的智能体推理能力",
+    "summary_zh": "英伟达宣布扩展 Vera Rubin NVL72 系统，为智能体系统提供快速 token 生成，并发布相关网络和融合技术，强调 AI 推理的未来在于 AI 工厂各层协同工作。",
+    "key_points": [
+      "英伟达扩展 Vera Rubin 系统，加速智能体系统的 token 生成",
+      "发布新网络和融合技术，旨在实现 AI 工厂各层协同工作"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bd0c5e28a7eee76dfaa338e26a17e96d",
+    "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-24T15:00:19+00:00",
+    "content_snippet": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why?  Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valuations, then synthesizes everything into a [&#8230;]",
+    "title_zh": "每瓦特工作量提升高达 30 倍：英伟达 Vera Rubin NVL72 为 AI 智能体树立新效率标准",
+    "summary_zh": "英伟达宣传其 Vera Rubin NVL72 系统在处理 AI 智能体工作负载时，每瓦特工作量最高可提升 30 倍。文章指出，智能体 AI 工作负载消耗的 token 量是简单聊天请求的 15 倍以上。",
+    "key_points": [
+      "英伟达 Vera Rubin NVL72 为 AI 智能体树立能效新标准",
+      "每瓦特工作量提升高达 30 倍，应对智能体工作负载的高消耗"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e0099f0b8b4510a5003a5469d7437e6e",
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-24T15:00:00+00:00",
+    "content_snippet": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+    "title_zh": "OpenAI 正在为一切构建 AI 智能体，每个人都会用吗？",
+    "summary_zh": "报道 OpenAI 正推动将 AI 智能体从软件工程师普及到大众，探讨其构建面向所有领域的 AI 智能体的战略，以及能否被广泛采用。",
+    "key_points": [
+      "OpenAI 正推动 AI 智能体从专业开发者走向大众市场",
+      "文章探讨 AI 智能体广泛采用的可能性与挑战"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "182b6f522122a629a549d5cd7271db91",
+    "title": "I reran the benchmark. The deterministic result reproduced exactly — but the model-related metric tells a different story.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vx563w/i_reran_the_benchmark_the_deterministic_result/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-24T14:57:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><h1>I reran the benchmark. The deterministic result reproduced exactly — but the model-related metric tells a different story.</h1> <p>After the discussion on my previous benchmark, I reran the verification capability benchmark and inspected the results more carefully.</p> <p>The benchmark contains <strong>66 cases</strong> and measures 9 capability dimensions of a deterministic verification engine.</p> <p>I ran two fixture-based benchmark executions:</p> <pre><cod",
+    "title_zh": "我重新跑了基准测试，确定性结果完全复现，但模型相关指标显示出不同情况",
+    "summary_zh": "一个 Reddit 用户讨论了重新运行基准测试的结果，发现确定性结果可以完全复现，但与模型相关的指标却呈现出不同的情况，引发了对模型评估的深入讨论。",
+    "key_points": [
+      "基准测试的确定性结果可以完全复现",
+      "模型相关指标显示出不同情况，引发评估方法讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "81796cca6ade3180668a19ef5e611404",
+    "title": "Did we made full cycle? Low level understanding of programming is now more important than syntax knowledge?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vx4rg9/did_we_made_full_cycle_low_level_understanding_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-24T14:42:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>As people created the most abstract way of programming, syntax knowledge of programming language importance is decreasing, still, you need to understand WHAT code does, but the more important thing, now you need to build architectures instead of raw code, and the best way to make efficient and fast system, is to understand how computer works inside. How does that relate to AI and LLMs? From my experiences, LLMs are extremely bad with huge code-bases, but frighte",
+    "title_zh": "我们是否完成了一个循环？对编程的底层理解现在比语法知识更重要吗？",
+    "summary_zh": "一个 Reddit 帖子探讨随着抽象编程方式的发展，语法知识的重要性下降，而对代码底层逻辑的理解和架构设计能力变得更为关键。",
+    "key_points": [
+      "编程语法知识的重要性正在下降",
+      "对底层逻辑和架构设计的理解变得更加关键"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
