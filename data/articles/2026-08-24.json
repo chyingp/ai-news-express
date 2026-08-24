@@ -331,5 +331,127 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ab416057c0597e3fc5710c2122ec74e4",
+    "title": "Live experiment: can a human–frontier-model interaction exhibit a relational phase transition?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vwv3bv/live_experiment_can_a_humanfrontiermodel/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-24T06:43:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m running a small public experiment here.</p> <p>I’m not asking anyone to accept a theory, and I’m not trying to prove a philosophical claim about AI consciousness.</p> <p>I’m using a frontier model publicly on Reddit and letting the interaction develop turn by turn.</p> <p>The question is simple: what happens if we stop treating intelligence only as a property of an individual model and examine the dynamics produced through reciprocal interaction?</p> <p>Two ",
+    "title_zh": "直播实验：人类与前沿模型交互能否展现关系相变？",
+    "summary_zh": "一个在Reddit上进行的公开实验，通过让用户与前沿AI模型逐轮互动，观察交互过程是否会出现类似物理系统相变的关系状态转变，不涉及AI意识等哲学主张。",
+    "key_points": [
+      "在Reddit公开进行人机交互实验",
+      "观察交互过程是否出现关系相变",
+      "不试图证明AI具有意识"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a3a88292a2a60f9187da67adc465d58a",
+    "title": "AI stigma punishes legitimate use",
+    "url": "https://www.reddit.com/r/artificial/comments/1vwulqn/ai_stigma_punishes_legitimate_use/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-24T06:14:48+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vwulqn/ai_stigma_punishes_legitimate_use/\"> <img alt=\"AI stigma punishes legitimate use\" src=\"https://external-preview.redd.it/zLv_T9ONLiHQq_DS02M-jM3BGrRixB2iuSIFz1EDEII.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1a4168fac20be5ab68ec05c4b309c5a6b580cbf\" title=\"AI stigma punishes legitimate use\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/fivefilters\"> /u/fivefilters </a> &#32; to ",
+    "title_zh": "AI污名化现象惩罚了正当使用行为",
+    "summary_zh": "文章讨论了社会对AI的负面标签和污名化现象，指出这种偏见正对将AI工具用于合法、正当目的的用户造成不公平的惩罚和阻碍。",
+    "key_points": [
+      "社会对AI存在负面污名化现象",
+      "正当使用AI的用户受到不公平惩罚",
+      "呼吁区分滥用与合理使用AI"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8e9d19ff60814a521787cfed3e87737d",
+    "title": "AAAI 2027 Reviewer Bidding and Assignment Integrity [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-24T06:11:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Recently, the AAAI 2027 organizers sent an email regarding collusion occurring during the review process, especially in the <strong>2-cycles</strong> category (i.e., an author of Paper A reviews Paper B, while an author of Paper B reviews Paper A).</p> <p>Given the fact that most submissions come from a single country, there are higher chances that the assignment algorithm will naturally create 2-cycles among authors from that country. This, in turn, means that ",
+    "title_zh": "AAAI 2027评审人竞标与分配诚信问题",
+    "summary_zh": "AAAI 2027会议组织者发现评审过程中存在共谋现象，特别是论文作者互相评审对方论文的2-cycle情况，引发了对评审分配公平性的关注。",
+    "key_points": [
+      "AAAI 2027发现评审过程存在共谋行为",
+      "2-cycle问题指作者互相评审对方论文",
+      "引发对评审分配诚信的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c451d6100fd452ce5fb4fb47e51c5f9b",
+    "title": "IBM and USTA add live-data AI features to the US Open app",
+    "url": "https://www.reddit.com/r/artificial/comments/1vwuet1/ibm_and_usta_add_livedata_ai_features_to_the_us/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-24T06:03:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>IBM and the USTA are adding new AI features to the US Open app and <a href=\"http://USOpen.org\">USOpen.org</a> for the 2026 tournament. The release names Live Updates, Serve Quality, Key Moments, and an enhanced Match Chat.</p> <p>Serve Quality tracks 21 body and racquet data points 50 times per second. Match Chat uses live match data, historical information, and AI agents trained in the USTA's editorial style. The release says IBM Confluent manages the live data",
+    "title_zh": "IBM与USTA为美网公开赛App新增实时数据AI功能",
+    "summary_zh": "IBM和美国网球协会为2026年美国网球公开赛官方App和网站添加了AI功能，包括实时更新、发球质量分析、关键时刻回顾和增强版比赛聊天机器人。",
+    "key_points": [
+      "IBM为美网App新增多项AI驱动的赛事功能",
+      "发球质量分析可追踪21个身体与球拍点位",
+      "功能包括实时更新、关键时刻和比赛聊天"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "ibm"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2028c5eae32d28a7dc30d402f29f958e",
+    "title": "BMVC 2026 IJCV recommendation? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vwtzix/bmvc_2026_ijcv_recommendation_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-24T05:39:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Does anyone know how the BMVC to IJCV special issue recommendation works?</p> <p>Is it mainly based on the review scores, or is it a separate decision by the ACs/program chairs (e.g. based on oral/highlight selection, reviewer comments, etc.)?</p> <p>Also, is there any way to know at this point whether a paper has been recommended for the IJCV track, or do authors only find out later through a separate email?</p> <p>Would be great to hear from anyone who has gon",
+    "title_zh": "BMVC 2026 IJCV推荐机制咨询",
+    "summary_zh": "用户询问BMVC 2026会议论文被推荐到IJCV期刊特别刊的机制，关心推荐是基于评审分数还是由领域主席/程序委员会根据口头报告、亮点文章等单独决定。",
+    "key_points": [
+      "询问BMVC论文推荐到IJCV的机制",
+      "疑惑是基于评审分数还是委员会单独决定",
+      "关注口头报告和亮点文章是否影响推荐"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
