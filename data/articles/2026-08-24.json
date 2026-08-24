@@ -549,5 +549,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "efe2b0cba445434d5310f284e19586e1",
+    "title": "Exploring a NORD × RHEA hybrid: a spiking/event-driven alternative to a fixed Transformer stack",
+    "url": "https://www.reddit.com/r/artificial/comments/1vwyiv3/exploring_a_nord_rhea_hybrid_a_spikingeventdriven/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-24T10:05:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>I've been experimenting for a while with two different ideas for non-Transformer language models, and I'm now considering combining them into one architecture.</p> <p>The first is NORD, a recurrent/spiking architecture I've been developing around token-time dynamics, persistent state, sparse processing, and SNN-style temporal computation.</p> <p>The second is RHEA (Reactive Hypergraph Event Architecture), which I'm currently prototyping at ~1B pa",
+    "title_zh": "探索 NORD × RHEA 混合架构：一种替代固定 Transformer 堆栈的脉冲/事件驱动方案",
+    "summary_zh": "作者正在实验将两种非 Transformer 语言模型架构 NORD 和 RHEA 结合，构建一个混合模型。NORD 是一个基于脉冲/循环的架构，旨在探索事件驱动的替代方案，以挑战传统 Transformer 的固定堆栈设计。",
+    "key_points": [
+      "探索将 NORD 和 RHEA 两种非 Transformer 架构进行融合",
+      "NORD 是作者开发的脉冲/循环架构，旨在替代固定 Transformer",
+      "该研究属于个人实验项目，尚未有成熟产品发布"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6856f1bcbca55c8b0924e788c159901f",
+    "title": "AI has changed my workflow more than I expected, but not always in the direction people assume.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vwy928/ai_has_changed_my_workflow_more_than_i_expected/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-24T09:50:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The productivity angle everyone talks about is real, to a point. I use AI for drafting copy, squashing boilerplate code, summarizing user feedback. That part works. What I didn't expect is how much time I spend prompting, reprompting, and crosschecking outputs. Some days it nets out close to neutral.</p> <p>What I'm genuinely curious about is whether solo builders and indie hackers here have found specific tools or workflows where AI is clearly additive rather t",
+    "title_zh": "AI 出乎意料地改变了我的工作流，但方向与人们预想的不同",
+    "summary_zh": "作者分享使用 AI 的感受，虽然 AI 在起草、代码和总结方面提高了生产力，但意外地花费了大量时间在提示、重新提示和交叉检查输出上。这表明 AI 工作流并非全是效率提升，也带来了新的认知负担。",
+    "key_points": [
+      "AI 在起草文案、生成代码和总结反馈方面确实提升了生产力",
+      "用户意外花费大量时间在提示工程和交叉检查 AI 输出上",
+      "AI 工作流在带来效率的同时，也引入了新的认知负担"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "696270fe8de2b875d15e7c8f3232e316",
+    "title": "How does the LLM on Google compare with other AI models? (newbie here)",
+    "url": "https://www.reddit.com/r/artificial/comments/1vwy7r7/how_does_the_llm_on_google_compare_with_other_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-24T09:48:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi all, I have no experience with either Chat GPT, Gemini or others, I've just been using the LLM on Google while logged out, and have noticed how good it's gotten at presenting info, and even just conversing about topics your mates mightn't understand/want to get into. Finding these convos very good for planning and helping me organise my thoughts. Yet I've also noticed that it will confidently tell you something incorrect, apologising profusely when you correc",
+    "title_zh": "谷歌的 LLM 与其他 AI 模型相比如何？",
+    "summary_zh": "一位 AI 新手用户发帖询问，他注意到谷歌搜索中集成的 LLM 在信息呈现和对话方面表现出色，想了解其与 ChatGPT、Gemini 等其他模型的对比情况。",
+    "key_points": [
+      "用户无 AI 使用经验，仅体验过谷歌搜索的 LLM 功能",
+      "发现谷歌 LLM 在信息呈现和对话质量上很出色",
+      "发帖寻求与 ChatGPT、Gemini 等主流模型的对比建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
