@@ -453,5 +453,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "951cddd799e1f23596afdb7ad2c6c6da",
+    "title": "i think AI memory is more than just remembering things",
+    "url": "https://www.reddit.com/r/artificial/comments/1vww7ix/i_think_ai_memory_is_more_than_just_remembering/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-24T07:49:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>i've been thinking about this a lot lately.</p> <p>most AI memory today seems to work like:</p> <p>“you like this”</p> <p>“you told me this before”</p> <p>“you work on this”</p> <p>but i don't think that's what human memory really is.</p> <p>our conversations, projects, decisions, mistakes, relationships, ideas and experiences all connect together. they create a history of how we became who we are.</p> <p>so what if AI didn't just remember facts about you, but c",
+    "title_zh": "我认为AI记忆不仅仅是记住东西",
+    "summary_zh": "这篇文章反思了当前AI记忆的局限性，认为它仅停留在记录用户偏好和过往信息的表层，并未真正模拟人类记忆。作者提出，人类记忆不仅仅是事实的存储，而是深度关联着项目、对话和情感，AI需要更深入的理解。",
+    "key_points": [
+      "当前AI记忆仅停留在记录表层事实和偏好",
+      "人类记忆与项目、对话深度关联，不仅是数据存储",
+      "文章探讨了AI记忆应如何向更深层次理解演进"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
