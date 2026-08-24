@@ -310,5 +310,52 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c13de11a04beb4a00744232f68a68a74",
+    "title": "AI text watermarking and quality loss",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxiow7/ai_text_watermarking_and_quality_loss/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-24T23:10:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vxiow7/ai_text_watermarking_and_quality_loss/\"> <img alt=\"AI text watermarking and quality loss\" src=\"https://external-preview.redd.it/lDWavjEV0JVLqW64g1WuVn7nJyuVYxWqla9Yn4XAPzA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c069807f478ff78fc359e10b717d5382b5a5a3d3\" title=\"AI text watermarking and quality loss\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/fivefilters\"> /u/fivefilters </",
+    "title_zh": "AI文本水印与质量损失",
+    "summary_zh": "Reddit讨论AI文本水印技术，关注其可能导致的文本质量下降问题，探讨在生成文本中嵌入水印的利弊与影响。",
+    "key_points": [
+      "AI文本水印技术可能降低生成文本的质量",
+      "社区讨论水印在版权保护与内容质量之间的权衡"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "72ed1b82ad03e881c24f516d4d0a565b",
+    "title": "AI outputting Hebrew and Arabic in 2026? One diacritic shifts the output from 47% to 94%. They share the same root. Why?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxicx2/ai_outputting_hebrew_and_arabic_in_2026_one/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-24T22:57:01+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vxicx2/ai_outputting_hebrew_and_arabic_in_2026_one/\"> <img alt=\"AI outputting Hebrew and Arabic in 2026? One diacritic shifts the output from 47% to 94%. They share the same root. Why?\" src=\"https://preview.redd.it/79plc6cukelh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=41c95aaa3cfa73e2f072330eb7284346bbc2467e\" title=\"AI outputting Hebrew and Arabic in 2026? One diacritic shifts the output from 47% to 94%. They share ",
+    "title_zh": "AI输出希伯来语和阿拉伯语的差异：一个变音符号如何让输出从47%跃升至94%",
+    "summary_zh": "Reddit用户发现AI在处理希伯来语和阿拉伯语时，因一个变音符号差异导致输出准确率从47%剧变至94%，探讨其根源及多语言模型挑战。",
+    "key_points": [
+      "单个变音符号导致AI输出阿拉伯语准确率从47%升至94%",
+      "揭示多语言模型在处理形近语言时的显著性能差异",
+      "社区讨论语义分析与语言模型训练数据偏差"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
