@@ -797,5 +797,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "cc1e634f52b0dfa8abe0c5c2d43e3346",
+    "title": "I ran the same AI character through 40 comic strips and she slowly became a different person",
+    "url": "https://www.reddit.com/r/artificial/comments/1vx4nyd/i_ran_the_same_ai_character_through_40_comic/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-24T14:38:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>About six months ago I started a weekly webcomic. I should say from the start that the character is entirely AI produced, there was no traditional artwork involved at any point. The whole experiment was testing whether I could keep one consistent face across a long serialized run without the audience catching drift.</p> <p>Setup was straightforward. I created her in APOB AI, which costs nothing for everyday use and saves a character profile so it outputs a match",
+    "title_zh": "我用AI生成同一角色40次连载漫画，结果她慢慢变成了另一个人",
+    "summary_zh": "一位创作者分享了一项为期半年的AI漫画实验，尝试使用AI生成一个固定角色，但在连续创作40期后，角色的面部特征逐渐发生了明显变化，难以保持一致性。",
+    "key_points": [
+      "AI生成角色在长期连载中难以保持面部一致性",
+      "实验持续半年，共创作40期AI漫画",
+      "角色外观逐渐演变，最终变成另一个人"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
