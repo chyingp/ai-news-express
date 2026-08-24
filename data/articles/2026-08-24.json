@@ -647,5 +647,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d15637f15d51b1c4fa28d77ef5ecaa26",
+    "title": "Delay-corrected Bellman operator + causal attribution for constrained RL contraction proof under unknown stochastic delay [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-24T12:11:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Standard constrained RL assumes consequences are immediate and attributable to the current action. This breaks down whenever violations are delayed and stochastic, which is most real-world settings you end up penalizing whatever action happened to precede the observed violation, not the action that caused it.</p> <p>Working on CCPL (Causal Consequence-Penalized Learning) to address this:</p> <p>- A delay-corrected Bellman operator using an adaptive effective dis",
+    "title_zh": "延迟修正贝尔曼算子+因果归因：未知随机延迟下约束RL的收缩性证明",
+    "summary_zh": "本研究针对约束强化学习在现实应用中面临的延迟与随机违规问题，提出了延迟修正的贝尔曼算子与因果归因方法，并给出了在未知随机延迟下的收缩性证明，为解决实际场景中的安全约束提供了理论框架。",
+    "key_points": [
+      "提出延迟修正贝尔曼算子和因果归因方法",
+      "给出未知随机延迟下约束RL的收缩性证明",
+      "解决现实应用中违规延迟与随机性的挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7d7123f38c6e010d61b1c26916892a8d",
+    "title": "The Download: kids outlearning AI, and space travel agents",
+    "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-24T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times&#8230;",
+    "title_zh": "MIT科技评论：儿童学习能力超越AI，以及太空旅行代理人",
+    "summary_zh": "本期MIT科技评论探讨了两个话题：儿童在语言学习上远超大型语言模型，其高效学习机制仍是个谜；同时介绍了太空旅行代理人这一新兴角色，帮助人们规划日益普及的太空旅行。",
+    "key_points": [
+      "儿童以极少数据高效学习语言，机制远超当前AI模型",
+      "大型语言模型训练需要海量数据，却不如儿童学习高效",
+      "太空旅行代理人成为新兴职业，为太空旅行提供规划服务"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
