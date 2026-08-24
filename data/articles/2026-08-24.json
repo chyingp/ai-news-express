@@ -477,5 +477,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "99de617c217bf7668c426de5ed6b6fc5",
+    "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+    "url": "https://www.qbitai.com/2026/08/478473.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-08-24T08:07:59+00:00",
+    "content_snippet": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON",
+    "title_zh": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+    "summary_zh": "阿里巴巴达摩院联合盛京医院等机构发布肝癌诊断AI模型DAMO LiON，能够精准识别直径1厘米的微小肿瘤，有望提升早期肝癌筛查的准确率和效率。",
+    "key_points": [
+      "DAMO LiON模型可精准识别1厘米微小肝癌肿瘤",
+      "由阿里达摩院联合中国医科大学附属盛京医院等机构研发",
+      "该模型旨在提升早期肝癌筛查的准确率与效率"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
