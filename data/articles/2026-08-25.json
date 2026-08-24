@@ -216,5 +216,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ca55072e8af175c2ae708cb06610e029",
+    "title": "I audited the sources my AI fact-checker was citing. About 1 in 18 didn't exist.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxe2gd/i_audited_the_sources_my_ai_factchecker_was/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-24T20:13:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've spent a while building a fact-checking pipeline, and I finally did a boring thing I should have done sooner: I took every source URL the system had cited across a batch of checks and just tested whether the pages actually existed.</p> <p>About 1 in 18 (12 of 215) were dead or had never existed. Sequential-looking article IDs, a wikipedia subdomain that isn't a real thing, a couple of pages on real, reputable domains that 404'd. The part that actually worrie",
+    "title_zh": "我审计了AI事实核查器引用的来源，约每18个中就有1个不存在",
+    "summary_zh": "作者对其构建的AI事实核查管道进行审计，随机抽查发现系统引用的来源URL中，约18个里就有1个（12/211）指向不存在的页面，揭示了AI生成虚假引用的问题。",
+    "key_points": [
+      "AI事实核查工具会引用不存在的网页来源",
+      "审计发现约5.6%的引用URL是虚假的",
+      "这凸显了AI产生幻觉和编造信息的问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "913e61f5c821a6cb865dd63bb12fc26c",
+    "title": "Coding expertise is going to collapse from AI reliance",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxdtcz/coding_expertise_is_going_to_collapse_from_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-24T20:04:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Anyone else actually dealt with this? Is it overblown, or am I missing something?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Positive-Ad3618\"> /u/Positive-Ad3618 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vxdtcz/coding_expertise_is_going_to_collapse_from_ai/\">[link]</a></span> &#32; <span><a href=\"https://www.",
+    "title_zh": "过度依赖AI或将导致编程专业能力崩塌",
+    "summary_zh": "一位用户发帖表达了对AI编程工具广泛使用的担忧，认为过度依赖可能导致程序员基础编码技能和深层次专业知识的普遍退化，并询问其他开发者是否也遇到过类似问题。",
+    "key_points": [
+      "担心AI辅助编程会削弱开发者的编码基本功",
+      "讨论过度依赖AI是否会导致整体专业能力下降",
+      "用户寻求社区对AI引发技能退化现象的看法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
