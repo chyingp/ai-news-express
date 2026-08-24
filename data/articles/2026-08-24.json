@@ -723,5 +723,79 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c87beaa410da7f9032adacad91e33833",
+    "title": "AI receptionist fails to book patients’ appointments as it can’t understand their accent",
+    "url": "https://www.reddit.com/r/artificial/comments/1vx3h5z/ai_receptionist_fails_to_book_patients/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-24T13:53:18+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vx3h5z/ai_receptionist_fails_to_book_patients/\"> <img alt=\"AI receptionist fails to book patients’ appointments as it can’t understand their accent\" src=\"https://external-preview.redd.it/GQjtUXUdURrYq6F9firdPF-Rn5mvwMCAbpkqGsInzp0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ebee07c158da3bd3f7b4aba82d7b92f92c0799db\" title=\"AI receptionist fails to book patients’ appointments as it can’t understand their accent\" /> </a> ",
+    "title_zh": "AI 前台因听不懂口音未能帮患者预约就诊",
+    "summary_zh": "一款用于医疗预约的 AI 前台系统因无法理解患者的口音，导致预约失败，引发了关于 AI 在实际应用中包容性和可靠性的讨论。",
+    "key_points": [
+      "AI 前台系统因口音识别问题未能成功预约患者就诊",
+      "事件暴露了 AI 在语音识别多样性方面的局限性",
+      "引发对 AI 医疗应用可靠性和包容性的关注"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4d20a47e81c4949c11c866ecd35e6583",
+    "title": "Anthropic's IPO filing will reportedly name public opposition to AI as a formal risk factor",
+    "url": "https://www.reddit.com/r/artificial/comments/1vx2ylz/anthropics_ipo_filing_will_reportedly_name_public/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-24T13:32:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>CNBC reported this week that Anthropic's confidential IPO filing (filed back in June) will name public opposition to AI and to new data centers as a formal risk factor once the public documents drop, expected within weeks. That would make it the first major AI lab IPO to disclose that risk in writing rather than treat it as a footnote.</p> <p>The number behind it: a Gallup survey from earlier this year found about seven in ten Americans oppose new AI data center",
+    "title_zh": "Anthropic IPO 文件据称将公众对 AI 的反对列为正式风险因素",
+    "summary_zh": "据报道，Anthropic 即将公开的 IPO 文件将把公众对 AI 和数据中心的反对列为正式风险因素，这使其成为首家如此明确表态的主要 AI 实验室。",
+    "key_points": [
+      "Anthropic 在 IPO 文件中将公众反 AI 情绪列为风险因素",
+      "此举为首家主要 AI 实验室在上市文件中明确提及该风险",
+      "文件预计在未来几周内公开"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "41a7e0c0858b2a1e669d12eb3a7e19fb",
+    "title": "Theo ranked every AI model. Do you agree?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vx2vpz/theo_ranked_every_ai_model_do_you_agree/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-24T13:29:53+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vx2vpz/theo_ranked_every_ai_model_do_you_agree/\"> <img alt=\"Theo ranked every AI model. Do you agree?\" src=\"https://external-preview.redd.it/aDR1MXpmbW1yYmxoMZ_70QEHdYiGm1xN_UZxR_fZmTNHWOvEuyE_SZ0PBsgR.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5054aff82d55a266eac8cd3a52658a20be59d1ba\" title=\"Theo ranked every AI model. Do you agree?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I built <a href=\"https://tierlist",
+    "title_zh": "Theo 对每个 AI 模型进行了排名，你同意吗？",
+    "summary_zh": "知名科技评论员 Theo 发布了一份 AI 模型排名，在 Reddit 上引发热议，社区成员对其排名标准和结果展开了广泛讨论。",
+    "key_points": [
+      "Theo 发布了一份全面的 AI 模型排名榜单",
+      "该排名在 Reddit 社区引发关于模型优劣的辩论",
+      "讨论焦点在于排名的标准是否客观公正"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
