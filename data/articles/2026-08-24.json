@@ -260,5 +260,76 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b5bb11fbec5c6a3b0c256ef60bd57420",
+    "title": "Why Hasn't the AI Bubble Burst Yet?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vwssy7/why_hasnt_the_ai_bubble_burst_yet/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-24T04:34:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The AI RAM demand has now started to affect Gaming PC sales and price hikes for laptops. When do you think the AI bubble will burst? Companies can't just keep raising money forever, right?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lokkythegamer\"> /u/lokkythegamer </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vws",
+    "title_zh": "AI 泡沫为何尚未破裂？",
+    "summary_zh": "文章探讨 AI 内存需求已开始影响游戏 PC 销售和笔记本电脑价格，质疑 AI 泡沫何时破裂，认为公司无法无限期融资。",
+    "key_points": [
+      "AI 内存需求已影响游戏 PC 销售和笔记本价格",
+      "市场质疑 AI 公司持续融资的可持续性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ff697ff68a1af5a66832ecccea3f1658",
+    "title": "OpenAI advertises \"unlimited\" image generation in Pro. It is not unlimited. [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vws3r0/openai_advertises_unlimited_image_generation_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-24T03:57:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Signed up for ChatGPT Pro for an image generation project. The pricing page says Pro comes with &quot;unlimited and faster image creation&quot; (chatgpt.com/pricing).</p> <p>A few hundred images in, I got rate limited. Reached out to support, and the response was: &quot;Pro access remains subject to usage allowances.&quot;</p> <p>So the word &quot;unlimited&quot; is... well... a lie. If you need image gen for actual work, heads up: you'll hit a wall after a few ",
+    "title_zh": "OpenAI 宣传 Pro 版无限图像生成，实际存在限制",
+    "summary_zh": "用户指出订阅 ChatGPT Pro 后，广告宣称的“无限且更快图像生成”在生成几百张图片后即遭遇速率限制，客服回应证实并非真正无限。",
+    "key_points": [
+      "OpenAI Pro 版宣称无限图像生成，但用户遭遇速率限制",
+      "客服回应确认“无限”宣传不实"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ee4975f1112963b0c5662a370f49c938",
+    "title": "Most AI agents processing sensitive data right now have ZERO documented controls. That's becoming a real problem!",
+    "url": "https://www.reddit.com/r/artificial/comments/1vwr687/most_ai_agents_processing_sensitive_data_right/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-24T03:10:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been reading about this lately and the numbers are genuinely surprising.</p> <p>As of earlier this year 78% of organizations hadn't taken meaningful steps toward AI compliance despite actively deploying agents that touch sensitive data. </p> <p>That gap between deployment speed and governance readiness is where most of the real risk sits.</p> <p>The responsible AI side specifically is what gets the least attention. </p> <p>Everyone talks about hallucinations and",
+    "title_zh": "多数处理敏感数据的 AI 代理缺乏文档化控制措施",
+    "summary_zh": "文章指出，78% 的组织在部署接触敏感数据的 AI 代理时未采取有意义的合规步骤，部署速度与安全控制之间的差距正成为严重问题。",
+    "key_points": [
+      "78% 的组织部署 AI 代理时未落实合规措施",
+      "敏感数据处理的安全控制缺失问题日益严重"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
