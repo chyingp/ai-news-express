@@ -695,5 +695,33 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "18b8f37b53639f5336aee05452f2e2fe",
+    "title": "I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating",
+    "url": "https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-24T12:34:25+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/\"> <img alt=\"I brought ChatGPT, Claude, and Gemini into a group chat to solve a complex problem. Here is how they caught each other hallucinating\" src=\"https://external-preview.redd.it/KCQojI4Vvg-BSMuNWaJZs6TWLoBDakpUlsTDySeKzsU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3dc58c1059bbb33b3d498e37e7e8e5ca16f5e062\" title=\"I brought ChatGPT, Claude, and Gemini into a ",
+    "title_zh": "我将ChatGPT、Claude和Gemini拉进群聊解决复杂问题，它们如何互相捕捉幻觉",
+    "summary_zh": "作者进行了一项实验，将ChatGPT、Claude和Gemini三个大型语言模型放入同一个群聊中协作解决复杂问题。实验发现，这些模型能够相互检查并纠正对方的错误输出，有效减少了幻觉现象，展现了多模型交叉验证的潜力。",
+    "key_points": [
+      "通过群聊让多个AI模型协作，能互相纠正错误输出",
+      "实验表明多模型交叉验证可有效减少AI幻觉",
+      "该方法为提升AI回答可靠性提供了新思路"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
