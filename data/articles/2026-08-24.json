@@ -503,5 +503,51 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b781f4c498aeab9da0cce670fc2acbb2",
+    "title": "Kids outlearn AI—and we still don’t know why",
+    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-24T09:00:00+00:00",
+    "content_snippet": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&#8230;",
+    "title_zh": "儿童学习能力仍超AI，个中原因尚不可知",
+    "summary_zh": "MIT科技评论分析指出，尽管ChatGPT等AI已能流利使用人类语言，但人类儿童的语言学习能力和效率依然远超现有AI系统，研究人员至今无法完全解释其背后的认知机制。",
+    "key_points": [
+      "AI虽能掌握语言，但儿童学习效率与能力仍更胜一筹",
+      "文章探讨了人类与机器在语言习得上的根本差异"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "60c3f2c5b18fda12bdb13befd9e060a3",
+    "title": "A new approach to building smarter more capable AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1vwxaip/a_new_approach_to_building_smarter_more_capable_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-24T08:54:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A new approach to building smarter more capable AI</p> <p>We seem to be in a situation where we cannot see the forest for the trees in the philosophy of how to make AI more capable. We are ignoring the only known working intelligence multiplier we have encountered : human civilization What if we built a framework for current models to use that acts like a durable civilization scaffold. No retraining or model weight modification needed. The civilization scaffold ",
+    "title_zh": "构建更智能AI的新思路：聚焦已知的智力倍增器",
+    "summary_zh": "Reddit一篇讨论文章提出，当前AI发展思路可能忽略了已知唯一有效的智力倍增器，即人类本身，呼吁重新审视构建更强大AI的哲学基础与方法论。",
+    "key_points": [
+      "批评当前AI发展只见树木不见森林",
+      "主张回归人类这一已知的智力倍增器来设计更智能的AI"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
