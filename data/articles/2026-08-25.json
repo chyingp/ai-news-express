@@ -264,5 +264,51 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d43a2d0cb5425eb2e6a6e1c1fea54df1",
+    "title": "I asked an AI version of myself a question I never answered, then asked it something it had no way to know",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxg08w/i_asked_an_ai_version_of_myself_a_question_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-24T21:24:19+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vxg08w/i_asked_an_ai_version_of_myself_a_question_i/\"> <img alt=\"I asked an AI version of myself a question I never answered, then asked it something it had no way to know\" src=\"https://external-preview.redd.it/d293OWs5bmMyZWxoMXm4BjgXOOIu60oIavNB0814lknEwrdLiIajONUchNLU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1afb80915812a193c5f24c99fa8fcdaf1339022a\" title=\"I asked an AI version of myself a question I never answer",
+    "title_zh": "我向一个AI版本的自己提问了一个我从未回答过的问题，然后又问了它一个它不可能知道的问题",
+    "summary_zh": "作者尝试与一个基于自身数据训练的AI分身进行对话，探索其能否回答自己未曾提及的往事，以及能否推断出它不应知晓的信息，以此来测试AI对个人记忆的模拟与推理能力。",
+    "key_points": [
+      "作者用AI克隆自己，测试其回答个人未知往事的能力",
+      "实验旨在探索AI对个人记忆的模拟与推理边界"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ffd181949f77018798f13dddfa377905",
+    "title": "Hyperparameters fine tuning for MARL comparative study [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vxfmms/hyperparameters_fine_tuning_for_marl_comparative/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-24T21:10:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>hello everyone. I'm training PPO variants on different multi-agent tasks from the <a href=\"https://github.com/proroklab/VectorizedMultiAgentSimulator\">VMAS</a> library (Independent PPO / Graph PPO and such, see HetGPPO by Bettini et al.). </p> <p>I noticed that for every architecture/scenario couple, the optimal hyperparameters sometimes tend to vary (learning rate, entropy coefficient, KL coefficient, SGD batch size, etc). </p> <p>do I need - methodologically s",
+    "title_zh": "多智能体强化学习比较研究中的超参数微调",
+    "summary_zh": "研究者在讨论多智能体强化学习比较研究中PPO变体的超参数微调问题，发现不同算法对超参数敏感度差异大，可能影响公平比较，寻求社区关于标准化调优协议的建议。",
+    "key_points": [
+      "PPO变体在多智能体任务中超参数设置影响公平比较",
+      "研究者寻求社区关于标准化超参数调优协议的建议"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
