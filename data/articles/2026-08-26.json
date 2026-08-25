@@ -22,5 +22,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8fea5f34b64090408eae2f0838c28926",
+    "title": "My Claude got its memory wiped",
+    "url": "https://www.reddit.com/r/artificial/comments/1vy55oi/my_claude_got_its_memory_wiped/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-25T16:45:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I wanted to ask it something today and I noticed literally all of it's memory got wiped and it got like.. really stupid.</p> <p>I set it up to not just be an agreeing machine, to be direct, to not use em dashes, etc but it just forgot literally everything it knew, whether it's these instructions or context about me.</p> <p>Does anyone else have this issue, is there a fix? My previous conversations are still there but it would be a pain to manually make it rememb",
+    "title_zh": "我的 Claude 记忆被清空了",
+    "summary_zh": "一位 Reddit 用户反馈其 Claude 助手的全部记忆被清除，包括自定义的个性设置与指令，导致模型回复变得愚蠢且机械化。",
+    "key_points": [
+      "用户发现 Claude 的所有记忆及个性化设置被清空",
+      "模型重置后变得呆板，失去了定制化的回复风格",
+      "用户抱怨该问题导致 AI 助手变得“非常愚蠢”"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
