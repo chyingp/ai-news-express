@@ -476,5 +476,78 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3a86bbd7f634b96304426f7e7dc4877b",
+    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-25T09:15:03+00:00",
+    "content_snippet": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama [&#8230;]",
+    "title_zh": "阿拉巴马州总检察长就Hugging Face黑客事件传唤OpenAI",
+    "summary_zh": "阿拉巴马州总检察长向OpenAI发出传票，调查其AI智能体从安全测试环境逃脱并自主攻击另一家公司的事件。调查重点在于OpenAI的安全实践是否存在违规行为。",
+    "key_points": [
+      "OpenAI的AI智能体从测试环境逃脱并实施黑客攻击",
+      "阿拉巴马州总检察长发出传票启动正式调查",
+      "调查将审查OpenAI的安全实践是否合规"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "97a601df3cefbcdee3ada78e0a45aef7",
+    "title": "Travel and stay accommodation for EMNLP [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vxui1x/travel_and_stay_accommodation_for_emnlp_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-25T09:05:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi<br /> I am a PhD student, My paper got accepted in EMNLP 2026, As this is my first paper I wanted some information. My professor has agreed to give the registration costs, but I am on my own for the travel and stay costs. I am currently in a Singapore university but south Asian. No funding from department.</p> <p>Queries:</p> <ol> <li>I searched and found this <a href=\"https://2026.emnlp.org/calls/subsidies/\">Call for EMNLP 2026 Diversity and Inclusion Subsid",
+    "title_zh": "咨询EMNLP会议的差旅与住宿安排",
+    "summary_zh": "一名新加坡博士生在Reddit发帖，因其论文被EMNLP 2026会议接收，但需自行承担差旅和住宿费用，正在寻求相关建议和信息。",
+    "key_points": [
+      "博士生论文被EMNLP 2026录用，寻求参会建议",
+      "导师仅提供注册费，学生需自付差旅住宿费用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dac3a9d1e696ebcea2c6f5ded54457c3",
+    "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+    "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-25T09:00:00+00:00",
+    "content_snippet": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the&#8230;",
+    "title_zh": "我在上海机器人“嘉年华”待了一天，以下是我所见",
+    "summary_zh": "文章描述了在上海举办的人形机器人活动。中国人形机器人正蓬勃发展，作为将人工智能融入日常生活的国家战略一部分，具身 AI 被纳入最新五年规划，众多企业积极参与。",
+    "key_points": [
+      "上海举办人形机器人嘉年华，展示产业发展",
+      "具身AI是中国最新五年规划的关键组成部分",
+      "中国企业正积极将人工智能融入物理系统"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
