@@ -381,5 +381,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6ceef0adc4b8d380adc7dfa291d88056",
+    "title": "AI video generation models still have a long way to go",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxle74/ai_video_generation_models_still_have_a_long_way/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-25T01:05:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have been using video generation models for a long time, especially Seedance 2.5.</p> <p>I find the understanding of prompt is still very weak even in the strongest model. One most ridiculously simple mistake is Seedance misspelled the words in the video. I think I can fix it with emphasizing it. But it failed again.</p> <p>LLM may hit a wall now but apparently video generation model has not.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://w",
+    "title_zh": "AI视频生成模型仍有很长的路要走",
+    "summary_zh": "本文作者基于长期使用经验，指出当前AI视频生成模型的提示词理解能力仍很弱，即使最强的模型也常出现低级错误，例如在视频中拼错单词。",
+    "key_points": [
+      "AI视频生成模型对提示词的理解能力依然薄弱",
+      "最强模型也会犯拼错单词等低级错误",
+      "技术远未达到理想状态，有很长的路要走"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
