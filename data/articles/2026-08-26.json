@@ -121,5 +121,76 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "520e671e0367013bd07b312f1ec50655",
+    "title": "Dribbling the AI Watermark Directly In-Prompt",
+    "url": "https://www.reddit.com/r/artificial/comments/1vybcrs/dribbling_the_ai_watermark_directly_inprompt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-25T20:22:21+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vybcrs/dribbling_the_ai_watermark_directly_inprompt/\"> <img alt=\"Dribbling the AI Watermark Directly In-Prompt\" src=\"https://external-preview.redd.it/7G9ji7oWEcM-Bw3cbBI9okoi4P0hupTMV8WlpkpW-zQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a39ec4ccdfb0bfd8d9f811ce82e00535c666c536\" title=\"Dribbling the AI Watermark Directly In-Prompt\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>It's my article, it is about how to ",
+    "title_zh": "直接在提示词中绕过 AI 水印",
+    "summary_zh": "Reddit 网友分享了一种通过巧妙构造提示词，直接在生成阶段规避 AI 水印的技术方法，引发社区对当前水印技术有效性的讨论。",
+    "key_points": [
+      "通过精心设计的提示词可绕过 AI 水印机制",
+      "展示了当前 AI 水印技术的潜在脆弱性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "22ee137995211914b60f835eb851e0ab",
+    "title": "OpenAI adds an admin plugin for ChatGPT Work and Codex",
+    "url": "https://www.reddit.com/r/artificial/comments/1vyab8z/openai_adds_an_admin_plugin_for_chatgpt_work_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-25T19:46:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>OpenAI has introduced an Admin plugin for ChatGPT Work and Codex. It lets workspace admins review activity and credit usage, manage members and groups, check permissions, and adjust usage limits from a conversation.</p> <p>The plugin stays inside each admin's existing role and permissions. OpenAI says it shows what was requested, whether it completed, and what changed. It can also route some requests for approval in Slack or Microsoft Teams.</p> <p>The practical",
+    "title_zh": "OpenAI 为 ChatGPT Work 和 Codex 推出管理员插件",
+    "summary_zh": "OpenAI 发布了一款内置于对话中的管理员插件，允许工作区管理员直接在聊天界面中查看活动、管理成员权限和调整使用额度。",
+    "key_points": [
+      "管理员可在对话中直接管理团队和用量",
+      "该插件集成于 ChatGPT Work 和 Codex 中"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "08f94444a490ad9d5286399c3a738d66",
+    "title": "I benchmarked AutoGen, CrewAI, LangGraph, and MetaGPT against my own Agent OS. The \"LLM-as-a-judge\" paradigm is completely broken. Here is the local data.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vya5ko/i_benchmarked_autogen_crewai_langgraph_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-25T19:40:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've supposed their approach based on their website, they are of course more complex. </p> <p>I set up a local &quot;Agent Arena&quot; (<code>qwen2.5-coder:14b</code> on an RTX A4500) to test 5 AI agent frameworks on an ultra-strict coding task. Classic multi-agent &quot;swarms&quot; either hallucinated success, burned 500k+ tokens in pointless debates, or rubber-stamped completely off-topic code. Only frameworks relying on <strong>mechanical grounding</strong> ",
+    "title_zh": "我基准测试了 AutoGen、CrewAI 等框架，发现“LLM 作为裁判”范式完全失效",
+    "summary_zh": "作者在本地环境对 AutoGen、CrewAI、LangGraph 和 MetaGPT 等主流 AI 智能体框架进行基准测试，发现当前广泛使用的“大语言模型作为裁判”的评估方法并不可靠。",
+    "key_points": [
+      "在本地严格编码任务下测试了 5 个主流 AI 智能体框架",
+      "指出“LLM 作为裁判”的评估范式已失效"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
