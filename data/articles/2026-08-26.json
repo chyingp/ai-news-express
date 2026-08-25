@@ -1,0 +1,26 @@
+[
+  {
+    "id": "efff94b7035dcc497add7ecaa5dee3f1",
+    "title": "I tested my GenOS for LLM agents. It fixed prompt bloat and replaced multi-agent swarm latency.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vy43mo/i_tested_my_genos_for_llm_agents_it_fixed_prompt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-25T16:06:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I ran an empirical test on GenOS, an environment where LLM agents are driven by a versioned YAML &quot;genome&quot; rather than massive prompts. By mutating traits (e.g., <code>risk_tolerance</code>) and breeding specialized agents together, I achieved emergent TDD, bypassed RAG context limits, and entirely avoided multi-agent &quot;ping-pong&quot; loops.</p> <p>I set up a real test environment (Windows/PowerShell, Node v24, ESLint, Rust CLI) with a severely fla",
+    "title_zh": "我测试了为LLM代理设计的GenOS：它解决了提示膨胀并取代了多代理群延迟",
+    "summary_zh": "作者对GenOS进行了实证测试，这是一个通过版本化YAML'基因组'而非庞大提示来驱动LLM代理的环境。通过变异特性和培育专用代理，实现了涌现式的测试驱动开发，解决了提示膨胀和多代理群延迟问题。",
+    "key_points": [
+      "GenOS使用YAML基因组代替庞大提示来驱动LLM代理",
+      "通过变异特性与培育代理实现涌现式测试驱动开发",
+      "该方法解决了提示膨胀并消除了多代理群延迟"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
