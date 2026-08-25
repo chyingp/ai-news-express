@@ -573,5 +573,155 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ff6e4887ee224ae6b2a7adf0edeeca53",
+    "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+    "url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-25T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise. Suddenly, students carried an app in their phones that could magically answer almost any homework question or&#8230;",
+    "title_zh": "下载：学校中的智能AI应用，以及上海机器人“嘉年华”",
+    "summary_zh": "本期《下载》探讨了如何推动AI在课堂更智能地使用，介绍了上海世界人工智能大会的机器人活动，并讨论了AI对教育的影响。",
+    "key_points": [
+      "探讨如何引导学生在课堂上更聪明地使用AI聊天机器人",
+      "上海世界人工智能大会展示人形机器人最新进展",
+      "反思AI进入教育领域带来的挑战与机遇"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e261559cc8a3cd1a66bc206e4cdb29cc",
+    "title": "For a €6k portable AI/development setup, prioritize 64–128GB unified memory or CUDA compatibility?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxxrqj/for_a_6k_portable_aidevelopment_setup_prioritize/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-25T11:59:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am trying to make a platform decision for a professional laptop that will be used for both ordinary software development and AI/data-science work over several years.</p> <p>The two approaches I am comparing are:</p> <ol> <li><p>M5 Pro/Max MacBook Pro with 64 GB unified memory and 2 TB SSD, possibly 128 GB if that is more valuable.</p></li> <li><p>High-end NVIDIA laptop with CUDA but much less GPU memory, more heat/noise and usually worse battery life.</p></li>",
+    "title_zh": "6000欧元预算：便携AI开发设备应优先考虑统一内存还是CUDA兼容性？",
+    "summary_zh": "一位用户寻求专业笔记本电脑建议，用于软件开发和AI/数据科学工作，纠结于苹果M系列芯片的统一内存架构与英伟达CUDA生态之间的选择。",
+    "key_points": [
+      "讨论在MacBook Pro与配备CUDA显卡的笔记本之间做选择",
+      "核心权衡在于64-128GB统一内存与CUDA兼容性",
+      "设备预算为6000欧元，用于未来数年的AI开发"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bce263328b4f23111a9ad0b252e2a4a5",
+    "title": "Yesterday I put ChatGPT, Claude and Gemini in a group chat. Now I want Reddit to break it",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxxlb1/yesterday_i_put_chatgpt_claude_and_gemini_in_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-25T11:50:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Yesterday, <a href=\"https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/\">my post</a> about forcing ChatGPT, Claude, and Gemini into a roundtable discussion to fact-check eachother got way more traction than I expected.</p> <p>The idea is simple: use the diversity of three AI models to catch hallucinations. If OpenAI misses a logical leap, Anthropic or Google catches it.</p> <p>But some of the sharpest comments h",
+    "title_zh": "我把ChatGPT、Claude和Gemini拉进群聊，现在想让Reddit来破解它",
+    "summary_zh": "一位用户将ChatGPT、Claude和Gemini三个AI模型放入群聊，让它们相互核验并讨论，并在Reddit上邀请社区尝试破解这个多AI对话系统。",
+    "key_points": [
+      "用户创建了一个包含ChatGPT、Claude和Gemini的群聊",
+      "AI在群聊中相互事实核查和讨论",
+      "向Reddit社区发起挑战，邀请大家尝试破解该系统"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bc7bf32e5784e9d3370ecf24c230bf29",
+    "title": "I built an AI where everyone talks to the same mind, and every interaction changes it",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxxeef/i_built_an_ai_where_everyone_talks_to_the_same/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-25T11:41:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most AI memory is private: an LLM gradually learns about a user. </p> <p>I wanted to see what happens if you give an AI a memory and make it public. </p> <p>So I built <strong>Wild Static</strong>: a persistent AI that anyone can talk to. Everybody talks to the same one. Conversations become experiences in the underlying memory, which means something one person says can eventually affect how Static responds to somebody completely different down the line.</p> <p>",
+    "title_zh": "我构建了一个AI，所有人都与同一个大脑对话，每次互动都会改变它",
+    "summary_zh": "一位开发者创建了一个名为“Wild Static”的公共AI，具有共享且持久的记忆，任何用户与它的对话都会影响并改变这个AI的“心智”。",
+    "key_points": [
+      "构建了一个具有公共记忆的持久化AI系统",
+      "所有用户的互动都会共同塑造AI的行为和知识",
+      "探索公共记忆与集体意识对AI人格的影响"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "16c7d4d0c01c5a73f040a551cecb1e94",
+    "title": "Nicolas Cole says his \"100x\" AI output isn't a smarter prompt — it's his entire writing process, written down until AI had nothing left to guess.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxx90t/nicolas_cole_says_his_100x_ai_output_isnt_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-25T11:34:04+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vxx90t/nicolas_cole_says_his_100x_ai_output_isnt_a/\"> <img alt=\"Nicolas Cole says his &quot;100x&quot; AI output isn't a smarter prompt — it's his entire writing process, written down until AI had nothing left to guess.\" src=\"https://external-preview.redd.it/dnMwa3c1NHliaWxoMXMCbnqN2VgnzjMxkuYI8Cd0zjlvMjsia13RrGW6GX3t.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad3cf87ed0e6a0fcf7503e09a48e5bbeacfcb86b\" title=\"Nicolas Co",
+    "title_zh": "Nicolas Cole称其“100倍”AI写作输出并非靠更聪明的提示词",
+    "summary_zh": "作家Nicolas Cole分享其高效利用AI写作的秘诀，并非依赖更复杂的提示词，而是将整个写作流程细致地记录下来，直至AI完全理解，无需猜测。",
+    "key_points": [
+      "高效AI写作的关键在于详细记录写作流程而非提示词",
+      "将步骤细化到AI没有任何需要猜测的余地",
+      "方法论旨在实现100倍的内容产出效率"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fa54af761f89dcac3e20b7b1a253c809",
+    "title": "If you work in tech and you believe technologies like AI should be in service of workers, society, and life, and not tech oligarchs, you should consider joining Tech Workers Coalition",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxx7kr/if_you_work_in_tech_and_you_believe_technologies/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-25T11:32:06+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Chobeat\"> /u/Chobeat </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://techworkerscoalition.org/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1vxx7kr/if_you_work_in_tech_and_you_believe_technologies/\">[comments]</a></span>",
+    "title_zh": "如果你在科技行业工作，认为AI应为工人与社会服务，而非科技寡头，应考虑加入Tech Workers Coalition",
+    "summary_zh": "一篇号召科技从业者加入“科技工人联盟”的帖子，主张AI等技术应服务于工人、社会和生活，而非为少数科技寡头牟利。",
+    "key_points": [
+      "呼吁科技从业者加入Tech Workers Coalition组织",
+      "主张技术应服务于工人和社会而非科技寡头",
+      "强调技术伦理与社会责任"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
