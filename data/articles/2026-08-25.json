@@ -723,5 +723,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "55fdb5264c0031013291b38f297e02ab",
+    "title": "UNDP and DFINITY Foundation Collaborate on Exploring Sovereign Cloud Infrastructure and Decentralized AI Deployment for Public Good",
+    "url": "https://www.reddit.com/r/artificial/comments/1vy06hp/undp_and_dfinity_foundation_collaborate_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-25T13:40:39+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vy06hp/undp_and_dfinity_foundation_collaborate_on/\"> <img alt=\"UNDP and DFINITY Foundation Collaborate on Exploring Sovereign Cloud Infrastructure and Decentralized AI Deployment for Public Good\" src=\"https://external-preview.redd.it/yvKa5EPs7Yro6y1v11WFv0JrFTZfjJomuScEODzatKA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f30701114d25d4faa81915f47d46d319f309cb7\" title=\"UNDP and DFINITY Foundation Collaborate on Exploring",
+    "title_zh": "UNDP 与 DFINITY 基金会合作探索主权云基础设施与去中心化 AI 公益部署",
+    "summary_zh": "联合国开发计划署与 DFINITY 基金会宣布合作，共同探索利用去中心化技术构建主权云基础设施，并推动 AI 在公益领域的应用部署，以增强数据主权和安全性。",
+    "key_points": [
+      "UNDP 与 DFINITY 合作探索去中心化主权云基础设施",
+      "重点研究用于公益事业的去中心化 AI 部署方案",
+      "旨在提升数据主权并保障关键应用的安全性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a80bc915b9f4eaeed7b6e5a0b95e2f11",
+    "title": "UK's cyber agency just told every company running AI agents to build a kill switch, and admitted model safety training can be bypassed",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxznqe/uks_cyber_agency_just_told_every_company_running/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-25T13:19:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The NCSC (UK's National Cyber Security Centre, part of GCHQ) published its first real guidance on agentic AI security on August 20. It reads like an engineering checklist rather than a policy document: size your containment to how much autonomy you grant the agent, pick one of three oversight models per deployment (human approves every action, human can intervene but doesn't have to, or fully unsupervised for low-risk tasks), run a four-level sandboxing setup, a",
+    "title_zh": "英国网络机构要求所有运行 AI 代理的公司设置终止开关，并承认模型安全训练可被绕过",
+    "summary_zh": "英国国家网络安全中心发布首份关于智能体 AI 安全的指导文件，建议企业根据 AI 代理的自主权程度设置隔离措施并安装终止开关，同时指出目前的模型安全训练存在被绕过的风险。",
+    "key_points": [
+      "英国 NCSC 建议为 AI 代理配备终止开关等安全措施",
+      "指导意见承认现有模型安全训练机制存在漏洞",
+      "该文件被视为工程检查清单而非政策文件"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "944b086394f24a2015d614b3e8b907b7",
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-25T13:00:00+00:00",
+    "content_snippet": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "title_zh": "Accel 支持的 Keenable 正为 AI 代理构建网络索引",
+    "summary_zh": "初创公司 Keenable 在完成 2600 万美元种子轮融资后走出隐身模式，正在构建一个面向 AI 代理的海量网络搜索索引，以支持 AI 代理更高效地访问和理解网络信息。",
+    "key_points": [
+      "Keenable 获 2600 万美元种子轮融资，由 Accel 支持",
+      "该公司正在构建专为 AI 代理设计的网络搜索索引",
+      "此技术旨在提升 AI 代理对网络信息的检索效率"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
