@@ -216,5 +216,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a87c63e64fce01519d99818b14efaf32",
+    "title": "CEO fired developers to make room for AI. Developers respond by creating open source AI CEO",
+    "url": "https://www.reddit.com/r/artificial/comments/1vyegah/ceo_fired_developers_to_make_room_for_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-25T22:18:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I hope this is okay to share since it is not self promotion and it is open source. Some of my friends were let go as part of an &quot;AI Transformation&quot;. So they got together and created Open Executive as a tool to replace the CEO and other executives. Hopefully, turnabout is fair play and might even get some folks to think twice about using AI to replace people. </p> <p>It is free and available here:<br /> <a href=\"https://github.com/SenteLabsAI/OpenExecut",
+    "title_zh": "CEO为AI裁员开发者，开发者反手创造开源AI CEO工具",
+    "summary_zh": "一群被裁的开发者因公司推动“AI转型”而失业，他们联合创建了开源项目Open Executive，旨在用AI替代CEO和高管职位，颇具讽刺意味。",
+    "key_points": [
+      "公司为AI转型裁撤开发者",
+      "被裁开发者创建开源AI CEO工具",
+      "项目旨在替代CEO等高管职位"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8c8ddb777db3ab39a13f6fce089724a8",
+    "title": "Has anyone else encountered ‘Man Explains Everything’? I questioned how much of it was AI and got blocked",
+    "url": "https://www.reddit.com/r/artificial/comments/1vydxnl/has_anyone_else_encountered_man_explains/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-25T21:58:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I hope someone reads all this. Mainly because it would be nice to know whether anyone else has encountered the same content. But fair warning: this might be a long read.</p> <p>I’ve been seeing a lot of videos on Facebook cross-posted from a YouTube channel called <strong>Man Explains Everything</strong>. Basically, it’s an educational channel posting animated explainer videos in the style of those dry 1970s/1980s educational films about science, history, geolog",
+    "title_zh": "网友质疑AI内容遭“Man Explains Everything”频道拉黑",
+    "summary_zh": "一名Reddit用户分享其遭遇，称在Facebook看到大量来自YouTube频道“Man Explains Everything”的视频，质疑其内容为AI生成后遭对方屏蔽，寻求其他用户是否有类似经历。",
+    "key_points": [
+      "用户质疑YouTube频道内容由AI生成",
+      "质疑后遭该频道运营者拉黑",
+      "用户发帖询问其他网友是否遇到同样情况"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
