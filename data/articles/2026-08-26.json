@@ -192,5 +192,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "37f4fe4c26c2e9bd795a6ea7d4b2209e",
+    "title": "Truck Driver Builds AI News Aggregator",
+    "url": "https://www.reddit.com/r/artificial/comments/1vycupz/truck_driver_builds_ai_news_aggregator/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-25T21:16:37+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vycupz/truck_driver_builds_ai_news_aggregator/\"> <img alt=\"Truck Driver Builds AI News Aggregator\" src=\"https://preview.redd.it/gdwe0k4x7llh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b27864cb35e58d17e39bbc2ad93b57013ef70f8\" title=\"Truck Driver Builds AI News Aggregator\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Truck driver here, zero coding background. I Built an AI news aggregator over a few evenings be",
+    "title_zh": "卡车司机打造AI新闻聚合器",
+    "summary_zh": "一名卡车司机利用AI技术构建了一款新闻聚合器，旨在帮助用户高效获取和筛选信息。该工具展示了个人开发者如何利用AI解决实际需求，并在Reddit社区引发关注与讨论。",
+    "key_points": [
+      "卡车司机业余开发AI新闻聚合工具",
+      "利用AI帮助用户高效筛选和获取信息",
+      "项目在Reddit社区引发关注和讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
