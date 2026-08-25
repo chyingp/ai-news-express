@@ -264,5 +264,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3571595c4384e9bc6b2723f8958baaef",
+    "title": "Join a community-run AI Discord: open discussion, transparent moderation, local model quants",
+    "url": "https://www.reddit.com/r/artificial/comments/1vyfbad/join_a_communityrun_ai_discord_open_discussion/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-25T22:53:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I made a Discord for people who are genuinely into AI and want a decent place to talk about it. It’s still new, but the idea is to build a large community without arbitrary bans, hidden moderation decisions, or people getting shut down for disagreeing. Rules should be clear, moderation should be explainable, and members should have a real say in how the server develops.</p> <p>There are channels for local models, research, tools, startups, personal projects, tec",
+    "title_zh": "加入社区运营的 AI Discord：开放讨论、透明审核、本地模型量化",
+    "summary_zh": "Reddit 用户创建了一个新的 AI 讨论 Discord 社区，旨在提供开放讨论和透明审核的环境，避免随意封禁和隐藏审核决策，并支持本地模型量化话题。",
+    "key_points": [
+      "发起者创建了一个强调透明审核和开放讨论的 AI 社区 Discord 服务器",
+      "该社区旨在避免随意封禁和隐藏审核决策，鼓励自由交流",
+      "社区讨论内容涵盖本地模型量化等 AI 技术话题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
