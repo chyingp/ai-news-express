@@ -429,5 +429,52 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "81be816e7c97ac63a50f6ed0cedbe409",
+    "title": "Reviewing 4 papers for AAAI 2027 and none have code, Reject? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-25T06:34:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I got my batch of four papers for AAAI 2027. All four papers make empirical claims, none include code, data, or anything I can actually check. Just the PDF and the checklist. AAAI-27's own rules say code/data should be provided at submission, and &quot;we'll release it after acceptance&quot; doesn't count as reproducibility.</p> <p>That said, I don't think missing code alone is an auto-reject. Saw an older thread here where someone claiming to have helped write ",
+    "title_zh": "审稿4篇AAAI 2027论文，全无代码，该拒吗？[讨论]",
+    "summary_zh": "一位审稿人收到4篇AAAI 2027投稿，均提出实证声明但未提供代码或数据，违反会议规定，发帖讨论是否应直接拒稿。",
+    "key_points": [
+      "4篇AAAI 2027投稿均未提供可查验的代码或数据",
+      "违反AAAI-27要求在提交时提供代码/数据的规定",
+      "审稿人在Reddit发帖讨论是否应因此拒稿"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2c0d07fe3cfa7ded877a5b3505b81de9",
+    "title": "A note for people expecting the Singularity any day now",
+    "url": "https://www.reddit.com/r/artificial/comments/1vxrhy2/a_note_for_people_expecting_the_singularity_any/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-25T06:07:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Before we get to recursive self-improvement, there is a slightly awkward intermediate step nobody seems very interested in:</p> <p>AI has to know what the hell is happening to itself while it is working.</p> <p>Current frontier models can be extraordinarily capable, but they still do not have reliable introspective access to their own internal processes.</p> <p>They cannot simply inspect themselves and tell you:</p> <p>- what exactly made this reasoning attempt ",
+    "title_zh": "对期待奇点马上到来的人说几句",
+    "summary_zh": "作者指出，在实现递归自我改进之前，AI需要先解决一个被忽视的中间步骤：理解自身工作时的内部状态。",
+    "key_points": [
+      "AI达到递归自我改进前需先理解自身工作状态",
+      "当前前沿模型能力强但缺乏对自身内部过程的认知"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
