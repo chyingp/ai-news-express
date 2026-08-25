@@ -48,5 +48,54 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "055177ed0ccda35439fc126909c1b9ee",
+    "title": "[D] Looking for advice: Modelling a medicine-reminder agent that must decide “remind / wait / notify” under incomplete information[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vy8a9g/d_looking_for_advice_modelling_a_medicinereminder/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-25T18:34:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I’m researching how to design an AI agent for a medicine-reminder system. The agent has to decide, at each relevant time, whether to:</p> <ul> <li>send a reminder,</li> <li>wait (do nothing for now), or</li> <li>notify another person (e.g. caregiver),</li> </ul> <p>when it does <strong>not</strong> have complete information about the patient (has the dose already been taken? is the person nearby/attentive? are there adherence barriers? etc.).",
+    "title_zh": "[D] 寻求建议：在信息不完全的情况下建模一个必须决定“提醒/等待/通知”的服药提醒智能体",
+    "summary_zh": "一位研究人员寻求关于设计服药提醒AI智能体的建模建议，该智能体需在信息不完全的情况下，动态决定是否发送提醒、等待或通知护理人员。",
+    "key_points": [
+      "研究如何设计服药提醒AI智能体的决策模型",
+      "智能体需在信息不完全时选择提醒、等待或通知",
+      "属于技术讨论，寻求建模方法的建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c315b9a7b90f275cf3941354afd8d292",
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-25T17:50:33+00:00",
+    "content_snippet": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+    "title_zh": "Claude Cowork 终于能记住你在聊天中告诉它的事了",
+    "summary_zh": "Anthropic 为 Claude 的聊天和 Cowork 功能引入共享记忆，用户无需再重复向 AI 说明项目、偏好及其他上下文信息。",
+    "key_points": [
+      "Anthropic 为 Claude 推出跨聊天和 Cowork 的共享记忆功能",
+      "用户无需再重复说明项目背景和个人偏好"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
