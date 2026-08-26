@@ -365,5 +365,51 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b36a8bc94f0f33b85aa35bb0fcf42952",
+    "title": "Catching bugs in scikit-learn [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vym6cn/catching_bugs_in_scikitlearn_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-26T03:57:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>sklearn 1.9 fixed a bug in how BayesianRidge computes its uncertainty. We traced <code>predict</code> on 1.8 and 1.9 and compared the two formulas it actually computes, see if you can spot what changed before the notebook tells you.</p> <p><a href=\"https://github.com/aadya940/scikit-verify/blob/master/examples/sklearn_bug_hunting.ipynb\">https://github.com/aadya940/scikit-verify/blob/master/examples/sklearn_bug_hunting.ipynb</a></p> </div><!-- SC_ON --> &#32; sub",
+    "title_zh": "在 scikit-learn 中捕捉 Bug",
+    "summary_zh": "文章讨论 scikit-learn 1.9 版本修复了 BayesianRidge 的 uncertainty 计算 bug，并通过对比 1.8 和 1.9 版本中 predict 的实际计算公式来展示变化。",
+    "key_points": [
+      "scikit-learn 1.9 修复了 BayesianRidge 不确定性计算 bug",
+      "通过对比 1.8 和 1.9 版本公式直观展示修复内容"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3171b8e205ace109befda3393bf9f02e",
+    "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+    "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-26T03:30:00+00:00",
+    "content_snippet": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+    "title_zh": "印度 Ringg 获 Peak XV 投资，推动语音 AI 超越电话通话",
+    "summary_zh": "印度语音 AI 公司 Ringg 在 A 轮扩展融资中从 Peak XV 筹集了 1000 万美元，旨在将其语音 AI 技术应用拓展到传统电话通话之外。",
+    "key_points": [
+      "Ringg 完成 1000 万美元 A 轮扩展融资，由 Peak XV 领投",
+      "资金将用于推动语音 AI 技术超越传统电话通话场景"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
