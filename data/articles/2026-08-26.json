@@ -719,5 +719,170 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "012e8b1590bcc099de1b53c28778a56e",
+    "title": "[Open-Source] I need your worst edge cases to stress-test GenOS, my new AI agent orchestrator.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vyxoes/opensource_i_need_your_worst_edge_cases_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-26T13:50:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I’m currently working on <strong>GenOS</strong>, an open-source framework for multi-agent LLM orchestration. Under the hood, it uses isolated Rust execution environments and relies on Git worktrees for clean state management and secure sandboxing.</p> <p>The core engine is running smoothly, but before pushing it further, I need to expose it to the harsh reality of real-world use cases. We all know that AI agents (whether single or in swarms)",
+    "title_zh": "开源项目：我需要你的最极端案例来压力测试我的新 AI 智能体编排器 GenOS",
+    "summary_zh": "Reddit 用户发布开源多智能体 LLM 编排框架 GenOS，采用 Rust 隔离执行环境和 Git 工作树进行安全沙箱，现向社区征集极端案例用于压力测试。",
+    "key_points": [
+      "GenOS 是开源的 Rust 多智能体编排框架，具备安全沙箱能力",
+      "开发者请求社区提供最极端用例以进行压力测试"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ed4d7cf3e689505cb3977b73f9bd286d",
+    "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails. Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails. (Gift Article)",
+    "url": "https://www.reddit.com/r/artificial/comments/1vyxo7p/why_irregulars_ai_tests_for_meta_anthropic_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-26T13:49:56+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vyxo7p/why_irregulars_ai_tests_for_meta_anthropic_and/\"> <img alt=\"Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails. Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails. (Gift Article)\" src=\"https://external-preview.redd.it/CJPVpsjq7LvampbsS0xEtmVLMlk5UBeAy6Kq_LSYfyI.jpeg?width=640&",
+    "title_zh": "Irregular 为 Meta、Anthropic 和 OpenAI 进行的 AI 测试为何失控",
+    "summary_zh": "以色列初创公司 Irregular 在协助 OpenAI、Anthropic 和 Meta 评估 AI 模型安全性时出现失误，导致测试过程偏离预期，引发关注。",
+    "key_points": [
+      "Irregular 为 OpenAI、Anthropic 和 Meta 进行 AI 安全测试时出错",
+      "测试失误导致过程失控，暴露出 AI 安全评估的挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic",
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1238d220df9a5603b7c1442db4a7b04d",
+    "title": "The Mac mini just got 50% more expensive, and the reason is AI datacenters, not Apple",
+    "url": "https://www.reddit.com/r/artificial/comments/1vywuwv/the_mac_mini_just_got_50_more_expensive_and_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-26T13:17:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The new Mac mini M6 starts at $899, up from $599 for the same base memory two years ago. Apple hasn't explained the jump, but the mechanism is pretty traceable if you follow the memory supply chain.</p> <p>TrendForce has DRAM contract prices up 90-95% quarter on quarter. The reason is straightforward: AI datacenters are now absorbing roughly 70% of high-end memory supply, and that demand doesn't compete on the same terms consumer electronics makers are used to. ",
+    "title_zh": "Mac mini 涨价 50% 并非苹果本意，而是 AI 数据中心造成的",
+    "summary_zh": "新款 Mac mini M6 起售价从 599 美元涨至 899 美元，涨幅达 50%。分析认为 AI 数据中心大规模采购导致 DRAM 内存价格飙升，间接推高了设备成本。",
+    "key_points": [
+      "Mac mini M6 起售价上涨 50% 至 899 美元",
+      "AI 数据中心需求激增导致 DRAM 价格暴涨，是涨价主要原因"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "acad134a98fdba4b7017753299561bbc",
+    "title": "What's an AI capability you thought was hype until you actually used it?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vywipi/whats_an_ai_capability_you_thought_was_hype_until/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-26T13:03:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What's an AI capability you thought was hype until you actually used it?</p> <p>I'll go first: agent orchestration. I read about agents managing other agents and assumed it was demo-ware. Then I built a tiny setup where one agent drafts a news digest and another one reviews and approves it before it posts. The review agent catches genuinely bad takes.</p> <p>It's not sci-fi: it's ~100 lines of Python and a couple of API calls. But seeing it actually gate content",
+    "title_zh": "有哪些 AI 能力你在实际使用后才觉得它并非炒作？",
+    "summary_zh": "Reddit 用户发起讨论，分享个人对 AI 能力从怀疑到认可的经历。其中提到智能体编排，最初以为是演示品，实测后发现其能有效协调多个智能体完成复杂任务。",
+    "key_points": [
+      "用户分享 AI 能力从疑似炒作到实际认可的转变经历",
+      "智能体编排是典型例子，实际应用效果超出预期"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9831f37a70b7fd13341e6acb2e41a055",
+    "title": "QueryStory wants you to believe what AI is telling you",
+    "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-26T13:00:00+00:00",
+    "content_snippet": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+    "title_zh": "QueryStory 希望让你相信 AI 告诉你的内容",
+    "summary_zh": "初创公司 QueryStory 获得 600 万美元种子轮融资并走出隐身模式，计划利用大语言模型和网络安全技术，确保 AI 查询结果的连贯性和可信度。",
+    "key_points": [
+      "QueryStory 获得 600 万美元种子轮融资并正式亮相",
+      "公司旨在利用 LLM 和网络安全技术提升 AI 查询的可信度"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6552918b21522156a6fd09c5ff5b7298",
+    "title": "Using MyselfGPT to code",
+    "url": "https://www.reddit.com/r/artificial/comments/1vywbeb/using_myselfgpt_to_code/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-26T12:55:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I‘ve been using this model called MyselfGPT to code, and it’s been a fantastic experience. Has anyone else used it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/create-third-places\"> /u/create-third-places </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1vywbeb/using_myselfgpt_to_code/\">[link]</a></span> &#32; <span><",
+    "title_zh": "使用 MyselfGPT 编程的体验",
+    "summary_zh": "一位 Reddit 用户分享使用名为 MyselfGPT 的模型进行编程的体验，称其效果非常出色，并询问其他用户是否有类似经历。",
+    "key_points": [
+      "用户分享使用 MyselfGPT 模型编程的积极体验",
+      "这是一个关于个人使用特定 AI 编程工具的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "26bfb8eb611d8fcb3d6974627e932897",
+    "title": "Arga Labs is building a better way to train enterprise AI agents",
+    "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-26T12:55:28+00:00",
+    "content_snippet": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+    "title_zh": "Arga Labs 正在构建更好的企业 AI 智能体训练方法",
+    "summary_zh": "初创公司 Arga 完成 1000 万美元种子轮融资，由 General Catalyst 领投，旨在开发更高效的企业级 AI 智能体训练方式。",
+    "key_points": [
+      "Arga 获得 1000 万美元种子轮融资，由 General Catalyst 领投",
+      "公司专注于改进企业 AI 智能体的训练方法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
