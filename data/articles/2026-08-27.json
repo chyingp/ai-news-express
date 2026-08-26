@@ -123,5 +123,229 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6ada4ae3abd1f85eaeac16e0445691b7",
+    "title": "HNSW from scratch, benchmarked against FAISS: brute force still wins at 5,183 documents. [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vz54ft/hnsw_from_scratch_benchmarked_against_faiss_brute/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-26T18:19:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I built a retrieval engine with no retrieval libraries in the core — BM25 over a hand-rolled inverted index, HNSW from the Malkov &amp; Yashunin paper, RRF to fuse them — mainly to understand HNSW rather than treat it as a black box inside a vector DB. FAISS, <code>bm25s</code> and <code>rank_bm25</code> appear only on the other side of the benchmark.</p> <p>The result I didn't expect. Median latency per query:</p> <table><thead> <tr> <th align=\"left\">system</th",
+    "title_zh": "从零构建HNSW并与FAISS基准对比：在5183份文档上暴力搜索仍胜出",
+    "summary_zh": "作者为了深入理解HNSW算法，从零实现了检索引擎，包括BM25、HNSW和RRF融合，并与FAISS库进行基准测试。结果显示，在5183份文档的小规模测试中，暴力搜索的性能仍然优于HNSW。",
+    "key_points": [
+      "从零实现HNSW等组件以深入理解算法原理",
+      "与FAISS对比，小规模数据下暴力搜索性能更优",
+      "实践项目用于学习而非追求生产级性能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d6e2646472ff128f7b32733b79720883",
+    "title": "Gemini and Perplexity lean heavily on YouTube as a source, far more than ChatGPT or Claude. There's a structural reason, and it's showing up in Google's AI Overviews too.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vz4xdx/gemini_and_perplexity_lean_heavily_on_youtube_as/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-08-26T18:12:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/m9f85pfgerlh1.jpg?width=1068&amp;format=pjpg&amp;auto=webp&amp;s=d8acdfe504542a98c521bdff7cdf5280e4a3f4c6\">Growth Feature in our dashboard</a></p> <p>Something I keep noticing about <em>where</em> different AI assistants pull their answers from, and I think there's a clean mechanistic explanation worth discussing.</p> <p>On category/recommendation-type questions (&quot;best X for Y&quot;, &quot;how do I do Z&quot;), Gemini and Pe",
+    "title_zh": "Gemini和Perplexity高度依赖YouTube作为来源，远超ChatGPT和Claude",
+    "summary_zh": "分析发现，谷歌的Gemini和Perplexity AI在生成回答时，引用YouTube作为信息来源的比例远超ChatGPT和Claude。这背后存在结构性原因，该趋势也体现在谷歌的AI概览功能中。",
+    "key_points": [
+      "Gemini和Perplexity引用YouTube频率远超其他AI助手",
+      "该现象背后存在结构性原因，并影响谷歌AI概览",
+      "不同AI助手的信息来源策略存在显著差异"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "47873709ccfb79f2833761f3fcea7a81",
+    "title": "What happens when the average person can make their own movies, TV shows and games with AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vz3ql6/what_happens_when_the_average_person_can_make/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-08-26T17:30:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I think the future of AI-generated entertainment will look a lot less like “Hollywood and all creative jobs disappears overnight” and a lot more like <strong>YouTube, Instagram, TikTok or OnlyFans — but for entire pieces of media.</strong> Creators would have their own audiences, followers, subscribers and communities, and there might even be entirely new apps/platforms built specifically around discovering and releasing AI-made entertainment. 🎬🎮</p> <p>You make",
+    "title_zh": "当普通人能用AI制作电影、电视剧和游戏时，会发生什么？",
+    "summary_zh": "文章探讨了AI生成娱乐内容的未来，认为其形态更可能类似YouTube或TikTok，由个人创作者主导，而非完全取代好莱坞。创作者将拥有自己的AI媒体频道，生产完整的影视游戏内容。",
+    "key_points": [
+      "AI娱乐未来更像YouTube而非完全取代好莱坞",
+      "个人创作者将能生产完整的电影、电视剧和游戏",
+      "去中心化的AI媒体频道将成为新趋势"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aaefff1d5c978007280a6c9e75d02c41",
+    "title": "I work in data & AI and built a game to show how the whole industry chain actually fits together",
+    "url": "https://www.reddit.com/r/artificial/comments/1vz3o6r/i_work_in_data_ai_and_built_a_game_to_show_how/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-26T17:28:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've spent years working in AI consulting, and one thing that always bugged me is how few people, even inside the field, can trace the full chain end to end.</p> <p>Where does the money actually go? Why is compute the bottleneck? How does a pile of data turn into a model, and a model into revenue?</p> <p>So I built a game about it. You start with $10k and found an AI company, and to survive you have to run every link in the chain yourself : scrape raw data and b",
+    "title_zh": "数据与AI从业者开发游戏，展示整个产业链如何运作",
+    "summary_zh": "一位AI咨询从业者开发了一款游戏，旨在帮助人们理解从数据、算力到最终AI产品的完整产业链，揭示资金流向、算力瓶颈等关键环节的运作方式。",
+    "key_points": [
+      "从业者开发游戏以可视化AI完整产业链",
+      "游戏展示资金流向、算力瓶颈等关键环节",
+      "旨在帮助业内外人士理解AI运作全貌"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7dcd5788c7e7bfee902793f7169c9ef5",
+    "title": "Thank you for participating in the Stealth Ox Alpha testing period.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vz32jh/thank_you_for_participating_in_the_stealth_ox/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-08-26T17:07:05+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Thank you for participating in the Stealth Ox Alpha testing period. This model was ZAI's GLM-5.3 Flash. Use it now: <a href=\"https://openrouter.ai/z-ai/glm-5.3-flash\">https://openrouter.ai/z-ai/glm-5.3-flash</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/paulrich_nb\"> /u/paulrich_nb </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artif",
+    "title_zh": "Stealth Ox Alpha测试结束，模型为智谱GLM-5.3 Flash",
+    "summary_zh": "Stealth Ox的Alpha测试阶段结束，感谢参与者。该测试的匿名模型正式揭晓为智谱AI（ZAI）的GLM-5.3 Flash版本，现已可在OpenRouter平台上使用。",
+    "key_points": [
+      "匿名测试模型Stealth Ox真实身份为智谱GLM-5.3 Flash",
+      "模型已通过OpenRouter平台对外开放使用",
+      "这标志着智谱AI最新模型的一次公开测试"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "zhipu"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2609610f53c76f5ef3b3329fc96a43da",
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-26T17:01:00+00:00",
+    "content_snippet": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+    "title_zh": "谷歌发布Gemini 3.5 Transcribe：更智能的语音转录",
+    "summary_zh": "谷歌DeepMind团队发布Gemini 3.5 Transcribe，提供更智能的语音转文字服务。该功能能够自动检测专业术语和超过85种语言，并智能过滤掉语气词，提升转录质量。",
+    "key_points": [
+      "谷歌推出Gemini 3.5 Transcribe，提升语音转录智能化水平",
+      "可自动识别专业术语并支持超过85种语言",
+      "能智能编辑掉'嗯'、'啊'等语气词"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "442be4968139a7af6ccb5cba1384cb59",
+    "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+    "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-26T17:00:00+00:00",
+    "content_snippet": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still waiting for Google to release the Gemini 3.5 Pro model that it [&#8230;]",
+    "title_zh": "谷歌新AI转录功能会自动删掉你的“嗯”和“啊”",
+    "summary_zh": "谷歌为Gemini音频更新了转录功能，可自动检测专业术语和85种以上语言。新推出的Gemini 3.5 Transcribe模型能智能编辑掉“嗯”“啊”等语气词，让转录文本更清晰流畅。",
+    "key_points": [
+      "新转录功能可自动去除'嗯'、'啊'等停顿语气词",
+      "支持专业术语识别和超过85种语言转录",
+      "作为Gemini 3.5家族新成员，紧随Live Translate发布"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a51ed73e04d0cd058b53b5d0667f7d0b",
+    "title": "We recovered 575k crop labels from a decade of manual Photoshop work to automate book digitization - more data, ResNet-50, and higher resolution all failed; ten operator clicks per book beat them [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vz2ojw/we_recovered_575k_crop_labels_from_a_decade_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-26T16:53:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Author here. Ibteda Digital Library is a private community archive in Pakistan — for ten years we digitized rare Urdu books (lithographs, dictionaries, periodicals) on a DIY camera rig, finishing every page by hand in Photoshop. When we wound down daily operations, I realized those 575,729 finished pages across 1,765 books recorded a decade of crop decisions, so I registered them back to their raw photos (SIFT + MAGSAC with conservative acceptance gates) and use",
+    "title_zh": "从十年手动PS工作中恢复57.5万张裁剪标签，以自动化书籍数字化",
+    "summary_zh": "一个巴基斯坦社区档案馆从十年人工Photoshop工作中恢复了57.5万张裁剪标签，用于训练模型以自动化处理乌尔都语书籍。实验发现，增加数据、使用ResNet-50或提高分辨率均失效，仍不及人工操作。",
+    "key_points": [
+      "从十年手动PS工作中恢复57.5万张标签用于模型训练",
+      "增加数据、使用更复杂模型和提高分辨率等方案均失败",
+      "在特定任务中，人工操作的效果仍优于机器学习方法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f5502d338789ac60d253f7ca045326e3",
+    "title": "Two humanoid robots broke Usain Bolt's world record this week. That's not even the most interesting thing that happened in AI.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vz2eym/two_humanoid_robots_broke_usain_bolts_world/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-08-26T16:44:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'll be honest, when I saw that headline I had to read it twice.</p> <p>At the World Humanoid Robot Games in China, two robots ran the 100 meters in under 9.58 seconds. Bolt's record, held for 16 years. Gone. And somehow that's not what I keep thinking about from this week.</p> <p>XPeng raised $900 million for their humanoid robotics unit. Tencent and Alibaba both wrote checks. The largest single round in China's embodied AI industry ever. Their IRON robot is su",
+    "title_zh": "本周双足机器人打破博尔特世界纪录，但这并非AI最有趣的事",
+    "summary_zh": "文章提及在中国世界人形机器人运动会上，两个机器人百米跑进9.58秒，打破博尔特的世界纪录。但作者认为，这并非本周AI领域最值得关注的事件，暗示有其他更重要的进展。",
+    "key_points": [
+      "双足机器人百米跑成绩打破博尔特16年世界纪录",
+      "事件发生在中国的世界人形机器人运动会上",
+      "作者暗示本周AI界有其他更值得关注的进展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
