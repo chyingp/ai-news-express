@@ -693,5 +693,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "38ea3a124ccc487fd3d623d3ba428f2d",
+    "title": "Mark Zuckerberg had a bold plan to replace Meta staff with AI. Here’s how it imploded.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vyvxb5/mark_zuckerberg_had_a_bold_plan_to_replace_meta/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-26T12:38:50+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/unconventionalbook\"> /u/unconventionalbook </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reuters.com/investigations/mark-zuckerberg-had-bold-plan-replace-meta-staff-with-ai-heres-how-it-imploded-2026-08-26\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1vyvxb5/mark_zuckerberg_had_a_bold_plan_to_replace_meta/\">[comments]</a><",
+    "title_zh": "扎克伯格曾计划用AI取代Meta员工，但计划已告失败",
+    "summary_zh": "路透社调查报道揭示了马克·扎克伯格曾制定一项大胆计划，旨在用人工智能取代Meta的部分员工，但该计划最终未能如愿实施并遭遇挫折。",
+    "key_points": [
+      "扎克伯格曾计划用AI技术取代Meta公司员工",
+      "该计划在实施过程中遭遇失败并引发内部问题",
+      "路透社调查详细披露了该计划的始末与影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
