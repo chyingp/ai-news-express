@@ -288,5 +288,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "032f5fcc6f778b718d5bed30fc6596d7",
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-26T00:40:59+00:00",
+    "content_snippet": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+    "title_zh": "机器人初创公司Generalist估值达30亿美元",
+    "summary_zh": "据消息人士透露，专注于物理AI的机器人初创公司Generalist在数个月前刚达到20亿美元估值后，又完成了一轮2亿美元的融资，使其估值攀升至30亿美元。",
+    "key_points": [
+      "Generalist完成2亿美元融资，估值达30亿美元",
+      "该公司专注于物理AI领域，估值快速增长",
+      "此轮融资距上次20亿美元估值仅数月"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8c02d9ad51cf3f91b4508f851685e0a6",
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-26T00:06:20+00:00",
+    "content_snippet": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+    "title_zh": "OpenAI再失高管，顶尖数据中心负责人离职",
+    "summary_zh": "OpenAI持续面临高管离职潮，其一位顶尖数据中心高管已离开公司。此前，OpenAI已对其基础设施部门进行了重组，将该高管的汇报线从总裁格雷格·布罗克曼转至副总裁萨钦·卡蒂。",
+    "key_points": [
+      "OpenAI一位顶尖数据中心高管离职，高管流失潮继续",
+      "离职前公司已重组基础设施部门，并调整其汇报线",
+      "此次活动是OpenAI一系列高层变动中的最新一起"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
