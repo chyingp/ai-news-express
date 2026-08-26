@@ -554,5 +554,75 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4c885eb5e724c1ea4ef63ffdb682430a",
+    "title": "The bottleneck for meeting transcription tools isn't accurate anymore, it's speaker attribution",
+    "url": "https://www.reddit.com/r/artificial/comments/1vyrxy8/the_bottleneck_for_meeting_transcription_tools/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-26T09:16:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been testing a few AI transcription setups for work over the past couple months and noticed something word level accuracy from most of these engines is already pretty solid now, upper 90s%. The thing that actually breaks the output is figuring out who said what when more than 2-3 people are talking, especially with any crosstalk or people talking over each other.</p> <p>Feels like an underrated problem compared to how much attention pure transcription accuracy g",
+    "title_zh": "会议转录工具的瓶颈不再是准确率，而是说话人识别",
+    "summary_zh": "作者测试多款AI转录工具后指出，单词级准确率已普遍达到95%以上，当前影响输出质量的核心难题是准确识别并归属不同说话人的内容。",
+    "key_points": [
+      "AI转录工具的单词准确率已普遍达到95%以上，不再是主要瓶颈。",
+      "当前核心挑战是说话人归因，即准确判断谁在何时说了什么。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "606181c5d71a0cc75fd9ddb2de377a0d",
+    "title": "Raised on AI",
+    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-26T09:00:00+00:00",
+    "content_snippet": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; Fast-forward a couple&#8230;",
+    "title_zh": "在AI环绕下成长的一代",
+    "summary_zh": "本文为《麻省理工科技评论》编辑自述，从为孩子创建数字足迹的个人经历出发，探讨了在人工智能时代，新一代儿童从出生起就身处数据化环境所面临的独特挑战与反思。",
+    "key_points": [
+      "编辑以自身为孩子创建社交媒体账号的经历，引出数字足迹问题。",
+      "文章探讨了AI时代下，儿童从出生起就全面数据化成长的深远影响。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8e8985dedaaeb0be6883c0374a34ac22",
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-26T09:00:00+00:00",
+    "content_snippet": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur&#8230;",
+    "title_zh": "AI模型在这些智力测试中表现不佳，你能做得更好吗？",
+    "summary_zh": "文章介绍了一系列让当前AI模型表现不佳的谜题和智力测试，阐述了智力游戏在AI发展中的历史作用，并邀请读者挑战这些人类可能更擅长的问题。",
+    "key_points": [
+      "智力游戏和谜题一直是衡量AI模型能力进步的重要工具。",
+      "当前AI模型在某些特定类型的逻辑推理和智力测试中仍会失败。",
+      "文章提供了一系列谜题，供读者对比自身与AI模型的解题能力。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
