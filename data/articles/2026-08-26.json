@@ -530,5 +530,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "de476b4b8d8bd3cb4be762f2bb82f5a5",
+    "title": "The Crack You Don't Notice: How We Learn the Same Thing Two Opposite Ways",
+    "url": "https://www.reddit.com/r/artificial/comments/1vyqgf9/the_crack_you_dont_notice_how_we_learn_the_same/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-26T07:49:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><h2>Preamble</h2> <p>I'm going to ask you a simple question. Take a minute with it, then read on.</p> <p>The question: <strong>can an artificial intelligence learn?</strong></p> <p>If your answer is no, hold onto that no. We're coming back to it.</p> <hr /> <h2>Part 1 — The question, asked twice</h2> <h3>Asked directly</h3> <p>Put it to seven people you know. It sounds like this:</p> <p><em>&quot;Can an AI learn?&quot;</em></p> <p>The answers converge fast:</p> <bl",
+    "title_zh": "不易察觉的裂缝：我们如何以两种相反的方式学习同一件事",
+    "summary_zh": "本文通过一个简单问题引导读者思考人工智能的学习方式，探讨人类与AI在学习过程中的根本差异，暗示AI可能以两种对立的方式掌握看似相同的知识。",
+    "key_points": [
+      "通过提问'AI能学习吗'引入对学习本质的反思",
+      "暗示人类与AI在学习机制上存在不易察觉的裂缝",
+      "探讨知识获取过程中可能存在的两种对立学习路径"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
