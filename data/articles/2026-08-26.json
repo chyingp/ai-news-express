@@ -411,5 +411,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a5e39a4039fa213ebb693bb536ea6332",
+    "title": "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
+    "url": "https://www.qbitai.com/2026/08/479670.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-26T05:56:25+00:00",
+    "content_snippet": "Agnes Video 2.5 Flash",
+    "title_zh": "顶级视频AI免费开放：Agnes Video 2.5 Flash上手体验",
+    "summary_zh": "顶级视频AI模型Agnes Video 2.5 Flash宣布免费开放，作者利用该工具快速制作了一个精致版视频《牛来》，展示了其强大的视频生成能力。",
+    "key_points": [
+      "Agnes Video 2.5 Flash视频AI模型免费开放使用",
+      "作者利用该工具快速制作了精致版视频《牛来》",
+      "展示该模型在视频生成领域的强大能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "068ba0e56c0e2335246cbb984fe4a739",
+    "title": "Why should I care about using Muse Spark Contributor?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vyo7em/why_should_i_care_about_using_muse_spark/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-26T05:42:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In case you don't know, Muse Spark Contributor is a very cheap (.10 in, .20 out) version of Muse Spark 1.2. They achieve this price by training on the data you give it. </p> <p>I simply don't understand why I should care if a model is training on data I give it. I mostly only use it for research and small programming projects. The only thing I'd be worried about is if, somehow, through prompt injection, Muse's next model could reveal personal info.</p> <p>Should",
+    "title_zh": "为何要在意使用Muse Spark Contributor？",
+    "summary_zh": "Muse Spark Contributor是Muse Spark 1.2的廉价版本，通过使用用户提供的数据进行训练来降低成本。用户质疑为何需要在意模型是否使用其数据进行训练。",
+    "key_points": [
+      "Muse Spark Contributor通过用户数据训练实现低价",
+      "用户对模型使用其数据进行训练表示不在意",
+      "引发关于AI模型训练数据使用的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
