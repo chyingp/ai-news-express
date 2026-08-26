@@ -884,5 +884,143 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0165e90335630a874942b2e6ef3f161d",
+    "title": "Found someone using an unapproved AI tool with client data. How common is this?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vyz1jg/found_someone_using_an_unapproved_ai_tool_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-26T14:42:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Something happened recently that made me think about how common this might actually be.</p> <p>I found out that someone on a project team had been copying parts of a client's internal documents into a personal ChatGPT account to save some time. There was no bad intention behind it. They simply didn't think about the security side of it.</p> <p>It made me wonder how other companies are dealing with this.</p> <ul> <li>Is this something you've actually come across,",
+    "title_zh": "发现有人在项目中使用未批准的AI工具处理客户数据，这种情况有多普遍？",
+    "summary_zh": "Reddit用户分享称，发现项目团队成员将客户内部文档复制到个人ChatGPT账户以节省时间，引发对未经批准AI工具使用普遍性的讨论。",
+    "key_points": [
+      "员工将客户内部文档粘贴到个人ChatGPT，存在数据泄露风险",
+      "讨论未经批准AI工具在职场中的普遍性和安全隐患"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a09ccde75b1bdbb6ccd0af462d2dbc50",
+    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+    "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-26T14:37:01+00:00",
+    "content_snippet": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+    "title_zh": "比尔·盖茨呼吁征收机器人税并设立“人类专属”岗位以缓解AI冲击",
+    "summary_zh": "比尔·盖茨在接受采访时表示，应通过征收机器人税和设立“人类专属”工作岗位来减缓人工智能对就业市场的负面影响，属于负责任AI理念的延伸。",
+    "key_points": [
+      "盖茨提议对机器人征税以平衡自动化带来的社会成本",
+      "建议保留部分仅限人类从事的工作岗位以保障就业"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c6f5e02f3dc5ba063c8abeb4dd64a2c1",
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "source": "VentureBeat AI",
+    "source_zh": "VentureBeat AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-26T14:30:00+00:00",
+    "content_snippet": "<p><i>Presented by Tata Communications </i></p><hr /><p>Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says Gaurav Anand, global head of the Customer Interaction Suite at Tata Communications.</p><p>&quot;In the rush to deploy AI, organizations have largely bolted conversational AI onto",
+    "title_zh": "编排整合成为AI智能体时代客户体验的新挑战",
+    "summary_zh": "企业快速部署AI智能体和自动化工具，但底层架构未能同步演进，导致跨渠道的编排整合成为客户体验管理的新难题。",
+    "key_points": [
+      "企业部署AI智能体速度超过底层架构支持能力",
+      "跨消息、语音和数字渠道的编排整合成为核心挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f3d6254f8558d729addb61127c2362ae",
+    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-26T14:19:29+00:00",
+    "content_snippet": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+    "title_zh": "揭秘：Z.ai是神秘Ox Alpha模型背后的AI实验室",
+    "summary_zh": "Z.ai确认其是神秘开源AI模型Ox Alpha的研发者，该模型在多项基准测试中名列前茅，权重即将开源发布。",
+    "key_points": [
+      "Z.ai确认研发了基准测试顶尖的Ox Alpha模型",
+      "模型权重即将开源发布，引发社区关注"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9f113de4b2e3d63cf8e90ac5fb28535f",
+    "title": "Current AI music labeling, As lines are blurred, instead of categorizing anything where an AI tool was used as “AI-made” or “AI-assisted,” why not use what works? something more like a 100% human handmade audio label would reward artists more who put in the work to create traditionally.",
+    "url": "https://www.reddit.com/r/artificial/comments/1vyybpf/current_ai_music_labeling_as_lines_are_blurred/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-26T14:15:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>(Full disclosure I used AI to correct spelling and Grammar so the EU might claim this was AI generated 💩it’s not if you want the mistakes you can see how I originally posted it on my profile 😅) </p> <p>This would make it easier to find and appreciate those works. If you use Melodyne, you’ve used an AI tool—now do you have to declare it? Of course not. But this is the problem: the lack of nuance in a world where AI tools are becoming integrated into everything.<b",
+    "title_zh": "AI音乐标注争议：提议用“100%人类手工制作”标签替代AI分类",
+    "summary_zh": "Reddit用户建议，与其划分AI制作或辅助，不如为完全由人类手工创作的音乐添加认证标签，以更好地奖励传统创作者。",
+    "key_points": [
+      "提议用“100%人类手工制作”标签替代AI参与度分类",
+      "认为此举能更好区分和奖励纯人工创作的音乐作品"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "60e6e789dea7769e0a45770679e5fd33",
+    "title": "Bill Gates says there needs to be limits on AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1vyy8yg/bill_gates_says_there_needs_to_be_limits_on_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-26T14:12:15+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1vyy8yg/bill_gates_says_there_needs_to_be_limits_on_ai/\"> <img alt=\"Bill Gates says there needs to be limits on AI\" src=\"https://external-preview.redd.it/JkTjByyc7LIlkNeHRmbnECTTXf8Ucbyj7QvWEtcxVgk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=314440045266cb1b7ed99db1a51deb9d262087d3\" title=\"Bill Gates says there needs to be limits on AI\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cnn\"",
+    "title_zh": "比尔·盖茨表示需要对人工智能加以限制",
+    "summary_zh": "比尔·盖茨再次发声，强调对人工智能发展设置限制的必要性，以防范潜在风险。",
+    "key_points": [
+      "盖茨重申AI发展需要设立限制和监管措施",
+      "呼吁社会关注并应对AI带来的潜在危害"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
