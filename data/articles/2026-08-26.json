@@ -459,5 +459,76 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b8a6d7257257a65d9b349a8ffa22b747",
+    "title": "Millwright — experimenting with an end-to-end machine learning framework in Rust [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1vyq7m9/millwright_experimenting_with_an_endtoend_machine/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-26T07:34:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been working on an open-source project called <strong>Millwright</strong>, an attempt to explore what an end-to-end machine learning workflow could look like in Rust.</p> <p><a href=\"https://millwright-rs.dev/\">https://millwright-rs.dev/</a></p> <p>This started while I was learning and building ML tooling in Rust.</p> <p>I kept finding capable individual libraries, but also gaps between them. Training a model was rarely the problem. Building the workflow ar",
+    "title_zh": "Millwright：在 Rust 中探索端到端机器学习框架",
+    "summary_zh": "介绍一个名为 Millwright 的开源项目，旨在用 Rust 语言构建端到端的机器学习工作流，探索 Rust 在 ML 领域的应用潜力。",
+    "key_points": [
+      "Millwright 是一个基于 Rust 的端到端机器学习框架实验项目。",
+      "项目旨在探索 Rust 语言在完整 ML 工作流中的应用与性能优势。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "297f7533685eaa4d4a6ce5d2ea069ddf",
+    "title": "AI's answer to the AI's environmental problem",
+    "url": "https://www.reddit.com/r/artificial/comments/1vypzur/ais_answer_to_the_ais_environmental_problem/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-26T07:21:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Preamble: Apologies for the length, I didn't have time to edit it to a more concise version. And I didn't want to ask AI to shrink it for me... </p> <p>I was asking Google’s Gemini AI system some questions about an issue and was finding the responses handy. I’ve not dug into or used AI much, other than as a side effect of asking questions on Google Search.</p> <p>In the back of my mind, I felt guilty using a system that is quite environmentally problematic, part",
+    "title_zh": "以 AI 应对 AI 的环境问题",
+    "summary_zh": "作者通过与 Google Gemini 的对话，探讨如何利用人工智能技术本身来解决 AI 发展带来的高能耗和环境影响问题。",
+    "key_points": [
+      "讨论利用 AI 技术解决自身高能耗与环境问题的可能性。",
+      "源于作者与 Google Gemini 就相关议题的问答互动。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a1de5e17b3b144fe8bd8c9530fe7c092",
+    "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-26T07:01:00+00:00",
+    "content_snippet": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla of expensive boats bob in&#8230;",
+    "title_zh": "比尔·盖茨称我们已越过 AI 的危险阈值，下一步怎么办？",
+    "summary_zh": "比尔·盖茨在接受 MIT Technology Review 采访时表示，AI 发展已越过关键的危险阈值，并探讨了应对挑战和未来走向。",
+    "key_points": [
+      "比尔·盖茨认为 AI 发展已越过关键的危险阈值。",
+      "讨论在 AI 安全性风险加剧下的未来应对策略与方向。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
