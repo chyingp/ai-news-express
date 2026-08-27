@@ -701,5 +701,75 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bd6e4f16c4adfb241c876f9525890b92",
+    "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+    "url": "https://www.qbitai.com/2026/08/480005.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-27T02:46:35+00:00",
+    "content_snippet": "西门子Xcelerator与普通软件货架最本质的区别。货架解决的是「把产品卖出去」，西门子Xcelerator要解决的是「让产品在真实工业场景中持续生长」。",
+    "title_zh": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
+    "summary_zh": "西门子推出Xcelerator平台，强调其工业AI并非简单套用大模型，而是融合了公司百年工业经验，旨在解决真实工业场景中产品持续生长的问题，而非单纯的软件销售。",
+    "key_points": [
+      "西门子将百年工业经验注入AI，打造工业级Agent",
+      "Xcelerator平台旨在让产品在真实工业场景中持续生长",
+      "区别于普通软件货架，强调工业应用深度与持续性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "428231b2babcfff03fcb69455282e2d7",
+    "title": "Do you think any lab has secretly cracked continual learning?",
+    "url": "https://www.reddit.com/r/artificial/comments/1vzf2bt/do_you_think_any_lab_has_secretly_cracked/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-27T00:41:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>With the billions of dollars being poured into AI/LLM R&amp;D, I wouldn't be surprised if a lab had a basic prototype with some form of continual learning. Obviously, people think SSI inc could've cracked it, but we have no clue.</p> <p>So, do you guys think that any lab has cracked continual learning and is now preparing to scale it up? If not, when do you think that we will discover the secret sauce for continual learning? </p> </div><!-- SC_ON --> &#32; submi",
+    "title_zh": "你认为有实验室秘密攻克了持续学习难题吗？",
+    "summary_zh": "在巨额AI研发投入背景下，Reddit用户讨论是否有实验室已秘密实现持续学习突破。讨论提及SSI公司可能已取得进展，但整体处于猜测阶段，缺乏确凿证据。",
+    "key_points": [
+      "Reddit社区讨论AI持续学习技术是否已被秘密攻克",
+      "用户猜测SSI等实验室可能拥有相关原型"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dff9dc0737a40c9b66085c013be8bd01",
+    "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+    "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-27T00:24:57+00:00",
+    "content_snippet": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+    "title_zh": "病毒式AI初创公司Instinct以25亿美元估值融资3.5亿美元",
+    "summary_zh": "成立仅一年的AI初创公司Instinct获得3.5亿美元融资，估值达25亿美元。该公司在引发巨大关注和热潮的同时，也面临隐私方面的争议。",
+    "key_points": [
+      "成立仅一年的Instinct以25亿美元估值融资3.5亿美元",
+      "公司迅速走红，但同时也引发隐私担忧"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
