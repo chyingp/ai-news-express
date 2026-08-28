@@ -1240,5 +1240,200 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "489e2902a4068e5b09419f7f20fa8032",
+    "title": "Who’s Training on Your AI Chats? The Big Players, Audited",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0bytq/whos_training_on_your_ai_chats_the_big_players/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T00:50:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I found this article and I think this is really informative. All 3 articles. Every player mentions about an option to opt-out from &quot;training models&quot;, what about storing data? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/plutoniansoul\"> /u/plutoniansoul </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://rainverse.com/insights/ai-provider-privacy-b",
+    "title_zh": "谁在用你的 AI 聊天记录训练模型？主流平台审计报告",
+    "summary_zh": "Reddit 用户分享了一篇关于主流 AI 平台如何使用用户聊天数据进行训练的审计文章，并特别关注这些平台在提供“退出训练”选项的同时，如何存储用户数据的问题。",
+    "key_points": [
+      "主流 AI 平台使用用户聊天数据训练模型的方式被审计",
+      "用户关注平台虽提供训练退出选项，但数据存储政策不明"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fef352405de8deae9aa193ed1938f162",
+    "title": "I’m building an ai assistant powered by my second brain and need some help",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0bksl/im_building_an_ai_assistant_powered_by_my_second/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-28T00:32:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So I have a planned laid out, but I’m not sure if it’s strong or if there are other ways that can make it better.</p> <p>I plan to run qwen 3.8 locally using olama on my new Mac mini and give it its own ui interface which I can speak through it. Its backend will also be powered by my ai brain which is sorted by using jack ven chiefs icm folder structure.</p> <p>Is this idea in general a good idea? Has anyone else created anything similar and could help me out?</",
+    "title_zh": "开发者计划用本地 Qwen 3.8 模型构建 AI 助手",
+    "summary_zh": "一位开发者计划在 Mac Mini 上通过 Olama 本地运行 Qwen 3.8 模型，并为其构建专属语音交互界面，以打造一个由个人知识库驱动的 AI 助手。",
+    "key_points": [
+      "开发者尝试本地运行 Qwen 3.8 模型构建个人 AI 助手",
+      "项目包含专属 UI 界面和语音交互功能"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "34598d9a8edca6236047b824a7c10531",
+    "title": "How are you getting Claude to write to existing Google Drive files?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0b1ee/how_are_you_getting_claude_to_write_to_existing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-28T00:08:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Claude's connector only creates new files, doesn't edit existing ones unlike ChatGPT. Any workaround?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/assistir_cps\"> /u/assistir_cps </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1w0b1ee/how_are_you_getting_claude_to_write_to_existing/\">[link]</a></span> &#32; <span><a hr",
+    "title_zh": "用户寻求让 Claude 编辑现有谷歌文档的方法",
+    "summary_zh": "Reddit 用户讨论 Claude 的谷歌云端硬盘连接器功能限制，指出其只能创建新文件而无法编辑现有文件，这与 ChatGPT 的类似功能形成对比，用户正在寻找替代方案。",
+    "key_points": [
+      "Claude 的谷歌云端硬盘连接器目前仅支持创建新文件，不支持编辑",
+      "用户寻求能让 Claude 直接编辑现有谷歌文档的变通方法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "613e22e3dd4e48b4d5d775f2db52d420",
+    "title": "Is chatgpt plus worth it over chatgpt go?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0acwa/is_chatgpt_plus_worth_it_over_chatgpt_go/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-27T23:39:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m on the free tier rn and i like it over google gemini because it seems to reference other chats more often and more correctly. I also sort of like that it has more personality. I basically just use it for skincare questions and nutrition questions i guess, i’m not a power user or anything. I barely subscribe to anything so this is kind of a big step for me lol. I don’t experience ads at all for some reason so i guess ads aren’t a thing for me personally.</p> ",
+    "title_zh": "ChatGPT Plus 相比免费版是否值得？",
+    "summary_zh": "Reddit 用户就 ChatGPT Plus 订阅服务的价值展开讨论，发帖者认为免费版在引用历史对话和个性化方面优于谷歌 Gemini，但不确定是否值得付费升级。",
+    "key_points": [
+      "用户对比 ChatGPT Plus 与免费版的价值",
+      "发帖者认为免费版在对话连贯性和个性化方面已优于 Gemini"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3c75e284d82928177bec24cb6ab1a87d",
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-27T23:16:45+00:00",
+    "content_snippet": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "title_zh": "Anthropic 和 OpenAI 将出席 TechCrunch Disrupt 2026 大会",
+    "summary_zh": "TechCrunch Disrupt 2026 大会宣布，Anthropic 和 OpenAI 将参加其 AI 主题舞台的讨论，该舞台由 Google for Startups 赞助，将深入探讨 AI 社区的热门话题。",
+    "key_points": [
+      "Anthropic 和 OpenAI 将共同出席 TechCrunch Disrupt 2026",
+      "AI 舞台由 Google for Startups 赞助，探讨行业热点"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a0768fe854e70d6ea3b037dbfab029f4",
+    "title": "I made an LLM test you can clone and break",
+    "url": "https://www.reddit.com/r/artificial/comments/1w091j2/i_made_an_llm_test_you_can_clone_and_break/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-27T22:44:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w091j2/i_made_an_llm_test_you_can_clone_and_break/\"> <img alt=\"I made an LLM test you can clone and break\" src=\"https://external-preview.redd.it/GLGNn3Wj3u9Y7hwxEVdR00RHgR2aGHOHdXXEKk5_8cY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=309383ed710dc829f1b83b8751ca90f873f6fb65\" title=\"I made an LLM test you can clone and break\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This is simple.</p> <p>The model gets one rul",
+    "title_zh": "开发者创建了一个可克隆测试并挑战大语言模型的项目",
+    "summary_zh": "一位开发者在 Reddit 上分享了一个开源的大语言模型测试项目，允许其他开发者克隆并随意尝试“破坏”或挑战该模型，用于测试和研究目的。",
+    "key_points": [
+      "开发者开源了一个可克隆的大语言模型测试项目",
+      "项目旨在让其他人通过“破坏”模型来进行测试和研究"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "553e5cf0447cc7c6401a24888ab1b505",
+    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+    "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-27T22:15:43+00:00",
+    "content_snippet": "Standardized driver interface  aims to let devices talk to AI and each other.",
+    "title_zh": "Anthropic 发布新硬件标准，让 AI 智能体控制物理世界",
+    "summary_zh": "Anthropic 推出了一项新的硬件标准，旨在通过标准化的驱动程序接口，让 AI 智能体能够与物理设备直接通信并相互连接，从而实现 AI 对物理世界的控制。",
+    "key_points": [
+      "Anthropic 发布标准化硬件接口，旨在连接 AI 与物理设备",
+      "新标准将让 AI 智能体能够直接控制物理世界中的设备"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ec2b9d488c752e6e40f55c5f6e9e4a68",
+    "title": "Best ML papers to pick up writing skills [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w075pe/best_ml_papers_to_pick_up_writing_skills_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-27T21:30:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Which research papers (old or new) do you think a PhD student/early researcher must read to improve their writing skills? Do you have a personal favorite researcher whose papers tend to be well-written, in your opinion?</p> <p>Let's define a &quot;well-written paper&quot; as one that clearly explains the problem it is trying to solve, how the method is developed, and the details of the method, while keeping it easy to understand for a general reader (with a basi",
+    "title_zh": "提升写作技巧的最佳机器学习论文推荐",
+    "summary_zh": "Reddit 机器学习社区的用户发起讨论，询问哪些研究论文最有助于提升博士或早期研究人员的论文写作技巧，并征集大家心目中写作风格出色的研究者。",
+    "key_points": [
+      "社区讨论用于提升学术写作技巧的优秀机器学习论文",
+      "用户寻求写作风格出色的研究者及其论文推荐"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
