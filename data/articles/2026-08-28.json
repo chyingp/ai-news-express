@@ -1720,5 +1720,275 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7c8be35a006775169b76b6652821e00f",
+    "title": "Are AI agents actually getting smarter, or are we just getting better at connecting tools to LLMs?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0qeuj/are_ai_agents_actually_getting_smarter_or_are_we/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T13:20:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We keep calling systems “agents” because they can use tools, remember context, and complete multi-step tasks.</p> <p>But how much of that is actual intelligence, and how much is simply better orchestration around a language model?</p> <p>At what point do you consider something a true AI agent?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/sophiamia1346\"> /u/sophiamia1346 </a> &#32; to &#32; <a href=\"https://www.reddit.com",
+    "title_zh": "AI 智能体是真变聪明了，还是我们更擅长给大模型装工具？",
+    "summary_zh": "当前 AI 智能体能使用工具、记忆上下文并完成多步骤任务，但这究竟源于真正的智能，还是仅仅是对语言模型的更好编排？文章探讨了智能体的本质与定义。",
+    "key_points": [
+      "AI 智能体本质是工具编排还是真智能引发讨论",
+      "多步骤任务与工具调用能力不等于理解与推理",
+      "需重新审视智能体的定义与评估标准"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6818620e915446f19173a108618ab11b",
+    "title": "Meta planned to shrink some teams by up to 60% with AI agents. Then it backed off.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0psoy/meta_planned_to_shrink_some_teams_by_up_to_60/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-28T12:54:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Reuters reports Meta explored cutting some teams by as much as 60% as part of an AI-native restructuring. Productivity and reliability problems reportedly derailed the plan.</p> <p>If Meta couldn't make AI-led downsizing work at that scale, are we overestimating how quickly AI will replace white-collar teams?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Smart_AI_Hustle\"> /u/Smart_AI_Hustle </a> &#32; to &#32; <a href=\"ht",
+    "title_zh": "Meta 曾计划用 AI 智能体裁员 60%，后因问题搁置",
+    "summary_zh": "路透社报道，Meta 曾探索利用 AI 原生重组将部分团队规模缩减高达 60%，但因生产力和可靠性问题，该计划已告吹，引发对 AI 替代人力的重新审视。",
+    "key_points": [
+      "Meta 曾计划用 AI 智能体替代人力，裁员比例高达 60%",
+      "因生产力和可靠性问题，该激进裁员计划已被搁置",
+      "事件引发对 AI 当前替代人力能力的质疑"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0a012eb5128e9efb966b43a7514ac4fc",
+    "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T12:46:12+00:00",
+    "content_snippet": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+    "title_zh": "Anthropic 在与五角大楼供应链风险标签的诉讼中首次胜诉",
+    "summary_zh": "一名联邦法官裁定，特朗普政府将 Anthropic 列为供应链风险的做法违法，为这家 AI 公司赢得了首次胜利，其与五角大楼的第二起诉讼仍在进行。",
+    "key_points": [
+      "法官裁定美国政府非法将 Anthropic 标记为供应链风险",
+      "Anthropic 在与五角大楼的法律纠纷中取得首场胜利",
+      "公司尚有另一项针对五角大楼的诉讼仍在审理中"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e42c662d805b95dd8979c091ee774b9e",
+    "title": "Weird Reddit/google ai assistant coincidence",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0pe8e/weird_redditgoogle_ai_assistant_coincidence/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-28T12:36:27+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w0pe8e/weird_redditgoogle_ai_assistant_coincidence/\"> <img alt=\"Weird Reddit/google ai assistant coincidence\" src=\"https://preview.redd.it/la41bonu14mh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2a377635e8dd58242fbb482a4820686adee3f3b7\" title=\"Weird Reddit/google ai assistant coincidence\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I made this comment on a local llm subreddit, first time I have type the word ",
+    "title_zh": "奇怪的 Reddit/谷歌 AI 助手巧合事件",
+    "summary_zh": "一篇 Reddit 帖子讨论了一个关于 Reddit 和谷歌 AI 助手之间发生的奇怪巧合，内容涉及 AI 助手的行为，但缺乏具体细节。",
+    "key_points": [
+      "用户分享 Reddit 与谷歌 AI 助手间的奇怪巧合",
+      "帖子内容为个人体验分享，缺乏实质信息"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b623714fb3a874ce2332d63dec01a7fa",
+    "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+    "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T12:35:27+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Generation Lab offered me the&#8230;",
+    "title_zh": "今日下载：神秘抗衰老药物与加入虚拟电厂",
+    "summary_zh": "MIT 科技评论的每日通讯，本期关注一家初创公司声称发现让血液变年轻的药物，以及虚拟电厂技术。内容与 AI 无直接关联。",
+    "key_points": [
+      "主要讨论抗衰老药物和虚拟电厂技术",
+      "内容不属于 AI 领域核心新闻"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "354d791d28ecaaab24afea29bd2492a4",
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-28T12:21:06+00:00",
+    "content_snippet": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+    "title_zh": "Meta 高管跳槽 OpenAI，社交巨头在印度面临日益严格的审查",
+    "summary_zh": "Meta 高管 Sandhya Devanathan 离职加入 OpenAI，将负责东南亚和澳大利亚的部分业务。此举正值 Meta 在印度面临日益增长的监管压力。",
+    "key_points": [
+      "Meta 高管 Sandhya Devanathan 离职并加入 OpenAI",
+      "她将负责 OpenAI 在东南亚及澳大利亚的运营事务",
+      "人事变动发生在 Meta 于印度面临监管压力的背景下"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ed82d3e7384040563a79f606702e0264",
+    "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+    "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T11:15:05+00:00",
+    "content_snippet": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
+    "title_zh": "当局逮捕两名黑客组织 TeamPCP 成员",
+    "summary_zh": "执法机构逮捕了黑客组织 TeamPCP 的两名涉嫌成员，该组织通过持续性的供应链攻击活动，感染了超过 1000 家机构。",
+    "key_points": [
+      "黑客组织 TeamPCP 两名成员被捕",
+      "该组织通过供应链攻击感染超 1000 家机构",
+      "此新闻主要涉及网络安全，非 AI 领域"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c85c631067572b7d9b8700f93bbb8f01",
+    "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+    "url": "https://www.qbitai.com/2026/08/480666.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-08-28T11:13:35+00:00",
+    "content_snippet": "久久不愿来到台前的智元掌舵人",
+    "title_zh": "《时代》周刊全球 AI 100 放榜，捕获稚晖君“幕后老板”",
+    "summary_zh": "《时代》周刊全球 AI 100 榜单发布，文章聚焦智元机器人公司（稚晖君所在公司）长期低调的幕后掌舵人，揭示了该公司的领导层信息。",
+    "key_points": [
+      "《时代》周刊发布全球 AI 100 影响力榜单",
+      "文章聚焦智元机器人长期低调的幕后老板",
+      "稚晖君所在公司的领导层信息被曝光"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "870e6997fa8e8ed00aa4a1343e27f927",
+    "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
+    "url": "https://www.qbitai.com/2026/08/480600.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-08-28T09:45:19+00:00",
+    "content_snippet": "企业智能化服务撑起基本盘，第二增长曲线冒头",
+    "title_zh": "港股 AGI 第一股业绩爆发：Agent 业务半年进账近 5 亿，Token 收入暴涨 500%",
+    "summary_zh": "一家被称为“港股 AGI 第一股”的公司业绩亮眼，其智能体业务半年收入近 5 亿元，企业服务是基本盘，同时 Token 收入在第二季度环比暴涨 500%。",
+    "key_points": [
+      "公司智能体（Agent）业务半年收入近 5 亿元",
+      "企业智能化服务是公司收入的基本盘",
+      "Token 收入在第二季度环比暴涨 500%，成为新增长点"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3d604ac9a53249088b3226b277aa6751",
+    "title": "Australia just banned fully AI-generated songs from its official charts. Is that fair?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0lfz8/australia_just_banned_fully_aigenerated_songs/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T09:11:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI-assisted music can still qualify, but tracks created entirely by AI are no longer eligible for Australia’s official charts.<br /> I understand the reasoning, but the line could get messy. Using AI for mastering is clearly different from typing one prompt and releasing the result—but there’s a huge gray area between those two.<br /> Should charts judge how a song was created, or only whether people genuinely want to listen to it?<br /> Source: <a href=\"https:/",
+    "title_zh": "澳大利亚禁止纯 AI 生成歌曲进入官方榜单，是否公平？",
+    "summary_zh": "澳大利亚宣布，完全由 AI 生成的歌曲将不再有资格进入官方音乐榜单，但 AI 辅助创作的音乐仍可参与。此举引发了关于公平性和界定标准的讨论。",
+    "key_points": [
+      "澳大利亚禁止纯 AI 生成歌曲进入官方音乐榜单",
+      "AI 辅助创作的音乐仍被允许参与榜单评选",
+      "新规引发关于公平性与 AI 创作界定的争议"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1d4aca2ad62cb3fd1a573d6ceff16c58",
+    "title": "Where to submit stat/prob ML [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w0kipf/where_to_submit_statprob_ml_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T08:16:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm a researcher in statistical and probabilistic ML, I have a steady record of top ML publications and really used to enjoy going to conferences.</p> <p>Over the last few years LLM based works have completely taken over the top conferences. At this year's ICLR, walking among the rows of posters you were lucky to find one paper per row of 10 that wasn't about how their favourite LLM could or couldn't solve their niche benchmark. The workshops tell the same story",
+    "title_zh": "统计/概率机器学习论文该投向何处？",
+    "summary_zh": "一位统计和概率机器学习领域的研究者感叹，近年来LLM相关研究主导了顶级会议，导致传统统计/概率ML领域的论文难以找到合适的发表场所，引发社区讨论。",
+    "key_points": [
+      "研究者认为LLM研究占据顶级会议，挤压了传统统计/概率ML的发表空间",
+      "该帖子在Reddit社区引发关于论文投稿方向和学术包容性的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
