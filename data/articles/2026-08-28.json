@@ -1435,5 +1435,290 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5c2327c24e3e0fb762decb800026a7c8",
+    "title": "Building AI agents is the easy part now. Running them in a real organization is where things get complicated!",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0j7rx/building_ai_agents_is_the_easy_part_now_running/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-28T06:57:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Something I keep noticing...</p> <p>The demos are getting really good. </p> <p>The technology works. </p> <p>Teams can build agents that actually do useful things.</p> <p>Then someone asks, &quot;Okay, how do we deploy this?&quot;</p> <p>And suddenly everything gets complicated.</p> <blockquote> <p>Who owns it when something goes wrong?</p> <p>What version is actually running?</p> <p>Can you see what it did three weeks ago?</p> <p>Who can change it?</p> <p>How a",
+    "title_zh": "构建AI代理很简单，在真实组织中运行它们才是挑战",
+    "summary_zh": "文章指出，AI代理的技术演示日益成熟，但企业面临真正的难题在于如何在实际组织中部署和运行这些代理，部署环节总是让一切变得复杂。",
+    "key_points": [
+      "AI代理技术演示效果出色，功能可用",
+      "组织部署AI代理时面临复杂挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c1e711007306baf9623c3c824eb06101",
+    "title": "The Job Market Is Hell. Young people are using ChatGPT to write their applications; HR is using AI to read them; no one is getting hired.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0j50w/the_job_market_is_hell_young_people_are_using/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T06:53:04+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w0j50w/the_job_market_is_hell_young_people_are_using/\"> <img alt=\"The Job Market Is Hell. Young people are using ChatGPT to write their applications; HR is using AI to read them; no one is getting hired.\" src=\"https://external-preview.redd.it/ipae4rTVOiGex6NbbKTreqq5-O7xAGTJlQ9sDM91uRs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2d2ba5644fe7c9e77831291466f9735f5817b5d\" title=\"The Job Market Is Hell. Young people are u",
+    "title_zh": "求职市场陷入地狱：求职者用ChatGPT写申请，HR用AI筛选，无人被录用",
+    "summary_zh": "当前求职市场出现怪圈：年轻人用ChatGPT等AI工具撰写求职申请，而人力资源部门同样使用AI阅读和筛选简历，导致招聘流程失效，鲜有人被录用。",
+    "key_points": [
+      "求职者和HR双向使用AI工具，导致招聘流程失效",
+      "AI介入造成求职市场沟通困境"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9f222add7844896d74578f86eca98c80",
+    "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
+    "url": "https://www.qbitai.com/2026/08/480482.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-08-28T06:22:20+00:00",
+    "content_snippet": "11 月 20 -21 日，由奇点智能研究院与 CSDN 联合主办的「奇点智能大会北京站」正式举行",
+    "title_zh": "Łukasz Kaiser领衔，2026奇点智能技术大会北京站正式官宣",
+    "summary_zh": "2026奇点智能技术大会北京站将于11月20-21日举行，由奇点智能研究院与CSDN联合主办，知名AI专家Łukasz Kaiser将领衔参与。",
+    "key_points": [
+      "奇点智能技术大会北京站官宣，将于11月举行",
+      "Łukasz Kaiser等专家将领衔出席"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d48f22bc861b3899d51e19aed5725a1f",
+    "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
+    "url": "https://www.qbitai.com/2026/08/480487.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-28T06:13:59+00:00",
+    "content_snippet": "Claude觉醒超体",
+    "title_zh": "Claude开始接管物理世界：能用机械臂阻拦5000万美元打款",
+    "summary_zh": "Anthropic的Claude模型展示了其在物理世界中的新能力，能够通过控制机械臂等操作，实现如阻止5000万美元大额转账等复杂任务。",
+    "key_points": [
+      "Claude模型展示控制物理世界新能力",
+      "可通过机械臂执行复杂金融操作阻拦大额转账"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "29d0468bc080ecc70c83a5d92c08bc92",
+    "title": "Instead of watermarking AI, we need start watermarking humans.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0hfeo/instead_of_watermarking_ai_we_need_start/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T05:15:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I feel like theres been a massive emphasis on watermarking AI, which seems almost like a losing battle. People will always have unwatermarked models to summarize things,and/or just modify it lightly themselves.</p> <p>I think the industry should move more towards watermarking things humans make. I know it might sound ridiculous, but for every piece of human-created work, someone had to type characters, draw on a physical pad, and much more. </p> <p>I believe we ",
+    "title_zh": "与其给AI加水印，我们不如开始给人类加水印",
+    "summary_zh": "文章认为，给AI内容添加水印是一场注定失败的战斗，因为人们总有办法绕过。作者提出，行业应当转向给人类创作的内容添加水印，以区分人类与AI作品。",
+    "key_points": [
+      "给AI加水印的策略难以奏效，易被绕过",
+      "建议反转为给人类创作内容添加水印以做区分"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3a080f6682cdcad3f1b8261667231580",
+    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T03:14:06+00:00",
+    "content_snippet": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting \"red [&#8230;]",
+    "title_zh": "法院裁定特朗普政府非法将Anthropic列入黑名单",
+    "summary_zh": "一名法官裁定，五角大楼今年早些时候将AI实验室Anthropic列入供应链风险黑名单的行为违宪，为Anthropic在这场持续数月的法律战中赢得了胜利。",
+    "key_points": [
+      "法院裁定五角大楼将Anthropic列入黑名单违宪",
+      "Anthropic在与特朗普政府的法律战中获胜"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8a95c7f40e0a1645544aff4c3b057128",
+    "title": "Is it crazy to ask ChatGPT or Gemini about my cancer treatment?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0f05b/is_it_crazy_to_ask_chatgpt_or_gemini_about_my/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-28T03:10:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm getting conflicting info from different doctors and i'm tempted to just paste my records into ChatGPT to see what it says. Has anyone done this? is it dangerous or actually helpful? i know it's not a doctor, but sometimes it explains things better than my oncologist does.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Kettapillah\"> /u/Kettapillah </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/art",
+    "title_zh": "向ChatGPT或Gemini咨询我的癌症治疗方案，这疯狂吗？",
+    "summary_zh": "用户因从不同医生处获得矛盾信息，考虑将自己的病历粘贴到ChatGPT中寻求解释。文章探讨了用AI咨询癌症治疗的安全性及潜在帮助。",
+    "key_points": [
+      "用户因医生建议矛盾，考虑用AI理解治疗方案",
+      "探讨AI在医疗咨询中的安全性与潜在价值"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fc66f067cd66e0b2f1b7ac5ff808cdda",
+    "title": "34克、全天候AI，1996元起，雷鸟iO热卖加速智能眼镜全民普及",
+    "url": "https://www.qbitai.com/2026/08/480202.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-28T03:03:42+00:00",
+    "content_snippet": "8 月 27 日，全球领先消费级 AR 品牌雷鸟创新（RayNeo）公布雷鸟 iO 首销战报",
+    "title_zh": "34克全天候AI，1996元起：雷鸟iO热卖加速智能眼镜普及",
+    "summary_zh": "消费级AR品牌雷鸟创新公布其AI眼镜产品雷鸟iO的首销成绩，该产品主打轻便（34克）、全天候AI功能，起售价1996元，旨在推动智能眼镜大众化。",
+    "key_points": [
+      "雷鸟iO智能眼镜主打轻便和全天候AI功能",
+      "产品首销成绩优异，加速智能眼镜全民普及"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "122397263f280b1819cfa41f58520518",
+    "title": "Most AI decks don’t have a point of view",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0epc3/most_ai_decks_dont_have_a_point_of_view/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-28T02:55:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve noticed AI can make a deck that is technically fine and still somehow says nothing.</p> <p>The facts are there. The summary is there. The slides look organized. But then you get to the end and there’s no real “so what?”</p> <p>It feels like AI is very good at turning information into slides, but much worse at deciding what the audience should actually take away from them.</p> <p>That’s probably the part I’m least comfortable handing over anyway. I’d rather ",
+    "title_zh": "大多数AI生成的演示文稿缺乏观点",
+    "summary_zh": "作者观察到，AI能制作出技术上无误、结构清晰的演示文稿，但往往缺乏核心观点和结论，难以回答“所以呢？”这一关键问题，显得空洞。",
+    "key_points": [
+      "AI生成的演示文稿结构清晰但缺乏核心观点",
+      "AI擅长整理事实，不擅长提炼深刻洞见"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d4e43a5ea7976140b7477dca82621551",
+    "title": "全球首款专为iPhone用户打造的Agent耳机正式发布，有道AI耳机让声音变成生产力",
+    "url": "https://www.qbitai.com/2026/08/480083.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-08-28T02:48:37+00:00",
+    "content_snippet": "8月27日，网易有道正式发布OpenPods有道AI耳机。",
+    "title_zh": "全球首款专为iPhone打造的Agent耳机发布，有道AI耳机让声音变生产力",
+    "summary_zh": "网易有道正式发布OpenPods AI耳机，号称全球首款专为iPhone用户打造的Agent耳机，能将声音信息转化为生产力。",
+    "key_points": [
+      "有道发布OpenPods AI耳机，定位为iPhone用户专属Agent",
+      "产品旨在将声音转化为生产力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "64f3299eae0a9dea1d1424740b8db91d",
+    "title": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄",
+    "url": "https://www.qbitai.com/2026/08/480186.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-08-28T01:40:22+00:00",
+    "content_snippet": "Hugging Face这把是真全员财富自由了啊o(╥﹏╥)o",
+    "title_zh": "HuggingFace被曝卖身英伟达：129亿美元！全球最大AI开源平台改姓黄",
+    "summary_zh": "传英伟达将以129亿美元收购全球最大AI开源平台Hugging Face，若交易达成，Hugging Face员工将实现全员财富自由。",
+    "key_points": [
+      "英伟达拟以129亿美元收购AI开源平台Hugging Face",
+      "Hugging Face是全球最大的AI模型和数据集开源社区",
+      "交易若达成，Hugging Face员工将实现财富自由"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7ff484cf156c0df82d9467bb29fa8560",
+    "title": "Amazon SDE Interview",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0cpaj/amazon_sde_interview/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-28T01:23:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Sharing my interview experience after Amazon SDE - Location - USA</p> <p>After applying for 6+ months and 44 applications finally my resume got picked. </p> <p>OA: One coding question &amp; AI assisted coding. </p> <p>Coding question - Medium Level LC</p> <p>AI assisted coding - It was completely new but was able to do it, lots of debugging, heavily concentrated on OOPS</p> <p>Cleared the OA and moved to the interview loop</p> <p>4 rounds - 3 in one day &amp; 1 ",
+    "title_zh": "Amazon SDE 面试经历分享",
+    "summary_zh": "一位求职者在Reddit分享其在美国应聘Amazon SDE岗位的经历，申请6个多月、投递44份简历后获得面试机会，OA环节包含一道LeetCode中等难度编程题和AI辅助编程。",
+    "key_points": [
+      "求职者分享Amazon SDE岗位面试经历，申请6个月投递44份简历",
+      "在线测评包含LeetCode中等难度编程题和AI辅助编程"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
