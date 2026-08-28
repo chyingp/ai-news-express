@@ -1,0 +1,490 @@
+[
+  {
+    "id": "10b67af9485d5f50eca216184985e08a",
+    "title": "AI's real appeal is the illusion of competence it gives people",
+    "url": "https://www.reddit.com/r/artificial/comments/1w13052/ais_real_appeal_is_the_illusion_of_competence_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T21:12:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Al seems popular because it lets the unskilled feel skilled, the uncreative feel artistic, and the uninformed feel intelligent.</p> <p>I keep seeing the same pattern: someone with zero design background generates a logo and calls themselves a &quot;brand designer.&quot; Someone who's never debugged a real system pastes AI code into production and calls themselves a &quot;developer.&quot; Someone who couldn't structure an argument to save their life gets ChatGPT ",
+    "title_zh": "AI 的真正吸引力在于它给人们带来的能力错觉",
+    "summary_zh": "本文探讨了 AI 工具吸引用户的深层原因，认为其核心魅力在于让缺乏相关技能的人误以为自己拥有了设计、创作或专业知识，从而产生一种虚假的成就感。",
+    "key_points": [
+      "AI 让外行人产生具备专业技能的错觉，如设计或创作。",
+      "文章指出这是一种普遍现象，即技术让无知者感觉聪明。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "467bd18bbe0f49ba7b2c291f9d526b5e",
+    "title": "Bored with Python, should I learn C++? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w12ojy/bored_with_python_should_i_learn_c_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-28T20:59:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm getting pretty bored with Python for ML.</p> <p>With GenAI tools now being able to write very good code, I feel like writing in a high-level language is becoming less interesting to me. Also, it seems like a lot of the focus in ML is shifting toward deployment and inference rather than the architecture or math. I'm not interested in deployment, or what Agentic AI lovers call &quot;building.&quot;</p> <p>I want to understand and work with lower-level computin",
+    "title_zh": "厌倦了 Python，我该学 C++ 吗？",
+    "summary_zh": "一篇 Reddit 论坛上的讨论帖，作者表示厌倦了在机器学习中使用 Python，并认为随着生成式 AI 能写出好代码，转向 C++ 等底层语言以关注模型部署和性能变得更有意义。",
+    "key_points": [
+      "发帖者认为 Python 在 ML 中变得无趣，生成式 AI 降低了编码门槛。",
+      "讨论焦点转向 C++ 在模型部署和性能优化方面的作用。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "02097c648cfd3b891706b9ef7fdbb521",
+    "title": "Could better human–LLM coordination reduce token costs without changing the model?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w11vw0/could_better_humanllm_coordination_reduce_token/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-28T20:28:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>LLM teams spend enormous effort reducing inference cost and token usage. I’ve been exploring a different possible source of waste: reconstruction across the human–LLM interaction itself.</p> <p>The hypothesis is simple:</p> <p>Same frozen weights. Same next-token prediction. But if an interaction progressively carries forward what has already been resolved, later generations may spend fewer tokens reconstructing context, restating assumptions, adding unnecessary",
+    "title_zh": "更好的人机协同能否在不改变模型的情况下降低 Token 成本？",
+    "summary_zh": "本文探讨通过优化人机交互过程，而非修改模型本身，来减少 LLM 推理过程中的不必要 Token 消耗，从而降低推理成本。",
+    "key_points": [
+      "提出新思路：不改变模型权重，仅通过优化人机交互减少 Token 浪费。",
+      "旨在探索交互过程中的重构问题，以降低推理成本。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f88a0fcca7604658eea046a682250b0e",
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-28T20:24:11+00:00",
+    "content_snippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "title_zh": "新云服务商 Lambda 获得 10 亿美元债务融资购买更多芯片",
+    "summary_zh": "新云服务商 Lambda 筹集了 10 亿美元的私人债务，用于购买英伟达 AI 芯片并将其租赁给微软。这凸显了 AI 热潮下高昂的资本支出和持续的融资需求。",
+    "key_points": [
+      "Lambda 获 10 亿美元债务融资，用于购买英伟达 AI 芯片。",
+      "芯片将租赁给微软，反映了 AI 基础设施的高成本。"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1dc01503910a59cc4ade4e57b7f385f2",
+    "title": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-28T19:48:27+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/\"> <img alt=\"I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]\" src=\"https://preview.redd.it/r2vhg90066mh1.png?width=140&amp;height=54&amp;auto=webp&amp;s=23f98a10b9cb9be363b1b1784dff017a6c1a18db\" title=\"I implemented a very tiny image generation model (latent flow tr",
+    "title_zh": "极客在 RP2350 微控制器上实现微型图像生成模型",
+    "summary_zh": "一名开发者成功在 RP2350 微控制器上部署了一个极小的潜在流 Transformer 模型，能够生成 128x128 像素的人脸图像，展示了端侧 AI 的潜力。",
+    "key_points": [
+      "在 RP2350 微控制器上实现了微型潜在流 Transformer 模型。",
+      "该模型可生成 128x128 的人脸图像，属于端侧 AI 实践。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "156a39d33c04489185febf6eef7634ed",
+    "title": "Huawei Cloud moves CodeArts Agent to general availability in Asia Pacific",
+    "url": "https://www.reddit.com/r/artificial/comments/1w10rmj/huawei_cloud_moves_codearts_agent_to_general/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-28T19:46:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Huawei Cloud released CodeArts Agent for commercial use in Asia Pacific on Aug 28. Its Basic and Professional editions moved from public beta to general availability. The release describes Agent Team as 16 specialized agents covering requirements, architecture, coding, testing, issue resolution, and code review.</p> <p>CodeArts Agent also supports IDEs, plugins, and CLI/TUI access, with enterprise management and security features. The practical shift is from cod",
+    "title_zh": "华为云 CodeArts Agent 在亚太区正式商用",
+    "summary_zh": "华为云宣布其智能开发工具 CodeArts Agent 在亚太地区正式商用，该工具由 16 个专业智能体组成，覆盖需求、架构、编码等全流程，基础版和专业版已结束公测。",
+    "key_points": [
+      "华为云 CodeArts Agent 在亚太区正式商用，结束公测。",
+      "工具包含 16 个覆盖开发全流程的专业智能体。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24c26e96ef009735ea35bb2c155ca673",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-28T19:30:38+00:00",
+    "content_snippet": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "title_zh": "Anthropic 研究员揭示自我改进 AI 的潜力",
+    "summary_zh": "Anthropic 的一名研究员展示了能够自我改进的 AI 系统。在针对特定错位行为的 10 项基准测试中，自动化系统成功提升了每项指标，且未降低整体性能。",
+    "key_points": [
+      "Anthropic 研究员展示了能够自我改进的 AI 系统。",
+      "系统在 10 项错位行为基准测试中全部提升，且不影响整体性能。"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "03c14c395773dfe28d8136604b9eb7a7",
+    "title": "Proposal for an AI experiment",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0z9ve/proposal_for_an_ai_experiment/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T18:51:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm writing as someone outside academia who has developed a strong interest in AI consciousness, developmental robotics, and embodied artificial intelligence. I'm an industrial maintenance technician and welder by profession, so this isn't my field, but I've been reading about work in developmental robotics, autobiographical memory, continual learning, self-modeling, and cognitive architectures such as LIDA, iCub/DAC, and KnowRob/EASE.</p> <p>That research led m",
+    "title_zh": "一项关于 AI 实验的提案",
+    "summary_zh": "一位来自学术界外的工业维修技师和焊工，分享了他对 AI 意识、发展性机器人技术和具身智能的浓厚兴趣，并提出了一个 AI 实验的初步构想。",
+    "key_points": [
+      "一位非学术界人士提出关于 AI 意识和具身智能的实验提案。",
+      "提案者背景为工业维修技师，属业余兴趣探索。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f019f50bce19d8e1cb8cfe9adf98773c",
+    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-28T18:19:40+00:00",
+    "content_snippet": "There's a lot of capital pouring into the business of giving models away.",
+    "title_zh": "开放权重 AI 公司成为硅谷最热门的收购目标",
+    "summary_zh": "开放权重 AI 公司正成为硅谷资本追逐的最热门收购目标，大量资金涌入这个无偿提供模型的商业模式，显示市场对其潜力的高度认可。",
+    "key_points": [
+      "开放权重 AI 公司成为硅谷最热门的收购目标。",
+      "大量资本涌入，竞争激烈，市场看好其商业模式。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cadeb7266af6974c33889a106a7cfd60",
+    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+    "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T18:07:55+00:00",
+    "content_snippet": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+    "title_zh": "美联邦法官裁定特朗普政府将 Anthropic 列入黑名单属非法",
+    "summary_zh": "美国联邦法官裁定，特朗普政府以 Anthropic 拒绝支持致命自主战争和大规模监控为由将其列入黑名单的行为是非法的，这起诉讼主旨涉及 AI 伦理。",
+    "key_points": [
+      "联邦法官裁定特朗普政府将 Anthropic 列入黑名单是非法的。",
+      "起因是 Anthropic 拒绝支持致命自主战争和监控技术。"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a31366532fa088659678209aa21567fb",
+    "title": "Could ai create its own super virus that infects computers and uses their gpus to run itself?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0xyct/could_ai_create_its_own_super_virus_that_infects/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T18:03:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>hypothetically, could an ai do this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/No-Active-674\"> /u/No-Active-674 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1w0xyct/could_ai_create_its_own_super_virus_that_infects/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1w0xyct/could",
+    "title_zh": "AI 能创造出自我复制并利用 GPU 的超级病毒吗？",
+    "summary_zh": "Reddit 用户提出假设性问题，探讨人工智能是否可能制造出一种能感染计算机并利用其 GPU 资源来运行自身的超级病毒。",
+    "key_points": [
+      "假设性讨论 AI 能否制造自我复制的计算机病毒",
+      "病毒将利用受感染设备的 GPU 算力运行",
+      "纯理论探讨，无实际案例或技术细节"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0f2cb7c2b6525aedc730fecb28b351e4",
+    "title": "This week: OpenAI's Jalapeño inference chip, Nvidia's ~$12.9B move for Hugging Face, and Alibaba's Qwen3.8-Flash — the cost and control of AI both shifted",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0wf8z/this_week_openais_jalapeño_inference_chip_nvidias/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-28T17:07:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Wanted to pull together three stories from the last few days that feel connected, because individually they got covered but together they say something.</p> <p><strong>1. OpenAI's Jalapeño chip.</strong> OpenAI announced results from its first custom inference chip (with Broadcom and Celestica; Samsung reportedly on HBM4). They're claiming 1.5–1.9x higher throughput per kilowatt and 1.7–3.6x lower end-to-end latency vs Nvidia's GB200/GB300 racks. Deployment targ",
+    "title_zh": "本周 AI 格局之变：OpenAI 芯片、英伟达收购 Hugging Face、阿里新模型",
+    "summary_zh": "本周 AI 行业发生三重变化：OpenAI 发布自研推理芯片 Jalapeño 的成果，英伟达以约 129 亿美元收购 Hugging Face，阿里巴巴推出 Qwen3.8-Flash 模型，成本与控制权成为焦点。",
+    "key_points": [
+      "OpenAI 公布首款定制推理芯片 Jalapeño 的成果",
+      "英伟达约 129 亿美元收购 Hugging Face 平台",
+      "阿里巴巴发布 Qwen3.8-Flash 模型，成本与控制权受关注"
+    ],
+    "importance": 5,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "nvidia",
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "71d17a411ad14887c2b177ce2820fd54",
+    "title": "Opus 5 Instruction Following is Genuinely Concerning",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0w5p6/opus_5_instruction_following_is_genuinely/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-28T16:58:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I think that Anthropic has dropped the ball, instruction following is actually non-existent. You tell it to not do something, ignores you and does it anyway. I’ve said at least ten times to no open something, it keeps doing it. Absolutely unbelievable. This is a dangerous model.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheOnlyVibemaster\"> /u/TheOnlyVibemaster </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/arti",
+    "title_zh": "Anthropic Opus 5 指令遵循能力令人担忧",
+    "summary_zh": "用户反馈 Anthropic 的 Opus 5 模型指令遵循能力严重不足，多次明确指示不要做某事，模型仍会忽略指令并执行，被认为是重大失误。",
+    "key_points": [
+      "Opus 5 模型被指指令遵循能力几乎不存在",
+      "用户多次明确禁止，模型仍会忽略并执行",
+      "该问题被用户视为 Anthropic 的重大失误"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2180dceb28797ed4d44f68786c42629e",
+    "title": "Trump’s EPA wants to let data centers hide their air pollution",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T16:28:40+00:00",
+    "content_snippet": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice and an opportunity to comment when certain industrial sites [&#8230;]",
+    "title_zh": "特朗普政府 EPA 拟放宽数据中心空气污染监管",
+    "summary_zh": "美国环保署计划取消一项联邦规定，不再要求数据中心在申请空气许可证时进行公示和公众评议，此举将削弱社区对数据中心污染的监督权。",
+    "key_points": [
+      "EPA 计划取消数据中心空气许可证的公示要求",
+      "此举将削弱公众对数据中心污染的意见参与权",
+      "政策出台正值数据中心面临社区强烈反对之际"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ddef77436a04e3f59632e36c445a77b",
+    "title": "AIs will finally get us the performance we deserve",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0u4jy/ais_will_finally_get_us_the_performance_we_deserve/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-28T15:43:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Why does everything take so long? Modern tasks take as long as they did in the 80s even though the hardware has improved by approximately 1.2 zillion %. (Yes we can do many more things but still… I’m on a roll here.)</p> <p>It’s because every network call traverses several layers of APIs. Applications are written in 1000s of lines of interpreted languages. 80% of server software is made up of stacks of open source packages with dubious origins. </p> <p>Now, if n",
+    "title_zh": "AI 将最终带给我们应有的性能体验",
+    "summary_zh": "文章认为现代硬件性能虽大幅提升，但软件因网络调用延迟、代码臃肿等问题运行缓慢。AI 有望通过优化代码和预测需求，真正释放硬件性能。",
+    "key_points": [
+      "硬件性能提升巨大，但软件运行效率仍低下",
+      "网络调用延迟和代码臃肿是主要原因",
+      "AI 可通过优化和预测来释放硬件潜力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "05789e32d30510ef844593d072af7854",
+    "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-28T15:42:24+00:00",
+    "content_snippet": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
+    "title_zh": "Meta 限制 AI 眼镜非自愿录制，隐私风险犹存",
+    "summary_zh": "Meta 更新其 AI 眼镜功能，当用户遮挡安全指示灯时将阻止录制，以减少未经同意的拍摄行为，但该产品仍面临隐私担忧。",
+    "key_points": [
+      "Meta 修改 AI 眼镜，遮挡指示灯时停止录制",
+      "此举旨在减少非自愿拍摄行为",
+      "但产品仍然存在隐私风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "636e6be21439f2e1e99edcabe1c1bac1",
+    "title": "What is going on here? I'm curious to know if this has to do with how Gemini's process instructions behind the scenes.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0tkfg/what_is_going_on_here_im_curious_to_know_if_this/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-28T15:22:33+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w0tkfg/what_is_going_on_here_im_curious_to_know_if_this/\"> <img alt=\"What is going on here? I'm curious to know if this has to do with how Gemini's process instructions behind the scenes.\" src=\"https://preview.redd.it/8zaj9wamu4mh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d37d1538368ffd95cc69682b16a39afcb55d020\" title=\"What is going on here? I'm curious to know if this has to do with how Gemini's process instruction",
+    "title_zh": "用户好奇 Gemini 指令处理背后的机制",
+    "summary_zh": "Reddit 用户发帖询问，某些现象是否与 Gemini 模型在后台处理指令的方式有关，探讨其底层工作原理。",
+    "key_points": [
+      "用户对 Gemini 模型的指令处理方式感到好奇",
+      "帖子探讨模型后台指令处理机制",
+      "为技术讨论帖，无具体结论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "75f2ae8e6bdf47240ab013e025b45910",
+    "title": "Row-Bot v4.9.0 is available",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0tb6l/rowbot_v490_is_available/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-28T15:13:17+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w0tb6l/rowbot_v490_is_available/\"> <img alt=\"Row-Bot v4.9.0 is available\" src=\"https://preview.redd.it/4w143o9rt4mh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=159f09e4019ea9f6341dce987d4f538ea77100d5\" title=\"Row-Bot v4.9.0 is available\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://github.com/siddsachar/row-bot\">Row-Bot</a> v4.9.0 is available.</p> <p>- Meet Buddy: a native, always-on-top deskto",
+    "title_zh": "Row-Bot v4.9.0 版本发布",
+    "summary_zh": "一个名为 Row-Bot 的项目或工具发布了 v4.9.0 版本，具体更新内容未在摘要中提及。",
+    "key_points": [
+      "Row-Bot 项目发布 v4.9.0 新版本",
+      "具体更新内容未知"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ddb1589413f21250e7e314132bfb9b09",
+    "title": "AI didn't make me better at creating things, it just made me less afraid to try",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0t6r4/ai_didnt_make_me_better_at_creating_things_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-28T15:08:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I think the biggest change AI brought me is not that I can suddenly make amazing things.</p> <p>I still have plenty of bad ideas.</p> <p>The difference is that I don't immediately throw them away anymore.</p> <p>Before AI tools, I would have an idea for a short video or some kind of visual project, then think about everything involved. How long would it take? Do I need to learn another tool? Would I need someone else to help? Is it even worth spending a weekend ",
+    "title_zh": "AI 并未让我更擅长创作，只是让我不再害怕尝试",
+    "summary_zh": "作者分享体验，认为 AI 工具最大的价值不是提升创作能力，而是降低了尝试的门槛，让人们不再因为顾虑而轻易放弃自己的想法。",
+    "key_points": [
+      "AI 工具的最大价值是降低创作心理门槛",
+      "它让人们不再轻易抛弃不够好的想法",
+      "鼓励更多人勇于尝试和创作"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "299bfcaa79f43f9d200d914934c5d842",
+    "title": "The threat of human extinction will get Congress to act on AI safety…right?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w0stcj/the_threat_of_human_extinction_will_get_congress/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-28T14:54:44+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w0stcj/the_threat_of_human_extinction_will_get_congress/\"> <img alt=\"The threat of human extinction will get Congress to act on AI safety…right?\" src=\"https://external-preview.redd.it/VqA03zs6msdnAoGZDPpDozwxARZ4UEKb9y6O2cWZFP0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1dd09c8d947e5f0ff51bc57841de3c1b6eec46ca\" title=\"The threat of human extinction will get Congress to act on AI safety…right?\" /> </a> </td><td> <!-- S",
+    "title_zh": "人类灭绝威胁能否促使美国国会采取 AI 安全行动？",
+    "summary_zh": "文章探讨将 AI 安全风险上升到人类灭绝级别，是否足以成为推动美国国会采取实质性监管行动的有效动力。",
+    "key_points": [
+      "探讨 AI 可能带来的灭绝性风险",
+      "质疑该威胁能否推动国会采取行动",
+      "聚焦 AI 安全与立法的迫切性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
