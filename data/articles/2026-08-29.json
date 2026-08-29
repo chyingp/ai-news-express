@@ -771,5 +771,153 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "231b7aa90b1fa754c445e548c9e6f75a",
+    "title": "How to Build Agentic Graphs",
+    "url": "https://www.reddit.com/r/artificial/comments/1w1mijt/how_to_build_agentic_graphs/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-29T13:24:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Over the past 4 months of working with graphs, I've learned several major lessons about graph design the hard way. In this post, I want to share the main takeaways so you don't repeat my mistakes. </p> <p>First, <strong>my</strong> definition of graphs:</p> <blockquote> <p>Agent graphs (a.k.a. workflows) are directed graphs that allow cycles and describe how work is passed between agents (nodes) operating in a loop through predefined transitions (edges). Graphs ",
+    "title_zh": "如何构建智能体图",
+    "summary_zh": "作者分享了四个月来构建智能体图的经验教训，总结了在设计图结构时避免常见错误的关键技巧。",
+    "key_points": [
+      "分享构建智能体图的实践经验与设计要点",
+      "定义图概念并强调避免常见设计错误",
+      "面向开发者，提供具体的技术实现建议"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cdb862ca2f12ed1ef2f688cd178310f5",
+    "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+    "url": "https://www.qbitai.com/2026/08/481372.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "zh",
+    "published": "2026-08-29T13:11:08+00:00",
+    "content_snippet": "推理软件栈的微小差异，就能改变输出token",
+    "title_zh": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+    "summary_zh": "文章指出AI本地部署效果不佳的原因在于推理软件栈的微小差异，涉及复杂依赖包，可能影响模型输出质量。",
+    "key_points": [
+      "本地部署AI效果差源于734个依赖包的差异",
+      "推理软件栈微小变化即可改变输出token",
+      "揭示了模型部署中环境一致性的重要性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4ab9492a06dd5b91b95b1f638642b8c1",
+    "title": "AI and Cognitive Ability",
+    "url": "https://www.reddit.com/r/artificial/comments/1w1m34z/ai_and_cognitive_ability/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-29T13:06:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi All - Need expert opinion here.<br /> I’m a Manager and I use AI for all my tasks. Making Presentations and Prepping Data, writing emails. I have set up Workflows that help me save tonnes of time on a lot of tasks and I’m being at least 2x more productive.</p> <p>However, I feel excessive use has limited my own abilities. I can’t think without going to Claude and dumping everything and then have him make connections. I can’t properly read without giving an ar",
+    "title_zh": "AI与认知能力",
+    "summary_zh": "一位管理者分享用AI完成所有任务的经历，声称AI帮助其生产力提升至少2倍，并询问网友对认知能力影响的看法。",
+    "key_points": [
+      "管理者使用AI后生产力提升2倍以上",
+      "探讨AI对个人认知能力的潜在影响",
+      "社区讨论AI在日常工作中的实际效用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "71e7e7bf2df9cdc2075a0db347fc7dfd",
+    "title": "去年归国的徐梦迪，成了清华姚班班主任",
+    "url": "https://www.qbitai.com/2026/08/481318.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-08-29T13:01:34+00:00",
+    "content_snippet": "本科读车辆工程，如今教AI第一班",
+    "title_zh": "去年归国的徐梦迪，成了清华姚班班主任",
+    "summary_zh": "清华大学姚班迎来新班主任徐梦迪，她本科攻读车辆工程，如今投身AI教育，担任顶尖AI班级的班主任工作。",
+    "key_points": [
+      "徐梦迪从车辆工程跨界到AI教育领域",
+      "担任清华姚班班主任，培养AI顶尖人才",
+      "体现AI领域学术与人才回流的趋势"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e277e4a4618df51612b5dcc8ba38f6cb",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-29T13:00:00+00:00",
+    "content_snippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "title_zh": "英伟达的AI优势正超越GPU",
+    "summary_zh": "英伟达新一代数据中心系统通过更智能的流量控制提升效率，而非仅依赖处理器周期，显示出其AI竞争壁垒的扩展。",
+    "key_points": [
+      "英伟达AI优势从GPU扩展到系统级优化",
+      "新一代数据中心采用智能流量控制技术",
+      "提升效率不再单纯依赖处理器算力增长"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6f7e51072f58c557e1c6450db0666708",
+    "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+    "url": "https://www.qbitai.com/2026/08/481223.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-08-29T12:50:31+00:00",
+    "content_snippet": "AI「自进化」，越来越近了",
+    "title_zh": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+    "summary_zh": "Anthropic的Claude模型以每小时4美元的成本训练自身，性能超越成本达150美元的人类研究员，AI“自进化”进程加速。",
+    "key_points": [
+      "Claude模型以极低成本实现自我训练",
+      "4美元/小时的AI性能超越150美元/小时的人类",
+      "标志着AI“自进化”能力接近实用化"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
