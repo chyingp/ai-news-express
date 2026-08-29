@@ -102,5 +102,75 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b2f77379c8ae8a4d99774089ddfad663",
+    "title": "Open-source access-control checker for retrieval-based AI applications [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-29T22:11:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey Guys,</p> <p>I built a small open-source tool that checks whether a RAG application retrieves documents a user shouldn’t have access to.</p> <p>It supports offline test cases and live HTTP API testing with bearer token/API-key auth.</p> <p>I’m looking for a few engineers to try it on a test or non-sensitive environment and tell me whether it catches anything useful or what would make it better.</p> <p>GitHub: <a href=\"https://github.com/InfraGuard-Labs/rag-a",
+    "title_zh": "面向检索式AI应用的开源访问控制检查工具",
+    "summary_zh": "发布了一款开源工具，用于检测RAG应用是否检索了用户无权访问的文档，支持离线测试和在线HTTP API测试。",
+    "key_points": [
+      "开源工具可检测RAG应用中的越权文档检索",
+      "支持离线测试用例和带认证的在线API测试"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "163944ae938dc0ad73d4c96f4d4ddcb4",
+    "title": "Do you use a whiteboard when thinking? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w1yv9b/do_you_use_a_whiteboard_when_thinking_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-29T21:39:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello all, here is a chill post.</p> <p>When I was an undergrad, I really liked working things out on a whiteboard. Drawing stuff, talking through ideas out loud, testing little hypotheses.</p> <p>Now I work in radar DSP, and a lot of my work is code, numerical experiments, deep learning and waiting for training to finish 😅</p> <p>I’m wondering how other people bring that whiteboard style of thinking into DSP, data science or ML work.</p> <p>Do you still use a w",
+    "title_zh": "你在思考时使用白板吗？",
+    "summary_zh": "一篇讨论帖，作者回忆了本科时使用白板梳理思路的习惯，并询问如今从事雷达DSP等代码工作的同行是否仍在使用白板进行思考。",
+    "key_points": [
+      "讨论白板在技术工作思考过程中的使用习惯"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cd512e1f50db78424638c2fe672b7a64",
+    "title": "OpenAI plans to stop supplying models to Cursor on Nov. 12",
+    "url": "https://www.reddit.com/r/artificial/comments/1w1w7f9/openai_plans_to_stop_supplying_models_to_cursor/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-29T19:52:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>OpenAI says it intends to wind down its contract providing models to Cursor, with a proposed shutoff date of November 12, 2026. OpenAI says Cursor's change of control after SpaceX's acquisition triggered a limited cancellation window, and says it will not provide future models to Cursor.</p> <p>Reuters reports that Anthropic plans to increase compute support for Claude models in Cursor, while Cursor co-founder Michael Truell said the companies were speaking to r",
+    "title_zh": "OpenAI计划于11月12日停止向Cursor提供模型",
+    "summary_zh": "OpenAI宣布将终止向Cursor提供模型的合同，原因是SpaceX收购Cursor后触发了合同取消条款，停止日期为2026年11月12日。",
+    "key_points": [
+      "OpenAI因Cursor被SpaceX收购触发合同取消条款",
+      "模型供应将于2026年11月12日终止"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
