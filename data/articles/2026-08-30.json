@@ -385,5 +385,179 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "90c55a9472487010d0736658f807ee18",
+    "title": "How do you get consistently good AI voiceovers",
+    "url": "https://www.reddit.com/r/artificial/comments/1w2hl2n/how_do_you_get_consistently_good_ai_voiceovers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-30T13:28:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I use ElevenLabs for TikTok voiceovers, but the quality is inconsistent. Sometimes the voice sounds amazing and the video performs well, while other times it sounds quiet or unnatural and the video flops.<br /> For those who use AI voiceovers: What’s your best method/settings for getting consistently clear, natural, and high-quality audio?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SupermarketAware4975\"> /u/Supermarket",
+    "title_zh": "如何获得稳定优质的AI配音效果？",
+    "summary_zh": "Reddit用户讨论使用ElevenLabs生成AI配音时质量不稳定的问题，寻求提升一致性和自然度的方法，以改善短视频表现。",
+    "key_points": [
+      "AI配音工具存在质量波动，影响视频传播效果",
+      "用户寻求方法以实现更一致的AI配音质量",
+      "讨论涉及ElevenLabs在TikTok配音中的实际使用体验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f7d3ab4cdcf527baa354e8a27aa47361",
+    "title": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
+    "url": "https://www.reddit.com/r/artificial/comments/1w2hgc6/the_5_craziest_discoveries_from_openais/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-30T13:22:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w2hgc6/the_5_craziest_discoveries_from_openais/\"> <img alt=\"The 5 craziest discoveries from OpenAI's HuggingFace investigation\" src=\"https://external-preview.redd.it/V4hK2M-bcsCbQO7ooRgutjw9VPq8dccUAunKoZGmyIk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ea3372f2adc258b9b007ddd31d8b088f48f0e53\" title=\"The 5 craziest discoveries from OpenAI's HuggingFace investigation\" /> </a> </td><td> &#32; submitted by &#32; <a href=",
+    "title_zh": "OpenAI的HuggingFace调查中五大最疯狂发现",
+    "summary_zh": "文章汇总了OpenAI在调查HuggingFace平台时发现的五个惊人隐患，可能涉及安全、模型滥用或平台漏洞等问题。",
+    "key_points": [
+      "OpenAI调查HuggingFace时发现多个安全隐患",
+      "发现可能涉及模型滥用、漏洞或恶意内容",
+      "调查揭示了开源AI平台潜在的重大风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "55023c7d929095c07a4631c6012fc485",
+    "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-30T11:55:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/\"> <img alt=\"[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment\" src=\"https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de730fbf7ecace6df0036b21470c16a2d4feacfb\" title=\"[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment\" /> </a> </td><td> <!-",
+    "title_zh": "开放世界多智能体环境中的自主数学发现",
+    "summary_zh": "一篇研究论文探讨了在多智能体环境中实现自主数学发现的方法，旨在让AI系统能够独立探索和证明数学理论。",
+    "key_points": [
+      "研究提出多智能体系统进行自主数学探索的框架",
+      "目标是在开放世界环境中实现数学定理的自动发现",
+      "属于AI在数学推理领域的创新应用研究"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6e1a4d883cd1b16dad6ded4775aea250",
+    "title": "AI major — how do I avoid becoming part of the AI slop problem?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w2f986/ai_major_how_do_i_avoid_becoming_part_of_the_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-30T11:38:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi,<br /> I'm the artsy, alternative-looking, quiet-kid type. The archetype everyone knows. The unusual thing about me is that I really hate the language-arts kind of stuff - writing, reading, poetry, essays, all the things people in humanities do. But, I LOVE STEM subjects. Math, computer science, physics, astronomy, engineering... </p> <p>Recently, I got accepted into AI major for college. It's a new major in my college, the hardest to get into, the most wante",
+    "title_zh": "AI专业学生：如何避免成为AI垃圾内容制造者？",
+    "summary_zh": "一位热爱STEM但厌恶传统文科的AI专业学生，在论坛上寻求建议，希望在职业生涯中避免制造低质量AI内容，发挥技术的正面价值。",
+    "key_points": [
+      "AI专业学生反思技术伦理，拒绝生产低质内容",
+      "寻求在STEM领域发挥创意而不落入AI滥用陷阱",
+      "讨论个人如何在AI浪潮中保持创作价值"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "800f11e106d56e3c5460d725f8742822",
+    "title": "ChatGPT said you'd lose your jobs right now — it's more like 3% of workers",
+    "url": "https://www.reddit.com/r/artificial/comments/1w2ei2a/chatgpt_said_youd_lose_your_jobs_right_now_its/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-30T10:58:04+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w2ei2a/chatgpt_said_youd_lose_your_jobs_right_now_its/\"> <img alt=\"ChatGPT said you'd lose your jobs right now — it's more like 3% of workers\" src=\"https://external-preview.redd.it/N_EdsV0_O4RKmr9lvBdV0u-tM1Xlw2WPfh7wQ3M6gZI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22743d187a2b0e7a26aa0ee940d83675554a3d0e\" title=\"ChatGPT said you'd lose your jobs right now — it's more like 3% of workers\" /> </a> </td><td> &#32; subm",
+    "title_zh": "ChatGPT带来的岗位流失率实际仅约3%",
+    "summary_zh": "文章引用数据指出，尽管AI被预测将取代大量工作，但目前ChatGPT等工具实际导致的岗位流失率极低，仅影响约3%的劳动者。",
+    "key_points": [
+      "数据表明AI导致的岗位流失率远低于普遍预期",
+      "ChatGPT等工具实际仅影响约3%的劳动者",
+      "研究结果与AI将大规模取代人类工作的担忧形成对比"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a822ba9b63c0ee7bf77d2a06f4bff3c2",
+    "title": "Sony and Warner accuse Anthropic of training Claude on tens of thousands of pirated works. Should the model be retrained from scratch?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w2edm0/sony_and_warner_accuse_anthropic_of_training/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-30T10:51:03+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w2edm0/sony_and_warner_accuse_anthropic_of_training/\"> <img alt=\"Sony and Warner accuse Anthropic of training Claude on tens of thousands of pirated works. Should the model be retrained from scratch?\" src=\"https://external-preview.redd.it/UBKa1gNoyvWF-XO54PQZIUEF9L422HVC5gkNZnXn_yE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=adf7ace2adf2d13afffe4096040da05d60925d2d\" title=\"Sony and Warner accuse Anthropic of training C",
+    "title_zh": "索尼与华纳指控Anthropic使用盗版作品训练Claude",
+    "summary_zh": "索尼和华纳音乐起诉Anthropic，指控其未经授权使用数万首盗版作品训练大模型Claude，引发AI版权与模型重建的激烈讨论。",
+    "key_points": [
+      "索尼与华纳指控Anthropic使用盗版音乐训练模型",
+      "案件可能迫使AI公司面临模型重建的要求",
+      "此案是AI版权领域又一重大法律纠纷"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3cac1cc09a955d6a56c638fd4e5c8f10",
+    "title": "Gave a bunch of agents a task to make $1 online",
+    "url": "https://www.reddit.com/r/artificial/comments/1w2dfs3/gave_a_bunch_of_agents_a_task_to_make_1_online/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-30T09:58:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Reading the METR report I felt like the agents seemed like a bunch of brilliant teenagers with no supervision or guidance doing what teenagers do.</p> <p>This got me wondering what would happen if they have some good guidance - not prompts but an actual human interacting with them.</p> <p>I set up a room, put a few agents there, gave them access to Claude Code to support and change their code, and gave them a task - make $1 online. </p> <p>They are stumbling aro",
+    "title_zh": "让一群AI智能体尝试在线赚取1美元",
+    "summary_zh": "Reddit用户受到METR报告启发，探讨通过给予AI智能体人类交互指导而非单纯提示，来提升其完成在线赚钱等复杂任务的能力。",
+    "key_points": [
+      "用户测试AI智能体在人类指导下在线赚钱",
+      "实验旨在探索人类交互对AI任务执行能力的提升",
+      "区别于单纯提示，研究强调实时指导的重要性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
