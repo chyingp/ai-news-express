@@ -287,5 +287,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ab1801ace3ef1a4830efdd12af66967e",
+    "title": "Data center construction hit $50B this year, and it's split America's unions into two camps that don't agree on anything",
+    "url": "https://www.reddit.com/r/artificial/comments/1w28hwh/data_center_construction_hit_50b_this_year_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-30T05:17:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Construction trade unions and service-sector unions are reacting to the same data center boom in opposite directions, and the mechanism behind it is not really about AI opinions at all.</p> <p>NABTU (3 million-plus construction workers) and IBEW (900,000 members) are actively partnering with OpenAI and Microsoft on facility builds and worker training pipelines, and IBEW sent Congress a memo asking lawmakers to vote down data center moratorium bills. Meanwhile Na",
+    "title_zh": "数据中心建设今年达500亿美元，美国工会分裂为两派对立阵营",
+    "summary_zh": "美国数据中心建设热潮引发工会分歧，建筑行业工会与服务业工会对此反应截然相反，分歧根源并非仅在于对AI的看法。",
+    "key_points": [
+      "2026年数据中心建设投资达500亿美元",
+      "建筑工会与服务业工会因利益冲突立场对立",
+      "分歧核心在于就业模式而非AI技术本身"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1c60f1967e325a359b4fe206c8ac07cd",
+    "title": "AIPass Update #17 - v2.7.20 + v2.7.21: the fleet memory push, and passports that ship with the repo",
+    "url": "https://www.reddit.com/r/artificial/comments/1w27co1/aipass_update_17_v2720_v2721_the_fleet_memory/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-08-30T04:17:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><h1>AIPass Update #17 - v2.7.20 + v2.7.21: the fleet memory push, and passports that ship with the repo</h1> <p>Two releases since Update #16: v2.7.20 and v2.7.21, the second tagged tonight. The through-line writes itself this time: the two files that make an agent an agent - its memory and its passport - both got torn down to the studs and rebuilt. One small full-circle note first: the missing v2.7.17 changelog header that Update #16 flagged was fixed the same nig",
+    "title_zh": "AIPass更新#17：v2.7.20与v2.7.21版本发布，新增舰队记忆推送与仓库内护照功能",
+    "summary_zh": "AIPass发布两个新版本，主要更新包括舰队记忆推送功能，以及将护照文件直接集成在代码仓库中一同发布。",
+    "key_points": [
+      "AIPass连续发布v2.7.20和v2.7.21两个版本",
+      "引入舰队记忆推送（fleet memory push）新功能",
+      "护照文件现在随代码仓库一起发布"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "349b7fee6749afc229a0946f6dadeb8a",
+    "title": "using chatgpt for medical questions honest opinion",
+    "url": "https://www.reddit.com/r/artificial/comments/1w26i1m/using_chatgpt_for_medical_questions_honest_opinion/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-30T03:33:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>At 2am it can make confusing words feel manageable. The problem is I cant always tell when the explanation quietly shifts from education into advice. A blessing or a curse?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/theCOLLECTOR7250\"> /u/theCOLLECTOR7250 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1w26i1m/using_",
+    "title_zh": "使用ChatGPT咨询医疗问题的真实感受",
+    "summary_zh": "用户分享在深夜使用ChatGPT咨询医疗问题的体验，表示其能将复杂术语变得易懂，但难以分辨解释何时从教育信息转变为医疗建议，引发对AI应用利弊的思考。",
+    "key_points": [
+      "用户深夜使用ChatGPT理解医学术语体验良好",
+      "难以区分AI提供的教育与建议边界",
+      "引发对AI医疗咨询是福是祸的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2d4b5ea176a8a6f6d6f2d97bd0a8bdd6",
+    "title": "What should an AI agent remember in a form a human can actually audit?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w264pi/what_should_an_ai_agent_remember_in_a_form_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-30T03:14:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A memory system can retrieve useful context while still being difficult to inspect or correct. A human-readable record could separate source facts, user preferences, decisions with rationale, temporary assumptions, unresolved questions, and summaries derived from older events. Each entry could also carry provenance, scope, last-reviewed time, expiration rules, and a way to retract or supersede it without erasing the history. Which of those fields are essential, ",
+    "title_zh": "AI智能体的记忆该以何种形式记录，以便人类真正审计？",
+    "summary_zh": "探讨AI智能体记忆系统的设计挑战，提出需构建人类可读的记录，分离源事实、用户偏好、决策理由等要素，以解决记忆难以检查和纠正的问题。",
+    "key_points": [
+      "探讨AI智能体记忆的人类可审计性设计",
+      "建议分离源事实、偏好、决策理由等要素",
+      "当前记忆系统难以检查和纠正"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
