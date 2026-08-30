@@ -96,5 +96,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5bd76c5693b6ec981971d7afebdf22a6",
+    "title": "How do AI platforms like Cursor get their model costs so low?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w2twoi/how_do_ai_platforms_like_cursor_get_their_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-30T21:24:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I understand that AI platforms can provide models much cheaper than the raw API price. but I’m curious about external AI providers like Cursor, T3 Code, etc. Do they use the same public APIs or do they get special/volume discounts directly from the model providers? How does the economics of this actually work?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NoTutor4458\"> /u/NoTutor4458 </a> &#32; to &#32; <a href=\"https://w",
+    "title_zh": "AI 平台如 Cursor 如何实现如此低的模型成本？",
+    "summary_zh": "探讨 Cursor 等 AI 编程平台如何以低于官方 API 的价格提供模型服务，分析其是否通过公开 API 接入，或从模型供应商处获得特殊的批量折扣与协议价。",
+    "key_points": [
+      "AI 平台能以远低于公开 API 的价格提供模型服务",
+      "可能源于与模型供应商达成的批量折扣或特殊协议",
+      "用户对成本构成背后的商业模式与定价机制感到好奇"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
