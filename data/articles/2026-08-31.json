@@ -22,5 +22,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e3bec037f99595fddd12a7fcf83254e8",
+    "title": "Amazon is killing Mechanical Turk. By the end, a third of the humans on it were secretly using AI to do the work",
+    "url": "https://www.reddit.com/r/artificial/comments/1w2snwd/amazon_is_killing_mechanical_turk_by_the_end_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-30T20:36:02+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w2snwd/amazon_is_killing_mechanical_turk_by_the_end_a/\"> <img alt=\"Amazon is killing Mechanical Turk. By the end, a third of the humans on it were secretly using AI to do the work\" src=\"https://preview.redd.it/2jx7qyg8pkmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5471a73a4bd067ecce82c1c9594c723b9692aeb2\" title=\"Amazon is killing Mechanical Turk. By the end, a third of the humans on it were secretly using AI to do t",
+    "title_zh": "亚马逊将关闭 Mechanical Turk 平台，后期三分之一人类工作者秘密使用 AI 完成任务",
+    "summary_zh": "亚马逊宣布关闭众包微任务平台 Mechanical Turk，报道揭示该平台在运营后期已有约三分之一的人类工作者秘密使用 AI 来替代人工完成任务，反映了人类与 AI 劳动力界限的模糊。",
+    "key_points": [
+      "亚马逊 Mechanical Turk 平台即将被关闭",
+      "后期三分之一人类工作者偷偷使用 AI 代替人工",
+      "事件标志传统众包模式被 AI 深刻冲击"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9f4e99396e90c525c57cb266a8ce7c3d",
+    "title": "NeurIPS accepted papers leaked? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w2r1f3/neurips_accepted_papers_leaked_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-30T19:34:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I found this GitHub link, and the HTML file contains ~7k papers. Some are anonymized, and the details seem pretty accurate. It looks like these might actually be the accepted papers.</p> <p><a href=\"https://github.com/xll0328/NIPS26-\">https://github.com/xll0328/NIPS26-</a></p> <p>Can someone confirm whether this list is legit? I’m hoping it’s just a coincidence since it seems way too early.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.r",
+    "title_zh": "NeurIPS 2026 录用论文疑似泄露",
+    "summary_zh": "Reddit 用户发现一个 GitHub 仓库包含约 7000 篇被匿名处理的论文，内容细节准确，疑似为 NeurIPS 2026 大会的录用论文列表提前泄露，引发社区关注。",
+    "key_points": [
+      "GitHub 出现含有约 7000 篇匿名论文的 HTML 文件",
+      "论文细节准确，疑似 NeurIPS 2026 录用列表泄露",
+      "事件引发机器学习社区对审稿流程的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a42ec1ce2bee3ccd7eb1e78610ecf1cc",
+    "title": "Genuinely curious how people running AI agencies actually started. Not the polished version, the real one.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w2oyli/genuinely_curious_how_people_running_ai_agencies/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-30T18:16:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Every time I read about someone running an AI agency, it sounds very clean. “Identified a niche, got clients, scaled.”<br /> But I have a feeling the actual story is messier than that. So I want to ask people who are actually doing it:</p> <p>How did you really start? Like what was the actual first step that led to a paying client? Was it someone you knew, a cold DM, a post that blew up, just luck?</p> <p>Also curious about:</p> <pre><code>•Did you pick a niche ",
+    "title_zh": "AI 代理机构真实创业经历探秘：从零起步的混乱与现实",
+    "summary_zh": "Reddit 用户发帖询问 AI 代理机构创始人的真实创业起点，希望了解光鲜叙事背后的实际混乱、挑战与教训，引发社区内的经验分享与讨论。",
+    "key_points": [
+      "发帖者质疑 AI 代理机构创业故事过于光滑",
+      "寻求创始人分享真实的起步混乱与挑战",
+      "社区讨论聚焦 AI 代理商业化实操经验"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
