@@ -559,5 +559,52 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "45cb6f1654d7aa7cbe258102cf813d3c",
+    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-30T15:35:10+00:00",
+    "content_snippet": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that revealed the state spent over $30 million on Flock cameras. That money was primarily raised by tacking a $1 fee onto insurance policies, [&#8230;]",
+    "title_zh": "得州州长阿博特阻止对 Flock 摄像头的资金投入",
+    "summary_zh": "随着对 Flock AI 监控摄像头的反对声浪加剧，得克萨斯州州长格雷格·阿博特冻结了州政府在该项目上的支出。此举恰逢《得州论坛报》调查报道发布前夕，该报道披露该州已在 Flock 摄像头上花费超 3000 万美元。",
+    "key_points": [
+      "得州州长冻结了对 Flock AI 监控摄像头的州政府资金",
+      "调查显示该州此前已在该项目上花费超过 3000 万美元",
+      "此举发生在公众对 AI 监控技术反弹情绪日益增长的背景下"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e4de3653e651c8746b7de2faedfff614",
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-30T15:00:00+00:00",
+    "content_snippet": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+    "title_zh": "卡特彼勒将采矿自动化经验应用于 AI 部署",
+    "summary_zh": "卡特彼勒公司在远程采矿现场部署自动化机器已有数十年历史。如今，该公司正将这一领域的深厚经验引入到人工智能部署中，探索新的应用方式。",
+    "key_points": [
+      "卡特彼勒将其在采矿自动化领域数十年的经验用于 AI 部署",
+      "该公司旨在将成熟可靠的自动化技术应用到更广泛的 AI 领域"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
