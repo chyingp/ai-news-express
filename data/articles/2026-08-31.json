@@ -120,5 +120,78 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "156e0d80df79e49cbb8b83be8e015ed1",
+    "title": "Google closed Jeff Dean's account. Gemini 3.5 Pro is still 'soon.'",
+    "url": "https://www.reddit.com/r/artificial/comments/1w2zg7n/google_closed_jeff_deans_account_gemini_35_pro_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-31T01:26:37+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w2zg7n/google_closed_jeff_deans_account_gemini_35_pro_is/\"> <img alt=\"Google closed Jeff Dean's account. Gemini 3.5 Pro is still 'soon.'\" src=\"https://external-preview.redd.it/REHqIwe_njtunWdB6M9PmO3JCxaynVpho0lq5YjFMZg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6eedcef007358b2832ecc63fc3996e7d726c76af\" title=\"Google closed Jeff Dean's account. Gemini 3.5 Pro is still 'soon.'\" /> </a> </td><td> &#32; submitted by &#32",
+    "title_zh": "Google 关闭了 Jeff Dean 的账户，Gemini 3.5 Pro 仍「即将推出」",
+    "summary_zh": "Reddit 用户爆料 Google 首席科学家 Jeff Dean 的账户被关闭，同时 Gemini 3.5 Pro 模型发布仍无确切时间，引发社区对 Google 内部管理及产品节奏的猜测。",
+    "key_points": [
+      "Google 首席科学家 Jeff Dean 的账户被意外关闭",
+      "Gemini 3.5 Pro 模型发布持续推迟，官方仅称「很快」"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1c894bde693ea70ddac30d876575bcdb",
+    "title": "Now that any service can be built with AI, nobody wants to build anything",
+    "url": "https://www.reddit.com/r/artificial/comments/1w2yy6u/now_that_any_service_can_be_built_with_ai_nobody/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-31T01:03:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been noticing a strange paradox with AI-assisted coding.</p> <p>A few years ago, if you had an idea for a software service, building it was the hard part. You needed months of development, a decent team, money, infrastructure, and a lot of specialized knowledge.</p> <p>Today, one competent developer using AI can build in days or weeks what might have taken a small team months.</p> <p>You would think this would lead to an explosion of new software products.<",
+    "title_zh": "当任何服务都能用 AI 构建，却没人想构建任何东西了",
+    "summary_zh": "文章探讨了 AI 辅助编程带来的悖论：技术门槛降低使创意快速实现，但导致开发者对构建完整产品缺乏耐心，陷入从想法到原型、再到放弃的循环。",
+    "key_points": [
+      "AI 降低开发门槛，但导致开发者对项目缺乏长期投入",
+      "快速原型化使从想法到放弃的循环加剧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "944e23744b7a81a46aa38326787cf629",
+    "title": "Claude Code for Research Papers [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w2wqbm/claude_code_for_research_papers_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-30T23:24:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Third-year PhD student, NLP / interpretability. I want a reality check from people doing similar work.</p> <p>I started using Claude Code for the boring parts: argparse boilerplate, plotting, config wrangling. Over the last few months the scope has crept. It now writes most of my experiment scaffolding, refactors my dataloaders, does first-pass debugging on training runs, and drafts the analysis scripts. I mostly read diffs and say yes.</p> <p>The output is fine",
+    "title_zh": "使用 Claude Code 撰写研究论文 [讨论]",
+    "summary_zh": "一位 NLP 博士生分享使用 Claude Code 辅助研究的过程，从最初处理样板代码到如今撰写论文，寻求同行对 AI 深入科研写作的反馈。",
+    "key_points": [
+      "博士生使用 Claude Code 从处理杂务扩展到撰写论文",
+      "寻求 NLP 社区对 AI 参与科研写作的看法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
