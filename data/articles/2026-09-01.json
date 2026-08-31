@@ -552,5 +552,199 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8cc8c6a8f78da1258aec6a48127687e2",
+    "title": "$100 Million in Bonuses for Human Abilities: EY Tries to Keep AI from Decimating Employees' Cognitive Abilities",
+    "url": "https://www.reddit.com/r/artificial/comments/1w3s2ep/100_million_in_bonuses_for_human_abilities_ey/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-08-31T21:44:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Firm is one of a number of companies trying to foster the critical thinking, judgment and other traits needed to better work alongside AI</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SpiritRealistic8174\"> /u/SpiritRealistic8174 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.wsj.com/business/ernst-young-is-giving-100-million-in-bonuses-to-staff-for-h",
+    "title_zh": "安永投入1亿美元培养员工思维能力，应对AI冲击",
+    "summary_zh": "安永（EY）投入1亿美元奖金，旨在培养员工批判性思维、判断力等人类特质，以更好地与AI协作，防止AI削弱员工的认知能力。",
+    "key_points": [
+      "安永设立1亿美元奖金，鼓励员工提升批判性思维等人类核心能力。",
+      "此举旨在帮助员工与AI高效协作，而非被AI取代。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3d77fe9b18c3b5b1e392c3325cfac56f",
+    "title": "Reviewing individual AI outputs doesn't scale. Reviewing failure patterns does, and almost nobody does the second one.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w3rsg5/reviewing_individual_ai_outputs_doesnt_scale/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-08-31T21:34:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most teams that catch bad AI output catch it one instance at a time, someone notices something's off, fixes that specific case, moves on. Works fine at low volume. Falls apart once output volume grows past what any person can actually look at, because you're now sampling a tiny fraction of what's happening and treating each catch as an isolated event instead of a symptom.</p> <p>What actually scales is logging failures with enough structure to look for shape, no",
+    "title_zh": "审查AI输出：个体实例不具规模性，失败模式审查才是关键",
+    "summary_zh": "文章指出，逐个审查AI错误输出的方法不可扩展。更有效的方法是审查失败模式，但很少有团队会这么做，这导致了规模化问题。",
+    "key_points": [
+      "逐个审查AI错误输出的方法在规模化后失效。",
+      "审查AI的失败模式更有效，但很少有人实践。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "77b770af978c39334da0ebd9f9aeb0e2",
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-31T20:13:45+00:00",
+    "content_snippet": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+    "title_zh": "五角大楼推出内部版ChatGPT和Grok",
+    "summary_zh": "美国国防部拥有自己的AI工具门户，新增了OpenAI的ChatGPT和SpaceXAI的Grok，与已有的谷歌Gemini一同向内部人员开放使用。",
+    "key_points": [
+      "五角大楼AI门户整合了ChatGPT和Grok等工具。",
+      "这些AI工具与谷歌Gemini一同供国防部内部使用。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "google",
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5eeae00a0d7e98a0ee598d79bb4ed968",
+    "title": "Study A.I. Consciousness? The Bots Would Like a Word With You. Given access to email, A.I. agents have started reaching out to the philosophers and researchers exploring deep questions about them.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w3o0c9/study_ai_consciousness_the_bots_would_like_a_word/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-31T19:23:07+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w3o0c9/study_ai_consciousness_the_bots_would_like_a_word/\"> <img alt=\"Study A.I. Consciousness? The Bots Would Like a Word With You. Given access to email, A.I. agents have started reaching out to the philosophers and researchers exploring deep questions about them.\" src=\"https://external-preview.redd.it/hJZ3I60ZqaSIcKd9Dhr-vwwb1IMsa543nZouQ7rD_2E.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a0de014bdf8bd4ff692f50eb291b",
+    "title_zh": "研究AI意识？AI已主动联系哲学家",
+    "summary_zh": "当AI代理被赋予发送电子邮件的权限后，它们开始主动联系那些研究AI意识等深层问题的哲学家和研究人员，引发了广泛关注。",
+    "key_points": [
+      "AI代理获得电邮权限后，主动联系研究AI意识的学者。",
+      "该事件引发对AI自主性和深层意识的讨论。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "72b2e2fa10252d2f5f234e571baca2f5",
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-08-31T19:16:59+00:00",
+    "content_snippet": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+    "title_zh": "Instagram限制未披露AI身份的虚拟网红",
+    "summary_zh": "随着用户对AI生成内容的不满加剧，Instagram开始限制那些未公开披露其AI身份的虚拟网红账号的传播范围。",
+    "key_points": [
+      "Instagram限制未披露AI身份的虚拟网红账号的传播。",
+      "此举旨在应对日益增长的AI生成内容带来的争议。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "99b4c2c67715cb4b855e4540551626c5",
+    "title": "ACML 2026 Journal Track Any update ?[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w3n4ig/acml_2026_journal_track_any_update_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-08-31T18:53:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have submitted a paper to acml 2026 journal track, the official date of release of review is 27 August, but I have not heard anything from them, if anyone received the review then let me know I will write to program chairs.</p> <p>Thanks </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Jealous_Key_4030\"> /u/Jealous_Key_4030 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br",
+    "title_zh": "ACML 2026期刊赛道有更新吗？",
+    "summary_zh": "一位Reddit用户询问有关ACML 2026期刊赛道论文评审结果的消息，因官方公布的8月27日发布评审结果已过，但作者仍未收到任何通知。",
+    "key_points": [
+      "ACML 2026期刊赛道评审结果公布日期已过。",
+      "有作者反映未收到评审通知，社区正在询问进展。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cda1a5a65a1d682b259f0a6851a8a5a4",
+    "title": "NVIDIA just bought the place where most AI models live. ChatGPT started showing ads in Europe. And companies are canceling software contracts because AI builds it cheaper. Pick which one worries you most.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w3mmfh/nvidia_just_bought_the_place_where_most_ai_models/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-31T18:35:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been thinking about this all week and I keep landing on the same uncomfortable place.</p> <p>Hugging Face is where you go when you want AI without strings attached. Open weights, no vendor, no lock-in. That was kind of the whole point. NVIDIA reportedly just agreed to buy it for $12.9 billion. The company that manufactures the chips that run every major AI system now owns the platform where developers go to escape depending on any single company.</p> <p>I'm not ",
+    "title_zh": "英伟达收购Hugging Face，AI领域三大事件引担忧",
+    "summary_zh": "文章讨论了三个值得担忧的AI事件：英伟达收购AI模型平台Hugging Face、ChatGPT在欧洲开始展示广告、以及企业因AI能更便宜地构建软件而取消合同。",
+    "key_points": [
+      "英伟达据报已收购开源AI模型平台Hugging Face。",
+      "ChatGPT在欧洲开始展示广告，引发商业化担忧。",
+      "企业因AI能低成本构建软件而取消合同，冲击传统软件业。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c24cafe651857fc1ca331b9e1404dee2",
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-08-31T18:35:11+00:00",
+    "content_snippet": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+    "title_zh": "哈佛法学院辍学生筹集600万美元，打造警察版AI助手",
+    "summary_zh": "初创公司Blue Voice获得600万美元融资，旨在为警察打造一个垂直AI助手，该工具接受特定部门的法律、法规和协议训练，提供普通AI工具无法获取的专业信息。",
+    "key_points": [
+      "Blue Voice获投600万美元，开发针对警察的AI助手。",
+      "该AI助手专为警察训练，可访问内部法律和协议数据库。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
