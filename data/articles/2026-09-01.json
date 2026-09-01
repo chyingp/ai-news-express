@@ -772,5 +772,31 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "75bc99fc5c8929a8b6fe76bc96c0d5c7",
+    "title": "LinkedIn returns HTTP 999 to GPTBot and ClaudeBot but HTTP 200 to OAI-SearchBot. I measured what is inside the 200.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w3y3lt/linkedin_returns_http_999_to_gptbot_and_claudebot/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-01T01:47:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>No links in this post. Everything below is reproducible with one curl per line.</p> <p>I fetched the same LinkedIn profile URL six times, changing only the User-Agent.</p> <pre><code>GPTBot -&gt; HTTP 999 ClaudeBot -&gt; HTTP 999 ChatGPT-User -&gt; HTTP 999 Googlebot -&gt; HTTP 999 OAI-SearchBot -&gt; HTTP 200 Claude-SearchBot -&gt; HTTP 200 </code></pre> <p>999 is LinkedIn's block code. The training crawlers are refused, the user-triggered fetchers are refused,",
+    "title_zh": "LinkedIn 对AI爬虫采取差异化封锁：GPTBot、ClaudeBot 被拒，OAI-SearchBot 获放行",
+    "summary_zh": "一项实验发现，LinkedIn 对 AI 爬虫实施差异化访问控制。GPTBot 和 ClaudeBot 请求返回 HTTP 999 拒绝访问，但 OpenAI 的 OAI-SearchBot 却能收到 HTTP 200 成功响应，并获取了完整的个人资料内容。",
+    "key_points": [
+      "LinkedIn 对 GPTBot 和 ClaudeBot 返回 HTTP 999 拒绝访问",
+      "OAI-SearchBot 却能获得 HTTP 200 并正常抓取内容",
+      "揭示平台对 AI 搜索爬虫和训练爬虫存在差异化政策"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
