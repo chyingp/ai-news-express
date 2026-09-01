@@ -746,5 +746,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "00adf4a54ce8a9f46b298d3eaf5f3e9f",
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-01T00:13:00+00:00",
+    "content_snippet": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+    "title_zh": "苹果公布前员工窃取数据给OpenAI的‘惊人证据’",
+    "summary_zh": "苹果披露证据，指控一名前员工窃取公司机密数据并提供给OpenAI，并在得知调查后销毁证据。该案涉及严重的商业机密泄露和证据湮灭行为。",
+    "key_points": [
+      "苹果指控前员工窃取机密数据给OpenAI",
+      "涉事员工在得知被调查后销毁了证据",
+      "案件涉及商业机密泄露与证据湮灭"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
