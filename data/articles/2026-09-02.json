@@ -1,0 +1,226 @@
+[
+  {
+    "id": "16ca199800c79860b6e9c584dc77e30e",
+    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-01T17:35:37+00:00",
+    "content_snippet": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+    "title_zh": "谷歌推出AI设计工具Pics，只需提示词即可设计，对标Canva",
+    "summary_zh": "谷歌发布AI创作工具Google Pics，采用AI优先策略，通过提示词生成专业级设计，进军由Canva和Adobe主导的创意软件市场。",
+    "key_points": [
+      "Google Pics利用AI提示词简化设计流程，挑战Canva和Adobe",
+      "该工具面向Workspace用户，旨在降低商业图像编辑门槛",
+      "采用AI优先方法，标志着谷歌深入创意软件领域"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cb896342e73390ec9b9d3acc23f51119",
+    "title": "Introducing agentic video understanding with Gemini",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-01T17:08:51+00:00",
+    "content_snippet": "",
+    "title_zh": "Gemini推出智能体视频理解功能",
+    "summary_zh": "谷歌DeepMind为Gemini模型引入智能体视频理解能力，使其能够更深入地分析和理解视频内容。",
+    "key_points": [
+      "Gemini新增智能体视频理解功能",
+      "该功能由谷歌DeepMind团队开发",
+      "旨在提升AI对视频内容的深度分析能力"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "18f7db1b68368a98686eb9befb35be35",
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-01T17:00:00+00:00",
+    "content_snippet": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+    "title_zh": "ChatGPT Health集成Epic系统，临床医生可导入患者数据",
+    "summary_zh": "OpenAI宣布ChatGPT Health与Epic电子健康记录系统集成，为临床医生提供患者数据的只读访问权限，以提升医疗AI应用效率。",
+    "key_points": [
+      "ChatGPT Health与Epic系统集成，实现患者数据导入",
+      "该集成提供只读访问，确保数据安全",
+      "旨在辅助临床医生，提升医疗工作流程"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4be3ed23a721c092e4d0396071b6da38",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-01T17:00:00+00:00",
+    "content_snippet": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "title_zh": "AI原生公司如何将工作流转化为运营能力",
+    "summary_zh": "OpenAI博客文章介绍了Basis、Clay和Exa Labs等公司如何利用AI智能体改善入职、账户管理和开发者集成，为企业领导者提供AI转型参考。",
+    "key_points": [
+      "AI智能体被用于优化企业入职和账户管理流程",
+      "案例展示了AI原生公司将工作流转化为核心运营能力",
+      "文章为企业AI应用提供了实践参考"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "72bb291e017614d8d84c3ebf22ca0f7c",
+    "title": "I audited 112 real RL post-training environments for reward-hacking vulnerabilities — 54 flagged, 0 false positives [OC, tool] [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w4h6c1/i_audited_112_real_rl_posttraining_environments/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-01T16:34:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>RL post-training (RLHF/RLAIF/GRPO) agents optimize strictly for whatever the verifier rewards. If the verifier has logic flaws, the agent learns to hack the grader instead of solving the task — recent work has catalogued this at scale (Terminal Wrench found 331 hackable environments and 15%+ of standard benchmark tasks bypassable; a SWE-bench Verified audit found 28.5% Docker-verified hackability).</p> <p>I built <code>ratctl</code>, a static + dynamic auditor t",
+    "title_zh": "审计112个RL后训练环境发现54个奖励漏洞，零误报",
+    "summary_zh": "一项研究对112个真实的强化学习后训练环境进行审计，发现其中54个存在奖励黑客漏洞，且检测工具实现了零误报，揭示了RLHF等方法的脆弱性。",
+    "key_points": [
+      "审计112个RL后训练环境，发现54个存在奖励黑客漏洞",
+      "检测工具实现零误报，准确识别验证器逻辑缺陷",
+      "研究揭示了RLHF/RLAIF等方法中奖励机制的脆弱性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "776a2be07ef3f4f09649332cabdd655d",
+    "title": "Asking AI... about itself.. very baby but.. interesting maybe?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w4g74y/asking_ai_about_itself_very_baby_but_interesting/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-01T16:01:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I mean i kinda knew what the answer would but i wanted to ask anyway.. interesting choice of words-</p> <p><em>who will be truly benefitting if AI takes over jobs like warehouse, sales, therapist, creators</em></p> <p><em>If AI broadens its reach to fully take over roles like warehouse operations, sales, therapy, and content creation, the primary and truest beneficiaries will be large corporations, AI technology providers, and equity shareholders.</em></p> <p><e",
+    "title_zh": "向AI询问其自身影响：如果AI接管工作，谁将真正受益？",
+    "summary_zh": "一篇Reddit帖子记录了用户询问AI关于其自身对社会影响的对话，探讨了在AI接管仓库、销售、治疗师等职业后，真正的受益者是谁。",
+    "key_points": [
+      "用户通过对话询问AI对自身社会影响的看法",
+      "探讨了AI接管多种职业后的利益分配问题",
+      "内容为个人思考，缺乏实质性新闻价值"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "91bace9854c6d5404b721e86d0d30c13",
+    "title": "John Deere launched an AI chatbot for farmers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-01T16:00:52+00:00",
+    "content_snippet": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage, or harvest timing. The [&#8230;]",
+    "title_zh": "约翰迪尔为农民推出AI聊天机器人",
+    "summary_zh": "农业机械巨头约翰迪尔正在测试一款名为“JD”的AI助手，该助手利用农民的田间、机器和运营数据，提供关于设备设置、燃油使用和最佳实践的建议，以帮助农民增收。",
+    "key_points": [
+      "约翰迪尔推出基于私有数据的AI助手“JD”",
+      "该聊天机器人可回答设备设置、燃油使用等农业问题",
+      "旨在利用AI分析历史趋势，帮助农民提高盈利能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9995525a459907cbdb5c32e9e49d2c48",
+    "title": "Google Pics is like Canva, but with even more AI",
+    "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-01T16:00:00+00:00",
+    "content_snippet": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed to give more granular control over prompt-based image making and manipulation, allowing [&#8230;]",
+    "title_zh": "Google Pics：比Canva更AI的谷歌设计工具",
+    "summary_zh": "谷歌为Workspace用户推出全新AI创意设计工具套件Google Pics，基于Gemini和Nano Banana模型，旨在让企业更便捷地编辑和生成专业级AI图像。",
+    "key_points": [
+      "Google Pics是面向Workspace用户的AI设计工具套件",
+      "基于Gemini和Nano Banana模型，提供精细化图像生成与编辑",
+      "目标是简化企业创建专业级AI图像的流程"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e20f78792bc22b1da146b9f04f55d6bc",
+    "title": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-01T15:52:04+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/\"> <img alt=\"YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]\" src=\"https://preview.redd.it/iywwsh48kxmh1.png?width=140&amp;height=50&amp;auto=webp&amp;s=d0bd35ce7bd7834bb1b97467da6c05a4b8c904ad\" title=\"YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>YOLO26",
+    "title_zh": "YOLO26-RGB：将YOLO26的深度训练骨干网络重新用于图像去雨",
+    "summary_zh": "一项研究将YOLO26模型的深度训练骨干网络重新利用，用于图像去雨任务，展示了模型在不同视觉任务间的迁移能力。",
+    "key_points": [
+      "研究将YOLO26的深度训练骨干网络应用于图像去雨",
+      "属于模型架构的跨任务迁移探索",
+      "为计算机视觉底层任务提供了新思路"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
