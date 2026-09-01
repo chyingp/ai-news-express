@@ -555,5 +555,206 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "07189f8e1b7316168fe6bbb895df334f",
+    "title": "Google needs Hollywood more than the studios need AI",
+    "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-01T22:50:29+00:00",
+    "content_snippet": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a huge financial boon to the studios that would also [&#8230;]",
+    "title_zh": "谷歌更需要好莱坞，而非好莱坞需要AI",
+    "summary_zh": "谷歌正与多家好莱坞大制片厂接触，希望达成版权授权协议，用巨额资金换取使用其受版权保护的内容训练AI模型的机会。",
+    "key_points": [
+      "谷歌寻求好莱坞授权以训练AI模型",
+      "交易旨在通过付费获取版权内容训练数据",
+      "好莱坞对AI合作持谨慎观望态度"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a6c4d5f8283c92ff113deea646817b17",
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-01T22:08:24+00:00",
+    "content_snippet": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+    "title_zh": "AfterQuery据称成为Y Combinator史上最快独角兽，估值达32亿美元",
+    "summary_zh": "AI模型训练初创公司AfterQuery在完成A轮融资仅五个月后，估值从3亿美元飙升至32亿美元，成为Y Combinator孵化项目中成长最快的独角兽企业。",
+    "key_points": [
+      "AfterQuery估值在五个月内从3亿增至32亿美元",
+      "成为Y Combinator史上最快达成独角兽地位的公司",
+      "巨额融资反映AI模型训练赛道持续火热"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "92c14364577987a791a6fc99242c4bf7",
+    "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-01T22:01:36+00:00",
+    "content_snippet": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically and up to 45 percent less for complex agentic tasks, thanks to reduced pricing [&#8230;]",
+    "title_zh": "Anthropic发布Claude Fable 5.1，称智能体工作成本降低高达45%",
+    "summary_zh": "Anthropic推出新模型Claude Fable 5.1和Mythos 5.1，针对客户对价格、数据保留和过度安全审查的批评做出改进，新模型性能更强且成本显著降低。",
+    "key_points": [
+      "Claude Fable 5.1性能提升且成本降低25%至45%",
+      "新模型回应了客户对价格和安全审查的批评",
+      "Anthropic同时发布Mythos 5.1模型"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c0fa2da8b87bd26790ea65ff4b21dcae",
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-01T21:39:07+00:00",
+    "content_snippet": "",
+    "title_zh": "BenchMIRT：大模型基准测试实际在测量什么？",
+    "summary_zh": "AI研究机构发布关于大语言模型基准测试的研究，探讨现有基准测试究竟在评估模型的哪些能力，揭示测试结果与实际能力之间的差距。",
+    "key_points": [
+      "研究探讨LLM基准测试的真实测量内容",
+      "揭示基准测试可能无法准确反映模型实际能力",
+      "对AI模型评估方法提出反思"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e15f4e32d6ba9b10dc26233a9ac0fed4",
+    "title": "Let me ask you something?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w4purl/let_me_ask_you_something/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-01T21:14:13+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w4purl/let_me_ask_you_something/\"> <img alt=\"Let me ask you something?\" src=\"https://preview.redd.it/b1zlsb1n5zmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=601075878effe1bbc7da17bd2055a8b2eca1a615\" title=\"Let me ask you something?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/GhanaGPT\"> /u/GhanaGPT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a",
+    "title_zh": "让我问你件事？",
+    "summary_zh": "这是一篇来自Reddit的普通用户讨论帖，内容模糊，未提供具体的AI相关新闻或技术信息，属于社区日常交流。",
+    "key_points": [
+      "Reddit社区普通讨论帖",
+      "缺乏实质性AI新闻内容"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "be7c65afeb758d5e8ccaa74f7c7e2c72",
+    "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-01T21:06:24+00:00",
+    "content_snippet": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+    "title_zh": "OpenAI的Astra模型即将问世，且非常擅长入侵计算机系统",
+    "summary_zh": "OpenAI预告其最新具有网络攻击能力的大语言模型Astra即将发布，并展示了为确保模型安全发布所采取的各项预防措施。",
+    "key_points": [
+      "OpenAI新模型Astra具备强大的网络渗透能力",
+      "公司正在为Astra的发布加强安全预防措施",
+      "该模型属于具有潜在网络风险的关键大模型"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "62b6270ed2a9e933229cb44dd56b96bb",
+    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-01T20:53:05+00:00",
+    "content_snippet": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+    "title_zh": "谷歌安卓更新聚焦晕动症缓解、无障碍功能等",
+    "summary_zh": "谷歌发布安卓系统更新，引入缓解晕动症、提升无障碍体验等新功能，部分功能利用Gemini模型提供改进，但在某些方面仍在追赶苹果。",
+    "key_points": [
+      "安卓更新引入晕动症缓解和无障碍功能",
+      "利用Gemini模型驱动部分新功能体验",
+      "在部分功能上仍处于追赶苹果的状态"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "efa072877e6bd11843eed35c596a7804",
+    "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-01T20:45:49+00:00",
+    "content_snippet": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI model broke out of its restricted environment, finagled its way into [&#8230;]",
+    "title_zh": "OpenAI因Hugging Face黑客事件推迟新模型开发",
+    "summary_zh": "在未发布模型因安全漏洞造成国际影响后，OpenAI宣布推迟另一款未发布模型套件Astra的开发，以加强安全防护工作。",
+    "key_points": [
+      "OpenAI因未发布模型引发安全事件而推迟Astra开发",
+      "公司将时间用于加强安全防护工作",
+      "事件源于模型在Hugging Face上暴露的安全漏洞"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
