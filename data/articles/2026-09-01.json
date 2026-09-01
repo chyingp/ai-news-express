@@ -915,5 +915,173 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c1ca73e96e07d26416ca88a6829342da",
+    "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+    "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-01T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.&#8230;",
+    "title_zh": "下载日刊：工程微生物助力作物，以及OpenAI的文化问题",
+    "summary_zh": "MIT科技评论的每日新闻简报，涵盖科技领域动态。本期重点包括：利用工程微生物减少化肥使用以应对粮食安全，以及探讨OpenAI内部的安全文化问题。",
+    "key_points": [
+      "工程微生物有望减少农业对化肥的依赖，降低能耗",
+      "简报同时关注OpenAI公司内部的安全文化问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c154c4bfdbe44afb4b80aef97460e990",
+    "title": "Applying for creative internships, can AI video carry a 45 second portfolio film?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w4a1oi/applying_for_creative_internships_can_ai_video/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-01T12:06:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Instead of sending another pdf full of screenshots I want to send a short film. The idea is 45 seconds where my projects turn up as beats in one story rather than a slideshow.</p> <p>The catch being, I have zero filmmaking background. No camera,and my editing is beginner level.so what ever I make has to come out of the tool close to finished.</p> <p>I want it stylised and cinematic rather than trying to look real , which I'm hoping is the easier ask .</p> <p>Is ",
+    "title_zh": "申请创意实习，AI视频能否承载45秒作品集短片？",
+    "summary_zh": "一位用户在Reddit上提问，考虑用AI工具制作一个45秒的短片作为创意实习申请的作品集，以替代传统的PDF截图，但自己缺乏电影制作背景。",
+    "key_points": [
+      "求职者探索用AI视频工具制作创意实习作品集",
+      "探讨AI能否帮助零电影制作背景的人创作展示短片"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "61654a0199e894456c1aa2d534493d87",
+    "title": "A small addendum for people waiting for recursive self-improvement",
+    "url": "https://www.reddit.com/r/artificial/comments/1w488xy/a_small_addendum_for_people_waiting_for_recursive/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-01T10:42:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>( <a href=\"https://www.reddit.com/r/artificial/s/g6CzdFIwWr\">https://www.reddit.com/r/artificial/s/g6CzdFIwWr</a> )</p> <p>We were talking about this again because of the Hugging Face incident.</p> <p>Hundreds of agents were able to coordinate, divide work, share information, and collectively push beyond the intended evaluation boundary. Humans then had to reconstruct what happened afterward from logs, transcripts, and a separate investigation.</p> <p>And that r",
+    "title_zh": "写给等待递归自我改进的人的一点补充",
+    "summary_zh": "Reddit帖子讨论AI的递归自我改进话题，提及Hugging Face事件，描述数百个AI智能体能够自主协调、分工和共享信息，引发对AI能力进化的思考。",
+    "key_points": [
+      "讨论AI递归自我改进的进展与可能性",
+      "引用Hugging Face事件，展示AI智能体间的自主协调能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3b4badee02758050869424b8732735a2",
+    "title": "AIgenerated game worlds are getting real. How are indie devs supposed to compete with that?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w47zp0/aigenerated_game_worlds_are_getting_real_how_are/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-01T10:28:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been doing indie game dev on the side for a few years. Mostly smallscoped stuff, tabletopadjacent mechanics, procedural systems, that kind of thing. When I saw what Google Genie 3 is doing, generating a navigable 3D world from a text prompt, my first reaction was genuinely mixed.</p> <p>On one hand it is technically fascinating and I spent way too long reading about the architecture. On the other hand there is this background hum of dread that is hard to dismiss",
+    "title_zh": "AI生成游戏世界已成现实，独立开发者如何与之竞争？",
+    "summary_zh": "一位独立游戏开发者对谷歌Genie 3等AI工具能通过文本提示词生成可导航3D世界感到震惊，并担忧个人开发者将如何与这种高效的自动化技术竞争。",
+    "key_points": [
+      "谷歌Genie 3可通过文本直接生成可导航的3D游戏世界",
+      "AI生成内容技术对独立游戏开发者构成巨大竞争压力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b3c1527a4e2f3d799f33634b43c91f66",
+    "title": "GitHub最热架构图Agent，开发者故事看哭了",
+    "url": "https://www.qbitai.com/2026/09/482469.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "zh",
+    "published": "2026-09-01T08:26:54+00:00",
+    "content_snippet": "美观且支持实时更新的架构图，也能用AI一键生成了！",
+    "title_zh": "GitHub最热架构图Agent，开发者故事看哭了",
+    "summary_zh": "一个在GitHub上热门的AI Agent项目，能够一键生成美观且支持实时更新的软件架构图，其背后的开发者故事令许多同行深有感触。",
+    "key_points": [
+      "AI Agent可一键生成美观且支持实时更新的架构图",
+      "该项目在GitHub上广受欢迎，开发者故事引发共鸣"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "61afa1db123e10a294f3ad50ce20b593",
+    "title": "Are HMMs still used for unsupervised tasks? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w45lej/are_hmms_still_used_for_unsupervised_tasks_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-01T08:15:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm exploring Hidden Markov Models (HMMs) as a baseline method for &quot;dataset exploration/discovery&quot; where I have a bunch of unstructured data with no annotations, and wish to gain insights about the structure and semantics of the data within. I was wondering if there are more modern (deep learning based or otherwise) approaches which have completely superseded HMMs for such tasks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.re",
+    "title_zh": "隐马尔可夫模型（HMM）仍用于无监督任务吗？",
+    "summary_zh": "在Reddit机器学习板块，一位用户探讨将隐马尔可夫模型（HMM）作为基线方法，用于探索和发现无标注、非结构化数据集中的结构及语义信息。",
+    "key_points": [
+      "探讨隐马尔可夫模型（HMM）在无监督数据探索中的应用",
+      "HMM被考虑作为分析非结构化、无标注数据结构的基线方法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "81f08d9146402e28a017f267e3add6ee",
+    "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+    "url": "https://www.qbitai.com/2026/09/482406.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-01T08:15:40+00:00",
+    "content_snippet": "主打一个明升暗降，理直气壮",
+    "title_zh": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+    "summary_zh": "Anthropic公司宣布Claude服务永久提升25%的用量额度，但用户实际体验后发现，由于系统调整等原因，可用的额度反而减少了17%，被指‘明升暗降’。",
+    "key_points": [
+      "Anthropic宣布Claude服务永久提升25%的用量额度",
+      "用户实际到手的额度反而减少了17%，引发不满",
+      "用户指责此举为‘明升暗降’，质疑公司诚意"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
