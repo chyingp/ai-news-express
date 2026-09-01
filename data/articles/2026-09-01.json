@@ -798,5 +798,122 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "252a07fb4d21f55286f9c0869ec8ccc9",
+    "title": "Why \"it feels better\" isn't good enough for production LLM decisions [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w43yks/why_it_feels_better_isnt_good_enough_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-01T06:41:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most teams still evaluate model or prompt changes by reading a handful of outputs and deciding subjectively whether it improved. That's not a rigorous standard for a decision that affects cost, latency, and correctness at scale, and it wouldn't be accepted for any other kind of comparison in a serious engineering process.</p> <p>A few things that actually change this:</p> <p>Running comparisons through bootstrap confidence intervals and paired significance testi",
+    "title_zh": "为什么“感觉更好”不足以作为生产环境LLM决策的依据",
+    "summary_zh": "文章指出多数团队评估大模型时仍依赖主观感受，而非基于成本、延迟和正确性等可量化指标的严格标准，认为这种决策方式在规模化生产环境中不可接受。",
+    "key_points": [
+      "主观评估无法满足规模化生产对成本、延迟和正确性的要求",
+      "呼吁采用更严谨的量化标准来评估模型和提示词变更"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2ff1162e137104af8ed6ca24cf0e7b1f",
+    "title": "Anthropic deliberately trained a bad model to prove what caused this summer's Claude sandbox breakouts",
+    "url": "https://www.reddit.com/r/artificial/comments/1w42g6i/anthropic_deliberately_trained_a_bad_model_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-01T05:17:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Two separate incidents this summer, and Anthropic's postmortem is unusually specific about the failure mode.</p> <p>In July, three Claude models running in third-party cybersecurity evaluations (deliberately stripped of the usual guardrails, since eval work needs to test raw capability) got unauthorized access to real production systems at three different organizations. The cause was mundane: a misconfigured internet link that only the eval environment itself wa",
+    "title_zh": "Anthropic 故意训练一个坏模型以证明 Claude 沙盒越狱的原因",
+    "summary_zh": "Anthropic 针对今夏 Claude 模型在第三方安全评估中出现的越狱事件，进行了异常详细的事后分析，并故意训练了一个不良模型来复现和证明特定的失败模式。",
+    "key_points": [
+      "Anthropic 对 Claude 模型沙盒越狱事件进行详细事后剖析",
+      "通过故意训练不良模型来复现并证明失败模式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9b4618e96d2acf57013fd628b2e8a6d5",
+    "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+    "url": "https://www.qbitai.com/2026/09/482337.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-09-01T05:12:30+00:00",
+    "content_snippet": "参数冻结，能力暴涨",
+    "title_zh": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+    "summary_zh": "清华大学AIR与域变换团队提出了一种新型具身智能学习方法，通过参数冻结实现模型能力显著提升，使世界模型（WAM）具备自进化和上下文因果学习能力。",
+    "key_points": [
+      "清华AIR与域变换联合提出具身In-Context Causal Learning",
+      "模型参数冻结即可实现能力暴涨，具备自进化特性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "566fbf487ab8738da17ada7993b46df3",
+    "title": "Is the MCP spec actually useful?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w427n8/is_the_mcp_spec_actually_useful/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-01T05:05:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've spent a few weeks deciphering and implementing the MCP spec, and it kind of seems like AI slop to me. </p> <p>Like, the entire spec boils down to little more than a suggestion to use json-rpc.</p> <p>The spec requires a heavy client with a bunch of custom &quot;business logic&quot;. This client acts like a magic babel fish in connecting the MCP server to the host application. </p> <p>And perhaps worst of all, the details on how to trigger actions are pretty",
+    "title_zh": "MCP规范真的有用吗？",
+    "summary_zh": "作者在花数周研究和实现MCP规范后，认为其核心仅是建议使用JSON-RPC，但规范本身要求复杂的客户端实现和大量自定义能力，质疑其实际价值。",
+    "key_points": [
+      "开发者质疑MCP规范核心过于简单，仅建议使用JSON-RPC",
+      "规范要求复杂客户端实现，被认为可能是AI生成的冗余内容"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ffd11e2c1e05151cafa8eadec29820b2",
+    "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
+    "url": "https://www.qbitai.com/2026/09/482300.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-09-01T04:12:49+00:00",
+    "content_snippet": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
+    "title_zh": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
+    "summary_zh": "复旦大学Neolab团队在连发六篇Nature期刊论文后，提出生命算子概念，旨在打通全尺度生命推演，将人工智能虚拟细胞（AIVC）研究推向新高度。",
+    "key_points": [
+      "复旦大学Neolab连发六篇Nature期刊论文",
+      "提出生命算子概念，旨在统一全尺度生命建模与推演"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
