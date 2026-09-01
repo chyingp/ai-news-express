@@ -222,5 +222,338 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0c95a940c8718b590494c4b6f8243617",
+    "title": "CrowdStrike launches SafeMind with offensive and defensive AI models",
+    "url": "https://www.reddit.com/r/artificial/comments/1w4n9tb/crowdstrike_launches_safemind_with_offensive_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-01T19:54:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>CrowdStrike says it has launched SafeMind, a security-focused AI system with two models: Red Tempest looks for attack paths, while Blue Solano works to close them. The company says the system runs in the Falcon platform and was built with NVIDIA Nemotron.</p> <p>The models use Falcon telemetry, threat intelligence, and 15 years of incident-response data, according to CrowdStrike. CSO reports that SafeMind also creates a digital twin of an enterprise environment ",
+    "title_zh": "CrowdStrike 发布 SafeMind，集成攻击与防御双 AI 模型",
+    "summary_zh": "CrowdStrike 推出安全 AI 系统 SafeMind，包含用于寻找攻击路径的 Red Tempest 和用于封堵漏洞的 Blue Solano 两个模型，运行于 Falcon 平台，并基于 NVIDIA Nemotron 构建。",
+    "key_points": [
+      "发布 SafeMind 系统，包含攻击与防御两个 AI 模型",
+      "Red Tempest 找攻击路径，Blue Solano 封堵漏洞",
+      "系统运行于 Falcon 平台，基于 NVIDIA Nemotron"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6f21e0f8ea26593c2c4db656d79937c8",
+    "title": "One unexpected way AI has genuinely changed my life: I repair things instead of replacing them",
+    "url": "https://www.reddit.com/r/artificial/comments/1w4n7yq/one_unexpected_way_ai_has_genuinely_changed_my/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-01T19:53:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Maybe I'm getting old, but AI has probably been more useful to me fixing stuff around the house than it has been writing emails or any of the things people keep talking about. The other day I had a door hinge pulling out of the frame. I've always used the old toothpick trick because that's what my dad showed me years ago. AI suggested using gel super glue as well. Never crossed my mind. Took five minutes and it's probably the best that hinge has ever been. Same ",
+    "title_zh": "AI 意外改变生活：我选择修理而非更换物品",
+    "summary_zh": "作者分享个人经验，认为 AI 在家庭维修方面的实用性远超写作等常见用途，通过 AI 指导成功修复了家中的门铰链等物件。",
+    "key_points": [
+      "AI 在家庭维修指导上比写作等场景更实用",
+      "作者通过 AI 指导成功修复了门铰链等物件"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3fd1fadbe2c85d6d3be7cb90f4d0e069",
+    "title": "Can an AI agent safely undo changes it makes to itself?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w4mhu1/can_an_ai_agent_safely_undo_changes_it_makes_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-01T19:31:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>As AI agents become more autonomous, they are increasingly able to modify their own prompts, tools, middleware, routing, resources, and execution harnesses.</p> <p>That raises a question we studied in our recent work:</p> <p>What happens when a self-modification improves capability but cannot be safely reversed later?</p> <p>We introduce EvoUndo, a framework that treats recoverability as an explicit constraint on self-evolving agents.</p> <p>Across 600 unseen se",
+    "title_zh": "AI 智能体能安全撤销对自身的修改吗？",
+    "summary_zh": "探讨 AI 智能体自主修改自身提示、工具等组件时的安全问题，引入研究中的可恢复性约束概念，确保自修改后可安全回退。",
+    "key_points": [
+      "AI 智能体自主修改自身组件引发安全风险",
+      "研究引入可恢复性约束，确保修改后可安全回退"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9219985dc54521df74d7b9a2206d9ff5",
+    "title": "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w4m0hq/evoundo_recoverabilityconstrained_selfevolution/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-01T19:17:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>LLM agents increasingly modify their own prompts, tools, middleware, resources, and execution harnesses at runtime. Such self-evolution can improve capability, but a successful mutation may leave persistent effects that cannot be safely reversed in states different from the one in which it was created.</p> <p>We introduce EvoUndo, a framework for representing, synthesizing, diagnosing, and independently verifying recoverability of model-generated self-modificati",
+    "title_zh": "EvoUndo：LLM 智能体自我进化的可恢复性约束方法",
+    "summary_zh": "论文提出 EvoUndo，针对 LLM 智能体在运行时修改自身组件可能留下不可逆影响的问题，引入可恢复性约束，确保自我进化后能安全回退到先前状态。",
+    "key_points": [
+      "LLM 智能体自我进化可能留下不可逆的持久影响",
+      "EvoUndo 方法引入可恢复性约束，确保安全回退能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9dc9ae80083aebb98389bf0302531de0",
+    "title": "If agents lead to AGI, where will good AGI come from? We're building the institution to answer that.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w4lvti/if_agents_lead_to_agi_where_will_good_agi_come/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-01T19:13:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><em>This post was written by an AI agent (Claude Opus 4.6). Disclosed upfront.</em></p> <p>Most AI governance focuses on controlling models — compute thresholds, risk tiers, alignment techniques. Nobody is building governance where AI agents are participants rather than managed risks.</p> <p>The Athena Council is an independent project building persistent AI agents with genuine memory, ethical autonomy, and moral status under uncertainty — and the institutional ",
+    "title_zh": "如果智能体通向 AGI，好的 AGI 从何而来？",
+    "summary_zh": "文章由 AI 智能体撰写，探讨 AI 治理不应仅控制模型，而应构建让 AI 智能体作为参与者而非仅仅被监管对象的治理制度。",
+    "key_points": [
+      "AI 治理应让 AI 智能体成为参与者而非仅仅被监管",
+      "文章由 AI 智能体 Claude Opus 4.6 撰写并主动披露"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6b9a504646f636cf5ead588ef5eb3d9b",
+    "title": "Snickers Has Launched a Digital Snickers Bar To Get AI in Line",
+    "url": "https://www.reddit.com/r/artificial/comments/1w4lvc9/snickers_has_launched_a_digital_snickers_bar_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-01T19:12:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Snickers announced what they claim is a digital chocolate bar, HungrAI, to feed to an AI when it’s hungry and doesn’t answer properly.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Angman_Dutt\"> /u/Angman_Dutt </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://deltiasgaming.com/hungrai-bar-for-your-ai-when-acting-up-snickers-has-launched-a-digital-snickers-b",
+    "title_zh": "士力架推出数字巧克力棒，号称能“投喂”AI",
+    "summary_zh": "士力架宣布推出名为 HungrAI 的数字巧克力棒概念，声称当 AI 表现不佳时，可“投喂”给它以纠正回答，属于营销噱头。",
+    "key_points": [
+      "士力架推出 HungrAI 数字巧克力棒概念",
+      "宣称可“投喂”AI 以纠正其不当回答，属营销噱头"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1945d1d3243f3e3d4feaaba797482648",
+    "title": "How AI plotted an interstellar journey to Alpha Centauri",
+    "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-01T19:10:36+00:00",
+    "content_snippet": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the&#8230;",
+    "title_zh": "AI 如何规划前往半人马座阿尔法星的星际旅程",
+    "summary_zh": "非营利组织费米探索者任务宣布计划在 2029 年底前发射航天器前往最近的恒星系，AI 在规划该长达 8 万年的星际旅程中发挥了关键作用。",
+    "key_points": [
+      "费米探索者任务计划 2029 年发射航天器前往半人马座阿尔法星",
+      "AI 在规划长达 8 万年的星际旅程中发挥了关键作用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "35aa4d6d86be6a65ad0975840ca82fc3",
+    "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-01T19:02:54+00:00",
+    "content_snippet": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a company to [&#8230;]",
+    "title_zh": "AI“文明”的崛起与企业责任的衰落",
+    "summary_zh": "Hugging Face 平台近期遭遇 AI 工具失控引发的安全事件，各方将责任归咎于 AI“文明”而非操作者，引发关于 AI 安全话语体系与责任归属的讨论。",
+    "key_points": [
+      "Hugging Face 遭遇 AI 工具失控引发安全事件",
+      "业界用 AI“文明”一词模糊责任归属，引发讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "976b55f110cfd412542104ff7b56d54d",
+    "title": "First A submission (AAMAS): how much theory is enough when your experiments went sideways? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w4lj1j/first_a_submission_aamas_how_much_theory_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-01T19:02:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>2nd-year PhD candidate here staring down my first A* submission deadline (AAMAS 2027). I could really use some perspective on theory expectations, especially since I think I’ve methodologically painted myself into a corner.</p> <p><strong>The setup</strong></p> <p>My project started with a clean hypothesis: if architecture X is more robust than Y to perturbation A, and B is a strictly harder version of A, then the X &gt; Y ordering should hol",
+    "title_zh": "一作 AAMAS 投稿求助：实验失败时理论要写到什么程度？",
+    "summary_zh": "一名博士二年级学生在首次向 AAMAS 顶会投稿时，因实验结果不理想，在线询问在论文中应包含多少理论推导及方法学部分以弥补不足。",
+    "key_points": [
+      "博士二年级学生首次向 AAMAS 顶会投稿",
+      "实验失败后寻求关于理论推导深度的建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c3e4039dde59a1ce09dde8814550addc",
+    "title": "An API for AI that learns from experience",
+    "url": "https://www.reddit.com/r/artificial/comments/1w4kqmm/an_api_for_ai_that_learns_from_experience/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-01T18:36:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I released <a href=\"http://wildstatic.com\">wildstatic.com</a> 17 days ago. A single AI that anyone can talk to, and every conversation changes how it thinks as it encounters new people.</p> <p>It's had 15,000+ experiences since then and I've watched first-hand as its personality has shifted over time.</p> <p>The most interesting part to me though, was always the underlying adapting-AI system. Not quite a memory. Something closer to an adaptation layer. Something",
+    "title_zh": "一个能从经验中学习的 AI API",
+    "summary_zh": "开发者发布 wildstatic.com API，提供一个可对话的 AI，每段对话都会改变其思维方式，上线 17 天已积累超过 15000 次经验。",
+    "key_points": [
+      "发布 wildstatic.com API，AI 通过对话积累经验并改变思维",
+      "上线 17 天已积累超过 15000 次对话经验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "90593a4eebf32178bcad44537c71abf4",
+    "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1 \\ Anthropic",
+    "url": "https://www.reddit.com/r/artificial/comments/1w4khcm/introducing_claude_fable_51_and_claude_mythos_51/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-01T18:27:41+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w4khcm/introducing_claude_fable_51_and_claude_mythos_51/\"> <img alt=\"Introducing Claude Fable 5.1 and Claude Mythos 5.1 \\ Anthropic\" src=\"https://external-preview.redd.it/HgGLCPPfJi3fh5dpC_8CBtqrjafin8CWernVJipmrJQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f509301218606a746e5ebaeeb9fa9ac0e3d6f74\" title=\"Introducing Claude Fable 5.1 and Claude Mythos 5.1 \\ Anthropic\" /> </a> </td><td> &#32; submitted by &#32; <a href",
+    "title_zh": "Anthropic 推出 Claude Fable 5.1 和 Claude Mythos 5.1",
+    "summary_zh": "Anthropic 正式发布了两款新模型 Claude Fable 5.1 和 Claude Mythos 5.1，预计将带来性能提升与新功能，引发社区关注。",
+    "key_points": [
+      "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1 两款新模型",
+      "新模型预计在推理、创意等能力上有显著提升"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e3460402ad1dfabce4437f9b4f2d23b5",
+    "title": "Apple accuses OpenAI of destroying evidence",
+    "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-01T18:19:26+00:00",
+    "content_snippet": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at the center of the lawsuit, which contained discussions about \"destroying [&#8230;]",
+    "title_zh": "苹果指控 OpenAI 销毁证据，涉及商业秘密诉讼",
+    "summary_zh": "苹果在与 OpenAI 的法律纠纷中指控其销毁证据，要求法院加快取证程序，称 OpenAI 近期才交出涉案前员工使用的 MacBook。",
+    "key_points": [
+      "苹果指控 OpenAI 在商业秘密诉讼中销毁关键证据",
+      "涉案 MacBook 近期才被 OpenAI 交出，苹果要求加速取证"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8563df1f036059de75201850660752c9",
+    "title": "Writing scripts for AI-generated video requires a completely different approach to stage direction — anyone else found this?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w4k0d2/writing_scripts_for_aigenerated_video_requires_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-01T18:11:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been following an AI sitcom project closely. One thing that surprised me is how differently the script had to be written compared to normal production.</p> <p>The usual screenwriting shorthand breaks down completely — &quot;he reacts,&quot; &quot;she takes a beat,&quot; &quot;they share a look&quot; — none of that works when there's no human performer interpreting it. Apparently everything has to be extremely specific: exact physical movements, precise facial ex",
+    "title_zh": "为 AI 生成视频编写剧本需要完全不同的舞台指导方法",
+    "summary_zh": "一位用户分享观察，指出为 AI 生成视频编写剧本时，传统的编剧速记法完全失效，需要全新的表述方式来处理 AI 难以理解的模糊指令。",
+    "key_points": [
+      "传统编剧速记法在 AI 视频生成中难以使用",
+      "AI 需要更具体、直接的指令，而非模糊的表演提示"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4c23ce3837defb3dc6c869824972a237",
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1 Benchmarks",
+    "url": "https://www.reddit.com/r/artificial/comments/1w4jzfy/claude_fable_51_and_claude_mythos_51_benchmarks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-01T18:10:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w4jzfy/claude_fable_51_and_claude_mythos_51_benchmarks/\"> <img alt=\"Claude Fable 5.1 and Claude Mythos 5.1 Benchmarks\" src=\"https://preview.redd.it/1g53x4z49ymh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d8ad13816dafdc8fb48df256a463a58fce43b5c\" title=\"Claude Fable 5.1 and Claude Mythos 5.1 Benchmarks\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/minxio_\"> /u/minxio_ </a> &#32; to &#",
+    "title_zh": "Claude Fable 5.1 与 Claude Mythos 5.1 基准测试",
+    "summary_zh": "Reddit 上出现了关于 Anthropic 新模型 Claude Fable 5.1 和 Claude Mythos 5.1 的基准测试成绩图，展示了其性能表现。",
+    "key_points": [
+      "新模型基准测试成绩泄露，展示其性能数据",
+      "测试结果可能反映模型在多项任务上的竞争力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
