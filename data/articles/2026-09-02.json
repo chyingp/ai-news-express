@@ -1153,5 +1153,302 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "93049f4e3b043fc7c2439d170758978d",
+    "title": "What if tokens are not the giant labs' end game?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w5d0zj/what_if_tokens_are_not_the_giant_labs_end_game/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-02T15:07:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Everyone talks about how inference isn’t profitable enough and how, eventually, open-source models will be just as good as frontier models at a fraction of the cost.</p> <p>But what if, at some point, OpenAI or Anthropic simply stops releasing its best models publicly and develops oracle-level intelligence in-house?</p> <p>They could then sell access to that intelligence to companies for billions for R&amp;D, or use it themselves for almost anything: finance, dr",
+    "title_zh": "如果Token并非大型AI实验室的终极目标？",
+    "summary_zh": "Reddit讨论帖探讨了大型AI公司（如OpenAI、Anthropic）可能停止发布最强模型，转向内部使用以构建更深护城河的可能性，而开源模型将逐渐逼近其性能。",
+    "key_points": [
+      "探讨AI巨头可能不再公开最先进模型的前景",
+      "开源模型与前沿模型性能差距正在缩小",
+      "推理服务盈利困境或促使巨头改变策略"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b655f5964665672692784cc9ff70263e",
+    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-02T15:01:23+00:00",
+    "content_snippet": "HiddenLayer has raised a $100M Series B from Delta-v Capital, Ten Eleven Ventures, Morgan Stanley, Microsoft's M12, Booz Allen Hamilton, and others.",
+    "title_zh": "AI安全公司HiddenLayer获1亿美元融资，应对企业AI安全需求激增",
+    "summary_zh": "AI安全初创公司HiddenLayer完成1亿美元B轮融资，投资方包括Delta-v Capital、微软M12基金等，旨在满足企业日益增长的AI部署安全需求。",
+    "key_points": [
+      "HiddenLayer完成1亿美元B轮融资",
+      "微软M12基金等多家机构参与投资",
+      "企业AI安全部署需求推动融资"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "45920ada7bdc4dc15642a3d2404a63f9",
+    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-02T14:56:34+00:00",
+    "content_snippet": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+    "title_zh": "亚马逊Alexa购物AI新增诈骗信息识别功能",
+    "summary_zh": "亚马逊为Alexa购物助手添加诈骗检测功能，可验证用户收到的可疑邮件、短信等是否真的来自亚马逊，提升购物安全性。",
+    "key_points": [
+      "亚马逊Alexa购物助手新增防诈骗功能",
+      "能够验证可疑邮件和短信的真实性",
+      "旨在提升用户购物安全体验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "793b4f2898e9ab1970d530bb5aa3773d",
+    "title": "Detailed explanation of how to create a text-to-image model from scratch. [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w5c9rd/detailed_explanation_of_how_to_create_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-02T14:40:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Jasper Research just released a cookbook on <strong>how to build a text-to-image model from scratch.</strong></p> <p>It shares the full reasoning and intermediate results, making it ideal if you want to deep-dive into text-to-image models, or if you are curious about how frontier labs build them.</p> <p><strong>The cookbook also includes a 100M-image dataset and a codebase with a tiny model, so you can train a text-to-image model from scratch.</strong></p> <p>He",
+    "title_zh": "从零开始构建文本到图像模型的详细教程",
+    "summary_zh": "Jasper Research发布了一份从零开始构建文本到图像模型的教程，分享了完整的推理过程和中间结果，适合深度学习该领域的研究者。",
+    "key_points": [
+      "Jasper Research发布免费文本到图像模型教程",
+      "教程包含完整推理过程和中间结果",
+      "适合深入学习和研究图像生成模型"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "30718c32ade3c4e24b6e0e06f908a48c",
+    "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-02T14:35:03+00:00",
+    "content_snippet": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday by the students, teachers, and the principal [&#8230;]",
+    "title_zh": "OpenAI因加拿大校园枪击案面临数十起新诉讼，被指控协助和教唆",
+    "summary_zh": "OpenAI及其CEO Sam Altman面临30起新诉讼，被指控为加拿大Tumbler Ridge校园枪击案嫌疑人提供了协助和鼓励，案件在加州联邦法院提起。",
+    "key_points": [
+      "OpenAI因枪击案面临30起新诉讼",
+      "被指控为枪手提供协助和鼓励",
+      "案件在加州联邦法院提起"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24ecf9915c34c40316d6bb733343a3ec",
+    "title": "NYC bans AI use for students until they reach high school",
+    "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-02T14:30:00+00:00",
+    "content_snippet": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced alongside additional limits on digital devices and a [&#8230;]",
+    "title_zh": "纽约市禁止高中生以下学生使用AI",
+    "summary_zh": "纽约市市长宣布一项新政策，在2026-2027学年对约60万名学前班至八年级的学生实施为期一年的AI使用禁令，旨在保护低龄学生。",
+    "key_points": [
+      "纽约市禁止低年级学生使用AI",
+      "禁令影响约60万公立学校学生",
+      "为期一年，自2026-2027学年起生效"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "72a4cc5e40be274cdc05a8ce391223a4",
+    "title": "Classics departments are disappearing and AI cannot even read their texts. The polytonic Greek problem nobody talks about.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w5buz3/classics_departments_are_disappearing_and_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-02T14:24:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Every major AI model on market today fails at polytonic Ancient Greek. Not a little. Completely. Ask ChatGPT to parse a sentence from Aristotle's Nicomachean Ethics in original Greek and watch what happens. It confuses accents, drops breathings, produces Modern Greek where polytonic should be. The entire Corpus Aristotelicum, 2,400 years of philosophical reasoning, is invisible to the systems we call &quot;intelligent.&quot;</p> <p>The reason is technical but si",
+    "title_zh": "古典学系在消失，AI却连其文本都读不懂：被忽视的多音调希腊语问题",
+    "summary_zh": "主流AI模型在解析多音调古希腊语时完全失败，会混淆重音符号、忽略送气符号，甚至生成现代希腊语，而古典学系的减少加剧了该问题的忽视。",
+    "key_points": [
+      "主流AI模型完全无法处理多音调古希腊语",
+      "错误包括混淆重音、忽略送气符号等",
+      "古典学系式微加剧了该问题的忽视"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "95ab2fd30b82bdfb1a036e4b33751c39",
+    "title": "Can anyone explain how this works to me? Is it a scam? This person says they'll send me a computer and pay me $200 per week to keep it on 24/7",
+    "url": "https://www.reddit.com/r/artificial/comments/1w5bpww/can_anyone_explain_how_this_works_to_me_is_it_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-02T14:19:25+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w5bpww/can_anyone_explain_how_this_works_to_me_is_it_a/\"> <img alt=\"Can anyone explain how this works to me? Is it a scam? This person says they'll send me a computer and pay me $200 per week to keep it on 24/7\" src=\"https://preview.redd.it/xqddlfbq84nh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=941b4838fbb29f573edbf8294bc4f90c5e55c79e\" title=\"Can anyone explain how this works to me? Is it a scam? This person says th",
+    "title_zh": "有人送电脑并每周付200美元让我保持开机，这是骗局吗？",
+    "summary_zh": "Reddit用户发帖询问一种可疑提议：对方提供电脑并支付每周200美元，仅要求保持设备24小时开机，帖子在讨论这是否为骗局。",
+    "key_points": [
+      "用户收到可疑的‘免费电脑+周薪200美元’提议",
+      "要求仅需保持设备24小时开机",
+      "发帖者及社区讨论其是否为骗局"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "00901003303940b8cb1c76bea66ecca6",
+    "title": "AI coding tools are saving me hours but I keep secondguessing whether I actually understand what I shipped",
+    "url": "https://www.reddit.com/r/artificial/comments/1w5bkf2/ai_coding_tools_are_saving_me_hours_but_i_keep/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-02T14:13:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been building a small SaaS for about six months now, invoice automation for freelancers, and I lean on AI coding assistants pretty heavily since I'm not a trained developer. The thing that keeps nagging at me: the code works, users are signing up, but I didn't write most of it in any traditional sense. I described problems and iterated on outputs.</p> <p>That felt fine at first. Now I'm looking at scaling questions and realizing I have these gaps where I genuine",
+    "title_zh": "AI编程工具节省时间，但我总怀疑自己是否真的理解代码",
+    "summary_zh": "一位非专业开发者分享使用AI编程助手构建SaaS产品的体验，虽然代码能运行且用户注册，但对自己未亲手编写代码、理解不深感到不安。",
+    "key_points": [
+      "非专业开发者用AI工具构建SaaS产品",
+      "代码可运行但开发者对理解不深感到不安",
+      "反映了AI辅助编码带来的能力焦虑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cace03f5f4d29cc1345180d8c9154068",
+    "title": "United States files Statement of Interest in OpenAI lawsuits: AI training is fair use; “dilution” is “deeply flawed” theory, in the view of the United States.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w5bjeo/united_states_files_statement_of_interest_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-02T14:12:37+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w5bjeo/united_states_files_statement_of_interest_in/\"> <img alt=\"United States files Statement of Interest in OpenAI lawsuits: AI training is fair use; “dilution” is “deeply flawed” theory, in the view of the United States.\" src=\"https://external-preview.redd.it/lC5hJf3xH7mUUh2Z-xW-GOYZjdQgR2HkM0tmo3a7bNo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=675d7302f7a3a63685aa6e4972946b3cb52b3848\" title=\"United States files Sta",
+    "title_zh": "美国在OpenAI诉讼中提交利益声明：AI训练属合理使用",
+    "summary_zh": "美国政府在OpenAI相关诉讼中提交利益声明，认为AI训练属于合理使用，并称原告的‘稀释’理论存在重大缺陷，表达了联邦政府的官方立场。",
+    "key_points": [
+      "美国政府认为AI训练属于合理使用",
+      "认定原告的‘稀释’理论存在重大缺陷",
+      "在OpenAI相关诉讼中提交官方立场"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6093921c4fb3b12e693c6db4c4c36a96",
+    "title": "Adobe acquires Indian market intelligence startup Rilo",
+    "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-02T14:03:57+00:00",
+    "content_snippet": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+    "title_zh": "Adobe收购印度市场情报初创公司Rilo",
+    "summary_zh": "Adobe完成了其在印度的第二笔收购，收购了市场情报初创公司Rilo，此前Adobe曾于2023年收购Rephrase.ai。",
+    "key_points": [
+      "Adobe收购印度市场情报初创Rilo",
+      "这是Adobe在印度继Rephrase.ai后的第二笔收购"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c0e30f013c2a0c776f0a5d57d7828e5c",
+    "title": "Facilitating AI integration with simplicity at scale",
+    "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-02T14:00:00+00:00",
+    "content_snippet": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than&#8230;",
+    "title_zh": "以规模化简易性促进AI集成",
+    "summary_zh": "随着公司规模扩大，运营技术可能从资产变为负担。断开连接的系统、特定站点工具和手动操作会导致数据孤岛，阻碍问题发现和协调响应。",
+    "key_points": [
+      "企业扩张中，技术易形成数据孤岛造成负担",
+      "AI集成需简化流程以应对规模化挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
