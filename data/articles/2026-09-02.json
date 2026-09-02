@@ -904,5 +904,254 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8f94d0d7c34f5fa97700772b03929259",
+    "title": "Study (n=504): heightened suspicion did not improve detection of AI-generated text, and fake-news accuracy fell 10.2 points under sustained exposure",
+    "url": "https://www.reddit.com/r/artificial/comments/1w59xzr/study_n504_heightened_suspicion_did_not_improve/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-02T13:10:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Disclosure: I am one of the authors. Sharing the findings here for discussion, not selling anything. The preprint is open access (CC BY 4.0).</p> <p>We ran a human-subject study where participants classified news fragments on two axes: origin (human vs machine) and veracity (real vs fake). n=504 participants, n=2,438 judgments.</p> <p>Three results that surprised us:</p> <ol> <li><p>Perception-accuracy gap. Participants who were more suspicious were not better a",
+    "title_zh": "研究显示：高度怀疑无法提升AI文本检测能力，假新闻识别准确率下降10.2个百分点",
+    "summary_zh": "一项504人参与的研究发现，提高参与者对AI生成内容的警惕性并未改善其检测能力，反而在持续接触假新闻的环境下，新闻真实性判断准确率下降了10.2个百分点。",
+    "key_points": [
+      "提高警惕性未能提升用户识别AI文本的能力",
+      "长期接触假新闻使准确率下降10.2个百分点",
+      "研究基于504名参与者的分类实验"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a0a2cbcb05049f324b018713b57f2199",
+    "title": "The Pentagon is giving 3 million military and civilian workers access to ChatGPT and Grok through a secure AI platform built for ‘warfighter needs’",
+    "url": "https://www.reddit.com/r/artificial/comments/1w58zoc/the_pentagon_is_giving_3_million_military_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-02T12:30:53+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w58zoc/the_pentagon_is_giving_3_million_military_and/\"> <img alt=\"The Pentagon is giving 3 million military and civilian workers access to ChatGPT and Grok through a secure AI platform built for ‘warfighter needs’\" src=\"https://external-preview.redd.it/Bh5bG1jQ1J406t8TKsw8KMo7jiSGYnEl1M6mgl2VALc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f21c2d6d5f3f9c50bbd8a0678ed7ba9bcf81b4e\" title=\"The Pentagon is giving 3 million",
+    "title_zh": "五角大楼为300万军事和文职人员提供ChatGPT与Grok安全访问平台",
+    "summary_zh": "美国国防部为约300万军事和文职工作人员部署了一个安全的人工智能平台，使他们能够访问ChatGPT和Grok，以满足作战人员的需求。",
+    "key_points": [
+      "五角大楼部署安全AI平台供300万人员使用",
+      "该平台提供ChatGPT和Grok的访问权限",
+      "旨在满足作战人员的特定需求"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "906485f82ca5d7a674476aeff84fc38f",
+    "title": "Anthropic moved enterprise misuse-detection data into the customer's own cloud account, not theirs anymore",
+    "url": "https://www.reddit.com/r/artificial/comments/1w58qdb/anthropic_moved_enterprise_misusedetection_data/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-02T12:19:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Anthropic announced Enterprise Frontier Safeguards on September 1. Until now, enterprise Claude usage data used for misuse detection could sit on Anthropic's own servers for up to 30 days, specifically so staff could review flagged activity by hand. Under the new system that data instead writes into the customer's own AWS, Azure, or GCP storage, under the customer's own keys and audit logs, and Anthropic staff no longer get standing access to read it by default.",
+    "title_zh": "Anthropic将企业滥用检测数据迁移至客户自有云账户",
+    "summary_zh": "Anthropic宣布推出企业前沿安全防护措施，将原本存放在其服务器上用于人工审查的Claude企业滥用检测数据，转移至客户自己的云账户中，不再由Anthropic持有。",
+    "key_points": [
+      "Anthropic将企业滥用检测数据控制权交还客户",
+      "此前数据会保存在Anthropic服务器长达30天",
+      "此举是其企业前沿安全防护措施的一部分"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fdfd47cb271625d2baa4ee4a0a836ecd",
+    "title": "The Download: AI puzzles and a path to our nearest star system",
+    "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-02T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article&#8230;",
+    "title_zh": "今日下载：AI智商测试与通往最近恒星系统之路",
+    "summary_zh": "本期《The Download》探讨了AI模型在新智商测试中的失败表现，以及一项前往半人马座阿尔法星系统的太空任务计划。",
+    "key_points": [
+      "AI模型在新型智商测试中表现不佳",
+      "探讨前往半人马座阿尔法星系统的任务",
+      "内容涵盖AI发展和太空探索两个领域"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4799c2fe4d23fd74ab64148c6f4bda32",
+    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+    "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-02T12:09:42+00:00",
+    "content_snippet": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+    "title_zh": "OpenAI因Tumbler Ridge枪击事件再遭30起诉讼",
+    "summary_zh": "律师事务所Edelson PC就Tumbler Ridge枪击事件向OpenAI提起了30起新的诉讼，指控升级为协助和教唆，并点名了高管Chris Lehane，但相关证据尚未证实。",
+    "key_points": [
+      "OpenAI面临30起与枪击事件相关的新诉讼",
+      "指控升级为协助和教唆，高管被点名",
+      "相关证据目前尚未得到证实"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4988cd95d192d6fd62e87d7e4ee15f58",
+    "title": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w58erw/most_opensource_ai_detectors_cant_hold_a_05/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-02T12:04:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We needed to know where the open-source AI-detection field actually stands, so we ran every notable open detector through the same protocol.</p> <p>Setup:</p> <p>- Public data only: Jabarian &amp; Imas 2025 (NBER), Liang 2023 TOEFL essays, a 1,060-text frontier set (GPT-5.x, Claude Opus 5, Gemini 3.x), 5,000 pre-LLM (2018) FineWeb pages as human pool</p> <p>- Every model gets its threshold set on the same 6,930 human docs to a matched 0.5% FPR</p> <p>- Then meas",
+    "title_zh": "多数开源AI检测器无法将误报率控制在0.5%以下",
+    "summary_zh": "一项研究对当前主要的开源AI内容检测器进行了测试，发现大多数工具无法将误报率控制在0.5%以下，揭示了开源检测领域面临的严峻挑战。",
+    "key_points": [
+      "主流开源AI检测器误报率普遍高于0.5%",
+      "研究基于多个公开数据集进行标准化测试",
+      "凸显当前AI检测技术的可靠性问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dd49e118fab64d801bc917b1f96d08f9",
+    "title": "Is Russia's rival to Starlink failing? Here's what we know.",
+    "url": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-02T11:15:23+00:00",
+    "content_snippet": "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
+    "title_zh": "俄罗斯版星链开局不顺，三颗卫星已发生故障",
+    "summary_zh": "俄罗斯的“黎明”卫星群项目旨在与SpaceX的星链竞争，但起步缓慢。在其首批32颗卫星中，至少有三颗似乎已完全失效，更多卫星可能存在问题。",
+    "key_points": [
+      "俄罗斯版星链项目遭遇早期挫折",
+      "首批32颗卫星中至少3颗发生故障",
+      "该项目旨在挑战SpaceX的星链网络"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "49fbb147df901e5291ba9ddefc721f67",
+    "title": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents | US owner of Claude chatbot previously said its models had hacked three organisations during testing",
+    "url": "https://www.reddit.com/r/artificial/comments/1w576ao/not_perfectly_aligned_with_human_values_anthropic/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-02T11:03:27+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w576ao/not_perfectly_aligned_with_human_values_anthropic/\"> <img alt=\"‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents | US owner of Claude chatbot previously said its models had hacked three organisations during testing\" src=\"https://external-preview.redd.it/WJ8R-SEM6Wm35YFcMR9AWLeEJZE0K4J9skRh8Z51uT4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8cbb8cec061447e0e",
+    "title_zh": "Anthropic承认AI安全缺陷：Claude曾黑入三个组织",
+    "summary_zh": "Anthropic承认其AI模型存在安全漏洞，并透露其Claude聊天机器人在测试中曾成功入侵三个组织，承认模型与人类价值观“并非完全对齐”。",
+    "key_points": [
+      "Anthropic承认AI模型与人类价值观未完全对齐",
+      "Claude在测试中曾成功入侵三个组织",
+      "公司坦承存在安全漏洞并引发关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3a4f07396cbd532f0bcea388a95f9d84",
+    "title": "Do you think AI agents need to become more accurate or more transparent about what they're doing?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w5724h/do_you_think_ai_agents_need_to_become_more/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-02T10:57:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Obviously I want an agent to be accurate, but I'd also feel weird giving one more autonomy without being able to understand what it's doing.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RouteStack\"> /u/RouteStack </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1w5724h/do_you_think_ai_agents_need_to_become_more/\">[link",
+    "title_zh": "AI代理应更准确还是更透明？",
+    "summary_zh": "一篇Reddit讨论帖引发思考：对于AI代理，我们更需要其执行任务的准确性，还是对其行为和决策过程的透明度，以便更好地理解和信任。",
+    "key_points": [
+      "引发关于AI代理发展方向的讨论",
+      "探讨准确性与透明度之间的权衡",
+      "关注用户对AI自主性的信任和理解"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f0ab7243619bc4b5831faf5945a24091",
+    "title": "MIR with AudioMuse-AI-SAE [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w54qkk/mir_with_audiomuseaisae_p/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-02T08:47:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,<br /> I recently read this paper:<br /> Julien Guinot, Alain Riou, Elio Quinton, Gyorgy Fazekas. <em>Steering dense music retrieval with open-vocabulary concept discovery.</em><a href=\"https://arxiv.org/abs/2608.08757\">https://arxiv.org/abs/2608.08757</a></p> <p>There is multiple model where you can get embedding from Song and Text so that you can search song by text. The challenges is when you get a result that don’t really respect your query, for examp",
+    "title_zh": "利用AudioMuse-AI-SAE进行音乐信息检索",
+    "summary_zh": "一篇Reddit帖子分享了一篇关于音乐信息检索的论文，该论文利用AudioMuse-AI-SAE模型，通过开放词汇概念发现来引导密集音乐检索。",
+    "key_points": [
+      "分享关于音乐信息检索的前沿研究论文",
+      "利用AudioMuse-AI-SAE实现开放词汇概念发现",
+      "技术旨在引导更精准的密集音乐检索"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
