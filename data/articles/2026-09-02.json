@@ -756,5 +756,153 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8472b775769788976f2d62472300ba9b",
+    "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+    "url": "https://www.qbitai.com/2026/09/483104.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-09-02T06:20:17+00:00",
+    "content_snippet": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+    "title_zh": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+    "summary_zh": "蚂蚁集团凭借OmniTable统一宽表系统荣获VLDB 2026工业赛道最佳论文。该系统能高效处理35PB级别的语料，将数据清洗处理效率提升了5.6倍，极大缓解了大模型训练数据准备的痛点。",
+    "key_points": [
+      "蚂蚁集团OmniTable系统获VLDB 2026工业最佳论文奖",
+      "该系统可处理35PB语料，数据清洗效率提升5.6倍",
+      "为大规模模型训练数据准备提供了高效解决方案"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5e0ba1ceefdcd4dec3ab3b72107d65d8",
+    "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+    "url": "https://www.qbitai.com/2026/09/483097.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-02T06:06:50+00:00",
+    "content_snippet": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
+    "title_zh": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+    "summary_zh": "前字节跳动和腾讯的强化学习与机器人专家孙鹏博士，于9月2日正式加入星尘智能。此举旨在加强该公司在Physical AI领域的技术实力，推进全栈布局。",
+    "key_points": [
+      "前字节跳动、腾讯机器人专家孙鹏博士加入星尘智能",
+      "孙鹏博士将助力星尘智能完善Physical AI技术布局",
+      "此次加盟是AI人才向机器人创新企业流动的又一案例"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b70b64a90382332b70d43e6b0125ce7d",
+    "title": "The yield imperative: Turning AI infrastructure into useful intelligence",
+    "url": "https://blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence/",
+    "source": "Microsoft AI Blog",
+    "source_zh": "微软官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-02T06:00:02+00:00",
+    "content_snippet": "<p>As we enter the next era, what will be the defining measure of our progress? Every industry has a word that shapes how it thinks. For pilots, it’s safety. For insurers, it’s risk. For the semiconductor industry, it’s yield. Yield does not ask how elegant the solution is, how many years it took or what...</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence/\">The yield imperative: Turning AI infrastructure ",
+    "title_zh": "收益至上：将AI基础设施转化为有效智能",
+    "summary_zh": "微软提出将AI基础设施效能类比半导体行业的“良率”（yield），强调AI发展的下一个关键衡量标准是能否将巨大的基础设施投入高效转化为有用的智能，而非单纯追求模型规模。",
+    "key_points": [
+      "微软提出以“良率”作为衡量AI基础设施效率的新标准",
+      "文章强调将AI算力高效转化为实际智能的重要性",
+      "这反映了业界从追求规模转向关注AI投资回报的趋势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "46702488db1f277462b1aad80f7d33f6",
+    "title": "Meet the MK Robot. Here is the hardware and AI roadmap I’m currently executing to take this physical build from a functional frame to a fully autonomous, interactive agent: Core Compute: Upgrading to a Raspberry Pi 5 (16 GB RAM) for edge processing",
+    "url": "https://www.reddit.com/r/artificial/comments/1w51715/meet_the_mk_robot_here_is_the_hardware_and_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-02T05:27:41+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w51715/meet_the_mk_robot_here_is_the_hardware_and_ai/\"> <img alt=\"Meet the MK Robot. Here is the hardware and AI roadmap I’m currently executing to take this physical build from a functional frame to a fully autonomous, interactive agent: Core Compute: Upgrading to a Raspberry Pi 5 (16 GB RAM) for edge processing\" src=\"https://preview.redd.it/h74lj1owl1nh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b2785bd0e34e54d619d",
+    "title_zh": "初识MK机器人：从基础框架到全自主交互代理的软硬件路线图",
+    "summary_zh": "一位Reddit用户正在开发名为MK的机器人项目，计划将其从功能框架升级为全自主交互代理。改造包括将核心计算单元升级为树莓派5，并重点用于边缘AI处理。",
+    "key_points": [
+      "个人开发者展示自制机器人MK的软硬件升级路线图",
+      "计划使用树莓派5进行边缘处理，实现自主交互",
+      "项目展示了个人开发者构建AI实体机器人的实践"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f288252ca0d0307fd7905544191d2ea0",
+    "title": "Astra's Unreadable Chain Of Thought?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w50jne/astras_unreadable_chain_of_thought/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-02T04:53:52+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w50jne/astras_unreadable_chain_of_thought/\"> <img alt=\"Astra's Unreadable Chain Of Thought?\" src=\"https://preview.redd.it/s8t8d73nf1nh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8311404dff0a4adf3b348df140fb06f3ade9e4e6\" title=\"Astra's Unreadable Chain Of Thought?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Astra's COT is Supposedly Abstracted or uninterpretable using looped transformers, im guessing for the s",
+    "title_zh": "Astra的思维链无法被解读？",
+    "summary_zh": "Reddit社区讨论谷歌DeepMind的AI助手Astra的思维链可能无法被人类读懂。用户推测其内部推理过程使用的语言或格式过于抽象，导致无法进行有效审查和解读。",
+    "key_points": [
+      "用户讨论谷歌Astra的思维链可能无法被人类解读",
+      "推测其内部推理使用了非自然语言或抽象格式",
+      "这引发了关于AI可解释性和审查机制的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2bd38468080a0f5160ad89fca1266970",
+    "title": "I regret reviewing for AAAI [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w4z75i/i_regret_reviewing_for_aaai_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-02T03:44:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Why did I sign up to review when it’s not reciprocal?</p> <p>Am I an idiot? Am I dumb to sacrifice some of my precious time outside of work to review these papers when I don’t even have to? Yes. </p> <p>I tell myself I’m giving something to the community. But all I’m really doing is pissing off the authors as I reject their papers. </p> <p>I really wanted to accept one of them too. But, it wasn’t as well done as I’d hoped. Strong reject. </p> <p>Nobody made me s",
+    "title_zh": "我后悔为AAAI审稿了",
+    "summary_zh": "一位机器学习研究人员在Reddit发帖表达对为AAAI会议审稿的后悔之情。他认为审稿工作费时费力，且缺乏实质性的回报，质疑这种无偿劳动对个人和社区的价值。",
+    "key_points": [
+      "研究人员抱怨为AAAI等学术会议审稿缺乏回报",
+      "审稿人认为牺牲个人时间进行无偿劳动不合理",
+      "帖子引发了关于学术社区审稿制度的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
