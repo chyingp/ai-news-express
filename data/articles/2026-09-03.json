@@ -296,5 +296,177 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "373be5400612a4c5d225aa823ab8c867",
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-02T20:19:14+00:00",
+    "content_snippet": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "title_zh": "OpenAI 新推理技术引发 AI 安全专家警觉",
+    "summary_zh": "OpenAI 的新模型 Astra 将采用“循环深度”技术，使模型能跳出大多数推理模型的顺序思维模式运行，此创新做法引发了 AI 安全专家的担忧。",
+    "key_points": [
+      "Astra 模型采用“循环深度”技术，突破传统顺序推理限制。",
+      "该技术引发 AI 安全专家的警觉与担忧。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "53d98970a69c31fd5ca8a6c1514f2340",
+    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-02T20:11:40+00:00",
+    "content_snippet": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the same introductory pricing as 3.7 Flash, $0.75 per million input tokens and $3.75 per million [&#8230;]",
+    "title_zh": "谷歌发布 Gemini 3.8 Flash，声称模型“更努力”但成本可能更高",
+    "summary_zh": "谷歌推出 Gemini 3.8 Flash 模型，距前代仅数周。该模型在复杂任务上执行更多推理步骤并迭代调用工具，性能更强，但可能增加使用成本。",
+    "key_points": [
+      "Gemini 3.8 Flash 发布，是六周内第三个 Flash 模型。",
+      "模型通过增加推理步骤和迭代工具调用提升性能。",
+      "定价与 3.7 Flash 持平，但实际使用成本可能更高。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "67ac38e631a2a6972ae1ae07d2c386eb",
+    "title": "Trump administration backs OpenAI in New York Times copyright battle",
+    "url": "https://www.reddit.com/r/artificial/comments/1w5kswn/trump_administration_backs_openai_in_new_york/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-02T19:41:26+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w5kswn/trump_administration_backs_openai_in_new_york/\"> <img alt=\"Trump administration backs OpenAI in New York Times copyright battle\" src=\"https://external-preview.redd.it/Yt6lM_CVF0tyEvISXz0hnrIgr8wApBafKdOGZPeCJ50.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c3b76c0fb7567a4c282ea1b6f56553ef844a3533\" title=\"Trump administration backs OpenAI in New York Times copyright battle\" /> </a> </td><td> &#32; submitted by &#32",
+    "title_zh": "特朗普政府支持 OpenAI 应对《纽约时报》版权诉讼",
+    "summary_zh": "特朗普政府表态支持 OpenAI，介入其与《纽约时报》的版权纠纷，这一立场可能对 AI 版权法律实践产生重要影响。",
+    "key_points": [
+      "特朗普政府公开支持 OpenAI 在版权诉讼中立场。",
+      "此案涉及 AI 训练数据版权使用的重大法律问题。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a03d72c7fbc7b69a8aa964504264e424",
+    "title": "I built an explainable bone-lesion screener for X-rays and ran it for £5 month [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w5iaz8/i_built_an_explainable_bonelesion_screener_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-02T18:14:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm a biomedical-to-CS student, and I wanted to see how far a genuinely explainable (Use of heatmapping) medical imaging prototype could get on near-zero infrastructure (the goal was for it to all cost me nothing but I ran into multiple problems with that restriction).</p> <p>It's a DenseNet-121 trained on BTXRD (3,746 radiographs), three classes: normal, benign, malignant. Malignant is only 9.1% of the data, so a model predicting &quot;not malignant&quot; score",
+    "title_zh": "我构建了一个可解释的骨病变 X 光筛查器，每月仅需 5 英镑运行",
+    "summary_zh": "一名生物医学转计算机科学的学生，利用热力图等技术，以极低成本构建了一个可解释的医学影像筛查原型，探索低基础设施下的 AI 医疗应用。",
+    "key_points": [
+      "个人项目使用热力图实现可解释的骨病变筛查。",
+      "原型在极低成本（每月 5 英镑）下运行。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5e8d637be2874ca84252e1b32416c02c",
+    "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+    "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-02T18:13:54+00:00",
+    "content_snippet": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+    "title_zh": "谷歌发布 Gemini 3.8 Flash，六周内第三个 Flash 模型",
+    "summary_zh": "谷歌再次更新其 Gemini Flash 模型，发布 3.8 版本，这是六周内发布的第三个 Flash 模型，其 Pro 模型更新似乎暂停。",
+    "key_points": [
+      "Gemini 3.8 Flash 是谷歌六周内发布的第三个 Flash 模型。",
+      "谷歌的 Pro 级模型更新似乎处于暂停状态。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "01be0a47d716a83c0870a60f47e628b3",
+    "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
+    "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-02T17:58:33+00:00",
+    "content_snippet": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
+    "title_zh": "特朗普政府或被迫公开 AI 安全测试的联邦保密规则",
+    "summary_zh": "因诉讼指控特朗普政府对前沿 AI 模型的秘密审查可能掩盖腐败，其可能被迫公开用于 AI 安全测试的联邦保密规则。",
+    "key_points": [
+      "诉讼指控特朗普政府的 AI 安全审查存在腐败风险。",
+      "政府可能被迫公开其 AI 安全测试的保密规则。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dda9391027329964e2fe1bbf5fe8baff",
+    "title": "Amazon’s AI assistant can now spot fake emails from the company",
+    "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-02T17:52:56+00:00",
+    "content_snippet": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about a message you received, and it will use AI to compare [&#8230;]",
+    "title_zh": "亚马逊 AI 助手现可识别假冒公司邮件",
+    "summary_zh": "亚马逊为其 AI 助手 Alexa 购物功能增加新特性，能帮助用户判断收到的邮件、短信或电话是否真正来自亚马逊，以对抗冒充诈骗。",
+    "key_points": [
+      "Alexa 购物功能新增 AI 验证，可识别假冒亚马逊的通信。",
+      "旨在打击冒充亚马逊的诈骗行为。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
