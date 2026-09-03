@@ -540,5 +540,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e77e322f2c6eafd78e9830bf9d10d3e9",
+    "title": "Introducing Human Tool, a Claude Code plugin that erodes your dignity",
+    "url": "https://www.reddit.com/r/artificial/comments/1w5qi0f/introducing_human_tool_a_claude_code_plugin_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-02T23:15:49+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w5qi0f/introducing_human_tool_a_claude_code_plugin_that/\"> <img alt=\"Introducing Human Tool, a Claude Code plugin that erodes your dignity\" src=\"https://external-preview.redd.it/9K6bIijQ_JF-76RI-NHP9TVnIZU_ejyvrfpO9X7Hg8M.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c65a4aa933f7fe29852b298adee9626d6fdc7c0\" title=\"Introducing Human Tool, a Claude Code plugin that erodes your dignity\" /> </a> </td><td> &#32; submitted by ",
+    "title_zh": "Introducing Human Tool, a Claude Code plugin that erodes your dignity",
+    "summary_zh": "Reddit 上发布了一款名为 Human Tool 的 Claude Code 插件，该插件被描述为能'侵蚀你的尊严'。帖子以幽默讽刺的方式探讨了开发者与 AI 工具之间的互动关系，可能涉及让 AI 向人类开发者索要验证或中断协助等反常规功能。",
+    "key_points": [
+      "一款讽刺性的 Claude Code 插件发布，旨在调侃 AI 与开发者的关系",
+      "插件功能可能涉及让 AI 工具中断服务或向人类提出要求",
+      "Reddit 社区讨论 AI 工具对开发者尊严和工作流程的潜在影响"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
