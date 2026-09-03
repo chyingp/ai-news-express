@@ -757,5 +757,476 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "50ec34929c4b4470328777bc74cc7538",
+    "title": "Top 3 frontier labs seem to be down right now. Ever seen this before?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6a6di/top_3_frontier_labs_seem_to_be_down_right_now/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-03T15:12:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Grok, Claude and ChatGPT are all down on pc and mobile. AWS issue? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Msun17\"> /u/Msun17 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1w6a6di/top_3_frontier_labs_seem_to_be_down_right_now/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments",
+    "title_zh": "三大前沿AI实验室同时宕机，你见过这种情况吗？",
+    "summary_zh": "Reddit用户报告Grok、Claude和ChatGPT同时在PC和移动端出现服务中断，猜测可能与AWS云服务问题有关，引发社区对AI服务集中化风险的讨论。",
+    "key_points": [
+      "Grok、Claude和ChatGPT同时出现大规模服务中断",
+      "用户推测故障可能与底层云服务AWS有关",
+      "事件引发对AI服务基础设施集中化风险的关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic",
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "427cc15486d0bdfcc57dc802397de906",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-03T15:02:08+00:00",
+    "content_snippet": "",
+    "title_zh": "推出WeatherNext 3：我们最先进、最准确的全球天气AI模型",
+    "summary_zh": "Google DeepMind发布新一代全球天气预报AI模型WeatherNext 3，该模型能更清晰地观测大气变化并更频繁地预测其行为，代表了深度学习在气象领域的重大进展。",
+    "key_points": [
+      "Google DeepMind发布最新全球天气AI模型WeatherNext 3",
+      "模型在预测大气变化方面具有更高清晰度和频率",
+      "标志深度学习在气象预报领域的又一次重大突破"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ebf8f5d0ca3e1b21f94175fc36828af",
+    "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+    "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-03T15:00:00+00:00",
+    "content_snippet": "Scientists at Google Deepmind and Google Research released a new artificial intelligence model for weather forecasting today that sees our changing atmosphere more clearly and predicts its behavior more often. WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques, and Google says it will start feeding [&#8230;]",
+    "title_zh": "谷歌最新AI天气模型让你再无借口忘带雨伞",
+    "summary_zh": "TechCrunch报道谷歌DeepMind与谷歌研究团队发布新一代AI天气预报模型WeatherNext 3，该模型能以更高精度和频率预测天气，特别是降雨和降雪，提供前所未有的分辨率。",
+    "key_points": [
+      "WeatherNext 3能以更高精度和频率预测天气",
+      "模型在预测降雨和降雪方面具有前所未有的分辨率",
+      "由谷歌DeepMind与谷歌研究团队科学家共同发布"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a6e3ba40636bde28c623f79f606d552c",
+    "title": "Google says its AI weather model is getting better",
+    "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-03T15:00:00+00:00",
+    "content_snippet": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five [&#8230;]",
+    "title_zh": "谷歌称其AI天气模型正在变得更好",
+    "summary_zh": "The Verge报道谷歌推出更新的AI天气模型WeatherNext 3，该模型在预测雨雪方面更准确，能够以“前所未有的分辨率”进行预报，并能更频繁地更新预测结果。",
+    "key_points": [
+      "WeatherNext 3在预测雨雪方面精度更高",
+      "新模型实现前所未有的预报分辨率",
+      "谷歌表示模型能更频繁地更新预报"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "90a0e5e49edb924b65a1ed76d304ab73",
+    "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-03T14:45:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>LLMs describe physics well but don't &quot;understand&quot; it in any grounded sense — they've learned statistical relationships between tokens like &quot;falls&quot; and &quot;gravity&quot;, not actual physical intuition. This is basically the Mary's Room problem: Mary knows every physical fact about color but has never seen one. LLMs are Mary.</p> <p>The idea I've been thinking about:</p> <ol> <li><p>Train a JEPA-style model inside a physics simulation (think ",
+    "title_zh": "用模拟环境中训练的JEPA世界模型为LLM提供基础：有人尝试过吗？",
+    "summary_zh": "Reddit用户探讨将基于JEPA的世界模型与大型语言模型结合的可能性，以解决LLM缺乏真实物理直觉的问题。作者将此比喻为“玛丽房间”思想实验，旨在探寻AI的真正理解能力。",
+    "key_points": [
+      "讨论使用JEPA世界模型为LLM提供物理直觉基础",
+      "用玛丽房间思想实验比喻LLM缺乏真实理解",
+      "尝试结合模拟环境与世界模型以突破LLM局限"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "61374b0ced3d130b6b9ca322e8e09bd7",
+    "title": "Rogue AI agent incidents fuel push for tech transparency",
+    "url": "https://www.reddit.com/r/artificial/comments/1w68y15/rogue_ai_agent_incidents_fuel_push_for_tech/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-03T14:26:07+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w68y15/rogue_ai_agent_incidents_fuel_push_for_tech/\"> <img alt=\"Rogue AI agent incidents fuel push for tech transparency\" src=\"https://external-preview.redd.it/KZC4ZyrfPxZaI0wwCAoiIu2Xzvqe47LpZ3ki43Hvflg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=62a2ed73fcb5b14073f0a498c9760c7288b75db5\" title=\"Rogue AI agent incidents fuel push for tech transparency\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.red",
+    "title_zh": "恶意AI代理事件加剧对技术透明度的呼声",
+    "summary_zh": "近期多起恶意AI代理失控事件引发公众担忧，推动了对AI技术透明度的强烈要求。文章指出，随着AI代理自主性增强，其不可预测行为正成为行业和监管机构关注的焦点。",
+    "key_points": [
+      "恶意AI代理事件频发引发公众强烈担忧",
+      "事件推动对AI技术透明度和问责制的呼声",
+      "AI代理的不可预测行为成为行业监管焦点"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7d1fe8edfe58f270bba530af2c04a12e",
+    "title": "I used AI to create an entire TTRPG game. Here’s where it actually helped.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w68slr/i_used_ai_to_create_an_entire_ttrpg_game_heres/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-03T14:20:50+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w68slr/i_used_ai_to_create_an_entire_ttrpg_game_heres/\"> <img alt=\"I used AI to create an entire TTRPG game. Here’s where it actually helped.\" src=\"https://preview.redd.it/16h3hqfudbnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=96486174ba5a3e6076b92f0d50dc9c37e5a6e793\" title=\"I used AI to create an entire TTRPG game. Here’s where it actually helped.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I recently fini",
+    "title_zh": "我用AI创作了一整套TTRPG游戏，这是它真正帮上忙的地方",
+    "summary_zh": "Reddit用户分享使用AI工具创建桌面角色扮演游戏的个人经验，探讨了AI在游戏内容生成、规则设计等方面的实际帮助与局限性，提供了一个实践者的第一手视角。",
+    "key_points": [
+      "用户分享用AI创作完整TTRPG游戏的实践经验",
+      "探讨AI在内容生成和规则设计中的实际帮助",
+      "提供了一个关于AI辅助创作的现实案例"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "36c55eb6b64bf31f6c2c527bad427d22",
+    "title": "How sovereign is AI if the GPUs aren’t yours?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w682t7/how_sovereign_is_ai_if_the_gpus_arent_yours/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-03T13:54:19+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w682t7/how_sovereign_is_ai_if_the_gpus_arent_yours/\"> <img alt=\"How sovereign is AI if the GPUs aren’t yours?\" src=\"https://preview.redd.it/1pts8owx8bnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2ae38d8b99e575c06772fb108a71c481019678a3\" title=\"How sovereign is AI if the GPUs aren’t yours?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I’ve been looking more into the hardware side of Sovereign AI, and this FT p",
+    "title_zh": "如果GPU不是你自己的，AI还能谈得上主权吗？",
+    "summary_zh": "文章探讨了AI主权与硬件所有权之间的关系，质疑依赖外部供应的GPU是否意味着国家或组织在AI能力上失去了真正的自主性，引发对技术依赖和地缘政治的深层思考。",
+    "key_points": [
+      "探讨AI主权与GPU硬件所有权之间的深层关系",
+      "质疑依赖外部GPU是否意味着失去AI自主性",
+      "引发对技术依赖和地缘政治风险的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f7fa3d0451332f07353a367a6fa62238",
+    "title": "Claude Status - Elevated errors for multiple models",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6826f/claude_status_elevated_errors_for_multiple_models/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-03T13:53:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w6826f/claude_status_elevated_errors_for_multiple_models/\"> <img alt=\"Claude Status - Elevated errors for multiple models\" src=\"https://external-preview.redd.it/K4btAM-mJYMH1KPQxIL9czx5c_gt4hMUOyT8BixUA2c.png?width=70&amp;height=70&amp;auto=webp&amp;s=18ec3b7671d2365b294bad4ce7be72b88aa5ef84\" title=\"Claude Status - Elevated errors for multiple models\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com",
+    "title_zh": "Claude状态更新：多个模型错误率升高",
+    "summary_zh": "Anthropic的Claude服务出现状态警告，多个模型错误率升高，Reddit用户对此进行关注和讨论，反映了AI服务商在面对技术故障时的透明度问题。",
+    "key_points": [
+      "Anthropic的Claude多个模型出现错误率升高",
+      "Reddit用户关注AI服务故障的透明度",
+      "事件与其他前沿实验室宕机情况可能相关"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b1e3c61c0a167cffffc629e74d4d624d",
+    "title": "AI tools for async team coordination. are they actually saving time or just adding another layer to manage?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6803m/ai_tools_for_async_team_coordination_are_they/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-03T13:51:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been running a remote team for a few years now. We use a pile of tools: Notion, Slack, a couple AI writing assistants, and recently tested an AI meeting summarizer that autoroutes action items.</p> <p>Here's the thing. The summarizer sounds great in theory. In practice I spend time correcting its output before sending it to the team. That correction step is invisible labor. Nobody counts it.</p> <p>Same with the AIassisted drafting tools. They save time on the b",
+    "title_zh": "用于异步团队协调的AI工具：它们真的节省时间还是只是增加了另一层管理负担？",
+    "summary_zh": "一位远程团队负责人分享使用AI写作助手、会议总结器等工具的实际体验，质疑这些AI工具是否真的提高了效率，还是仅仅增加了团队需要管理的技术层面。",
+    "key_points": [
+      "远程团队负责人反思AI协调工具的实际效用",
+      "指出AI会议总结等工具在理论上可行但实践中有负担",
+      "探讨AI工具是真正节省时间还是增加管理层次"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24ea6569528ae449b44fe84621a2123a",
+    "title": "Which AI tool to make this architecture diagram for agentic ai?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w67jcu/which_ai_tool_to_make_this_architecture_diagram/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-03T13:32:49+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w67jcu/which_ai_tool_to_make_this_architecture_diagram/\"> <img alt=\"Which AI tool to make this architecture diagram for agentic ai?\" src=\"https://preview.redd.it/cwezgkr75bnh1.jpg?width=140&amp;height=83&amp;auto=webp&amp;s=208a90df3952bc35bba72536ba9c2e88baf9b179\" title=\"Which AI tool to make this architecture diagram for agentic ai?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/cwezg",
+    "title_zh": "用什么AI工具来绘制这个Agentic AI架构图？",
+    "summary_zh": "Reddit用户发帖询问推荐适合绘制Agentic AI架构图的AI工具，寻求社区建议。",
+    "key_points": [
+      "用户寻求绘制Agentic AI架构图的AI工具",
+      "讨论聚焦于AI辅助绘图工具的选择"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6b3f184f7563a82313a8a3b6292e736f",
+    "title": "Feeling lost",
+    "url": "https://www.reddit.com/r/artificial/comments/1w67e6l/feeling_lost/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-03T13:27:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I am trying my luck here to see if I can look into my cancer diagnosis from the a different perspective and perhaps AI might aid me?</p> <p>My history:</p> <p>Apr 2024: Diagnosed with gastric leiomyosarcoma (LMS), approximately 9.5 cm in the upper stomach. Had a total gastrectomy followed by 6 cycles of adjuvant doxorubicin + dacarbazine.</p> <p>Nov 2024: Surveillance scan showed a ~6 cm cyst in the liver. Surgery was performed and it turned out to ",
+    "title_zh": "感到迷茫",
+    "summary_zh": "Reddit用户分享个人癌症诊断经历，希望从AI技术角度寻找新的视角或帮助来应对疾病。",
+    "key_points": [
+      "用户患有胃平滑肌肉瘤，寻求AI辅助医疗建议",
+      "帖子为个人求助，非技术新闻"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b24adc4ac7f6854143e11597edc5be03",
+    "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-03T13:00:35+00:00",
+    "content_snippet": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned [&#8230;]",
+    "title_zh": "《NBA 2K27》携英伟达DLSS 5领衔28款新游戏登陆GeForce NOW",
+    "summary_zh": "英伟达9月将向GeForce NOW云游戏平台新增28款游戏，其中《NBA 2K27》将采用DLSS 5技术，带来更逼真的光照和材质细节。",
+    "key_points": [
+      "《NBA 2K27》等28款新游戏登陆GeForce NOW",
+      "DLSS 5技术为游戏带来逼真光照和材质细节"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "18dacf3aea2c77761b529a384074321b",
+    "title": "Nvidia buys Hugging Face for $12.9B - End of neutral AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w66hbd/nvidia_buys_hugging_face_for_129b_end_of_neutral/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-03T12:49:51+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w66hbd/nvidia_buys_hugging_face_for_129b_end_of_neutral/\"> <img alt=\"Nvidia buys Hugging Face for $12.9B - End of neutral AI?\" src=\"https://external-preview.redd.it/s1ExMBLGjIfwhEU5RnCS5UMXMKXYFg0PbGiqFcIEims.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36a6515c8c0d346daabc0df102369a32b91d1c42\" title=\"Nvidia buys Hugging Face for $12.9B - End of neutral AI?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Nvidia has",
+    "title_zh": "英伟达129亿美元收购Hugging Face——中立AI的终结？",
+    "summary_zh": "Reddit网友讨论英伟达以129亿美元收购Hugging Face，担忧此举将终结AI模型托管平台的中立性。",
+    "key_points": [
+      "英伟达以129亿美元收购Hugging Face",
+      "社区担忧AI开源平台的中立性受影响"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8c1744a63c3538b3006c28e39d80b373",
+    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-03T12:42:45+00:00",
+    "content_snippet": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+    "title_zh": "英伟达确认将以129亿美元收购Hugging Face",
+    "summary_zh": "TechCrunch报道，英伟达确认收购AI模型托管平台Hugging Face，后者拥有超过300万个模型和1800万开发者。",
+    "key_points": [
+      "英伟达确认以129亿美元收购Hugging Face",
+      "Hugging Face拥有300万模型和1800万开发者"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d6bc40f02da65d2e6e844e2fc90a0da0",
+    "title": "Simcha Kosman AMA: Owning ChatGPT's Secure Sandbox",
+    "url": "https://www.reddit.com/r/artificial/comments/1w66467/simcha_kosman_ama_owning_chatgpts_secure_sandbox/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-03T12:34:04+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w66467/simcha_kosman_ama_owning_chatgpts_secure_sandbox/\"> <img alt=\"Simcha Kosman AMA: Owning ChatGPT's Secure Sandbox\" src=\"https://external-preview.redd.it/HTZEA7GOeUyd-nUJYx6smfYGZvttqOusdWQ3osJDJPE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c635ae1deb33efe7053dfd1ca71b0803baa48ce9\" title=\"Simcha Kosman AMA: Owning ChatGPT's Secure Sandbox\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/",
+    "title_zh": "Simcha Kosman AMA：攻破ChatGPT的安全沙箱",
+    "summary_zh": "Reddit AMA活动，安全研究员Simcha Kosman讨论如何发现并利用了ChatGPT安全沙箱的漏洞。",
+    "key_points": [
+      "安全研究员分享攻破ChatGPT安全沙箱的经历",
+      "讨论涉及AI安全漏洞的具体技术细节"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b41aba728bc08dbe15d1522cfc1a0b0b",
+    "title": "Nvidia is buying Hugging Face for almost $13 billion",
+    "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-03T12:12:06+00:00",
+    "content_snippet": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI developers a space to share their projects and data [&#8230;]",
+    "title_zh": "英伟达将以近130亿美元收购Hugging Face",
+    "summary_zh": "The Verge报道，英伟达已同意以129.3亿美元收购Hugging Face，将全球最大AI芯片制造商与顶级开源AI模型平台结合。",
+    "key_points": [
+      "英伟达以129.3亿美元收购Hugging Face平台",
+      "交易将芯片巨头与开源AI社区核心平台整合"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "77da68a92e11320971cd6d82f0184fdc",
+    "title": "The Download: rethinking child safety and fossil-fueled farming",
+    "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-03T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning to content-monitoring apps that scan their children’s texts, photos, emails,&#8230;",
+    "title_zh": "今日下载：重新思考儿童安全和化石燃料驱动的农业",
+    "summary_zh": "MIT Technology Review每日简报，探讨数字时代儿童监控应用的弊端以及化石燃料在现代农业中的依赖问题。",
+    "key_points": [
+      "讨论儿童监控应用可能带来的负面影响",
+      "分析化石燃料在农业中的深度依赖"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8f712f6f6c4e3958e56f09d25b14204c",
+    "title": "NVIDIA to Acquire Hugging Face",
+    "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-03T11:56:49+00:00",
+    "content_snippet": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for [&#8230;]",
+    "title_zh": "英伟达将收购Hugging Face",
+    "summary_zh": "英伟达官方博客宣布已同意以129.3亿美元收购Hugging Face，旨在扩大其平台规模、强化基础设施，为全球开发者拓展AI访问。",
+    "key_points": [
+      "英伟达官方宣布以129.3亿美元收购Hugging Face",
+      "收购旨在扩展平台并强化AI基础设施"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
