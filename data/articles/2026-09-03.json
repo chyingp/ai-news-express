@@ -635,5 +635,127 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "49747b10121c8c1a07ca7c306e6f0dc5",
+    "title": "machine unlearning? Leads to perpetual learning? [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w64bow/machine_unlearning_leads_to_perpetual_learning_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-03T11:09:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I understand ai works in parameters so in theory it cannot have infinite memory and/or infinite learning capability(at least to my understanding). But I was thinking, if we could train ai to forget information to create more space within its parameters for new information?, and once it has advanced its findings it can rid of the old information and that cycle just repeats so it’s never technically bound to its parameters?.Visually it would be like if you put fru",
+    "title_zh": "机器遗忘学习？通向永久学习之路？[讨论]",
+    "summary_zh": "Reddit用户探讨机器遗忘学习概念，思考通过让AI选择性遗忘信息来释放参数空间，从而克服固定参数模型无法无限记忆和学习的限制，实现持续学习能力。",
+    "key_points": [
+      "AI模型受固定参数限制，无法实现无限记忆与学习",
+      "机器遗忘技术或可释放参数空间，容纳新信息",
+      "探讨遗忘学习在实现AI永久学习能力中的潜在作用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bc3d5cf128f12f4a438ca33cd842f6bd",
+    "title": "陈大年复出，入局大模型",
+    "url": "https://www.qbitai.com/2026/09/483600.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-03T10:13:24+00:00",
+    "content_snippet": "首秀逼近DeepSeek万亿旗舰",
+    "title_zh": "陈大年复出，入局大模型",
+    "summary_zh": "盛大网络创始人陈大年复出，进军大模型赛道。其首秀产品性能被指逼近DeepSeek的万亿参数旗舰模型，引发业界广泛关注。",
+    "key_points": [
+      "盛大网络创始人陈大年正式复出，投身大模型领域",
+      "其首款大模型产品性能比肩DeepSeek万亿参数旗舰",
+      "资深互联网企业家入局，为国内大模型竞争增添新变量"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "85cb7c596d4006e3055fb098a48b9e9b",
+    "title": "Scaling agentic AI pilots across the enterprise",
+    "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-03T09:30:32+00:00",
+    "content_snippet": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains&#8230;",
+    "title_zh": "企业如何规模化部署智能体AI试点",
+    "summary_zh": "随着智能体AI从实验转向企业级部署，核心挑战在于如何让智能体协同工作、安全连接系统数据，并融入业务流程。虽然约80%的财富500强公司已采用，但规模化仍面临诸多难题。",
+    "key_points": [
+      "约80%财富500强公司已采用智能体AI，但规模化仍是难题",
+      "核心挑战在于多智能体协同、系统数据连接与安全运营",
+      "企业需解决智能体融入现有工作流和业务流程的问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "95f2d5289dc9ab673f0c44b8d9ad4397",
+    "title": "People who are excited about AI, what am I missing?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w61l6r/people_who_are_excited_about_ai_what_am_i_missing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-03T08:36:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have been skeptical from the start of this current wave of AI and I really don't see the reason why so many individuals believe we are at a major turning point.</p> <p>I have used the vast majority of the free AI tools: LLM, image, video, sound, etc. Each new release, I am impressed for several hours. Then it soon gets to the limit of where I can go and the &quot;we're in the future&quot; mentality goes out the window rapidly.</p> <p>What I'm thinking is the e",
+    "title_zh": "对AI兴奋的人，我错过了什么？",
+    "summary_zh": "一位对当前AI浪潮持怀疑态度的Reddit用户发帖，表示尽管尝试过各类免费AI工具，但仍未看到AI是重大转折点的理由，希望了解AI爱好者的兴奋点所在。",
+    "key_points": [
+      "用户对当前AI浪潮持怀疑态度，认为未见重大转折点",
+      "尝试过LLM、图像、视频等各类免费AI工具后仍不确信",
+      "发帖征集AI支持者观点，以了解其兴奋的原因"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "952fb83a59508023e83532db91432d89",
+    "title": "Some top-notch predictions for your amusement and ridicule",
+    "url": "https://www.reddit.com/r/artificial/comments/1w60fha/some_topnotch_predictions_for_your_amusement_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-03T07:28:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>1 - Within 2 years most jobs will become &quot;managing a bunch of robots&quot;. Within 3 years that part won't need mentioning. The job is whatever the actual domain/product/service is, again.</p> <p>2 - Cheap AI will reduce the need for capital at least as much as it reduces the need for labour (per unit of production). So self-employment and much smaller businesses will become viable in many fields.</p> <p>3 - There will be more than one brand of self-driving",
+    "title_zh": "一些顶级预测，供你娱乐与嘲笑",
+    "summary_zh": "Reddit用户发布一系列关于AI未来的大胆预测，包括2年内多数工作变为管理机器人，以及廉价AI将像降低劳动力需求一样减少对资本的需求等。",
+    "key_points": [
+      "预测2年内多数工作将转变为管理一群机器人",
+      "廉价AI将大幅降低对资本的需求",
+      "帖子以娱乐和引发讨论为目的，发布未来AI趋势预测"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
