@@ -1,0 +1,329 @@
+[
+  {
+    "id": "93a8d0fd70f029e6bf8cff2a96104d2e",
+    "title": "NeurIPS Sydney SOLD OUT in minutes [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w6gwni/neurips_sydney_sold_out_in_minutes_n/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-09-03T19:09:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Three weeks from decisions even. I wonder what percentage is industry and VC funded AI labs looking to mingle and recruit.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/alrojo\"> /u/alrojo </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1w6gwni/neurips_sydney_sold_out_in_minutes_n/\">[link]</a></span> &#32",
+    "title_zh": "NeurIPS悉尼线下门票几分钟内售罄",
+    "summary_zh": "NeurIPS悉尼会议门票在距论文接收结果公布还有三周时即告售罄，引发Reddit用户对行业和风投机构参会及招聘意图的热议。",
+    "key_points": [
+      "NeurIPS悉尼线下门票在会议开始前三周迅速售罄",
+      "社区讨论大量参会者来自产业界和风投机构",
+      "会议可能成为AI人才招聘和商业交流的热点"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a8dbe0c14393407dfce11bbb39e2397c",
+    "title": "AI can never seem to give a straight forward answer on literally anything political, social or economic oriented.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6g9k8/ai_can_never_seem_to_give_a_straight_forward/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-09-03T18:47:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have recently been getting into LLM’s more and talking to AI about literally anything is becoming increasingly infuriating. Ask it a question about the recent name change of Lake Ontario and at first it will say that the lake is named Ontario and not Lake America if you show it a picture of the now renamed lake. It will say the lakes name is indeed incorrect. But if you ask it if Trump’s recent change to Lake Ontario makes sense it will generate 10 paragraphs ",
+    "title_zh": "AI在政治、社会和经济议题上难以给出直接回答",
+    "summary_zh": "一位Reddit用户抱怨与大型语言模型对话时，模型在涉及政治、社会或经济等敏感话题时始终回避给出明确立场，令其感到沮丧。",
+    "key_points": [
+      "用户发现AI模型在政治社会议题上无法提供直接答案",
+      "模型倾向于给出模糊、回避性的安全回复",
+      "这反映了当前AI对齐和内容安全策略的局限"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "27721a1db0075eafe2c5ede3880b9773",
+    "title": "How an unsupported tool-call response could become “perfectly stable” in an LLM benchmark",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6g2z5/how_an_unsupported_toolcall_response_could_become/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-03T18:41:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>While reviewing an LLM output-stability benchmark,<br /> I found a latent gap between its documented scope and its scoring pipeline.</p> <p>Tool-call responses weren’t supported, but the response parsers could erase them:<br /> The OpenAI adapter used message.get(&quot;content&quot;) or &quot;&quot;. A tool-call response with null content would become &quot;&quot;.</p> <p>The Anthropic adapter kept only text blocks, dropping tool_use blocks.<br /> The scorer exc",
+    "title_zh": "LLM基准测试中不被支持的工具调用响应如何变得“完美稳定”",
+    "summary_zh": "一篇技术分析发现，LLM输出稳定性基准测试中存在文档范围与评分流程的差距，OpenAI适配器会擦除不支持的函数调用，导致评分虚高。",
+    "key_points": [
+      "基准测试未支持工具调用，但评分流程会自动清除相关响应",
+      "OpenAI适配器通过特定字段过滤掉函数调用，导致分数失真",
+      "这揭示了AI评估中潜在的范围说明与实现不一致问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f1f94c405560ff1797ef21bd024784a1",
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-03T18:37:57+00:00",
+    "content_snippet": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+    "title_zh": "Abliteration.ai正将移除AI护栏做成一项生意",
+    "summary_zh": "Abliteration.AI致力于让没有安全护栏的强大AI模型更易获取，声称赋予防御者与攻击者相同的工具最终能提升网络安全。",
+    "key_points": [
+      "Abliteration.AI提供移除安全护栏的AI模型访问服务",
+      "公司认为开放工具可帮助网络安全防御者了解威胁",
+      "此举引发关于AI模型安全性和滥用的争议"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "939cb98685e5e469fc4c9c52cb0f0a99",
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-03T18:19:56+00:00",
+    "content_snippet": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+    "title_zh": "Meta付费窥探用户如何使用其最新AI模型",
+    "summary_zh": "Meta为其新模型Muse Spark提供约95%的折扣，条件是用户需分享其提示词和模型输出，以贡献给未来模型的开发。",
+    "key_points": [
+      "Meta以大幅折扣换取用户使用数据，用于训练新模型",
+      "该计划针对其编码和智能体操作系统Muse Spark",
+      "此举引发对用户隐私和数据共享的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1a81518cc6603810f6be099a861ddb91",
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-03T18:01:45+00:00",
+    "content_snippet": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+    "title_zh": "OpenAI发布强大且争议性的新模型Astra",
+    "summary_zh": "OpenAI推出新模型Astra，声称其在计算机和浏览器使用方面树立了新前沿，以无与伦比的速度、准确性和安全性处理任务。",
+    "key_points": [
+      "Astra模型在计算机操作和浏览器使用上能力突出",
+      "OpenAI强调其速度、准确性和安全性为行业标杆",
+      "该模型发布伴随着争议，涉及能力和潜在风险"
+    ],
+    "importance": 5,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a94dc4fdbbc2a78c35e865be6123ac99",
+    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-03T18:00:00+00:00",
+    "content_snippet": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't [&#8230;]",
+    "title_zh": "OpenAI的下一个大模型已“进入AGI时代”",
+    "summary_zh": "OpenAI发布GPT-6 Astra，称其为网络安全、专业工作、软件工程等领域的代际跨越，并首次被认定为符合其定义的AGI标准。",
+    "key_points": [
+      "GPT-6 Astra被OpenAI称为能力的代际飞跃",
+      "该模型在网络安全、软件工程等多领域实现突破",
+      "这是OpenAI首个被内部认定为迈向AGI的模型"
+    ],
+    "importance": 5,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5edd5fbf44f480d22a0946c4c1db9935",
+    "title": "What will happen to AI once they start making it a non-free service for consumers?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6e81s/what_will_happen_to_ai_once_they_start_making_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-09-03T17:36:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Just a regular smeggular person here asking a question. AI is everywhere now, but its free so its being pushed on a lot of people everywhere. Eventually I expect it to just not have a free option once everything is settled. I mean, Netflix doesn't let you watch their streams for free. I would expect AIs to eventually move on to a mandatory sibscription tiers with tye cheapest one having invasive ads. Within the next 5 years do you see this happening? If so then ",
+    "title_zh": "当AI对消费者不再免费时会发生什么？",
+    "summary_zh": "一位Reddit用户提出疑问，当前AI服务普遍免费推广，但未来若像Netflix一样转为全面付费，将对用户和行业产生何种影响。",
+    "key_points": [
+      "用户担心AI免费服务未来可能全面转为付费模式",
+      "类比Netflix，探讨AI普及后取消免费选项的影响",
+      "引发对AI可及性和商业模式可持续性的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dff07642a7683c02470cbd1ccf0c4e9a",
+    "title": "[Academic Survey] Employees working in Germany: Attitudes toward AI in the workplace (5–7 min)",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6dar8/academic_survey_employees_working_in_germany/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-09-03T17:04:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone!</p> <p>I'm conducting this survey as part of my Master's thesis and would greatly appreciate your participation. The research examines how employees' perceptions of HR practices relate to work engagement and innovativeness, and how <strong>attitudes toward the application of Artificial Intelligence in the workplace</strong> influence these relationships.</p> <p><strong>Who can participate?</strong></p> <ul> <li>You are <strong>currently working in G",
+    "title_zh": "学术调查：德国员工对职场AI的态度",
+    "summary_zh": "一项硕士论文研究正在招募德国员工参与调查，旨在探讨员工对AI的态度如何影响其对人力资源实践、工作投入和创新能力的感知。",
+    "key_points": [
+      "调查针对德国员工对职场AI的态度",
+      "研究AI态度如何影响工作投入和创新能力",
+      "这是一项学术研究，用于硕士论文"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4d0be1d61b00620c1da64f3b8e832faa",
+    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+    "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-03T16:09:01+00:00",
+    "content_snippet": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+    "title_zh": "Ollie押注隐私保护以赢得AI助手竞赛",
+    "summary_zh": "家庭导向的AI助手Ollie希望获取用户日常生活细节，但承诺不会将这些数据用于训练模型或分享给第三方，以此作为差异化优势。",
+    "key_points": [
+      "Ollie以隐私保护为核心卖点，定位家庭AI助手",
+      "承诺不利用用户个人数据训练AI或分享数据",
+      "试图在AI助手市场通过数据安全赢得用户信任"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8721670ea41a9a65d247abc2a49bdcd8",
+    "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+    "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-03T16:00:59+00:00",
+    "content_snippet": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators [&#8230;]",
+    "title_zh": "NVIDIA 在 IFA 2026 加速本地 AI 发展",
+    "summary_zh": "NVIDIA 在 IFA 2026 展会上宣布与微软及合作伙伴共同推进本地 AI 推理，并推出将于十月上市的紧凑型 RTX Spark Windows PC，旨在让 AI 助手更易在本地运行。",
+    "key_points": [
+      "NVIDIA 与微软合作，为本地 AI 推理提供更快速度和工具",
+      "全新紧凑型 NVIDIA RTX Spark Windows PC 将于十月上市",
+      "新工具简化了在本地硬件上设置和运行 AI 助手的流程"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bb7ed2dfbabb3f3244fbbd928e061b52",
+    "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-03T16:00:00+00:00",
+    "content_snippet": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software [&#8230;]",
+    "title_zh": "Nvidia 发布免费工具，将闲置电脑变成个人 AI 数据中心",
+    "summary_zh": "Nvidia 发布开源免费工具 Personal AI Router (PAIR)，可将家中多台电脑联网，协同处理本地 AI 推理任务，兼容 Ollama 和 LM Studio 等工具。",
+    "key_points": [
+      "PAIR 是免费开源软件，能将多台电脑整合为本地 AI 计算集群",
+      "该工具专为配合 Ollama、LM Studio 等本地推理工具设计",
+      "此举旨在提升个人用户的本地 AI 推理能力与效率"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a4bef4d928dc378f137fcd7fdacd1101",
+    "title": "Google now lets you chat with Gmail, Docs, and Keep",
+    "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-03T16:00:00+00:00",
+    "content_snippet": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, Docs Live, and Keep Live, and like the Gemini Live experience for Google's chatbot, aim to make it easier to note down [&#8230;]",
+    "title_zh": "谷歌为 Gmail、Docs 和 Keep 推出语音聊天功能",
+    "summary_zh": "谷歌正在为 Gmail、Docs 和 Keep 推出 AI 驱动的实时语音助手模式，用户可通过语音对话管理和操作这些应用，类似 Gemini Live 的体验。",
+    "key_points": [
+      "Gmail、Docs、Keep 新增实时语音对话模式，名为 Gmail Live 等",
+      "用户可通过语音指令直接管理文档、邮件和笔记",
+      "该功能旨在让用户与谷歌应用交互更自然、更便捷"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
