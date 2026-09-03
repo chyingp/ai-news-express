@@ -1228,5 +1228,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6f8d43803d9657fbc7a96560c763f8e0",
+    "title": "Our new agents kept asking senior reps for help mid-call so we are trying on fixing the problem with AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6bdh1/our_new_agents_kept_asking_senior_reps_for_help/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-03T15:55:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I run a support team and one issue we're trying to fix right now is how much our newer agents depend on senior reps during live calls. The training itself isn't really the problem. We have docs and scripts and a decent knowledge base. The problem is finding the right answer when there's an actual customer waiting on the phone. A newer rep gets a question they haven't dealt with before and suddenly they're searching through docs or putting the customer on hold wh",
+    "title_zh": "我们如何用AI解决新客服在通话中过度依赖高级代表的问题",
+    "summary_zh": "文章讨论了一个客户支持团队利用AI技术帮助新员工在实时通话中独立解决问题，减少对高级代表的频繁求助，从而提升效率和降低压力。",
+    "key_points": [
+      "新客服在通话中频繁求助高级代表，影响效率",
+      "现有文档和知识库存在信息检索困难的问题",
+      "团队尝试利用AI工具实时提供解决方案以增强独立性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
