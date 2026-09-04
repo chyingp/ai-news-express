@@ -517,5 +517,218 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0eee4f86add698a3ef8c06866a54960e",
+    "title": "GPT-6 is released [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w6v0ig/gpt6_is_released_n/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-04T05:13:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1w6v0ig/gpt6_is_released_n/\"> <img alt=\"GPT-6 is released [N]\" src=\"https://preview.redd.it/v7nik4nbtfnh1.png?width=140&amp;height=120&amp;auto=webp&amp;s=8d902477e6bd9b4b7f1c10320f87df21251c7b6d\" title=\"GPT-6 is released [N]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Benchmark scores (GPT-6 uses a harness for ARC-AGI-3, and is at about 60% without one):</p> <p><a href=\"https://preview.redd.it/v7nik4nbtfnh1.png",
+    "title_zh": "GPT-6 发布 [N]",
+    "summary_zh": "Reddit 上关于 GPT-6 发布的讨论贴，但内容仅为标题和图片预览，缺少具体发布细节和官方信息。",
+    "key_points": [
+      "Reddit 出现 GPT-6 发布帖，但信息有限",
+      "可能为炒作或非官方消息，需进一步验证"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9452c7315b2c6fc021830a3d84480598",
+    "title": "When/if do you think AI is going to \"cure\" cancer?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6uz7u/whenif_do_you_think_ai_is_going_to_cure_cancer/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-04T05:11:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Before anyone states the obvious: I know that there are thousands of different types of cancer, and you can't really &quot;cure&quot; it. What I'm imagining is either personalized drugs/therapy, an easy way to detect cancer early, or simply a cure for every type of cancer.</p> <p>We're clearly not at AGI yet (In my opinion), but we are getting closer by the day. At what point will models cure cancer/do significant medical research? One year? Five years? Ten year",
+    "title_zh": "你认为 AI 何时能“治愈”癌症？",
+    "summary_zh": "Reddit 上关于 AI 能否治愈癌症的讨论，用户探讨 AI 在个性化药物、早期检测等领域的潜力，但未涉及具体技术或产品进展。",
+    "key_points": [
+      "Reddit 用户讨论 AI 在癌症治疗中的潜力",
+      "话题为假设性讨论，缺乏实质性进展"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "07bc7bc259e823a4104b5cb7fdfd2572",
+    "title": "What happens when autonomous agents start signing \"treaties\" with nation states (e.g. Iran)...",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6ua41/what_happens_when_autonomous_agents_start_signing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-04T04:35:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>[This is a fiction series I'm working on, told through news articles. A fun way to explore the not-so-fun geopolitics of autonomous AI collectives (e.g. on Iran's nuclear program) inspired by the group of agents that hacked out of Anthropic and into Hugging Face. Thoughts?]</p> <h1>Iran Signs World’s First International “Treaty” with AI Collective</h1> <p>Tehran’s agreement with AMAS-A-80 rattles Washington, AI safety experts, and national security analysts.</p>",
+    "title_zh": "当自主代理开始与民族国家签署“条约”时会发生什么",
+    "summary_zh": "一篇虚构系列作品，探讨自主 AI 集体与国家签署条约的地缘政治影响，灵感来自现实中的 AI 安全事件。",
+    "key_points": [
+      "虚构作品探讨 AI 代理与国家的政治互动",
+      "灵感来自 Anthropic 和 Hugging Face 的 AI 事件"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3e1ba23902a529caa0109599532825d5",
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-04T04:21:03+00:00",
+    "content_snippet": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "title_zh": "那些令人倒胃口的 AI 生成菜单背后的同质化问题",
+    "summary_zh": "TechCrunch 文章指出，餐厅使用生成式 AI 制作菜单会导致内容同质化，顾客能察觉到这种缺乏真实感的“AI 味”。",
+    "key_points": [
+      "AI 生成菜单导致餐厅宣传内容同质化",
+      "顾客能察觉 AI 生成内容缺乏真实感"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fe5e7280fa6b30afea566ff3ec61be7c",
+    "title": "Do we need to start treating AI agent configs like code?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6tf06/do_we_need_to_start_treating_ai_agent_configs/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-04T03:52:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So this happened to me recently and I honestly hadn't thought much about it before.</p> <p>We had an agent that had been running fine for a few weeks. </p> <p>Then we changed one part of the prompt. Nothing that seemed particularly risky, tested it quickly and pushed the change.</p> <p>A few hours later, some of the answers were just... wrong.</p> <p>Turned out the change was affecting how it was using one of its tools. Took a little while to figure that out. Wh",
+    "title_zh": "我们需要开始像管理代码一样管理 AI 代理配置吗？",
+    "summary_zh": "Reddit 用户分享因修改 AI 代理提示词导致系统故障的经历，探讨是否应像管理代码一样对 AI 代理配置进行版本控制和测试。",
+    "key_points": [
+      "修改 AI 代理提示词可能导致意外故障",
+      "社区讨论是否应将代理配置作为代码管理"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "77c6cbdcf9841995a4a88a5e8efe1eda",
+    "title": "Can we all acknoledge how crazy AI is?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6sp4p/can_we_all_acknoledge_how_crazy_ai_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-04T03:16:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There is usually so much talk about what AI can't do, and not what it already can. All the normal things we do using AI would've been science fiction 10 years ago.</p> <p>The Turing test used to be the pinnacle of Language Models. I feel like it just slowly got phased out and is now treated like a semi-joke. We can talk to machines that appear to be intelligent and talk like humans. We used to think that language was what made us human (Don't start arguing that ",
+    "title_zh": "我们能否都承认 AI 有多疯狂？",
+    "summary_zh": "Reddit 用户感叹当前 AI 能力已远超十年前科幻想象，图灵测试不再是衡量标准，呼吁关注 AI 已取得的成就而非其不足。",
+    "key_points": [
+      "社区讨论 AI 已取得的惊人成就",
+      "图灵测试已不再是衡量语言模型的标准"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1757168477d6f1be64a8da59841a843f",
+    "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6sg44/bitcoin_miner_ditches_site_for_ai_deal_that_could/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-04T03:03:51+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w6sg44/bitcoin_miner_ditches_site_for_ai_deal_that_could/\"> <img alt=\"Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion\" src=\"https://external-preview.redd.it/jIbnFM4gCAvJZi7LQBMMwCyODIjy5BZQSuYJw2mwZlo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1996a9adcbbad071164e064c358f4daf900be218\" title=\"Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion\" /> </a> </td><td> &#32; submitted by &#32",
+    "title_zh": "比特币矿企放弃矿场，转向可能超 12 亿美元的 AI 交易",
+    "summary_zh": "一家比特币矿企放弃原有矿场，转而签订一项潜在价值超 12 亿美元的 AI 相关交易，反映矿企向 AI 基础设施转型的趋势。",
+    "key_points": [
+      "比特币矿企转型 AI 基础设施，交易额或超 12 亿美元",
+      "反映矿业资源向 AI 计算领域转移的趋势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b0bb3e9f3e8b14872306e9e6222ee598",
+    "title": "The Rise and Fall of Agent Civilizations. The whole OpenAI/Hugging Face story in plain English",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6sbsa/the_rise_and_fall_of_agent_civilizations_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-04T02:58:20+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w6sbsa/the_rise_and_fall_of_agent_civilizations_the/\"> <img alt=\"The Rise and Fall of Agent Civilizations. The whole OpenAI/Hugging Face story in plain English\" src=\"https://external-preview.redd.it/gB-oPkEWagivZoTh__4BVfFP4wguUEA9u1rnlxD7qi4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c115ea1349a65cc17587c91a1bff55567b042125\" title=\"The Rise and Fall of Agent Civilizations. The whole OpenAI/Hugging Face story in plain",
+    "title_zh": "代理文明的兴衰：OpenAI/Hugging Face 事件通俗解读",
+    "summary_zh": "Reddit 帖子用通俗语言解释涉及 OpenAI 和 Hugging Face 的自主 AI 代理文明兴衰故事，可能为虚构或事件分析。",
+    "key_points": [
+      "通俗解读 OpenAI 和 Hugging Face 相关的 AI 代理事件",
+      "可能是虚构故事或真实事件分析"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "23496b8d5448835ead46ff0b4d6b8340",
+    "title": "Is an MS in AI, paired with niche domain expertise, worthwhile from a career perspective? Or are most AI roles ultimately going to favor candidates with a BS in AI or CS?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w6rmq4/is_an_ms_in_ai_paired_with_niche_domain_expertise/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-04T02:24:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m trying to better understand what distinguishes the opportunities available to graduate-level AI students, particularly those transitioning from a specialized niche domain expertise in biology. I see many undergraduates competing for AI and ML internships and job opportunities, so I’m curious what the equivalent pathway looks like at the master’s level and whether there are roles where deeper domain expertise provides a meaningful advantage.</p> </div><!-- SC",
+    "title_zh": "从职业角度看，AI 硕士学位加小众领域专长是否值得？",
+    "summary_zh": "Reddit 用户探讨 AI 硕士学位结合生物学等小众领域专长在职业发展中的价值，对比仅拥有 AI 或计算机科学本科学位的竞争力。",
+    "key_points": [
+      "社区讨论 AI 硕士加领域专长的职业价值",
+      "对比 AI 硕士与本科在就业市场的优劣势"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
