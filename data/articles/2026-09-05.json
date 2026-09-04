@@ -289,5 +289,218 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e160d21430aee3fab30e5d5a8923c2e0",
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-04T21:12:11+00:00",
+    "content_snippet": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+    "title_zh": "AI 算力提供商 Nscale 寻求 35 亿美元 Pre-IPO 融资",
+    "summary_zh": "AI 算力提供商 Nscale 在与 Anthropic 达成 450 亿美元交易后，正洽谈新融资为即将到来的 IPO 做准备。",
+    "key_points": [
+      "Nscale 近期与 Anthropic 签署了 450 亿美元的交易协议。",
+      "公司正在寻求 35 亿美元 Pre-IPO 融资，为上市做准备。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c95741f590607d6e834aec1452f35943",
+    "title": "What is the general design of these new math solving systems? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w7glyo/what_is_the_general_design_of_these_new_math/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-04T20:55:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>From what I've seen online so far, the description of these systems is roughly: </p> <p>They asked the model (often Aster) to generate statements in LEAN and then submit those to a LEAN compiler to be checked. Based on the results of attempting the LEAN compilation, they somehow add those statements as fact. When the full proof in LEAN compiles, the system is finished. </p> <p>I can imagine trying to jam as much of a proof as possible into the context window but",
+    "title_zh": "新型数学求解系统的总体设计是什么？",
+    "summary_zh": "Reddit 用户讨论新型数学求解系统设计，模型生成 LEAN 语句并提交编译器验证，基于结果进行迭代。",
+    "key_points": [
+      "模型如 Aster 生成 LEAN 语句，通过编译器自动验证正确性。",
+      "利用编译器反馈结果迭代优化数学求解过程。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b12b872d4af1ce80ab150bd4bcfb16db",
+    "title": "Do you use AI for mental support? For or against?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w7gh3t/do_you_use_ai_for_mental_support_for_or_against/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-04T20:50:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I heard one of my close friend’s friend is using AI as a personal psychiatrist. We were discussing this and I wanted to get Reddit’s opinion, don’t AI give common sense advice? At least it advices to go see a professional in anything serious but it kind of feels pointless. Sharing your mental state and expecting a solution for your problems from an LLM.</p> <p>Does any of you tried using AI in this regard and was it helpful? Lets discuss.</p> <p>As for argument ",
+    "title_zh": "你会用 AI 获取心理支持吗？支持还是反对？",
+    "summary_zh": "Reddit 用户讨论使用 AI 作为个人心理咨询师的利弊，引发对 AI 心理健康建议有效性的辩论。",
+    "key_points": [
+      "有人将 AI 作为个人心理咨询师使用，引发争议。",
+      "讨论 AI 是否仅提供常识性建议，以及是否应推荐专业帮助。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8510ffaf45131cc13a2b51578d593710",
+    "title": "[Experiment] I trained a model on childhood photos to simulate memory recall",
+    "url": "https://www.reddit.com/r/artificial/comments/1w7gdny/experiment_i_trained_a_model_on_childhood_photos/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-04T20:46:48+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w7gdny/experiment_i_trained_a_model_on_childhood_photos/\"> <img alt=\"[Experiment] I trained a model on childhood photos to simulate memory recall\" src=\"https://external-preview.redd.it/anV2cTVpY29ma25oMVyM3lGFergU1Wu54q2njaEVoFw1DzJPwUPDUe3V-Gxq.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a28de2422c224af691b292be7e0702c6b882741\" title=\"[Experiment] I trained a model on childhood photos to simulate memory recall\" /> </a",
+    "title_zh": "实验：我用童年照片训练模型以模拟记忆回忆",
+    "summary_zh": "Reddit 用户分享实验，使用个人童年照片训练模型，试图模拟人类记忆回忆过程。",
+    "key_points": [
+      "个人实验项目，利用童年照片数据集训练模型。",
+      "目标是模拟和重现人类记忆回忆的机制。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "52fb378283390a3813ae3a3b15246211",
+    "title": "Gpt 5,6,7: Does it even matter? The (ghost) productivity question. [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w7f6kq/gpt_567_does_it_even_matter_the_ghost/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-04T20:02:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>an observation : GPT-5-class models are genuinely capable(They are) of doing a substantial fraction of knowledge work, why haven’t we seen a noticeable productivity shock in the real economy yet? Is AI actually less economically useful than the benchmarks suggest—or are organizations simply too slow, constrained, and inefficient to turn model capability into measurable output?</p> <p>Are we confusing “AI can do the task” with “AI can replace the economic system ",
+    "title_zh": "GPT-5、6、7：这还重要吗？关于（幽灵般）生产力的问题",
+    "summary_zh": "Reddit 用户讨论为何 GPT-5 级模型能力强大，但尚未在实体经济中引发显著的生产力冲击。",
+    "key_points": [
+      "GPT-5 级模型具备完成大量知识工作的能力，但经济生产力未见明显提升。",
+      "质疑 AI 的实际经济效用是否低于基准测试所显示的水平。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "302004e21c509186f305f5c9c61832ad",
+    "title": "OpenAI commits $1B to Daybreak support for frontline cyber defenders",
+    "url": "https://www.reddit.com/r/artificial/comments/1w7enla/openai_commits_1b_to_daybreak_support_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-04T19:43:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>OpenAI says it is committing $1 billion in subsidized Daybreak access, training, technical support, and partnerships to help frontline defenders protect essential services. The plan starts in the United States and targets water and wastewater systems, electric grid operators, state and local governments, community banks, nonprofits, and open-source maintainers over the next six months.</p> <p>The first new partnership is a pilot with MS-ISAC for state, local, tr",
+    "title_zh": "OpenAI 承诺 10 亿美元通过 Daybreak 支持一线网络防御者",
+    "summary_zh": "OpenAI 宣布投入 10 亿美元，为美国关键基础设施的一线网络防御者提供 Daybreak 访问、培训和技术支持。",
+    "key_points": [
+      "OpenAI 将提供 10 亿美元资助，包含 Daybreak 访问权限、培训和技术支持。",
+      "计划首先在美国启动，重点保护水电、电网等关键基础设施网络。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d6c6927817bf3f8280405fe03e6648e4",
+    "title": "Salesforce blames its Claude addiction for denting profit margin guidance",
+    "url": "https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-04T19:12:15+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/beingmodest\"> /u/beingmodest </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.theregister.com/ai-and-ml/2026/09/03/salesforce-blames-its-claude-addiction-for-denting-profit-margin-guidance/5294219\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1w7dswx/salesforce_blames_its_claude_addiction_for/\">[comments]</a></span>",
+    "title_zh": "Salesforce 将其利润下滑归咎于对 Claude 的过度依赖",
+    "summary_zh": "Salesforce 将利润率指引下调归因于对 Anthropic 的 Claude 模型的大量使用，导致 AI 成本激增。",
+    "key_points": [
+      "Salesforce 因大量使用 Claude 模型导致 AI 相关成本激增。",
+      "这直接影响了公司的盈利能力，迫使其下调利润率指引。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "76fe7b1b7bfead7d8b2f5ce5d2a1fc2b",
+    "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
+    "url": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-04T19:01:02+00:00",
+    "content_snippet": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
+    "title_zh": "中世纪手稿成致命羊痘病毒的“生物时间胶囊”",
+    "summary_zh": "研究发现，中世纪羊皮纸手稿中可能保存了古代羊痘病毒的遗传痕迹，为疾病史研究提供新线索。",
+    "key_points": [
+      "中世纪羊皮纸手稿可能含有古代致命羊痘病毒的遗传物质。",
+      "全球各地的档案馆和图书馆可能潜藏着过去疾病爆发的基因痕迹。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c540530472dc5bd884644e487d1b22bf",
+    "title": "Architecting memory and storage in the AI era",
+    "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-04T18:39:19+00:00",
+    "content_snippet": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while&#8230;",
+    "title_zh": "在 AI 时代构建内存与存储架构",
+    "summary_zh": "随着 AI 推理时代到来，医疗、客服等实时应用依赖先进内存与存储技术，以处理海量数据并加速突破。",
+    "key_points": [
+      "AI 推理时代要求全新的内存与存储架构设计，以支持实时分析。",
+      "医疗、智能客服等领域的实时突破性应用，高度依赖先进的数据处理基础设施。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
