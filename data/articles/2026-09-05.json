@@ -674,5 +674,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d3fcefa26d474c066a6bf4f79e4b7018",
+    "title": "Why are more people not concerned about privacy?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w7o0xv/why_are_more_people_not_concerned_about_privacy/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-05T02:18:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There are so many people uploading their pictures to be edited, disclosing people's names, detailed experiences, trauma, opinions and ideas with seemingly no filter. </p> <p>Additionally, the power users have given AI access to their password manager for coding, debugging. Access to their files and computers as a whole is something Claude advertises. Connections to their emails, calendar, text messages and multiple other apps via API. Trusting AI with personal h",
+    "title_zh": "为什么更多人不关心隐私？",
+    "summary_zh": "Reddit用户讨论为何人们无过滤地向AI上传照片、披露姓名和创伤经历，甚至给予AI访问密码管理器的权限，引发对隐私淡漠的广泛担忧。",
+    "key_points": [
+      "用户大量无过滤地向AI分享照片、姓名和创伤经历",
+      "部分重度用户甚至给予AI访问密码管理器的权限",
+      "讨论聚焦于公众对隐私泄露的普遍漠视现象"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
