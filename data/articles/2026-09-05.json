@@ -698,5 +698,224 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e85c803a886d82cc03f6536120edddf7",
+    "title": "AI AInt that smart",
+    "url": "https://www.reddit.com/r/artificial/comments/1w7ufjo/ai_aint_that_smart/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-05T07:57:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI AInt that smart</p> <p>Its took me a long time to realize this but it's true. yes, it is incredible and can enable some really great things. but I think people are too impressed with it. It's really really dumb. </p> <p>I've been reading more books lately and what I keep coming up with is that, any sort of decent writing feels wayyyyy different than anything an LLM outputs. It's richer. There's more feeling. There's more information! </p> <p>Contrast that wit",
+    "title_zh": "AI 其实没那么聪明",
+    "summary_zh": "一篇个人观点文章，作者认为尽管AI能力强大，但人们对其印象过于深刻，实际上AI在很多方面仍显得很笨拙。",
+    "key_points": [
+      "作者认为公众对AI的能力过于高估",
+      "AI在阅读书籍等任务中仍显得很笨拙"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f9b779bb981a597b9ecb867b641b134f",
+    "title": "Are we finally hitting the “Scaling-Wall”? Test-Time Compute meta on AI Industry.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w7u5f7/are_we_finally_hitting_the_scalingwall_testtime/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-05T07:40:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For the last few years, the playbook for building better AI was simple: build a bigger model, scrape more of the internet, and throw more GPUs at it. Bigger always meant better.</p> <p>But over the last few months, it’s become obvious that the industry is quietly shifting its entire strategy. We are hitting sort of the data wall (we are literally running out of high-quality human text to train on, which was also the reason why AI companies were rummaging through",
+    "title_zh": "我们是否终于撞上了“规模墙”？测试时计算对AI行业的影响",
+    "summary_zh": "文章探讨了AI行业通过扩大模型规模来提升性能的传统方法是否已触及瓶颈，以及行业正在转向测试时计算等新范式。",
+    "key_points": [
+      "通过扩大模型规模提升性能的传统方法可能已触及瓶颈",
+      "行业正在转向测试时计算等新范式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4a03b4738995083307b65a9b99132cec",
+    "title": "NeurIPS 2026 Automatic Reference Checker [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sljy/neurips_2026_automatic_reference_checker_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-05T06:14:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Just received an email about the automatic reference/citation checker. Did anyone receive a follow up email about whether the checker was included in the paper's decision making too, along with the general instructional email? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Emergency_Plate241\"> /u/Emergency_Plate241 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span",
+    "title_zh": "NeurIPS 2026 自动参考文献检查",
+    "summary_zh": "用户收到关于NeurIPS 2026会议自动参考文献检查器的邮件，并询问该检查器是否会影响论文的最终决策。",
+    "key_points": [
+      "NeurIPS 2026引入自动参考文献检查器",
+      "用户关注检查结果是否影响论文评审决定"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "994d100164ae64ce840f2938386beef4",
+    "title": "Language Models Can Control Their Own Attention [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-05T06:07:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><h1>Abstract</h1> <p><em>Language models spend most of their attention on a small fraction of context, yet they read the entire KV cache to find the few tokens that matter. If the user asks about a previous detail in a 1M-token conversation, global attention layers must scan the full context to generate each token of the reply. A prominent approach mitigates this cost by pre-selecting relevant tokens via lightweight proxy scores, but this extrinsic scoring still in",
+    "title_zh": "语言模型可以控制自己的注意力机制",
+    "summary_zh": "一篇研究论文提出，语言模型可以学习控制自身注意力，只读取关键token，从而在长上下文处理中显著降低延迟并保持准确性。",
+    "key_points": [
+      "语言模型能学习控制注意力，只读取关键token",
+      "该技术可大幅降低长上下文处理的延迟"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bfffefd3d28e4d808f1f8acf2cd191d4",
+    "title": "Why is it so hard for some to believe that AI is useful?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w7s4l8/why_is_it_so_hard_for_some_to_believe_that_ai_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-05T05:49:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've seen a lot of arguing on Reddit about AI, and a portion is dedicated to this seemingly easily disprovable claim.</p> <p>I see people claim that AI can't do any actual work and that anyone who uses it is brain-dead. I just don't understand how people can claim that if they look at current frontier models.</p> <p>Codex surpassed 25 million active users. Is that not a sign that AI is useful to some capacity? It's crazy that people think they know better than f",
+    "title_zh": "为何有些人难以相信AI是有用的？",
+    "summary_zh": "一篇讨论帖，作者对网络上部分人坚称AI无法做任何实际工作、使用者不动脑的观点表示不解，并展开讨论。",
+    "key_points": [
+      "网络上存在AI无用论的观点",
+      "作者认为AI的有用性很容易被证明"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a469f06faa834490a738139a3a3db778",
+    "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
+    "url": "https://www.reddit.com/r/artificial/comments/1w7r5mn/505_of_americans_say_ai_romance_can_count_as/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-05T04:57:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This survey seems pretty interesting. My only concern is whether data collected using SurveyMonkey Audience really represents Americans in a broad sense. What do you guys think?</p> <p><a href=\"https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/\">https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/</a> </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a hre",
+    "title_zh": "50.5%的美国人认为与AI恋爱算作出轨",
+    "summary_zh": "一项调查显示，超过一半的美国人认为与AI发展恋爱关系可以被视为对伴侣的出轨行为，但调查样本的代表性受到质疑。",
+    "key_points": [
+      "超半数美国人认为与AI恋爱是出轨行为",
+      "调查样本的代表性受到质疑"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "509f2c6187ff1eee7deb656b42ad1269",
+    "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+    "url": "https://www.qbitai.com/2026/09/484649.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-09-05T04:24:25+00:00",
+    "content_snippet": "AI直接吐出正确答案，但最关键的可能不是答案",
+    "title_zh": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+    "summary_zh": "数学家陶哲轩对GPT-6在孪生素数问题上直接给出正确答案但可能缺失关键过程的结果表示无语，引发对AI数学能力的讨论。",
+    "key_points": [
+      "GPT-6在孪生素数问题上取得新突破",
+      "陶哲轩吐槽AI直接给出答案但过程令人无语"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "338d57ea34752fccea95a0bfa60ec8cd",
+    "title": "ChatGPT Plus vs Gemini AI Pro vs Claude Pro for serious academic research",
+    "url": "https://www.reddit.com/r/artificial/comments/1w7q8rv/chatgpt_plus_vs_gemini_ai_pro_vs_claude_pro_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-05T04:10:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm looking for an AI subscription to use for heavy/long-term research, not casual questions. I'm currently doing M.Tech-level research in chemical engineering/process control, involving things like Distributed Model Predictive Control (DMPC), mathematical modeling, graph theory, MATLAB simulations, and analysis of technical research papers.</p> <p>My main requirements are:</p> <ol> <li><p>Deep analysis of technical research papers/PDFs</p></li> <li><p>Literatur",
+    "title_zh": "ChatGPT Plus vs Gemini AI Pro vs Claude Pro：严肃学术研究对比",
+    "summary_zh": "用户为进行化工过程控制等严肃学术研究，寻求ChatGPT Plus、Gemini AI Pro和Claude Pro之间的最佳AI订阅服务对比。",
+    "key_points": [
+      "用户为化工领域学术研究对比三大AI订阅服务",
+      "评估涉及复杂数学建模和分布式模型预测控制"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "google",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dce557861233732add942d0b56296f37",
+    "title": "Nvidia acquiring Hugging Face (~$13B), Apple reportedly renting Gemini for Siri, and Anthropic's quiet Sonnet 5 price bump — a roundup of a heavy week",
+    "url": "https://www.reddit.com/r/artificial/comments/1w7p8uk/nvidia_acquiring_hugging_face_13b_apple/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-05T03:19:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A few genuinely structural things happened this week that seem more important than the usual model-drop cycle, so I wanted to lay them out and get others' read.</p> <ol> <li><strong>Nvidia is buying Hugging Face for around $13B.</strong> Reported across CNBC, TechCrunch and the wires. HF says it'll &quot;remain an open platform.&quot; What's interesting to me is the vertical integration angle — the dominant compute vendor now owns the main distribution hub for o",
+    "title_zh": "英伟达收购Hugging Face，苹果或租用Gemini，Anthropic悄然涨价——重磅一周回顾",
+    "summary_zh": "本周AI行业发生多起结构性事件：英伟达约130亿美元收购Hugging Face，苹果被曝为Siri租用Gemini，Anthropic的Sonnet 5模型价格悄然上涨。",
+    "key_points": [
+      "英伟达以约130亿美元收购Hugging Face",
+      "苹果被曝为Siri租用谷歌Gemini模型",
+      "Anthropic的Sonnet 5模型价格悄然上涨"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "nvidia",
+      "apple",
+      "google",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
