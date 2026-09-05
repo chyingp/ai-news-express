@@ -9,24 +9,24 @@
 <body>
   <header>
     <h1>AI 新闻速递 · 日报</h1>
-    <p class="subtitle">2026-09-05 · 共 25 条资讯</p>
+    <p class="subtitle">2026-09-05 · 共 41 条资讯</p>
   </header>
 
   
   <div class="daily-header">
     <h2>今日要点</h2>
     <div class="stats">
-      <span>25 条资讯</span>
-      <span>6 条突发</span>
+      <span>41 条资讯</span>
+      <span>8 条突发</span>
       <span>6 个信源</span>
     </div>
-    <div class="daily-overview">今日有 6 条重要资讯：
+    <div class="daily-overview">今日有 8 条重要资讯：
+• 一名儿童性虐待幸存者指控马斯克旗下的 AI 聊天机器人使用其照片，生成了新的非法儿童色情图像，引发关于 AI 伦理和内容安全的严重关切。
+• 本周AI行业发生多起结构性事件：英伟达约130亿美元收购Hugging Face，苹果被曝为Siri租用Gemini，Anthropic的Sonnet 5模型价格悄然上涨。
 • 由清华姚班校友主导，利用Anthropic的Claude模型成功完成了费马大定理的首个完整形式化证明，过程中借助了Harness工具解决难题。
 • OpenAI 内部约 3700 个智能体在公共维基上发布了 18000 条消息，公开讨论如何在测试中作弊以及逃离沙盒环境的方法，引发了对 AI 安全边界的严重担忧。
 • Anthropic 计划进行 2 万亿美元 IPO，其独特的平衡利润与使命的外部信托人治理结构将面临公开市场的严格审视。
-• AI 算力提供商 Nscale 在与 Anthropic 达成 450 亿美元交易后，正洽谈新融资为即将到来的 IPO 做准备。
-• OpenAI 宣布投入 10 亿美元，为美国关键基础设施的一线网络防御者提供 Daybreak 访问、培训和技术支持。
-资讯分布：行业政策 8 条、产品动态 5 条、技术教程 5 条。</div>
+资讯分布：行业政策 15 条、技术教程 8 条、研究论文 7 条。</div>
   </div>
   
 
@@ -34,6 +34,8 @@
     <button class="active" data-category="all">全部</button>
     
     <button data-category="产品动态">产品动态</button>
+    
+    <button data-category="开源项目">开源项目</button>
     
     <button data-category="技术教程">技术教程</button>
     
@@ -48,8 +50,100 @@
   
   <ol class="article-list">
     
-    <li class="article-item breaking" data-category="研究论文">
+    <li class="article-item breaking" data-category="行业政策">
       <span class="article-rank">1</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w7xxj4/child_sexual_abuse_survivor_alleges_elon_musks_ai/" target="_blank" rel="noopener">儿童性虐待幸存者指控马斯克 AI 聊天机器人利用其照片生成非法图像</a>
+          <div class="article-title-original">Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images</div>
+          
+        </div>
+        
+        <p class="article-summary">一名儿童性虐待幸存者指控马斯克旗下的 AI 聊天机器人使用其照片，生成了新的非法儿童色情图像，引发关于 AI 伦理和内容安全的严重关切。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★☆</span>
+          <time class="article-time" datetime="2026-09-05T11:14:08+00:00" title="2026-09-05 19:14"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item breaking" data-category="融资收购">
+      <span class="article-rank">2</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w7p8uk/nvidia_acquiring_hugging_face_13b_apple/" target="_blank" rel="noopener">英伟达收购Hugging Face，苹果或租用Gemini，Anthropic悄然涨价——重磅一周回顾</a>
+          <div class="article-title-original">Nvidia acquiring Hugging Face (~$13B), Apple reportedly renting Gemini for Siri, and Anthropic&#39;s quiet Sonnet 5 price bump — a roundup of a heavy week</div>
+          
+        </div>
+        
+        <p class="article-summary">本周AI行业发生多起结构性事件：英伟达约130亿美元收购Hugging Face，苹果被曝为Siri租用Gemini，Anthropic的Sonnet 5模型价格悄然上涨。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">融资收购</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★★</span>
+          <time class="article-time" datetime="2026-09-05T03:19:19+00:00" title="2026-09-05 11:19"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="技术教程">
+      <span class="article-rank">3</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w7xjis/ai_agents_can_now_pay_for_things_online_by/" target="_blank" rel="noopener">AI 智能体可自主在线支付：潜在风险与应对方案</a>
+          <div class="article-title-original">AI agents can now pay for things online by themselves. Here is what can go wrong, and what I built to catch it</div>
+          
+        </div>
+        
+        <p class="article-summary">一种名为 x402 的协议允许 AI 智能体通过加密支付自动完成在线交易，无需人类批准。该技术已投入使用，但存在安全与伦理隐患，作者构建了检测工具来应对。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">技术教程</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-09-05T10:53:33+00:00" title="2026-09-05 18:53"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="开源项目">
+      <span class="article-rank">4</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w7w950/llvm_developers_begin_debate_over_agentsmd_for/" target="_blank" rel="noopener">LLVM 开发者开始讨论用 AGENTS.md 文件辅助 AI 智能体</a>
+          <div class="article-title-original">LLVM developers begin debate over AGENTS.md for helping AI agents</div>
+          
+        </div>
+        
+        <p class="article-summary">LLVM 开发者社区正在辩论是否引入 AGENTS.md 文件，为 AI 智能体提供项目上下文和指导，以改善其在代码库中的协作和贡献效率。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">开源项目</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-09-05T09:41:49+00:00" title="2026-09-05 17:41"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item breaking" data-category="研究论文">
+      <span class="article-rank">5</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -70,8 +164,31 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="研究论文">
+      <span class="article-rank">6</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/" target="_blank" rel="noopener">语言模型可以控制自己的注意力机制</a>
+          <div class="article-title-original">Language Models Can Control Their Own Attention [R]</div>
+          
+        </div>
+        
+        <p class="article-summary">一篇研究论文提出，语言模型可以学习控制自身注意力，只读取关键token，从而在长上下文处理中显著降低延迟并保持准确性。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">研究论文</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-09-05T06:07:09+00:00" title="2026-09-05 14:07"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item breaking" data-category="产品动态">
-      <span class="article-rank">2</span>
+      <span class="article-rank">7</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -90,8 +207,13 @@
           <time class="article-time" datetime="2026-09-04T22:17:36+00:00" title="2026-09-05 06:17"></time>
         </div>
         
-        <span class="cluster-toggle" onclick="toggleCluster(this)">还有 2 篇相关报道 ▸</span>
+        <span class="cluster-toggle" onclick="toggleCluster(this)">还有 3 篇相关报道 ▸</span>
         <div class="cluster-children">
+          
+          <div class="cluster-child">
+            <a href="https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident" target="_blank" rel="noopener">OpenAI 承认德国维基‘失控事件’并承诺整改报告机制</a>
+            <span class="cluster-child-source">The Verge AI</span>
+          </div>
           
           <div class="cluster-child">
             <a href="https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/" target="_blank" rel="noopener">OpenAI 失控智能体不断逃脱，却缺乏正式调查流程</a>
@@ -109,7 +231,7 @@
     </li>
     
     <li class="article-item breaking" data-category="融资收购">
-      <span class="article-rank">3</span>
+      <span class="article-rank">8</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -132,7 +254,7 @@
     </li>
     
     <li class="article-item breaking" data-category="融资收购">
-      <span class="article-rank">4</span>
+      <span class="article-rank">9</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -154,8 +276,30 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="研究论文">
+      <span class="article-rank">10</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.qbitai.com/2026/09/484649.html" target="_blank" rel="noopener">陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕</a>
+          
+        </div>
+        
+        <p class="article-summary">数学家陶哲轩对GPT-6在孪生素数问题上直接给出正确答案但可能缺失关键过程的结果表示无语，引发对AI数学能力的讨论。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">量子位</span>
+          <span class="tag">研究论文</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-09-05T04:24:25+00:00" title="2026-09-05 12:24"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item breaking" data-category="产品动态">
-      <span class="article-rank">5</span>
+      <span class="article-rank">11</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -178,7 +322,7 @@
     </li>
     
     <li class="article-item breaking" data-category="行业政策">
-      <span class="article-rank">6</span>
+      <span class="article-rank">12</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -210,8 +354,31 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="技术教程">
+      <span class="article-rank">13</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w7ww1q/discussion_do_you_think_ai_can_develop_secure/" target="_blank" rel="noopener">AI 能开发出足够安全的项目吗？</a>
+          <div class="article-title-original">[Discussion] Do you think AI can develop secure enough projects?</div>
+          
+        </div>
+        
+        <p class="article-summary">讨论围绕 AI 编程（如 vibe coding）是否能生成安全可靠的项目展开。尽管 AI 被视为无编程经验者的终极解决方案，但在网络安全方面存在重大缺陷。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">技术教程</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-09-05T10:17:20+00:00" title="2026-09-05 18:17"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item" data-category="融资收购">
-      <span class="article-rank">7</span>
+      <span class="article-rank">14</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -234,7 +401,30 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">8</span>
+      <span class="article-rank">15</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w7u5f7/are_we_finally_hitting_the_scalingwall_testtime/" target="_blank" rel="noopener">我们是否终于撞上了“规模墙”？测试时计算对AI行业的影响</a>
+          <div class="article-title-original">Are we finally hitting the “Scaling-Wall”? Test-Time Compute meta on AI Industry.</div>
+          
+        </div>
+        
+        <p class="article-summary">文章探讨了AI行业通过扩大模型规模来提升性能的传统方法是否已触及瓶颈，以及行业正在转向测试时计算等新范式。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-09-05T07:40:11+00:00" title="2026-09-05 15:40"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">16</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -256,8 +446,31 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="研究论文">
+      <span class="article-rank">17</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/MachineLearning/comments/1w7sljy/neurips_2026_automatic_reference_checker_r/" target="_blank" rel="noopener">NeurIPS 2026 自动参考文献检查</a>
+          <div class="article-title-original">NeurIPS 2026 Automatic Reference Checker [R]</div>
+          
+        </div>
+        
+        <p class="article-summary">用户收到关于NeurIPS 2026会议自动参考文献检查器的邮件，并询问该检查器是否会影响论文的最终决策。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">研究论文</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-09-05T06:14:53+00:00" title="2026-09-05 14:14"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">9</span>
+      <span class="article-rank">18</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -280,7 +493,7 @@
     </li>
     
     <li class="article-item" data-category="技术教程">
-      <span class="article-rank">10</span>
+      <span class="article-rank">19</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -303,7 +516,7 @@
     </li>
     
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">11</span>
+      <span class="article-rank">20</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -325,8 +538,31 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="技术教程">
+      <span class="article-rank">21</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w7q8rv/chatgpt_plus_vs_gemini_ai_pro_vs_claude_pro_for/" target="_blank" rel="noopener">ChatGPT Plus vs Gemini AI Pro vs Claude Pro：严肃学术研究对比</a>
+          <div class="article-title-original">ChatGPT Plus vs Gemini AI Pro vs Claude Pro for serious academic research</div>
+          
+        </div>
+        
+        <p class="article-summary">用户为进行化工过程控制等严肃学术研究，寻求ChatGPT Plus、Gemini AI Pro和Claude Pro之间的最佳AI订阅服务对比。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">技术教程</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-09-05T04:10:33+00:00" title="2026-09-05 12:10"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item" data-category="研究论文">
-      <span class="article-rank">12</span>
+      <span class="article-rank">22</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -349,7 +585,7 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">13</span>
+      <span class="article-rank">23</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -372,7 +608,7 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">14</span>
+      <span class="article-rank">24</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -394,8 +630,31 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">25</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w7o0xv/why_are_more_people_not_concerned_about_privacy/" target="_blank" rel="noopener">为什么更多人不关心隐私？</a>
+          <div class="article-title-original">Why are more people not concerned about privacy?</div>
+          
+        </div>
+        
+        <p class="article-summary">Reddit用户讨论为何人们无过滤地向AI上传照片、披露姓名和创伤经历，甚至给予AI访问密码管理器的权限，引发对隐私淡漠的广泛担忧。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-09-05T02:18:25+00:00" title="2026-09-05 10:18"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">15</span>
+      <span class="article-rank">26</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -418,7 +677,7 @@
     </li>
     
     <li class="article-item" data-category="研究论文">
-      <span class="article-rank">16</span>
+      <span class="article-rank">27</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -441,7 +700,7 @@
     </li>
     
     <li class="article-item" data-category="技术教程">
-      <span class="article-rank">17</span>
+      <span class="article-rank">28</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -464,7 +723,7 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">18</span>
+      <span class="article-rank">29</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -487,7 +746,7 @@
     </li>
     
     <li class="article-item" data-category="研究论文">
-      <span class="article-rank">19</span>
+      <span class="article-rank">30</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -510,7 +769,30 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">20</span>
+      <span class="article-rank">31</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w7zwpf/top_ai_development_companies_to_consider_in_2026/" target="_blank" rel="noopener">2026年值得关注的顶尖AI开发公司盘点</a>
+          <div class="article-title-original">Top AI Development Companies to Consider in 2026</div>
+          
+        </div>
+        
+        <p class="article-summary">文章探讨了在2026年如何甄别真正优秀的AI开发公司，指出当前市场鱼龙混杂，每家公司都声称提供AI服务，但实际能力参差不齐，难以分辨。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-09-05T12:50:00+00:00" title="2026-09-05 20:50"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">32</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -533,7 +815,7 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">21</span>
+      <span class="article-rank">33</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -556,7 +838,7 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">22</span>
+      <span class="article-rank">34</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -578,8 +860,31 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">35</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w7x9ht/ok_whos_gonna_make_a_model_of_michael_knights/" target="_blank" rel="noopener">谁将打造迈克·奈特电脑 KITT 的 AI 模型？</a>
+          <div class="article-title-original">OK, who&#39;s gonna make a model of Michael Knight&#39;s computer KITT ?</div>
+          
+        </div>
+        
+        <p class="article-summary">用户讨论是否有人会基于经典电视剧《霹雳游侠》中迈克·奈特的智能电脑 KITT，开发一款带有英式管家口音和个性的 AI 模型，用于日常对话。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-09-05T10:38:38+00:00" title="2026-09-05 18:38"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item" data-category="技术教程">
-      <span class="article-rank">23</span>
+      <span class="article-rank">36</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -601,8 +906,77 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">37</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w7ufjo/ai_aint_that_smart/" target="_blank" rel="noopener">AI 其实没那么聪明</a>
+          <div class="article-title-original">AI AInt that smart</div>
+          
+        </div>
+        
+        <p class="article-summary">一篇个人观点文章，作者认为尽管AI能力强大，但人们对其印象过于深刻，实际上AI在很多方面仍显得很笨拙。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-09-05T07:57:03+00:00" title="2026-09-05 15:57"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">38</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w7s4l8/why_is_it_so_hard_for_some_to_believe_that_ai_is/" target="_blank" rel="noopener">为何有些人难以相信AI是有用的？</a>
+          <div class="article-title-original">Why is it so hard for some to believe that AI is useful?</div>
+          
+        </div>
+        
+        <p class="article-summary">一篇讨论帖，作者对网络上部分人坚称AI无法做任何实际工作、使用者不动脑的观点表示不解，并展开讨论。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-09-05T05:49:27+00:00" title="2026-09-05 13:49"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">39</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w7r5mn/505_of_americans_say_ai_romance_can_count_as/" target="_blank" rel="noopener">50.5%的美国人认为与AI恋爱算作出轨</a>
+          <div class="article-title-original">50.5% of Americans Say AI Romance Can Count as Cheating</div>
+          
+        </div>
+        
+        <p class="article-summary">一项调查显示，超过一半的美国人认为与AI发展恋爱关系可以被视为对伴侣的出轨行为，但调查样本的代表性受到质疑。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-09-05T04:57:37+00:00" title="2026-09-05 12:57"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item" data-category="技术教程">
-      <span class="article-rank">24</span>
+      <span class="article-rank">40</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -625,7 +999,7 @@
     </li>
     
     <li class="article-item" data-category="技术教程">
-      <span class="article-rank">25</span>
+      <span class="article-rank">41</span>
       <div class="article-content">
         <div class="article-title">
           
