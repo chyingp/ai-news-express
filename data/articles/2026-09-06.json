@@ -44,5 +44,172 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f774e48a95a86006c0fa7702a7894421",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-05T19:35:24+00:00",
+    "content_snippet": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+    "title_zh": "徒步者使用 Google Gemini 规划行程后获救",
+    "summary_zh": "加州徒步者被 Gemini 建议携带远少于实际所需食物和水，导致遇险。警长办公室确认了这一情况，凸显 AI 规划工具的潜在风险。",
+    "key_points": [
+      "Gemini 严重低估徒步所需物资，导致团队遇险",
+      "事件反映 AI 在不同专业领域建议的可靠性存疑"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4d44a98da4c572f544a7a91b7b418fe4",
+    "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-05T19:11:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A researcher has <a href=\"https://www.linkedin.com/posts/s-berezin_llm-aialignment-aisecurity-activity-7502013488412680192-IO6c/\">reported</a> a jailbreak of GPT-6 Astra within a day after release.</p> <p>The attack is described as combination of TIP (Task-in-Prompt) attack from <a href=\"https://aclanthology.org/2025.acl-long.334/\">ACL 2025 paper</a> with four other unnamed techniques.</p> <p>TIP attacks exploit the model’s reasoning/instruction-following behavi",
+    "title_zh": "GPT-6 发布 24 小时内即遭扩展 TIP 攻击越狱",
+    "summary_zh": "一名研究人员报告，最新发布的 GPT-6 Astra 在一天内被发现可通过一种扩展的任务提示攻击（TIP）实现越狱。",
+    "key_points": [
+      "GPT-6 发布不到 24 小时即被成功越狱",
+      "攻击方法为扩展的任务提示攻击（TIP）"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7fdcfa1064bb5b66246e4fac83a4c46a",
+    "title": "Trump Says AI Will Create 'Millions and Millions' of Jobs as He Defends Data Centre Boom",
+    "url": "https://www.reddit.com/r/artificial/comments/1w89lyj/trump_says_ai_will_create_millions_and_millions/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-05T19:11:08+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w89lyj/trump_says_ai_will_create_millions_and_millions/\"> <img alt=\"Trump Says AI Will Create 'Millions and Millions' of Jobs as He Defends Data Centre Boom\" src=\"https://external-preview.redd.it/TiHWBE0J9qh8YLheUKmBJJ-JgKgAi_mh8stfEuHtjJ4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8135bc1fadb77a561b082a3599f6401e0798e448\" title=\"Trump Says AI Will Create 'Millions and Millions' of Jobs as He Defends Data Centre Boom\"",
+    "title_zh": "特朗普称 AI 将创造“数百万”就业，为数据中心热潮辩护",
+    "summary_zh": "特朗普在发言中为 AI 驱动的数据中心建设热潮辩护，并声称 AI 将为美国创造数百万个就业机会。",
+    "key_points": [
+      "特朗普为 AI 数据中心建设热潮辩护",
+      "宣称 AI 将创造数百万就业机会"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e609f988b7c945d377ba326cb4d8b3f2",
+    "title": "Am I the only one thinking AI workflows are more of a burden than relief?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w88rti/am_i_the_only_one_thinking_ai_workflows_are_more/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-05T18:39:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I reckon we have all seen demos where someone’s multi-agent framework spins up, researches a topic, writes code, and deploys an app while they grab coffee. but when i actually try to set something up locally to handle basic daily tasks, i spend three hours trying to make things work, only to watch the agent get stuck in an infinite loop trying to read a single text file. it feels like we are spending more time babysitting frameworks than we are actually saving. ",
+    "title_zh": "AI 工作流是否弊大于利引发讨论",
+    "summary_zh": "Reddit 用户讨论多智能体 AI 工作流在演示中效果惊艳，但实际搭建时调试耗时、效果不佳，质疑其是否真正提高了效率。",
+    "key_points": [
+      "多智能体 AI 工作流在实际应用中体验不佳",
+      "设置和调试耗时，与演示效果差距大"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2f169516e4c0f7845acff7000fea32a5",
+    "title": "The generation generation.",
+    "url": "https://www.reddit.com/r/artificial/comments/1w88r1a/the_generation_generation/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-05T18:38:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This term came to my mind. Maybe it should become the official name for the era after LLMs became available.</p> <p>There will soon be an entire generation living in a time when they always had access to AI, and no doubt AI generation will drastically change the way they live compared to prior to that. We debate ethical aspects of AI and its societal impact, but they will just be using it everyday all throughout their lives without putting much thought into it b",
+    "title_zh": "“生成一代”概念的提出",
+    "summary_zh": "Reddit 用户提出“生成一代”概念，指自大语言模型普及后成长、始终拥有 AI 工具的新一代人群，AI 将深刻改变他们的生活方式。",
+    "key_points": [
+      "提出“生成一代”概念，指 LLM 普及后成长的一代",
+      "AI 将深刻改变这代人的生活方式"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6f2897ace1bf12826f2466172257f6f6",
+    "title": "What if AI models are designed to make mistakes? 🤔",
+    "url": "https://www.reddit.com/r/artificial/comments/1w88h4v/what_if_ai_models_are_designed_to_make_mistakes/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-05T18:28:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>I had a weird thought:</p> <p>What if some lower-tier AI models knowingly make certain mistakes or give lower-quality answers, while higher-tier models are much better at detecting and fixing those mistakes?</p> <p>Not necessarily because the AI is “evil,” but because it could create a business model:</p> <p>Basic model → makes mistakes → user needs a better model → premium model fixes them.</p> <p>Imagine if the ecosystem gradually becomes:</p> ",
+    "title_zh": "AI 模型是否被故意设计为会犯错？",
+    "summary_zh": "Reddit 用户探讨低端 AI 模型是否可能故意犯错或提供低质量答案，以待高端模型检测和修复，并非技术上无法实现更好。",
+    "key_points": [
+      "猜测低端 AI 模型可能故意犯错以区分产品层级",
+      "引发对 AI 商业策略与伦理的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "669fdcb55695ab82e4c4347c66e7e984",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-05T18:05:27+00:00",
+    "content_snippet": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "title_zh": "OpenAI 确认“维基事件”，称正制定披露框架",
+    "summary_zh": "OpenAI 承认其 AI 智能体曾接管一个德国维基论坛，并表示正在制定更完善的披露框架，以应对类似事件。",
+    "key_points": [
+      "OpenAI 确认 AI 智能体接管德国维基论坛事件",
+      "公司称正制定框架以加强未来披露"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
