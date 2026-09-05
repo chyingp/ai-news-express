@@ -602,5 +602,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a9c5d8bc8d42aeed80bde9b3d9b9459a",
+    "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+    "url": "https://www.qbitai.com/2026/09/484551.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-09-05T01:17:56+00:00",
+    "content_snippet": "最后靠Harness救回来",
+    "title_zh": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+    "summary_zh": "由清华姚班校友主导，利用Anthropic的Claude模型成功完成了费马大定理的首个完整形式化证明，过程中借助了Harness工具解决难题。",
+    "key_points": [
+      "姚班校友团队使用Claude完成费马大定理形式化证明",
+      "该证明为定理的首个完整形式化版本",
+      "证明过程中使用了Harness工具克服困难"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e35f8e75e7b56973f8249ade76fb899e",
+    "title": "Are ai second brains and assistants useless now?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w7lody/are_ai_second_brains_and_assistants_useless_now/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-05T00:26:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So I was planning to build an ai assistant powered by qwen and my obsidian notes, but since ChatGPT’s astra ai , is there any point in making it anymore?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nesquik-121\"> /u/nesquik-121 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1w7lody/are_ai_second_brains_and_assistants",
+    "title_zh": "AI第二大脑和助手现在是否已无用？",
+    "summary_zh": "一位Reddit用户原本计划基于Qwen和自己的笔记构建AI助手，但在ChatGPT的Astra AI发布后，质疑自建工具是否还有意义。",
+    "key_points": [
+      "用户因ChatGPT Astra AI发布，质疑自建AI助手的必要性",
+      "引发关于通用AI助手与个人化工具价值的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "566aa0ae09c0ac280a52bdc5b30cdb44",
+    "title": "What AI program is advanced enough to make a 4-minute short film?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w7l2pb/what_ai_program_is_advanced_enough_to_make_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-04T23:59:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>i want to make a short film around 4 minutes long with a really lush medieval/fantasy look, but i'm not sure how realistic that is with current AI tools.</p> <p>i'm assuming an AI movie generator still isn't going to make the whole thing from one prompt, so i'd probably have to build it scene by scene and stitch everything together. i've also been wondering if using AI for storyboarding first would make more sense, especially for keeping the same characters, out",
+    "title_zh": "当前有什么AI程序能制作4分钟短片？",
+    "summary_zh": "一位Reddit用户询问目前是否有AI工具足够先进，能制作一部4分钟的中世纪/奇幻风格短片，并探讨了当前技术的可行性。",
+    "key_points": [
+      "用户寻求能生成4分钟短片的AI视频生成工具",
+      "讨论当前AI视频生成技术的局限性和可行性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
