@@ -574,5 +574,81 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1559bad7bbce3d5df255d27e4f142ddc",
+    "title": "Built a Chrome sidebar that summarizes any page so I stop drowning in tabs",
+    "url": "https://www.reddit.com/r/artificial/comments/1w8wu0c/built_a_chrome_sidebar_that_summarizes_any_page/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-06T13:54:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.reddit.com/r/chrome_extensions/?f=flair_name%3A%22Idea%20Validation%20%2F%20Need%20feedback%22\"></a>Hey everyone,</p> <p>I had one of those Saturday mornings where I had 25 tabs open, read 3 articles properly, and spent the rest of the time either skimming things too fast or copy-pasting them into ChatGPT to get the gist</p> <p>So I built a tool in Chrome's sidebar that opens on any page and gives you a proper digest of what you just read. W",
+    "title_zh": "打造Chrome侧边栏AI摘要工具，告别标签页海洋",
+    "summary_zh": "作者开发了一款Chrome侧边栏扩展，能总结任何网页内容，旨在解决因打开过多标签页导致的信息过载和阅读效率低下的问题。",
+    "key_points": [
+      "开发Chrome侧边栏扩展，用AI总结网页内容",
+      "旨在解决打开过多标签页导致的信息过载问题",
+      "属于个人项目分享与反馈征集"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4716752bb2ba4a3d6c3b6a89ac25a6ad",
+    "title": "How much people still like these tools?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w8vete/how_much_people_still_like_these_tools/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-06T12:52:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Chatgtp, Claude, Gemini - outside of image generation for 2 of these things, they're pretty much near the same. </p> <p>They are very inaccurate for a natural language model, but what I hate the most is the humanising and lectures on morality. These companies are far from moral. They are like thought police. </p> <p>I'm done and uninstalled. I probably am the minority.... </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mny",
+    "title_zh": "用户热议：ChatGPT、Claude、Gemini等AI工具是否仍受欢迎",
+    "summary_zh": "Reddit用户讨论ChatGPT、Claude、Gemini等主流AI工具，认为它们在自然语言处理上差异不大，但存在准确性不足和过度拟人化及道德说教的问题。",
+    "key_points": [
+      "用户认为ChatGPT、Claude、Gemini等基础功能趋同",
+      "主要槽点在于模型准确性不足及过度拟人化",
+      "反映了社区对当前主流AI助手的真实使用感受"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aa6b3bbf2d93fffceb5d380b87c2787f",
+    "title": "Building an AI voice agent from scratch: the parts that actually took our time",
+    "url": "https://www.reddit.com/r/artificial/comments/1w8vayd/building_an_ai_voice_agent_from_scratch_the_parts/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-06T12:47:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We recently finished our first proper phone-based AI agent and did a postmortem on where the engineering time actually went.</p> <p>It wasn't the LLM.</p> <p>We spent maybe 15% of the time getting the actual conversation behaviour right. The rest went into all the boring stuff around it.</p> <p>The biggest time sinks were:</p> <ol> <li>Telephony</li> </ol> <p>SIP setup, call routing, dealing with weird edge cases. This took considerably longer than expected.</p>",
+    "title_zh": "从零构建AI语音代理：真正耗时的部分在哪里",
+    "summary_zh": "团队复盘了构建基于电话的AI语音代理过程，发现仅有15%的时间花在优化大语言模型对话行为上，其余大部分时间都投入到了集成、延迟等基础设施与工程化问题。",
+    "key_points": [
+      "构建AI语音代理仅15%时间用于优化LLM对话行为",
+      "大部分工程时间消耗在延迟、集成等基础设施问题上",
+      "揭示了从模型到实际产品落地之间存在巨大工程鸿沟"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
