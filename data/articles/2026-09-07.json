@@ -119,5 +119,78 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3997b3420fb1db5999edc9b97fad7c3b",
+    "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-06T20:47:37+00:00",
+    "content_snippet": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+    "title_zh": "作家反对出版商和代理商寻求分享Anthropic和解金",
+    "summary_zh": "在Anthropic的版权和解案中，作家群体认为出版商和代理商试图索取超出其应得份额的和解金，引发新的分配争议。",
+    "key_points": [
+      "作家指责出版商在Anthropic版权和解中索要过多份额",
+      "该争议涉及AI训练数据版权和赔偿金分配问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "14bedfe3fc0c2ff5e95853c9033741bc",
+    "title": "Why would we do that?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w96lyt/why_would_we_do_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-06T20:03:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>You could call me a noob in this field but the doom news and doom yt videos about AI sparked the question in me.</p> <p>Why would we give the AI an ability to be evil, selfish, destructive, deceiving?</p> <p>If that code doesn’t exist, then ai cannot form it? Or? Why would we purposely risk our well being, well being of humanity in giving Ai the ability to be destructive to us?</p> <p>For me it doesn’t make sense.</p> <p>Why not make AI or agents as benevolent a",
+    "title_zh": "我们为什么要给AI作恶的能力？",
+    "summary_zh": "Reddit用户对AI安全产生疑问，不理解为何人类要赋予AI邪恶、自私或欺骗的能力，探讨AI代码中是否可能不存在此类行为。",
+    "key_points": [
+      "用户质疑为何要编码赋予AI负面行为",
+      "AI的破坏性行为是否源于代码缺失引发讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "856e20dcb7c098db2cece34d4ecc740e",
+    "title": "Musk Loses Bid To Block MN Law Against AI Child Porn",
+    "url": "https://www.reddit.com/r/artificial/comments/1w953sx/musk_loses_bid_to_block_mn_law_against_ai_child/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-06T19:07:51+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w953sx/musk_loses_bid_to_block_mn_law_against_ai_child/\"> <img alt=\"Musk Loses Bid To Block MN Law Against AI Child Porn\" src=\"https://external-preview.redd.it/r1K1i9LfxCafaqhbjh0gkENA7_en7C3i9HbWXTu2rKo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b703419af8aace14504f9d7f77b2b7c58bc8abc9\" title=\"Musk Loses Bid To Block MN Law Against AI Child Porn\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.",
+    "title_zh": "马斯克阻止明尼苏达州反AI儿童色情法失败",
+    "summary_zh": "马斯克试图阻止明尼苏达州一项针对AI生成儿童色情内容的法律，但法律挑战未获成功，该法律将继续生效。",
+    "key_points": [
+      "马斯克法律挑战失败，明尼苏达州反AI儿童色情法得以维持",
+      "该法律旨在打击利用AI生成儿童性虐待材料的行为"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
