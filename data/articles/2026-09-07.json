@@ -1,0 +1,49 @@
+[
+  {
+    "id": "3ccccd93643702df55d44b597d6e86a8",
+    "title": "I built a local-first hybrid router for AI Agent Skills (sub-20ms, zero tokens, runs on CPU) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w90x3i/i_built_a_localfirst_hybrid_router_for_ai_agent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-06T16:34:23+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1w90x3i/i_built_a_localfirst_hybrid_router_for_ai_agent/\"> <img alt=\"I built a local-first hybrid router for AI Agent Skills (sub-20ms, zero tokens, runs on CPU) [P]\" src=\"https://external-preview.redd.it/SFoPRKVbK_d252ti-1RUeOPng3EL023rG8Q_fiDMyeE.png?width=140&amp;height=70&amp;auto=webp&amp;s=34ade8d582adc879df2e0c459c2f19b334d1fd69\" title=\"I built a local-first hybrid router for AI Agent Skills (sub-20ms, zero tokens",
+    "title_zh": "我为AI Agent技能构建了一个本地优先的混合路由器（20毫秒内，零Token，CPU上运行）[P]",
+    "summary_zh": "作者展示了一个开源的AI Agent技能路由系统，采用本地优先的混合架构，能在CPU上以低于20毫秒的速度完成任务调度，全程无需消耗Token。",
+    "key_points": [
+      "构建了一个CPU上运行、零Token消耗的AI Agent路由器",
+      "路由延迟低于20毫秒，采用本地优先的混合架构",
+      "这是一个开源的个人项目分享"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "acb679078f8892e943893c2ac38349cc",
+    "title": "[D] IJCNLP-AACL 2026: Paper Commitment Results (ARR May 2026 Cycle) [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w8zzja/d_ijcnlpaacl_2026_paper_commitment_results_arr/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-06T15:59:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AACL-IJCNLP 2026 acceptance results will be released in a few hours.</p> <p>Feel free to share your thoughts and feelings! How did you do?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Starscream-11813\"> /u/Starscream-11813 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1w8zzja/d_ijcnlpaacl_2026_paper_c",
+    "title_zh": "IJCNLP-AACL 2026: 论文承诺结果（ARR 2026年5月周期）[D]",
+    "summary_zh": "Reddit用户正在讨论即将发布的AACL-IJCNLP 2026会议论文录用结果，并邀请大家分享感受和经历。",
+    "key_points": [
+      "AACL-IJCNLP 2026论文录用结果即将公布",
+      "Reddit用户发起讨论，分享等待结果的心情"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
