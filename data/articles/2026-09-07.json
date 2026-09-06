@@ -45,5 +45,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "094d1b18a92dd0644411936282d3c9df",
+    "title": "Proposed architecture for inferencing sparse MOE models increasing Active parameters using layered + linear decay. Succinct reasoning without any model training or fine tune. [p]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w94dtn/proposed_architecture_for_inferencing_sparse_moe/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-06T18:41:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I ported MoE expert expansion to llama.cpp 🚀</p> <p>Run MoE models with MORE routed experts than the native top-K (8-&gt;x), adaptive threshold, 99→50% influence decay, layer range. Runtime-only, all backends.</p> <p>Tested on Qwen 3.6 35B A4B+</p> <p><a href=\"https://github.com/vagrillo/llama.cpp/blob/moe-expansion/docs/moe-expansion.md\">https://github.com/vagrillo/llama.cpp/blob/moe-expansion/docs/moe-expansion.md</a></p> </div><!-- SC_ON --> &#32; submitted b",
+    "title_zh": "稀疏MoE模型推理新架构：通过分层线性衰减提升激活参数",
+    "summary_zh": "一种在推理时无需训练或微调即可扩展MoE模型激活专家数的方法已被移植到llama.cpp。该方法通过自适应阈值和衰减策略，在运行时动态增加路由专家数，已在Qwen 3.6 35B A4B+模型上测试。",
+    "key_points": [
+      "提出在推理时动态扩展MoE激活专家数的新架构，无需额外训练",
+      "该方法已实现在llama.cpp中，支持所有后端，并已在Qwen模型上验证",
+      "核心机制包括自适应阈值、影响力衰减和分层范围控制"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c37f3e29dc14cc3ea60e41e64d4a074f",
+    "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-06T17:29:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>I feel that reproducibility is now a lost cause in machine learning research for three reasons:</strong></p> <ol> <li><p>Many research is moving towards the physical AI territory, where you need expensive hardwares or even entire laboratories with high-speed cameras, in order to perform an experiment. You truly have no idea if the experiment can be reproduced and have to trust the demo. But demos are not perfectly reliable. Plus people are incentivized t",
+    "title_zh": "机器学习研究的可复现性正走向无关紧要，是否为时已晚？",
+    "summary_zh": "一篇Reddit讨论指出，因物理AI研究需昂贵硬件、大模型闭源趋势及学术激励偏向新奇而非可靠，机器学习研究的可复现性正成为失落的事业，引发社区对研究未来的担忧。",
+    "key_points": [
+      "物理AI研究需要昂贵硬件和实验室，提高了复现门槛",
+      "头部模型闭源且规模庞大，使独立复现几乎不可能",
+      "学术激励体系偏向发表新奇结果，而非验证和复现旧研究"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f33b1fcaa6232afb18975662ff44ae0c",
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-06T16:45:00+00:00",
+    "content_snippet": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "title_zh": "特拉维斯·卡兰尼克的Atoms公司可能进军无人驾驶出租车业务",
+    "summary_zh": "Uber创始人特拉维斯·卡兰尼克的新公司Atoms正探索进入无人驾驶出租车领域。卡兰尼克曾表示，Atoms将让他完成在Uber未竟的事业，此次进军或将重塑其与出行行业的连结。",
+    "key_points": [
+      "Uber创始人卡兰尼克的新公司Atoms正在探索无人驾驶出租车业务",
+      "卡兰尼克视Atoms为完成其在出行领域'未竟事业'的载体",
+      "若成行，将标志其时隔多年重返并重塑共享出行及自动驾驶赛道"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
