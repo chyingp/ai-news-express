@@ -192,5 +192,96 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6b9a262e693f778ef531b5f9cf7f5a10",
+    "title": "Built a deterministic reasoning engine from part of a failed AI project 🤯",
+    "url": "https://www.reddit.com/r/artificial/comments/1w9adne/built_a_deterministic_reasoning_engine_from_part/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-06T22:32:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Over the last month, in my spare time, I’ve been experimenting with two separate ideas: some recurrent-network maths as a possible GRU/LSTM substitute, and a separate transformerless AI project.</p> <p>The transformerless project eventually became too slow to properly train and debug on the hardware I have, so I started pulling it apart to see if any individual pieces were worth keeping.</p> <p>One part was: the structured memory/reasoning section. It kept behav",
+    "title_zh": "从失败AI项目中构建确定性推理引擎",
+    "summary_zh": "作者在业余时间尝试了循环网络数学和替代Transformer的项目，后来从失败项目中提取部分成果，构建了一个确定性推理引擎。",
+    "key_points": [
+      "从失败AI项目中提取部分成果构建确定性推理引擎",
+      "实验涉及GRU/LSTM替代方案和Transformerless项目"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4b8cf59bb107fca181edd0584974220a",
+    "title": "PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-06T22:19:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>When I first started working in scientific machine learning, I understood the physics much better than the coding. Every time I wanted to try a new physics-informed neural network problem, I had to start almost from scratch: changing the PDE, updating boundary conditions, modifying the architecture, tweaking the training schedule, debugging errors, and generating plots—all by hand.</p> <p>That frustration pushed me to build <strong>PINNStudio</strong>. It is a f",
+    "title_zh": "PINNStudio：免费开源的无代码GUI，用于配置、训练和可视化PINN",
+    "summary_zh": "PINNStudio是一个免费开源的无代码图形界面工具，旨在简化物理信息神经网络（PINN）的设置、训练和可视化，降低科学机器学习入门门槛。",
+    "key_points": [
+      "为物理信息神经网络提供无代码图形界面工具",
+      "简化PDE模型设置、训练和可视化流程"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "56459a66ac2e0b46f8791e77e90c7455",
+    "title": "Ai generated transcript",
+    "url": "https://www.reddit.com/r/artificial/comments/1w98k1x/ai_generated_transcript/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-06T21:18:02+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w98k1x/ai_generated_transcript/\"> <img alt=\"Ai generated transcript\" src=\"https://external-preview.redd.it/d25sZXRodjN2eW5oMXe_P55mzZq9ZiIZ4HnrqV_FCNkk0SEsdR2t8LK-PMbL.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d283b8ac3869baeb979cf5d9bd5b0f7b406158de\" title=\"Ai generated transcript\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Why do some videos generate this exact transcript on muted videos? It’s so bizarre a",
+    "title_zh": "AI生成抄本",
+    "summary_zh": "一位Reddit用户分享或询问关于AI生成文本抄本的相关内容，但原文细节有限，无法获取更多具体信息。",
+    "key_points": [
+      "Reddit上关于AI生成抄本的讨论或分享"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7f48b7c69bc2f527968deddc5544bf3a",
+    "title": "What is the correct way to vibe-code Machine Learning projects?[p]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w98h2p/what_is_the_correct_way_to_vibecode_machine/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-06T21:14:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm currently learning Machine Learning through a course, and I want to start building projects alongside it.</p> <p>My main goal right now is simply to <strong>build several good ML projects and get familiar with the complete project development process</strong>.</p> <p>I want to use AI coding tools such as Cursor, Claude Code, or GitHub Copilot to speed up development, but I'm unsure about the <strong>right way to vibe-code an ML project</strong>.</p> <p>For e",
+    "title_zh": "氛围式编码机器学习项目的正确方法是什么？",
+    "summary_zh": "一名机器学习学习者询问如何在课程学习的同时，以正确的方式开始构建多个ML项目，并熟悉完整的项目开发流程。",
+    "key_points": [
+      "询问如何在学习ML过程中正确构建项目",
+      "目标是熟悉完整项目开发流程并积累项目经验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
