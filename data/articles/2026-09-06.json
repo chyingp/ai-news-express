@@ -332,5 +332,99 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "af0649995f8da95b42a70d0bde377a99",
+    "title": "Can AI design circuit boards yet?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w8mzqg/can_ai_design_circuit_boards_yet/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-06T05:14:52+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w8mzqg/can_ai_design_circuit_boards_yet/\"> <img alt=\"Can AI design circuit boards yet?\" src=\"https://external-preview.redd.it/f3ns_3_5ZaBNg2xIkfdtpUV_6AZ_WBcdckoGnlVBDjg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=39c84c28ee29cf4091340f9abb201569edb9f7c9\" title=\"Can AI design circuit boards yet?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/tw1st3d_m3nt4t\"> /u/tw1st3d_m3nt4t </a> &#32;",
+    "title_zh": "AI 能设计电路板了吗？",
+    "summary_zh": "Reddit 用户讨论当前 AI 在电路板设计领域的能力，关注其是否已能胜任实际工程任务。",
+    "key_points": [
+      "探讨 AI 目前是否具备电路板设计能力",
+      "用户讨论 AI 在硬件工程中的实际应用水平"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "af35208ca0d34bb1d72ef5a5b3e5974b",
+    "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+    "url": "https://www.qbitai.com/2026/09/484890.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-09-06T04:40:15+00:00",
+    "content_snippet": "",
+    "title_zh": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+    "summary_zh": "B站首届AI创造公开赛结束，超八成参赛者以个人形式参赛，展示了个人创作者在AI开发领域的活跃度。",
+    "key_points": [
+      "B站首届AI创造赛圆满结束",
+      "超八成参赛者为独立开发者，凸显个人创作趋势"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "bytedance"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "181f1b81fa97a0a82c9dc374057516ba",
+    "title": "What will LLMs never do?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w8m8rw/what_will_llms_never_do/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-06T04:35:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In previous years, this was discussed a lot; now I feel like it's not talked about nearly as much. People claimed LLMs would never reach AGI, but we're getting closer and closer by the day. I wouldn't be surprised if it does reach AGI within the next 12-18 months.</p> <p>I know I'm going to get a lot of disagreement about what AGI is. I'm going by the OpenAI definition. For the uninformed, this is it: “(a) highly autonomous systems that outperform humans at most",
+    "title_zh": "大语言模型永远无法做到什么？",
+    "summary_zh": "Reddit 用户讨论大语言模型的局限性，有观点认为其正快速接近通用人工智能，预计未来12-18个月内可能实现。",
+    "key_points": [
+      "讨论大语言模型的能力边界与局限",
+      "用户认为 AGI 可能在 12-18 个月内实现"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e1483619fa30ea2a650c9487d0d02441",
+    "title": "AIStats 2027 Questions [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-06T03:33:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi All,</p> <p>Was reading AIStats' website and it seems like abstract submission is due in 3 weeks.</p> <p>Does anyone know where to find the LaTex template for 2027? It seems like very little information is available on their website.</p> <p>Another question, is a Quant Finance paper a better fit for AIStats or ICLR?</p> <p>Some background about the paper:</p> <ul> <li>Rejected by UAI with 76654, had some errors with proofs had to fix it by re-writing 9 pages ",
+    "title_zh": "AIStats 2027 投稿问题",
+    "summary_zh": "用户询问 AIStats 2027 会议摘要提交的 LaTeX 模板及投稿相关问题，摘要截止日期临近。",
+    "key_points": [
+      "AIStats 2027 摘要提交截止日期还有三周",
+      "用户寻找 LaTeX 模板并咨询投稿信息"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
