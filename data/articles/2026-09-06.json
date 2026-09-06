@@ -235,5 +235,102 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "84aa86b9e9b0528a9e27f53e1956025f",
+    "title": "Search agent beats GPT-6 Astra on benchmarks, just days after release [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w8gr2i/search_agent_beats_gpt6_astra_on_benchmarks_just/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-06T00:05:47+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1w8gr2i/search_agent_beats_gpt6_astra_on_benchmarks_just/\"> <img alt=\"Search agent beats GPT-6 Astra on benchmarks, just days after release [N]\" src=\"https://external-preview.redd.it/lXT6imepCS-7C9Ylc6mAEJDZxsdnF4ys8Cb_wIQnamk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=790523e49447629426a8682dcbc12d42abaaf51a\" title=\"Search agent beats GPT-6 Astra on benchmarks, just days after release [N]\" /> </a> </td><td> &#32; ",
+    "title_zh": "搜索代理在基准测试中击败GPT-6 Astra，发布仅数日",
+    "summary_zh": "一款新发布的搜索代理在基准测试中表现优于OpenAI的GPT-6 Astra模型，引发社区对其技术潜力和发布速度的关注。",
+    "key_points": [
+      "新搜索代理击败GPT-6 Astra",
+      "发布后数日内即展示出强劲性能"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6e6aa2325cd26fcd4dcaaa4f367c5d7a",
+    "title": "AI companies are dumping $265M into the midterms as data center backlash sweeps through communities",
+    "url": "https://www.reddit.com/r/artificial/comments/1w8gee5/ai_companies_are_dumping_265m_into_the_midterms/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-05T23:50:17+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w8gee5/ai_companies_are_dumping_265m_into_the_midterms/\"> <img alt=\"AI companies are dumping $265M into the midterms as data center backlash sweeps through communities\" src=\"https://external-preview.redd.it/5QNCE5HZsX5AZHFKls36EDCyd5j8dLO1YG2td7GgwEw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=36fe52df8a5c7b5a016421e45d29bf2db74ac0f6\" title=\"AI companies are dumping $265M into the midterms as data center backlash sweep",
+    "title_zh": "AI公司投入2.65亿美元影响中期选举，数据中心建设遭社区抵制",
+    "summary_zh": "随着数据中心扩张引发社区反对浪潮，多家AI公司正投入巨额资金试图影响美国中期选举，以应对相关政策和舆论压力。",
+    "key_points": [
+      "AI公司为中期选举投入2.65亿美元",
+      "数据中心建设遭遇社区反对浪潮"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "313e858eef6edebc5824bb3ee368e138",
+    "title": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w8g1gk/astra_vs_fable_51_on_real_ml_tasks_tradeoffs/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-05T23:33:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I ran a side-by-side ML text-processing and model-training workflow using Fable 5.1 vs. Astra (both on xhigh), and the results could not have been more different. Warning, long post.</p> <p><strong>TL;DR -- Astra codes more agentically, Fable more coherently. Fable writes better and follows directions better. Astra's final outcome was slightly better, and its scientific rigor/reproducibility was noticeably stronger. Both models improved their F1/Accuracy by 0.02",
+    "title_zh": "Astra与Fable 5.1在真实ML任务中的对比：权衡、优势与不足",
+    "summary_zh": "一篇详细对比分析，指出Astra编码更具代理性，而Fable 5.1连贯性更好，展示了两种模型在实际机器学习任务中的不同表现。",
+    "key_points": [
+      "Astra编码更具代理性",
+      "Fable 5.1在连贯性上表现更佳"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8a7e0f31a98365d15c2c95c407b6f365",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-05T22:49:55+00:00",
+    "content_snippet": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "title_zh": "西雅图时报和新闻日报成为最新起诉OpenAI和微软的出版商",
+    "summary_zh": "又有两家新闻机构因认为其新闻报道被用于训练AI模型而起诉OpenAI和微软，版权纠纷持续扩大。",
+    "key_points": [
+      "两家新闻机构加入版权诉讼行列",
+      "指控OpenAI和微软擅自使用其新闻内容训练AI"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
