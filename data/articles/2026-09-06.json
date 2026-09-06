@@ -426,5 +426,153 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c835e2595e0d10f096cbf93ae449281b",
+    "title": "Applying Sliding Window Attention to pretrained LLMs at inference time [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w8repz/applying_sliding_window_attention_to_pretrained/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-06T09:23:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been working on a practical implementation of <strong>Sliding Window Attention (SWA)</strong> for pretrained Hugging Face causal LLMs.</p> <p>The idea is simple: instead of allowing every generated token to attend to the complete historical KV cache, maintain a bounded cache consisting of:</p> <p><strong>attention sinks + recent sliding window</strong></p> <p>I implemented this as a reusable inference layer rather than modifying or retraining the model.</p>",
+    "title_zh": "在推理时对预训练大语言模型应用滑动窗口注意力机制",
+    "summary_zh": "文章介绍了一种在推理时对Hugging Face预训练因果语言模型应用滑动窗口注意力的实践方法，通过限制生成token对历史KV缓存的全局注意力来提升效率。",
+    "key_points": [
+      "在推理时对预训练LLM实现滑动窗口注意力",
+      "方法限制token仅关注有限历史KV缓存而非全部",
+      "基于Hugging Face模型进行实用化开发"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "20d29bcb455b3d6cf7291f98a29c0d80",
+    "title": "Nvidia and CrowdStrike Develop New Cybersecurity AI Models",
+    "url": "https://www.reddit.com/r/artificial/comments/1w8q5xa/nvidia_and_crowdstrike_develop_new_cybersecurity/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-06T08:13:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Nvidia and CrowdStrike are addressing what they see as one of cybersecurity’s biggest gaps: the need for cyber defenders to harness AI at the velocity of cyber attackers.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/israelavila\"> /u/israelavila </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybe",
+    "title_zh": "英伟达与CrowdStrike联合开发新型网络安全AI模型",
+    "summary_zh": "英伟达和CrowdStrike合作开发新的网络安全AI模型，旨在解决网络防御者利用AI的速度跟不上攻击者利用AI的速度这一关键差距。",
+    "key_points": [
+      "英伟达与CrowdStrike合作开发网络安全AI",
+      "目标是让防御者以攻击者的速度利用AI",
+      "针对网络安全领域AI应用的最大差距"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "16b7b5c94aecc9c8a2b831175e2da1c0",
+    "title": "Rouge AI Tracker: A central news source for Rogue AI incidents",
+    "url": "https://www.reddit.com/r/artificial/comments/1w8plr8/rouge_ai_tracker_a_central_news_source_for_rogue/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-06T07:41:17+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1w8plr8/rouge_ai_tracker_a_central_news_source_for_rogue/\"> <img alt=\"Rouge AI Tracker: A central news source for Rogue AI incidents\" src=\"https://external-preview.redd.it/BQYYlzaYBLOrsjvW3Q-ItNKZpCs7X00nbl8fIGfTyfw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ac52b58192761a4e968b18f9e2f52e96254d7da\" title=\"Rouge AI Tracker: A central news source for Rogue AI incidents\" /> </a> </td><td> &#32; submitted by &#32; <a href=",
+    "title_zh": "Rouge AI Tracker：一个记录失控AI事件的中心化新闻源",
+    "summary_zh": "Rouge AI Tracker 是一个新推出的中心化新闻源，专门追踪和报道各类失控或恶意AI事件，为公众提供相关信息。",
+    "key_points": [
+      "推出中心化新闻源追踪失控AI事件",
+      "聚焦记录和报道恶意AI行为",
+      "为公众提供相关信息汇总"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "879b402954657a76ce5bd81ba63a9527",
+    "title": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w8ph8b/is_designing_a_memory_graph_around_known_data/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-06T07:33:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>building a missing data infrastructure and started benchmarking long multi-session conversations (LoCoMo). I know the data looks like: people, facts, claims, events, timestamps, relations. So I extract those into a graph.<br /> I did not look at the QA pairs while building extractors or retrieval rules. No “if question contains X, fetch fact #173.”<br /> Recall is very high and it keeps working on new conversations in the same format.<br /> Is this classical ove",
+    "title_zh": "围绕已知数据结构设计记忆图谱是否属于",
+    "summary_zh": "作者在构建缺失数据基础设施时，基于已知数据特征（如人物、事实、事件等）设计记忆图谱，但未查看问答对，询问这种做法是否属于过拟合。",
+    "key_points": [
+      "针对多轮对话数据构建记忆图谱",
+      "基于已知数据模式设计图谱结构",
+      "探讨未接触测试数据时的方法是否过拟合"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "703fb19bbf095a23157ee97d5001b32b",
+    "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack",
+    "url": "https://www.reddit.com/r/artificial/comments/1w8on5m/gpt6_reportedly_jailbroken_within_24_hours_using/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-06T06:46:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A researcher has <a href=\"https://www.linkedin.com/posts/s-berezin_llm-aialignment-aisecurity-activity-7502013488412680192-IO6c/\">reported</a> a jailbreak of GPT-6 Astra within a day after release.</p> <p>The attack is described as combination of TIP (Task-in-Prompt) attack from <a href=\"https://aclanthology.org/2025.acl-long.334/\">ACL 2025 paper</a> with four other unnamed techniques.</p> <p>TIP attacks exploit the model’s reasoning/instruction-following behavi",
+    "title_zh": "GPT-6据称在发布24小时内被扩展任务提示攻击越狱",
+    "summary_zh": "一名研究人员报告称，GPT-6 Astra在发布后一天内被一种结合了任务提示（TIP）和角色扮演的扩展攻击方法越狱，引发对AI安全的新关注。",
+    "key_points": [
+      "GPT-6发布24小时内被报告遭越狱",
+      "攻击方法为扩展的任务提示加角色扮演",
+      "事件引发对前沿AI模型安全性的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "82a1968f526ef5899a352c6c3ae79692",
+    "title": "If an AI agent can act on the internet without asking you every time should we actually trust it ?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w8obmo/if_an_ai_agent_can_act_on_the_internet_without/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-06T06:28:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI agents are getting scary good.</p> <p>Were moving from AI that simply answers questions to AI that can actually take actions online edit things, use websites and interact with other systems.</p> <p>Recent reports about AI agents making thousands of changes on their own made me wonder:</p> <p>At what point should an AI agent be treated like an employee rather than a tool ?</p> <p>Would you trust an AI agent with:</p> <p>your email ?</p> <p>your money ?</p> <p>",
+    "title_zh": "如果AI代理能不经询问就在互联网上采取行动，我们还能信任它吗？",
+    "summary_zh": "文章探讨了AI代理从回答问题进化到自主在线操作所带来的信任问题，随着AI可执行大量更改，人类是否应完全信任其决策成为焦点。",
+    "key_points": [
+      "AI代理从问答工具进化为自主行动实体",
+      "AI无需询问即可在线编辑和交互引发信任危机",
+      "讨论人类是否应信任自主行动的AI代理"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
