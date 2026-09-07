@@ -283,5 +283,32 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c6a48e7fbd074e164481dd36b9b3001a",
+    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-06T23:36:04+00:00",
+    "content_snippet": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by [&#8230;]",
+    "title_zh": "《西雅图时报》与《新闻日报》起诉OpenAI与微软侵权",
+    "summary_zh": "《西雅图时报》和《新闻日报》对OpenAI和微软提起诉讼，指控这两家公司未经许可，使用其新闻内容训练AI模型，并在回答用户提问时复制其报道段落，构成版权侵权。",
+    "key_points": [
+      "两家报纸指控OpenAI和微软未经授权使用其新闻训练模型",
+      "诉状称AI模型在回答中直接复制了受版权保护的报道段落",
+      "这是最新一起媒体机构针对AI公司的版权侵权诉讼"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
