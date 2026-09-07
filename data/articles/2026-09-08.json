@@ -141,5 +141,177 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a4daabe3762240125b0697f4d19c1541",
+    "title": "Three hikers got rescued off a mountain this week after following Gemini's advice. The same week OpenAI launched what it's calling the AGI era. I keep thinking about both together.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wa5i9p/three_hikers_got_rescued_off_a_mountain_this_week/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-07T21:47:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The hikers story happened September 1st. Three guys from Roseville used Gemini to plan a Mount Shasta summit. The AI told them to bring far less food and water than they needed. They summited at 7pm, four hours after the recommended turnaround time, descended in the dark, one of them hurt his knee, and they spent the night stranded in a canyon until rangers found them the next morning.</p> <p>Google says they can't replicate the bad answers Gemini gave. Maybe th",
+    "title_zh": "三名登山者因听从 Gemini 建议被困，同期 OpenAI 开启 AGI 时代",
+    "summary_zh": "三名登山者使用谷歌 Gemini 规划登山路线，AI 建议携带的食物和水远低于实际需求，导致他们被困后获救。此事与 OpenAI 同期发布 AGI 时代产品形成对比，引发对 AI 可靠性的讨论。",
+    "key_points": [
+      "登山者使用 Gemini 规划登山导致食物和水不足被困",
+      "AI 建议远低于实际需求，凸显 AI 可靠性问题",
+      "与 OpenAI 发布 AGI 产品同期，形成鲜明对比"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5418966f3502320f3751bddf07796c6b",
+    "title": "Is Voice.ai good for real-time voice changing?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wa3vid/is_voiceai_good_for_realtime_voice_changing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-07T20:42:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I'm looking for an AI voice changer that works well in real time. I'm not really interested in simple effects like pitch shifting or autotuneI'd like something that can actually transform my voice into a completely different voice.</p> <p>Is <a href=\"http://voice.ai\">voice.ai</a> good for this? How is the latency and overall voice quality when using it in real time?</p> <p>Also, is the free version good enough or is it basically unusable without pa",
+    "title_zh": "Voice.ai 实时变声效果如何？",
+    "summary_zh": "用户询问 Voice.ai 的实时变声能力，希望找到能将声音完全转换为不同声音的 AI 工具，而非简单的音调调整或自动调音效果。",
+    "key_points": [
+      "用户寻求可完全转换声音的实时 AI 变声器",
+      "Voice.ai 是考虑选项之一，但未确认其效果"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1ed76a08f3ba88b5cd025c645ff8a0c0",
+    "title": "Overly corrective, judgemental models: Grok, claude, chatgpt",
+    "url": "https://www.reddit.com/r/artificial/comments/1wa2wft/overly_corrective_judgemental_models_grok_claude/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-07T20:06:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I noticed the change in tone of llms in chat. When brainstroming on few ideas these three bots acting superior and telling what not to do most of time ratherthan expanding ideas. Grok is worst since 4.6. Its language deteriorated to Gen Z slang may be smoking on too much of x posts. Its overly judgemental and borderline sarcastic in every line. Have you folks noticed this. Gemini is still better may be its still a backward model? </p> </div><!-- SC_ON --> &#32; ",
+    "title_zh": "用户批评 Grok、Claude、ChatGPT 模型过于纠正和评判",
+    "summary_zh": "用户反映 Grok、Claude 和 ChatGPT 等大语言模型在对话中语气变得过于纠正和评判，尤其在头脑风暴时更倾向于指出错误而非扩展想法，其中 Grok 4.6 版本问题最严重。",
+    "key_points": [
+      "多个 LLM 因过度纠正和评判性语气遭用户批评",
+      "Grok 4.6 版本语言风格恶化，夹杂过多网络俚语",
+      "模型在头脑风暴中更倾向限制而非激发创意"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cfdcfd184197b8ed3fbc09c3fccf13f2",
+    "title": "FreeBuff MCP",
+    "url": "https://www.reddit.com/r/artificial/comments/1wa2bj4/freebuff_mcp/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-07T19:45:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys. I am a GPT Plus user, and I use Freebuff a lot to execute my tasks for free, so I don't use up usage limits at all. Freebuff, if you don't know, is a desktop and CLI agent that gives u a bunch of models for free (DeepSeek V4 Flash, GLM 5.3 Flash, 5.6 Luna, Solar 4 Pro), and it is really good at executing tasks that you give it, imo. I searched for connectors or MCPs that connect to it so I can seamlessly integrate it with Luna or Terra as the planner a",
+    "title_zh": "FreeBuff MCP：免费使用多种 AI 模型的桌面工具",
+    "summary_zh": "用户分享 FreeBuff MCP 工具，可免费使用 DeepSeek V4 Flash、GLM 5.3 Flash 等多种 AI 模型，帮助 GPT Plus 用户节省使用额度限制。",
+    "key_points": [
+      "FreeBuff 提供多种 AI 模型免费使用，包括 DeepSeek 和 GLM",
+      "可帮助 GPT Plus 用户避免消耗使用限制"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1b03e8fcfdc6c80ed8ff0700851f2252",
+    "title": "NCSC warns that shadow AI can expose data and agent privileges",
+    "url": "https://www.reddit.com/r/artificial/comments/1wa2926/ncsc_warns_that_shadow_ai_can_expose_data_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-07T19:42:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The UK's National Cyber Security Centre says employees using AI tools outside an organisation's approved systems can expose company or customer data and reduce the organisation's visibility and control over that information. It cites research saying 71% of employees use AI tools that their employer has not approved.</p> <p>The NCSC also warns that AI agents add another risk: if an agent has a vulnerability or bad configuration, an attacker may gain the same data",
+    "title_zh": "英国 NCSC 警告影子 AI 可能导致数据泄露和权限滥用",
+    "summary_zh": "英国国家网络安全中心警告，员工在组织批准系统外使用 AI 工具可能导致公司或客户数据泄露，并降低组织对信息的可见性和控制力，研究显示 71% 的员工有此行为。",
+    "key_points": [
+      "影子 AI 使用可能暴露公司或客户数据",
+      "71% 的员工在组织批准系统外使用 AI 工具",
+      "NCSC 警告此举会降低组织对信息的控制力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a91b380c0f011ca8182b164eb4a1c594",
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-07T19:24:00+00:00",
+    "content_snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "title_zh": "不透明递归等 AI 术语：你应该了解的关键词",
+    "summary_zh": "随着 AI 的兴起，大量新术语和俚语涌现。TechCrunch 整理了一份包含重要词汇和短语的 AI 术语表，帮助读者理解行业概念。",
+    "key_points": [
+      "AI 兴起带来大量新术语和俚语",
+      "TechCrunch 发布 AI 术语表帮助公众理解"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "81f061f1096707ff60d31f18ee7f619e",
+    "title": "AI could pose 'existential' risk to humanity, UN rights chief warns",
+    "url": "https://www.reddit.com/r/artificial/comments/1wa1j7r/ai_could_pose_existential_risk_to_humanity_un/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-07T19:16:28+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/beingmodest\"> /u/beingmodest </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reuters.com/technology/ai-could-pose-existential-risk-humanity-un-rights-chief-warns-2026-09-07/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1wa1j7r/ai_could_pose_existential_risk_to_humanity_un/\">[comments]</a></span>",
+    "title_zh": "联合国人权事务负责人警告：AI 可能对人类构成'生存'风险",
+    "summary_zh": "联合国人权事务高级专员警告，人工智能可能对人类构成生存性风险，呼吁国际社会重视 AI 安全与监管问题，这是联合国高级官员对 AI 风险的最新表态。",
+    "key_points": [
+      "联合国人权高专警告 AI 可能对人类构成生存风险",
+      "呼吁国际社会重视 AI 安全与监管"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
