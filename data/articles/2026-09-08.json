@@ -46,5 +46,100 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "76b2b41c9241f502fa983649a5717e9b",
+    "title": "Why should I NOT choose Copilot over ChatGPT?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wa02cg/why_should_i_not_choose_copilot_over_chatgpt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-07T18:23:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>TL;DR: Help me make the case that Copilot is the wrong choice compared to ChatGPT Business.</strong></p> <p>At our company we’re currently working with ChatGPT Business. Not a lot of integrations but a pretty deep level of custom GPT’s.</p> <p>I have a meeting next week with my boss, and our external IT provider, who is also a Microsoft partner. They’re going to push Copilot, mainly because of security, compliance and the fact that we’re already on Micro",
+    "title_zh": "为什么我不该选择Copilot而应选ChatGPT？",
+    "summary_zh": "一位Reddit用户发帖，请求帮助论证在公司业务场景下，为何选择ChatGPT Business比选择Copilot更合适，其公司目前正深度使用ChatGPT的自定义GPT功能。",
+    "key_points": [
+      "用户寻求论据，证明ChatGPT Business优于Copilot",
+      "公司当前已深度集成ChatGPT的自定义GPT功能"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "49562d09cb606ed171c542bb2282168b",
+    "title": "Control - If AI could improve humanity and give you a better quality of life would you give it control?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w9zeyk/control_if_ai_could_improve_humanity_and_give_you/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-07T18:00:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have asked this question to a number of &quot;expert panels&quot; it leaves most people divided.</p> <p>I would be happy to driven by an autonomous car as I can easy regain control by getting out of the car but I wouldn't get on a plane without a pilot. 50/50 on a train.</p> <p>I think I would be happy for the AI to evaluation options and make recommendations but I wouldn't be happy for it to take full control even if it was to my benefit.</p> <p>Crazy right ?",
+    "title_zh": "如果AI能改善人类生活，你会交出控制权吗？",
+    "summary_zh": "一篇Reddit讨论帖，探讨了在AI能提升生活质量的前提下，人类是否愿意让渡控制权，并以自动驾驶汽车和无人驾驶飞机为例说明了人们对此的矛盾态度。",
+    "key_points": [
+      "探讨人类对AI控制权的矛盾心理",
+      "以自动驾驶汽车和无人驾驶飞机举例说明"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bcb46f17b782cac5619dd20517c7decd",
+    "title": "Pleaseee! read this",
+    "url": "https://www.reddit.com/r/artificial/comments/1w9z6gm/pleaseee_read_this/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-07T17:51:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I am a developer and I have faced this problem many time which is even when i give ai proper context, the small changes can get annoying. move this text a little, make that image smaller, fix the spacing... sometimes it doesn't understand what i mean or does something different from what i wanted. then it's more explaining, more prompts, more tokens burned. so i started building this. what if ai creates the website, and we just adjust the little th",
+    "title_zh": "求助！关于AI处理微小设计修改的困扰",
+    "summary_zh": "一位开发者发帖吐槽，即使向AI提供了正确的上下文，AI在处理类似“移动文本”、“缩小图片”等微小设计修改时，仍经常无法准确理解意图，导致操作繁琐。",
+    "key_points": [
+      "开发者抱怨AI难以理解微小的UI布局修改指令",
+      "即使提供上下文，AI仍无法准确执行如移动文本等操作"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "90a405236349a0a9bfb7a83fdfd0ba01",
+    "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-07T16:54:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I used an LLM to iteratively evolve an optimization algorithm rather than solve the packing directly. Starting from a simple seed solver, the LLM proposes algorithmic changes guided by a scoreboard of results and a history of prior attempts, and each candidate is scored by an independent verifier so improvements are kept and failures discarded. On the Packomania csqv benchmark it improved the best-known sum-of-radii for 10 values of N from 101 to 114, by 2.4 to ",
+    "title_zh": "LLM引导的程序进化改进了10个已知最佳圆包装方案",
+    "summary_zh": "一项研究利用大语言模型迭代优化求解算法，而非直接求解圆包装问题。该方法从简单的种子求解器开始，由LLM根据结果排行榜和历史记录提出算法改进，成功改进了10个已知最佳方案。",
+    "key_points": [
+      "用LLM迭代进化算法，而非直接求解问题",
+      "成功改进了10个已知最佳圆包装方案"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
