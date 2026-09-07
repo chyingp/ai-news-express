@@ -1,0 +1,50 @@
+[
+  {
+    "id": "58ab275fc8917944923fc46cf10fc5b2",
+    "title": "Where do you personally draw the line between using AI as a tool and letting AI do the work for you?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w9wdeq/where_do_you_personally_draw_the_line_between/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-07T16:08:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This question gets surprisingly complicated.</p> <p>Using AI to fix grammar? Most people seem fine with that.</p> <p>Using it to brainstorm ideas? Probably fine</p> <p>Using it to write the first draft? Depends who you ask.</p> <p>Using it to do the entire assignment while you barely understand the topic? That's where most people would probably draw the line</p> <p>But the line keeps moving</p> <p>Calculators, spellcheck, Google and autocomplete were all seen as",
+    "title_zh": "你个人如何界定使用AI作为工具与让AI替你完成工作之间的界限？",
+    "summary_zh": "一篇Reddit讨论帖，探讨了人们对于AI辅助工作程度的不同接受标准，从语法修正到代写全文，不同应用场景引发了关于依赖性与原创性的复杂伦理争论。",
+    "key_points": [
+      "讨论AI辅助写作的阶梯式界限，从改语法到代写全文",
+      "不同人对AI参与程度接受度存在显著差异和争议",
+      "该问题随AI能力增强在学术和职场中变得更加复杂"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b8d1bb20eb9e5a3960db6ec18bda87e4",
+    "title": "Today, if someone asks you to prove an AI agent was actually authorized to execute an action, what do you show them?",
+    "url": "https://www.reddit.com/r/artificial/comments/1w9v6z4/today_if_someone_asks_you_to_prove_an_ai_agent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-07T15:25:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A log? A trace? The model output? A record showing that the tool call happened?</p> <p>All of those can tell you what happened. They don't necessarily tell you whether the agent was actually allowed to do it.</p> <p>That distinction gets more important as agents move from generating text to acting on real systems: sending payments, changing infrastructure, updating customer records, approving workflows, calling internal APIs.</p> <p>A lot of agent stacks still r",
+    "title_zh": "如今，如果有人让你证明AI智能体确实被授权执行了某项操作，你会出示什么？",
+    "summary_zh": "一篇Reddit技术讨论，指出仅凭日志或模型输出并不能证明AI智能体操作的授权合法性，随着智能体涉足金融等高风险领域，区分“发生了什么”与“是否被允许”变得至关重要。",
+    "key_points": [
+      "日志和模型输出只能证明执行了操作，无法证明授权合法性",
+      "随着AI智能体进入高风险金融领域，授权证明机制愈发关键",
+      "当前缺乏区分“能执行”与“被允许执行”的系统性解决方案"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]

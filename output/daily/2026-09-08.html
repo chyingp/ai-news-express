@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 日报 · 2026-09-08</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>AI 新闻速递 · 日报</h1>
+    <p class="subtitle">2026-09-08 · 共 2 条资讯</p>
+  </header>
+
+  
+  <div class="daily-header">
+    <h2>今日要点</h2>
+    <div class="stats">
+      <span>2 条资讯</span>
+      <span>0 条突发</span>
+      <span>1 个信源</span>
+    </div>
+    <div class="daily-overview">资讯分布：行业政策 2 条。</div>
+  </div>
+  
+
+  <div class="filters">
+    <button class="active" data-category="all">全部</button>
+    
+    <button data-category="行业政策">行业政策</button>
+    
+  </div>
+
+  
+  <ol class="article-list">
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">1</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w9wdeq/where_do_you_personally_draw_the_line_between/" target="_blank" rel="noopener">你个人如何界定使用AI作为工具与让AI替你完成工作之间的界限？</a>
+          <div class="article-title-original">Where do you personally draw the line between using AI as a tool and letting AI do the work for you?</div>
+          
+        </div>
+        
+        <p class="article-summary">一篇Reddit讨论帖，探讨了人们对于AI辅助工作程度的不同接受标准，从语法修正到代写全文，不同应用场景引发了关于依赖性与原创性的复杂伦理争论。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-09-07T16:08:50+00:00" title="2026-09-08 00:08"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">2</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1w9v6z4/today_if_someone_asks_you_to_prove_an_ai_agent/" target="_blank" rel="noopener">如今，如果有人让你证明AI智能体确实被授权执行了某项操作，你会出示什么？</a>
+          <div class="article-title-original">Today, if someone asks you to prove an AI agent was actually authorized to execute an action, what do you show them?</div>
+          
+        </div>
+        
+        <p class="article-summary">一篇Reddit技术讨论，指出仅凭日志或模型输出并不能证明AI智能体操作的授权合法性，随着智能体涉足金融等高风险领域，区分“发生了什么”与“是否被允许”变得至关重要。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-09-07T15:25:31+00:00" title="2026-09-07 23:25"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+  </ol>
+  
+
+  <footer>
+    <p><a href="../index.html" style="color: var(--accent);">← 返回首页</a></p>
+    <p style="margin-top: 8px;">AI 新闻速递 · 由 Claude API 提供智能处理</p>
+  </footer>
+
+  <script>
+    document.querySelector('.filters').addEventListener('click', function(e) {
+      if (e.target.tagName !== 'BUTTON') return;
+      document.querySelectorAll('.filters button').forEach(function(b) { b.classList.remove('active'); });
+      e.target.classList.add('active');
+      var cat = e.target.dataset.category;
+      document.querySelectorAll('.article-item').forEach(function(item) {
+        item.style.display = (cat === 'all' || item.dataset.category === cat) ? '' : 'none';
+      });
+    });
+
+    function toggleCluster(el) {
+      var children = el.nextElementSibling;
+      if (children.classList.contains('open')) {
+        children.classList.remove('open');
+        el.textContent = el.textContent.replace('▾', '▸');
+      } else {
+        children.classList.add('open');
+        el.textContent = el.textContent.replace('▸', '▾');
+      }
+    }
+    function updateTimeAgo() {
+      document.querySelectorAll('time.article-time[datetime]').forEach(function(el) {
+        var dt = new Date(el.getAttribute('datetime'));
+        if (isNaN(dt)) return;
+        var diff = (Date.now() - dt.getTime()) / 1000;
+        if (diff < 60) el.textContent = '刚刚';
+        else if (diff < 3600) el.textContent = Math.floor(diff / 60) + ' 分钟前';
+        else if (diff < 86400) el.textContent = Math.floor(diff / 3600) + ' 小时前';
+        else if (diff < 604800) el.textContent = Math.floor(diff / 86400) + ' 天前';
+        else el.textContent = el.getAttribute('title') || '';
+      });
+    }
+    updateTimeAgo();
+    setInterval(updateTimeAgo, 60000);
+  </script>
+</body>
+</html>
