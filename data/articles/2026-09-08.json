@@ -405,5 +405,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "35d1fcd3413dde4e73fe3464d39bee64",
+    "title": "I reduced image-processing token usage by ~95% compared with GPT-4o direct vision, while maintaining roughly the same accuracy.How significant is that?[P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wab7ui/i_reduced_imageprocessing_token_usage_by_95/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-08T01:57:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm testing a new approach for reducing the cost of image-based LLM inference.</p> <p>I evaluated it on the <strong>MOMA Graph benchmark</strong>, using <strong>1,315 questions</strong>. Compared with using GPT-4o to process the original images directly, I observed approximately:</p> <ul> <li><strong>~95% lower token usage</strong></li> <li><strong>roughly the same accuracy as the GPT-4o direct-image baseline</strong></li> </ul> <p>I'm intentionally not sharing ",
+    "title_zh": "我通过新方法将图像处理Token消耗降低约95%，准确率与GPT-4o直接视觉相当，这有多大意义？",
+    "summary_zh": "一位开发者测试了一种降低基于图像的LLM推理成本的新方法，在MOMA Graph基准测试的1315个问题上，相比GPT-4o直接处理原始图像，实现了约95%的Token消耗减少，同时保持了大致相同的准确率。",
+    "key_points": [
+      "新方法在MOMA Graph基准上减少约95%图像处理Token消耗",
+      "准确率与GPT-4o直接处理原始图像大致相当",
+      "测试基于1315个问题，成本显著降低但精度未明显下降"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
