@@ -429,5 +429,121 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "99f72e49d21ec60fae5e2ec59d5798ae",
+    "title": "when a run is wrong but nothing actually failed, where do you start? [D] [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1waewc3/when_a_run_is_wrong_but_nothing_actually_failed/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-08T05:01:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>this is the kinda debugging case i find rlly annoying/</p> <p>everything says success.</p> <p>no exceptions no failed tool calls. no obvious timeout the workflow completes but the final result is still wrong</p> <p>when that happens, what’s your first move?</p> <p>do you guys usually:</p> <ul> <li>start from the final output and work backward</li> <li>compare against a previous good run</li> <li>inspect state transitions</li> <li>check retrieval/tool behavior</l",
+    "title_zh": "当运行结果错误但无任何故障时，该从何处开始调试？",
+    "summary_zh": "Reddit用户讨论AI/ML工作流程中的一种棘手调试场景：运行过程无异常、无报错、无超时，但最终结果错误，寻求排查思路。",
+    "key_points": [
+      "探讨AI工作流无报错但结果错误的调试难题",
+      "用户分享在此类场景下的首要排查步骤"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9bae5f4856842ff718afdc13e1a680a1",
+    "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+    "url": "https://www.qbitai.com/2026/09/485784.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "zh",
+    "published": "2026-09-08T03:22:17+00:00",
+    "content_snippet": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资。",
+    "title_zh": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+    "summary_zh": "物理AI企业深度智控完成数亿元B+轮融资，投资方包括宁德时代、沙特阿美旗下基金等，资金将用于加速物理AI技术研发和算力与能源基础建设。",
+    "key_points": [
+      "深度智控完成数亿元B+轮融资",
+      "投资方包括宁德时代和沙特阿美基金",
+      "融资用于加速物理AI算力与能源基础建设"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cc16c4f26ea8f48676a0a643790a8b65",
+    "title": "SymphonyAI says employees need 2–3x productivity after leadership admitted the company was caught flat-footed by AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1wacncv/symphonyai_says_employees_need_23x_productivity/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-08T03:05:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I work at SymphonyAI, an enterprise software company whose entire identity is built around artificial intelligence.</p> <p>That context makes what is happening internally almost absurd.</p> <p>Leadership has acknowledged that the company was caught flat-footed by how quickly AI changed the software market. At the same time, employees are being told that ordinary productivity gains are no longer enough. The expectation being discussed is two to three times the pr",
+    "title_zh": "SymphonyAI承认在AI浪潮中措手不及，要求员工生产力提升2-3倍",
+    "summary_zh": "AI企业软件公司SymphonyAI内部承认被新兴AI技术打了个措手不及，领导层随后要求员工将生产力提升2-3倍，引发员工讨论。",
+    "key_points": [
+      "SymphonyAI领导层承认对AI技术发展准备不足",
+      "公司要求员工生产力提升2-3倍以应对竞争"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ecc386983fd789580f28088316c0de86",
+    "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+    "url": "https://www.qbitai.com/2026/09/485630.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-09-08T02:42:24+00:00",
+    "content_snippet": "从看市场，到见场景；从认识伙伴，到寻找合作。",
+    "title_zh": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+    "summary_zh": "2026年WAIC CONNECT MALAYSIA活动在马来西亚开幕，首日聚焦市场探索、场景实践和寻找合作伙伴，推动区域AI合作。",
+    "key_points": [
+      "WAIC CONNECT MALAYSIA活动在马来西亚开幕",
+      "活动聚焦探索市场、场景实践和寻找合作机会"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b5cc9e40725daa49f70b1229cd0b085c",
+    "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-08T02:16:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So I've been messinga round with embedding models for a bit, and I think they are interesting enough to experiment with. They are useful for rag, especially in a localllm sense because you can ground your answers in truth.</p> <p>But what happens if you have a billion documents, and you decide to upgrade your model to a &quot;better&quot; one? on an h100, that would take about 108 days, just to upgrade the vectors so u can start serving again (tested qwen embed ",
+    "title_zh": "我的实验室发现了零停机时间迁移嵌入模型的方法",
+    "summary_zh": "一位研究人员分享其发现，可以在不中断服务的情况下，将数十亿向量从一种嵌入模型迁移到另一种，解决了RAG等应用中的模型升级难题。",
+    "key_points": [
+      "展示零停机时间迁移嵌入模型的技术方案",
+      "解决了RAG应用中大规模向量数据的模型迁移问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
