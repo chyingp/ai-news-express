@@ -739,5 +739,270 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f37bc5517ee731ca266c4f3d4472bb47",
+    "title": "Mistral raises €3B as sovereign AI becomes big business",
+    "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-08T14:17:48+00:00",
+    "content_snippet": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+    "title_zh": "Mistral 获 30 亿欧元融资，主权 AI 成为大生意",
+    "summary_zh": "法国 AI 实验室 Mistral 完成 30 亿欧元 D 轮融资，估值达 210 亿欧元，由三星、Scaleup Europe 和 PSG Equity 领投，凸显主权 AI 的商业价值。",
+    "key_points": [
+      "Mistral 以 210 亿欧元估值完成 30 亿欧元融资",
+      "由三星、Scaleup Europe 和 PSG Equity 领投",
+      "融资反映主权 AI 概念日益增长的商业重要性"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "mistral"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a44b70e71da56ec8a1561cd7df65c3e2",
+    "title": "As backlash to AI data centers grows in California, one company is pitching smaller facilities at up to 70 fairgrounds",
+    "url": "https://www.reddit.com/r/artificial/comments/1waple3/as_backlash_to_ai_data_centers_grows_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-08T14:14:23+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1waple3/as_backlash_to_ai_data_centers_grows_in/\"> <img alt=\"As backlash to AI data centers grows in California, one company is pitching smaller facilities at up to 70 fairgrounds\" src=\"https://external-preview.redd.it/iBC7XARk1-m6AKv1IGbdfAY_vu-7EnEo6rr75doqLzY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a16991c6383c7875919b0415031c945db81be449\" title=\"As backlash to AI data centers grows in California, one company is ",
+    "title_zh": "加州 AI 数据中心遭抵制，一公司拟在 70 个展览场地建小型设施",
+    "summary_zh": "随着加州居民对 AI 数据中心的反对声浪加剧，一家公司提出在多达 70 个展览场地建设小型数据中心，以应对社区阻力。",
+    "key_points": [
+      "加州社区对 AI 数据中心的抵制日益强烈",
+      "某公司计划在展览场地建设小型数据中心作为替代方案",
+      "此举旨在规避大型设施引发的社区反对"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "96b2ae8646c8100a3567cf978c4c29bb",
+    "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-08T14:00:00+00:00",
+    "content_snippet": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases. The platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in [&#8230;]",
+    "title_zh": "谷歌发布人类基因组图谱，或为新疗法铺路",
+    "summary_zh": "谷歌 DeepMind 推出 AlphaGenome Atlas 平台，声称能帮助解开人类基因组奥秘，有望加速疾病研究并推动新疗法开发。",
+    "key_points": [
+      "谷歌 DeepMind 发布 AlphaGenome Atlas 基因组分析工具",
+      "该 AI 平台旨在加速科学研究和疾病新疗法发现",
+      "或能变革人类对生物学的理解"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9628f481f4bf0844944e8dccebe39a16",
+    "title": "EV batteries last longer than drivers feared",
+    "url": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-08T13:56:38+00:00",
+    "content_snippet": "Study suggests used vehicles can retain about 90% of original usable battery capacity after 150,000 km.",
+    "title_zh": "研究表明电动汽车电池寿命长于司机担忧",
+    "summary_zh": "一项研究显示，使用过的电动汽车电池在行驶 15 万公里后，仍能保留约 90% 的原始可用容量，电池衰减问题或好于预期。",
+    "key_points": [
+      "研究显示二手电车行驶 15 万公里后电池容量约 90%"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2fbe4a8856c74e11636932dc9f9b2892",
+    "title": "Hidden in plain sight? An entirely new class of memory-native AI architecture?",
+    "url": "https://www.reddit.com/r/artificial/comments/1waowjp/hidden_in_plain_sight_an_entirely_new_class_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-08T13:47:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Paper: <em>CompBio and MIRaS - a multi-omic analysis platform built on a memory-based intelligence engine</em><br /> <em>Nucleic Acids Research</em> (2026)<br /> PMID: <strong>42635126</strong><br /> DOI: <strong>10.1093/nar/gkag833</strong></p> <p><a href=\"https://academic.oup.com/nar/article/54/16/gkag833/8769250\">https://academic.oup.com/nar/article/54/16/gkag833/8769250</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/use",
+    "title_zh": "全新的内存原生 AI 架构隐现？",
+    "summary_zh": "一篇发表在《Nucleic Acids Research》的论文介绍了一种基于内存智能引擎的多组学分析平台，可能代表一类全新的 AI 架构。",
+    "key_points": [
+      "论文提出基于内存智能引擎的多组学分析平台",
+      "该架构或代表一类全新的内存原生 AI 方法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d73a94ce7553a385c5c455e68978cd6e",
+    "title": "Jerry Tworek (ex-VP of Research, OpenAI — now CEO, Core Automation) on the two years his idea sat unfunded, and the one sentence that changed it",
+    "url": "https://www.reddit.com/r/artificial/comments/1waoai3/jerry_tworek_exvp_of_research_openai_now_ceo_core/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-08T13:22:34+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1waoai3/jerry_tworek_exvp_of_research_openai_now_ceo_core/\"> <img alt=\"Jerry Tworek (ex-VP of Research, OpenAI — now CEO, Core Automation) on the two years his idea sat unfunded, and the one sentence that changed it\" src=\"https://external-preview.redd.it/Y2lteWFzYzJzYW9oMQKvC8Pewz8AzomrHsH5vP9tZOd0eZ2mhEttMmfbHQ2P.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad763611461ff7a19bc7b4ecfde37272855879f7\" title=\"Jerry Tworek (e",
+    "title_zh": "前 OpenAI 研究副总裁谈创意被搁置两年及改变一切的一句话",
+    "summary_zh": "前 OpenAI 研究副总裁、现 Core Automation CEO Jerry Tworek 分享其创意在两年间无人资助，最终因一句话而改变的经历。",
+    "key_points": [
+      "前 OpenAI 研究副总裁 Jerry Tworek 分享创业经历",
+      "其核心创意曾两年未获资助，后因一句话扭转局面"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "926902b984e8d2e0577035cded6a3ae5",
+    "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+    "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-08T13:00:00+00:00",
+    "content_snippet": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking [&#8230;]",
+    "title_zh": "Adobe 试图让 Premiere 中的 AI 生成器变得防呆",
+    "summary_zh": "Adobe 革新 Premiere 视频编辑软件，推出生成式媒体工具，让用户无需离开时间线即可生成视频、音效和音乐，旨在简化 AI 交互。",
+    "key_points": [
+      "Adobe 在 Premiere 中推出集成式生成式媒体工具",
+      "用户可在时间线内直接生成视频、音效和音乐",
+      "旨在优化 AI 交互，降低专业编辑的使用门槛"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6c888c96caded64b8d6d040f9bf31439",
+    "title": "The Work Now Within Reach",
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-08T13:00:00+00:00",
+    "content_snippet": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "title_zh": "OpenAI：现在触手可及的工作",
+    "summary_zh": "OpenAI 发布博客文章，探讨能力更强、更经济的 AI 如何拓展个人和企业可完成的工作范围，并使增长更经济。",
+    "key_points": [
+      "OpenAI 探讨更强大、更实惠的 AI 带来的工作扩展",
+      "强调 AI 可使经济增长更经济"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "be434c4eb2bdf50ec41a6b23b642a590",
+    "title": "The Download: our 35 Innovators Under 35 this year",
+    "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-08T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list offers a glimpse. Every year,&#8230;",
+    "title_zh": "《麻省理工科技评论》发布 2026 年“35 岁以下创新者”榜单",
+    "summary_zh": "《麻省理工科技评论》公布 2026 年度“35 岁以下创新者”榜单，旨在展示未来科技发展的新力量。",
+    "key_points": [
+      "公布 2026 年度“35 岁以下创新者”完整榜单",
+      "榜单旨在展示下一代科技与科学的引领者"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ff130139bb9ca54699d8f1ea4522d8f1",
+    "title": "If ChatGPT, Claude and Gemini give you three different answers, what do you actually do next?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wamcsb/if_chatgpt_claude_and_gemini_give_you_three/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-08T11:57:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Two weeks ago I <a href=\"https://www.reddit.com/r/artificial/comments/1vx1jrm/i_brought_chatgpt_claude_and_gemini_into_a_group/\">posted</a> about putting ChatGPT, Claude and Gemini in a shared conversation so they can respond to each other’s answers. Many replied on this thread.</p> <p>One question from those discussions deserves more attention: how do you decide which answer to trust? If one model says the other two are wrong and explains why, that can be usefu",
+    "title_zh": "当 ChatGPT、Claude 和 Gemini 给出不同答案，你怎么办？",
+    "summary_zh": "一篇 Reddit 帖子讨论将 ChatGPT、Claude 和 Gemini 放在同一对话中互相回复的体验，并询问用户如何处理多个 AI 助手答案不一的情况。",
+    "key_points": [
+      "用户分享让多个 AI 助手在群聊中互动的体验",
+      "探讨当 ChatGPT、Claude 和 Gemini 回答不一致时的应对策略"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a64162f3a109f4c0de0cd8802392db74",
+    "title": "Which AI is the best for helping me study?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wal3wc/which_ai_is_the_best_for_helping_me_study/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-08T10:56:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Now, I know this may seem like a dumb question. ''Why would I want AI to help my studies?''</p> <p>I failed at the first university entrance exams I took. And now, I will study for a year again and try to enter a university.</p> <p>And when I study, I obviously cant solve every question correctly. And whenever I look at the video solutions of those questions, it doesnt help me at all mostly. Sometimes the teachers skip the important details to finish that video ",
+    "title_zh": "哪种AI最适合辅助学习？",
+    "summary_zh": "一位Reddit用户因大学入学考试失利，计划重新备考一年，并寻求推荐最适合辅助学习的AI工具。",
+    "key_points": [
+      "用户寻求AI工具推荐以辅助备考大学入学考试",
+      "问题源于用户首次考试失败后的重新学习需求",
+      "讨论聚焦于AI在学习场景的应用与效果"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
