@@ -313,5 +313,97 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2d9d1d5d8f4ae2e7fd0185ab05924a58",
+    "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-08T00:05:37+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/\"> <img alt=\"Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]\" src=\"https://preview.redd.it/j69fd24dr6oh1.gif?frame=1&amp;width=140&amp;height=60&amp;auto=webp&amp;s=aeb2c2d1a30589f7b7037573b952e503a21cf54f\" title=\"Generating Bad Apple autonomously from a single initial state using a tiny recurre",
+    "title_zh": "使用微型循环动力系统（417k参数）从单一初始状态自主生成《Bad Apple》",
+    "summary_zh": "该项目展示了一个仅41.7万参数的微型循环动力系统，能从单一初始状态自主生成完整的《Bad Apple》影绘动画，探索小模型在复杂序列生成上的潜力。",
+    "key_points": [
+      "仅41.7万参数的微型循环动力系统实现复杂动画生成",
+      "探索极小模型在自主序列生成任务上的能力边界"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "68dd104cf214e90cf8b64cea175e7956",
+    "title": "Can current LLM architecture actually get us to AGI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wa8rjv/can_current_llm_architecture_actually_get_us_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-08T00:05:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm a software engineer, not a scientist and I love it. I enjoy solving hard, distributed applied problems at scale. It's what gets me out of bed in the morning, ready go keep learning even after over twenty years of doing this professionally. However, I also love to understand how things work. What makes them tick. How I can bend them to do my bidding, even if that's not what they were originally intended to do. Some may call this a hacker's mindset. Over the l",
+    "title_zh": "当前LLM架构真的能通往AGI吗？",
+    "summary_zh": "一位软件工程师在Reddit发帖，从技术实践角度探讨当前大语言模型（LLM）架构在实现通用人工智能（AGI）道路上的根本性局限与可能性。",
+    "key_points": [
+      "从业者质疑当前LLM架构能否实现AGI",
+      "讨论聚焦于LLM的根本性局限与扩展潜力"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8b68a04ddc0b421820f985cfeeb908bf",
+    "title": "Been building a \"block first, generate second\" tool for AI video - curious what's still missing",
+    "url": "https://www.reddit.com/r/artificial/comments/1wa7ph3/been_building_a_block_first_generate_second_tool/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-07T23:18:21+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wa7ph3/been_building_a_block_first_generate_second_tool/\"> <img alt=\"Been building a &quot;block first, generate second&quot; tool for AI video - curious what's still missing\" src=\"https://external-preview.redd.it/em5vamU3MDJsNm9oMatHsVUp9aWQ0NWkZ-vFhU8iqZt2gsOHf9NF1BU2Ru_7.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=00185ea1be126fda3941122e040940e9d5b1065b\" title=\"Been building a &quot;block first, generate second&quot",
+    "title_zh": "开发“先分镜，后生成”AI视频工具，寻求反馈",
+    "summary_zh": "一位开发者展示其正在构建的AI视频生成工具，采用先规划分镜再生成视频的流程，并邀请社区提供功能建议，以完善产品。",
+    "key_points": [
+      "新AI视频工具采用“先规划分镜后生成”的创作流程",
+      "开发者正向社区征集功能需求以完善产品"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d0c0d104329bde2f5260aa78614eb3e4",
+    "title": "continuous diffusion for code generation in one step",
+    "url": "https://www.reddit.com/r/artificial/comments/1wa6ouo/continuous_diffusion_for_code_generation_in_one/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-07T22:35:01+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wa6ouo/continuous_diffusion_for_code_generation_in_one/\"> <img alt=\"continuous diffusion for code generation in one step\" src=\"https://external-preview.redd.it/NnQycmN3eXFkNm9oMXIi0ff0UaswIwkGtDyURNWphwPNyh0Vm9zGQBOpvkmo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f90f6b785e3d12e8d9fbde36be9d022ee64b0aa6\" title=\"continuous diffusion for code generation in one step\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Can",
+    "title_zh": "一步式连续扩散模型用于代码生成",
+    "summary_zh": "一项研究将连续扩散模型应用于代码生成任务，并实现了单步生成，可能为代码生成领域带来新的高效方法。",
+    "key_points": [
+      "探索连续扩散模型在代码生成中的应用",
+      "实现单步生成，旨在提升代码生成效率"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
