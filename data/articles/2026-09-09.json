@@ -611,5 +611,57 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "388663d385097dcf3a7bae1cf112e6ba",
+    "title": "What OpenAI’s latest controversy tells us about the future of math",
+    "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-09T03:10:08+00:00",
+    "content_snippet": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations&#8230;",
+    "title_zh": "OpenAI最新争议揭示数学的未来",
+    "summary_zh": "OpenAI宣布其AI代理解决了千禧年大奖难题之一，但这一数学里程碑迅速陷入争议。文章探讨该事件对数学领域未来发展的启示。",
+    "key_points": [
+      "OpenAI声称AI代理解决了千禧年大奖难题之一",
+      "该声明迅速引发数学界广泛争议和质疑",
+      "事件引发对AI在数学证明中角色的深层讨论"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "31fca1503cfa4284b93e0ce7a39e2ca4",
+    "title": "OpenAI researcher responds to scrutiny around its latest math breakthrough",
+    "url": "https://www.reddit.com/r/artificial/comments/1wb9kg3/openai_researcher_responds_to_scrutiny_around_its/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-09T02:59:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wb9kg3/openai_researcher_responds_to_scrutiny_around_its/\"> <img alt=\"OpenAI researcher responds to scrutiny around its latest math breakthrough\" src=\"https://external-preview.redd.it/f9KKXhxBxZfcIsXdr4Lt67DuBL9iRreV6dg-TNfH1M0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ec4df4418cc178dafc892557f594fe656e641d6\" title=\"OpenAI researcher responds to scrutiny around its latest math breakthrough\" /> </a> </td><td> &#32; s",
+    "title_zh": "OpenAI研究员回应最新数学突破审查",
+    "summary_zh": "一位OpenAI研究员在Reddit上回应了外界对其公司最新数学突破的审查和质疑，试图澄清争议细节。",
+    "key_points": [
+      "OpenAI研究员就数学突破争议进行公开回应",
+      "回应旨在澄清外界对该成就的审查和质疑",
+      "事件发生在OpenAI宣布解决千禧难题后不久"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
