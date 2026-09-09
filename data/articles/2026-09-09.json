@@ -663,5 +663,79 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "82b0356be675171816e3dab4caba5d22",
+    "title": "Teach ML! Community service project from Stanford [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-09T07:54:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/machinelearning\">r/machinelearning</a>. Nice to meet you! My name is Chris Piech and I'm a professor at Stanford University in the AI lab.</p> <p>I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th and applications are due end of Sept. Its (hopefully) cool for a few reasons:</p> <ul> <li><strong>The plan is to have one volunteer teacher for every 10 students!</strong> Apps have been open for a week and over <strong>1,000",
+    "title_zh": "斯坦福大学推出Teach ML!社区服务项目",
+    "summary_zh": "斯坦福大学教授Chris Piech介绍其创建的AI课程‘Probability for AI’，课程将于10月9日开始，现正开放申请，旨在通过社区服务推广机器学习教育。",
+    "key_points": [
+      "斯坦福教授发起Teach ML!社区服务项目",
+      "课程‘Probability for AI’将于10月9日开课",
+      "项目旨在通过教育推广机器学习知识"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "46fa4f2174324016f8db52f43fdf1425",
+    "title": "Sam Altman talks to GPT-7",
+    "url": "https://www.reddit.com/r/artificial/comments/1wbbi1m/sam_altman_talks_to_gpt7/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-09T04:34:21+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wbbi1m/sam_altman_talks_to_gpt7/\"> <img alt=\"Sam Altman talks to GPT-7\" src=\"https://external-preview.redd.it/MWM5dGkwN3JhZm9oMcc-nEdaiofeOiUQ2r6Z8nZfd_8hyZbaRmHfTfPu6FC8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=85380cbf227c4571ea7ed101d1e1c574c4acf3e6\" title=\"Sam Altman talks to GPT-7\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jlpt1591\"> /u/jlpt1591 </a> &#32; to &#32; <a href=\"",
+    "title_zh": "Sam Altman与GPT-7对话",
+    "summary_zh": "一段Sam Altman与传闻中的GPT-7模型对话的内容在Reddit上引发关注，可能涉及对未来AI能力的展示或讨论，但具体细节尚不明确。",
+    "key_points": [
+      "Sam Altman与GPT-7进行对话演示",
+      "内容可能展示下一代AI模型能力",
+      "引发社区对GPT-7进展的猜测"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ac9985b206150bbd7160032b6e62a3ed",
+    "title": "The AI cybersecurity arms race is on",
+    "url": "https://www.reddit.com/r/artificial/comments/1wbbgtv/the_ai_cybersecurity_arms_race_is_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-09T04:32:34+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wbbgtv/the_ai_cybersecurity_arms_race_is_on/\"> <img alt=\"The AI cybersecurity arms race is on\" src=\"https://external-preview.redd.it/6RdtzbpCLxiCi8Az4Oo3ZK5YVVzCkL0IXsSamMmaIaU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=44d5ace92fea3e90df0d658388c81f60aa6ac906\" title=\"The AI cybersecurity arms race is on\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/israelavila\"> /u/israelavila </a> ",
+    "title_zh": "AI网络安全军备竞赛已然展开",
+    "summary_zh": "文章探讨了人工智能在网络安全领域引发的攻防军备竞赛，涉及AI如何被用于攻击和防御，以及行业为此所做的准备和挑战。",
+    "key_points": [
+      "AI技术加剧网络安全攻防对抗",
+      "AI被用于自动化攻击和增强防御",
+      "行业面临AI安全挑战与应对策略"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
