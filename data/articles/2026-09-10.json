@@ -565,5 +565,153 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3df848ff7208dacf37d6170954fb20d5",
+    "title": "AI minister says 'warnings are not new' as experts predict the technology could wipe out humanity",
+    "url": "https://www.reddit.com/r/artificial/comments/1wc0rzg/ai_minister_says_warnings_are_not_new_as_experts/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-09T22:38:15+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wc0rzg/ai_minister_says_warnings_are_not_new_as_experts/\"> <img alt=\"AI minister says 'warnings are not new' as experts predict the technology could wipe out humanity\" src=\"https://external-preview.redd.it/OGYmpeWYhtP6hPyj2XVjJFs-V6WW7Iy2lqNHAxAVQCU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad22857c9d62d2d820430e612888cb57b0c1d19e\" title=\"AI minister says 'warnings are not new' as experts predict the technology could",
+    "title_zh": "AI部长称'警告并不新鲜'，专家预测该技术可能毁灭人类",
+    "summary_zh": "在专家持续警告AI可能带来灭绝性风险之际，某国AI部长回应称这些警告并非新话题，淡化了立即采取行动的必要性，引发了关于AI安全治理的讨论。",
+    "key_points": [
+      "AI部长回应末日风险警告，称其缺乏新意",
+      "专家持续预测AI技术存在毁灭人类的潜在风险",
+      "事件凸显AI安全治理与政策响应的紧迫性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a62cdeb365cc8615e68f0ace4c1c81cf",
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-09T22:25:22+00:00",
+    "content_snippet": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+    "title_zh": "OpenAI将知名AI风险担忧者纳入董事会",
+    "summary_zh": "OpenAI基金会宣布任命对齐研究领域有影响力的AI研究员Paul Christiano为董事会成员，此项人事变动旨在加强公司在AI安全与对齐方面的监督与治理。",
+    "key_points": [
+      "AI对齐研究员Paul Christiano加入OpenAI董事会",
+      "此举旨在强化OpenAI在AI安全领域的治理",
+      "Christiano是知名的AI风险担忧与对齐研究人物"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "adeb4d97e0981122a69f196c26aaeef9",
+    "title": "‘Gambling with our lives’: Another AI employee quits over safety concerns",
+    "url": "https://www.reddit.com/r/artificial/comments/1wc04ai/gambling_with_our_lives_another_ai_employee_quits/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-09T22:12:27+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wc04ai/gambling_with_our_lives_another_ai_employee_quits/\"> <img alt=\"‘Gambling with our lives’: Another AI employee quits over safety concerns\" src=\"https://external-preview.redd.it/JKhE8ogJkSykp293xjhUYKL-mIi84iYdHHz0HVXXZqk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ace1076ced472f890a2794dd54f8376f4ceed534\" title=\"‘Gambling with our lives’: Another AI employee quits over safety concerns\" /> </a> </td><td> &#32; sub",
+    "title_zh": "'拿我们的生命赌博'：又一名AI员工因安全担忧辞职",
+    "summary_zh": "一名AI公司员工因安全担忧而公开辞职，并指责公司拿人类生命赌博，这是近期一系列因AI安全伦理问题引发的离职事件之一，加剧了业界对AI开发风险的关注。",
+    "key_points": [
+      "AI公司员工因安全担忧高调辞职",
+      "辞职者指责公司拿人类生命冒险",
+      "事件反映AI行业内部安全伦理冲突加剧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "65f77bd4eb92a79746bd51e2917797ec",
+    "title": "Suno releases its first AI music model made with record industry help",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-09T21:42:19+00:00",
+    "content_snippet": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were trained on.\" The data includes content licensed [&#8230;]",
+    "title_zh": "Suno发布首款与唱片业合作制作的AI音乐模型",
+    "summary_zh": "AI音乐公司Suno发布v6 AI音乐模型，这是首款在唱片业支持下，使用全新授权数据集训练的模型，标志着AI音乐生成技术在版权合规方面迈出重要一步。",
+    "key_points": [
+      "Suno v6模型使用全新授权数据集进行训练",
+      "该模型是首个与唱片业合作制作的AI音乐产品",
+      "此举旨在解决AI音乐生成中的版权合规问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2ce844f1d2cad0d30c375750ce6f5f76",
+    "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-09T21:16:34+00:00",
+    "content_snippet": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transforming mathematics. But before it was even formally announced, the breakthrough had been complicated by the unusual [&#8230;]",
+    "title_zh": "OpenAI悄悄取得数学突破，在学术界引起震动",
+    "summary_zh": "OpenAI宣布其AI成功解决了数学界千禧年大奖难题之一，这一未公开细节的成就展示了AI对数学研究的变革性影响，但在学术界引发了对研究方式和透明度的震动与不安。",
+    "key_points": [
+      "OpenAI的AI解决了数学千禧年大奖难题",
+      "该突破展示了AI快速变革数学研究的能力",
+      "学术界对研究方式和透明度感到震动与不安"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0a721c2e70b7f85e200b4b98a73f7f2c",
+    "title": "Read the Apple document explaining how new listening features still protect your privacy",
+    "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-09T20:44:43+00:00",
+    "content_snippet": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance AI \"ambient listening\" and users' privacy. It says the raw audio from the new [&#8230;]",
+    "title_zh": "阅读苹果文件：解释新聆听功能如何保护隐私",
+    "summary_zh": "苹果在发布Siri AI音频智能功能后，公开了一份说明文件，详细阐述了如何在提供Siri Recap、Live Rewind等环境聆听功能的同时，平衡AI功能与用户隐私保护。",
+    "key_points": [
+      "苹果发布Siri Recap等AI音频智能新功能",
+      "公开文件解释了AI环境聆听功能的隐私保护机制",
+      "旨在平衡技术创新与用户隐私安全"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
