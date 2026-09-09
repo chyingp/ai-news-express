@@ -196,5 +196,374 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "24345bcea52aca91d83f97b7047b3efc",
+    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+    "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-09T20:24:48+00:00",
+    "content_snippet": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+    "title_zh": "苹果手表新AI功能引发持续监听隐私担忧",
+    "summary_zh": "苹果新款手表虽不保存原始音频，但可转录近期语音和总结环境对话的功能，引发了关于同意、隐私以及人们知晓可能被录音时行为变化的讨论。",
+    "key_points": [
+      "可转录语音和总结对话，不保存原始音频",
+      "功能引发关于同意和隐私的新问题",
+      "技术常态化可能改变人们行为"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0bbc043a229b67812fc74cfcb53cc173",
+    "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+    "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-09T20:06:28+00:00",
+    "content_snippet": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
+    "title_zh": "六家中国AI公司被指控积极抄袭美国前沿模型",
+    "summary_zh": "美国敦促AI公司识别并秘密将中国用户切换至能力较弱的模型，六家中国AI公司被指控积极抄袭美国前沿模型。",
+    "key_points": [
+      "六家中国AI公司被指抄袭美国前沿模型",
+      "美国要求AI公司识别并限制中国用户",
+      "涉及中美AI技术竞争与政策博弈"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "30c9efdd025bbbb82485a8bbfc54863c",
+    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-09T20:03:43+00:00",
+    "content_snippet": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+    "title_zh": "苹果秋季发布会：折叠屏iPhone Duo及持续监听手表亮相",
+    "summary_zh": "苹果秋季发布会焦点是首款折叠屏手机iPhone Duo，同时还发布了具备持续监听功能的Apple Watch等新品。",
+    "key_points": [
+      "发布首款折叠屏手机iPhone Duo",
+      "推出具备持续监听功能的新款Apple Watch",
+      "涵盖多项硬件和AI功能更新"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4b0f54fcab66a67a9386259cda8f91e0",
+    "title": "Is it true that AI can correctly predict lifespan?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wbw96b/is_it_true_that_ai_can_correctly_predict_lifespan/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-09T19:51:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI topic at discussions at work. Apparently, there are AI models can pretty much accurately tell how much time we have left on earth.I am baffled, help me understand.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Over-Mix-1957\"> /u/Over-Mix-1957 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wbw96b/is_it_true_that_ai",
+    "title_zh": "AI真的能准确预测寿命吗？",
+    "summary_zh": "Reddit用户讨论AI模型是否能准确预测人的剩余寿命，对此感到困惑并寻求解释。",
+    "key_points": [
+      "讨论AI模型预测寿命的准确性",
+      "源于工作场所的AI话题讨论",
+      "用户对此技术表示困惑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9dc2e264123633db1af0d33a9b69340c",
+    "title": "Another Microsoft team admits it’s struggling to handle flood of AI-generated code",
+    "url": "https://www.reddit.com/r/artificial/comments/1wbw7j8/another_microsoft_team_admits_its_struggling_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-09T19:49:55+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NISMO1968\"> /u/NISMO1968 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.theregister.com/software/2026/09/09/another-microsoft-team-admits-its-struggling-to-handle-flood-of-ai-generated-code/5295185\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1wbw7j8/another_microsoft_team_admits_its_struggling_to/\">[comments]</a></span>",
+    "title_zh": "又一个微软团队承认难以应对AI生成代码的洪流",
+    "summary_zh": "微软团队公开表示，正面临处理由AI生成的大量代码带来的挑战，这并非该公司首次出现类似困扰。",
+    "key_points": [
+      "微软团队面临AI生成代码的审查挑战",
+      "反映AI辅助编程带来的代码质量与维护问题",
+      "并非微软内部首次出现此类反馈"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8c5653d85b3831c0d828f04c050da734",
+    "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+    "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-09T19:30:12+00:00",
+    "content_snippet": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and [&#8230;]",
+    "title_zh": "苹果新iPhone相机模式可证明照片非AI生成",
+    "summary_zh": "苹果为iPhone 18 Pro推出名为“参考图像”的新功能，利用新传感器为每个像素签名，以证明照片未经AI篡改。",
+    "key_points": [
+      "推出“参考图像”功能验证照片真实性",
+      "通过新传感器为每个像素签名",
+      "旨在应对AI生成内容带来的信任危机"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b76385f0a67a6d99285c6401d28e4db7",
+    "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+    "url": "https://www.qbitai.com/2026/09/486450.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-09T19:24:22+00:00",
+    "content_snippet": "一比根号二的小胖折叠",
+    "title_zh": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+    "summary_zh": "苹果发布首款折叠屏手机，售价15999元起，该产品的设计过程有人工智能参与。",
+    "key_points": [
+      "苹果首款折叠屏手机发布，售价15999元起",
+      "产品设计过程中应用了AI技术",
+      "采用特定比例的小胖折叠设计"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7d5a9a7d20772468db600246c7e3233c",
+    "title": "The hinge for Apple’s new foldable phone was built with AI",
+    "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-09T19:21:48+00:00",
+    "content_snippet": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+    "title_zh": "苹果新款折叠屏手机的铰链由AI打造",
+    "summary_zh": "苹果透露，其备受期待的折叠屏手机在制造过程中使用了AI和3D打印技术来构建铰链。",
+    "key_points": [
+      "折叠屏手机铰链采用AI和3D打印制造",
+      "AI应用于产品制造工艺环节",
+      "体现AI在硬件设计中的应用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "59e5b88b757d788d50aff4252efa01f1",
+    "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
+    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-09T19:09:20+00:00",
+    "content_snippet": "Four women sue Amazon, say company denied basic accommodations and fired them.",
+    "title_zh": "诉讼：亚马逊拒绝为怀孕员工提供上厕所休息和座椅",
+    "summary_zh": "四名女性起诉亚马逊，称公司拒绝提供基本的怀孕便利设施，如上厕所休息和座椅，并因此解雇了她们。",
+    "key_points": [
+      "四名女性指控亚马逊拒绝提供怀孕便利",
+      "涉及上厕所休息和座椅等基本需求",
+      "原告称因此被公司解雇"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2697e9adaa151ed2429cf06d4c8562e1",
+    "title": "AI is still lowkey racist",
+    "url": "https://www.reddit.com/r/artificial/comments/1wbv1hr/ai_is_still_lowkey_racist/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-09T19:08:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>If you ask a wide variety of AI chatbots where the Romans got their slaves from, they will very often omit Germanic lands.</p> <p>It doesn't do the blatant say the &quot;n word&quot; racism. It does the lowkey academic misinformation racism.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Doredrin\"> /u/Doredrin </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https:",
+    "title_zh": "AI依然存在隐蔽的种族偏见",
+    "summary_zh": "Reddit用户指出，向多种AI聊天机器人询问罗马奴隶来源时，它们常会忽略日耳曼地区，体现出一种隐蔽的学术性种族偏见。",
+    "key_points": [
+      "AI聊天机器人存在隐蔽的学术性种族偏见",
+      "在回答历史问题时系统性忽略特定地区",
+      "属于非直接辱骂的低调歧视形式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "252674e884944ce6de021e2b0ffd3c3a",
+    "title": "Watching an AI-generated sitcom for the first time feels genuinely strange — anyone else had this experience?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wbuulc/watching_an_aigenerated_sitcom_for_the_first_time/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-09T19:02:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Got early access to a full AI-generated sitcom episode this week — 22 minutes, consistent characters, proper narrative structure. British comedy, human-written script, everything visual is AI.</p> <p>The strange thing is I kept waiting to be pulled out of it by something obviously wrong — an uncanny face, a weird movement, a voice that doesn't match. And sometimes that happened. But then a joke landed and I laughed anyway, which felt like a weird moment.</p> <p>",
+    "title_zh": "观看AI生成情景喜剧的初体验：感觉真的很奇怪——有人有过这种经历吗？",
+    "summary_zh": "作者提前体验了一部22分钟、由人类编剧、AI生成所有视觉内容的完整英式喜剧。尽管剧情连贯、角色一致，但观看时始终感觉怪异，等待被什么不真实的东西打断。",
+    "key_points": [
+      "全AI生成视觉的22分钟英式喜剧带来怪异观看体验",
+      "人类编剧负责叙事，AI负责所有视觉内容制作",
+      "观众在观看过程中始终存在不真实感的心理预期"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "199d61842e64988aa19df42e89f7f329",
+    "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
+    "url": "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-09T18:58:24+00:00",
+    "content_snippet": "AirPods 5 with noise cancellation is cheaper than its predecessor.",
+    "title_zh": "苹果发布129美元AirPods 5，降噪和通透模式有所提升",
+    "summary_zh": "苹果推出了售价129美元的新款AirPods 5，相比前代产品价格更低，并在主动降噪和通透模式等核心功能上进行了改进。",
+    "key_points": [
+      "新款AirPods 5定价129美元，比前代更便宜",
+      "重点提升了主动降噪和通透模式性能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c9b53fb8ed34f49d547b7351bd1e4516",
+    "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+    "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-09T18:08:35+00:00",
+    "content_snippet": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+    "title_zh": "苹果推出新方法，证明你的iPhone照片不是AI生成的垃圾",
+    "summary_zh": "苹果推出了“Apple Reference Image”功能，帮助用户判断照片是否经过编辑，包括识别由AI工具进行的修改，以增强照片的真实性验证。",
+    "key_points": [
+      "Apple推出Reference Image功能验证照片真实性",
+      "可检测照片是否经过AI或其他方式的编辑修改"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "358e90814dc268426e85f29a9901d95f",
+    "title": "Anthropic Is Building AI to Predict Which Activists Police Should Watch. SF-based AI lab pays up to $230,000 for intelligence analysts who formally categorize activism as a threat alongside terrorism and nation-state attacks",
+    "url": "https://www.reddit.com/r/artificial/comments/1wbsoor/anthropic_is_building_ai_to_predict_which/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-09T17:47:30+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wbsoor/anthropic_is_building_ai_to_predict_which/\"> <img alt=\"Anthropic Is Building AI to Predict Which Activists Police Should Watch. SF-based AI lab pays up to $230,000 for intelligence analysts who formally categorize activism as a threat alongside terrorism and nation-state attacks\" src=\"https://external-preview.redd.it/tcYOW-9McFwoYp_yMLV0w7WGTrkSO1AFgoRaDs9VI2Y.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c16e8c76",
+    "title_zh": "Anthropic正构建AI预测警察应监视哪些活动人士",
+    "summary_zh": "Anthropic正在招聘情报分析师，薪资高达23万美元，负责将活动人士与恐怖主义、国家攻击并列为正式威胁进行归类，以构建预测性AI系统，引发伦理争议。",
+    "key_points": [
+      "Anthropic招聘情报分析师，将活动人士归类为安全威胁",
+      "年薪高达23万美元，用于构建预测性警务AI系统",
+      "该项目将活动主义与恐怖主义并列，引发巨大伦理争议"
+    ],
+    "importance": 5,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "974e0dc97a17fbfc15867ce2f038e84c",
+    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+    "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-09T17:36:05+00:00",
+    "content_snippet": "The company also argued that its on-device models offer consumers more privacy.",
+    "title_zh": "苹果CEO John Ternus称最好的AI设备仍然是iPhone",
+    "summary_zh": "苹果CEO John Ternus表示，凭借强大的端侧模型和卓越的隐私保护特性，iPhone仍是当前最佳的AI设备，凸显了苹果在端侧AI领域的战略定位。",
+    "key_points": [
+      "苹果CEO称iPhone凭借端侧模型和隐私保护是最佳AI设备",
+      "强调端侧AI在隐私方面的优势是其核心竞争力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
