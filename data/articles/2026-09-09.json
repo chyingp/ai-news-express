@@ -585,5 +585,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c0f473b54416f300b007c3e1ed40fecb",
+    "title": "Anthropic researcher quits over AI fears",
+    "url": "https://www.reddit.com/r/artificial/comments/1wb6olj/anthropic_researcher_quits_over_ai_fears/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-09T00:50:05+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Bubbly-Air7302\"> /u/Bubbly-Air7302 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628?mod=mhp\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1wb6olj/anthropic_researcher_quits_over_ai_fears/\">[comments]</a></span>",
+    "title_zh": "Anthropic研究员因担忧AI失控而辞职",
+    "summary_zh": "据华尔街日报报道，一位Anthropic研究员因担忧AI发展失控而辞职，引发了对AI安全问题的广泛讨论。该事件突出反映了AI前沿公司内部对技术风险的深刻分歧。",
+    "key_points": [
+      "Anthropic研究员因担忧AI失控风险而辞职",
+      "事件引发对AI安全与道德问题的广泛讨论",
+      "反映AI公司内部对技术发展速度和安全性的分歧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
