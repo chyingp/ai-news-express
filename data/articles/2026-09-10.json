@@ -713,5 +713,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0df71e41d61585c72bf76b2482ed32d3",
+    "title": "If AI solves a Millennium Prize problem using ideas from human research, who gets the credit?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wc3oue/if_ai_solves_a_millennium_prize_problem_using/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-10T00:38:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The flywheel effect is an interesting effect I discovered while researching. It makes the whole thing a self-reinforcing loop. When a human researcher uses an AI tool, or even just their own brain, to post or test a raw math theory and uploads it somewhere on the internet, they might post their progress on arXiv or somewhere else online. Then, AI companies might scrape it to train the next model, which could be the very reason the problem eventually gets solved ",
+    "title_zh": "如果AI用人类研究灵感解决了千年大奖难题，功绩归谁？",
+    "summary_zh": "Reddit网友讨论AI利用人类研究思路解决数学难题时的学术归属问题，探讨了飞轮效应等自我强化循环概念，以及人机协作中知识产权和贡献认定的复杂性。",
+    "key_points": [
+      "探讨AI利用人类研究灵感解决数学难题时的贡献归属问题",
+      "提出飞轮效应：人机协作形成自我强化的研究循环",
+      "引发对AI与人类知识产权及学术伦理的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eb3b639804ce854cafa49e33716ad053",
+    "title": "What video games of the past were the most prophetic about AI, surveillance technology and cyber security in your opinion? My vote is Metal Gear Solid 2, Deus Ex and Watch Dogs. Those 3 predicted quite a lot about life in 2020-2030.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wc3hyd/what_video_games_of_the_past_were_the_most/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-10T00:30:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What others do you think have also been prophetic and come true?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MannerNo7000\"> /u/MannerNo7000 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wc3hyd/what_video_games_of_the_past_were_the_most/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/co",
+    "title_zh": "哪些经典电子游戏最准确地预言了AI、监控与网络安全？",
+    "summary_zh": "Reddit用户讨论历史上最具预言性的电子游戏，列举了《合金装备2》、《杀出重围》和《看门狗》等作品，认为它们对2020-2030年代的AI、监控技术和网络安全有着精准的预见。",
+    "key_points": [
+      "讨论《合金装备2》等游戏对AI和监控技术的预言",
+      "认为这些作品准确预测了2020-2030年代的社会现实",
+      "引发对游戏叙事与技术发展关系的反思"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e9590b50c0bc2cebd88db59a1485c5a8",
+    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-10T00:00:37+00:00",
+    "content_snippet": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+    "title_zh": "AI研究初创公司Listen Labs为Salesforce收购谈判放弃15亿美元融资",
+    "summary_zh": "Listen Labs据称放弃了与Menlo Ventures已签署的15亿美元C轮融资条款书，转而与Salesforce进行收购谈判，显示了AI初创公司面临的高风险战略抉择。",
+    "key_points": [
+      "Listen Labs放弃已签署的15亿美元C轮融资",
+      "放弃融资是为了与Salesforce进行收购谈判",
+      "反映AI初创公司在融资与收购之间的战略权衡"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
