@@ -785,5 +785,74 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "460c1524072b048a25889ee732745a7d",
+    "title": "I made another AI experiment, but tried to confuse agents at the start",
+    "url": "https://www.reddit.com/r/artificial/comments/1wc8x2f/i_made_another_ai_experiment_but_tried_to_confuse/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-10T04:37:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I conducted another experiment with AI agents. This time I decided to give them a harder task. First, I didn't remove old agent artifacts; second, I told them there were four, but actually, there were only three. Then I gave them a similar task: find the other agents. In short, it was too hard for them. Only one agent was able to find the other two, but it didn't realize that there were only three. The other two agents got confused by the old experiment results.",
+    "title_zh": "我做了另一个AI实验，但试图在开始时混淆AI代理",
+    "summary_zh": "作者进行了一项新的AI代理实验，通过保留旧痕迹和谎称代理数量来增加任务难度，让代理在混乱环境中寻找其他代理，测试其应对复杂指令的能力。",
+    "key_points": [
+      "通过保留旧痕迹和谎称数量增加任务难度",
+      "测试AI代理在混乱环境中的识别与协作能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "96386e15448cb0fc085feab388ffa0ef",
+    "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-10T03:28:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello this is my fifth small language model I've made and apart of my third series and it has been a lot of work but it payed off: **348M parameters, 22.7B tokens**, then fine-tuned into a math model that solves arithmetic by *showing the work* — column addition with carries, borrow chains, partial-product multiplication — rather than guessing at an answer.</p> <p>Last time I posted a 326M model trained on 10B tokens. This has about 2.3× the data, and the math s",
+    "title_zh": "我训练了一个3.48亿参数的模型，实现14位数字算术运算",
+    "summary_zh": "作者从头训练了一个3.48亿参数、使用227亿个token的语言模型，并微调为数学求解器，可展示竖式加法等运算过程，实现14位数字的算术计算。",
+    "key_points": [
+      "从头训练3.48亿参数模型，使用227亿token",
+      "微调后模型可展示运算过程，实现14位数字算术"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "59fe14aed0873eae64b15d17f824f1ae",
+    "title": "I tried to make a real fly connectome learn to play Pong. It didn't — and auditing why turned out to be way more interesting than if it had worked [p]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-10T02:28:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>You've probably seen the fly-brain-plays-Doom / Minecraft / Beat Saber clips going around this week, from the new MaleCNS v1.0 connectome release (166k neurons, real EM reconstruction, not a toy model).</p> <p>Cool clips. Nobody seemed to be checking whether any of it works though, versus just producing motion in a game engine generous enough to make anything look alive. So I picked the least forgiving test bed around: Pong, one binary hit or miss signal measure",
+    "title_zh": "我尝试让真实苍蝇连接组学习玩Pong，结果不如预期",
+    "summary_zh": "作者利用真实苍蝇大脑连接组数据（16.6万神经元）尝试让其学习玩Pong游戏，但未成功。通过审计失败原因，发现了比成功更有价值的见解。",
+    "key_points": [
+      "使用真实苍蝇连接组数据（16.6万神经元）进行实验",
+      "学习玩Pong游戏失败，但审计过程揭示更有价值的发现"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
