@@ -646,5 +646,105 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "fe63df362c31489e8946f7d56ab30e13",
+    "title": "Google makes $15B AI infrastructure investment in Finland",
+    "url": "https://www.reddit.com/r/artificial/comments/1wczcpk/google_makes_15b_ai_infrastructure_investment_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-10T23:26:11+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wczcpk/google_makes_15b_ai_infrastructure_investment_in/\"> <img alt=\"Google makes $15B AI infrastructure investment in Finland\" src=\"https://external-preview.redd.it/DR-nQ-2mwWAawkgN4nt0eTEAMfI30k6JxI6qHwmpH0E.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=754b90a49477f86dc80d36329e5b764bde22e135\" title=\"Google makes $15B AI infrastructure investment in Finland\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://",
+    "title_zh": "谷歌在芬兰投资150亿美元建设AI基础设施",
+    "summary_zh": "谷歌宣布将在芬兰投资150亿美元用于扩展其人工智能基础设施，包括数据中心和计算资源，以支持日益增长的AI工作负载和云服务需求。",
+    "key_points": [
+      "谷歌在芬兰大手笔投资150亿美元建设AI基础设施",
+      "投资将用于数据中心和计算资源扩展",
+      "此举旨在加强谷歌云和AI服务的底层支撑能力"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3f1b7e6d6a103cc4efbde4b8edaae47e",
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-10T21:51:59+00:00",
+    "content_snippet": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+    "title_zh": "黄仁勋解释英伟达明年将实现惊人70%增长的原因",
+    "summary_zh": "英伟达CEO黄仁勋表示，公司正全面渗透各行各业，预计明年将实现70%的惊人增长，并坚称其业务交易并非简单的闭环循环，而是有坚实需求支撑。",
+    "key_points": [
+      "黄仁勋预测英伟达明年将实现70%的增长",
+      "增长动力源于AI芯片对各行业的全面渗透",
+      "黄仁勋驳斥了英伟达业务存在虚假繁荣的质疑"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ea63676a150c26a609ead54f7a25cd7c",
+    "title": "AI companies pursue the Boromir strategy to deal with the control problem. \"It's dangerous. But let that be me. I know what to do with it.\"",
+    "url": "https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-10T21:43:57+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wcwues/ai_companies_pursue_the_boromir_strategy_to_deal/\"> <img alt=\"AI companies pursue the Boromir strategy to deal with the control problem. &quot;It's dangerous. But let that be me. I know what to do with it.&quot;\" src=\"https://preview.redd.it/wrl4i7x1jroh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=301592e957d4bc35cc9c51e5c57792f6429c20ea\" title=\"AI companies pursue the Boromir strategy to deal with the control ",
+    "title_zh": "AI公司采取“博罗米尔策略”应对控制问题：“很危险，但让我来”",
+    "summary_zh": "一篇分析文章指出，当前多家AI公司面对AI控制问题时，采取了类似《指环王》中博罗米尔的态度，认为AI虽有危险但应放手发展，并自信能掌握其力量。",
+    "key_points": [
+      "AI公司被指用自负心态应对失控风险",
+      "类比“博罗米尔策略”批评行业冒进态度",
+      "文章探讨了AI发展中的安全与速度矛盾"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7b5505b6ed7bf6345c93b86b4fee4a3f",
+    "title": "Slack can now vibe-code interactive charts and reports inside chats",
+    "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-10T21:25:21+00:00",
+    "content_snippet": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from relevant conversations and connected apps, like Google Drive or Salesforce, to [&#8230;]",
+    "title_zh": "Slack现支持在聊天内“氛围编程”交互式图表和报告",
+    "summary_zh": "Slack推出新功能Slackforce Surfaces，用户可直接在聊天对话框中向Slackbot描述需求，AI将自动收集信息并生成交互式报告、投票、仪表盘等工具。",
+    "key_points": [
+      "Slack新增AI生成交互式内容功能",
+      "用户可用自然语言描述需求以生成图表和报告",
+      "该功能旨在简化企业内部信息整合与呈现"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
