@@ -1453,5 +1453,81 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bdd2b8a250a419ab13f99cce657445dc",
+    "title": "Meta’s Muse AI works and creeps me out",
+    "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-10T15:00:00+00:00",
+    "content_snippet": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out the new tool and see how well it performed - [&#8230;]",
+    "title_zh": "Meta 的 Muse AI 助手体验：好用但让我不安",
+    "summary_zh": "Meta 推出 Muse 助手，首次进军 AI 生产力工具领域。该工具可帮助用户处理购物、邮件、旅行规划等日常任务，但作者在体验后表达了对其能力的惊叹与不安。",
+    "key_points": [
+      "Meta 发布 AI 助手 Muse，进入生产力工具市场",
+      "Muse 可辅助处理邮件、购物、行程规划等任务",
+      "评测者对其强大功能感到既惊艳又不安"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d86fa96aa31ae3329c83184b6d02c8d0",
+    "title": "Now everyone can put data to work",
+    "url": "https://openai.com/index/put-data-to-work",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-10T15:00:00+00:00",
+    "content_snippet": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+    "title_zh": "任何人都能让数据发挥作用",
+    "summary_zh": "OpenAI 在 ChatGPT Work 中推出 Data 代理，允许用户使用自然语言连接公司数据、发现洞察并构建交互式仪表板，降低数据分析门槛。",
+    "key_points": [
+      "OpenAI 发布 ChatGPT Work 的 Data 代理功能",
+      "用户可用自然语言分析数据并生成交互式仪表板",
+      "该功能旨在降低企业数据分析的使用门槛"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ee5bacda2ce8165b30eafa3461193a0",
+    "title": "AI agents are flooding public services with new requests",
+    "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-10T14:53:50+00:00",
+    "content_snippet": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+    "title_zh": "AI 代理正大量涌入公共服务系统提交请求",
+    "summary_zh": "AI 代理正被用于向公共服务系统大量提交请求，虽然多数案例涉及合法申请，但这一现象引发了对系统负载和管理挑战的关注。",
+    "key_points": [
+      "AI 代理被大量用于向公共服务系统提交请求",
+      "研究发现多数请求来自有合法申请资格的人",
+      "该现象引发公共服务系统应对能力的担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
