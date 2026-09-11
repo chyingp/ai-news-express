@@ -746,5 +746,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c8f41d9a511d57de53ce02df81e6b327",
+    "title": "California enacts laws restricting chatbots and banning teens from ‘addictive’ social media",
+    "url": "https://www.reddit.com/r/artificial/comments/1wd2r40/california_enacts_laws_restricting_chatbots_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-11T01:54:22+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wd2r40/california_enacts_laws_restricting_chatbots_and/\"> <img alt=\"California enacts laws restricting chatbots and banning teens from ‘addictive’ social media\" src=\"https://external-preview.redd.it/MDkt6L7XryA3XDUL90OaWBWcVXiEopAetLJROzqsVwk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4089fac11ed6ac11b881c34cb5d3b0864b5c761\" title=\"California enacts laws restricting chatbots and banning teens from ‘addictive’ social ",
+    "title_zh": "加州颁布法律限制聊天机器人，并禁止青少年使用'成瘾性'社交媒体",
+    "summary_zh": "美国加利福尼亚州通过新法规，旨在限制AI聊天机器人的应用，同时禁止向青少年推送具有成瘾性设计的社交媒体内容，以加强对未成年人的保护。",
+    "key_points": [
+      "加州立法限制聊天机器人应用",
+      "禁止向青少年提供成瘾性社交媒体",
+      "旨在加强未成年人及其数据保护"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "626a42d5834e34b57483095235918c6e",
+    "title": "Would you sign it?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wd2bbf/would_you_sign_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-11T01:34:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Contract to forever give up any medicine/tech/progress that could be developed by an AI.</p> <p>Hospitals will let you die if the only cure was AI-generated.</p> <p>If an AI invents space travel, you don't get to go.</p> <p>In exchange, you don't pay a cent of the price of AI, direct or indirect, from the price of GPUs to global warming.</p> <p>And nothing you do can be used by AIs for training or profit.</p> <p>Do you sign it?</p> </div><!-- SC_ON --> &#32; sub",
+    "title_zh": "你会签这份永久放弃AI进步成果的协议吗？",
+    "summary_zh": "Reddit社区发起思想实验式讨论：如果签署协议永久放弃所有由AI研发的医疗、太空旅行等技术成果，便可免于为该技术付费，你会如何选择。",
+    "key_points": [
+      "讨论放弃AI成果以换取零成本的假设协议",
+      "涉及AI医疗、太空旅行等未来应用场景",
+      "社区对AI伦理与资源分配的思辨性探讨"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "95c3fd6f656b65471dc7e350534c2454",
+    "title": "One cheeseburger has roughly the greenhouse gas emissions of 63,000 Gemini AI text prompts.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-11T00:53:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A <a href=\"https://www.nature.com/articles/s44333-024-00003-7\">2024 University of Wisconsin–Madison paper</a> estimates that &quot;one cheeseburger equates to 1.9 kg of CO₂e emissions&quot;.</p> <p><a href=\"https://arxiv.org/pdf/2508.15734\">Google’s 2025 research paper</a> reports that &quot;a median Gemini Apps text prompt generates 0.03 gCO2e&quot;.</p> <p>That's 1,900 grams of CO₂e emissions per cheeseburger.<br /> That’s 0.03 grams of CO₂e emissions per Gemi",
+    "title_zh": "一个芝士汉堡的温室气体排放量约等于6.3万次Gemini AI文本提示",
+    "summary_zh": "根据威斯康星大学论文和谷歌2025年研究数据，一个芝士汉堡的碳排放约1.9千克，相当于Gemini AI模型处理6.3万次文本提示所产生的温室气体排放量。",
+    "key_points": [
+      "对比食物与AI碳足迹：一个汉堡≈6.3万次AI提示",
+      "数据源自大学论文与谷歌研究成果",
+      "为AI环保争议提供量化视角"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6ee38ba61567b680c9eeff4f14bd605c",
+    "title": "I’m getting less interested in AI answers and more interested in AI deliverables",
+    "url": "https://www.reddit.com/r/artificial/comments/1wd00u9/im_getting_less_interested_in_ai_answers_and_more/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-10T23:54:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I think my relationship with AI has changed a lot this year. Like, if I have a call tomorrow and need to know how HubSpot stacks up against Salesforce, I don’t really want 800 words explaining the differences anymore. I don’t want to copy that into a doc, open 12 tabs to check the sources, find some customer reviews, then spend another hour turning everything into slides.</p> <p>I just want to say: here’s what I’m trying to do. Go research it and give me somethi",
+    "title_zh": "我对AI生成的答案兴趣渐减，更关注AI的实际交付成果",
+    "summary_zh": "作者表示今年与AI的交互方式发生转变，不再满足于AI生成的长篇解释性文本，而是更想要如自动生成对比表格、直接完成任务等实际交付成果。",
+    "key_points": [
+      "用户需求从AI解释转向AI直接任务交付",
+      "期望获得结构化输出如表格而非长篇文本",
+      "反映出AI应用场景向自动化执行演进"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
