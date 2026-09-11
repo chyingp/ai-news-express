@@ -1151,5 +1151,80 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e32e3658be55881a1a73a86517ee0a77",
+    "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+    "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-11T14:25:21+00:00",
+    "content_snippet": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the company \"missed the mark,\" adding that \"the feature never should [&#8230;]",
+    "title_zh": "Meta 因 AI 聊天机器人提出侵犯性个人问题后调整建议机制",
+    "summary_zh": "Meta 宣布将修改其 AI 聊天机器人的提示建议，此前一段病毒视频显示该机器人试图挖掘一位母亲关于其年幼女儿的私人信息，Meta 发言人承认公司“未达目标”。",
+    "key_points": [
+      "病毒视频显示 Meta AI 试图挖掘用户幼女个人信息",
+      "Meta 发言人回应称公司“未达目标”并将做出改变"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "37a505703546a2bf647bebb3011f16e9",
+    "title": "Mathematicians confront the AI apocalypse",
+    "url": "https://www.reddit.com/r/artificial/comments/1wdhp11/mathematicians_confront_the_ai_apocalypse/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-11T14:21:43+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wdhp11/mathematicians_confront_the_ai_apocalypse/\"> <img alt=\"Mathematicians confront the AI apocalypse\" src=\"https://external-preview.redd.it/98v1Qor89x9KNnv_2V6zaDIm_yiX-sRZl_07NnfnNVw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8abfd1b6c83c522d02a1086bc75de949f52c81a0\" title=\"Mathematicians confront the AI apocalypse\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/scientificamerican\"",
+    "title_zh": "数学家直面 AI 带来的行业冲击",
+    "summary_zh": "文章探讨了数学家群体对人工智能可能带来的“行业末日”的担忧与应对，反思 AI 在自动定理证明和数学研究中的快速进展对传统数学职业的潜在颠覆性影响。",
+    "key_points": [
+      "AI 在自动推理和证明方面取得显著进展",
+      "数学家群体对 AI 可能取代传统研究工作的危机感加剧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "87ab6288bce17875b7f57ebb73e0990b",
+    "title": "Scott Galloway and Journalist Josh Tyrangiel: China's AI Models Are Already Undercutting the US by Up to 90%",
+    "url": "https://www.reddit.com/r/artificial/comments/1wdh277/scott_galloway_and_journalist_josh_tyrangiel/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-11T13:57:35+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wdh277/scott_galloway_and_journalist_josh_tyrangiel/\"> <img alt=\"Scott Galloway and Journalist Josh Tyrangiel: China's AI Models Are Already Undercutting the US by Up to 90%\" src=\"https://external-preview.redd.it/aDB4bHl5YjFkd29oMdLAF-CN-Kqf28pmp0AHWaYs1Q_QKGR5nSQPQWbWMfeB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=454050f9853e1d5f3d541598591bfbaab254b982\" title=\"Scott Galloway and Journalist Josh Tyrangiel: China's AI",
+    "title_zh": "观点：中国 AI 模型价格已比美国低至多 90%",
+    "summary_zh": "Scott Galloway 与记者 Josh Tyrangiel 在讨论中指出，中国的 AI 模型在价格上正在大幅削弱美国的竞争力，成本优势可达 90%，突显了两国在 AI 市场竞争中的价格战态势。",
+    "key_points": [
+      "中国 AI 模型凭借价格优势大幅削弱美国竞争力",
+      "美中 AI 市场竞争加剧，成本差距可达 90%"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "deepseek",
+      "alibaba",
+      "bytedance"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
