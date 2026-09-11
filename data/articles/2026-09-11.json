@@ -844,5 +844,127 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "16b57878abc88918f033fc48d22987e3",
+    "title": "Built an AI memory system that actually refuses to hallucinate",
+    "url": "https://www.reddit.com/r/artificial/comments/1wd8fl0/built_an_ai_memory_system_that_actually_refuses/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-11T06:40:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I have been working on a project for a while now. It is a custom RNS-AI architecture written in Python that runs locally on a single CPU core using a basic SQLite database.</p> <p>The main reason I built this is because standard LLMs drive me crazy with hallucinations and catastrophic forgetting. They just merge everything into a giant statistical blob of weights. If you ask a question and the model does not know the answer, it just guesses somethi",
+    "title_zh": "构建了一个能够真正拒绝幻觉的AI记忆系统",
+    "summary_zh": "开发者分享了一个本地运行的RNS-AI架构项目，使用Python编写，基于SQLite数据库在单核CPU上运行。该系统旨在解决标准大语言模型中常见的幻觉问题。",
+    "key_points": [
+      "本地运行的RNS-AI架构拒绝产生幻觉",
+      "系统基于Python和SQLite在单核CPU上实现",
+      "项目旨在克服标准大语言模型的缺陷"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "93beacdcfc9e7fef2c97a637dacc043d",
+    "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+    "url": "https://www.qbitai.com/2026/09/487273.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-11T06:19:03+00:00",
+    "content_snippet": "9月9日，墨芯人工智能亮相以\"共创AI新经济\"为主题的2026 Inclusion·外滩大会。",
+    "title_zh": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+    "summary_zh": "墨芯人工智能在2026 Inclusion·外滩大会上展示其专用稀疏推理芯片，旨在通过提升算力效能来推动AI新经济发展。",
+    "key_points": [
+      "墨芯人工智能在外滩大会展示稀疏推理芯片",
+      "专用芯片旨在提升算力效能",
+      "主题围绕共创AI新经济展开"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b31d325d80f717fabdf34e4cc2088352",
+    "title": "ACL Sustainable Reviewing Policy [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-11T05:38:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>ACL just announced on X how they are planning to handle the increased submission numbers. Interestingly enough, they call it &quot;the proposal&quot;.</p> <p>My understanding is that, in a nutshell, each submission should come with someone who can review, otherwise it may only get a slot through a lottery. Additionally, they cap total submissions at 20 and first-author submissions per cycle at 5.</p> <p>What do you think of it? IMO it makes a lot of sense - espe",
+    "title_zh": "ACL可持续审稿政策讨论",
+    "summary_zh": "ACL（计算语言学协会）发布了一项关于处理日益增长的论文投稿数量的新提案，核心要求是每篇投稿需附带审稿人，引发了社区的讨论。",
+    "key_points": [
+      "ACL发布新提案以应对论文投稿量激增",
+      "提案要求每篇投稿需附带一名审稿人",
+      "此举旨在实现可持续的同行评审流程"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9edf24e023503d187e17a296fe114d75",
+    "title": "How Google AI \"thinks\"",
+    "url": "https://www.reddit.com/r/artificial/comments/1wd70i1/how_google_ai_thinks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-11T05:22:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Got this as text <a href=\"https://www.google.com/search?q=Areca+catechu+palm&amp;sourceid=chrome&amp;ie=UTF-8&amp;source=chrome.ctxt\">in a search</a> on a particular kind of plant,</p> <p>&quot;</p> <ul> <li>Pet Safety: Note that areca palms are considered [non-toxic or safe? wait, check snippet 0.6.1 says &quot;Unsafe For Pets&quot;]—actually let's look at 0.6.1: &quot;Pet Toxicity Pet Friendly: Unsafe For Pets&quot; is listed under one vendor attribute, but Dy",
+    "title_zh": "谷歌AI如何“思考”的个案观察",
+    "summary_zh": "用户分享了一个在谷歌搜索中观察到的例子，展示了谷歌AI在生成关于植物安全性的信息摘要时，其输出内容的结构与逻辑推理过程。",
+    "key_points": [
+      "通过搜索案例展示谷歌AI生成摘要的逻辑",
+      "内容涉及植物安全性与宠物毒性判断",
+      "引发了关于AI“思维”方式的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eb1edc0189152791fa74dd1fd2e09e8d",
+    "title": "Any tools to turn a codebase into a fine tuning dataset? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wd5zkk/any_tools_to_turn_a_codebase_into_a_fine_tuning/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-11T04:27:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have a few web projects with pretty good UI/UX and I’m wondering if there’s any tool or workflow that can turn an existing codebase into a dataset for fine tuning.</p> <p>For example, given a React/Next.js project with components, pages, styling, etc. or a static html site, I’d like to turn it into something like:</p> <p><code>instruction/prompt -&gt; code</code></p> <p>or whatever format actually makes sense for training an instruct/thinking/diffusion coding ",
+    "title_zh": "是否有工具可将代码库转化为微调数据集？",
+    "summary_zh": "开发者询问是否存在工具或工作流，能将React/Next.js等现有代码库转化为用于模型微调的数据集，以利用优秀的前端项目进行训练。",
+    "key_points": [
+      "寻求将代码库转化为微调数据集的工具",
+      "涉及React/Next.js等前端项目",
+      "旨在利用现有高质量UI/UX代码进行训练"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
