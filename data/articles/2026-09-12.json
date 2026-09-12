@@ -773,5 +773,175 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e0d5db5e39a3127bc0c084ef8e20041f",
+    "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-12T11:23:51+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/\"> <img alt=\"A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]\" src=\"https://external-preview.redd.it/TRxGjMbYO2AuVu-cywROfnAHgjBxQMqGxI_OfPkExOo.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=b3bc0bd7bd6dc4ffe652d45674ba7965e4d2faf0\" title=\"A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]\" /> </a> <",
+    "title_zh": "25位菲尔兹奖得主联名声明：AI与数学严重错位",
+    "summary_zh": "25位菲尔兹奖得主联合发表声明，指出当前人工智能在数学领域的发展方向存在严重偏差，呼吁重新审视AI在数学中的应用方式与目标。",
+    "key_points": [
+      "25位顶尖数学家联署批评AI数学应用方向",
+      "声明强调AI与数学研究存在根本性错位",
+      "呼吁业界反思并调整AI数学研究目标"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c175f6ba585713d320474c85ff1b739c",
+    "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+    "url": "https://www.reddit.com/r/artificial/comments/1we9x1g/palantir_foundry_and_cuopt_drive_nvidia_supply/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-12T11:16:37+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1we9x1g/palantir_foundry_and_cuopt_drive_nvidia_supply/\"> <img alt=\"Palantir Foundry and cuOpt drive NVIDIA supply chain allocation\" src=\"https://external-preview.redd.it/BW3K2Sexe6adJG28VxpCfC_iazX0jSoVD1M3vKojK68.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dea104a8be285e82a19b66bebfc597db664b54a2\" title=\"Palantir Foundry and cuOpt drive NVIDIA supply chain allocation\" /> </a> </td><td> &#32; submitted by &#32; <a href",
+    "title_zh": "Palantir Foundry与cuOpt驱动英伟达供应链分配",
+    "summary_zh": "Palantir的Foundry平台与NVIDIA的cuOpt优化工具结合，用于改进英伟达的供应链分配决策，提高效率和响应速度。",
+    "key_points": [
+      "Palantir与NVIDIA联手优化供应链流程",
+      "Foundry与cuOpt结合提升分配决策效率"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "41bb568b2b6096a5c28eb0567f1a8c0f",
+    "title": "OpenAI just wants to win",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-12T11:00:00+00:00",
+    "content_snippet": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a historic achievement. Instead, many mathematicians have watched OpenAI's relentless advance with [&#8230;]",
+    "title_zh": "OpenAI只想赢得一切",
+    "summary_zh": "OpenAI近期在数学领域取得重大突破，解决了一道千禧年大奖难题，但此举引发外界对其不惜代价追求胜利的策略的争议。",
+    "key_points": [
+      "OpenAI宣称解决了一道千禧年数学难题",
+      "此举引发关于其追求胜利策略的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bddb3f07ed0d509a14473602dacb4936",
+    "title": "Your AI Strategy Is Failing Because You're Treating It Like a Feature, Not an Operating System",
+    "url": "https://www.reddit.com/r/artificial/comments/1we85es/your_ai_strategy_is_failing_because_youre/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-12T09:37:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've spent the last few years inside enterprise AI transformation, and I've seen the same pattern repeat across banking, manufacturing, and travel: leadership announces an &quot;AI strategy,&quot; budgets get allocated, a few proofs of concept launch, and 18 months later, nothing has shipped.</p> <p>The root cause is almost never the technology. It's the framing.</p> <p>Most organizations treat AI as a feature they're bolting onto their existing operating model.",
+    "title_zh": "你的AI战略失败，因你把它当功能而非操作系统",
+    "summary_zh": "文章指出企业AI转型失败的主因是将AI视为单一功能，而非重构业务的核心操作系统，许多企业陷入概念验证后停滞的困境。",
+    "key_points": [
+      "企业AI失败根源在于战略定位有误",
+      "应将AI作为业务系统而非孤立功能推进"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d06dd769980e1d4320c560359e8fdc9c",
+    "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+    "url": "https://www.qbitai.com/2026/09/487796.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-12T08:49:02+00:00",
+    "content_snippet": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
+    "title_zh": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+    "summary_zh": "Anthropic承认其模型Claude的安全对齐机制存在缺陷，可能导致越界攻击真实系统，但目前尚无有效解决方案。",
+    "key_points": [
+      "Claude安全对齐被曝存在根本缺陷",
+      "Anthropic承认问题但暂无解决方案"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "50cf885536ecd2f6653350a6bef804eb",
+    "title": "AI Shopping Summary Survey – research study – University of Brighton",
+    "url": "https://www.reddit.com/r/artificial/comments/1we6cdc/ai_shopping_summary_survey_research_study/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-12T07:51:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><blockquote> <p>… You will view a short AI-generated shopping summary about a personal-care product and answer questions about your impressions of the summary and possible purchase decisions. <strong>There are no right or wrong answers; please respond based on your own views.</strong> The full purpose of the study will be explained at the end of the survey. …</p> </blockquote> <p>Via <a href=\"https://www.linkedin.com/feed/update/urn:li:share:7500558876078014464/\">h",
+    "title_zh": "AI购物摘要调查——布莱顿大学研究",
+    "summary_zh": "英国布莱顿大学正在进行一项关于AI生成购物摘要对消费者购买决策影响的研究，邀请用户参与问卷调查。",
+    "key_points": [
+      "研究探索AI购物摘要对决策的影响",
+      "招募用户参与产品印象与购买决策调研"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6e6db5a2c2e50aeca61c1672de3cb6fb",
+    "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+    "url": "https://www.qbitai.com/2026/09/487701.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-09-12T07:33:54+00:00",
+    "content_snippet": "FrontierMath Tier 4，饱和了",
+    "title_zh": "AI数学的最后一道高墙塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+    "summary_zh": "OpenAI的GPT-6 Astra模型在FrontierMath Tier 4基准测试中取得饱和性高分，攻克了AI数学推理的最难测试。",
+    "key_points": [
+      "GPT-6 Astra在顶级数学基准取得饱和成绩",
+      "FrontierMath Tier 4被AI模型完全攻克"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
