@@ -508,5 +508,102 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ea5b1933378254704fc4abacd46eabc9",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-14T00:00:00+00:00",
+    "content_snippet": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "title_zh": "Perplexity 全面采用 GPT-6 Astra 实现端到端系统自动化",
+    "summary_zh": "Perplexity 公司使用 OpenAI 的 Astra 模型进行通讯、软件更改和生产系统监控，相比早期模型需要的人工检查频率大幅降低，展示了先进 AI 模型在实际业务中的深入整合。",
+    "key_points": [
+      "Perplexity 采用 Astra 模型自动化沟通、开发与运维流程",
+      "Astra 性能显著提升，人工干预频率大幅减少",
+      "端到端系统应用展现 AI 在企业核心业务中的实用价值"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7ffd471f3f4c6e7e13313decfaecdaa1",
+    "title": "Why does A.I suddenly seem awful at science? and are there decent A.I for science questions/research",
+    "url": "https://www.reddit.com/r/artificial/comments/1wdxbsd/why_does_ai_suddenly_seem_awful_at_science_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-12T00:15:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Gemini is just incorrect most the time and has zero issue just making stuff up, then GPT refuses to say any specific and when called out for this it just HARD stops any conversation. I mean i swear they used to be better then they are now.</p> <p>Anyone got any recs though? With how terrible normal search engines are getting it seems impossible to find even foundational info without sifting through textbooks and papers. Also honestly if anyone's got a browser re",
+    "title_zh": "Reddit 热议：为何 AI 突然在科学问答上表现糟糕？",
+    "summary_zh": "Reddit 用户抱怨 Gemini 经常给出错误或捏造的回答，GPT 则回避具体问题并在被质疑时强行终止对话，用户认为当前 AI 对科学问题的处理能力反而退步，并寻求替代方案。",
+    "key_points": [
+      "用户批评 Gemini 频繁生成编造内容，GPT 回避问题且拒绝对话",
+      "社区认为 AI 对科学问题的准确性与可靠性出现倒退",
+      "用户正在寻找更适合科学研究的替代 AI 工具"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8a183c34187799263cd4000fd7cc186c",
+    "title": "REPOST: Ban all use of AI, dedicate existing infrastructure to solving alignment via Congressional mandate (not OP)",
+    "url": "https://www.reddit.com/r/artificial/comments/1wdwyf3/repost_ban_all_use_of_ai_dedicate_existing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-11T23:59:26+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wdwyf3/repost_ban_all_use_of_ai_dedicate_existing/\"> <img alt=\"REPOST: Ban all use of AI, dedicate existing infrastructure to solving alignment via Congressional mandate (not OP)\" src=\"https://preview.redd.it/nuksa1e6czoh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc197a9a5493ff9bdad6570cea6e320f34c65576\" title=\"REPOST: Ban all use of AI, dedicate existing infrastructure to solving alignment via Congressional mandate ",
+    "title_zh": "转载：通过国会授权禁止所有 AI 使用，将现有基础设施用于对齐研究",
+    "summary_zh": "一篇在 Reddit AI 版块引起讨论的帖子呼吁，应通过美国国会立法全面禁止 AI 的使用，并将现有的计算基础设施全部投入解决 AI 价值对齐问题的研究中。",
+    "key_points": [
+      "帖子主张用国会令全面禁止 AI 使用以应对安全风险",
+      "呼吁将所有现有 AI 算力转向价值对齐研究",
+      "反映了部分社区对 AI 发展失控的强烈担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e96c9aa9cd2ccf19f1575f28133df9c8",
+    "title": "Confusion regarding EMNLP registration [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wdw5o0/confusion_regarding_emnlp_registration_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-11T23:24:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I posted some months ago and got some very helpful responses (for another conference), but I have some confusions regarding EMNLP (and the way registration works here).<br /> To give some context, I used to work as an intern during my undergrads at an Indian uni (final year), and managed to write a paper as first-author and it got accepted to EMNLP Findings.<br /> Now, post-graduation, I joined another university for my Masters, and when I applied for grant,",
+    "title_zh": "关于 EMNLP 会议注册的疑问",
+    "summary_zh": "一位用户发帖求助称对 EMNLP（自然语言处理经验方法会议）的注册流程感到困惑，结合自身作为研究实习生的经历，希望获得关于该学术会议注册方式的指导。",
+    "key_points": [
+      "用户对 EMNLP 学术会议的注册流程存在疑问",
+      "寻求社区帮助以澄清注册方式"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
