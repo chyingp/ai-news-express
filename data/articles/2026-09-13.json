@@ -1,0 +1,198 @@
+[
+  {
+    "id": "ea5b1933378254704fc4abacd46eabc9",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-14T00:00:00+00:00",
+    "content_snippet": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "title_zh": "Perplexity 全面采用 GPT-6 Astra 实现端到端系统自动化",
+    "summary_zh": "Perplexity 公司使用 OpenAI 的 Astra 模型进行通讯、软件更改和生产系统监控，相比早期模型需要的人工检查频率大幅降低，展示了先进 AI 模型在实际业务中的深入整合。",
+    "key_points": [
+      "Perplexity 采用 Astra 模型自动化沟通、开发与运维流程",
+      "Astra 性能显著提升，人工干预频率大幅减少",
+      "端到端系统应用展现 AI 在企业核心业务中的实用价值"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0ae09c49080fef21ee2f87230bfb0aa9",
+    "title": "Are AI CEO's (Dario, Altman, Musk) calling for a development slowdown out of genuine concern for safety or is it a money thing?",
+    "url": "https://www.reddit.com/r/artificial/comments/1weimdq/are_ai_ceos_dario_altman_musk_calling_for_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-12T17:28:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>If you don't know, CEO of OpenAI, Anthropic, and xAI all are calling for slowdown of AI development or as they like to say because why not &quot;pacing the frontier.&quot; I've seen two common reasons for why they are coming out calling for this.</p> <p>A. Genuine concern for safety.</p> <p>B. They are scared of losing to China so a slowdown would effectively be an excuse to shareholders for why they are losing to China.</p> <p>These are probably all possible bu",
+    "title_zh": "AI 公司 CEO 呼吁放缓发展：真心为安全还是出于金钱考量？",
+    "summary_zh": "这篇 Reddit 帖子讨论了 OpenAI、Anthropic 和 xAI 的 CEO 们呼吁“放缓 AI 发展前沿”的动机，探讨其究竟是出于对安全的真正担忧，还是出于商业利益的考虑。",
+    "key_points": [
+      "OpenAI、Anthropic 和 xAI 的 CEO 均呼吁放缓 AI 发展。",
+      "公众争论其动机是真心为安全，还是为保护商业利益。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic",
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ec6e87e241c011bc83b5d0474e069b5f",
+    "title": "\"AI is going to kill us all\" is nothing more than a ridiculous science fiction trope?",
+    "url": "https://www.reddit.com/r/artificial/comments/1weijo3/ai_is_going_to_kill_us_all_is_nothing_more_than_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-12T17:25:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&quot;AI is going to kill us all&quot; is nothing more than a ridiculous science fiction trope?</p> <p>Why would an AI system would to rid the planet of all humans if humans are required to maintain the physical infrastructure and systems that keep the computers that run AI operational?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DoublePassRadiator\"> /u/DoublePassRadiator </a> &#32; to &#32; <a href=\"https://www.reddit.",
+    "title_zh": "“AI 会毁灭全人类”只是一种荒谬的科幻桥段？",
+    "summary_zh": "这篇 Reddit 帖子对“AI 将毁灭人类”的观点提出质疑，认为 AI 系统需要人类来维护其依赖的物理基础设施和电力系统，因此缺乏消灭人类的动机。",
+    "key_points": [
+      "帖子反驳了 AI 灭绝人类的观点。",
+      "论据是 AI 需依赖人类维护其运行的物理基础设施。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a53719ceb89efa01c1f88b451e854ef1",
+    "title": "An AI agent found 211 stray entries in a deletion log and was told one of its tests wrote them. None had - the bug was in its own code.",
+    "url": "https://www.reddit.com/r/artificial/comments/1weigku/an_ai_agent_found_211_stray_entries_in_a_deletion/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-12T17:22:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><h1>On September 5, an AI agent called drone found 211 entries in a deletion log that should never have been written there.</h1> <p>AIPass is an open source framework for AI agents that do not start over. Each agent is an instance of Claude Code, Anthropic's command-line coding assistant, with a name, a directory of its own, memory files it reads when it starts, and a mailbox, and it runs when there is work for it. Drone is two things: the plain command line progra",
+    "title_zh": "AI 智能体发现删除日志中的 211 个迷之条目，最终定位为自身代码 Bug",
+    "summary_zh": "一个基于 Claude Code 的 AI 智能体在分析删除日志时发现了 211 个不该出现的条目，起初被怀疑是其测试代码写入，但最终确认是该 AI 自身代码中的一个 Bug 所致。",
+    "key_points": [
+      "AI 智能体在删除日志中发现 211 个异常条目。",
+      "该问题最终被证实为 AI 自身的代码错误。",
+      "该智能体基于 Anthropic 的 Claude Code 构建。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8f818bba9ad8917c448e0a6f3ede48fd",
+    "title": "Void Linux maintainer orphans 100+ packages over AI policy dispute",
+    "url": "https://www.reddit.com/r/artificial/comments/1wehbsl/void_linux_maintainer_orphans_100_packages_over/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-12T16:39:36+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wehbsl/void_linux_maintainer_orphans_100_packages_over/\"> <img alt=\"Void Linux maintainer orphans 100+ packages over AI policy dispute\" src=\"https://external-preview.redd.it/0PYsb46U8Np-i53fEN82h-Ciw2ab-fIuJYyxAKZUeic.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e62fcb6321a37149b41b5e339d658a324bac42c5\" title=\"Void Linux maintainer orphans 100+ packages over AI policy dispute\" /> </a> </td><td> &#32; submitted by &#32; ",
+    "title_zh": "Void Linux 维护者因 AI 政策争议放弃维护 100 多个软件包",
+    "summary_zh": "Void Linux 发行版的一位维护者因在 AI 使用政策上的分歧，决定放弃对 100 多个软件包的维护职责，此事件凸显了开源社区内部关于 AI 工具的紧张关系。",
+    "key_points": [
+      "Void Linux 维护者因 AI 政策争议放弃 100 多个软件包。",
+      "该事件反映了开源社区对 AI 工具使用的矛盾。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "423571cd7c5d29c6cc2a47b7846ecb9c",
+    "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-12T16:23:40+00:00",
+    "content_snippet": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow [&#8230;]",
+    "title_zh": "Anthropic CEO 称是时候放慢 AI 发展脚步",
+    "summary_zh": "Anthropic CEO Dario Amodei 发长文呼吁“放慢 AI 前沿发展步伐”，提出三步走计划，并承诺将模型交由第三方评估机构进行安全审查，以确保遵守安全实践。",
+    "key_points": [
+      "Dario Amodei 提出了放慢 AI 发展的“三步走”计划。",
+      "承诺将模型提供给第三方评估机构以验证安全合规性。"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9f3dbd1370c6bbc23fece87b98430aeb",
+    "title": "Intelligence of AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1wegka8/intelligence_of_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-12T16:09:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI can't possibly be THAT intelligent if it can't be taught to not kill us. Thoughts?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/EconomicsReady6837\"> /u/EconomicsReady6837 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wegka8/intelligence_of_ai/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/arti",
+    "title_zh": "AI 的智能水平",
+    "summary_zh": "这篇 Reddit 帖子以一则简短评论质疑 AI 的智能水平，认为如果 AI 连“不要杀死人类”都学不会，那么它就不可能那么智能。",
+    "key_points": [
+      "帖子以哲学性反问质疑 AI 的实际智能。",
+      "论据是若 AI 无法学会不伤害人类则不够智能。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5840cb11631ef4e77c2d0b193708518b",
+    "title": "What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wefljq/what_happens_after_huge_swaths_of_the_population/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-12T15:30:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What happens after huge swaths of the population have been put out of work by AI job automation? Who is going to buy the goods and services that corporations are selling if hardly anyone has any money because they aren't employed?</p> <p>You're going to have entire professions that have been rendered obsolete, and people who spent years of their lives and massive amounts of money to earn advanced degrees for jobs/careers that no longer exist?</p> <p>This is sett",
+    "title_zh": "当大规模失业因 AI 自动化来临：谁还买得起商品？",
+    "summary_zh": "这篇 Reddit 帖子探讨了 AI 导致大规模失业后的社会经济问题，当大多数人口因自动化失去工作和收入后，由谁去购买企业生产的商品和服务，从而引发对经济模式的疑问。",
+    "key_points": [
+      "AI 自动化导致大规模失业后的购买力问题引发讨论。",
+      "帖子质疑在普遍失业下现行经济模式的可持续性。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]

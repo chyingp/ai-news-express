@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12 01:32 CST",
-  "generated_date": "2026-09-12",
+  "generated_at": "2026-09-13 02:08 CST",
+  "generated_date": "2026-09-13",
   "indicators": [
     {
       "key": "gdp",
@@ -449,80 +449,9 @@
       "better": "down",
       "source": "World Bank",
       "freq": "年度",
-      "points": [
-        {
-          "date": "2010",
-          "value": 9.823
-        },
-        {
-          "date": "2011",
-          "value": 9.976
-        },
-        {
-          "date": "2012",
-          "value": 10.154
-        },
-        {
-          "date": "2013",
-          "value": 10.316
-        },
-        {
-          "date": "2014",
-          "value": 10.507
-        },
-        {
-          "date": "2015",
-          "value": 10.68
-        },
-        {
-          "date": "2016",
-          "value": 10.574
-        },
-        {
-          "date": "2017",
-          "value": 10.431
-        },
-        {
-          "date": "2018",
-          "value": 9.674
-        },
-        {
-          "date": "2019",
-          "value": 10.681
-        },
-        {
-          "date": "2020",
-          "value": 12.65
-        },
-        {
-          "date": "2021",
-          "value": 12.404
-        },
-        {
-          "date": "2022",
-          "value": 14.673
-        },
-        {
-          "date": "2023",
-          "value": 15.562
-        },
-        {
-          "date": "2024",
-          "value": 15.044
-        },
-        {
-          "date": "2025",
-          "value": 15.795
-        }
-      ],
-      "latest": {
-        "date": "2025",
-        "value": 15.795
-      },
-      "prev": {
-        "date": "2024",
-        "value": 15.044
-      }
+      "points": [],
+      "latest": null,
+      "prev": null
     },
     {
       "key": "labor_force",
