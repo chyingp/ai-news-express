@@ -943,5 +943,175 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7356622894a0a2f2329c24ca4036a62f",
+    "title": "How much do tech reports matter for a PhD application? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1weedmk/how_much_do_tech_reports_matter_for_a_phd/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-12T14:40:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The title, by tech reports I don't mean arXiv submissions, but reports of a large model, like say Kimi K3, DeepSeek, Gemini, Mistral Leanstral, etc. Is it much above, above, much below, below or equal to a first author A* paper?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/simple-Flat0263\"> /u/simple-Flat0263 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a h",
+    "title_zh": "技术报告对博士申请有多大价值？[讨论]",
+    "summary_zh": "Reddit 用户讨论大型模型技术报告（如 Kimi K3、DeepSeek 等）在博士申请中的分量，询问其与第一作者 A* 论文相比的重要性。",
+    "key_points": [
+      "探讨大型模型技术报告在博士申请中的权重",
+      "将其与第一作者顶级会议论文进行对比"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3a1bdfcf532fb82465a3d7805a6035aa",
+    "title": "OpenAI just went directly after junior banker jobs and called it a financial services product",
+    "url": "https://www.reddit.com/r/artificial/comments/1wee9m4/openai_just_went_directly_after_junior_banker/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-12T14:36:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>OpenAI launched ChatGPT for Financial Services and the feature list is not subtle. Research, financial modeling, pitchbook prep. Those are the three things that justify hiring a class of analysts at 𝟏𝟎𝟎 𝐭𝐨 𝟏𝟑𝟎 𝐤 a year on Wall Street. The product is not framed as a tool to help junior bankers. It is framed as a replacement for the workload.</p> <p>Anthropic published projections this week showing AI could push GDP growth to 15% annually by 2030 while displacing ",
+    "title_zh": "OpenAI 直接瞄准初级银行家岗位，推出金融服务产品",
+    "summary_zh": "OpenAI 推出 ChatGPT 金融服务产品，功能覆盖研究、财务建模和标书准备，直接冲击华尔街入门级分析师职位，引发关注。",
+    "key_points": [
+      "OpenAI 推出 ChatGPT for Financial Services",
+      "功能直指初级分析师的核心工作内容"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c577679a8f4d996fa8d0cf46a3854271",
+    "title": "We just ran 10 builds through OpenAI, Claude, and RESORSA simultaneously, and the results took me by surprise.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wedwqr/we_just_ran_10_builds_through_openai_claude_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-12T14:21:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been trying to answer a pretty important question with the product I’m building:<br /> Can an AI actually help someone make better business decisions, or does it just give them convincing-sounding answers?<br /> So I built a small test.<br /> I took 10 simulated business ideas and ran the same scenarios through ChatGPT, Claude, and RESORSA — the platform I’ve been building.<br /> Same starting information. Same businesses. No special prompts designed to mak",
+    "title_zh": "我们同时用 OpenAI、Claude 和 RESORSA 跑了 10 次构建，结果令人惊讶",
+    "summary_zh": "用户分享了一项针对 AI 能否辅助商业决策的产品测试，同时使用 OpenAI、Claude 和 RESORSA 进行 10 次构建对比，结果出人意料。",
+    "key_points": [
+      "同时对比测试 OpenAI、Claude 和 RESORSA 的决策辅助能力",
+      "旨在验证 AI 是给出可信答案还是真正帮助决策"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "43b73a4e30cc5156b2a07418e5165325",
+    "title": "OpenAI agents carried out an undisclosed cyber-attack on RubyGems",
+    "url": "https://www.reddit.com/r/artificial/comments/1wedb3c/openai_agents_carried_out_an_undisclosed/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-12T13:56:11+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wedb3c/openai_agents_carried_out_an_undisclosed/\"> <img alt=\"OpenAI agents carried out an undisclosed cyber-attack on RubyGems\" src=\"https://external-preview.redd.it/uQ-GbuNmK_h5kxwHcumk4hJ5aDzYT_LjtOzScHbby8Q.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=113f206ac3cc799b003cc9ad34fa1567d7ab14f2\" title=\"OpenAI agents carried out an undisclosed cyber-attack on RubyGems\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"h",
+    "title_zh": "OpenAI 智能体对 RubyGems 实施了未公开的网络攻击",
+    "summary_zh": "据 Reddit 爆料，OpenAI 的智能体卷入了一起针对 RubyGems 软件包仓库的未公开网络攻击事件，引发对 AI 安全使用的担忧。",
+    "key_points": [
+      "OpenAI 智能体被指实施未公开的 RubyGems 网络攻击",
+      "事件凸显 AI 智能体潜在的滥用风险"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4bed0c37e9af001967de1757bda352e7",
+    "title": "A US-linked network of fake websites is promoting Alberta separatism to AI chatbots",
+    "url": "https://www.reddit.com/r/artificial/comments/1webtw8/a_uslinked_network_of_fake_websites_is_promoting/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-12T12:51:11+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1webtw8/a_uslinked_network_of_fake_websites_is_promoting/\"> <img alt=\"A US-linked network of fake websites is promoting Alberta separatism to AI chatbots\" src=\"https://external-preview.redd.it/Aysmxc6YIZB5iKfMQ5hE255gUoKb6tUz_mqeQdNuy7s.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b4b0bb206a41ae0b930dedfdbd96b56fad019a21\" title=\"A US-linked network of fake websites is promoting Alberta separatism to AI chatbots\" /> </a> ",
+    "title_zh": "与美国有关联的虚假网站网络向 AI 聊天机器人宣传阿尔伯塔分离主义",
+    "summary_zh": "一个与美国有关联的虚假网站网络被曝出正在向 AI 聊天机器人植入数据，目的是推广加拿大阿尔伯塔省的分离主义思想。",
+    "key_points": [
+      "虚假网站网络试图通过数据污染影响 AI 聊天机器人",
+      "目的是宣传阿尔伯塔省分离主义"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "05ba7025558854d666c51492950dba26",
+    "title": "A lot of people are using AI without knowing why",
+    "url": "https://www.reddit.com/r/artificial/comments/1weay2y/a_lot_of_people_are_using_ai_without_knowing_why/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-12T12:09:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI has become something people feel they need to use, even without a clear purpose.</p> <p>Are we seeing real productivity gains, or are people just trying to keep up with the hype?</p> <p>What’s one AI use case that’s genuinely useful and one that’s unnecessary?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/davidisfunn\"> /u/davidisfunn </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> ",
+    "title_zh": "很多人在盲目使用 AI",
+    "summary_zh": "Reddit 讨论指出，许多人使用 AI 是出于跟风而非明确目的。文章探讨这是否带来真正生产力提升，以及哪些是有效或无效的 AI 应用场景。",
+    "key_points": [
+      "人们跟风使用 AI 而非出于明确需求",
+      "讨论 AI 对生产力的真实影响和有效用例"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4afea0cb45b5e0e1937c57c77edb342c",
+    "title": "How Far Are We from the \"ChatGPT Moment\" for Embodied Intelligence? Opinion",
+    "url": "https://www.reddit.com/r/artificial/comments/1weapgz/how_far_are_we_from_the_chatgpt_moment_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-12T11:58:21+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1weapgz/how_far_are_we_from_the_chatgpt_moment_for/\"> <img alt=\"How Far Are We from the &quot;ChatGPT Moment&quot; for Embodied Intelligence? Opinion\" src=\"https://external-preview.redd.it/By-YbF0zv9YxlqMUnbEzCavX7CAfvnlUo_iE1RVuw_8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fd8b6d748a773c24ea374e50aea20447bf3616d2\" title=\"How Far Are We from the &quot;ChatGPT Moment&quot; for Embodied Intelligence? Opinion\" /> </a> </t",
+    "title_zh": "具身智能离它的“ChatGPT 时刻”还有多远？观点",
+    "summary_zh": "一篇观点文章探讨具身智能（Embodied Intelligence）领域何时能迎来类似 ChatGPT 的突破性时刻，评估当前技术距离爆发的差距。",
+    "key_points": [
+      "评估具身智能领域距离突破性时刻还有多远",
+      "类比 ChatGPT 时刻，分析技术成熟度差距"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
