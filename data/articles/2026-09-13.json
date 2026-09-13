@@ -516,5 +516,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a279eed243ea1df528935819ce6c7f44",
+    "title": "AI assistants are optimized to answer \"how do I stop this error,\" not \"why does my system produce this state\"",
+    "url": "https://www.reddit.com/r/artificial/comments/1weuuft/ai_assistants_are_optimized_to_answer_how_do_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-13T02:01:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Given a stack trace, the most locally justified response an AI assistant can give is a fix that makes the specific crashing line stop crashing. That's a real, defensible answer to a real question. It's just a different question from &quot;why does this condition exist in my system at all,&quot; and that second question usually requires looking at code the error message never points to, upstream logic several files away from where the crash actually happened.</p>",
+    "title_zh": "AI 助手倾向修复表面错误，而非深究系统根本原因",
+    "summary_zh": "文章指出当前 AI 编程助手被优化为针对特定报错提供局部修复方案，而非分析系统产生错误的深层原因。这种优化导向使得助手能有效解决表面问题，却忽略了帮助开发者理解系统状态的根本性问题。",
+    "key_points": [
+      "AI 助手擅长给出让报错代码行停止崩溃的局部修复",
+      "开发者需要的'系统为何产生此状态'问题未被优先优化",
+      "两种问题的答案性质不同，局部修复更易生成和辩护"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
