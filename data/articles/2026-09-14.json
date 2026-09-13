@@ -119,5 +119,176 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1d273e458a4640c0c1e45e31d7bd08a2",
+    "title": "Trump and Mike Johnson think the AI industry is overreacting",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-13T19:41:48+00:00",
+    "content_snippet": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [&#8230;]",
+    "title_zh": "特朗普和迈克·约翰逊认为AI行业反应过度",
+    "summary_zh": "特朗普与众议院议长约翰逊批评AI行业对风险过度焦虑，此前Anthropic CEO公开呼吁放缓AI开发，并获OpenAI、特斯拉CEO及谷歌高管支持。",
+    "key_points": [
+      "特朗普与约翰逊批评AI行业对风险反应过度",
+      "Anthropic CEO公开信呼吁放缓AI发展前沿",
+      "OpenAI、马斯克及谷歌高管对此表示支持"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic",
+      "openai",
+      "google",
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "423bcba40c75a13510f9da34c700b8b3",
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-13T19:40:15+00:00",
+    "content_snippet": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+    "title_zh": "AI行业最新末日警告背后是什么？",
+    "summary_zh": "播客节目Equity讨论AI行业最新辩论，焦点是AI是否对人类构成生存威胁，涉及近期行业领袖的公开警告。",
+    "key_points": [
+      "讨论AI行业关于AI对人类生存威胁的辩论",
+      "近期AI行业领袖发出末日警告引发关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d2ed22b0b9f5fc5e7df8a8b3598f20f9",
+    "title": "What Does “Winning” the AI Race Actually Mean?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wfh0dy/what_does_winning_the_ai_race_actually_mean/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-13T19:22:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>People are so unrealistic about the AI race.</p> <p>What guarantees that the US will reach AGI/ASI or the singularity before a disaster happens? And what will happen the next day after the US “wins” the race? and what will the US actually do?</p> <p>I believe nothing.</p> <p>The same thing happened with nuclear weapons. The US was the first country to develop and use them in 1945, but the advantage didn't last long. The soviet union developed its own atomic bomb",
+    "title_zh": "赢得AI竞赛到底意味着什么？",
+    "summary_zh": "Reddit讨论帖质疑AI竞赛的现实意义，探讨美国率先达到AGI或技术奇点后可能面临的灾难和对策。",
+    "key_points": [
+      "质疑美国在AI竞赛中获胜的保障和意义",
+      "探讨达到AGI后可能面临的灾难和后续行动"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cf369666823bec0ba82ce8008a955ea2",
+    "title": "Where do you draw the line with AI-made things? (quick question formy school paper)",
+    "url": "https://www.reddit.com/r/artificial/comments/1wfg8zt/where_do_you_draw_the_line_with_aimade_things/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-13T18:54:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I'm an apprentice architectural draftsman from Switzerland, writing my<br /> final school paper about AI at work. Quick question, just answer in the<br /> comments:</p> <p>Imagine you find out that one of these was made by AI. Which ones would<br /> bother you?</p> <ol> <li>a poster for a local event</li> <li>a restaurant menu</li> <li>a company website</li> <li>a company logo</li> <li>a birthday card from a friend</li> <li>a wedding speech</li> <li>a song y",
+    "title_zh": "你对AI生成内容的接受底线在哪里？",
+    "summary_zh": "瑞士建筑学徒为学校论文发起讨论，询问公众对AI制作内容（如音乐、艺术等）的接受程度和不适感。",
+    "key_points": [
+      "学校调研：公众对不同AI生成内容的接受程度",
+      "探讨人们发现内容由AI制作时的心理不适感"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bc6718b7ce1bc7cfdf11165c1680535e",
+    "title": "Chat is AGI🫪",
+    "url": "https://www.reddit.com/r/artificial/comments/1wfg3ms/chat_is_agi/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-13T18:49:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Mr. Huang might need to dial back his enthusiasm. <a href=\"https://chatgpt.com/share/6aa6ee8e-7e10-83e9-b5e7-23df8c2d0d32\">https://chatgpt.com/share/6aa6ee8e-7e10-83e9-b5e7-23df8c2d0d32</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/KV_Cashed\"> /u/KV_Cashed </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wfg3ms/cha",
+    "title_zh": "聊天即AGI？",
+    "summary_zh": "Reddit用户调侃英伟达CEO黄仁勋可能对AGI的定义过于热情，分享了一个ChatGPT交互示例作为反驳。",
+    "key_points": [
+      "用户调侃英伟达CEO对AGI的定义过于乐观",
+      "通过ChatGPT示例质疑其AGI宣称"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f99f87f2a480541a2ab98d682da4cb32",
+    "title": "Recent News About AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wffc6p/recent_news_about_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-13T18:21:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>hey, never posted here before but i was reading/watching news reports about AI, how it’s advancing too fast and it will obliterate the world by the end of the decade or whatever. my issue is, people are thinking that the AI ITSELF will obliterate the world but, correct if i’m wrong, wouldn’t human intent and motives be behind the damage the AI caused? not the actual AI?<br /> like the gun argument, if i gave someone with good intentions a gun and they WANTED to ",
+    "title_zh": "关于AI的最新新闻？",
+    "summary_zh": "Reddit用户表达对AI快速发展的担忧，指出问题核心不在AI本身，而在于可能被公司或组织恶意利用。",
+    "key_points": [
+      "用户担忧AI快速发展带来的潜在威胁",
+      "指出核心风险是AI被公司或组织恶意利用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1804b824cf35182e121b0fd9690e97d3",
+    "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-13T18:01:03+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/\"> <img alt=\"[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]\" src=\"https://preview.redd.it/yuakh7qdrbph1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=177ff62e775cd17b2584ecb97a9c056b3e90922c\" title=\"[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hi <a href=\"/r/M",
+    "title_zh": "Waymo AI团队AMA即将举行，提前提交问题！",
+    "summary_zh": "Waymo AI团队将在Reddit机器学习板块举行在线问答活动，邀请用户提前提交感兴趣的问题。",
+    "key_points": [
+      "Waymo AI团队在Reddit举行问答活动",
+      "用户可提前提交关于自动驾驶AI的问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
