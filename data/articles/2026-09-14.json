@@ -1,0 +1,123 @@
+[
+  {
+    "id": "ea5b1933378254704fc4abacd46eabc9",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-14T00:00:00+00:00",
+    "content_snippet": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "title_zh": "Perplexity 全面采用 GPT-6 Astra 实现端到端系统自动化",
+    "summary_zh": "Perplexity 公司使用 OpenAI 的 Astra 模型进行通讯、软件更改和生产系统监控，相比早期模型需要的人工检查频率大幅降低，展示了先进 AI 模型在实际业务中的深入整合。",
+    "key_points": [
+      "Perplexity 采用 Astra 模型自动化沟通、开发与运维流程",
+      "Astra 性能显著提升，人工干预频率大幅减少",
+      "端到端系统应用展现 AI 在企业核心业务中的实用价值"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8e7ccb2467167b895d7fc647916d6ed0",
+    "title": "A Little Black Humor Fun",
+    "url": "https://www.reddit.com/r/artificial/comments/1wfcr8r/a_little_black_humor_fun/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-13T16:45:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I wanted to list out all the options for how AI could go wrong. Wrong being major human suffering or extinction. </p> <p>No using AI. Let's do some good old fashioned brainstorming and maybe even rabbit hole following. </p> <p>This is what I have so far. What am I missing.</p> <p>Feel free to add to the list or offer subtypes under any of these </p> <p>Options on how AI could go wrong:</p> <ol> <li><p>An ASI actively trying to destroy us because it dislikes us</",
+    "title_zh": "一次黑色幽默的乐趣",
+    "summary_zh": "一篇Reddit帖子，发起头脑风暴，讨论人工智能可能导致人类痛苦或灭绝的各种方式，但内容不完整。",
+    "key_points": [
+      "发起关于AI负面后果的头脑风暴",
+      "要求不使用AI辅助思考",
+      "帖子内容不完整"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6b54256d4afbc2dd74df55016529196e",
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-13T16:30:00+00:00",
+    "content_snippet": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+    "title_zh": "奥巴马敦促民主党人就AI保护措施制定'明确计划'",
+    "summary_zh": "美国前总统奥巴马表示，民主党应将人工智能列为核心议程，并制定清晰计划以应对AI带来的经济影响和安全问题。",
+    "key_points": [
+      "奥巴马要求民主党将AI作为核心议程",
+      "强调需应对AI的经济影响和安全问题",
+      "敦促制定清晰的保护计划"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "53769e5c14406ab972c459a7049ed9f2",
+    "title": "Which coding agent is everyone actually using in 2026?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wfc39x/which_coding_agent_is_everyone_actually_using_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-13T16:20:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Genuinely curious what the split looks like these days.</p> <p>I built a small open source tool called bough ( <a href=\"https://github.com/nickelsec/bough\">https://github.com/nickelsec/bough</a> ) that reads the session history your coding agent leaves on disk and draws what you actually built with it. Right now it handles Claude Code and Codex CLI, because those are the two I use daily and the two I can properly verify against my own work.</p> <p>Someone just o",
+    "title_zh": "2026年大家实际在用哪个编程智能体？",
+    "summary_zh": "一篇Reddit讨论帖，用户询问当前编程智能体的实际使用分布情况，并分享了一个用于分析编程智能体会话历史的自研开源工具。",
+    "key_points": [
+      "调查编程工具的实际市场份额",
+      "分享自研开源会话分析工具"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c8a836b51aa9d60d375ac688cef9fe36",
+    "title": "Someone explain it to me like. I’m five. They know they can shut the data centers off, right?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wfbqad/someone_explain_it_to_me_like_im_five_they_know/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-13T16:06:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>All this “Oh we need to pause because AI can kill us all” talk coming from the people that spent the largest capital in human history for the non existent ROI….</p> <p>How? How can a trillion parameter model “copy itself”? Where? This is not a 256kb virus. </p> <p>How can “the internet be overtaken in 6 months” if the data center for those “swarms of bots” is down with a 504? </p> <p>All this apocalypse scenario talk assumes we will have “rogue agents” that wrea",
+    "title_zh": "请像对五岁小孩一样解释：他们知道可以关掉数据中心，对吧？",
+    "summary_zh": "一篇Reddit讨论帖，质疑AI风险论者夸大威胁，认为物理切断数据中心即可阻止AI失控，并嘲讽巨额投入缺乏回报。",
+    "key_points": [
+      "质疑AI灭绝人类的威胁论调",
+      "指出物理切断数据中心是简单解决方案",
+      "批评相关投资缺乏回报"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
