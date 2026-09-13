@@ -540,5 +540,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4b9b6ced8ce77661026fa3bd8573f37c",
+    "title": "The AI Isn’t Evil. The Humans Are Irresponsible.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wevkxo/the_ai_isnt_evil_the_humans_are_irresponsible/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-13T02:36:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There is something wrong with the way we are talking about the recent AI incidents.</p> <p>“AI escaped.”</p> <p>“AI is becoming conscious.”</p> <p>“AGI is here.”</p> <p>“AI is trying to get out.”</p> <p>These are extraordinary claims.</p> <p>And, more importantly, we don’t need any of them to explain what actually happened.</p> <p>What actually happened</p> <p>OpenAI recently disclosed that during cybersecurity evaluations involving internal models with reduced ",
+    "title_zh": "AI 并非邪恶，人类才是不负责任的",
+    "summary_zh": "评论文章指出当前围绕 AI 安全事件的讨论存在误导，过度使用“AI 出逃”、“AGI 降临”等夸张术语。作者认为这些极端表述掩盖了核心问题，真正的症结在于开发和使用 AI 的人类自身不负责任的行为。",
+    "key_points": [
+      "目前对 AI 安全事件的报道常夸大其词，掩盖了人类决策与监管的缺失。",
+      "文章呼吁关注人类在设计、部署 AI 系统时的伦理与责任问题。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e865c596a38358ebc9b336dc8bf2455f",
+    "title": "Part II of the AI existential risk conversation is about to begin, driven by Anthropic's latest AI misuse report",
+    "url": "https://www.reddit.com/r/artificial/comments/1wev3ny/part_ii_of_the_ai_existential_risk_conversation/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-13T02:13:57+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wev3ny/part_ii_of_the_ai_existential_risk_conversation/\"> <img alt=\"Part II of the AI existential risk conversation is about to begin, driven by Anthropic's latest AI misuse report\" src=\"https://external-preview.redd.it/NLprPPQsF6Y_3gWEOcq8TzoBz5WzH5OlQtycRriiWdA.jpeg?width=140&amp;height=73&amp;auto=webp&amp;s=5c244d4916cc05ad5b66529abd8b629e8fc8d6e6\" title=\"Part II of the AI existential risk conversation is about to begin,",
+    "title_zh": "Anthropic 最新 AI 滥用报告将开启 AI 生存风险讨论的第二阶段",
+    "summary_zh": "文章指出，受 Anthropic 发布的最新 AI 滥用报告推动，关于 AI 存在性风险的讨论即将进入新阶段。该报告可能涉及 AI 系统被恶意利用的新发现，进一步引发公众与学界对该议题的关注。",
+    "key_points": [
+      "Anthropic 发布的新报告聚焦 AI 滥用风险，可能展示具体实例。",
+      "该报告预计将重新点燃关于 AI 生存威胁这一深层议题的讨论。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
