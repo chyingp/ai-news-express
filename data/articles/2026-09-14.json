@@ -481,5 +481,54 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d7db2cb29f6afd74cf70982814a7ac6d",
+    "title": "Possibility Is Not a Legislative Standard",
+    "url": "https://www.reddit.com/r/artificial/comments/1wfo7vk/possibility_is_not_a_legislative_standard/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T00:18:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am tired of all these AI safety &quot;concerns.&quot; If &quot;could cause harm&quot; is our new baseline for pre-deployment government licensing, Microsoft Excel needs a federal background check for letting middle managers commit artistic accounting. Treating general-purpose math like loose plutonium is a classic sci-fi brain melt.</p> <p>Take the panic that a regular Joe is going to use an LLM to crack RSA-4096 or melt a power grid. Math doesn't care that yo",
+    "title_zh": "可能性不应成为立法标准",
+    "summary_zh": "文章批评当前AI安全立法趋势，认为将“可能造成伤害”作为政府预部署许可的基线标准是不合理的。作者以微软Excel为例，讽刺了仅凭潜在风险就进行监管的逻辑，主张可能性不能作为立法依据。",
+    "key_points": [
+      "批评将'可能造成伤害'作为AI立法标准",
+      "以Excel类比，讽刺仅凭可能性就监管的逻辑",
+      "主张可能性不应成为立法依据"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9fc9a9d8a75b30f73b35c18e64d68923",
+    "title": "AI could pose ‘existential’ risk to humanity, UN rights chief warns",
+    "url": "https://www.reddit.com/r/artificial/comments/1wfmwnl/ai_could_pose_existential_risk_to_humanity_un/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-13T23:19:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://youtu.be/dptvBZt283o\">https://youtu.be/dptvBZt283o</a> </p> <p>Happy Monday Everyone....This is absolutely wild! I am a massive fan of science fiction, and as a young teen I read all of Isaac Asimov's books which featured the emergence of AI, and the birth of what he called the 'Positronic Brain'. In his books, the global government implemented something called the 'The Three Laws of Robotics' to attempt protect humanity from an extinction level",
+    "title_zh": "联合国人权事务负责人警告：AI可能对人类构成“生存”风险",
+    "summary_zh": "联合国人权事务高级专员发出警告，指出人工智能可能对人类构成“生存性”风险。这一表态将AI安全讨论提升至全球治理与人类存续的高度，引发广泛关注。",
+    "key_points": [
+      "联合国人权高专警告AI存在'生存性'风险",
+      "将AI安全议题提升至人类存续的高度"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
