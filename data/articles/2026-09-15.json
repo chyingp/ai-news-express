@@ -534,5 +534,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "65e97dca78a2a9021c19bd13d8f9677e",
+    "title": "How to automatically find the batch size when using Accelerate with FSDP2? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wg9u62/how_to_automatically_find_the_batch_size_when/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-14T17:24:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi,<br /> For single-GPU training, I’m using Hugging Face SFTTrainer with auto_find_batch_size=True, which automatically reduces the batch size after a CUDA OOM until it finds a batch size that works.<br /> I would like to have similar behavior when training on multiple GPUs on a single node using accelerate launch with FSDP2.<br /> Is there a supported way to automatically determine or reduce the batch size when using Accelerate + FSDP2?<br /> In particular, I’",
+    "title_zh": "如何在 FSDP2 下使用 Accelerate 自动寻找批量大小？",
+    "summary_zh": "这篇帖子讨论在使用 FSDP2 进行多 GPU 训练时，如何实现类似单 GPU 训练中 SFTTrainer 自动寻找合适批量大小以避免显存溢出的功能。帖子标记为 [D]，属于技术讨论，寻求解决方案。",
+    "key_points": [
+      "讨论 FSDP2 多 GPU 训练中自动寻找批次大小的需求",
+      "发帖者寻求类似单 GPU 中 auto_find_batch_size 的功能",
+      "帖子属于技术讨论，非官方发布或研究成果"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
