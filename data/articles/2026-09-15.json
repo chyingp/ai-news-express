@@ -558,5 +558,295 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "49a04bd0f6b48735af2158524d037a28",
+    "title": "Meta launches AI agent that can access other apps to send emails, make payments",
+    "url": "https://www.reddit.com/r/artificial/comments/1wggryk/meta_launches_ai_agent_that_can_access_other_apps/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-14T21:30:33+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wggryk/meta_launches_ai_agent_that_can_access_other_apps/\"> <img alt=\"Meta launches AI agent that can access other apps to send emails, make payments\" src=\"https://external-preview.redd.it/VsWH1ZVaEqNAzwf6yHrig2ap7jKBMISvhQaXu5H3-Es.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4db598dd7108e303b6c68459c65f681323949e69\" title=\"Meta launches AI agent that can access other apps to send emails, make payments\" /> </a> </td><t",
+    "title_zh": "Meta发布可跨应用发送邮件和支付的AI代理",
+    "summary_zh": "Meta推出新型AI代理，能够访问其他应用程序执行发送邮件和进行支付等操作，标志着AI助手向更深度系统集成迈出一步。",
+    "key_points": [
+      "Meta发布跨应用操作的AI代理",
+      "该代理可直接发送邮件和完成支付",
+      "展示AI助手向系统级集成的演进"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "07100a00550253a29737bacce42c0af9",
+    "title": "Zuck says AI can't slow down, Dario at Anthropic says it should, and Anthropic is about to IPO at like a $2T valuation",
+    "url": "https://www.reddit.com/r/artificial/comments/1wggdlm/zuck_says_ai_cant_slow_down_dario_at_anthropic/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T21:15:30+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wggdlm/zuck_says_ai_cant_slow_down_dario_at_anthropic/\"> <img alt=\"Zuck says AI can't slow down, Dario at Anthropic says it should, and Anthropic is about to IPO at like a $2T valuation\" src=\"https://external-preview.redd.it/LpYDUWyo3TBY6wnIPigLTGv2Xhvq1fh7JfNPTXU8794.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=879ff1465dbe70dd4a5dea9381190eb3596e11e5\" title=\"Zuck says AI can't slow down, Dario at Anthropic says it sho",
+    "title_zh": "扎克伯格与Anthropic就AI发展速度产生分歧，后者估值达2万亿",
+    "summary_zh": "扎克伯格认为AI发展不能减速，而Anthropic的Dario持相反观点。同时有消息称Anthropic即将进行估值约2万亿美元的IPO。",
+    "key_points": [
+      "扎克伯格主张AI加速发展，Anthropic呼吁减速",
+      "Anthropic计划IPO，估值约2万亿美元"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4dd932ed2d93b38f8521a88981231307",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-14T20:44:14+00:00",
+    "content_snippet": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+    "title_zh": "OpenAI以3亿美元收购智能手机相机制造商Glass Imaging",
+    "summary_zh": "据报道，OpenAI以3亿美元收购了由前苹果工程师创立的Glass Imaging公司，该公司曾领导开发了苹果的人像模式功能。",
+    "key_points": [
+      "OpenAI收购苹果前工程师创立的相机制造商",
+      "收购金额为3亿美元",
+      "Glass Imaging曾开发苹果人像模式技术"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8f91eecbb9dc32c27b108b52140bd39f",
+    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+    "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T19:45:13+00:00",
+    "content_snippet": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+    "title_zh": "苹果摆脱马斯克反垄断诉讼，OpenAI仍陷其中",
+    "summary_zh": "马斯克放弃了对苹果在ChatGPT集成方面的反垄断攻击，但继续保留对OpenAI的诉讼，案件仍在进行中。",
+    "key_points": [
+      "马斯克在反垄断诉讼中放弃对苹果的指控",
+      "对OpenAI的诉讼仍将继续"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "47def91e50bdda5634c30a42084a09df",
+    "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+    "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-14T19:28:42+00:00",
+    "content_snippet": "This is also the last version of macOS to support Rosetta for Intel apps.",
+    "title_zh": "苹果发布iOS 与macOS更新，强化Siri AI与界面设计",
+    "summary_zh": "苹果发布了iOS 27和macOS Golden Gate 27，对Siri的AI功能和Liquid Glass设计语言进行了优化，该版也是最后一代支持Intel应用转译的系统。",
+    "key_points": [
+      "苹果发布iOS 27和macOS 27系统更新",
+      "重点优化Siri AI和Liquid Glass设计",
+      "新版是最后一代支持Intel应用转译的系统"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6f49a30a7364f6984bf09a2ac9da26d5",
+    "title": "AI leaders want to hit the brakes after years of reckless speed",
+    "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T19:06:13+00:00",
+    "content_snippet": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+    "title_zh": "AI行业领导者在数年高速发展后呼吁减速",
+    "summary_zh": "AI领域的领导者们在多年无节制加速后,开始主张放慢脚步，将安全置于首要位置，尽管这可能对行业有其他潜在好处。",
+    "key_points": [
+      "AI领袖倡导从高速发展转向注重安全",
+      "安全成为当前首要议题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6a89d86143543893b7ee2771aa90aa67",
+    "title": "Understanding LLMs",
+    "url": "https://www.reddit.com/r/artificial/comments/1wgc3hf/understanding_llms/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-14T18:41:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey, kind of letting of my chest and asking a question at the same time.</p> <p>Finished my cs degree few months ago and did some ML courses like NLP, intro to ML, optimization problems (which can somehow relate).</p> <p>I am a swe and dont work as ML engineer ot DS etc, I guess its coming from the fear of my role.</p> <p>There's something i just cant grasp, on one hand, LLMs are static , complex non-linear functions (after training of course) which calculates w",
+    "title_zh": "理解大语言模型",
+    "summary_zh": "一位刚完成计算机科学学位并学过相关机器学习课程的软件工程师发帖，寻求更深入理解大语言模型的方法，并分享个人学习困惑。",
+    "key_points": [
+      "CS毕业生寻求深入理解LLM的方法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2971504b3fbb6ada8e34bd343701891c",
+    "title": "China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule (Gift Article)",
+    "url": "https://www.reddit.com/r/artificial/comments/1wgc1l2/chinas_top_spy_chief_warns_ai_is_a_threat_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T18:39:46+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wgc1l2/chinas_top_spy_chief_warns_ai_is_a_threat_to/\"> <img alt=\"China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule (Gift Article)\" src=\"https://external-preview.redd.it/ueF3Hs9EnfTIaY9ZI_UNDGtod7oU4HZOF2Wx9mryOTw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=715b422aab6546b1b7040a22319419dea59ad7cb\" title=\"China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule (Gift Article)\" /> </a> </td><td> &#32; submitte",
+    "title_zh": "中国最高情报官员警告AI威胁执政",
+    "summary_zh": "中国最高情报负责人发出警告，认为人工智能技术可能对执政党的领导构成威胁，突显政府对AI潜在政治风险的深度关切。",
+    "key_points": [
+      "中国情报高官警告AI威胁党的执政",
+      "显示官方对AI政治风险的高度警惕"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bcc0be4d85a5829f8b7e60f0d8580aef",
+    "title": "‘It Is the Time to Go Bold’: Alex Bores on New York’s Role in Regulating AI. The Assemblymember behind the RAISE Act says states can’t wait for DC — and describes how the industry weakened New York’s landmark AI safety law.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wgbkzz/it_is_the_time_to_go_bold_alex_bores_on_new_yorks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T18:23:52+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wgbkzz/it_is_the_time_to_go_bold_alex_bores_on_new_yorks/\"> <img alt=\"‘It Is the Time to Go Bold’: Alex Bores on New York’s Role in Regulating AI. The Assemblymember behind the RAISE Act says states can’t wait for DC — and describes how the industry weakened New York’s landmark AI safety law.\" src=\"https://external-preview.redd.it/s7xfXnPdSXSAjkukig0R2K6Q-eGCih1lT5-_TSC_DZI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e",
+    "title_zh": "纽约州议员谈AI监管：不能等待联邦政府",
+    "summary_zh": "纽约州众议员Alex Bores表示，各州在人工智能监管方面必须大胆行动，不能等待华盛顿，并阐述了行业如何削弱了纽约里程碑式的AI安全法。",
+    "key_points": [
+      "纽约议员敦促州层面率先推进AI监管",
+      "RAISE法案在行业游说下被削弱"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c561d16c79f2c1285dd150e985af271b",
+    "title": "55% of Americans fear humans will lose their critical thinking skills due to AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1wgb0b0/55_of_americans_fear_humans_will_lose_their/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T18:04:02+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wgb0b0/55_of_americans_fear_humans_will_lose_their/\"> <img alt=\"55% of Americans fear humans will lose their critical thinking skills due to AI\" src=\"https://preview.redd.it/6rcqz67kyiph1.png?width=140&amp;height=76&amp;auto=webp&amp;s=b280dd1f608ea4e34da29cb13ed727898465f3a4\" title=\"55% of Americans fear humans will lose their critical thinking skills due to AI\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A new U.S.",
+    "title_zh": "55%的美国人担心人类因AI失去批判性思维能力",
+    "summary_zh": "一项调查显示，超过半数的美国人担忧人工智能的普及会导致人类丧失批判性思维能力，反映了公众对AI负面影响的普遍焦虑。",
+    "key_points": [
+      "调查显示过半美国人担忧AI削弱人类思考能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5a66a7dc85b08191e5b7342391dc181b",
+    "title": "RSI is not happening [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wgazy4/rsi_is_not_happening_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-14T18:03:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A new paper (I'm not a coauthor BTW -- I just found it interesting) argues, basically, that RSI is not on the horizon, because current (at the time the study was done) agents cannot do open-ended ML research.</p> <p>Specifically, they took some accepted, but unpublished papers from NeurIPS, and tried to get the agents to do the same work, which was then graded by the original authors. And the agents (Codex/GPT-5.6 Sol and OpenClaw/Opus 4.8) could not do it.</p> ",
+    "title_zh": "研究称递归自我改进（RSI）短期内不会发生",
+    "summary_zh": "一篇新论文认为，当前的AI智能体无法进行开放式的机器学习研究，因此递归自我改进（RSI）在短期内不太可能出现，该研究基于对已接受但未发表论文的测试。",
+    "key_points": [
+      "新论文论证当前AI智能体无法完成开放式研究",
+      "结论是递归自我改进（RSI）短期内不会实现"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f4964ed02dfb9679961057de68985986",
+    "title": "The AI industry has taken a doomer turn. What now?",
+    "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T17:54:22+00:00",
+    "content_snippet": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
+    "title_zh": "AI行业转向末日论，下一步是什么？",
+    "summary_zh": "Anthropic CEO Dario Amodei周末发表文章，呼吁放慢大语言模型的发展速度，指出其带来迫在眉睫的危险。这标志着此前大力推动该技术的行业领导者态度转向谨慎。",
+    "key_points": [
+      "Anthropic CEO呼吁放慢大语言模型发展速度以规避危险",
+      "行业领袖对AI技术的态度正从乐观转向末日论"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
