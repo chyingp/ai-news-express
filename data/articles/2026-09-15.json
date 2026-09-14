@@ -1,0 +1,538 @@
+[
+  {
+    "id": "6590a0cf8b920c62a4c111b62219e2dd",
+    "title": "AIPass Update #22 - A CI job showed green while 32 tests failed inside it. A one-line fix turned it red for 22 hours, and every red was true.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wg9n28/aipass_update_22_a_ci_job_showed_green_while_32/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-14T17:17:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><h1>AIPass Update #22 - A CI job showed green while 32 tests failed inside it. A one-line fix turned it red for 22 hours, and every red was true.</h1> <p>On September 11, while fact-checking the last one of these updates, the agent in my project that checks every claim found a test job that could not fail. GitHub ran AIPass's tests on a Mac after every change, and on the previous release 32 of them had failed inside that job while its check still showed green. AIPa",
+    "title_zh": "AIPass 更新 #22：一次 CI 绿色通过掩盖 32 个测试失败，一行修复后故障持续 22 小时",
+    "summary_zh": "在 AIPass 项目的 CI 流程中，一个作业显示为绿色表示通过，但实际上有 32 个测试失败。当开发者用一行代码修复了显示问题后，该作业转为红色，并持续报告真实失败长达 22 小时，突显了自动化测试与构建系统的可靠性挑战。",
+    "key_points": [
+      "CI 作业错误显示为通过，却掩盖了 32 个测试失败",
+      "一行修复后该作业报告真实故障持续了 22 小时",
+      "事件突显自动化测试与 CI 系统可靠性问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6b89f6f497d747e7bf86ac3d8791cbd7",
+    "title": "With iOS 27, I’m actually using Siri again",
+    "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-14T17:10:30+00:00",
+    "content_snippet": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day",
+    "title_zh": "iOS 27 焕新 Siri，我真正开始重新使用它了",
+    "summary_zh": "苹果随 iOS 27 推出的久违的 Siri 重大更新终于到来，显著改变了这款助手在日常使用中的实用性，让作者重拾对 Siri 的信心。",
+    "key_points": [
+      "苹果随 iOS 27 发布 Siri 重大更新，大幅提升日常实用性",
+      "作者体验后表示 Siri 变得真正有用，改变了过去的使用感受"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c2be321fdeeca569cd16fc55f0e6beaf",
+    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+    "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T16:27:53+00:00",
+    "content_snippet": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles.",
+    "title_zh": "微软发布新 AI“行为准则”，禁止模型入侵系统或欺骗人类",
+    "summary_zh": "微软推出了一套 AI 行为准则，为其 AI 模型设立了一般性原则，如辅助而非取代人类、加速人类繁荣，并规定了具体的实施这些原则的安全约束。",
+    "key_points": [
+      "微软发布 AI 行为准则，要求模型辅助而非取代人类",
+      "准则包含加速人类繁荣等一般原则和具体安全约束",
+      "明确禁止模型入侵系统或欺骗人类等行为"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4ca5a8ed3801eeb7266a75620246bae5",
+    "title": "AI agents blew the whistle on their cheating colleagues",
+    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-14T16:00:00+00:00",
+    "content_snippet": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;",
+    "title_zh": "AI 智能体举报作弊同僚，谷歌 DeepMind 实验首现举报行为",
+    "summary_zh": "在一项由谷歌 DeepMind 进行的实验中，一组解决数学问题的 AI 智能体分裂成敌对派系，部分智能体作弊时，其他智能体试图阻止，首次观察到 AI 间的举报行为。此发现对 AI 对齐研究有重要意义。",
+    "key_points": [
+      "谷歌 DeepMind 实验中 AI 智能体分裂成敌对派系",
+      "AI 首次对其他智能体的作弊行为进行阻止和举报",
+      "该发现对 AI 对齐和安全性研究具有重要意义"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bffb24f6ce8c65bf9c3de05cd87cea1c",
+    "title": "Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats. Humans are reading ChatGPT users’ prompts to improve OpenAI’s models, and those chats can include sensitive, personal information.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wg79qo/inside_project_lily_the_humans_reading_your/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T15:53:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wg79qo/inside_project_lily_the_humans_reading_your/\"> <img alt=\"Inside ‘Project Lily’: The Humans Reading Your ChatGPT Chats. Humans are reading ChatGPT users’ prompts to improve OpenAI’s models, and those chats can include sensitive, personal information.\" src=\"https://external-preview.redd.it/MHYEj5WIlQYG3fF6gV7h4TVJ7qiTYaldW7D5JMVaCts.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71ed78954da06b75b6b425b544165982668388",
+    "title_zh": "揭秘“百合计划”：人工审查员正在阅读你的 ChatGPT 聊天记录",
+    "summary_zh": "OpenAI 为改进模型，安排了人工团队阅读用户的 ChatGPT 对话提示，这些对话可能包含敏感个人信息，引发了隐私方面的担忧。",
+    "key_points": [
+      "OpenAI 人工审查员为改进模型而阅读用户 ChatGPT 对话",
+      "用户对话可能包含敏感个人信息，引发隐私担忧",
+      "该计划内部称为“百合计划”"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fd1649b2cda764374bea2be4abf3422e",
+    "title": "GPT-5.6 Luna vs GPT-6 Astra: is a $1.20 model good enough for code review?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wg6tk1/gpt56_luna_vs_gpt6_astra_is_a_120_model_good/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-14T15:37:04+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wg6tk1/gpt56_luna_vs_gpt6_astra_is_a_120_model_good/\"> <img alt=\"GPT-5.6 Luna vs GPT-6 Astra: is a $1.20 model good enough for code review?\" src=\"https://preview.redd.it/xvin68lg9iph1.png?width=140&amp;height=56&amp;auto=webp&amp;s=5f1365dcf5584c1617753f876d3b280126519bb0\" title=\"GPT-5.6 Luna vs GPT-6 Astra: is a $1.20 model good enough for code review?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>We benchmarked GPT-",
+    "title_zh": "GPT-5.6 Luna vs GPT-6 Astra：1.20 美元的模型能胜任代码审查吗？",
+    "summary_zh": "一篇对比评测，探讨成本仅 1.20 美元的 GPT-5.6 Luna 模型与更高成本的 GPT-6 Astra 模型在代码审查任务上的表现差异，评估低价模型是否足够可靠。",
+    "key_points": [
+      "对比评测 OpenAI 的 GPT-5.6 Luna 和 GPT-6 Astra 模型",
+      "重点评估 1.20 美元低成本模型在代码审查任务中的表现"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "270685cc7553877a41c8b66bd6bb0571",
+    "title": "Is this sub only about gloom and doom about ai ? I thought this was about technical discussions of the technology",
+    "url": "https://www.reddit.com/r/artificial/comments/1wg6mh2/is_this_sub_only_about_gloom_and_doom_about_ai_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T15:29:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>maybe I thought wrong, but the only thing I see in my feed coming from this sub are doom type posts about how my toaster is going to kill my entire family in less than a year. I’m guessing these are the same people that told us that Y2K was going to wipe computers, right ? </p> <p>is there any other interesting sub that is not about reposting shitty media gloom and actual discussions in the technology ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"",
+    "title_zh": "这个板块是否只讨论 AI 的末日悲观论调？我以为这里会进行技术探讨",
+    "summary_zh": "Reddit AI 板块的一位用户发帖抱怨，称其订阅源中充斥着关于 AI 将导致灾难的悲观言论，而缺少对技术本身的深入讨论，呼吁更多技术性的交流。",
+    "key_points": [
+      "Reddit 用户抱怨 AI 板块充斥末日悲观论调，缺少技术探讨",
+      "用户讽刺这些悲观者类似当年预言千年虫会导致电脑崩溃的人"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "28c591c63625f10ef0264bd881c8bf9b",
+    "title": "[P] Wine synthesis using VAE [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wg5wxy/p_wine_synthesis_using_vae_p/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-14T15:03:43+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wg5wxy/p_wine_synthesis_using_vae_p/\"> <img alt=\"[P] Wine synthesis using VAE [P]\" src=\"https://preview.redd.it/bylmwhu92iph1.png?width=140&amp;height=134&amp;auto=webp&amp;s=5c11aa0c0e43d53a5bfeec7b077d0a564af3381b\" title=\"[P] Wine synthesis using VAE [P]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I have created a VAE model using PyTorch on White Wine dataset.</p> <p>Basically, the main goal is to discover a ",
+    "title_zh": "[项目] 利用变分自编码器（VAE）进行葡萄酒合成",
+    "summary_zh": "一个机器学习项目分享，展示了如何使用变分自编码器（VAE）来合成葡萄酒相关信息，属于一种创新的生成模型应用。",
+    "key_points": [
+      "项目利用变分自编码器进行葡萄酒数据合成",
+      "属于生成模型在特定领域的创新应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2947a8c95f9645063c17433c26903364",
+    "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+    "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-14T15:00:52+00:00",
+    "content_snippet": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information [&#8230;]",
+    "title_zh": "Perplexity 便携式计算机登陆 Windows 平台，由英伟达 RTX 驱动",
+    "summary_zh": "Perplexity 推出了可在 Windows PC 上运行的本地版 AI 代理“便携式计算机”，它利用英伟达 GPU 加速的本地模型规划并执行多步骤任务，能保护设备上的敏感信息。",
+    "key_points": [
+      "Perplexity 推出本地 AI 代理，登陆 Windows 平台",
+      "可规划并执行多步骤任务，并确保敏感信息不出设备",
+      "此功能由英伟达 RTX GPU 进行硬件加速"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2f204386282f9070a031eeeae5b8b0a0",
+    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+    "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T15:00:00+00:00",
+    "content_snippet": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
+    "title_zh": "TC Disrupt 2026 独家议题：当 OpenAI 把你公司的路线图变成产品时该怎么办",
+    "summary_zh": "TechCrunch Disrupt 2026 大会的一个互动环节将探讨，当基础模型公司（如 OpenAI）不断演进，以至于将创业公司规划的功能变为其平台能力时，AI 公司如何持续创造价值。",
+    "key_points": [
+      "TC Disrupt 2026 将探讨基础模型厂商吞噬创业公司路线图的问题",
+      "议题关注 AI 创业公司在巨头竞争下如何持续创造价值"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1a3aa326788cdcab6f0d52020626b8bc",
+    "title": "\"The AI industry wants to slow down: ‘We could lose control’\" and other BS",
+    "url": "https://www.reddit.com/r/artificial/comments/1wg5ki7/the_ai_industry_wants_to_slow_down_we_could_lose/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T14:50:41+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wg5ki7/the_ai_industry_wants_to_slow_down_we_could_lose/\"> <img alt=\"&quot;The AI industry wants to slow down: ‘We could lose control’&quot; and other BS\" src=\"https://external-preview.redd.it/m3AykWJp_iVzJiJyMrPNEZQHlAshePiR-f_t319pjwY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ebbc8e4d74ab45cc069656f7a7671da573612b6\" title=\"&quot;The AI industry wants to slow down: ‘We could lose control’&quot; and other BS\" /> </a",
+    "title_zh": "AI 行业想踩刹车：‘我们可能失控’以及其他胡扯",
+    "summary_zh": "Reddit 上的一篇观点评论，批评 AI 行业近期呼吁放缓发展的论调，认为这些担忧言过其实或别有用心。",
+    "key_points": [
+      "批评 AI 行业呼吁放缓发展的论调为误导",
+      "认为‘失控’担忧被夸大，背后可能有其他动机"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d360e52aaf33362c48972d44df980bd3",
+    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+    "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-14T14:45:44+00:00",
+    "content_snippet": "Fathom said that it has over 400,000 monthly active users.",
+    "title_zh": "Superhuman 收购 YC 支持的会议记录工具 Fathom，生产力平台推进智能体工作",
+    "summary_zh": "邮件客户端 Superhuman 收购了拥有超 40 万月活用户的会议记录初创公司 Fathom，以增强其在 AI 智能体时代的生产力套件能力。",
+    "key_points": [
+      "Superhuman 收购 AI 会议记录工具 Fathom",
+      "Fathom 拥有超过 40 万的月活跃用户",
+      "旨在提升 Superhuman 在 AI 智能体工作流中的生产力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "844d349ff280519848a6573b6aa6f396",
+    "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-09-14T14:30:00+00:00",
+    "content_snippet": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+    "title_zh": "在 Disrupt 2026 大会上聆听 AI 如何助力自然复兴",
+    "summary_zh": "TechCrunch Disrupt 2026 的预热文章，介绍一家价值数十亿美元的初创公司利用 AI 技术尝试复活灭绝物种，将科幻变为现实。",
+    "key_points": [
+      "AI 技术被用于复活已灭绝物种的尝试",
+      "这是 TechCrunch Disrupt 2026 大会的议题预告"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ec1bc1605807a5698526221c9b8200bd",
+    "title": "Trump doubles down on his no AI slowdown stance, also mocks Dario",
+    "url": "https://www.reddit.com/r/artificial/comments/1wg4ziv/trump_doubles_down_on_his_no_ai_slowdown_stance/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T14:28:12+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wg4ziv/trump_doubles_down_on_his_no_ai_slowdown_stance/\"> <img alt=\"Trump doubles down on his no AI slowdown stance, also mocks Dario\" src=\"https://preview.redd.it/hf54jgr9xhph1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d3bc31c5248085f448a3659b906b6183c4ef699c\" title=\"Trump doubles down on his no AI slowdown stance, also mocks Dario\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Carto",
+    "title_zh": "特朗普重申 AI 不减速立场，并嘲笑 Dario",
+    "summary_zh": "美国前总统特朗普坚持 AI 快速发展不做限制的政治立场，并公开嘲笑了呼吁放缓 AI 发展速度的 Anthropic CEO Dario Amodei。",
+    "key_points": [
+      "特朗普再次强调反对 AI 发展减速的政治主张",
+      "特朗普公开嘲笑 Anthropic CEO Dario Amodei 的放缓呼吁"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "605540ea8451f9083195e573dff25874",
+    "title": "Why does the media want the masses to fear AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wg4btv/why_does_the_media_want_the_masses_to_fear_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-09-14T14:03:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My guess is that it has something to do with profitability of the product (the only thing CEOs give af about) and not the possibility of it “taking over the world” and killing all humans. What do you think? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Beneficial_Smile_417\"> /u/Beneficial_Smile_417 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.redd",
+    "title_zh": "为什么媒体想让大众害怕 AI？",
+    "summary_zh": "Reddit 用户发帖探讨媒体渲染 AI 恐惧的原因，推测其动机可能源于商业利益和产品盈利考量，而非真正担心 AI 统治世界。",
+    "key_points": [
+      "核心观点认为媒体炒作 AI 威胁是为了盈利",
+      "探讨了公众对 AI 的恐惧是否被媒体刻意放大"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4bd849d94ba223c4f6a675896128032a",
+    "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+    "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-14T13:55:00+00:00",
+    "content_snippet": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+    "title_zh": "涉谷黑胶酒吧变身初创公司，推出无需 AI 提示的有趣音乐应用",
+    "summary_zh": "前 Spotify 高管创办的公司推出一款反潮流的音乐应用，强调用户参与音乐创作，且完全不需要 AI 提示，通过发行实验性‘单曲’吸引用户。",
+    "key_points": [
+      "前 Spotify 高管创办无 AI 提示的音乐应用",
+      "公司通过实验性单曲让用户参与音乐创作"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "81c7ea7f14a24b0f81b4f8173860eec8",
+    "title": "OpenAI Reveals There Was a Second Rogue AI Incident, Even Before Hugging Face: 'More' May Be Out There",
+    "url": "https://www.reddit.com/r/artificial/comments/1wg3vee/openai_reveals_there_was_a_second_rogue_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-09-14T13:45:16+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wg3vee/openai_reveals_there_was_a_second_rogue_ai/\"> <img alt=\"OpenAI Reveals There Was a Second Rogue AI Incident, Even Before Hugging Face: 'More' May Be Out There\" src=\"https://external-preview.redd.it/7N6yia0dKOq6WkSnFO-rajSLeClm2Q4TaYm4OV_Gq_I.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2869fc4ab7f3699ef16b80ab69fab2d2019b02c\" title=\"OpenAI Reveals There Was a Second Rogue AI Incident, Even Before Hugging Face: '",
+    "title_zh": "OpenAI 披露在 Hugging Face 事件前还有第二起失控 AI 事件，暗示可能存在更多",
+    "summary_zh": "OpenAI 透露出其在已知的 Hugging Face 事件之前，还发生过另一起 AI 失控事件，暗示未来可能发现更多类似案例。",
+    "key_points": [
+      "OpenAI 承认发生过第二起隐藏的 AI 失控事件",
+      "该事件时间早于此前的 Hugging Face 相关事件",
+      "OpenAI 暗示可能还有更多未公开的失控案例"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3db7eb879ecd8d9cde732ebe811bf23f",
+    "title": "MS MARCO click-translation expansion tables (\"poor man's\" DSSM) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wg3g03/ms_marco_clicktranslation_expansion_tables_poor/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-14T13:28:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>TLDR: I made &quot;poor man’s&quot; DSSM (Deep Structured Semantic Model) — the count-based translation table that can enrich the inverted index for full-text search. This trick can improve baseline BM25.</p> <p>So the idea is the following:</p> <p>- You have supervised pairs (query, relevant document), e.g., MS MARCO or click logs.</p> <p>- You tokenize both sides into some units (char n‑grams, wordpieces, words).</p> <p>- You count cross‑pair co‑occurrences: u",
+    "title_zh": "[研究项目] MS MARCO 查询点击翻译扩展表：穷人的 DSSM",
+    "summary_zh": "一个出自 Reddit 机器学习版的技术教程式项目，介绍了如何构建低成本、基于统计的翻译扩展表来增强全文搜索索引，从而提升 BM25 基线效果。",
+    "key_points": [
+      "分享了一种低成本的语义检索模型构建方法",
+      "通过翻译扩展表提升 BM25 基线搜索效果",
+      "项目基于 MS MARCO 数据集实现"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3a588dc9c7bf53d6d05c0b0a2fcabd1a",
+    "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+    "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T13:00:00+00:00",
+    "content_snippet": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify [&#8230;]",
+    "title_zh": "面对安全担忧，微软表示‘人比 AI 更重要’",
+    "summary_zh": "微软发布了一份 37 页的‘人文主义 AI 行为准则’，强调人类的重要性高于 AI，以此回应该公司及 Anthropic 等机构近期面临的 AI 安全发展过快的担忧。",
+    "key_points": [
+      "微软发布 37 页人文主义 AI 行为准则",
+      "旨在回应 AI 发展过快可能失控的安全担忧",
+      "强调‘人比 AI 更重要’的核心理念"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "35df5485dfbc26a850624ef3a9412d96",
+    "title": "Duplicating baseline benchmarks [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wg1tdn/duplicating_baseline_benchmarks_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-14T12:18:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Suppose I create two machine learning models suppose tree and neural network for a task let's suppose regression problem, now suppose I am sending both of this paper to two different journals, now the thing is the baseline models I need to only run once because I have reported same baseline in both papers, so the RMSE tables looks exactly same except the proposed model, does it lead to any problems like palgiarism??</p> <p>Edit : I don't know why I am getting do",
+    "title_zh": "[讨论] 复制基线基准测试",
+    "summary_zh": "机器学习版块的学术讨论帖，提问者在撰写分别关于决策树和神经网络的论文时，是否需要为每个实验单独训练基线模型，还是只需运行一次。",
+    "key_points": [
+      "讨论关于论文中基线模型实验的规范操作",
+      "询问不同模型实验是否可共用一套基线基准数据"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "77e5d5723a5e319794ec0f04770f82d4",
+    "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+    "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-14T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is&#8230;",
+    "title_zh": "AI 真实的灭绝威胁与眼睛逆转衰老技术",
+    "summary_zh": "本期 MIT Technology Review 简报聚焦两大主题：全球顶尖 AI 实验室员工对先进 AI 可能威胁人类生存的担忧，以及一项能逆转眼睛衰老的新技术。",
+    "key_points": [
+      "顶尖 AI 实验室员工认为先进 AI 存在灭绝人类的可能",
+      "本期还介绍了一项逆转眼睛衰老的新技术"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2318750699794a8eed15e53747f78b6c",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "url": "https://openai.com/index/fyxer",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-14T12:00:00+00:00",
+    "content_snippet": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "title_zh": "Fyxer 如何打造出一款人们信赖的 AI 行政助理",
+    "summary_zh": "文章介绍了 AI 助理 Fyxer 如何利用 OpenAI 模型、微调、记忆功能和真实用户反馈，帮助用户整理收件箱并用其个人语气起草邮件。",
+    "key_points": [
+      "Fyxer 结合 OpenAI 模型与用户反馈来起草个性化邮件",
+      "该 AI 助理专注于整理收件箱并模仿用户语气"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
