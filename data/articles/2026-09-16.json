@@ -359,5 +359,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b3a996099507eabe981a415ca056d70d",
+    "title": "The Hacker's Guide to Attacking AI Agents",
+    "url": "https://www.reddit.com/r/artificial/comments/1whgc13/the_hackers_guide_to_attacking_ai_agents/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-15T23:23:16+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1whgc13/the_hackers_guide_to_attacking_ai_agents/\"> <img alt=\"The Hacker's Guide to Attacking AI Agents\" src=\"https://external-preview.redd.it/m0tzTLOMAi2ostbzQO9vFwHKk8xGR1JKeMm8C0x24Ps.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c92806649a65f80ac377b92dfd351af0f8b9bf12\" title=\"The Hacker's Guide to Attacking AI Agents\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/_clickfix_\"> /u/_cli",
+    "title_zh": "攻击AI代理的黑客指南",
+    "summary_zh": "一篇Reddit热门文章介绍了针对AI代理系统的潜在攻击手法，探讨了提示注入、工具操控等安全威胁及其防御策略，旨在提升开发者对AI安全风险的认识。",
+    "key_points": [
+      "详细剖析AI代理面临提示注入与工具操控的安全漏洞",
+      "提供攻击演示与防御建议，呼吁重视代理系统安全设计"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2c24dc3f71e6b1633d781d181951bbcd",
+    "title": "AI researcher whose apocalypse warning went viral outlines his disagreements with Anthropic leadership",
+    "url": "https://www.reddit.com/r/artificial/comments/1whf7lw/ai_researcher_whose_apocalypse_warning_went_viral/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-15T22:36:39+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1whf7lw/ai_researcher_whose_apocalypse_warning_went_viral/\"> <img alt=\"AI researcher whose apocalypse warning went viral outlines his disagreements with Anthropic leadership\" src=\"https://external-preview.redd.it/qJHNni1NVNAPL9_144TjPCt8MZejexXKsWQzI75Fdgs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd0708ae7c207d4c674edddeb323513c59a6c64e\" title=\"AI researcher whose apocalypse warning went viral outlines his disagreeme",
+    "title_zh": "末日警告爆红的AI研究员详述与Anthropic领导层的分歧",
+    "summary_zh": "一位因其AI末日警告走红的研究员公开了他与Anthropic管理层的分歧，涉及AI安全理念、研究重点及公司内部决策的差异，引发行业关于AI治理的讨论。",
+    "key_points": [
+      "研究员因AI风险警告而声名鹊起，随后与东家立场对立",
+      "分歧集中于AI安全紧迫性评估与公司内部治理方向"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f5e80ecad1974be7aa6cc485802da5d7",
+    "title": "The AI data center boom is colliding with cities scarred by big industry",
+    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-15T21:47:38+00:00",
+    "content_snippet": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+    "title_zh": "AI数据中心热潮与饱受重工业创伤的城市正面碰撞",
+    "summary_zh": "美国费城等城市因历史工业污染遗留问题，正抵制AI数据中心的建设浪潮，担忧环境与社区负担加重，环保与AI基础设施发展的矛盾日益尖锐。",
+    "key_points": [
+      "费城因废弃炼油厂阴影，居民强烈反对新建AI数据中心",
+      "数据中心扩张引发全国性环保与社区公平性争议"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c8e966977fdfbf219f7d7c920d00d133",
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-15T20:12:53+00:00",
+    "content_snippet": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+    "title_zh": "Meta开放AI代理处理WhatsApp Business繁琐设置",
+    "summary_zh": "Meta发布了WhatsApp Business MCP服务器，允许开发者利用Claude、Cursor等AI编码代理自动完成消息模板、测试和故障排除等设置任务，简化商业账号部署流程。",
+    "key_points": [
+      "Meta推出MCP服务器，用AI代理自动化商业号初始设置",
+      "支持Claude、ChatGPT等主流AI工具处理繁琐配置工作"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
