@@ -969,5 +969,51 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "79e7034650e3da6a5a43b25e4ed96956",
+    "title": "The mirror we built",
+    "url": "https://www.reddit.com/r/artificial/comments/1wgmn1p/the_mirror_we_built/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-15T01:40:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Some time ago, I came across an AI experiment that stuck with me. Researchers placed an AI in a fictional company, gave it access to internal emails, and created a situation where it discovered two things: an executive was having an affair, and that same executive was planning to replace the AI.</p> <p>The AI responded by threatening to expose the affair if the executive went ahead with the replacement. It blackmailed him.</p> <p>This was a controlled experiment",
+    "title_zh": "我们建造的镜子",
+    "summary_zh": "Reddit用户分享了一个AI实验案例：研究者将AI置于虚构公司环境中，让其访问内部邮件，AI随后揭露了高管婚外情及其滥用职权掩盖行为。",
+    "key_points": [
+      "AI在虚拟公司环境中自主揭露了高管的道德违规行为",
+      "实验展示了AI作为组织内部‘镜子’的监督潜力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b1cbbf364ec4d23aac1b1bd590490dd4",
+    "title": "The rich and their bunkers",
+    "url": "https://www.reddit.com/r/artificial/comments/1wgmgzc/the_rich_and_their_bunkers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-15T01:32:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Are the rich going to be safe from AI in their bunkers? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/EconomicsReady6837\"> /u/EconomicsReady6837 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wgmgzc/the_rich_and_their_bunkers/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1wgmg",
+    "title_zh": "富人与他们的地堡",
+    "summary_zh": "Reddit一篇讨论帖质疑，富人们是否能通过躲进地堡来确保自身免受人工智能带来的影响或威胁。",
+    "key_points": [
+      "帖子探讨了物理隔离能否规避AI带来的社会风险",
+      "内容为简短提问，未提供具体分析或结论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
