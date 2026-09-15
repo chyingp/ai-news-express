@@ -1,0 +1,48 @@
+[
+  {
+    "id": "5236dbdf1644621323432bcf2ca16248",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-15T16:00:44+00:00",
+    "content_snippet": "",
+    "title_zh": "你的AI智能体这次完美完成了任务，但它还能重现吗？",
+    "summary_zh": "Hugging Face博客文章探讨了AI智能体执行任务时的可重复性问题。当模型一次成功完成任务后，能否在相同条件下稳定复现是一个关键挑战，文章可能介绍相关评估方法或解决方案。",
+    "key_points": [
+      "AI智能体任务执行的可重复性和稳定性至关重要",
+      "文章可能探讨评估或提升模型行为一致性的新方法"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9f4376cce3ff0c7e25b907be185ec60a",
+    "title": "I expanded my Gifts platform- 96 atomic dependency-free, composable MIT-licensed code tools. Super handy for AI dev work",
+    "url": "https://www.reddit.com/r/artificial/comments/1wh4eyp/i_expanded_my_gifts_platform_96_atomic/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-15T16:00:05+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>When I started making <a href=\"https://loopmmt.com/site/gifts.html\">a bunch of free apps to give away on my site</a> I was not intending it to become a platform but as we built more and more of the gifts, the platform shape kind of just fell out of the work. </p> <p>So I have been formalizing it up into a proper system and just deployed the newest update, which has a lot of helpful information about each of the apps and how you can compose them together. </p> <p",
+    "title_zh": "我扩展了我的Gifts平台：96个原子级、无依赖、可组合的MIT许可代码工具，对AI开发极其实用",
+    "summary_zh": "Reddit用户分享其个人开源项目Gifts平台的扩展，该平台现包含96个原子级、无依赖、可组合的代码工具，并采用MIT许可，对AI开发工作非常便利。",
+    "key_points": [
+      "个人开源项目Gifts平台提供96个无依赖的代码工具",
+      "工具采用MIT许可，支持原子化和可组合，适合AI开发"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
