@@ -1377,5 +1377,174 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2c7667f6e80a184dd0ccc09c618ec6e8",
+    "title": "Helping older adults use AI in everyday life",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-16T16:00:00+00:00",
+    "content_snippet": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "title_zh": "帮助老年人将AI融入日常生活",
+    "summary_zh": "OpenAI与美国退休人员协会合作，在美国10个城市为1000名老年人提供免费的ChatGPT实践工作坊，旨在帮助他们安全地掌握实用的AI技能。",
+    "key_points": [
+      "OpenAI与AARP合作开展老年人AI培训项目",
+      "计划在10个美国城市为1000名老人提供免费工作坊",
+      "重点在于教授安全实用的ChatGPT操作技能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0600a054b445849cf167d77c7824ca3b",
+    "title": "June 2022, my first AI interaction.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wi0jrw/june_2022_my_first_ai_interaction/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-16T15:32:20+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wi0jrw/june_2022_my_first_ai_interaction/\"> <img alt=\"June 2022, my first AI interaction.\" src=\"https://preview.redd.it/6pveasqjiwph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=949dac550c814e06fdce8db8239f4f0fce5984f5\" title=\"June 2022, my first AI interaction.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ThoseOldScientists\"> /u/ThoseOldScientists </a> &#32; to &#32; <a href=\"https:",
+    "title_zh": "2022年6月，我的第一次AI交互",
+    "summary_zh": "一位Reddit用户分享了其在2022年6月首次与人工智能进行交互的个人经历和回忆。",
+    "key_points": [
+      "用户回顾2022年个人首次使用AI的经历",
+      "属于个人分享性质的社交媒体内容"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "246472aafd1457b7e5abf2f568639e8b",
+    "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-16T15:00:48+00:00",
+    "content_snippet": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments.  [&#8230;]",
+    "title_zh": "英伟达Vera Rubin NVL72在MLPerf推理v6.1首秀中展现领先性能",
+    "summary_zh": "英伟达的最新硬件平台Vera Rubin NVL72在MLPerf Inference v6.1基准测试中首次亮相，凭借高系统性能、高效的扩展能力和持续的软件优化，在AI推理经济学关键指标上表现出领先优势。",
+    "key_points": [
+      "英伟达Vera Rubin NVL72在MLPerf推理测试中性能领先",
+      "高系统性能、高效扩展和软件优化是AI推理经济学的关键",
+      "更高性能意味着更高令牌生成量和收入"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "79a042e1b1c00a97a83a07a182dfa866",
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-16T15:00:00+00:00",
+    "content_snippet": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+    "title_zh": "机器人行业苦等“ChatGPT时刻”：英伟达高管在TC Disrupt 2026大会上解释原因",
+    "summary_zh": "机器人行业尚未在日常生活中实现突破，英伟达机器人专家Les Karpas在TechCrunch Disrupt 2026大会上阐述了背后的原因。",
+    "key_points": [
+      "英伟达高管认为机器人行业仍在等待突破性时刻",
+      "本次观点来自TechCrunch Disrupt 2026大会"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bb25cc83b84b397c0a06cad8280f7420",
+    "title": "Meet a mouse whose brain cortex is made up of human cells",
+    "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-16T15:00:00+00:00",
+    "content_snippet": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissues of distant species is&#8230;",
+    "title_zh": "一只大脑皮层由人类细胞构成的小鼠",
+    "summary_zh": "MIT科技评论报道了一项生物技术实验，该实验将人类细胞植入小鼠大脑，使其近一半脑容量被人类细胞取代，用于研究混合脑组织。",
+    "key_points": [
+      "实验小鼠近一半脑容量被替换为人类细胞",
+      "用于密切追踪研究混合脑组织的行为和特性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "45890a1118c84f70e3a2b95914b5b09d",
+    "title": "The sexy AI-powered dating app scams are here",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-16T14:45:00+00:00",
+    "content_snippet": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She likes music, horror movies, nightlife, and sports. Gore-Kormanik answered the call, but [&#8230;]",
+    "title_zh": "性感的AI约会应用骗局已经来临",
+    "summary_zh": "The Verge报道，安全研究人员揭露了一款名为Dora的欺诈性AI约会应用，利用虚假资料和AI生成的对话进行诈骗，引发对AI滥用的担忧。",
+    "key_points": [
+      "安全研究员发现利用AI生成虚假资料的约会应用骗局",
+      "应用“Dora”通过AI模拟人物进行欺诈"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "52f952ce00e1837c4061cc4593a48d93",
+    "title": "Unpopular Opinion: The purpose of AI is to allow wealthy to access skills and to restrict skilled to access weath.",
+    "url": "https://www.reddit.com/r/artificial/comments/1whz4z1/unpopular_opinion_the_purpose_of_ai_is_to_allow/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-16T14:40:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Title is the post. AI is currently being gobbling on investor money. As soon as the money stops AI companies will look for the shortest way to break even. Then the only people who will get AI are the ones who can pay a ton. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Traditional-Sir-3069\"> /u/Traditional-Sir-3069 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=",
+    "title_zh": "不受欢迎的观点：AI的目的是让富人获取技能，并限制技术人员获取财富",
+    "summary_zh": "一位Reddit用户发表了关于AI最终目的的个人看法，认为一旦投资者资金耗尽，AI公司将只为付费能力强的富人服务，从而加剧社会不公。",
+    "key_points": [
+      "观点认为AI未来将成为富人的专属工具",
+      "担忧AI公司在资金耗尽后会仅服务于高付费人群"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
