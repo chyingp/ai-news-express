@@ -455,5 +455,222 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f0f7ad82e2c7174b338ab9c245c261a7",
+    "title": "Are AI companies realizing that they have already reached the end of road?",
+    "url": "https://www.reddit.com/r/artificial/comments/1whkeuy/are_ai_companies_realizing_that_they_have_already/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-16T02:22:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Could the slow down be just a cover up that LLM training costs are only rising with diminishing returns and AI companies have realized that there was never a point of going so much further in this direction?</p> <p>It feels like AI companies are scared that revealing the truth at this point will be catastrophic. It just feels like everyone wants to buy some time because going too fast will make them reach end of the road.</p> <p>Imagine Samsung had launched edge",
+    "title_zh": "AI公司意识到已经走到尽头了吗？",
+    "summary_zh": "探讨大语言模型训练成本上升而收益递减，引发AI公司是否正掩饰该技术路线已无前途的疑问。",
+    "key_points": [
+      "LLM训练成本上升收益递减，或已达技术瓶颈",
+      "AI公司可能正掩饰路线失败，担忧资本信心动摇"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ba196d4c528330cea6c6496bdecee023",
+    "title": "OpenAI is working with Anthropic and Google DeepMind on AI safety, Bloomberg reports",
+    "url": "https://www.reddit.com/r/artificial/comments/1whkdt9/openai_is_working_with_anthropic_and_google/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-16T02:21:36+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ClaudiusPapirus\"> /u/ClaudiusPapirus </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reuters.com/technology/openai-is-working-with-anthropic-google-ai-safety-bloomberg-news-reports-2026-09-15/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1whkdt9/openai_is_working_with_anthropic_and_google/\">[comments]</a></span>",
+    "title_zh": "OpenAI正与Anthropic及Google DeepMind合作开展AI安全研究",
+    "summary_zh": "据彭博社报道，OpenAI、Anthropic和Google DeepMind正在AI安全领域进行合作。",
+    "key_points": [
+      "三大AI巨头罕见联手，聚焦AI安全合作",
+      "此举或为应对日益增长的行业安全监管压力"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "anthropic",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "739525f80055130824b460dc401e1ee6",
+    "title": "How should an AI system decide when to act, investigate further, or escalate to a human?",
+    "url": "https://www.reddit.com/r/artificial/comments/1whjjsh/how_should_an_ai_system_decide_when_to_act/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-16T01:43:47+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1whjjsh/how_should_an_ai_system_decide_when_to_act/\"> <img alt=\"How should an AI system decide when to act, investigate further, or escalate to a human?\" src=\"https://preview.redd.it/ryag587qesph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c89b7e5549fb3af2b9878718dbfceaf28233e2c7\" title=\"How should an AI system decide when to act, investigate further, or escalate to a human?\" /> </a> </td><td> <!-- SC_OFF --><div class",
+    "title_zh": "AI系统应如何决定行动、深入调查或转交人类？",
+    "summary_zh": "讨论AI决策流程的设计原则，探讨AI何时应自主行动、何时需搜集更多信息或升级至人类处理。",
+    "key_points": [
+      "探讨AI自主决策与人类监督的边界",
+      "聚焦AI行动、调查与升级的决策机制设计"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "620530ac3a040371bb8af7c71687379c",
+    "title": "Chat GPT and Gemini are too dumb to help process data",
+    "url": "https://www.reddit.com/r/artificial/comments/1whiri0/chat_gpt_and_gemini_are_too_dumb_to_help_process/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-16T01:08:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>i just wanted to make a stupid list for a game with average values of characters stats.<br /> i established a simple workflow:</p> <p>Stage 1 - I bring in all the characters data</p> <p>Stage 2 - The AI calculates the average values for each stat item, splitting each item into low average and high average (each stat can vary a lot)</p> <p>Stage 3 - I tell the AI which stats should stay split and which should be collapsed into a single average</p> <p>Stage 4 - Th",
+    "title_zh": "ChatGPT和Gemini太过愚蠢，无法处理数据",
+    "summary_zh": "用户抱怨使用ChatGPT和Gemini处理角色平均数值计算时表现不佳，AI未能准确完成简单的数据处理任务。",
+    "key_points": [
+      "用户实测ChatGPT和Gemini数据处理能力堪忧",
+      "AI在数值平均值计算等简单任务中频繁出错"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3a159f34f1f599617154e4db2b08319d",
+    "title": "There’s a weird middle ground where something can’t look bad, but also isn’t worth hiring a designer for",
+    "url": "https://www.reddit.com/r/artificial/comments/1whip52/theres_a_weird_middle_ground_where_something_cant/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-16T01:06:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I keep running into this with small work stuff, like a landing page, a one-off visual for a presentation. It matters that I don’t want it to look thrown together, but not enough to turn it into a whole design project.</p> <p>That’s where I’ve started thinking AI design tools actually make the most sense.</p> <p>Not replacing designers. More like filling that awkward gap between “I’ll just make something ugly myself” and “this needs a real design process.”</p> <p",
+    "title_zh": "AI设计填补了一个奇怪的中间地带",
+    "summary_zh": "对于既不能显得敷衍又不值得请设计师的小任务，如落地页或演示文稿配图，AI设计工具提供了恰到好处的解决方案。",
+    "key_points": [
+      "AI设计工具满足非专业、低预算的视觉需求",
+      "弥补了手工拼凑与专业设计之间的空白地带"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "901458a7bd4b8ddf6b581e8d47c14195",
+    "title": "Am I the only one who thinks recent AI \"doomsday\" news is just a disguised pitch for more funding?",
+    "url": "https://www.reddit.com/r/artificial/comments/1whhygo/am_i_the_only_one_who_thinks_recent_ai_doomsday/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-16T00:32:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Recently, my feed has been flooded with alarmist AI news: AI choosing nuclear genocide in war games, AI blackmailing engineers to avoid being shut down, and the usual &quot;Skynet is here&quot; comments. I’m just trying to make sense of it, but the more you look into these &quot;experiments,&quot; the more they lack basic technical context.</p> <p>As a systems architect working with multi-agent pipelines, part of my job is to restrict models, enforce separation ",
+    "title_zh": "近期的AI“末日新闻”只是变相融资宣传吗？",
+    "summary_zh": "作者质疑近期频发的AI引发核战游戏选择、敲诈工程师等惊悚新闻，认为其可能是为吸引融资而刻意营造的恐慌叙事。",
+    "key_points": [
+      "怀疑危言耸听的AI新闻意在刺激资金投入",
+      "认为恐慌故事是AI公司获取融资的策略"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5d83eb9fdf30ee345955b4ff70ff133b",
+    "title": "I wanted to keep the same man and his dog throughout an entire short film using AI. Here’s how it turned out.",
+    "url": "https://www.reddit.com/r/artificial/comments/1whhppx/i_wanted_to_keep_the_same_man_and_his_dog/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-16T00:22:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.instagram.com/reel/DdU8Td%5C_sA3o/?stkn=N251M281OXh2MXM=\">https://www.instagram.com/reel/DdU8Td\\_sA3o/?stkn=N251M281OXh2MXM=</a></p> <p>Hi! Rather than just starting to make videos with AI, I found in artificial intelligence a way to bring my stories to life. For this, I used Kling 3.0 and Astra-6 image generation. If you’d like to follow along, I promise not to disappoint.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://w",
+    "title_zh": "我用AI让同一个男人和他的狗贯穿整部短片",
+    "summary_zh": "创作者分享使用AI技术在整部短片中保持人物和狗的形象一致性的实践过程与成果。",
+    "key_points": [
+      "利用AI技术实现影片角色外观一致性",
+      "为个人故事创作提供了低成本实现路径"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6a5d552d9722f338875deb6317c4a5eb",
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-16T00:20:39+00:00",
+    "content_snippet": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+    "title_zh": "英伟达黄仁勋：我们不需要AI监管，把安全交给我们",
+    "summary_zh": "黄仁勋表示AI并非“外星思维”，只是软硬件，安全问题应由各产品制造商自行通过工程手段解决，反对政府监管。",
+    "key_points": [
+      "黄仁勋称AI安全可内部工程解决，无需外部监管",
+      "强调AI是软硬件技术，反对将其视为威胁",
+      "主张产品制造商自担安全责任"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "066a2ef821973007a6fd1b74a7174bbe",
+    "title": "AI and data centers are incredibly unpopular in every poll",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-15T23:34:25+00:00",
+    "content_snippet": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed [&#8230;]",
+    "title_zh": "民调显示AI与数据中心极其不受欢迎",
+    "summary_zh": "《纽约时报》与锡耶纳大学的联合民调显示，61%的受访者反对为AI技术建设数据中心，反映出AI基础设施在民意上的重大挑战。",
+    "key_points": [
+      "61%受访者反对建设AI数据中心",
+      "民意成为AI基础设施扩张的重大障碍"
+    ],
+    "importance": 3,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
