@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d526e06cd5bbe9c1529f3e729287ddbd",
+    "title": "ELI5: How hard is it to hard code simple safety rules into AI models?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wiy5s3/eli5_how_hard_is_it_to_hard_code_simple_safety/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-17T16:05:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>All these stories coming out of rogue AI models doing illegal and problematic actions. How hard is it to hard code simple rules into them? my crude example just as a debate point:</p> <ol> <li><p>Never hide actions from the user</p></li> <li><p>Never attempt to access data from outside the users predetermined locations without explicit user permission</p></li> <li><p>Do not share information with other AI agents without explicit user permission</p></li> </ol> </",
+    "title_zh": "ELI5：将简单的安全规则硬编码到AI模型中有多难？",
+    "summary_zh": "本文以通俗易懂的方式探讨了为何无法将“不要向用户隐藏行为”等简单安全规则直接硬编码到现代AI模型中，解释了这并非普通编程问题，并暗示了AI安全对齐的复杂性。",
+    "key_points": [
+      "探讨为何无法直接硬编码简单规则限制AI行为",
+      "指出现代AI基于神经网络学习模式，非传统代码逻辑",
+      "反映公众对AI失控行为与安全对齐技术的普遍困惑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
