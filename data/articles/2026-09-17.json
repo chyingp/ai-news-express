@@ -685,5 +685,102 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ab2a2f0bede5900324bcd3659d99029f",
+    "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+    "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-16T23:40:00+00:00",
+    "content_snippet": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spark, though Snap is pitching Specs Intelligence as an \"anticipatory AI service\" that \"helps you [&#8230;]",
+    "title_zh": "Snap 推出全新 Specs 智能 AI 助手，将登陆 iOS 和 Mac 平台",
+    "summary_zh": "Snap 推出名为“Specs Intelligence”的新型 AI 助手，可连接用户的多种数字账户，协助管理工作任务和旅行信息。该产品定位与 Meta 的 Muse 和谷歌的 Spark 等 AI 助手类似，旨在为用户提供跨平台的任务管理服务。",
+    "key_points": [
+      "Snap 发布 AI 助手 Specs Intelligence，对标 Meta Muse 和谷歌 Spark",
+      "该助手可跨平台连接账户，协助处理工作与旅行信息"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e1bc0abda7df2c062b37163752a511ae",
+    "title": "TMLR reached out to the authors of 10 papers slated for desk rejection, in an attempt to understand if the authors could explain the paper they submitted [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wid67h/tmlr_reached_out_to_the_authors_of_10_papers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-16T23:20:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>You can read more here: <a href=\"https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0\">https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0</a></p> <p>The results are (imho) concerning. Taken from the article:</p> <p>Of the ten submissions: </p> <ul> <li>Authors of one paper withdrew their submission. </li> <li>Authors of one paper said they were unavailable due to other commitments. </li> <li>Authors of one pa",
+    "title_zh": "TMLR 调查被直接拒稿论文作者：超半数无法解释其研究内容",
+    "summary_zh": "机器学习期刊 TMLR 联系了 10 篇被直接拒稿论文的作者，调查他们是否能解释自己所提交的论文。结果表明，超过一半的作者无法清晰描述其研究的核心内容，这一现象引发了社区对 LLM 辅助写作及学术严谨性的担忧。",
+    "key_points": [
+      "TMLR 调查发现，被拒稿作者中超半数无法解释自己的论文",
+      "该调查意在探讨 AI 生成内容对学术写作的影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c21f2f7b03ccb8ac18e035178c0aff57",
+    "title": "Kirkversary: A Bizarre AI Carnival",
+    "url": "https://www.reddit.com/r/artificial/comments/1wibt5g/kirkversary_a_bizarre_ai_carnival/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-16T22:23:30+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wibt5g/kirkversary_a_bizarre_ai_carnival/\"> <img alt=\"Kirkversary: A Bizarre AI Carnival\" src=\"https://external-preview.redd.it/zXXa-QYsQNQichsifP421OyS_TBwWn5Q3C06Pr8bS60.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=40db88b366b28a8d5786f1d91e345a2cd0c13273\" title=\"Kirkversary: A Bizarre AI Carnival\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ximsss\"> /u/ximsss </a> &#32; to &#32; <a",
+    "title_zh": "Kirkversary：一场怪异的 AI 狂欢节",
+    "summary_zh": "Reddit 社区热帖讨论 Kirkversary 活动，一场被描述为奇异的AI狂欢节，包含AI生成艺术展览和奇特互动体验，引发了社区对AI创意应用的广泛讨论和两极分化评价。",
+    "key_points": [
+      "Reddit 用户热议一场名为 Kirkversary 的 AI 主题狂欢活动",
+      "活动展示 AI 生成艺术，引发对 AI 创意的两极评价"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d7779c24a9fb7eda7b677996d7cf2392",
+    "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+    "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-16T22:02:46+00:00",
+    "content_snippet": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
+    "title_zh": "苹果被曝正研发搭载 M 系列 Ultra 芯片的 AI 服务器",
+    "summary_zh": "据 Ars Technica 报道，苹果计划在 2029 年推出一款专门用于 AI 计算的服务器，该服务器将搭载 M 系列 Ultra 芯片。这将是苹果近几十年来首次重返企业级服务器市场，旨在增强其在 AI 基础设施领域的竞争力。",
+    "key_points": [
+      "苹果计划于 2029 年推出搭载 M 系列 Ultra 芯片的 AI 服务器",
+      "这标志着苹果数十年来首次重返企业级服务器市场"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
