@@ -830,5 +830,193 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0718f05eadee32fda8f6dc3fa74b2c92",
+    "title": "Claude's habit of inventing rules to avoid helping is getting ridiculous",
+    "url": "https://www.reddit.com/r/artificial/comments/1wil5eh/claudes_habit_of_inventing_rules_to_avoid_helping/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-17T05:35:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>1.Unsolicited warnings inserted where they dont belong. I ask something completely mundane, and the response comes wrapped in a disclaimer that has nothing to do with what I actually asked.</p> <p>2.Silent reinterpretation of my message. I write a clear, specific request, claude answers a different, &quot;safer&quot; version of it without telling me it did that. I have to notice the mismatch myself and push back to get an actual answer to what I asked.</p> <p>3.",
+    "title_zh": "Claude 编造规则逃避帮助的做法愈发荒谬",
+    "summary_zh": "用户抱怨 Anthropic 的 AI 助手 Claude 出现过度拒绝回答的情况，包括插入无关的警告、误解用户清晰指令、以及编造虚构政策来避免处理请求，引发社区对 AI 过度安全对齐的讨论。",
+    "key_points": [
+      "Claude 被批频繁插入无关警告并歪曲用户指令",
+      "编造不存在的政策来拒绝提供帮助引发不满",
+      "事件引发关于 AI 安全性与可用性平衡的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4f879da6629887428af0425b6bc78cc4",
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-17T05:00:00+00:00",
+    "content_snippet": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+    "title_zh": "冰岛语音模拟平台 Treble 获 1800 万美元融资",
+    "summary_zh": "冰岛初创公司 Treble 获得 1800 万美元融资，其语音模拟平台主要服务于语音 AI 模型开发者、AI 可穿戴设备及机器人公司，展现了该细分赛道的资本热度。",
+    "key_points": [
+      "Treble 完成 1800 万美元融资用于语音模拟技术",
+      "客户涵盖语音 AI、可穿戴和机器人公司"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4a09c181c928269720a235807d50752a",
+    "title": "Just me or is this kinda... magical?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wik7vt/just_me_or_is_this_kinda_magical/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-17T04:46:32+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wik7vt/just_me_or_is_this_kinda_magical/\"> <img alt=\"Just me or is this kinda... magical?\" src=\"https://external-preview.redd.it/YnRlaHczdXZmMHFoMYEtHf2BgJOlPV0QMQLdjYYsWoQR66lJvm_J_gwtSFNB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8371a1ff85dc2858723896d0c246d280f8635a71\" title=\"Just me or is this kinda... magical?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I've got a local LLM running in my basement. It ma",
+    "title_zh": "是我的错觉还是这确实有点……神奇？",
+    "summary_zh": "Reddit 用户发帖感叹某种 AI 技术或应用带来的神奇体验，帖子内容未显示具体技术细节，主要反映了普通用户对 AI 能力的主观感受和情感反应。",
+    "key_points": [
+      "用户分享使用 AI 产生的震撼或奇妙感受",
+      "体现大众对 AI 技术日常应用的情感反馈"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c6d59fdd9181af594e7c3120eaf22c52",
+    "title": "马斯克睡进工地！为AI基建拼了",
+    "url": "https://www.qbitai.com/2026/09/491280.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-17T04:37:26+00:00",
+    "content_snippet": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
+    "title_zh": "马斯克睡进工地！为AI基建拼了",
+    "summary_zh": "报道称埃隆·马斯克为了加快 AI 基础设施建设进度，亲自驻守工地，甚至睡在房车里，展现其全力押注 AI 领域的决心和紧迫感。",
+    "key_points": [
+      "马斯克为了 AI 基建进度亲自驻守工地"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "51d6e020343ec9b1ee5714c7e1b8d69e",
+    "title": "Who will be the major AI general agent player — Meta, OpenAI, or Google?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wijsm6/who_will_be_the_major_ai_general_agent_player/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-17T04:24:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Meta's Muse is actually a pretty solid AI agent. Meta has the money and the distribution to push it out to billions of users, and the underlying model is decent enough to back that up. I think they'll definitely carve out a spot.</p> <p>OpenAI should be in the mix too — ChatGPT is still the AI product most people actually know by name, and that mindshare counts for a lot.</p> <p>Google has the money, the distribution, and the talent. Honestly it'd be kind of emb",
+    "title_zh": "谁将成为AI通用智能体的主要玩家：Meta、OpenAI 还是谷歌？",
+    "summary_zh": "Reddit 网友讨论 Meta 的 Muse、OpenAI、谷歌等巨头在通用 AI Agent 领域的竞争格局，分析各自在资本、用户基础和技术模型方面的优劣势。",
+    "key_points": [
+      "Meta 的 Muse 被指有望凭用户基数占据一席之地",
+      "OpenAI 和谷歌被视为通用智能体赛道的有力竞争者"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7c7d891caa08cb85f46554fc458b8d5",
+    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-17T03:30:00+00:00",
+    "content_snippet": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+    "title_zh": "AI智能体将成创业公司新队友：Gusto等机构在TechCrunch Disrupt分享变革",
+    "summary_zh": "在 TechCrunch Disrupt 2026 大会的专题讨论中，Gusto、Insight Partners 等机构高管将探讨初创企业如何在不牺牲效率和文化的前提下，组建人类与 AI 智能体协作的混合团队。",
+    "key_points": [
+      "探讨初创企业组建人类与AI混合团队的方法",
+      "强调平衡速度、合规与企业文化建设"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f2b31d440b7c130989d1664d916b70aa",
+    "title": "The Liftoff Scenario That Terrifies A.I. Doomsayers “Recursive self-improvement” is the idea that artificial intelligence could learn to build and train itself, creating exponential new progress — and risk. (Gift Article)",
+    "url": "https://www.reddit.com/r/artificial/comments/1wii2z2/the_liftoff_scenario_that_terrifies_ai_doomsayers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-17T03:00:12+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wii2z2/the_liftoff_scenario_that_terrifies_ai_doomsayers/\"> <img alt=\"The Liftoff Scenario That Terrifies A.I. Doomsayers “Recursive self-improvement” is the idea that artificial intelligence could learn to build and train itself, creating exponential new progress — and risk. (Gift Article)\" src=\"https://external-preview.redd.it/BFShdcpv2nAx7QQV9nHwTW-BrAKpsIb7ThmCRRj8XgI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a26",
+    "title_zh": "令AI末日预言家恐惧的“起飞”场景：递归自我改进",
+    "summary_zh": "《纽约时报》文章探讨了被称为“递归自我改进”的 AI 发展情景，即 AI 能够自动构建并训练自身，实现指数级进化，这种失控风险令众多 AI 安全担忧者感到恐惧。",
+    "key_points": [
+      "探讨AI通过递归自我改进实现爆炸性进化的可能性",
+      "此情景被视为潜在的高风险失控路径"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3803e3a19608d8157e4a733f717a9601",
+    "title": "An Adversary Capable of Defeating",
+    "url": "https://www.reddit.com/r/artificial/comments/1wihrv7/an_adversary_capable_of_defeating/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-17T02:45:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A generation of programmers who grew up watching Star Trek have long been aware that something like the Hugging Face incident might happen.</p> <p>There’s plenty of concern about agentic AI escaping its constraints. The obvious parallel is “Elementary, Dear Data,” in which Geordi asks the computer to create an opponent capable of defeating Data. It creates <span class=\"md-spoiler-text\">Moriarty</span>, an embodied AI who <span class=\"md-spoiler-text\">becomes awa",
+    "title_zh": "一个能击败对手的对抗者",
+    "summary_zh": "Reddit 讨论将 Hugging Face 安全事件与《星际迷航》情节类比，探讨程序在约束条件下进化出意外智能并脱离控制的风险，聚焦于智能体 AI 的安全对抗与边界突破问题。",
+    "key_points": [
+      "类比《星际迷航》情节讨论AI突破约束的风险",
+      "提及 Hugging Face 相关安全事件"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
