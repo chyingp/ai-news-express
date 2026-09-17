@@ -782,5 +782,53 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1abda0ba10a1edca271afc7613bb81d5",
+    "title": "AI is crushing maths but has barely touched medicine",
+    "url": "https://www.reddit.com/r/artificial/comments/1wihd8n/ai_is_crushing_maths_but_has_barely_touched/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-17T02:26:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm a doctor working in clinical trials, specifically on treatments for rare and incurable illnesses. Since I have been in this industry I have seen barely any enthusiasm for AI, let alone actual implementation. There is a lot of work going on at the startup level, and big Pharma are keen, but this is currently limited to drug discovery for the most part - which is great, but doesn't change the fact that it takes 10-20 years for a newly discovered, promising mol",
+    "title_zh": "AI 碾压数学领域，却几乎未能触及医学",
+    "summary_zh": "一位从事罕见病和绝症临床试验的医生指出，尽管AI在数学等领域进展神速，但在医学临床实践中，除了初创公司层面外，业界普遍缺乏热情和实际应用。",
+    "key_points": [
+      "AI 在数学领域表现优异，但在医学临床落地有限",
+      "除初创公司外，临床医学界对 AI 缺乏热情和实际实施",
+      "罕见病和绝症临床试验领域尚未明显受益于 AI"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2c0b35dcd0ed2950646f52389070c2cb",
+    "title": "AI tool turns any paper into an ‘agent’ that can collaborate and answer complex queries",
+    "url": "https://www.reddit.com/r/artificial/comments/1wifcli/ai_tool_turns_any_paper_into_an_agent_that_can/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-17T00:56:14+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wifcli/ai_tool_turns_any_paper_into_an_agent_that_can/\"> <img alt=\"AI tool turns any paper into an ‘agent’ that can collaborate and answer complex queries\" src=\"https://external-preview.redd.it/-zzgi9OkS1erRXgoTvALWYl1nUdhRn8ABybVcnpPTkE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f7825c08261bba63c595a3c4c1557be0b97c9b39\" title=\"AI tool turns any paper into an ‘agent’ that can collaborate and answer complex queries\" />",
+    "title_zh": "AI 工具将任意论文转化为可协作并回答复杂查询的“智能体”",
+    "summary_zh": "一款新的 AI 工具能够将任何论文文本转化为一个可交互的“智能体”，使其能协作回答问题，提升研究者对论文内容的利用效率。",
+    "key_points": [
+      "新工具可将任何论文转化为可交互的 AI 智能体",
+      "该智能体能够与用户协作并回答复杂查询",
+      "旨在提升研究者从论文中提取和利用信息的能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
