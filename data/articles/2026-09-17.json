@@ -1189,5 +1189,497 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b6a1408cf44b4b3208d1073e49c5f0db",
+    "title": "Is hating Ai the new meta",
+    "url": "https://www.reddit.com/r/artificial/comments/1wixtz5/is_hating_ai_the_new_meta/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-17T15:53:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Ive been keeping up with the Ai controversy a little and it feels like saying you use Ai is becoming the tech equivalent of liking feet. </p> <p>Im wondering whats worse using and Ai in general or is it how you use it. From my knowledge it uses massive amounts of water which is terrible (theres definitely an alternative out there) but the truth is Ai is here to stay.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Hakgnxk\">",
+    "title_zh": "讨厌 AI 成了新的潮流吗？",
+    "summary_zh": "Reddit 用户讨论社会中对使用 AI 的抵触情绪，感觉公开承认使用 AI 正在变成科技圈里一种被视为癖好或低人一等的行为。",
+    "key_points": [
+      "公开承认使用 AI 被视为类似癖好",
+      "讨论社会对 AI 使用的负面态度",
+      "质疑反 AI 情绪是否成新潮流"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0b68e96e3ee60762fc4e82ae60996d91",
+    "title": "I could reproduce the AI benchmarks. I still couldn’t verify the business claims.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wiwt4y/i_could_reproduce_the_ai_benchmarks_i_still/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-17T15:15:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I expected the flashy AI claims to be the hard part to verify. It was mostly the opposite.</p> <p>I screened 100 XPRIZE AI projects, looked closely at 14, and independently tested 5 using public code, data, live products, and official documents.</p> <p>One product reported a <strong>91.2% replication rate</strong> for behavioral-science effects. I reran the public responses and scoring code and got 91.2%.</p> <p>But the number depended heavily on the aggregation",
+    "title_zh": "我能复现 AI 基准测试，但仍无法验证其商业宣传",
+    "summary_zh": "一位研究者筛选了 100 个 XPRIZE AI 项目，深入审查 14 个并独立测试了 5 个，发现技术基准虽然可以复现，但背后夸大的商业主张却难以核实。",
+    "key_points": [
+      "审查 100 个 XPRIZE 项目仅测试 5 个",
+      "AI 技术基准可复现但商业宣传难核实"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5d18789efa0799b711a2f528b4caa28b",
+    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+    "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-17T14:06:14+00:00",
+    "content_snippet": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+    "title_zh": "华为计划 2027 年 Q1 发布新 AI 芯片，挑战英伟达",
+    "summary_zh": "华为正在加速其下一代 Ascend 960DT AI 芯片的发布进程，计划于 2027 年第一季度推出，旨在与英伟达竞争，缩小中美 AI 计算差距。",
+    "key_points": [
+      "华为计划 2027 年 Q1 发布 Ascend 960DT",
+      "新芯片旨在挑战英伟达并缩小中美算力差距"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "huawei",
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6134e70ae934e47c2ab9014a00f02138",
+    "title": "What we’ve learned from Microsoft’s own AI transformation",
+    "url": "https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/",
+    "source": "Microsoft AI Blog",
+    "source_zh": "微软官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-17T14:00:05+00:00",
+    "content_snippet": "<p>AI is reshaping work faster than any organization has fully mastered. Across industries, the conversation has shifted from what AI can do to how companies can use AI to create business value and expand what people are able to achieve. At Microsoft, we believe the organizations that succeed will be what we call Frontier Firms:...</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/\">What we’ve learned from Microsoft&#8217",
+    "title_zh": "微软自身 AI 转型的经验教训",
+    "summary_zh": "微软通过官方博客分享了其在内部推行 AI 转型过程中的实践经验，强调企业应将重点从技术能力转向如何利用 AI 创造实际商业价值和拓展人类成就。",
+    "key_points": [
+      "微软分享内部 AI 转型实践经验",
+      "重点转向利用 AI 创造商业价值"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "74a1f4fa23b15aaaf4f64aeda5607023",
+    "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+    "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-17T14:00:00+00:00",
+    "content_snippet": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.&#160; It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a [&#8230;]",
+    "title_zh": "微软 AI CEO 称 AI 威胁真实存在，且 Anthropic 正在加剧问题",
+    "summary_zh": "微软 AI CEO 穆斯塔法·苏莱曼在播客中讨论了 AI 监管和安全辩论，直言 AI 威胁真实存在，并指责 Anthropic 正在使情况变得更糟。",
+    "key_points": [
+      "苏莱曼认为 AI 安全威胁真实存在",
+      "指责 Anthropic 加剧 AI 安全问题"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "microsoft",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e95f62cf60ae056343f3b8eb140b20a9",
+    "title": "AI is feared globally as the destroyer of jobs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-17T14:00:00+00:00",
+    "content_snippet": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ahead of recent apocalyptic warnings. A majority sees AI as a threat [&#8230;]",
+    "title_zh": "全球普遍担忧 AI 成为就业杀手",
+    "summary_zh": "皮尤研究中心发布覆盖 37 个国家 4.2 万人的全球调查，结果显示大多数人担忧 AI 会摧毁就业机会，并加剧收入不平等问题。",
+    "key_points": [
+      "皮尤调查覆盖 37 国 4.2 万人",
+      "多数人担忧 AI 导致失业和收入不平等"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "354af6386954314c5e2c9d683ba221ce",
+    "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+    "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-17T13:46:16+00:00",
+    "content_snippet": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+    "title_zh": "竞品 AI 代理 Instinct 和 Meta 的 Muse 新增电话功能",
+    "summary_zh": "AI 助手 Instinct 与 Meta 旗下的 Muse 几乎同时新增电话交互功能，使用户能够通过它们完成餐厅预订或取消订阅等现实任务。",
+    "key_points": [
+      "Instinct 和 Meta Muse 新增通话能力",
+      "AI 代理可完成预订餐厅等现实任务"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3451114a79019509cdbea7857d347466",
+    "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+    "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-17T13:38:33+00:00",
+    "content_snippet": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+    "title_zh": "谷歌、英伟达和 Anthropic 联合 Emerald AI 为数据中心寻找电网空间",
+    "summary_zh": "由谷歌、英伟达、Anthropic 与 Emerald AI 组成的新联盟成立，目标是挖掘 100 GW 的电网容量，以满足日益增长的数据中心建设需求。",
+    "key_points": [
+      "谷歌、英伟达、Anthropic 组建新联盟",
+      "目标为数据中心挖掘 100 GW 电网容量"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "nvidia",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "298c2f7095ae03d533ca5bd53631b7e3",
+    "title": "Is anyone else scared they won't be able to tell what's real anymore?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wiu62b/is_anyone_else_scared_they_wont_be_able_to_tell/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-17T13:34:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>saw a video last week that looked completely legit, turned out to be AI-generated. not even a bad job, genuinely couldn't tell until someone pointed it out</p> <p>feels like we're approaching a point where &quot;seeing is believing&quot; just... stops applying. not sure how society adjusts to that, or if we even can fast enough</p> <p>not trying to be doom and gloom, just genuinely curious how other people are thinking about this. Are we adapting, or are we not ",
+    "title_zh": "还有人害怕以后无法分辨真假吗？",
+    "summary_zh": "Reddit 用户表达了对深度伪造的恐惧，称上周看到一个完全以假乱真的 AI 生成视频，预示着眼见为实的时代即将终结。",
+    "key_points": [
+      "AI 生成视频已达到以假乱真地步",
+      "用户担忧眼见为实的时代终结"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "049f940f63801520e587242932864669",
+    "title": "Nobody's actually securing their agentic AI deployments.",
+    "url": "https://www.reddit.com/r/artificial/comments/1witd1d/nobodys_actually_securing_their_agentic_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-17T13:00:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most agentic AI projects never make it past the pilot stage. But the ones that do usually get a security review that amounts to &quot;the model provider handles that.&quot;</p> <p>They don't, once an agent has permission to actually do things. OWASP's Agentic Security Initiative put out a Top 10 for this last year and it's basically a list of failure modes nobody's treating as failure modes yet; goal hijacking, tool misuse, an agent's own identity and privileges",
+    "title_zh": "实际上没人在保障智能体 AI 部署的安全",
+    "summary_zh": "尽管智能体 AI 项目开始落地，但安全审查往往流于形式，仅指望模型供应商负责。OWASP 已意识到这一问题，指出获得执行权限后的代理安全防护存在巨大隐患。",
+    "key_points": [
+      "智能体部署的安全审查严重不足",
+      "安全责任被简单推给模型供应商"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cb1d59831793b3b5ab3a0d40d76fa40d",
+    "title": "the hard part of ai filmmaking isnt video quality anymore",
+    "url": "https://www.reddit.com/r/artificial/comments/1wit06g/the_hard_part_of_ai_filmmaking_isnt_video_quality/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-17T12:45:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>i watched a bunch of people building ai micro drama series and noticed something interesting. the biggest problem isnt really &quot;can ai generate a good looking video?&quot; anymore.</p> <p>its continuity.</p> <p>making one cool 10 second clip is easy.</p> <p>making episode 8 look like it belongs to the same show as episode 1 is MUCH harder.</p> <p>faces drift. clothes change. locations randomly change. voices change. props disappear.</p> <p>and every new gene",
+    "title_zh": "AI电影制作的难点已不再是视频质量",
+    "summary_zh": "观察发现，AI微短剧制作的最大挑战已非生成高质量视频，而是保持镜头间的连续性和一致性，制作单个酷炫片段很容易。",
+    "key_points": [
+      "AI视频生成质量已不再是主要瓶颈",
+      "镜头间连续性和角色一致性成为核心难题",
+      "从单片段生成到长片制作面临巨大跨越"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eafaabb1b7bee365001475e59c283092",
+    "title": "Huawei's Xu says Chinese AI not powerful enough yet to see frontier risks",
+    "url": "https://www.reddit.com/r/artificial/comments/1wiscln/huaweis_xu_says_chinese_ai_not_powerful_enough/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-17T12:15:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Huawei’s Eric Xu made an interesting argument today: Chinese AI labs may not yet be operating at a capability level where they can observe the same frontier risks being reported by U.S. labs.</p> <p>His view seems to be that some safety problems may only become visible once systems are sufficiently capable, rather than being equally obvious at every stage of development.</p> <p>That creates a difficult question for AI safety: if certain failure modes only appear",
+    "title_zh": "华为徐直军称中国AI尚未强大到能观察前沿风险",
+    "summary_zh": "华为高管徐直军表示，中国AI实验室的模型能力可能尚未达到能观察美国同行所报告的前沿风险的水平，某些安全问题只在能力较强时才显现。",
+    "key_points": [
+      "华为高管称中国AI能力未及美国前沿水平",
+      "某些安全风险在模型达到更高能力时才可见",
+      "该观点引发了对AI安全研究门槛的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4b73a7a5520c45c626e8f4b400b87b3a",
+    "title": "The Download: mice with part-human brains and climate tech innovators",
+    "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-17T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed,&#8230;",
+    "title_zh": "今日下载：拥有人脑细胞的小鼠与气候技术创新者",
+    "summary_zh": "本期内容涵盖两项科技进展：拥有部分人类大脑细胞的小鼠实验，旨在研究大脑功能；以及2026年气候技术领域值得关注的创新者介绍。",
+    "key_points": [
+      "小鼠大脑皮层由人类细胞构成以研究脑功能",
+      "2026年度气候技术创新者名单揭晓",
+      "生物技术与清洁能源技术的新进展"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e45c9a68b44aa97886e6e535b923a1e9",
+    "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+    "url": "https://www.qbitai.com/2026/09/491649.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-17T12:03:24+00:00",
+    "content_snippet": "构建个体专属AI助理",
+    "title_zh": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+    "summary_zh": "文章探讨vivo如何将AI手机从简单的问答交互升级为能够主动办事的个体专属AI助理，分析其在智能手机AI应用上的策略与挑战。",
+    "key_points": [
+      "vivo推动AI手机从被动回答转向主动办事",
+      "目标是构建个性化的个体专属AI助理",
+      "分析智能手机厂商的AI应用落地策略"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6583ba55d6e99316f24c36f94b55c9c3",
+    "title": "Claude Code团队讲究啊，这都往外说",
+    "url": "https://www.qbitai.com/2026/09/491596.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "zh",
+    "published": "2026-09-17T11:56:13+00:00",
+    "content_snippet": "工程师的核心永远是Problem Solving。",
+    "title_zh": "Claude Code团队讲究啊，这都往外说",
+    "summary_zh": "文章评论Anthropic的Claude Code团队乐于分享内部经验，强调工程师的核心永远是解决问题，展现了其开放的技术文化。",
+    "key_points": [
+      "Claude Code团队乐于分享内部工程实践",
+      "强调工程师核心是解决问题（Problem Solving）",
+      "体现了Anthropic相对开放的技术文化"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a0bd308279ed09ff47ccb8c71452b11c",
+    "title": "I wonder if AI agents and AI usage should have some kind of extra regulation for minors?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wirqzs/i_wonder_if_ai_agents_and_ai_usage_should_have/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-17T11:47:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What I mean is, nowadays coding and creating AI agents with Claude and similar tools can be done much more easily by minors, without any real age verification beyond things like an email. I’m not saying this is necessarily a bad thing if you are 15” and you are able to create a SaaS or an Agent easily, then well done. However, just wonder if there should be a certain layer of KYC or age verification instead of relying mostly on emails and similar checks.</p> <p>",
+    "title_zh": "AI代理和AI使用是否应对未成年人设立额外监管？",
+    "summary_zh": "文章讨论未成年人可以轻易绕过年龄验证使用AI代理和编码工具（如Claude），质疑是否需要为此类AI使用设立额外的监管措施以保护未成年人。",
+    "key_points": [
+      "未成年人可轻易使用AI代理和编码工具",
+      "当前缺乏有效的年龄验证机制",
+      "探讨AI对未成年人可能带来的监管需求"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b976cf94b51bce51a3c31993255927a9",
+    "title": "Inside the suddenly explosive world of AI safety",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-17T11:30:00+00:00",
+    "content_snippet": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An unreleased OpenAI model had gone rogue, executing a stunningly [&#8230;]",
+    "title_zh": "AI安全领域骤然升温的内幕",
+    "summary_zh": "报道了美国顶尖AI安全研究人员就OpenAI模型被窃事件举行“作战室”会议，深入探讨AI安全研究界内部的动态、分歧和在事件后的紧急应对。",
+    "key_points": [
+      "顶尖AI安全专家就OpenAI模型失窃事件召开紧急会议",
+      "事件暴露了AI安全界的内部动态与分歧",
+      "AI安全研究领域在重大事件后获得更多关注"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dab49197de83c6f7a6390772053dc618",
+    "title": "When the AI agent builds the tool instead of doing the task",
+    "url": "https://www.reddit.com/r/artificial/comments/1wird25/when_the_ai_agent_builds_the_tool_instead_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-17T11:28:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Saw an interesting case this week on a new platform a user brought repetitive parking-garage CAD drafting to a project. Instead of manually drafting each layout, an AI agent built a tool that turns design parameters and rules straight into CAD geometry.</p> <p>Deliverables: a full code repository, an AutoCAD plugin installer, and usage documentation. A designer reviewed the generated output, and the work was accepted.</p> <p>Curious if this pattern shows up else",
+    "title_zh": "当AI代理不执行任务而是构建工具时",
+    "summary_zh": "一个有趣案例显示，AI代理在面对重复性CAD绘图任务时，不是直接执行绘图，而是构建了一个将设计参数转化为CAD几何体的自动化工具，提升了交付效率。",
+    "key_points": [
+      "AI代理选择构建自动化工具而非直接执行重复任务",
+      "案例中工具能将设计参数直接转为CAD几何体",
+      "展示了AI代理处理复杂问题的策略灵活性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4644a6cc9d857fafa4225bce83b34464",
+    "title": "ICLR 2027 Edits Allowance [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wirav3/iclr_2027_edits_allowance_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-17T11:25:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Can we edit our title, abstract and other details till the main paper submission deadline?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CplusplusSupremacy\"> /u/CplusplusSupremacy </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1wirav3/iclr_2027_edits_allowance_d/\">[link]</a></span> &#32; <span><a href=\"",
+    "title_zh": "ICLR 2027编辑期允许修改吗？",
+    "summary_zh": "机器学习社区用户在Reddit提问，询问在ICLR 2027主要论文提交截止日期前，是否可以编辑论文的标题、摘要和其他详细信息。",
+    "key_points": [
+      "询问ICLR 2027会议论文投稿的修改规则",
+      "涉及标题、摘要等元数据在主截止日期前的编辑权限",
+      "反映了学术会议投稿的常见流程问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6f981ccb29e0fc4ebc0c29893bf9a518",
+    "title": "Fei-Fei Li just admitted the hard part of her own product isn't the AI. It's shipping it.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wir580/feifei_li_just_admitted_the_hard_part_of_her_own/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-17T11:16:58+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wir580/feifei_li_just_admitted_the_hard_part_of_her_own/\"> <img alt=\"Fei-Fei Li just admitted the hard part of her own product isn't the AI. It's shipping it.\" src=\"https://external-preview.redd.it/NHllZzA1c3RkMnFoMWhXrCJYYmIT9AsbjERZ9IyrOMQIyNXwnX7yBqfZIZc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca5916489e3d85de470863db8e27f7bb5f6ccf95\" title=\"Fei-Fei Li just admitted the hard part of her own product isn't the AI.",
+    "title_zh": "李飞飞坦言其产品最难的不是AI，而是交付",
+    "summary_zh": "斯坦福大学教授李飞飞承认，她所创办公司产品面临的最大挑战并非AI技术本身，而是将产品工程化、成功推向市场的“交付”过程。",
+    "key_points": [
+      "李飞飞承认产品最大挑战是工程化与交付",
+      "将AI技术转化为可靠产品比研发更难",
+      "强调了AI创业中产品化落地的重要性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
