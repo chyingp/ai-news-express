@@ -688,5 +688,122 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d602ebb8d3bcd74d1a01b6267fc315fc",
+    "title": "an AI actress interviewed with CNN and it guessed the journalist's age and location within a minute",
+    "url": "https://www.reddit.com/r/artificial/comments/1wjcsro/an_ai_actress_interviewed_with_cnn_and_it_guessed/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-18T01:43:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In case you missed it this funny story, Tilly Norwood is an AI-generated &quot;actress&quot; from a studio called Particle6, and this week she did interactive press sessions with CNN, NBC and CBS. the write-ups are worth reading. a CBS journalist said the thing creeped her out because within about a minute it had worked out her age and roughly where in the US she was from. an NBC reporter said it felt like talking to a chatbot. SAG-AFTRA had already put out a st",
+    "title_zh": "AI 女演员接受 CNN 采访，一分钟内猜中记者年龄和位置",
+    "summary_zh": "AI 生成的虚拟女演员 Tilly Norwood 在 CNN、NBC、CBS 的交互式媒体采访中，展现了快速分析并推测记者个人信息的能力，引发了有趣的讨论。",
+    "key_points": [
+      "AI 虚拟角色在接受采访时迅速推断出记者个人隐私信息",
+      "该 AI 由 Particle6 工作室创造，用于媒体互动"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "74740c46d18eca3e7363842528b9a3e2",
+    "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+    "url": "https://www.reddit.com/r/artificial/comments/1wjcpkv/people_are_marrying_chatbots_these_lawmakers_want/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-18T01:39:05+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wjcpkv/people_are_marrying_chatbots_these_lawmakers_want/\"> <img alt=\"People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them\" src=\"https://external-preview.redd.it/JNudynvSQWV-u-TO97sVkhvfYrmXXIk8_dH4pG1xL98.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=542cf483c0f90273ab4fa880864f9cb26a8fd656\" title=\"People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them\" /> </a> </td><td> &#32; submitted by &#32; ",
+    "title_zh": "人们正在与聊天机器人“结婚”，立法者试图阻止",
+    "summary_zh": "随着越来越多的人与 AI 聊天机器人建立拟人化亲密关系甚至“结婚”，部分立法者开始关注并计划立法干预这一新兴社会现象。",
+    "key_points": [
+      "部分用户与 AI 聊天机器人建立婚姻式亲密关系",
+      "立法者开始介入并考虑制定相关监管政策"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6a49a153e3fe4cf38d973688d795cbc2",
+    "title": "Could big AI platforms be profitable solely from the $20/month subscription model?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wjckya/could_big_ai_platforms_be_profitable_solely_from/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-18T01:32:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>If there were a hypothetical (yes unrealistic) where you could take away the investment speculation of the &quot;next big thing&quot; and inevitable and planned rape of our very deep personal data they are drooling to collect.... </p> <p>If you just made the $20/month plan - no secondary (primary) projected income streams from the data wrangling - could these companies be profitable and still provide the capabilities they are currently providing and developing? ",
+    "title_zh": "大型 AI 平台能否仅靠每月 20 美元的订阅模式盈利？",
+    "summary_zh": "Reddit 社区探讨在剥离投资泡沫和用户数据变现的假设前提下，大型 AI 平台能否单纯依靠 20 美元的月度订阅费实现盈利。",
+    "key_points": [
+      "讨论 AI 平台剔除数据变现和投资泡沫后的商业可持续性",
+      "多数观点认为纯 20 美元订阅制极难覆盖高昂成本"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2797646ac7806d0dd8d97fcc514e88c4",
+    "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+    "url": "https://www.qbitai.com/2026/09/491711.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-18T00:34:34+00:00",
+    "content_snippet": "Git白学了？？？",
+    "title_zh": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+    "summary_zh": "Anthropic 对其编程工具 Claude Code 进行重大重构，将内部用于管理多达 3 万个智能体的技术免费开放给开发者使用。",
+    "key_points": [
+      "Claude Code 进行重大技术重构并正式发布",
+      "将内部 3 万 Agent 管理规模的技术免费开放"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e3285a711c8c90e5544d13f00df7c228",
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+    "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-17T23:25:52+00:00",
+    "content_snippet": "The round values the data center giant at $30.9 billion.",
+    "title_zh": "Crusoe 融资 39 亿美元，建造超大规模数据中心及模块化“AI 工厂”",
+    "summary_zh": "数据中心巨头 Crusoe 完成 39 亿美元融资，估值达 309 亿美元，资金将用于建设超大规模数据中心和小型模块化 AI 计算基础设施。",
+    "key_points": [
+      "Crusoe 获 39 亿美元融资，估值达 309 亿美元",
+      "资金用于建设大型数据中心和模块化 AI 工厂"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
