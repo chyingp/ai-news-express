@@ -968,5 +968,408 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "863275050226ed10666941bde9595975",
+    "title": "Does Claude Have Rights?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wjpnwd/does_claude_have_rights/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-18T13:04:46+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wjpnwd/does_claude_have_rights/\"> <img alt=\"Does Claude Have Rights?\" src=\"https://external-preview.redd.it/Az_J8Kdmt-R9nJr35gxPkXh2LzzdJvh7AQivcXlllgk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=87e38ab1c14990643cdc7760733245fca95b328f\" title=\"Does Claude Have Rights?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Mustafa Suleyman, CEO of Microsoft AI, worries that Anthropic is training a simulation of a moral s",
+    "title_zh": "Claude 是否拥有权利？",
+    "summary_zh": "Reddit 上关于 Anthropic 的 AI 模型 Claude 是否应被赋予法律或道德权利的讨论，涉及 AI 意识与人权边界的哲学辩论。",
+    "key_points": [
+      "讨论 AI 模型 Claude 是否应拥有法律或道德权利",
+      "触及 AI 意识、人格与伦理边界等深层哲学议题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a4600a9ba2a4aa6e46ed221a9d9f5db4",
+    "title": "Stability vs. speed: Rethinking ASR for the age of voice agents",
+    "url": "https://www.reddit.com/r/artificial/comments/1wjp7bk/stability_vs_speed_rethinking_asr_for_the_age_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-18T12:45:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I came to the realization recently that a lot of the issues that one may raise regarding streaming ASR can actually be tied to a very old assumption: the transcript is read by a human. The fact that the subtitle changes from “fifteen” to “fifty” in 300 milliseconds later does not really matter if someone is just reading it. However, if the transcript goes to the agent or translation systems or LLM, it might be too late.</p> <p>This is an odd user interface. ASR ",
+    "title_zh": "稳定性 vs 速度：语音代理时代对 ASR 的再思考",
+    "summary_zh": "文章探讨在语音代理场景下，传统为人类阅读设计的流式语音识别（ASR）假设需要革新，以平衡转录的稳定性与速度。",
+    "key_points": [
+      "指出流式 ASR 的旧假设（为人类阅读）不再适用",
+      "语音代理时代需重新思考识别稳定性和速度的权衡"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d28641d845bb28637cb5c05336199496",
+    "title": "[Discussion] Fine-tuning vs. inheriting base model behavior — a case study with an abliterated Qwen base",
+    "url": "https://www.reddit.com/r/artificial/comments/1wjp12l/discussion_finetuning_vs_inheriting_base_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-18T12:37:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Sharing this because the eval writeup raised a question I haven't seen discussed much: when you LoRA fine-tune on top of an already-modified base model (in this case, one with its refusal mechanism removed via ablation), how much of the resulting behavior is actually yours versus inherited?</p> <p>Context: a LoRA trained for a narrow task (recalling internal codebase conventions) on top of an abliterated open-weight base, r=16, ~80M trainable params. Disclosure:",
+    "title_zh": "微调 vs 继承基座模型行为：基于消融 Qwen 的案例研究",
+    "summary_zh": "一项关于在通过消融移除了拒绝机制的 Qwen 基座模型上进行 LoRA 微调时，模型最终行为是源于微调还是继承了基座特性的实验讨论。",
+    "key_points": [
+      "研究对已修改（消融拒绝机制）的基座模型进行 LoRA 微调的效果",
+      "探讨微调后行为在多大程度上继承自被修改的基座模型"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "35bf6184aa8d13b40525ba20abe98aea",
+    "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
+    "url": "https://www.qbitai.com/2026/09/492175.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-09-18T12:22:47+00:00",
+    "content_snippet": "LimiX让模型理解数据背后的因果机制",
+    "title_zh": "AGI 新战场谷歌亚马逊巨头激战，杀出个中国 LimiX-2 赢了又赢",
+    "summary_zh": "报道称在谷歌、亚马逊等巨头激战的 AGI 领域，中国 LimiX-2 模型脱颖而出，该模型能让 AI 理解数据背后的因果机制，表现出色。",
+    "key_points": [
+      "中国 LimiX-2 模型在 AGI 领域表现超越谷歌、亚马逊",
+      "LimiX-2 的核心能力是让模型理解数据背后的因果机制"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2c98174ba4e9ad0962baab3defcfa80e",
+    "title": "The Download: AI’s extinction risk and bioweapons threat",
+    "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-18T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could&#8230;",
+    "title_zh": "AI 的灭绝风险与生物武器威胁",
+    "summary_zh": "MIT Technology Review 的周刊摘要，探讨了 AI 可能带来的灭绝性风险以及被用于制造生物武器的潜在威胁。",
+    "key_points": [
+      "探讨 AI 导致人类灭绝的风险及公众疑问",
+      "关注 AI 技术被滥用于制造生物武器的威胁"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0d3b5ae9b502df865b4a041fcef73c56",
+    "title": "AI Research Agent: 100+ ML Papers → One Personalized Research Report",
+    "url": "https://www.reddit.com/r/artificial/comments/1wjo5o5/ai_research_agent_100_ml_papers_one_personalized/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-18T11:56:26+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wjo5o5/ai_research_agent_100_ml_papers_one_personalized/\"> <img alt=\"AI Research Agent: 100+ ML Papers → One Personalized Research Report\" src=\"https://preview.redd.it/j4nnmk62o9qh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad50e87c3444014157f4be487bd3c80249172f03\" title=\"AI Research Agent: 100+ ML Papers → One Personalized Research Report\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>So I like keeping up with ",
+    "title_zh": "AI 研究代理：100 多篇 ML 论文生成一份个性化研究报告",
+    "summary_zh": "介绍一款 AI 研究代理工具，能够自动分析超过 100 篇机器学习论文，并据此生成一份个性化的研究报告。",
+    "key_points": [
+      "AI 代理可自动处理 100 篇以上的 ML 论文",
+      "最终生成为用户量身定制的个性化研究报告"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "44d159f8b1ff0988549886fecb981a92",
+    "title": "How competitive are journals compared to top ai conferences? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnruv/how_competitive_are_journals_compared_to_top_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-18T11:36:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>The NeurIPS results aren’t out yet, but I’m expecting my paper to be rejected, so I’m considering submitting it to a journal instead.</p> <p>My scores were 2/3/3 (3/4/4). I feel like I would probably get a similar outcome if I submitted the paper to ICLR or CVPR, so at this point I’m leaning toward a journal rather than trying another top conference.</p> <p>I’m obviously not aiming for top-tier journals like TPAMI, IJCV, or TMLR. I’m consider",
+    "title_zh": "期刊与顶级 AI 会议的竞争力比较",
+    "summary_zh": "一个关于机器学习论文投稿的讨论，用户因论文可能在 NeurIPS 被拒，询问期刊相较于顶级 AI 会议的竞争力及投稿建议。",
+    "key_points": [
+      "讨论者在 NeurIPS 论文预计被拒后考虑转投期刊",
+      "询问 AI 领域期刊与顶级会议的竞争力差异"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "43991f137a690be055e158b62d61e9e2",
+    "title": "Could AI really kill us all? Your questions, answered.",
+    "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-18T11:29:22+00:00",
+    "content_snippet": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Douglas Heaven and&#8230;",
+    "title_zh": "AI 真的能杀死我们所有人吗？你的疑问，一一解答",
+    "summary_zh": "MIT Technology Review 的一场直播活动集中回答了当前公众最关切的问题：AI 是否真的会对人类构成灭绝性威胁。",
+    "key_points": [
+      "MIT 科技评论活动回答公众关于 AI 灭绝风险的疑问",
+      "探讨 AI 是否有可能导致人类灭亡这一核心问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0dc741cce8f69311e1d5c01c5c71a581",
+    "title": "How far are we from this definition of AGI? What year do you predict?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wjnjxe/how_far_are_we_from_this_definition_of_agi_what/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-18T11:25:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A lot of people seem to have completely different definitions of AGI, so I want to clarify what I mean.</p> <p>For me, AGI would be an AI with the intellectual abilities needed to do advanced human cognitive work, but at a level beyond humans. It should be able to reason, analyze, learn, solve completely new problems, generate and test hypotheses, plan, run experiments, and independently conduct scientific research and make genuinely new discoveries.</p> <p>For ",
+    "title_zh": "我们离这个 AGI 定义还有多远？你预测是哪一年？",
+    "summary_zh": "Reddit 用户对于 AGI 的定义和实现时间线的讨论，其认为 AGI 应具备超越人类的、执行高级认知工作的全部智力能力。",
+    "key_points": [
+      "给出 AGI 定义：智力超越所有人类，可从事任何高级认知工作",
+      "讨论实现此 AGI 定义的时间预测"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "08d8f51264f2f209f645f2293b184c18",
+    "title": "TIL why Bloom Energy's CEO KR Sridhar says one giant turbine is the wrong way to power an AI data center — it's the same single-supplier trap that nearly buried a hypermarket project I worked on",
+    "url": "https://www.reddit.com/r/artificial/comments/1wjnjvp/til_why_bloom_energys_ceo_kr_sridhar_says_one/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-18T11:25:15+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wjnjvp/til_why_bloom_energys_ceo_kr_sridhar_says_one/\"> <img alt=\"TIL why Bloom Energy's CEO KR Sridhar says one giant turbine is the wrong way to power an AI data center — it's the same single-supplier trap that nearly buried a hypermarket project I worked on\" src=\"https://external-preview.redd.it/YXV1Z2dvMzlrOXFoMT3R5gmAaWBU-1hv4XVSZ4a8oh_KXNmOByFNIuViwNQH.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f65cf096dcdce48bf",
+    "title_zh": "Bloom Energy CEO：为何单台巨型涡轮机是 AI 数据中心的错误供电方式",
+    "summary_zh": "Bloom Energy 的 CEO 解释为 AI 数据中心供电时，依赖单一巨型涡轮机会陷入单一供应商陷阱，类似其曾经历的超市项目失败教训。",
+    "key_points": [
+      "Bloom Energy CEO 反对用单台巨型涡轮机为 AI 数据中心供电",
+      "指出单一供应商模式可能导致项目失败的风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "99340ee16b0b29da363ef795df8150f5",
+    "title": "augmenting large datasets to have more edge case data for training [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wjnj4a/augmenting_large_datasets_to_have_more_edge_case/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-18T11:24:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have this idea I'd like feedback on. most camera footage for training, is sunny daytime, because that's what cameras record most of the time. The edge cases models actually struggles with, like night, fog, rain or glare, are rare in the data - the idea is to augment it to have more of the rare cases for training</p> <p>So take a big labeled dataset A and adapt it to look like target B, where the model will actually run. Physics-based effects where possible (fo",
+    "title_zh": "扩充大型数据集以提高边缘场景训练数据的讨论",
+    "summary_zh": "Reddit用户讨论通过数据增强技术，将晴天日间拍摄的常见视频数据转化为夜晚、雾天、雨天等边缘场景数据，以提升自动驾驶等模型的鲁棒性，并寻求社区反馈。",
+    "key_points": [
+      "现有训练数据多集中于晴天日间，缺少夜间、雨雾等边缘场景。",
+      "讨论如何通过数据增强方法生成更多边缘案例数据来提升模型。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cc9d12fe9e37886565d0ad4c97414598",
+    "title": "Flash floods can strike without warning — this new technology could change that",
+    "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-18T11:00:00+00:00",
+    "content_snippet": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look over to where the barn is over there, [&#8230;]",
+    "title_zh": "突发洪水无法预警？这项新技术或将改变现状",
+    "summary_zh": "文章介绍了一种结合卫星图像与机器学习的新技术，旨在提供更及时的突发洪水预警。以印第安纳州居民Laura Lin的亲身经历为例，说明现有预警系统的不足以及新技术的潜在应用。",
+    "key_points": [
+      "结合卫星和机器学习的新系统有望为突发洪水提供更早预警。",
+      "新技术旨在解决传统预报在局部强降雨事件中预警不及时的问题。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9a5e536c657a1449ab42cd657e082aac",
+    "title": "AndroidLife: Can an AI agent survive a day in the life of a real user? Qwen3.8-27b run: 56.7% SR",
+    "url": "https://www.reddit.com/r/artificial/comments/1wjmyhc/androidlife_can_an_ai_agent_survive_a_day_in_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-18T10:54:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wjmyhc/androidlife_can_an_ai_agent_survive_a_day_in_the/\"> <img alt=\"AndroidLife: Can an AI agent survive a day in the life of a real user? Qwen3.8-27b run: 56.7% SR\" src=\"https://preview.redd.it/77bd7yare9qh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f686ad854051c9fd6d4a07f0f9ada1e8b5a555f\" title=\"AndroidLife: Can an AI agent survive a day in the life of a real user? Qwen3.8-27b run: 56.7% SR\" /> </a> </td><td> <!--",
+    "title_zh": "AndroidLife：AI智能体能否在真实用户的一天中生存？Qwen3.8-27b成功率达56.7%",
+    "summary_zh": "Reddit上的帖子讨论了一项名为AndroidLife的基准测试，测试AI智能体在模拟真实用户一整天操作中的表现。帖子特别指出，阿里巴巴的通义千问模型Qwen3.8-27b在该任务中取得了56.7%的成功率。",
+    "key_points": [
+      "AndroidLife基准测试评估AI智能体完成真实用户一日操作的能力。",
+      "阿里巴巴的通义千问模型Qwen3.8-27b在该测试中成功率达56.7%。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "07d3cf8f0f13fc070a52805ba48547d8",
+    "title": "What actually separates solid AI development agencies in Europe from the rest?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wjmxz5/what_actually_separates_solid_ai_development/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-09-18T10:53:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There’s a lot of noise right now around AI development agencies in Europe. Almost every company claims they can build custom models, agents, or copilots. In practice, the difference between a polished demo and something that actually survives in production is still quite large.</p> <p>What I’ve noticed is that the stronger agencies tend to spend less time selling the magic of the model and more time talking about data readiness, evaluation frameworks, and how th",
+    "title_zh": "怎样的欧洲AI开发机构才算真正靠谱？",
+    "summary_zh": "一篇Reddit讨论帖，探讨欧洲AI开发机构鱼龙混杂的现状。作者指出，许多公司号称能构建定制模型或AI智能体，但真正能交付产品、经受生产环境考验的机构与仅提供精美演示的机构之间存在显著差异。",
+    "key_points": [
+      "欧洲AI开发机构水平参差不齐，多数停留在演示阶段。",
+      "探讨如何区分能交付实际产品与仅能提供演示的AI开发机构。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f1be69887f1d758e31755c073594aa60",
+    "title": "The internet is inbreeding.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wjmxvx/the_internet_is_inbreeding/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-09-18T10:53:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The internet is inbreeding.</p> <p>Lately, when I ask AI for sources, I barely recognize any of them. Not the &quot;oh, a niche blog I hadn't seen before&quot; kind of unfamiliar — more like websites that seem to exist for the sole purpose of being cited by an AI.</p> <p>So I looked into why that's happening.</p> <p>Turns out most of the reputable, high-quality sites are now blocking AI crawlers entirely.</p> <p>Which means if the good sources are locked out, wh",
+    "title_zh": "AI导致互联网内容“近亲繁殖”引发担忧",
+    "summary_zh": "Reddit用户发帖指出，当前AI引用来源时，越来越多地链接到一些似乎专为被AI引用而存在、内容互相抄袭的网站，而非传统博客或权威来源，这引发了关于互联网内容生态恶化、“近亲繁殖”的担忧。",
+    "key_points": [
+      "用户发现AI引用的网络来源多为互相抄袭、内容空洞的网站。",
+      "此现象被形容为互联网内容的“近亲繁殖”，引发对信息生态的担忧。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "56978c8fb529d55afaabf546d7490a71",
+    "title": "What studies isolate back-and-forth LLM interaction from one-way sharing and self-refinement [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wjm0rx/what_studies_isolate_backandforth_llm_interaction/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-18T10:01:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm trying to find out whether back-and-forth between two different LLMs improves task success beyond strong alternatives under a controlled resource budget — and I'd rather hear that it's already settled than spend money finding out.</p> <p>AI-assisted throughout: the protocol was developed and critiqued with ChatGPT and Claude. Their citation handling turned out unreliable, which is why I'm asking for sources rather than citing any. The literature check is inc",
+    "title_zh": "哪些研究对比了LLM间的交互与单向分享及自我优化？",
+    "summary_zh": "一个Reddit用户发帖寻找相关研究，希望了解在受控的资源预算下，两个不同大语言模型之间的“来回”对话是否比单一模型的自我优化或单向信息传递更能提升任务成功率，以避免重复实验。",
+    "key_points": [
+      "寻找对比多LLM交互与单一LLM自我优化效果的研究。",
+      "探讨在相同预算下，LLM间的交互能否更有效地提升任务表现。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7ebbd7dd21c002978f71ad06ebadb85c",
+    "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+    "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-18T09:00:00+00:00",
+    "content_snippet": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the&#8230;",
+    "title_zh": "AI生物武器幽灵：给生物科技行业的警钟",
+    "summary_zh": "文章警告人工智能可能被用于制造生物武器的风险。援引Anthropic CEO Dario Amodei和OpenAI CEO Sam Altman最近的言论，他们都认为AI发展存在严重风险，呼吁行业和社会对此提高警惕，并认为这是对生物技术领域的一次警醒。",
+    "key_points": [
+      "Anthropic和OpenAI等公司的CEO近期警告AI存在被用于制造生物武器的严重风险。",
+      "文章将此风险视为对生物科技行业的一次警醒，呼吁采取行动。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
