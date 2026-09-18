@@ -541,5 +541,32 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "077d8f6ca8fa2cba3b89b245fa53f468",
+    "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-18T21:07:24+00:00",
+    "content_snippet": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it [&#8230;]",
+    "title_zh": "法庭文件揭示：OpenAI与微软明知其AI将网络推入“末日循环”",
+    "summary_zh": "纽约时报起诉OpenAI和微软的案件中，新解密的文件显示两家公司内部曾警告，其AI抓取数据训练模型的行为是“史上最大的劳动力盗窃”，并会引发破坏网络的“末日循环”，对出版商生态造成严重冲击。",
+    "key_points": [
+      "内部文件称AI训练为“史上最大的劳动力盗窃”",
+      "OpenAI与微软明知其行为会引发网络“末日循环”",
+      "解密的法庭文档对两家公司极为不利"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
