@@ -1209,5 +1209,97 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f48af8241edfb2073a1a3b85ada224c6",
+    "title": "AI safety conversations have gotten unbelievable",
+    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-19T15:00:00+00:00",
+    "content_snippet": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+    "title_zh": "AI 安全对话已变得令人难以置信",
+    "summary_zh": "本周两场关于 AI 安全的对话走红网络，凸显出辨别 AI 真假信息的难度与日俱增。",
+    "key_points": [
+      "两场 AI 安全对话凸显辨别真假信息难度",
+      "引发行业对 AI 信息真实性的广泛关注"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6fbca93b55081bb4b81463931c822d18",
+    "title": "What are some of the things that are coming in AI that I should be aware of.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wknpl1/what_are_some_of_the_things_that_are_coming_in_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-19T14:29:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>One of my internal systems is to try to figure out what coming and get there first. So I'm asking .... What technologies are going to create opportunities for us to have more purpose, happiness, freedom, health, buid a better legacy?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/anonymousecateer\"> /u/anonymousecateer </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href",
+    "title_zh": "未来 AI 领域有哪些即将到来的趋势值得关注？",
+    "summary_zh": "Reddit 用户发起讨论，探讨即将出现的 AI 技术将如何创造更多目标感、幸福感、自由、健康和遗产价值。",
+    "key_points": [
+      "用户探讨 AI 技术带来的未来机遇",
+      "聚焦 AI 对幸福感、健康和自由的影响"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0ac6fc9717b544ddd79ffb821a6eb8be",
+    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-19T13:00:00+00:00",
+    "content_snippet": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+    "title_zh": "获 a16z 支持的 Vals 寻求成为 AI 基准测试的黄金标准",
+    "summary_zh": "Vals AI 旨在将 AI 基准测试打造成一个更中立、更可信的资源，以应对 AI 模型不断涌现的世界。",
+    "key_points": [
+      "Vals 获 a16z 投资，打造中立 AI 基准测试",
+      "目标是成为行业可信赖的评估标准"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "21d791b7bbdb731b1a9a7abc38312f04",
+    "title": "Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wklia8/sharing_my_ml_learning_repo_numpy_to_transformers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-19T12:54:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Sharing my ML learning repo — NumPy to Transformers, 5 months, daily commits, all notebooks public. </p> <p>Covers the full stack: - Classical ML (scikit-learn, XGBoost) - Deep Learning (TensorFlow/Keras — ANN, CNN, RNN, LSTM) - Numpy &amp; Pandas - Data Visualization - NLP fundamentals - Statistics and SQL </p> <p><a href=\"http://github.com/gyr0byte/ML-Foundations\">github.com/gyr0byte/ML-Foundations</a></p> <p>Hope this is useful to someone starting their ML jo",
+    "title_zh": "分享我的机器学习学习代码库：从 NumPy 到 Transformers",
+    "summary_zh": "用户公开分享涵盖从 NumPy 到 Transformers 的全套机器学习学习笔记和代码，包含经典 ML、深度学习和数据处理。",
+    "key_points": [
+      "公开 5 个月每日提交的 ML 学习笔记",
+      "内容覆盖经典 ML、深度学习和数据处理"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
