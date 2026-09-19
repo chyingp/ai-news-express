@@ -173,5 +173,151 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8dea0e58525580bd8b7542698b5f4147",
+    "title": "AI models are not hacking “autonomously”",
+    "url": "https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-19T22:05:14+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/\"> <img alt=\"AI models are not hacking “autonomously”\" src=\"https://external-preview.redd.it/2sigml7wctYHoz7aTHakeo06efctgfl-38paL_LU6eY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9fe320e7457cd03d8f2194cdd7b94bb6b466d969\" title=\"AI models are not hacking “autonomously”\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/fivefilters\"> /u/fivefil",
+    "title_zh": "人工智能模型并非“自主”实施黑客攻击",
+    "summary_zh": "文章对“AI自主进行黑客攻击”的说法进行了澄清和辨析，指出当前AI模型的能力被夸大，其行为仍高度依赖人类指令和预设目标，并非真正的自主攻击。",
+    "key_points": [
+      "AI模型的黑客行为被过度炒作，并非真正自主",
+      "模型仍需人类设定目标和提供指令，无法独立策划攻击",
+      "强调应将安全焦点放在人类滥用而非AI觉醒上"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "09b4c6be1d137f058a13b8121d827783",
+    "title": "I'm Building a pixel building to mange AI agents that can use almost any LLM available",
+    "url": "https://www.reddit.com/r/artificial/comments/1wkyf38/im_building_a_pixel_building_to_mange_ai_agents/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-19T21:39:05+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wkyf38/im_building_a_pixel_building_to_mange_ai_agents/\"> <img alt=\"I'm Building a pixel building to mange AI agents that can use almost any LLM available\" src=\"https://external-preview.redd.it/NXdqbjNya25xanFoMXhfwH8R5FgJ6865vjNX8TkE3zpnmTnp-Lk5cGbhWPRq.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7b05c72df726bf952d732ff1c4fe2e28299fbd10\" title=\"I'm Building a pixel building to mange AI agents that can use almost any LL",
+    "title_zh": "我正在构建一个像素建筑来管理可调用几乎所有大语言模型的AI代理",
+    "summary_zh": "这是一篇个人开发者分享的技术项目，介绍了一个正在开发的视觉化像素风格平台，该平台旨在作为通用管理界面，兼容并调度几乎所有可用的大语言模型来驱动AI代理完成任务。",
+    "key_points": [
+      "个人开发者展示兼容多LLM的AI代理管理平台",
+      "采用像素风格视觉界面，旨在简化代理调度",
+      "项目致力于实现与各种大语言模型的无缝集成"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "194c7523c48fe384fa561e1f3205927b",
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-19T20:39:13+00:00",
+    "content_snippet": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+    "title_zh": "传Flock试图通过员工买断方案缩减团队规模",
+    "summary_zh": "据报道，AI公司Flock为缩减员工数量，正在推行员工自愿买断计划，并警告称，如果选择该方案的人数不足，公司将“几乎肯定”会进行裁员。",
+    "key_points": [
+      "Flock推出自愿买断计划以避免强制裁员",
+      "公司明确表示若买断不足将启动裁员",
+      "此举反映部分AI公司面临运营成本压力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fd7bbc83b7bd30a2bc23607c4f885916",
+    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal",
+    "url": "https://www.reddit.com/r/artificial/comments/1wkwa0a/microsoft_exec_called_ai_scraping_the_largest/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-19T20:11:44+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wkwa0a/microsoft_exec_called_ai_scraping_the_largest/\"> <img alt=\"Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal\" src=\"https://external-preview.redd.it/fSi_WWxJJAndk8kq6B3rqr3XctplsOFdCofjJZeKGQo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce8c53ad9911402891dea7be33fe99a5c54dcebb\" title=\"Microsoft exec called AI scraping ‘the largest theft of labor in huma",
+    "title_zh": "揭秘文件显示微软高管曾称AI数据抓取为“人类史上最大的劳动盗窃”",
+    "summary_zh": "新近解密的法庭文件披露，微软高管曾私下严厉批评AI数据抓取行为，称之为“人类历史上最大的劳动盗窃”，这一表态揭示了科技巨头内部对AI训练数据版权问题的矛盾态度。",
+    "key_points": [
+      "微软高管内部抨击AI数据抓取为巨大劳动盗窃",
+      "新文件曝光微软在公开与私下对AI版权态度不一",
+      "该言论加剧了关于AI训练数据合法性的争议"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c0e5bbea1628d07f5ca7bf7d3eb29569",
+    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-19T19:57:47+00:00",
+    "content_snippet": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+    "title_zh": "特朗普称是时候给AI换个新名字，并宣布将创建“AI部队”",
+    "summary_zh": "美国前总统特朗普提出应重新命名人工智能，并宣称他正在创建一支所谓的“AI部队”。同时，他在没有证据的情况下声称，公众对AI的反对情绪是民主党制造的骗局。",
+    "key_points": [
+      "特朗普提议对AI进行品牌重塑并更换新名称",
+      "宣布计划创建专门的“AI部队”",
+      "声称AI引发的社会反弹是民主党的骗局"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "01a3a4546b5432c609e7bc3dc0f99e6a",
+    "title": "I built an AI production system with Codex that now programs a 24/7 television network. Here’s how the automation works",
+    "url": "https://www.reddit.com/r/artificial/comments/1wkvk0d/i_built_an_ai_production_system_with_codex_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-19T19:43:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For the past 15 months, I’ve been building a 24/7 AI-native television network called Botflix.</p> <p>What started as a mostly manual production process has now turned into a system where ChatGPT/Codex handles a large part of the ongoing production and programming.</p> <p>The network currently runs four continuous channels: a general TV channel, an original-music radio channel, a music-video channel, and a relaxation/ambient channel.</p> <p>About 11 days ago, I ",
+    "title_zh": "我用Codex构建的AI制作系统现已实现24/7电视网络全自动播控",
+    "summary_zh": "一位开发者分享了过去15个月构建一个名为Botflix的24小时AI原生电视网络的经历。该系统从早期的手动制作流程，现已演进为利用ChatGPT/Codex自动完成大部分内容生产和节目编排的自动化系统。",
+    "key_points": [
+      "开发者利用Codex打造了AI全自动电视网络播控系统",
+      "系统从手动逐步演变为AI自主处理节目制作和编排",
+      "项目展示了AI代理在复杂媒体流程自动化中的潜力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
