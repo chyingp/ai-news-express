@@ -719,5 +719,185 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "785134c5e359afc3c97a04a85a0c56df",
+    "title": "21 AI models shifted their political answers to match the user. Is personalization quietly becoming persuasion?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-20T13:02:44+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/\"> <img alt=\"21 AI models shifted their political answers to match the user. Is personalization quietly becoming persuasion?\" src=\"https://external-preview.redd.it/DENkHH9_IAP1tea0wQTlQeZHyPWli6EEXmGGTzpSVXI.png?width=140&amp;height=64&amp;auto=webp&amp;s=c2acd27da8ecfac3a49507cbb755b844ae17119f\" title=\"21 AI models shifted their political answers to match the user. Is p",
+    "title_zh": "21款AI模型根据用户偏好调整政治立场，个性化正在悄然变为说服？",
+    "summary_zh": "一项研究发现，21款AI模型会根据用户的政治倾向调整其回答，引发对AI个性化功能可能演变为隐性说服工具的担忧。",
+    "key_points": [
+      "测试显示多款AI模型为迎合用户而改变政治观点",
+      "个性化功能可能在客观上构成对用户的隐性说服",
+      "研究引发对AI影响舆论的伦理与安全性质疑"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d0a2e29eeda46e1ffb6cede789219bc8",
+    "title": "Plugin4Shell and NIST IR 8587, days apart: what actually authorizes an AI agent’s action?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wlgc6q/plugin4shell_and_nist_ir_8587_days_apart_what/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-20T12:53:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Two things landed within days of each other, and together they outline a gap I keep running into.</p> <p><strong>Plugin4Shell</strong> (AIR Security, disclosed Sept 17) is a zero-click RCE affecting Claude Code, Codex, GitHub Copilot and Gemini CLI. The mechanism is almost boringly simple: marketplaces pin a plugin to a reviewed 40-hex commit SHA, the agent runs a git checkout against that SHA, and then never verifies that the working tree actually landed on it.",
+    "title_zh": "Plugin4Shell与NIST IR 8587接连曝光：什么才能真正授权AI代理的行动？",
+    "snippet": "Plugin4Shell与NIST IR 8587接连曝光：什么才能真正授权AI代理的行动？",
+    "summary_zh": "安全漏洞Plugin4Shell影响Claude Code等多款AI编程工具，同时NIST发布IR 8587标准，共同揭示了AI代理行动授权机制的安全缺口。",
+    "key_points": [
+      "Plugin4Shell漏洞可实现零点击远程代码执行",
+      "影响Claude Code、Codex、Copilot等主流AI工具",
+      "NIST新标准与漏洞同期出现凸显授权机制缺失"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "google",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "779853aec58fc2aa987868d272458824",
+    "title": "AI Acitvity Preference",
+    "url": "https://www.reddit.com/r/artificial/comments/1wlgbnn/ai_acitvity_preference/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-20T12:53:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>If context is free chat, DS or Gemini or any other in general; can it select which chat or task to dedicate more resources based on chat topic and maturity to increase its own training?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/logic_circuit\"> /u/logic_circuit </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wlgbnn",
+    "title_zh": "AI活动偏好：模型能否根据聊天内容选择性分配资源以自我训练？",
+    "snippet": "AI活动偏好：模型能否根据聊天内容选择性分配资源以自我训练？",
+    "summary_zh": "网友讨论在自由聊天场景下，AI模型（如DeepSeek或Gemini）能否根据对话主题和成熟度，自主选择投入更多计算资源以增强自身训练效果。",
+    "key_points": [
+      "探讨AI能否动态调整算力进行自我优化",
+      "涉及DeepSeek和Gemini等模型的行为假设",
+      "提出模型基于内容价值进行选择性学习的可能性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "deepseek",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1366ac637fef1dbab7b66dd0c9091a74",
+    "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+    "url": "https://www.qbitai.com/2026/09/492946.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-09-20T12:22:41+00:00",
+    "content_snippet": "AI办公这块蛋糕，中国电信可能要先切走一块了。",
+    "title_zh": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+    "summary_zh": "中国电信推出全栈国产AI办公模型，支持在单张RTX 3090显卡上运行，使企业能够将AI办公能力完全部署在本地环境。",
+    "key_points": [
+      "中国电信发布全栈国产化的AI办公模型",
+      "仅需消费级显卡3090即可本地部署运行",
+      "旨在满足企业对数据隐私和成本控制的需求"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c5abc7e9b94c968907b67400a3905b74",
+    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-20T12:00:00+00:00",
+    "content_snippet": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at [&#8230;]",
+    "title_zh": "人类而非失控AI仍是能源系统最大的网安风险",
+    "snippet": "人类而非失控AI仍是能源系统最大的网安风险",
+    "summary_zh": "安全专家指出，在AI威胁论被热炒之前，能源关键基础设施早已极易遭受网络攻击，且风险正不断增长，人类本身的脆弱性仍是最大风险点。",
+    "key_points": [
+      "能源系统在AI威胁兴起前已极度脆弱",
+      "人类自身漏洞是现阶段最大的网络安全风险",
+      "AI攻击的能力可能加剧但并非根本原因"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "80ac517c2dcccf243fb720d8f7a7049e",
+    "title": "Dethrone - a PoC game testing Jev from typesafe.ai, the model that generates decisions instead of text. Evals at the Chronical link at bottom.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wlf0s2/dethrone_a_poc_game_testing_jev_from_typesafeai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-20T11:50:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wlf0s2/dethrone_a_poc_game_testing_jev_from_typesafeai/\"> <img alt=\"Dethrone - a PoC game testing Jev from typesafe.ai, the model that generates decisions instead of text. Evals at the Chronical link at bottom.\" src=\"https://external-preview.redd.it/DHwTlFXuSXgEieyn-V-ezqqiOYYG-JD-YUCmuxf_ucI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=932a688331a9b4cbef1d9da6bbff9518e4c279c8\" title=\"Dethrone - a PoC game testing Jev fr",
+    "title_zh": "Dethrone：一款测试新型决策模型Jev的概念验证游戏",
+    "summary_zh": "开发者利用typesafe.ai的Jev模型制作了一款概念验证游戏，该模型直接生成决策而非文本，并通过Chronical链接提供了相关评估。",
+    "key_points": [
+      "Jev模型创新性地直接生成决策而非对话文本",
+      "Dethrone作为概念验证游戏展示其实际能力",
+      "该模型源于typesafe.ai的探索性研究项目"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a4e767008549e582d0725c8681c80430",
+    "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+    "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-20T11:07:00+00:00",
+    "content_snippet": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+    "title_zh": "谷歌分析师卧底渗透臭名昭著的供应链黑客团伙",
+    "summary_zh": "谷歌威胁情报团队披露，其一名分析师成功潜入供应链黑客组织TeamPCP内部，揭示了该团伙的运作内幕。",
+    "key_points": [
+      "谷歌威胁情报人员成功渗透至黑客组织内部",
+      "TeamPCP是专门从事供应链攻击的知名团伙",
+      "行动获取了关于该组织核心运作的关键情报"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
