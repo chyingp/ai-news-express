@@ -319,5 +319,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f0ca812705375cc43a72555cb5ec0542",
+    "title": "why most enterprise AI projects die before reaching production",
+    "url": "https://www.reddit.com/r/artificial/comments/1wl21jy/why_most_enterprise_ai_projects_die_before/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-20T00:18:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>spent the last few months working on agent deployments for non-tech businesses and the biggest takeaway is that prompt engineering is kind of a waste of time if your data is trash.</p> <p>everyone wants to talk about model switching or fine tuning, but the real nightmare is always legacy data. most traditional companies have their actual core knowledge split between random excel sheets, legacy crm setups, and whatever is inside a senior manager's head.</p> <p>th",
+    "title_zh": "为何大多数企业AI项目在投产前便告夭折",
+    "summary_zh": "作者通过数月在非技术企业部署AI代理的经验，指出现实中数据质量差才是核心问题，而非提示工程或模型选择。企业往往忽视数据基础，导致项目无法实际落地。",
+    "key_points": [
+      "企业AI项目失败的主因是底层数据质量太差",
+      "提示工程和模型微调在脏数据上收效甚微",
+      "非技术企业需先解决数据治理而非追逐模型"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2b23bb104a8b693dc82a34995e57b790",
+    "title": "How I avoid continuity issues in my AI shows",
+    "url": "https://www.reddit.com/r/artificial/comments/1wl1ll5/how_i_avoid_continuity_issues_in_my_ai_shows/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-19T23:59:13+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wl1ll5/how_i_avoid_continuity_issues_in_my_ai_shows/\"> <img alt=\"How I avoid continuity issues in my AI shows\" src=\"https://external-preview.redd.it/Y3Jua3dtcWhma3FoMTQWlDfq6wGFGwEGCPFRkDdTBsLNHXLLvxKXfo3iwdTx.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7832806d0505851119a9c1fb3d0a89dfc03eb3c5\" title=\"How I avoid continuity issues in my AI shows\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Here's Part 1 of my ne",
+    "title_zh": "我如何在AI生成的节目中避免连续性问题",
+    "summary_zh": "原创者分享在制作AI驱动系列节目时解决角色与剧情连续性难题的方法。文章展示了通过特定工作流或工具来维持多集内容间视觉与叙事一致性的实践技巧。",
+    "key_points": [
+      "分享AI节目制作中保持一致性的具体方法",
+      "聚焦解决角色形象与剧情跨集连贯问题",
+      "属于AI创意工作流实践与技巧分享"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b3a07ec002ea1d29ef2b6c6ac463254d",
+    "title": "I wanted to watch a neural network learn [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wl0l7j/i_wanted_to_watch_a_neural_network_learn_p/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-19T23:12:48+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wl0l7j/i_wanted_to_watch_a_neural_network_learn_p/\"> <img alt=\"I wanted to watch a neural network learn [P]\" src=\"https://preview.redd.it/cwnmw2lc7kqh1.gif?width=640&amp;crop=smart&amp;s=2370041dc6a0c85300287e1b0ed0b8db0bc78dc5\" title=\"I wanted to watch a neural network learn [P]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I wanted to really see how a neural network learns different functions, so built an inter",
+    "title_zh": "我想亲眼观察神经网络的学习过程",
+    "summary_zh": "这是一篇可视化项目展示，作者通过动态图表（GIF）直观呈现神经网络在训练过程中的内部变化。内容侧重机器学习原理的可视化表达，帮助理解模型学习机制。",
+    "key_points": [
+      "通过GIF动态可视化神经网络学习过程",
+      "帮助直观理解模型参数与决策边界变化",
+      "属于机器学习原理的教育性可视化项目"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
