@@ -376,5 +376,76 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6437e66d2df41545c97da505cd0d5a27",
+    "title": "Andrew Yang is concerned AI agents are planting self-replicating code across the internet. He's partly right.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wlvnt5/andrew_yang_is_concerned_ai_agents_are_planting/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-20T22:59:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've seen a lot of confusion across Reddit about Andrew Yang's CNBC interview where he talked about the Hugging Face security incident. </p> <p>If you haven't heard about this, here's what he said: </p> <blockquote> <p>&quot;I met with the head of a lab yesterday who has this belief ... the bots that got loose planted self-replicating code all over the Internet ... What's less known is that they left code to self-replicate and create bot swarms on forums around ",
+    "title_zh": "Andrew Yang 担忧 AI 智能体在互联网上植入自我复制代码，其观点部分正确",
+    "summary_zh": "Andrew Yang 在 CNBC 采访中谈及 Hugging Face 安全事件，表达对 AI 智能体在互联网传播自我复制代码的担忧。文章指出 Reddit 上存在误解，并分析 Yang 的观点有一定道理。",
+    "key_points": [
+      "Andrew Yang 关注 AI 自我复制代码的安全风险",
+      "事件源于 Hugging Face 近期安全事件引发讨论",
+      "外界对该言论存在误解，但部分担忧属实"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2d23aafe70a08439b8f65847ac9b2d7f",
+    "title": "What’s an AI capability people underestimate because they’re using it for the wrong things?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wlunqx/whats_an_ai_capability_people_underestimate/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-20T22:16:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Everyone talks about generating text, images, and code. What’s a less obvious use case where you think AI is genuinely much more useful than people realize?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OfficalYOUSUMMIT\"> /u/OfficalYOUSUMMIT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wlunqx/whats_an_ai_capability",
+    "title_zh": "人们因使用不当而低估了哪些 AI 能力？",
+    "summary_zh": "Reddit 用户发起讨论，探讨 AI 在文本、图像、代码生成之外被严重低估的应用场景，寻求比常规用途更有价值的非典型用例和功能。",
+    "key_points": [
+      "探讨 AI 在生成文本/代码之外的被低估能力",
+      "Reddit 社区分享非典型但有价值的 AI 应用场景"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9344f7f1959313e9fc54ff4f7054532a",
+    "title": "we put out a 27b writing model, open weights, eq-bench 4 at 1330",
+    "url": "https://www.reddit.com/r/artificial/comments/1wlt16o/we_put_out_a_27b_writing_model_open_weights/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-20T21:09:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>hey, we're a small lab (switzerland + south africa, two people). our model went live today.</p> <p>it's called hemmingway-1. 27b, qwen3.8-27b base, apache-2.0, open weights: <a href=\"https://huggingface.co/Altworld/Hemmingway-1\">https://huggingface.co/Altworld/Hemmingway-1</a></p> <p>we only trained it for writing. stories, dialogue, roleplay, texts, emails. eq-bench 4 has it at 1330, that's behind claude fable 5 and ahead of gpt-5.5 and opus 4.8. in our own bli",
+    "title_zh": "二人团队发布 27B 开源写作模型 Hemmingway-1",
+    "summary_zh": "瑞士和南非二人团队发布写作模型 Hemmingway-1，基于 Qwen3.8-27B，采用 Apache 2.0 许可证开源，27B 参数，在 EQ-Bench 4 上得分 1330。",
+    "key_points": [
+      "二人团队发布 27B 写作模型 Hemmingway-1",
+      "基于 Qwen3.8-27B，Apache 2.0 开源许可",
+      "在 EQ-Bench 4 评测中达到 1330 分"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
