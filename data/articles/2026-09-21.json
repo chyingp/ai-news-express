@@ -1,0 +1,118 @@
+[
+  {
+    "id": "286777b3cf7cd4a4565f4c7117e197d8",
+    "title": "Project AI Clouds",
+    "url": "https://www.reddit.com/r/artificial/comments/1wlmxzk/project_ai_clouds/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-20T17:20:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I started with a simple question: <strong>Can an AI look at clouds and tell us what it sees?</strong></p> <p>This started a journey where I gave different AI models the same image of clouds, asked them what they saw, and then kept changing the prompt to explicitly tell them <em>not</em> to think like a human.</p> <p>It turned into a small thought experiment about AI, perception, training data, and whether a model trained on human knowledge can ever really interp",
+    "title_zh": "AI 观云项目：当人工智能看到云彩时会发生什么？",
+    "summary_zh": "作者分享了一个个人实验项目，使用不同AI模型分析同一张云朵图片，并通过修改提示词探索模型的视觉解读能力。这是一个关于AI视觉理解和创造力的趣味探索。",
+    "key_points": [
+      "作者通过让不同AI模型解读云朵图片来测试其视觉能力",
+      "实验通过修改提示词（prompt）来深入探索AI的联想和解读"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "86be4d98b5d939959f4708e06587a495",
+    "title": "How is your experience with ICLR LLM Feedback? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wllbz0/how_is_your_experience_with_iclr_llm_feedback_d/",
+    "source": "Reddit",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-20T16:19:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Besides the ridiculous number of submissions, interesting to hear your experience with it.<br /> For me it had 1-2 valid points, and 3 pages of nitpicking.<br /> I have the time, so I can address both types of issues, but wonder if that’s your experience as well.</p> <p>Overall, I think it is an interesting initiative, and eventually it did improve my paper in some sense.<br /> BTW - is the review remains public for all to see? If so, I’d appreciate a warning ne",
+    "title_zh": "你使用ICLR LLM论文评审反馈的体验如何？",
+    "summary_zh": "Reddit社区讨论ICLR会议引入的LLM论文评审反馈机制，用户反映其虽有1-2个有效建议，但大部分反馈是长达3页的吹毛求疵，引发了对AI评审质量的思考。",
+    "key_points": [
+      "ICLR会议使用大语言模型（LLM）提供论文评审反馈",
+      "用户评价其反馈冗长，多为无意义的挑剔，仅有少量有效观点"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7029e21611976150415737de1abb60c1",
+    "title": "Zero-shot Neural Style Transfer (NST) App [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wll52g/zeroshot_neural_style_transfer_nst_app_p/",
+    "source": "Reddit",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-20T16:11:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone! I spent the last 6 days (today included) developing and deploying a zero-shot nueral style transfer (NST) application using AdaIN (Huang and Belongie, 2017). Feeling kinda proud of it :) if y'all would like to give it a spin you can find it at <a href=\"https://www.stylyze.app\">stylyze.app</a>. Just a heads-up, I have it using some pretty strict rate limiting, so it likely won't let a lot of people through at once.</p> </div><!-- SC_ON --> &#32; subm",
+    "title_zh": "零样本神经风格迁移（NST）应用发布",
+    "summary_zh": "一位开发者耗时6天开发并部署了一款基于AdaIN算法的零样本神经风格迁移应用，可将艺术风格实时应用于任意图片，并在社区分享作品寻求反馈。",
+    "key_points": [
+      "开发者利用AdaIN算法构建了一个实时神经风格迁移应用",
+      "该应用支持零样本学习，无需针对特定风格重新训练模型"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aa2195a3b8aa46f78f64c25749e7b976",
+    "title": "How can I make NLP ai ?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wlks2r/how_can_i_make_nlp_ai/",
+    "source": "Reddit",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-20T15:57:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So I have a project and i have to do an NLP that I feed him the context with the response and he train on it, my goal is to make an ai NLP that understand questions well and respond to the questions with the information in there data base. I have one to two days left any one can help me ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Cool_boy__2012\"> /u/Cool_boy__2012 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/",
+    "title_zh": "如何快速构建一个NLP问答AI？",
+    "summary_zh": "一位用户在项目截止前两天求助，希望了解如何构建一个能根据特定数据库回答问题的NLP AI模型，面临时间紧迫与任务艰巨的矛盾。",
+    "key_points": [
+      "用户需在1-2天内用特定数据训练一个能理解并回答问题的NLP模型",
+      "技术目标是将上下文与响应配对进行训练，构建知识库问答系统"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0053101fd2577e989c4864cef4ad4053",
+    "title": "Trump now says he wants to form an ‘AI Force’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+    "source": "TheVerge",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-20T15:39:22+00:00",
+    "content_snippet": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He posted that his administration \"will not in any way hinder [&#8230;]",
+    "title_zh": "特朗普称希望组建“AI部队”并任命AI沙皇",
+    "summary_zh": "美国总统特朗普在Truth Social发文，宣布计划设立“AI沙皇”职位并组建“AI部队”，并表示不会阻碍行业发展。此举发生在朝野和行业内部对AI发展减速呼声渐高之际。",
+    "key_points": [
+      "特朗普计划任命“AI沙皇”并组建“AI部队”以加强AI发展",
+      "此声明是在社会各界呼吁放缓AI发展速度的背景下提出的",
+      "特朗普明确表示不会阻碍AI行业的进步"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
