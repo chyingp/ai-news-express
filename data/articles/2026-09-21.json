@@ -471,5 +471,28 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "17b076ed1d11400ff554e3fcfe640acc",
+    "title": "AI CAN be incredible for learning",
+    "url": "https://www.reddit.com/r/artificial/comments/1wlzydy/ai_can_be_incredible_for_learning/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-21T02:13:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've seen a lot of hate that LLMs will always reduce people's ability to for themselves, which I think isn't true. You can use LLMs to learn extremely effectively, but the hard part is avoiding the thousands of ways to learn extremely ineffectively.</p> <p>I've been using LLMs to find gaps in my knowledge by asking me questions about my notes, and it's been working very well. It's not something a YouTube video can emulate because it's completely personalized to ",
+    "title_zh": "AI 可以成为强大的学习工具",
+    "summary_zh": "Reddit 用户发帖讨论，认为尽管外界批评大语言模型会削弱人们的学习能力，但只要规避低效的使用方式，LLMs 可以成为极其高效的学习工具。",
+    "key_points": [
+      "LLMs 既能成为高效学习工具，也可能导致低效学习",
+      "关键在于使用者如何规避无效的学习方式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
