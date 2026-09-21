@@ -525,5 +525,255 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "64b9f3c8af56bfa0951f95779a1f1534",
+    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-21T22:24:38+00:00",
+    "content_snippet": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+    "title_zh": "Meta的AI助手Muse存在严重零日漏洞，易遭劫持",
+    "summary_zh": "安全研究发现Meta全新AI代理Muse存在严重零日漏洞，攻击者可通过ClickFix等简单方式完全控制该高权限助手，构成重大安全风险。",
+    "key_points": [
+      "Muse具有极高系统权限，存在严重零日漏洞",
+      "利用ClickFix等简单攻击手法即可完全劫持",
+      "漏洞可能引发大规模数据泄露或恶意操控"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b98ce848e0de2a8e57514bedcc15139b",
+    "title": "Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat",
+    "url": "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-21T21:07:05+00:00",
+    "content_snippet": "Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.",
+    "title_zh": "军事里程碑：乌克兰无人艇首次击沉俄罗斯自杀式无人船",
+    "summary_zh": "乌克兰海军无人艇在黑海成功击沉一艘俄罗斯自杀式无人船，标志着无人海战进入新阶段。此事件发生于双方持续攻击黑海港口与船只的背景下。",
+    "key_points": [
+      "乌克兰无人艇首次在实战中击沉敌方无人船",
+      "标志无人系统在海上对抗领域实现新突破",
+      "俄乌在黑海的港口与船只持续遭受攻击"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "370b6c630bf6143f0bf352045481f948",
+    "title": "The US government opens the door to working with voice AI platforms",
+    "url": "https://www.reddit.com/r/artificial/comments/1wmonje/the_us_government_opens_the_door_to_working_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-21T20:36:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The US government appears to have officially authorized its first dedicated voice AI vendor for agency use, listing them under the new 'FedRAMP 20x' automation framework. Federal phone lines and citizen support have always been bottlenecked by massive compliance and security rules, so seeing conversational voice tech finally clear the threshold for federal deployment is a pretty massive shift for public infrastructure.</p> </div><!-- SC_ON --> &#32; submitted by",
+    "title_zh": "美国政府向语音AI平台敞开合作大门",
+    "summary_zh": "美国政府首次授权专用语音AI供应商，将其列入'FedRAMP 20x'自动化框架，此举有望打破联邦机构电话与公民服务长期面临的合规与处理瓶颈。",
+    "key_points": [
+      "美国首次官方授权专用语音AI供应商服务政府机构",
+      "该供应商被纳入新的'FedRAMP 20x'自动化框架",
+      "政策旨在解决联邦电话服务与公民支持的效率瓶颈"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "83547d403e173182297fddc3555f61b1",
+    "title": "California tightens rules on AI data center energy and water use",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-21T20:29:45+00:00",
+    "content_snippet": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to [&#8230;]",
+    "title_zh": "加州收紧AI数据中心能源与用水监管规定",
+    "summary_zh": "加州州长纽森签署七项法案，旨在防止AI数据中心将公用事业成本转嫁给居民，并要求制定新的费率等级，加强对数据中心能源与水资源消耗的管控。",
+    "key_points": [
+      "加州签署七项新法案，限制AI数据中心成本转嫁",
+      "要求公用事业委员会为数据中心设立新电费等级",
+      "立法聚焦数据中心日益增长的能源与用水影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c06d2cf00824b1aebfd60207cb7bbf46",
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-21T20:15:58+00:00",
+    "content_snippet": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+    "title_zh": "OpenAI组建数学顾问组，其AI已解决上百道开放难题",
+    "summary_zh": "OpenAI宣布成立数学顾问组，但其主要功能并非监督或调整公司现有数学研究方向，而是配合其AI系统已解决超过100个开放数学问题的进展。",
+    "key_points": [
+      "OpenAI的AI系统已成功解决超过100个公开数学难题",
+      "新成立的数学顾问组无权干预现有研究方向",
+      "此举或为加速AI在基础科学领域的突破"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9f2390abca70743b5dc90269f21bc58e",
+    "title": "Hi3D launches an AI agent for 3D creation",
+    "url": "https://www.reddit.com/r/artificial/comments/1wmn7z1/hi3d_launches_an_ai_agent_for_3d_creation/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-21T19:45:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi3D announced Hi3D Agent on September 21. The product combines a large language model with Hi3D's 3D tools for geometry, textures, mesh work, and model refinement. The company says the agent also includes reusable skills for tasks such as optimization, animation, and turning high-poly models into playable demos.</p> <p>The official product page shows a Windows client and describes one workflow for generating, revising, and finishing a model. The useful product ",
+    "title_zh": "Hi3D推出3D内容创作AI代理",
+    "summary_zh": "Hi3D公司于9月21日发布Hi3D Agent，该产品结合大语言模型与自有3D工具，可实现几何、纹理、网格处理及模型优化、动画生成等开发任务。",
+    "key_points": [
+      "Hi3D Agent整合大模型与3D工具，实现智能创作",
+      "具备几何、纹理处理及模型优化等可复用技能",
+      "产品于9月21日正式发布，面向3D内容开发者"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ff898217ce6f248f8d0a88d6458ffcde",
+    "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-21T19:44:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I wanted to share a project I’ve been working on called <strong>Jayce</strong>.</p> <p>The whole thing started because I was watching a toddler named learn the names of stuff He didn't need to completely rewire his brain or look at ten thousand examples to figure a word out—he just needed a few specific examples and quick corrections from his parents.</p> <p>It got me thinking about local LLMs. Right now, dealing with catastrophic forgetting",
+    "title_zh": "开发者构建无框架学习器，让本地LLM即时修正事实",
+    "summary_zh": "一位开发者创建了名为Jayce的无框架学习器原型，允许本地大语言模型即时学习和纠正事实，其速度比传统反向传播方法快1.6至4倍。",
+    "key_points": [
+      "Jayce学习器支持本地LLM即时学习与事实修正",
+      "学习速度较传统反向传播方法快1.6至4倍",
+      "项目受幼儿学习方式启发，无需框架支持"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7268ff37efa3b8f38efad7c6e4c3144c",
+    "title": "Benchmarks Grok 4.7, GPT 6 Astra Fable 4.1 and DeepSeek V4.1 Flash",
+    "url": "https://www.reddit.com/r/artificial/comments/1wmmpmx/benchmarks_grok_47_gpt_6_astra_fable_41_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-21T19:26:20+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wmmpmx/benchmarks_grok_47_gpt_6_astra_fable_41_and/\"> <img alt=\"Benchmarks Grok 4.7, GPT 6 Astra Fable 4.1 and DeepSeek V4.1 Flash\" src=\"https://preview.redd.it/dkmp7pnucxqh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=93d24f3a5d21ff437b2f377ca22072e6144f27f0\" title=\"Benchmarks Grok 4.7, GPT 6 Astra Fable 4.1 and DeepSeek V4.1 Flash\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Benchmarks for the latest models, t",
+    "title_zh": "多家顶尖AI模型基准测试成绩曝光：Grok 4.7等上榜",
+    "summary_zh": "一份泄露的基准测试图表展示了Grok 4.7、GPT 6 Astra、Fable 4.1及DeepSeek V4.1 Flash等前沿模型的性能对比，引发社区对下一代模型能力的讨论。",
+    "key_points": [
+      "泄露图对比Grok 4.7与GPT 6 Astra等多个模型",
+      "涉及xAI、OpenAI与DeepSeek等厂商的下一代模型",
+      "测试成绩显示顶尖模型间的性能差距正在缩小"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai",
+      "openai",
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "285c3f889238df4e6e274764e8c4f77d",
+    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-21T19:19:21+00:00",
+    "content_snippet": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+    "title_zh": "Meta的Muse移动端发布用户增速超越早期ChatGPT",
+    "summary_zh": "据Appfigures估计，Meta推出的AI代理Muse在美加地区的下载量与日活跃用户增长，已超过ChatGPT移动版同期发布的表现。",
+    "key_points": [
+      "Muse在美加地区的下载量和日活用户超过ChatGPT同期水平",
+      "数据来自Appfigures的移动应用增长估算",
+      "显示Meta在AI助手市场的强势竞争力"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1646c89274e0d5a73fed7789a3377f71",
+    "title": "Built a personal AI that lives on the desktop instead of another chat tab. What actually changed?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wmm749/built_a_personal_ai_that_lives_on_the_desktop/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-21T19:07:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>LYKN is a personal AI native desktop. It gives you access to 260+ models and connects to 1500+ tools all from your desktop. You can sync your mac to it and let LYKN run your computer just by talking to it.</p> <p>I built it mainly because I was tired of paying for multiple subscriptions to access different models and so here is a way to access open source, closed source, and diffusion models from one spot.</p> <p>The ai native desktop makes work life WAY easier.",
+    "title_zh": "开发者打造桌面端个人AI，取代聊天标签页",
+    "summary_zh": "开发者创建了LYKN桌面AI，集成260多种模型和1500多种工具，可语音控制电脑，旨在替代多个聊天标签页，解决订阅费用与上下文同步问题。",
+    "key_points": [
+      "LYKN集成260+模型与1500+工具，支持语音操控电脑",
+      "可同步Mac并直接通过语音指令执行操作",
+      "项目旨在替代浏览器中的多个AI聊天标签页"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
