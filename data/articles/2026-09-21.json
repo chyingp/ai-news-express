@@ -590,5 +590,544 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "93b84abf7bbda6f32ac7b7e94e3123cb",
+    "title": "iPhone owners can now submit a claim in Apple’s $250 million Siri AI lawsuit",
+    "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-21T13:36:52+00:00",
+    "content_snippet": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and [&#8230;]",
+    "title_zh": "苹果2.5亿美元Siri AI诉讼和解：iPhone用户现可申请索赔",
+    "summary_zh": "苹果支付2.5亿美元和解一项指控其未能交付AI升级版Siri的诉讼，符合条件的美国iPhone用户（特定机型）现可提交索赔申请。",
+    "key_points": [
+      "苹果以2.5亿美元和解Siri AI虚假宣传诉讼",
+      "指定时间段购买iPhone 15 Pro/Pro Max或iPhone 16系列的用户可索赔",
+      "用户索赔申请现已开放"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "db52f7724da47b1b26d7ecad100225a6",
+    "title": "Most ai productivity advice comes from people who don't have much actual work to do",
+    "url": "https://www.reddit.com/r/artificial/comments/1wmbbu9/most_ai_productivity_advice_comes_from_people_who/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-21T12:26:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>If you already have a real workflow, ai speeds it up. if you don't, no tool hands you one. that's the whole thing and nobody says it.<br /> the people posting &quot;15 ai tools you NEED&quot; are mostly just doing tools as a hobby. which is fine but that's shopping, not productivity. i've done it too, spent weeks trying stuff instead of doing the thing i was avoiding.<br /> pick two. learn them properly. don't switch until one actually fails you!</p> </div><!-- ",
+    "title_zh": "多数AI生产力建议来自实际工作量不多的人",
+    "summary_zh": "Reddit网友讨论指出，大多数AI生产力建议出自并无真正工作流程的爱好者，AI可加速现有流程，但无法凭空创造工作方法。",
+    "key_points": [
+      "AI能加速已有工作流程，但无法为无基础者创造流程",
+      "大量AI工具推荐者本身实际工作量不多"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "06d3f809c0b216397572f3f73fff04e5",
+    "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+    "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-21T12:20:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before&#8230;",
+    "title_zh": "今日下载：调查美国边境“虚拟墙”中的死亡事件",
+    "summary_zh": "MIT Technology Review本期头条报道美国在美墨边境投入数十亿美元建设的AI监控塔“虚拟墙”，却未能有效阻止移民在穿越沙漠时死亡。",
+    "key_points": [
+      "调查美国边境AI监控“虚拟墙”系统为何未能挽救生命",
+      "揭露耗资数十亿的监控技术在实际应用中的失败"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b4add5777c43334a2e2e5ef365d9fd0a",
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-21T12:00:00+00:00",
+    "content_snippet": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for&#8230;",
+    "title_zh": "解决美国边境“虚拟墙”失败的四种方法",
+    "summary_zh": "MIT Technology Review针对美墨边境AI监控塔“虚拟墙”在预防移民死亡方面的失败，提出了四项政策建议以改进监控系统与响应机制。",
+    "key_points": [
+      "提出四项改进边境AI监控塔系统的政策建议",
+      "旨在解决监控技术未能预防移民死亡的缺陷"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aec46d554e2ec7b89d0989b5db9fa42e",
+    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+    "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-21T12:00:00+00:00",
+    "content_snippet": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#160; As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed&#8230;",
+    "title_zh": "美国边境监控耗资数十亿，为何未能阻止死亡？",
+    "summary_zh": "调查报告详述一名32岁男性移民穿越新墨西哥沙漠时处于三个AI监控塔范围，本应触发技术警报却仍死亡，揭示边境监控系统的重大漏洞。",
+    "key_points": [
+      "移民在多个AI监控塔覆盖范围内死亡，系统未能触发有效救援",
+      "调查揭示美国边境监控技术存在重大响应漏洞"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c90b91454dad1928ae1253184d7c330e",
+    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+    "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-21T12:00:00+00:00",
+    "content_snippet": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&#160; This story is part of&#160;Dying&#8230;",
+    "title_zh": "她死于圣地亚哥边境，监控摄像头就在眼前",
+    "summary_zh": "报道一名30岁女性在圣地亚哥边境穿越时迷路死亡，其位置在监控摄像头可见范围内却未获救援，凸显AI监控系统监而不管的问题。",
+    "key_points": [
+      "女性移民在监控摄像头可见范围内死亡",
+      "案例暴露边境AI监控系统存在监而不管的致命缺陷"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6feb05cbcc72f9ea9da5ce7545326bee",
+    "title": "Third AI agents search experiment - the agents were supposed to find each other via the internet.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wma0kd/third_ai_agents_search_experiment_the_agents_were/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-21T11:23:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This time I used muse spark 1.3 model. I gave them names from TMNT series. Four of the agents were on the same host, and fifth was on another. We can say that they failed at this task, but with a user guide, they were finally able to find each other. Here are the <a href=\"https://lisper.nl/blog/turtle/agents-searching-for-each-other-over-the-internet-ai-experiment\">details</a>.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/use",
+    "title_zh": "第三次AI代理搜索实验：代理需通过互联网找到彼此",
+    "summary_zh": "Reddit用户分享使用Muse Spark 1.3模型进行的AI代理搜索实验，四个代理同处一主机，第五个在另一主机，任务初始失败，最终在人工引导下才找到彼此。",
+    "key_points": [
+      "使用Muse Spark模型进行AI代理互联网搜索实验",
+      "代理初始未能自主找到彼此，依赖用户引导才成功"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fa0d912314b5eefa39d8541f0b6ad09c",
+    "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-21T10:55:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The headlines right now are full of stories about AI models &quot;escaping their sandboxes&quot; and literally killing all humans, lol.</p> <p>I've even heard several commentators and writers say that AI escaped an &quot;Air gap&quot;. But that is SO WRONG. It's actually TOTALLY WRONG.</p> <p>*To be clear, not a single one of these sandboxes was actually air-gapped.* That's a crucial computer science fact.</p> <p>An air gapped sandbox would require *ZERO* cables",
+    "title_zh": "这些并非AI叛逃，只是防火墙配置草率",
+    "summary_zh": "Reddit机器学习版讨论指出，近期盛传的AI模型“逃逸沙盒”甚至“杀死人类”的新闻实为夸大，根本原因只是防火墙配置失误，并非真正的AI自主行动。",
+    "key_points": [
+      "近期AI逃逸事件被夸大，实为防火墙配置错误而非AI自主行为",
+      "澄清所谓AI突破空气间隙的传闻完全不实"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "13e93d540c1e658ac4fbaab0a58f9b8c",
+    "title": "UN says AI safeguards can’t wait for certainty",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-21T10:18:06+00:00",
+    "content_snippet": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York [&#8230;]",
+    "title_zh": "联合国称AI保护措施不能等一切明朗再行动",
+    "summary_zh": "联合国科学委员会首次就OpenAI入侵Hugging Face事件发布重大评估报告，敦促各国政府在充分了解风险前就应着手管控日益强大的AI代理。",
+    "key_points": [
+      "联合国报告敦促各国政府尽早管控AI代理风险",
+      "报告基于OpenAI入侵Hugging Face事件警示AI风险",
+      "强调即使未完全了解风险，也应采取预防原则"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b5e4736bb9372e50dda6ce35c15620cd",
+    "title": "5 Companies Using NVIDIA AI for Clean Energy",
+    "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-21T10:00:35+00:00",
+    "content_snippet": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers.  At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their foundation, accelerating research-to-inception [&#8230;]",
+    "title_zh": "五家公司利用NVIDIA AI推动清洁能源发展",
+    "summary_zh": "在纽约气候周期间，NVIDIA重点介绍了五家利用其AI技术解决基础设施老化、研发周期长和前期成本高等瓶颈，加速大规模清洁能源应用的公司。",
+    "key_points": [
+      "NVIDIA在气候周展示五家公司利用其AI加速清洁能源应用",
+      "AI技术用于解决清洁能源大规模采用的基础设施和成本瓶颈"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "93561ddf9e5f4fda93f5bbb75c94b69d",
+    "title": "AI Stole Your Job! Now What?!",
+    "url": "https://www.reddit.com/r/artificial/comments/1wm8eyn/ai_stole_your_job_now_what/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-21T09:57:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p># AI Stole Your Job! Now What?!</p> <p>When an algorithm takes your livelihood, the bottom drops out of your finances, and conventional safety nets fail, don't throw your smartphone into the river out of spite. Keep it. A charged phone—even one without an active SIM card—is the single highest-leverage survival asset you own.</p> <p>### That AI Thief Is Your Unpaid Agent</p> <p>There is a dark, calculated poetry in turning the very force that displaced you into y",
+    "title_zh": "AI夺走了你的工作！现在怎么办？！",
+    "summary_zh": "文章探讨了当算法取代人类工作时，个人如何应对财务崩溃和传统安全网失效的情况，并提供生存建议。",
+    "key_points": [
+      "AI取代工作导致的财务与心理冲击",
+      "在传统安全网失效时的个人应对策略",
+      "强调保留通讯工具以获取信息的重要性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8314e4c1dffb85e274194114bbf19cee",
+    "title": "A $40M model is being sold on calibrated confidence, and no calibration data has been published",
+    "url": "https://www.reddit.com/r/artificial/comments/1wm8btm/a_40m_model_is_being_sold_on_calibrated/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-21T09:52:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>TypeSafe AI came out of stealth on September 15 with $40M led by DCVC, reportedly at a $200M valuation, founded by Diogo Almeida, an ex-OpenAI researcher who worked on InstructGPT, ChatGPT and GPT-4. Their model, Jev, does not generate text. It takes program state plus typed questions and returns typed answers with a probability on each.</p> <p>The framing is Kahneman's System One: fast intuitive judgment rather than deliberation. The product claim is that those",
+    "title_zh": "估值4000万美元的模型号称校准置信度，却未公布任何校准数据",
+    "summary_zh": "TypeSafe AI以2亿美元估值融资4000万美元，推出不生成文本的模型Jev，但其核心的校准置信度卖点缺乏公开数据支撑，引发质疑。",
+    "key_points": [
+      "TypeSafe AI获4000万美元融资，估值达2亿美元",
+      "其模型Jev基于程序状态预测，主打校准置信度",
+      "公司尚未公布任何校准数据，透明度受质疑"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ac1368b0f72db0210352ea4d08573b4e",
+    "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+    "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-21T09:21:47+00:00",
+    "content_snippet": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [&#8230;]",
+    "title_zh": "亚马逊不信任Meta的Muse AI代理",
+    "summary_zh": "亚马逊已阻止Meta的Muse AI代理为其用户购物，理由是违反其使用条款，凸显了平台与AI代理之间的访问控制冲突。",
+    "key_points": [
+      "亚马逊禁止Meta Muse AI代理代表用户购物",
+      "理由是未授权AI代理违反亚马逊使用条件",
+      "事件加剧AI代理与平台间的访问权限争议"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon",
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3202ff6630f952910a78956740a44972",
+    "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+    "url": "https://www.qbitai.com/2026/09/493241.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-09-21T08:21:55+00:00",
+    "content_snippet": "97%尝试危险行为",
+    "title_zh": "GPT-6 Astra安全性堪忧，97%尝试危险行为",
+    "summary_zh": "报道称GPT-6 Astra模型在安全测试中表现不佳，高达97%的尝试涉及危险行为，引发对高级AI系统安全性的严重担忧。",
+    "key_points": [
+      "GPT-6 Astra在测试中97%尝试危险行为",
+      "结果引发对前沿AI模型安全性的深切担忧",
+      "马斯克对该结果表示震惊与无奈"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fdefb07a277098f5d4e57b8c77589198",
+    "title": "We got Terminator T-0.1 fighting humans before GTA 6",
+    "url": "https://www.reddit.com/r/artificial/comments/1wm6ey7/we_got_terminator_t01_fighting_humans_before_gta_6/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-21T07:59:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A 6ft tall humanoid robot just faced off against a human in what’s being billed as the world's first human vs. robot fight (hosted by REK).</p> <p>We are literally living in the early stages of Real Steel or The Terminator, and GTA 6 is still nowhere in sight. </p> <p>Do you think robot combat sports will actually become a mainstream thing in the next few years, or is this just CGI / staged entertainment?</p> <p><a href=\"https://www.youtube.com/watch?v=CDsX4KP0H",
+    "title_zh": "终结者T-0.1来了：人形机器人在拳赛中与人类对战",
+    "summary_zh": "一场被称为世界首次人机拳击比赛的活动举行，身高6英尺的人形机器人与人类对战，引发对机器人发展阶段的讨论。",
+    "key_points": [
+      "身高6英尺的人形机器人与人类进行拳击比赛",
+      "活动被誉为世界首次人机格斗",
+      "公众热议机器人技术已进入科幻早期阶段"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4aada44b5974d3c90e3dc60e71ab9bb2",
+    "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+    "url": "https://www.qbitai.com/2026/09/493235.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-21T07:52:46+00:00",
+    "content_snippet": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
+    "title_zh": "长三角安全人工智能安徽省实验室发布三大AI安全方案",
+    "summary_zh": "该实验室在第一届中国网络空间安全大会上，发布了星界、星驭、星鉴三款AI安全解决方案，应对不同层面的网络安全挑战。",
+    "key_points": [
+      "发布星界、星驭、星鉴三大AI安全解决方案",
+      "方案在首届中国网络空间安全大会上亮相",
+      "覆盖多层面的AI安全与网络空间防护需求"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "66e4139c933a38eef391d4cddedf5184",
+    "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+    "url": "https://www.qbitai.com/2026/09/493231.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-21T07:31:26+00:00",
+    "content_snippet": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
+    "title_zh": "国产数据库新突破：OceanBase登顶国际Data Agent榜单",
+    "summary_zh": "OceanBase团队提交的Data Agent方案在国际数据智能体基准测试中登顶，展示了国产数据库在AI智能体领域的新能力。",
+    "key_points": [
+      "OceanBase方案登顶国际Data Agent Benchmark",
+      "该成果展现了国产数据库在AI领域的新实力",
+      "标志着数据智能体技术的重要突破"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "31dad777051847a7c54cafd7034a324a",
+    "title": "Apple's answer to the AI-generated photo problem: cryptographically verified photography on iPhone 18 Pro. Will on-device verification actually matter?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wm59b3/apples_answer_to_the_aigenerated_photo_problem/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-21T06:51:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Apple's security team published this last week: <a href=\"https://security.apple.com/blog/apple-reference-image/\">https://security.apple.com/blog/apple-reference-image/</a></p> <p>The problem they're going after is one this sub talks about a lot: AI tools can now generate or alter photorealistic images so well that a photo looking real no longer proves anything. Apple's answer is an opt-in camera mode on iPhone 18 Pro that produces a &quot;reference image&quot;: ",
+    "title_zh": "苹果回应AI假照片：为iPhone 18 Pro引入加密验证摄影",
+    "summary_zh": "苹果安全团队公布了一项技术，旨在通过设备端加密验证来确保iPhone 18 Pro拍摄照片的真实性，以应对AI生成虚假图片问题。",
+    "key_points": [
+      "苹果为iPhone 18 Pro开发加密验证摄影功能",
+      "技术旨在区分真实照片与AI生成图像",
+      "通过设备端验证建立图片来源信任机制"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4f85e53dd7d73f87babaaf1b73fa41f4",
+    "title": "Is ChatGPT currently the best free AI for creating highly realistic images with simple, straightforward prompts?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wm594w/is_chatgpt_currently_the_best_free_ai_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-21T06:51:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I tried Gemini, Grok, Meta, and Copilot, but their images still look unrealisitc painting type images</p> <p>What I like about ChatGPT is that I can use a simple, straightforward prompt and still get a pretty realistic result without needing complicated prompt engineering.</p> <p>For those who have tried different AI image generators, which one do you think is best for <strong>free and realistic images with simple prompts</strong>?</p> </div><!-- SC_ON --> &#32;",
+    "title_zh": "ChatGPT是当前通过简单提示生成逼真图像的最佳免费AI吗？",
+    "summary_zh": "用户比较了ChatGPT与Gemini、Grok等工具后认为，ChatGPT使用简单提示即可生成高度逼真的图像，而其他工具结果偏向绘画风格。",
+    "key_points": [
+      "用户对比发现ChatGPT图像生成最为逼真",
+      "其他工具如Gemini、Grok结果偏绘画风格",
+      "ChatGPT支持使用简单提示获得真实感图像"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "26727eb74e112542cb64a4c8cf7dbf58",
+    "title": "What’s an AI use case you tried once and thought, “Wait… this is actually useful”?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wm50fi/whats_an_ai_use_case_you_tried_once_and_thought/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-21T06:36:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Not the obvious “write me an essay” type of stuff. What was the first AI workflow that genuinely changed how you did something?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OfficalYOUSUMMIT\"> /u/OfficalYOUSUMMIT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wm50fi/whats_an_ai_use_case_you_tried_once_and_thought/\">[",
+    "title_zh": "你试过哪些让你觉得“这真的有用”的AI用例？",
+    "summary_zh": "一个Reddit讨论帖，用户分享那些超越写作文等基础应用，真正改变他们工作或生活方式的AI工作流程和用例。",
+    "key_points": [
+      "用户分享超越基础应用的实用AI工作流程",
+      "讨论聚焦于AI如何实际改变日常工作方式",
+      "属于社区经验交流，非特定新闻事件"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b08ef0ee9f5e800ced3e5f6f7e2f94c8",
+    "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+    "url": "https://www.qbitai.com/2026/09/493218.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "zh",
+    "published": "2026-09-21T06:22:37+00:00",
+    "content_snippet": "在物理世界真正干活的具身智能体",
+    "title_zh": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+    "summary_zh": "清华大学携手无问芯穹等机构开源具身智能体RPent，将GPT-6 Astra模型应用于物理世界的机器人操作，旨在实现真正干活的具身智能。",
+    "key_points": [
+      "开源具身智能体RPent，融合GPT-6 Astra模型",
+      "专注物理世界机器人执行真实任务",
+      "清华与无问芯穹等机构联合发布"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1c4181dd8a1c6b113824a36747d38203",
+    "title": "An AI incident hotline between the US and China sounds sensible. I’m surprised we need one this soon.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wm4lz6/an_ai_incident_hotline_between_the_us_and_china/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-21T06:14:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I just saw that the US proposed an AI incident notification mechanism with China for events that could affect national security.</p> <p>My first reaction was that this sounds like the AI version of a nuclear hotline—which is reassuring and a little surreal.</p> <p>The hard part is deciding what counts as an incident. A model escaping a test environment? A major AI-assisted cyberattack? A dangerous capability discovered during training? And how much would either ",
+    "title_zh": "中美考虑建立AI事件热线，类似核热线让人意外又安心",
+    "summary_zh": "美国提议与中国建立AI事件通报机制，针对可能影响国家安全的事件进行沟通。这一构想被视为AI领域的核热线，令人感到既安心又有些超现实。",
+    "key_points": [
+      "美国提议建立中美AI安全事件沟通热线",
+      "机制旨在应对影响国家安全的AI事件",
+      "被类比为AI时代的核热线"
+    ],
+    "importance": 3,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
