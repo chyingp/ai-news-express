@@ -447,5 +447,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ecd6e6fff442656b5d02a8f7ed252ba6",
+    "title": "AI can generate board game variants but keeps missing pacing",
+    "url": "https://www.reddit.com/r/artificial/comments/1wlxog9/ai_can_generate_board_game_variants_but_keeps/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-21T00:27:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been spending more time lately turning our favorite board game mechanics into quick prototypes using whatever AI tools I can get running on a laptop. The idea is simple enough: take a ruleset we already know, feed it into a model, and see if it spits out a playable variation before the kids go to bed. It rarely works cleanly. Sometimes the model invents a scoring system that breaks the entire loop, other times it just copies the original game with new names",
+    "title_zh": "AI 可生成桌游变体，却在节奏把控上屡屡失手",
+    "summary_zh": "用户尝试利用本地 AI 工具将已知桌游规则转化为原型，发现 AI 能够生成游戏变体，但经常在游戏节奏、平衡性等关键设计上出现偏差，难以直接产出可玩的成品。",
+    "key_points": [
+      "AI 可基于现有规则生成桌游变体原型",
+      "生成的变体在游戏节奏和平衡性上存在明显缺陷",
+      "当前技术难以直接产出可玩的完整桌游设计"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
