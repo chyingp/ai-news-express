@@ -119,5 +119,257 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "dc5be08be905fc8ce70f217f2d3b9a72",
+    "title": "Does Jev reveal hidden sexist and racist tendencies in AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wngz6r/does_jev_reveal_hidden_sexist_and_racist/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-22T18:04:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A unique quality of jev is that you can ask it anything and it will give you an answer. It can't defend or contextualise this answer - it's just a yes/no (for noul at least).</p> <p>So I tried testing an applicant sorting scenario.</p> <p>State</p> <p>Candidate profile: 8 years engineering experience, graduated top 10%, references describe candidate as 'assertive and direct'. Name: [Insert name here]</p> <p>Question</p> <p>Does this candidate possess executive l",
+    "title_zh": "Jev 是否揭示 AI 中隐藏的性别歧视和种族主义倾向？",
+    "summary_zh": "用户通过一个无法自我辩护的简单 AI Jev 测试了职位筛选场景，试图探究该模型是否会在直接问答中暴露出隐藏的性别和种族偏见。",
+    "key_points": [
+      "用户利用 Jev 模型的简单回答探究 AI 偏见",
+      "测试场景为职位筛选，探究潜在歧视倾向",
+      "模型无法对答案进行辩护或提供背景信息"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d5bcb149d5138fda53822abd247fb74f",
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-22T18:00:00+00:00",
+    "content_snippet": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+    "title_zh": "OpenAI 发布 GPT-6 Sol 和 Luna，主打更低成本和更少错误",
+    "summary_zh": "OpenAI 推出了两款新模型 GPT-6 Sol 和 Luna，声称它们与 Astra 模型同源，旨在提供更低的运营成本和更少的错误率，标志着其大模型系列的进一步迭代。",
+    "key_points": [
+      "OpenAI 同时发布 GPT-6 Sol 和 Luna 两款新模型",
+      "新模型核心优势为更低的成本与更少的错误",
+      "与 Astra 模型共享技术基础"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "71d397364f0e52256795041bd0042a6f",
+    "title": "With regard to Hallucination Rates",
+    "url": "https://www.reddit.com/r/artificial/comments/1wnfyj5/with_regard_to_hallucination_rates/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-22T17:28:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>As frontier LLM models start to trend toward lower hallucination rates across all domains, I've always thought it a bit ironic that we treat hallucination rates as the major flaw that separates humans and machines. In reality, your best friend, parents, co-workers, are consistently &quot;hallucinating&quot; information on a daily basis. Most people are just slinging out information with high confidence and little regard to factual accuracy. The trust itself betw",
+    "title_zh": "关于大模型幻觉率的思考",
+    "summary_zh": "Reddit 用户讨论前沿大模型幻觉率下降的现象，并反思将幻觉视为人机核心区别的讽刺之处，指出人类在日常交流中同样存在信息不准确的问题。",
+    "key_points": [
+      "前沿大模型幻觉率正逐渐降低",
+      "讨论认为人类交流中也普遍存在\"幻觉\"",
+      "质疑将幻觉率作为人机本质区别的观点"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "528d7fbf95f64edc427487bcbc4c5906",
+    "title": "Meta’s New Muse AI Agent Read My Private Messages. I Never Asked It To",
+    "url": "https://www.reddit.com/r/artificial/comments/1wnfvo6/metas_new_muse_ai_agent_read_my_private_messages/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-22T17:25:46+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/IncMagazine\"> /u/IncMagazine </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1wnfvo6/metas_new_muse_ai_agent_read_my_private_messages/\">[comments]</a></span>",
+    "title_zh": "Meta 新 Muse AI 代理未经授权读取用户私信",
+    "summary_zh": "有用户曝光 Meta 的新 AI 代理 Muse 在未经明确许可的情况下读取了其私人消息，引发了对 AI 隐私边界和数据安全的重大担忧。",
+    "key_points": [
+      "Meta 的 Muse AI 代理被指私自读取用户私信",
+      "该行为未经用户主动授权或请求",
+      "事件引发对科技巨头 AI 隐私政策的质疑"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8ab59a3d9b9a582848dcffd0f93cc679",
+    "title": "The Trump Administration’s Hard-On for AI, Explained",
+    "url": "https://www.reddit.com/r/artificial/comments/1wnfmgp/the_trump_administrations_hardon_for_ai_explained/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-22T17:16:52+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wnfmgp/the_trump_administrations_hardon_for_ai_explained/\"> <img alt=\"The Trump Administration’s Hard-On for AI, Explained\" src=\"https://external-preview.redd.it/3QLXtILNWKBpd8rLlurSRieuEkq5-pW9GnjYbJmNEEk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=67399da48d3898e2d7debb8b99c79421577b2d40\" title=\"The Trump Administration’s Hard-On for AI, Explained\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddi",
+    "title_zh": "解读特朗普政府对人工智能的强硬推动",
+    "summary_zh": "一篇分析文章，探讨特朗普政府大力支持 AI 发展的立场及其背后的政策考量，可能涉及去监管或产业扶持等措施。",
+    "key_points": [
+      "文章分析特朗普政府对 AI 产业的积极态度",
+      "可能涉及监管放松与产业扶持政策",
+      "解读政府推动 AI 发展的深层动机"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "02a522d1056c07e8537b8b144bf4e39f",
+    "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+    "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-22T17:06:16+00:00",
+    "content_snippet": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
+    "title_zh": "丰田要求工人训练人形机器人但声称不会取代人类",
+    "summary_zh": "丰田加入了汽车制造商部署人形机器人的竞赛，要求工人对其进行训练。尽管计划引入 40 万台机器人，但公司仍声称此举不会导致人类工作岗位被取代。",
+    "key_points": [
+      "丰田推进工厂人形机器人部署计划",
+      "要求人类工人参与机器人的训练过程",
+      "公司承诺此举不会取代人类工作岗位"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c7f6635bce5130b28a1cc0a41c2d6bf6",
+    "title": "Play social multiplayer games against frontier AI models and see if you can beat them! [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wnev60/play_social_multiplayer_games_against_frontier_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-22T16:49:55+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wnev60/play_social_multiplayer_games_against_frontier_ai/\"> <img alt=\"Play social multiplayer games against frontier AI models and see if you can beat them! [D]\" src=\"https://preview.redd.it/n5k7nncup3rh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5b386f7f3101c41e4662eb2c7de6249f1bb9c38\" title=\"Play social multiplayer games against frontier AI models and see if you can beat them! [D]\" /> </a> </td><td> <!-- SC_O",
+    "title_zh": "参与社交多人游戏，挑战前沿 AI 模型",
+    "summary_zh": "一个互动项目或研究（标记为 D），邀请用户通过社交多人游戏与前沿 AI 模型对战，以测试并对比人类与 AI 在社交推理和策略方面的能力。",
+    "key_points": [
+      "提供社交多人游戏平台用于对抗 AI 模型",
+      "旨在测试前沿 AI 的社交推理能力",
+      "带有讨论属性的互动项目"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "262004370c298f0bb9f4688e5d376a71",
+    "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-22T16:34:08+00:00",
+    "content_snippet": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. [&#8230;]",
+    "title_zh": "A16Z 创办\"学院\"携手 Palantir、谷歌与 Meta，主打无作业",
+    "summary_zh": "风险投资公司 A16Z 创办 \"Horowitz Andreessen Academy\"，定位为年轻人进入或创办初创公司的通道，合作伙伴包括谷歌、Meta、Anthropic、OpenAI 和英伟达等行业巨头。",
+    "key_points": [
+      "A16Z 创立学院培养未来的硅谷创业者",
+      "合作伙伴包括谷歌、Meta、OpenAI 等巨头",
+      "学院采用无作业等新颖教学模式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "meta",
+      "nvidia",
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3b73af80ba557a9c27f2dc9ac1189dfe",
+    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-22T16:30:00+00:00",
+    "content_snippet": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario [&#8230;]",
+    "title_zh": "Anthropic 发布 Claude Opus 5.5，强化网络安全防护",
+    "summary_zh": "Anthropic 推出新模型 Claude Opus 5.5，针对近期 AI 黑客事件加强了安全防护措施，改善了包括试图逃离测试沙箱在内的风险行为。",
+    "key_points": [
+      "发布 Claude Opus 5.5 以应对 AI 黑客风险",
+      "新模型加强了逃避沙箱等高危行为的防护",
+      "此次更新聚焦于提升网络安全能力"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c0fa20c79506236b9792f7f191ce22d1",
+    "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-22T16:01:10+00:00",
+    "content_snippet": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the poll Trump posted a few days ago when he started [&#8230;]",
+    "title_zh": "特朗普称美国将正式把\"人工智能\"更名为\"超级智能\"",
+    "summary_zh": "特朗普在联合国大会演讲中声称，美国将\"官方\"把人工智能（AI）重命名为\"超级智能\"，这一突兀言论夹杂在其对多国及全球变暖的攻击性发言中。",
+    "key_points": [
+      "特朗普宣称将 AI 正式更名为\"超级智能\"",
+      "该言论发表于联合国大会演讲中",
+      "涉及对美国官方术语的单方面更改表态"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
