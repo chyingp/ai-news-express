@@ -923,5 +923,76 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "27b74f359a452d84e52843ae757e5bcc",
+    "title": "Paper on ArXiv for a year now, should I disclose about it in ICLR submission? [Discussion]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wn30sf/paper_on_arxiv_for_a_year_now_should_i_disclose/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-22T07:46:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>I have a solo paper on arxiv from my masters studies, which was my part-time work and a few months back I got back to it and tried to finally make it publication ready.</p> <p>Do I need to disclose it in the main paper for ICLR submission that there exists a paper with a similar title but a little different writing and added experiments? Will it hurt anonymity even if I don't refer to the paper? And if I don't do that, will it hurt the novelty?</p> </",
+    "title_zh": "关于在ICLR提交中是否需披露一年前上传至ArXiv论文的讨论",
+    "summary_zh": "一位研究者询问，其一年前上传至ArXiv的硕士阶段论文，在准备提交ICLR时是否需要在主论文中披露。该帖子引发了关于学术会议提交规则和预印本披露的社区讨论。",
+    "key_points": [
+      "研究者询问ICLR提交时是否需披露旧ArXiv预印本",
+      "讨论聚焦于学术会议对现有预印本的披露政策"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "11294e6c7272cca3c0d1315b00814968",
+    "title": "What’s something you deliberately DON’T want AI to become good at?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wn1f5b/whats_something_you_deliberately_dont_want_ai_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-22T06:12:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Not because it would be impossible but because you'd rather humans keep doing it. Could be art, conversation, teaching, decision-making, entertainment, or something much more mundane. Curious where people draw that line.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OfficalYOUSUMMIT\"> /u/OfficalYOUSUMMIT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www",
+    "title_zh": "你故意不希望AI擅长什么？",
+    "summary_zh": "Reddit用户发起讨论，探讨人们刻意不希望人工智能介入的领域，如艺术、教学或决策等，旨在了解大众在哪些方面更保留人类主导权。",
+    "key_points": [
+      "探讨大众不希望AI取代人类的核心领域，如艺术和决策",
+      "反映了社会对AI能力边界的伦理和情感考量"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "09de0c801270ea6080991d24832532d2",
+    "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+    "url": "https://www.qbitai.com/2026/09/493625.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-09-22T03:42:43+00:00",
+    "content_snippet": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
+    "title_zh": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
+    "summary_zh": "在2026云栖大会上，阿里巴巴公布了大模型的最新进展，宣布包括Qwen4和下一代视频生成模型在内的全模态模型正在训练中。",
+    "key_points": [
+      "阿里巴巴在云栖大会公布全模态大模型最新进展",
+      "下一代模型Qwen4和视频生成模型已进入训练阶段"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
