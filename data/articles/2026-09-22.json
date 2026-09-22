@@ -896,5 +896,32 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "cadca19b457cfd5c52fcd405c1b13414",
+    "title": "Amazon Blocks Meta’s Muse AI Agent From Amazon.com Shopping After Meta Rejects Removal Request",
+    "url": "https://www.reddit.com/r/artificial/comments/1wmxpow/amazon_blocks_metas_muse_ai_agent_from_amazoncom/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-22T02:58:59+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wmxpow/amazon_blocks_metas_muse_ai_agent_from_amazoncom/\"> <img alt=\"Amazon Blocks Meta’s Muse AI Agent From Amazon.com Shopping After Meta Rejects Removal Request\" src=\"https://external-preview.redd.it/vvGnXflgrRyog7cDdThmhvYkMFiPbiUQOWHzfK62_dU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=edc32b52983d660367c4725dd9d1034f369ec7c0\" title=\"Amazon Blocks Meta’s Muse AI Agent From Amazon.com Shopping After Meta Rejects Rem",
+    "title_zh": "亚马逊阻止Meta的Muse AI代理访问其购物网站",
+    "summary_zh": "由于Meta拒绝移除其Muse AI购物代理，亚马逊主动封锁了该代理对Amazon.com的访问。此举标志着科技巨头在AI代理爬取电商数据方面的对抗升级。",
+    "key_points": [
+      "Meta拒绝回应亚马逊的移除要求",
+      "亚马逊主动封锁Muse AI代理访问",
+      "事件反映AI代理与内容平台的控制权之争"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon",
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
