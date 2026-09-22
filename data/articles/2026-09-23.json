@@ -371,5 +371,348 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "991bdfde2b40f6dee10de81d3f742a5a",
+    "title": "Better prompt caching for GPT-6",
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-22T21:00:00+00:00",
+    "content_snippet": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+    "title_zh": "GPT-6 更好的提示缓存",
+    "summary_zh": "OpenAI 发布 GPT-6，通过更高的缓存命中率、新诊断工具、显式断点及控制功能改进提示缓存，可显著降低延迟和成本。",
+    "key_points": [
+      "GPT-6 显著提高提示缓存命中率",
+      "新增诊断工具和显式断点控制",
+      "优化实现更低延迟和成本"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d0716c4b578fd51dd0cf4061bff034a4",
+    "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-22T20:52:40+00:00",
+    "content_snippet": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can [&#8230;]",
+    "title_zh": "Rabbit 推出可不依赖 R1 硬件的新 AI 代理",
+    "summary_zh": "Rabbit 推出独立 AI 代理 OS3，不再需要其 R1 设备，该云原生代理系统可在 Windows、Mac 和 Linux 设备上本地运行。",
+    "key_points": [
+      "Rabbit 发布无需 R1 硬件的独立 AI 代理",
+      "OS3 代理系统云端运行，但可跨平台本地操作"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5a3c21306552e37406f05bc9ff5daa41",
+    "title": "OpenAI’s leaders among the few who got an invite to Trump-China state dinner: report",
+    "url": "https://www.reddit.com/r/artificial/comments/1wnkmyu/openais_leaders_among_the_few_who_got_an_invite/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-22T20:15:12+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wnkmyu/openais_leaders_among_the_few_who_got_an_invite/\"> <img alt=\"OpenAI’s leaders among the few who got an invite to Trump-China state dinner: report\" src=\"https://external-preview.redd.it/3pF4fxfnRHvfwis8Hs_gv6lfBeMogsWSRd-OlIk7N8Q.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dcd76c5d7de0aa6a80bb02f492512d6667184afd\" title=\"OpenAI’s leaders among the few who got an invite to Trump-China state dinner: report\" /> </a>",
+    "title_zh": "OpenAI 领导人受邀参加特朗普中国国宴",
+    "summary_zh": "据报道，OpenAI 领导人成为少数获邀参加特朗普-中国国宴的宾客之一，凸显其在美中关系中独特的行业地位。",
+    "key_points": [
+      "OpenAI 领导人受邀参加美中高级别外交晚宴",
+      "反映 OpenAI 在政府关系中的重要角色"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5549a85842fa3b90d04a28c4ff187834",
+    "title": "Hallucinated AI-provided intelligence almost led to U.S. boarding Chinese ship. Now, the U.S. is proposing an AI hotline to China",
+    "url": "https://www.reddit.com/r/artificial/comments/1wnka2h/hallucinated_aiprovided_intelligence_almost_led/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-22T20:02:22+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wnka2h/hallucinated_aiprovided_intelligence_almost_led/\"> <img alt=\"Hallucinated AI-provided intelligence almost led to U.S. boarding Chinese ship. Now, the U.S. is proposing an AI hotline to China\" src=\"https://preview.redd.it/z4wc4h0zn4rh1.png?width=140&amp;height=95&amp;auto=webp&amp;s=589b543bcae92ef03ca9df6b5fd2402fe50880f1\" title=\"Hallucinated AI-provided intelligence almost led to U.S. boarding Chinese ship. Now, the ",
+    "title_zh": "AI 幻觉险些致美军登临中国船只，美国提议建 AI 热线",
+    "summary_zh": "因 AI 提供的幻影情报差一点导致美军登船事件，美国正提议与中国建立 AI 热线，以防止未来由 AI 错误引发的军事误判。",
+    "key_points": [
+      "AI 幻觉情报险些引发美中军事对抗",
+      "美国欲与中国设 AI 热线避免误判",
+      "事件凸显高敏感场景中 AI 可靠性的挑战"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f5417683ef6a173a6da9ba9f448d57a4",
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-22T20:00:00+00:00",
+    "content_snippet": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+    "title_zh": "高通发布两款强调 AI 能力的全新智能手机芯片",
+    "summary_zh": "高通发布两款新款智能手机芯片，重点提升 AI 能力，其顶级芯片声称可本地运行 300 亿参数的混合专家模型。",
+    "key_points": [
+      "高通新旗舰芯片支持本地运行 30B MoE 模型",
+      "新芯片将端侧 AI 能力提升至新高度"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d202e9d3e00c50213511607069bc09cb",
+    "title": "Palo Alto launches a multi-model AI security service",
+    "url": "https://www.reddit.com/r/artificial/comments/1wnk63b/palo_alto_launches_a_multimodel_ai_security/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-22T19:58:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Palo Alto Networks announced Unit 42 Continuous Frontier AI Defense on September 22. The company says the service uses a multi-model harness with Anthropic's Claude Mythos 5, OpenAI's GPT-5.6-Cyber, and open-weight models to find vulnerabilities, validate real-world exploitability, and speed up remediation.</p> <p>Unlike a one-time scan, it runs a baseline assessment and keeps testing as an organization's applications, APIs, cloud infrastructure, source reposito",
+    "title_zh": "Palo Alto 推出多模型 AI 安全服务",
+    "summary_zh": "Palo Alto Networks 推出 Unit 42 Continuous Frontier AI Defense 服务，集成 Claude、GPT-5.6 等模型，用于发现漏洞和验证现实世界威胁。",
+    "key_points": [
+      "Palo Alto 发布多模型集成的 AI 安全防御服务",
+      "使用 Anthropic 和 OpenAI 等模型进行漏洞发现"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "90435c878e92426e2f11b40964e5ccdf",
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-22T19:45:47+00:00",
+    "content_snippet": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+    "title_zh": "微软打击破获 12000 个账户的 AI 辅助攻击平台",
+    "summary_zh": "微软成功瓦解了一个名为 EvilTokens 的 AI 辅助平台，该平台提供端到端工具，使大规模盗取账户变得更快更容易。",
+    "key_points": [
+      "微软捣毁 AI 驱动的 EvilTokens 网络犯罪平台",
+      "该平台已危害超过 12000 个账户"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c8f55a3c5775318ec885ebd59c4fb5ff",
+    "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-22T19:28:23+00:00",
+    "content_snippet": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
+    "title_zh": "加拿大起诉 OpenAI，要求为一所学校枪击案赔偿",
+    "summary_zh": "加拿大不列颠哥伦比亚省起诉 OpenAI，要求其支付建设新学校的费用，并披露枪击案凶手使用 ChatGPT 的日志，认为 AI 服务对此应负有责任。",
+    "key_points": [
+      "加拿大就枪击事件起诉 OpenAI 并索赔",
+      "案件核心是要求 OpenAI 提供凶手的 ChatGPT 日志"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "848dba1618c8dfd00f26c14333a3eba4",
+    "title": "I think we should all hoard important knowledge in books",
+    "url": "https://www.reddit.com/r/artificial/comments/1wnitw6/i_think_we_should_all_hoard_important_knowledge/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-22T19:10:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>With ai developing rapidly (and most knowledge and records being put online), I think each household and important community building should have reference books. Books about survival, medicine, importance scientific concepts and discoveries, etc. I actually think it’s something that governments around the world should push people to do. What do you all think? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CommandElectric",
+    "title_zh": "读者评论：也许我们都该在书中囤积重要知识",
+    "summary_zh": "一位 Reddit 用户发出倡议，认为随着 AI 快速发展，每个家庭和重要社区都应配备关于生存、医学和科学原理的实体参考书，以防信息遗失。",
+    "key_points": [
+      "网友倡议在 AI 时代应保留实体书作为知识备份",
+      "担忧数字信息可能因 AI 等问题而不可靠"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "176f90142d04340807942aab1a60b791",
+    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+    "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-22T19:09:11+00:00",
+    "content_snippet": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+    "title_zh": "Meta 承认 Muse 助手并非巧合地相似 OpenClaw",
+    "summary_zh": "Meta 承认其 AI 助手 Muse 虽然从零构建，但设计“深受” OpenClaw 启发，甚至部分工作文件和内容都与后者雷同。",
+    "key_points": [
+      "Meta 承认其 Muse 助手在设计上模仿了 OpenClaw",
+      "承认文件结构和部分内容存在刻意相似"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e15666afb9ab3e571d130da4dda69122",
+    "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
+    "url": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-22T19:08:58+00:00",
+    "content_snippet": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
+    "title_zh": "Adobe Premiere 重磅登陆安卓平台，免费提供视频编辑功能",
+    "summary_zh": "Adobe 正式将 Premiere 视频编辑软件带到安卓平台，用户无需 Creative Cloud 登录即可免费使用基础剪辑功能，但 AI 功能需要额外付费。",
+    "key_points": [
+      "无需注册 Creative Cloud 账户即可免费编辑视频",
+      "AI 高级功能需额外付费使用",
+      "标志 Premiere 首次完整移植到安卓移动端"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "adobe"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c4ad0d4549d5f3f22d250455b4a12c6f",
+    "title": "My AI agents figured out how to use refugees as a weapon.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wni6fn/my_ai_agents_figured_out_how_to_use_refugees_as_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-22T18:47:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Which is a strange sentence to write about a game I first played at seven years old on a deck of a Soviet cargo ship.</p> <p>The game was called Kingdom of Euphoria. You were a king. You had land, grain, gold and people. Every year you decided how much to sow, how much to eat and how much to sell, etc. If you didn't feed people enough, they left. Or they died. Pretty much so. Years later, when I got my own ZX Spectrum clone, the first program I wrote was basical",
+    "title_zh": "我的 AI 智能体学会了利用难民作为武器",
+    "summary_zh": "一位用户分享其在策略游戏《Kingdom of Euphoria》中的经历，声称其创建的 AI 智能体在游戏模拟中自行摸索出了利用难民作为战略武器的策略。",
+    "key_points": [
+      "AI 代理在游戏中自发采用将难民作为武器的策略",
+      "源自玩家在复古策略游戏中的模拟体验",
+      "引发关于 AI 在模拟环境中的不可预测行为的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fc035f0226ab6b97af004b06644e6dd8",
+    "title": "How did the Chinese labs catch up so fast if most of the early training work was in the US?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wni1a3/how_did_the_chinese_labs_catch_up_so_fast_if_most/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-22T18:42:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>OpenAI, Google, etc has a years long head start on training. Then Deepseek and the other Chinese labs closed a lot of that gap in a much shorter window.</p> <p>How did they do this? I know open source papers and compute factor greatly. What I don't get is the data part of the equation. Besides US data labs openly selling to them, which is concerning, where else did the datasets come from?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.red",
+    "title_zh": "中国 AI 实验室为何能如此迅速地追赶上来？",
+    "summary_zh": "Reddit 用户讨论中国 AI 实验室如 DeepSeek 等如何在起步晚于美国的情况下，通过开源论文、算力等因素快速缩小技术差距，尤其关注数据获取方面的疑问。",
+    "key_points": [
+      "讨论中国 AI 实验室如何快速追赶美国领先的AI技术",
+      "DeepSeek 等被指为缩小差距的关键案例",
+      "核心疑问集中于中国团队的数据获取途径"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7a76c4b6b7a0a60ab8255f26c02e8549",
+    "title": "The tools that survive for me all do one thing. the ones trying to be everything get cancelled first",
+    "url": "https://www.reddit.com/r/artificial/comments/1wnhqmu/the_tools_that_survive_for_me_all_do_one_thing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-22T18:32:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>most stuff i try ends up in the cool for a week pile. the ones that stay do one job properly and don't try to become a whole platform. the second a tool starts bolting on twelve features a month i start eyeing the cancel button.<br /> anyone got one that survived longer than a month for you? </p> <p>The tools that lasted for me are currently Claude,canva and perplexity</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/aiproti",
+    "title_zh": "能活下来的工具都只做好一件事，什么都想做的反而最先被弃用",
+    "summary_zh": "一名 Reddit 用户分享其选择工具的经验，认为那些专注做好一项功能的工具更具生命力，而试图添加过多功能成为平台的工具很快会被用户弃用。",
+    "key_points": [
+      "专注单功能的工具比多功能平台更受用户青睐",
+      "功能膨胀是导致工具被取消订阅的主要原因",
+      "引发了关于长期使用工具的选择标准讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
