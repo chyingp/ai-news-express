@@ -931,5 +931,197 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c109be53b0933d8194af8f6c3dd8885d",
+    "title": "GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了",
+    "url": "https://www.qbitai.com/2026/09/496170.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-23T05:01:24+00:00",
+    "content_snippet": "下半场开始了",
+    "title_zh": "GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了",
+    "summary_zh": "3D生成技术迎来新竞争格局，GPT-6和Astra的发布推动行业进入下半场，底层技术和产品形态正在发生根本性变化。",
+    "key_points": [
+      "GPT-6与Astra的3D生成能力引发广泛关注",
+      "3D生成领域的竞争规则和底层逻辑正在被重塑"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "59992d2bd154d68cbabfbca297c7674a",
+    "title": "Claude Opus 5.5突袭！68万行代码一天迁完，API价格打8折",
+    "url": "https://www.qbitai.com/2026/09/496221.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-09-23T04:59:29+00:00",
+    "content_snippet": "缓存读取价砍了60%",
+    "title_zh": "Claude Opus 5.5突袭发布：一天迁移68万行代码，API价格降两成",
+    "summary_zh": "Anthropic意外发布Claude Opus 5.5，能一天迁移68万行代码且API价格打八折，大幅降低缓存读取费用。",
+    "key_points": [
+      "Claude Opus 5.5能单日迁移68万行代码",
+      "API价格直降20%并大幅降低缓存读取成本"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f47b4ba2b456c68babea77a8e5b8910a",
+    "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+    "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T04:59:08+00:00",
+    "content_snippet": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+    "title_zh": "希腊总理坦承：各国政府对AI的冲击尚准备不足",
+    "summary_zh": "希腊总理米佐塔基斯在TechCrunch访谈中坦率表示，没有政府为AI即将带来的变革做好准备，他们正在打一场昨天的仗。",
+    "key_points": [
+      "希腊总理公开承认任何政府都未准备好应对AI冲击",
+      "反映出各国在AI治理和政策层面普遍滞后"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "16ed4ff088d50b438d8c6761ce56c519",
+    "title": "Is AI-fatigue a thing or I'm officially becoming a boomer?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wnvnxb/is_aifatigue_a_thing_or_im_officially_becoming_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T04:11:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Every day there’s another story about AI taking over the world, putting everyone out of work or becoming a super-intelligence (we still struggle to define intelligence and conscience for humans, let alone computer systems) that will enslave humanity. Then you actually use it, and it’s just a chatbot that can’t even barely even give you a straight, unbiased answer about something.</p> <p>Of course, there are some cool automation that can be done with it in the ri",
+    "title_zh": "AI疲劳感：是真实存在还是我已跟不上时代？",
+    "summary_zh": "Reddit网友讨论AI疲劳感是否真实存在，对铺天盖地的AI接管世界、大规模失业等叙事感到厌倦和怀疑。",
+    "key_points": [
+      "网络上充斥AI接管世界的言论引发用户疲劳",
+      "人们对AI超级智能的过度叙事产生质疑和反感"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "417971440df75ca386a6c24bf759c1c6",
+    "title": "with all those intelligent systems at their disposal, why haven't any of these companies crafted a delightful experience?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wnvlfv/with_all_those_intelligent_systems_at_their/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T04:08:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI this AI that</p> <p>yeah your chat bot is so smart</p> <p>so why can't you make your website delightful with all that intelligence</p> <p>why does it have to be the generic chat interface where it spits out a few hundred words at the user, that most of the people don't even read through</p> <p>like if grok's all that smart, why is it not making twitter a delightful positive experience...</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.r",
+    "title_zh": "拥有众多智能系统，为何科技公司仍未打造出令人愉悦的体验？",
+    "summary_zh": "用户质疑AI公司虽然拥有智能系统，但产品体验仍停留在通用的聊天界面，缺乏让人愉悦的设计。",
+    "key_points": [
+      "用户批评当前的AI产品体验单一、缺乏吸引力",
+      "仅有强大的底层智能并未转化为令人愉悦的用户体验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8a4aaa4dc9ce03d5e5301bba66e00c21",
+    "title": "The First Jobs AI May Kill Are the Ones People Need to Gain Experience",
+    "url": "https://www.reddit.com/r/artificial/comments/1wnv4mx/the_first_jobs_ai_may_kill_are_the_ones_people/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T03:44:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m less worried about every job disappearing overnight than about the first step on the career ladder disappearing.</p> <p>Coding agents can already handle some tasks that used to be given to junior developers. Similar tools are moving into writing, design, customer support, research, and office work.</p> <p>If companies need fewer entry-level workers, how are people supposed to gain the experience needed to become senior?</p> <p>The same problem may affect pro",
+    "title_zh": "AI可能最先消灭的，是人们赖以积累经验的入门级工作",
+    "summary_zh": "AI最先威胁的并非所有工作，而是初级岗位。编程智能体等工具已能处理初级开发者的任务，可能切断职业成长的第一阶梯。",
+    "key_points": [
+      "AI正在取代初级开发、写作、设计等入门级岗位",
+      "职业阶梯的断裂比大规模失业更令人担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d82a5a9e69db5970a9ddc03d9d466cd3",
+    "title": "Google's AI linked me to a scam website",
+    "url": "https://www.reddit.com/r/artificial/comments/1wnuhm8/googles_ai_linked_me_to_a_scam_website/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T03:13:10+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wnuhm8/googles_ai_linked_me_to_a_scam_website/\"> <img alt=\"Google's AI linked me to a scam website\" src=\"https://preview.redd.it/jzq9x5axs6rh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f39d1cd14b7ebd96cdb5f779696d421034ab8a4e\" title=\"Google's AI linked me to a scam website\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pedanpric\"> /u/pedanpric </a> &#32; to &#32; <a href=\"https://www",
+    "title_zh": "谷歌AI将用户引导至诈骗网站",
+    "summary_zh": "Reddit用户报告称，谷歌的AI生成摘要或搜索结果将其导向了诈骗网站，引发对AI信息可信度的担忧。",
+    "key_points": [
+      "用户反馈谷歌AI搜索结果中包含诈骗网站链接",
+      "此事件凸显了AI生成内容的安全性和可靠性问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4f3da22bdd7872845e292a87174d7b28",
+    "title": "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+    "url": "https://blogs.nvidia.com/blog/ai-day-singapore/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T02:30:22+00:00",
+    "content_snippet": "NVIDIA AI Day Singapore, which takes place Sept. 22-23 at the Raffles City Convention Centre, is offering attendees opportunities to explore the hands-on training, expert-led sessions and advanced tools to accelerate their work in AI and high-performance computing. At the event, NVIDIA and its partners are showcasing breakthrough AI advancements across the Southeast Asia region [&#8230;]",
+    "title_zh": "在新加坡AI日，英伟达携手伙伴展示东南亚AI新进展",
+    "summary_zh": "英伟达在新加坡AI日上联合合作伙伴，展示面向东南亚地区的AI训练、专家指导和高性能计算工具等最新进展。",
+    "key_points": [
+      "英伟达与合作伙伴展示面向东南亚的AI与高性能计算方案",
+      "活动提供实践培训、专家讲座等资源以加速区域AI发展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
