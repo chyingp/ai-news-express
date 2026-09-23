@@ -1,0 +1,293 @@
+[
+  {
+    "id": "cd65d3ae79b344fbc12c432349d6e46e",
+    "title": "Two years of OpenAI Academy",
+    "url": "https://openai.com/index/two-years-of-openai-academy",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T16:00:00+00:00",
+    "content_snippet": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+    "title_zh": "OpenAI Academy 成立两周年",
+    "summary_zh": "OpenAI 庆祝其 Academy 项目成立两周年，该项目旨在为更多社区带来人工智能技能，帮助开发者掌握并应用 AI 技术。",
+    "key_points": [
+      "OpenAI Academy 项目已运行两周年",
+      "项目重点是将 AI 技能推广至更多社区"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4e65e7b298d3576f7bce02bd490aea57",
+    "title": "any free video generation tool with audio?",
+    "url": "https://www.reddit.com/r/artificial/comments/1woflul/any_free_video_generation_tool_with_audio/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-23T19:24:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am looking for a free unlimited video generation tool which also supports Audio generation in the video.</p> <p>I am an educator and need ai videos for students to visualize the chapters.</p> <p>I got a high end PC so local LLm are also good or any online AI tools are alright too</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DueAdministration193\"> /u/DueAdministration193 </a> &#32; to &#32; <a href=\"https://www.reddit.c",
+    "title_zh": "有没有带音频的免费视频生成工具？",
+    "summary_zh": "一位教育工作者在Reddit发帖，寻找支持音频生成的免费无限视频生成工具，用于教学，可接受本地或在线AI工具。",
+    "key_points": [
+      "用户寻找免费且支持音频生成的AI视频工具用于教育",
+      "帖子为个人求助，未涉及具体产品或技术突破"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e69f9d1fe8b4bc3ce292f4c4f746274b",
+    "title": "The AI you test in the afternoon may not be the AI you test at night, even with the same name",
+    "url": "https://www.reddit.com/r/artificial/comments/1wof7oy/the_ai_you_test_in_the_afternoon_may_not_be_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-23T19:10:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I asked Claude Opus 5 the same 40 questions twice on the same day, a few hours apart. The second time it looked things up about 60% more often, wrote about 50% more, and a score for how well it supports its claims with sources went from 59 to 90.</p> <p>Same model name in every answer. Same questions. Two other models barely changed. And a new version, Opus 5.5, launched in between.</p> <p>The most likely explanation probably wasn't a model swap. It's probably a",
+    "title_zh": "下午测试的AI，晚上可能已非同一模型",
+    "summary_zh": "用户发现Claude Opus 5在同一天内表现不一致，第二次测试搜索行为增加60%，输出内容多50%，来源支撑得分从59跃升至90，反映模型行为波动。",
+    "key_points": [
+      "Claude Opus 5同日测试结果显著变化，搜索和输出量大幅增长",
+      "同一模型名下的AI行为缺乏稳定性，引发用户关注"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2b824ca594e03d4050191a30246786b2",
+    "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T19:00:00+00:00",
+    "content_snippet": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to [&#8230;]",
+    "title_zh": "Meta的AI代理是个可爱的小家伙，但很会花钱",
+    "summary_zh": "Meta推出AI代理Muse，主打购物功能，能主动帮用户处理待办事项，但似乎过于擅长消费，引发对AI代理自主花钱的新体验报道。",
+    "key_points": [
+      "Meta推出名为Muse的AI购物代理，可主动完成消费任务",
+      "产品上手体验显示其购物效率高，但可能过度花费用户资金"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8308f4135e02635c994d9c333a83defd",
+    "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+    "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-23T18:41:40+00:00",
+    "content_snippet": "",
+    "title_zh": "如何使用NVIDIA Warp和MjWarp加速机器人仿真与学习工作流",
+    "summary_zh": "Hugging Face博客发布技术教程，介绍利用NVIDIA Warp和MjWarp工具加速机器人仿真模拟与学习流程的方法，面向开发者。",
+    "key_points": [
+      "NVIDIA Warp与MjWarp可用于加速机器人仿真和学习工作流",
+      "教程由Hugging Face发布，旨在推广相关开发工具"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "10c165258146f68e26e3bfc0e893377c",
+    "title": "Data centers are black boxes, but California wants to change that",
+    "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T18:22:57+00:00",
+    "content_snippet": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over how the infrastructure underpinning AI [&#8230;]",
+    "title_zh": "数据中心是黑箱，加州希望改变这一现状",
+    "summary_zh": "加州州长签署新法案，要求数据中心披露其对电力和水资源的影响，并赋予社区更多发言权，以应对数据中心扩张引发的抗议。",
+    "key_points": [
+      "加州通过新法案，强制数据中心公开电力和水消耗数据",
+      "立法旨在增加透明度，让社区参与决策数据中心影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9652a479122b8ceeff5b30a5bba3e812",
+    "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-23T18:00:00+00:00",
+    "content_snippet": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after [&#8230;]",
+    "title_zh": "Anthropic生物实验室做出可比拟Crispr的发现",
+    "summary_zh": "Anthropic声称其AI Claude在湿实验室中自主发现了一种类似Crispr基因编辑工具的新酶系统，这是其新生物实验室的首个重大成果，正值公司准备上市之际。",
+    "key_points": [
+      "Claude自主发现类似Crispr的新酶系统，标志AI科学发现重大突破",
+      "这是Anthropic新湿实验室首个成果，为公司IPO增添科技亮点"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b59671bb038c1922f4dfc6ca5b009850",
+    "title": "Who’s Ahead in the Global AI Talent Race?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wod7ub/whos_ahead_in_the_global_ai_talent_race/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T17:57:07+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wod7ub/whos_ahead_in_the_global_ai_talent_race/\"> <img alt=\"Who’s Ahead in the Global AI Talent Race?\" src=\"https://external-preview.redd.it/uyiAkT8uWS7BjpyvRU2R2XAnegC9BxqEB-1SzSp1fLc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a33c5913626c117e9d0fcf1f68e14894ee0d5512\" title=\"Who’s Ahead in the Global AI Talent Race?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/carnegieendowment\"> /",
+    "title_zh": "全球AI人才竞赛谁领先？",
+    "summary_zh": "Reddit上讨论全球AI人才竞争格局，关注各国及各公司在吸引顶尖AI研究人员和工程师方面的表现与排名。",
+    "key_points": [
+      "讨论聚焦中美等主要国家在全球AI人才竞争中的领先地位",
+      "帖子涉及人才流动趋势，但无具体公司主导内容"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3ecdce7d836ad40de10d7e7fdb4577cb",
+    "title": "ChatGPT mobile app gets voice-based agentic features",
+    "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T17:00:00+00:00",
+    "content_snippet": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+    "title_zh": "ChatGPT移动应用新增基于语音的代理功能",
+    "summary_zh": "ChatGPT移动端为Pro和Plus用户推出语音代理功能，在Work标签页中可完成代理任务，增强移动设备的AI助手能力。",
+    "key_points": [
+      "ChatGPT手机应用新增语音驱动代理功能，面向付费用户",
+      "功能集成在Work标签页，提升移动端自动任务处理能力"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "55b95be9dcae85a39ab5fdb5b03cd75c",
+    "title": "Even Americans who use AI every day are worried about it",
+    "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T16:49:58+00:00",
+    "content_snippet": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+    "title_zh": "即便天天使用AI的美国人也对其忧心忡忡",
+    "summary_zh": "报告显示，日常频繁使用AI的美国人仍然对该技术感到不安，公众对AI的担忧并未因接触增多而缓解，对监管的支持依然强烈。",
+    "key_points": [
+      "高频AI用户仍普遍担忧技术风险，接触增多未减轻焦虑",
+      "报告指出公众持续支持加强AI监管，不因熟悉度提升而改变"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5acbae282eb23d15def04dddd37a0986",
+    "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T16:23:05+00:00",
+    "content_snippet": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under the Ban Artificial Superintelligence Act, AI leaders would face up to 20 years [&#8230;]",
+    "title_zh": "伯尼·桑德斯提案禁止“超级智能”并施以监禁刑罚",
+    "summary_zh": "美国参议员桑德斯与众议员卡萨尔提出法案，禁止开发可能毁灭或剥夺人类权力的超级人工智能，违者可面临监禁，旨在立法防范AI失控风险。",
+    "key_points": [
+      "美国议员立法提案彻底禁止开发超级人工智能",
+      "法案将开发可能颠覆政府的超级智能定为犯罪，并设监禁刑罚"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8f839c0d3f321678649ae634a408356e",
+    "title": "Advancing Private AI Compute with secure, server-side memory",
+    "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T16:00:57+00:00",
+    "content_snippet": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+    "title_zh": "利用安全的服务器端内存推进隐私AI计算",
+    "summary_zh": "Google DeepMind宣布为其隐私AI计算服务引入安全的服务器端内存功能，旨在增强个人AI应用的数据隐私保护，确保用户信息在处理过程中得到更安全的隔离和保障。",
+    "key_points": [
+      "为隐私AI计算引入服务器端内存以增强数据保护",
+      "该功能旨在服务个人AI应用，提升用户隐私安全性",
+      "由Google DeepMind团队推出，强化数据处理过程的隔离与保障"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
