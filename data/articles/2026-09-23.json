@@ -1865,5 +1865,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "31ef9b5263a38be61ff9ec9c0d1f046c",
+    "title": "Gemini 3.8 text-to-speech says hello",
+    "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-23T15:25:14+00:00",
+    "content_snippet": "",
+    "title_zh": "Gemini 3.8 文本转语音功能发布",
+    "summary_zh": "Google DeepMind 正式推出 Gemini 3.8 文本转语音功能，标志着其多模态模型在语音合成领域的最新进展，旨在提供更自然流畅的语音交互体验。",
+    "key_points": [
+      "推出 Gemini 3.8 文本转语音功能，提升语音自然度。",
+      "作为多模态模型 Gemini 新组件，强化语音交互能力。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ab0b2d96bb33495c84c04549751600d7",
+    "title": "YouTube Music gets more conversational with new AI features",
+    "url": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T15:19:30+00:00",
+    "content_snippet": "YouTube is adding new AI-powered features to YouTube Music that aim to make it easier for listeners to discover music, explore artists, and find podcasts they may otherwise miss. Announced at this year’s Made On YouTube event, the updates include “Ask Music,” a conversational tool for music and podcasts, and “Your Podcast Lineup,” a personalized [&#8230;]",
+    "title_zh": "YouTube Music 推出对话式 AI 功能优化音乐发现",
+    "summary_zh": "YouTube Music 推出“Ask Music”等 AI 新功能，允许用户通过对话方式搜索和发现音乐、播客，旨在提升内容发现效率和个性化推荐体验。",
+    "key_points": [
+      "引入“Ask Music”对话工具，变革音乐和播客搜索方式。",
+      "新功能旨在帮助用户更轻松地发现被动错过的内容。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
