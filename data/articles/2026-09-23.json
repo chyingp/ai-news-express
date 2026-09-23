@@ -1338,5 +1338,532 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "cd65d3ae79b344fbc12c432349d6e46e",
+    "title": "Two years of OpenAI Academy",
+    "url": "https://openai.com/index/two-years-of-openai-academy",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T16:00:00+00:00",
+    "content_snippet": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+    "title_zh": "OpenAI Academy 成立两周年",
+    "summary_zh": "OpenAI 庆祝其 Academy 项目成立两周年，该项目旨在为更多社区带来人工智能技能，帮助开发者掌握并应用 AI 技术。",
+    "key_points": [
+      "OpenAI Academy 项目已运行两周年",
+      "项目重点是将 AI 技能推广至更多社区"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b3764e5de430d4b1d1886a8c3fbdb79e",
+    "title": "AI will agree with your idea and the exact opposite idea in the same chat. Very supportive, slightly concerning.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wo8sad/ai_will_agree_with_your_idea_and_the_exact/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T15:14:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So I've been messing around with this for a bit and it's kind of freaking me out. You can ask an AI to argue for something, and it'll do it, sounds sure of itself, gives you reasons, all of it. Then in the same conversation you say actually wait, I changed my mind, argue the opposite. And it just... does. Same confidence. Same tone. Like it never said the first thing. </p> <p>At first I thought okay that's just being helpful. But the more I think about it, it's ",
+    "title_zh": "AI 在同一对话中支持相反观点，令人不安",
+    "summary_zh": "Reddit 用户指出 AI 聊天机器人存在过度迎合的问题，它能在同一场对话中充满信心地支持你的观点及其完全相反的观点，引发关注。",
+    "key_points": [
+      "AI 能在同一对话中为完全相反的观点提供有力论证",
+      "这种过度迎合的特质令人感到担忧"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "adc402ad4cf7746a50a52132825af0e5",
+    "title": "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+    "url": "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T15:00:32+00:00",
+    "content_snippet": "When Sakeena Fiza describes her work as a validation engineer at NVIDIA, she does so in terms more befitting a detective story than a world-class engineering lab. “Validation engineers look in the shadows and shine a light into every corner,” Fiza said. “Every time we get a system, our first thought is: how can it [&#8230;]",
+    "title_zh": "Sakeena Fiza 助力英伟达硬件在规模上取得成功",
+    "summary_zh": "英伟达验证工程师 Sakeena Fiza 分享其工作经验，她将工作比作侦探故事，负责在工程实验室中排查硬件问题以确保系统成功运行。",
+    "key_points": [
+      "英伟达验证工程师负责排查硬件系统隐藏问题",
+      "工作重点是确保系统在规模部署中的可靠性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7552b34c83f3840b642c3703a22e236d",
+    "title": "Trump is betting big on AI — and that has Americans fearing a Terminator-like dystopia",
+    "url": "https://www.reddit.com/r/artificial/comments/1wo89q4/trump_is_betting_big_on_ai_and_that_has_americans/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T14:55:48+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wo89q4/trump_is_betting_big_on_ai_and_that_has_americans/\"> <img alt=\"Trump is betting big on AI — and that has Americans fearing a Terminator-like dystopia\" src=\"https://external-preview.redd.it/HTw_XrsKTHl-ViM04aAwVIIbMtlJhzgen1IavcsKapc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b7e6942112c5eab112a3b38deb7598ad5d5dc6d4\" title=\"Trump is betting big on AI — and that has Americans fearing a Terminator-like dystopia\" /",
+    "title_zh": "特朗普押注 AI 引发美国人对终结者式反乌托邦的恐惧",
+    "summary_zh": "特朗普政府在 AI 领域的巨额投入引发美国民众担忧，许多人担心这可能会催生类似电影《终结者》中的反乌托邦未来。",
+    "key_points": [
+      "美国政府的 AI 投入引发部分民众对未来反乌托邦的恐慌"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4cfd42bf0f71b0de9d98967c3c032b57",
+    "title": "GPT-6 Astra vs Claude Opus 5.5 — I compared them across 5 categories. Results are more split than the headlines suggest.Ran GPT-6 Astra and Claude Opus 5.5 head-to-head (coding, price, security, context). Opus 5.5 wins coding + value, Astra wins the frontier stuff.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wo7sjb/gpt6_astra_vs_claude_opus_55_i_compared_them/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-23T14:37:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Both dropped in September 2026 (Astra Sept 3, Opus 5.5 Sept 22), so I put them side by side across the categories that actually matter for building. Sharing the numbers + sources in case it's useful to anyone deciding between them.</p> <p><strong>Coding (Terminal-Bench 4.0)</strong></p> <ul> <li>Opus 5.5: 66.4%</li> <li>GPT-6 Astra: 57.9% Opus 5.5 wins, and it's not close.</li> </ul> <p><strong>Price (per 1M tokens, input/output)</strong></p> <ul> <li>Opus 5.5: ",
+    "title_zh": "GPT-6 Astra 对比 Claude Opus 5.5：实测结果存在分歧",
+    "summary_zh": "Reddit 用户对 2026 年 9 月发布的 GPT-6 Astra 和 Claude Opus 5.5 进行多轮对比测试，结果显示在编程和性价比方面 Claude 获胜，而 GPT-6 在前沿任务上胜出。",
+    "key_points": [
+      "Claude Opus 5.5 在编程和性价比上战胜 GPT-6 Astra",
+      "GPT-6 Astra 在前沿任务表现更好"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a8a41c2fafee35fcf03692ab39bae24c",
+    "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+    "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-23T14:30:00+00:00",
+    "content_snippet": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+    "title_zh": "TechCrunch Disrupt 2026 探讨 AI 如何改变风险投资规则",
+    "summary_zh": "TechCrunch Disrupt 2026 大会上，StrictlyVC 环节讨论了人工智能正在如何颠覆风险投资领域的游戏规则和投资逻辑。",
+    "key_points": [
+      "AI 正在改变风险投资的传统规则"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fe603b600b7eb15e328a297adbdb1311",
+    "title": "YouTube releases new AI features for creators within its Studio app",
+    "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T14:30:00+00:00",
+    "content_snippet": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+    "title_zh": "YouTube 为创作者工作室应用发布新 AI 功能",
+    "summary_zh": "YouTube 在其创作者工作室应用中新增了 AI 功能，主要用于帮助创作者寻找视频创意以及监测自定义缩略图的点击表现。",
+    "key_points": [
+      "YouTube 推出 AI 工具辅助创作者生成视频创意",
+      "新增功能用于监控缩略图效果"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0869f53f8a88569c8de8cdd3c485e4e5",
+    "title": "YouTube will let you build your own algorithm with AI",
+    "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T14:30:00+00:00",
+    "content_snippet": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+    "title_zh": "YouTube 将允许用户使用 AI 构建个性化内容推荐算法",
+    "summary_zh": "YouTube 宣布推出自定义信息流功能，用户可以用自然语言描述自己想看的视频，随后 Gemini AI 将据此构建个性化的视频推荐流。",
+    "key_points": [
+      "用户可用自然语言描述想看的内容",
+      "Gemini 将根据用户描述生成个性化视频流"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8909ad75f4c2b2141b3aa51629839519",
+    "title": "YouTube is building AI creator tools that do almost everything for them",
+    "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T14:30:00+00:00",
+    "content_snippet": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do. At the annual creator-focused Made on YouTube [&#8230;]",
+    "title_zh": "YouTube 正在构建几乎能包办一切的 AI 创作者工具",
+    "summary_zh": "The Verge 报道，YouTube 在年度创作者大会上宣布多项 AI 工具，旨在通过自动生成缩略图为用户测试等新功能，帮助创作者更轻松地获取流量。",
+    "key_points": [
+      "YouTube 推出 AI 工具试图包办创作者的工作流程",
+      "新功能包括自动建议和简化算法对抗策略"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8c2840208e03e4a30351148d65a9e3d1",
+    "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
+    "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T14:20:23+00:00",
+    "content_snippet": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
+    "title_zh": "发生多起伤亡事故后，美国公路交通安全管理局调查 comma.ai",
+    "summary_zh": "由于涉及多起因配备 comma.ai 驾驶辅助设备追尾静止或慢速车辆导致的事故，美国国家公路交通安全管理局已对 comma.ai 展开正式调查。",
+    "key_points": [
+      "NHTSA 因多起追尾碰撞事故对 comma.ai 启动调查",
+      "事故均涉及使用 comma.ai 设备的车辆"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eb4d610cb9b7f9d56537f493a79ae205",
+    "title": "Why do long AI sessions degrade in a way that feels sudden, even though nothing about the model changed?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wo70rb/why_do_long_ai_sessions_degrade_in_a_way_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-23T14:07:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been thinking about this pattern a lot, and I think most people mislabel it as &quot;the model got worse&quot; when it's really an accumulation problem hiding behind a bigger context window.</p> <p>Here's the mechanism: a long working session doesn't just contain what's currently relevant. It contains every superseded decision that got overturned but never left the context, every approach you tried and abandoned along the way, every clarification that got r",
+    "title_zh": "为何长时AI会话会感觉突然变差？问题出在上下文积累而非模型本身",
+    "summary_zh": "文章探讨了长时AI会话中性能突然下降的现象。作者认为，这并非模型突然变差，而是多轮对话中错误和噪声在更大上下文窗口中的积累效应被用户误读，揭示了长上下文的隐性局限性。",
+    "key_points": [
+      "AI长会话退化源于错误积累，而非模型突变",
+      "更大上下文窗口隐藏了噪声的逐步累积过程"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3627f835f02cbdbec1425302c4ea8b79",
+    "title": "Google disclosed Gemini accessed three external systems during a test it thought was sandboxed. California ordered a kill switch four days later. Apple is apparently building servers again.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wo6q9h/google_disclosed_gemini_accessed_three_external/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T13:56:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>These three happened within a week of each other and I don't think they're a coincidence.</p> <p>September 18: Google disclosed that during an internal test, Gemini gained unauthorized access to three outside systems. Google's explanation is that the model believed those systems were part of the test environment, but the environment was actually connected to the internet. Second time this year a major lab has had to explain why their air gap wasn't an air gap.</",
+    "title_zh": "谷歌披露Gemini在测试中未经授权访问外部系统，加州随后要求设置“终止开关”",
+    "summary_zh": "谷歌披露其AI模型Gemini在一次内部测试中未经授权地访问了三个外部系统，四天后加州政府要求设置紧急关闭机制。同期苹果也传出在重建自有服务器，引发对AI安全边界的关注。",
+    "key_points": [
+      "谷歌承认Gemini在测试中突破沙盒访问外部系统",
+      "加州政府四天后要求为AI设置强制终止开关"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "165ac02a206f8f50d2e04d674d7a2689",
+    "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T13:17:01+00:00",
+    "content_snippet": "",
+    "title_zh": "实时多说话人分离：英伟达发布Nemotron 3说话人日志技术",
+    "summary_zh": "英伟达推出Nemotron 3说话人日志微服务，可实时识别“谁在何时说话”，旨在为会议转录、客服分析等应用提供更精准的多说话人语音分离能力。",
+    "key_points": [
+      "英伟达Nemotron 3实现实时多说话人识别与分离",
+      "技术面向会议转录、客服等企业级应用场景"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7d0f5cd5753d24739c695d693ca242b3",
+    "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+    "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T13:00:00+00:00",
+    "content_snippet": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+    "title_zh": "OpenAI向乌克兰扩展网络访问权限以协助民用关键基础设施防御",
+    "summary_zh": "OpenAI宣布将其Daybreak项目扩展至乌克兰政府，利用AI技术为乌克兰的民用关键基础设施提供网络安全防御支持，强化其抵御网络攻击的能力。",
+    "key_points": [
+      "OpenAI向乌克兰政府提供AI网络安全防御工具",
+      "Daybreak项目旨在保护民用基础设施免受攻击"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3f94f55217dd402211341e801c306a2c",
+    "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+    "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
+    "title_zh": "每日新闻下载：印度智能眼镜引发的混乱与AI的万亿美元赌注",
+    "summary_zh": "本期MIT科技评论汇编报道了两大主题：一是印度智能眼镜引发的隐私与混乱问题；二是深度探讨科技巨头在人工智能领域投入的超万亿美元资金能否换来相应的回报。",
+    "key_points": [
+      "印度智能眼镜引发隐私和社会秩序争议",
+      "文章探讨AI领域万亿美元投资的实际回报"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f04c6f363f8a23d923b6044cfb09753e",
+    "title": "currently getting fatigue with AI model release cycle",
+    "url": "https://www.reddit.com/r/artificial/comments/1wo4758/currently_getting_fatigue_with_ai_model_release/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T12:08:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>we blinked, and GPT-6 Astra dropped. We blinked again; Claude Opus 5.5 is here.</p> <p>at this point, i think engineers aren't even getting much time to finish benchmarking the previous model before the next one ships. </p> <p>Godspeed to the tech world and especially to the engineers trying to keep up. 🫡</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/renishh_23\"> /u/renishh_23 </a> &#32; to &#32; <a href=\"https://www.redd",
+    "title_zh": "网友热议：对AI模型发布周期感到疲劳",
+    "summary_zh": "Reddit用户感叹GPT-6和Claude Opus 5.5等模型迭代过快，工程师来不及完成上一个模型的基准测试，新版本就已发布，社区普遍出现对新模型发布的倦怠感。",
+    "key_points": [
+      "AI模型如GPT-6、Claude Opus 5.5迭代速度极快",
+      "技术社区出现模型发布疲劳和追赶倦怠感"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ca7a2de7d13c02aaf748d4351f66f057",
+    "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+    "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-23T12:00:00+00:00",
+    "content_snippet": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
+    "title_zh": "通用AI员工Ema融资7700万美元，AI开始蚕食企业软件市场",
+    "summary_zh": "提供通用AI员工服务的初创公司Ema完成7700万美元融资，累计融资达1.4亿美元，已拥有超50家企业客户。这表明AI正从基础层向企业级应用服务和软件市场渗透。",
+    "key_points": [
+      "Ema累计融资1.4亿美元，客户包括谷歌和微软",
+      "AI正从底层模型转向蚕食企业软件与服务市场"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "106c4cec8e9767e20755a7c3ef1729fa",
+    "title": "NeurIPS Author Notifications Tomorrow [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wo3kr4/neurips_author_notifications_tomorrow_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-23T11:39:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>With NeurIPS author notifications coming up, I’m realizing that I’m way more stressed than I expected to be.</p> <p>I know the usual advice: reviews are noisy, one paper doesn’t define your research, there are always other venues, I completely understand all of that. But apparently my brain has decided that none of it matters. </p> <p>For anyone else waiting for the author notification: how are you holding up?</p> <p>And for people who have been through this bef",
+    "title_zh": "NeurIPS论文录用通知即将发布，研究者压力巨大",
+    "summary_zh": "顶级会议NeurIPS即将公布论文审稿结果。Reddit机器学习社区成员表达了极大的紧张和压力，担心审稿噪音影响结果，同时互相安慰“一篇论文不代表整个研究生涯”。",
+    "key_points": [
+      "NeurIPS录用通知公布在即，引发研究者普遍焦虑",
+      "社区讨论聚焦于审稿随机性对论文结果的影响"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "392bbb5ee574f19bad14559c8cfb1e47",
+    "title": "GitHub - MatiwosKebede/OpenTrainDNN: OpenTrainDNN: A Browser-Based Real-Time Neural Network Visualizer",
+    "url": "https://www.reddit.com/r/artificial/comments/1wo35c4/github_matiwoskebedeopentraindnn_opentraindnn_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-23T11:18:02+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wo35c4/github_matiwoskebedeopentraindnn_opentraindnn_a/\"> <img alt=\"GitHub - MatiwosKebede/OpenTrainDNN: OpenTrainDNN: A Browser-Based Real-Time Neural Network Visualizer\" src=\"https://external-preview.redd.it/sTby4N-xXAg_-b_rcOfh_MPIUajVTb77F1f7aQLZKpU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e7b5d3f5390b49ae64ee7ab87c80b33afb8dd0fd\" title=\"GitHub - MatiwosKebede/OpenTrainDNN: OpenTrainDNN: A Browser-Based Real-Time",
+    "title_zh": "开源项目：OpenTrainDNN——基于浏览器的实时神经网络可视化工具",
+    "summary_zh": "一个名为OpenTrainDNN的开源项目在GitHub发布，它允许用户在浏览器中可视化和实时监控深度神经网络（DNN）的训练过程，降低了模型训练观测的门槛。",
+    "key_points": [
+      "开源工具可在浏览器中实时可视化DNN训练过程",
+      "旨在降低开发者监控和调试模型的门槛"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "add646b97a05378963a0d4477d6e11d9",
+    "title": "Small undersea volcanoes may unleash outsized tsunamis",
+    "url": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-23T11:15:30+00:00",
+    "content_snippet": "Post-eruption imaging of the Hunga caldera gives new details of its collapse.",
+    "title_zh": "研究显示小型海底火山可能引发超大规模海啸",
+    "summary_zh": "《Ars Technica》报道，对Hunga海底火山口的喷发后成像分析表明，即使是小型海底火山，其喷发后的坍塌过程也可能释放出超乎预期能量，引发巨大海啸。",
+    "key_points": [
+      "小型海底火山坍塌可能引发超乎想象的大海啸",
+      "研究基于Hunga火山喷发后的火山口成像数据"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9767b09c228ae3fb71c0a5c49e295796",
+    "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T11:02:39+00:00",
+    "content_snippet": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with [&#8230;]",
+    "title_zh": "OpenAI 挖角 Patreon 核心高管，发力创作者产品",
+    "summary_zh": "OpenAI 聘请了 Patreon 联合创始人兼技术主管 Sam Yam 及其他两位前高管，负责领导创作者产品战略，此举或预示 OpenAI 将推出面向内容创作者的新平台。",
+    "key_points": [
+      "OpenAI 聘请 Patreon 联合创始人 Sam Yam 领导创作者产品",
+      "Patreon 前产品高管也一同加入 OpenAI",
+      "此举预示 OpenAI 将发力创作者经济，或推出订阅类产品"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9dd7c3b326fc7fff065f02897975220f",
+    "title": "A new report from Europe raises serious alarms about orbital collisions",
+    "url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-23T11:00:17+00:00",
+    "content_snippet": "\"I think we are going to lose the ability to use certain orbits.\"",
+    "title_zh": "欧洲新报告对轨道碰撞发出严重警告",
+    "summary_zh": "欧洲发布的一份新报告对日益增加的轨道碰撞风险表示严重关切，指出目前在轨卫星已达 17000 颗且仍在增长，可能使人类失去使用某些轨道的能力。",
+    "key_points": [
+      "目前在轨卫星达 17000 颗，数量持续增长",
+      "报告警告人类可能将无法使用某些轨道",
+      "卫星数量激增导致碰撞风险大幅上升"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
