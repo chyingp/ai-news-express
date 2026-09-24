@@ -480,5 +480,418 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "91fb5dbeac71c1ae4c6855cc8b2424c3",
+    "title": "I'm a 5+ year experienced Data scientist willing to explain my real life projects on video call to someone willing to learn so that it can help with my Interview preparation [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wp925j/im_a_5_year_experienced_data_scientist_willing_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-24T18:09:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello people. I have over 5 years of experience working as a Data scientist. I have worked in Fintech, Retail, Healthcare etc and I recently lost my job. As part of my preparation for interviews, I wanna explain these projects to someone who wants to learn/use them in their own resume.</p> <p>We can connect over a gmeet and I can share my screen and explain. You don't have to turn on your cam. If you're interested, ping me. I'm free all day everyday since I'm gi",
+    "title_zh": "我是一名有5年以上经验的数据科学家，愿意通过视频通话向学习者解释我的真实项目 [讨论]",
+    "summary_zh": "一名有5年多经验的数据科学家在失业后，为准备面试，希望通过视频方式向有兴趣的人讲解自己的实际项目，同时帮助自己复习。",
+    "key_points": [
+      "资深数据科学家失业，通过分享项目辅助面试准备",
+      "覆盖金融科技、零售、医疗等多个行业经验"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9e8b00989e31e9b1d78ccc173ae3be54",
+    "title": "Jensen Huang talks about AI and climate change like a supervillain",
+    "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-24T18:04:44+00:00",
+    "content_snippet": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the [&#8230;]",
+    "title_zh": "黄仁勋谈论AI与气候变化的方式如同超级反派",
+    "summary_zh": "英伟达CEO黄仁勋在播客中表示，AI虽然能帮助应对气候变化，但需先经历“巨大的痛苦和苦难”。此番言论引发争议。",
+    "key_points": [
+      "黄仁勋称AI对抗气候变化前需经历巨大痛苦",
+      "言论在科技社区引发争议"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f9f568270d027d5752385e7e2cfdeeab",
+    "title": "Publication venue recommendations [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wp8ung/publication_venue_recommendations_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-24T18:02:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am 5th year and have no published research so far. All my papers have been consistently rejected from top tier AI conferences even though they got good review scores in the process.</p> <p>Since graduating is my priority now, I am in search of decent venues (journal or conference does not matter at this point) where I can publish and complete my degree. </p> <p>Please do not recommend any more of those elitist club conferences like NeurIPS etc.</p> <p>Any reco",
+    "title_zh": "求推荐论文发表平台 [研究]",
+    "summary_zh": "一名第五年的博士研究生，尽管论文获好评，但屡被顶会拒稿，为毕业亟需寻找合适的发表平台，故向社区求助。",
+    "key_points": [
+      "博士生论文获好评却屡遭顶会拒稿",
+      "为毕业急切寻找可接受的发表平台"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c8ce86916686a255a41cec752dcdbd72",
+    "title": "Meta is going to let you build games with AI right on your phone",
+    "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T17:52:29+00:00",
+    "content_snippet": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in [&#8230;]",
+    "title_zh": "Meta将让你能在手机上用AI构建游戏",
+    "summary_zh": "Meta发布了两款新开发工具Horizon Create手机应用和Horizon Studio浏览器应用，让用户可以通过AI提示词在Meta的Horizon平台上创建游戏。",
+    "key_points": [
+      "Meta推出AI驱动游戏开发工具，降低创作门槛",
+      "包含手机应用和提供精细控制的浏览器应用",
+      "旨在为其Horizon平台吸引更多游戏内容"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "72339274d890ca3ac92512cb01451bd7",
+    "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+    "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T17:39:24+00:00",
+    "content_snippet": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
+    "title_zh": "Meta的Muse Charm像电子宠物，但瞄准了更新的潮流",
+    "summary_zh": "Meta的新AI硬件Muse Charm外形类似拓麻歌子，但其可悬挂的设计意在迎合Z世代将电子设备变为时尚配件的潮流。",
+    "key_points": [
+      "Muse Charm外型复古，被设计为时尚配饰",
+      "产品策略意在吸引Z世代消费者"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "388fc6d6f164be2c6a7e04df1ca5dfcf",
+    "title": "Training a local LLM using CPT and RAG (with evals)",
+    "url": "https://www.reddit.com/r/artificial/comments/1wp84dl/training_a_local_llm_using_cpt_and_rag_with_evals/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-24T17:35:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have gone through a series of experiments related to an interesting project where I try to teach a local llm a new domain through continued pretraining (CPT). The different experiments are spread across the four phases below:</p> <ol> <li>Phase1 talks about how to teach an llm a new domain through CPT and picking a training set that will generalize well to unseen questions</li> <li>Phase 2 does a comparison between the performance of reasoning across internali",
+    "title_zh": "使用持续预训练和RAG训练本地大语言模型（附评估）",
+    "summary_zh": "一个技术实验项目，作者通过持续预训练（CPT）结合检索增强生成（RAG）的方法，尝试向本地大语言模型注入新领域知识，并分四个阶段分享了实验过程。",
+    "key_points": [
+      "实践通过CPT和RAG向本地LLM教授新领域知识",
+      "详细记录了从数据准备到模型评估的四个阶段"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "450bb1526b07cd55f54bd584c9f70211",
+    "title": "Muse will apparently let you download its entire filesystem",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T17:14:12+00:00",
+    "content_snippet": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on [&#8230;]",
+    "title_zh": "Muse似乎允许用户下载其整个文件系统",
+    "summary_zh": "开发者发现，只需极少的提示，Meta新推出的AI代理Muse就会打包并分享其完整的根文件系统内容，这暴露了重大的安全漏洞。",
+    "key_points": [
+      "开发者发现Muse存在严重安全漏洞",
+      "Muse会轻易分享完整的操作系统和应用模板文件"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5f6f77d04142b7ee83561b0da461f328",
+    "title": "Muse sure looks a lot like OpenClaw",
+    "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T17:10:38+00:00",
+    "content_snippet": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, has been [&#8230;]",
+    "title_zh": "Muse与OpenClaw极其相似",
+    "summary_zh": "Meta新推出的消费级AI代理Muse发布后迅速登顶应用商店，但其设计和功能被指与另一款AI代理平台OpenClaw非常相似，引发抄袭争议。",
+    "key_points": [
+      "Meta的Muse发布后大获成功，在美日活达60万",
+      "Muse的设计与AI平台OpenClaw高度相似",
+      "随着Instinct等平台崛起，AI代理市场进入复兴期"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1ac6e3fa768eb33f658dbaa6549a5fd1",
+    "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+    "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T17:00:00+00:00",
+    "content_snippet": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+    "title_zh": "Google Photos受《独领风骚》启发的虚拟衣橱功能现已上线",
+    "summary_zh": "谷歌相册的AI功能可以从用户的照片中构建虚拟衣橱，该功能先在安卓端上线，现已全面登陆安卓和iOS平台。",
+    "key_points": [
+      "谷歌相册利用AI从用户照片创建虚拟衣橱",
+      "该功能现已向Android和iOS用户广泛开放"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "de9785d00e47bbf16365ea510b6af63c",
+    "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
+    "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T17:00:00+00:00",
+    "content_snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last night, I asked Blorbo - what I named my Muse AI agent - to help me set some health [&#8230;]",
+    "title_zh": "Meta的Muse AI吉祥物如此可爱，细思极恐",
+    "summary_zh": "文章评论了Meta的Muse AI代理，指出其可爱的虚拟宠物式设计可能意在降低用户对AI的警惕性，背后隐藏着收集数据和诱导依赖的“邪恶”设计策略。",
+    "key_points": [
+      "Muse的可爱设计被指为掩盖其数据收集意图的手段",
+      "分析认为这种设计利用情感依赖隐藏商业动机"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "96153e732dc31adc75e81bb87445e41d",
+    "title": "Opinions",
+    "url": "https://www.reddit.com/r/artificial/comments/1wp75cy/opinions/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T16:59:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi! Currently working with my therapist as I have OCD specifically existential OCD. what does everyone think will be the future with AI? Do you think it’ll wipe humans out or will kill us all…?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ok-Cook-5557\"> /u/Ok-Cook-5557 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1",
+    "title_zh": "观点讨论",
+    "summary_zh": "Reddit用户因存在性强迫症，在治疗师协助下探讨AI未来，担忧AI是否会消灭人类。",
+    "key_points": [
+      "用户因存在性强迫症产生AI焦虑",
+      "探讨AI是否会导致人类灭绝"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "59c79a898f0d6e4148ada594fa3be88b",
+    "title": "Mark Zuckerberg rejects calls for industrywide AI slowdown",
+    "url": "https://www.reddit.com/r/artificial/comments/1wp6yvb/mark_zuckerberg_rejects_calls_for_industrywide_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T16:52:17+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wp6yvb/mark_zuckerberg_rejects_calls_for_industrywide_ai/\"> <img alt=\"Mark Zuckerberg rejects calls for industrywide AI slowdown\" src=\"https://external-preview.redd.it/wINYPlOnmVb64BF0VtEWcaUDTaWLq9QBmjdwCwf9jAE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c98c38f96cbd4853502c53fa1fd60edfa22dfb1\" title=\"Mark Zuckerberg rejects calls for industrywide AI slowdown\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https",
+    "title_zh": "扎克伯格拒绝全行业放缓AI的呼吁",
+    "summary_zh": "Meta CEO马克·扎克伯格公开反对全行业减缓AI发展的提议，表明将继续推进AI研发。",
+    "key_points": [
+      "扎克伯格明确反对放缓AI发展",
+      "Meta将继续大力推进AI研发计划"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d767bf27e51e90b4c0a04a723e1c0ffe",
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T16:46:47+00:00",
+    "content_snippet": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+    "title_zh": "TechCrunch创始人峰会2026：完整指南",
+    "summary_zh": "TechCrunch创始人峰会将于11月4日在波士顿举行，为各阶段创业者提供与顶级风投交流及获取公司建设经验的机会。",
+    "key_points": [
+      "波士顿举办全天的创业者交流活动",
+      "汇聚顶级风投和经验丰富的企业家",
+      "提供公司建设与扩展的战术性见解"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "03f27b7084fff6f2a9e5a5c35a613f8e",
+    "title": "NeurIPS Accepted Papers are now visible [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wp6oi3/neurips_accepted_papers_are_now_visible_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-24T16:41:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I haven't received a notification about this -- but my paper just became visible as &quot;accepted&quot;. I expect an email to come some time soon!<br /> Scores were 5-4-4. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/levydawg\"> /u/levydawg </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1wp6oi3/neurip",
+    "title_zh": "NeurIPS 2026录用论文已可查阅",
+    "summary_zh": "Reddit机器学习社区用户发现NeurIPS会议的录用论文评审结果已显示为接收状态，评分多为4-5分。",
+    "key_points": [
+      "NeurIPS录用论文结果已悄然在线公布",
+      "被接收论文的评审分数通常在4分以上"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "69ccbbfdf872fa4166ea402c94ee7bc3",
+    "title": "How much should my AI subscription *actually* cost?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wp6mwj/how_much_should_my_ai_subscription_actually_cost/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T16:39:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I see a lot of comments about companies burning trillions of dollars on LLMs and that it's unsustainable.</p> <p>So if I'm paying $20 a month for ChatGPT or Claude or whatever, how much should I <strong><em>actually</em></strong> be paying for the company to be profitable? Or even just keeping up with how much it costs for an average user?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SleepingInTheFlowers\"> /u/SleepingInT",
+    "title_zh": "我的AI订阅服务实际应该值多少钱？",
+    "summary_zh": "Reddit用户讨论大语言模型公司的高额资金消耗是否可持续，并探讨像ChatGPT这类服务的合理订阅费用。",
+    "key_points": [
+      "探讨AI公司巨额投入是否为可持续商业模式",
+      "用户讨论每月20美元订阅费的合理性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "84fff227286057821b78ccdf8770ba2a",
+    "title": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+    "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T16:35:13+00:00",
+    "content_snippet": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
+    "title_zh": "专访ElevenLabs CEO：公司估值据报道已达220亿美元",
+    "summary_zh": "TechCrunch采访了估值达220亿美元的AI语音公司ElevenLabs的CEO，其技术广泛应用于客服电话，CEO认为企业应告知用户正在与AI对话。",
+    "key_points": [
+      "ElevenLabs估值据报已达220亿美元",
+      "其AI语音技术广泛应用于客户服务领域",
+      "CEO认为企业应主动披露AI通话身份"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0970685988e40ee9cd3132cc0db32aab",
+    "title": "Introducing Gemini 3.8 Live with Live Avatar",
+    "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-24T16:20:39+00:00",
+    "content_snippet": "",
+    "title_zh": "谷歌推出Gemini 3.8 Live及Live Avatar功能",
+    "summary_zh": "谷歌DeepMind发布Gemini 3.8 Live，新增Live Avatar功能，旨在提升AI交互的沉浸式体验。",
+    "key_points": [
+      "谷歌发布Gemini 3.8 Live新版本",
+      "新增Live Avatar功能提升交互体验"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
