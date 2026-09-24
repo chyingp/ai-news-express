@@ -652,5 +652,57 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "da4f1825a068498cb195b5c833531bb3",
+    "title": "Meta AI builds detailed profiles of children from years of family posts",
+    "url": "https://www.reddit.com/r/artificial/comments/1woo4b9/meta_ai_builds_detailed_profiles_of_children_from/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T01:17:53+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1woo4b9/meta_ai_builds_detailed_profiles_of_children_from/\"> <img alt=\"Meta AI builds detailed profiles of children from years of family posts\" src=\"https://external-preview.redd.it/__VfR9qOtJqV9Ua3OaX-nDE3D8E2xyB9F5RbBcSsElc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=96d60ae6d3a0781f896f4128fba3353933aac02e\" title=\"Meta AI builds detailed profiles of children from years of family posts\" /> </a> </td><td> &#32; submitt",
+    "title_zh": "Meta AI 从多年家庭帖子中为孩子构建详细画像",
+    "summary_zh": "报道揭露 Meta 的 AI 系统正通过分析用户多年在社交平台发布的家庭帖子和照片，为未成年人建立详细的个人资料档案，引发对儿童隐私保护的严重关切。",
+    "key_points": [
+      "Meta AI 通过分析多年家庭帖子构建儿童隐私档案",
+      "涉及在社交平台公开分享的照片和文本数据",
+      "引发对未成年用户数据保护和算法画像的担忧"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a58dd3909ca16b4bae71ca219eea95d2",
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T01:13:32+00:00",
+    "content_snippet": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+    "title_zh": "Meta AI 代理 Muse 即将推出的所有新功能",
+    "summary_zh": "报道 Meta 在年度 Connect 大会上重点展示了 AI 代理 Muse 的多项更新，包括将其集成至 Meta 的 AI 眼镜等全系产品，表明公司全力押注该 AI 助手。",
+    "key_points": [
+      "Meta 在 Connect 大会宣布全力押注 AI 代理 Muse",
+      "Muse 将深度集成至 Meta 的智能眼镜等硬件",
+      "CEO 扎克伯格主讲展示 Muse 的多项功能升级"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
