@@ -704,5 +704,194 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ffd5dab19b456d02c8964139fee0e062",
+    "title": "AI in Healthcare May Be Most Useful When It Knows Its Limits",
+    "url": "https://www.reddit.com/r/artificial/comments/1wouj6l/ai_in_healthcare_may_be_most_useful_when_it_knows/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-24T06:52:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A lot of discussion about AI in healthcare focuses on diagnosis, but I’m more interested in the less dramatic uses.</p> <p>AI could help summarize clinical notes, translate medical information into clearer language, flag missing information, reduce administrative work, or help patients prepare better questions for a doctor.</p> <p>Those uses still carry risks. A summary can leave out an important detail, a translation can be misunderstood, and a confident-soundi",
+    "title_zh": "医疗 AI 或许在自知局限时最为有用",
+    "summary_zh": "关于医疗 AI 的讨论多集中于诊断，但作者更关注其辅助性应用，如总结临床笔记、翻译医学术语、标记缺失信息及减少行政工作负担。",
+    "key_points": [
+      "AI 在医疗中的非诊断辅助应用潜力巨大",
+      "可帮助总结病历、简化医患沟通和减少文书工作"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "15e9c083e07a8c5e71fc704c8006f848",
+    "title": "What Changed from GPT-3.5 to GPT-4? Same Prompts. GPT-3.5: 0/30 Empty Nulls. GPT-4: 30/30. Run It Yourself.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wotyp9/what_changed_from_gpt35_to_gpt4_same_prompts/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-24T06:18:34+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wotyp9/what_changed_from_gpt35_to_gpt4_same_prompts/\"> <img alt=\"What Changed from GPT-3.5 to GPT-4? Same Prompts. GPT-3.5: 0/30 Empty Nulls. GPT-4: 30/30. Run It Yourself.\" src=\"https://preview.redd.it/5qaswq21verh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=378bd6905c2862cd7e273cb7f99903f67aa5a960\" title=\"What Changed from GPT-3.5 to GPT-4? Same Prompts. GPT-3.5: 0/30 Empty Nulls. GPT-4: 30/30. Run It Yourself.\" /> <",
+    "title_zh": "从 GPT-3.5 到 GPT-4 发生了什么变化？相同提示，GPT-3.5 返回空值，GPT-4 却能全数返回",
+    "summary_zh": "一位 Reddit 用户通过实验对比发现，使用相同提示词，GPT-3.5 在 30 次请求中均返回空值，而 GPT-4 在 30 次请求中全数成功返回结果。",
+    "key_points": [
+      "相同提示下 GPT-3.5 返回空值而 GPT-4 全部成功",
+      "展示了 GPT-4 在遵循指令和稳定性上的巨大提升"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b4dc352f8c679aac322e06fe3ff500e1",
+    "title": "AI Visibility Check presentation",
+    "url": "https://www.reddit.com/r/artificial/comments/1wotxa5/ai_visibility_check_presentation/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-24T06:16:11+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wotxa5/ai_visibility_check_presentation/\"> <img alt=\"AI Visibility Check presentation\" src=\"https://external-preview.redd.it/bnNyZmZhYmd1ZXJoMZ5k13S2_PX3BfQvI2KDTLVena1N-UdsrDhlHxrgnrSr.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e01700b96b6cecda407b43039e2c1763f8c5b979\" title=\"AI Visibility Check presentation\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Here's a short video introducing my project. It was made w",
+    "title_zh": "AI 可见性检查演示",
+    "summary_zh": "一篇 Reddit 帖子分享了一个关于 AI 可见性检查的演示，内容可能涉及 AI 模型或系统的可解释性与透明度验证。",
+    "key_points": [
+      "介绍了一个 AI 可见性检查的演示"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3caee869e0dc7388eb239d1df034d274",
+    "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+    "url": "https://www.qbitai.com/2026/09/496779.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-24T05:46:10+00:00",
+    "content_snippet": "Stripe Managed Payments (SMP) 现已全面上线",
+    "title_zh": "Stripe 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+    "summary_zh": "支付平台 Stripe 在中国举办首秀活动，宣布其托管支付服务全面上线，旨在构建 AI 经济的基础设施，助力全球商业增长。",
+    "key_points": [
+      "Stripe 在中国首秀并全面上线托管支付服务",
+      "致力于构建 AI 经济时代的基础设施"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "76cef342e90c541f26c07f47a3c5519c",
+    "title": "My Fiance is Convinced AI will likely cause a Catastrophic or Extinction-Type Event in the Next Few Years - How Justified Are His Fears?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wosn95/my_fiance_is_convinced_ai_will_likely_cause_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-24T05:03:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>As the title says. My fiance is a lot more book smart than I am but he doesn’t work in the tech industry, rather in the film industry. With all the news over the last two weeks, he’s been pretty anxious and depressed, claiming we only have a decade or less left to live. He’s been talking to his therapist about it to help him cope, but he’s still convinced none of us have any future past the mid 2030s. </p> <p>He sites the p(doom)s of AI researchers, the AI 2027 ",
+    "title_zh": "未婚夫坚信 AI 数年内将导致灾难或灭绝事件，其担忧是否合理？",
+    "summary_zh": "一位用户发帖称其从事电影行业的未婚夫因近期新闻而极度焦虑，坚信 AI 将在十年内引发灾难或灭绝事件，寻求对其恐惧是否合理的看法。",
+    "key_points": [
+      "圈外人士因 AI 新闻产生强烈的生存焦虑",
+      "讨论 AI 存在风险的公众恐慌心态是否合理"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9c9a51de1554bd56ea62312e43c4fb7c",
+    "title": "PopUpFactCheck: It even breaks the news since airtime!!! (QUALITY BREAKTHROUGH)",
+    "url": "https://www.reddit.com/r/artificial/comments/1wopyqr/popupfactcheck_it_even_breaks_the_news_since/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T02:44:49+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wopyqr/popupfactcheck_it_even_breaks_the_news_since/\"> <img alt=\"PopUpFactCheck: It even breaks the news since airtime!!! (QUALITY BREAKTHROUGH)\" src=\"https://external-preview.redd.it/y16VVVz4SojFDq8JzrvogSVuWhtzn6d3Nz6N2mnzaKg.png?width=140&amp;height=73&amp;auto=webp&amp;s=0f639be1c3b89c757703227ffb3634152e73e1e1\" title=\"PopUpFactCheck: It even breaks the news since airtime!!! (QUALITY BREAKTHROUGH)\" /> </a> </td><td> <!--",
+    "title_zh": "PopUpFactCheck：甚至能在播出时即时辟谣",
+    "summary_zh": "一款名为 PopUpFactCheck 的工具声称取得了质量突破，能够在新闻或节目播出时实时进行事实核查并即时辟谣。",
+    "key_points": [
+      "PopUpFactCheck 声称实现实时事实核查质量突破",
+      "可在内容播出时同步进行辟谣"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0de90bfa4c33d8e86032fb274cb319fb",
+    "title": "Meta just made a tiny AI device called Charm… but why would I carry this instead of my phone?",
+    "url": "https://www.reddit.com/r/artificial/comments/1woppcn/meta_just_made_a_tiny_ai_device_called_charm_but/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T02:32:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Meta just showed off Charm, a tiny AI device built around its Muse assistant.<br /> What caught my attention isn’t the device itself, but the idea behind it. We already have phones, watches and now AI glasses so Meta is basically asking us to carry yet another device just to have an AI assistant with us.<br /> I might be missing the point, but I genuinely want to understand what would make someone choose this over simply talking to their phone.</p> <p><strong>Wo",
+    "title_zh": "Meta 刚发布迷你 AI 设备 Charm，但我为何不直接用手机？",
+    "summary_zh": "Meta 展示了名为 Charm 的微型 AI 设备，搭载 Muse 助手。文章质疑在拥有手机、手表和智能眼镜的情况下，用户为何需要额外携带这一设备。",
+    "key_points": [
+      "Meta 发布名为 Charm 的微型 AI 助手设备",
+      "该设备在现有手机和眼镜之外增加了新的硬件形态"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2b6910bbfc1424c2fcd579f4d8684a13",
+    "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
+    "url": "https://www.qbitai.com/2026/09/496647.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-24T02:23:12+00:00",
+    "content_snippet": "美国也开启了全民养虾狂潮",
+    "title_zh": "Meta 凭借自研 Manus 翻身，股价一夜暴涨 11%，登顶苹果商店，增速反超 ChatGPT",
+    "summary_zh": "Meta 依靠其自研的 Manus 产品实现逆转，股价一夜之间暴涨 11%，该产品登顶苹果应用商店排行榜，其用户增长速度已经超过 ChatGPT。",
+    "key_points": [
+      "Meta 自研 Manus 推动股价一夜暴涨 11%",
+      "产品登顶苹果商店且用户增速反超 ChatGPT"
+    ],
+    "importance": 5,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
