@@ -456,5 +456,201 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "418f76f2a2f3e336c771cded817ee3d1",
+    "title": "Is Tech moving quicker than ever?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wonuaz/is_tech_moving_quicker_than_ever/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-24T01:05:02+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wonuaz/is_tech_moving_quicker_than_ever/\"> <img alt=\"Is Tech moving quicker than ever?\" src=\"https://preview.redd.it/omqvk4k3bdrh1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=cf9d9a12e14e675c350aa0912299df41e7fa32c5\" title=\"Is Tech moving quicker than ever?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Just watching Zuckerberg introducing VR glasses and they're getting smaller. Seeing Claude release some new mode",
+    "title_zh": "科技发展的速度变得更快了吗？",
+    "summary_zh": "一篇Reddit讨论帖，探讨当前科技发展速度是否比以往更快，用户分享了对AI等技术迭代速度的主观感受和看法。",
+    "key_points": [
+      "用户讨论当前技术迭代速度的主观感受",
+      "帖子属于开放式讨论，无实质性新闻内容"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b3b054f1bbc73550f66e3e456a129bc7",
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T00:46:17+00:00",
+    "content_snippet": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
+    "title_zh": "Meta 为其 Muse AI 代理开发了一款类似电子宠物的可穿戴设备",
+    "summary_zh": "Meta 为旗下新 AI 代理 Muse 打造了一款名为 Muse Charm 的微型硬件设备，外观类似没有表带的厚实智能手表，将成为访问 AI 的一个新移动终端。",
+    "key_points": [
+      "Meta 发布 Muse Charm，一款 AI 原生可穿戴硬件",
+      "设备为 Muse AI 代理提供新的物理载体和交互入口"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e69b481cc52294838fb44dcc3ab04951",
+    "title": "What’s a task you aggressively tried to automate with AI, but eventually went back to doing manually because the \"old way\" was just better?",
+    "url": "https://www.reddit.com/r/artificial/comments/1womzbs/whats_a_task_you_aggressively_tried_to_automate/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-24T00:25:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I spent way too much time trying to get LLMs to organize my weekly schedule and meal prep, only to realize writing it on a whiteboard was faster and actually kept me accountable. What did you finally give up on trying to AI?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OfficalYOUSUMMIT\"> /u/OfficalYOUSUMMIT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https:/",
+    "title_zh": "你曾积极尝试用AI自动化什么任务，但最终回归手动操作？",
+    "summary_zh": "一篇Reddit讨论帖，用户分享将AI用于日程或备餐自动化却最终放弃的经历，反思在某些场景下“旧方法”比AI更高效可靠。",
+    "key_points": [
+      "用户分享AI自动化任务失败的亲身经历",
+      "讨论了AI在简单日常任务中相比传统方法的不足"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "03e6d597d8c7e8b8de9cf2cee62c34c9",
+    "title": "Meta is making a standalone Muse AI gadget",
+    "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-24T00:15:20+00:00",
+    "content_snippet": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for [&#8230;]",
+    "title_zh": "Meta 正在制造独立的 Muse AI 小设备",
+    "summary_zh": "Meta 在 Connect 大会发布专为 Muse AI 代理打造的硬件产品 Muse Charm，CEO 扎克伯格在会上进行了展示，该设备拥有大屏幕，类似不带表带的智能手表。",
+    "key_points": [
+      "Meta Connect 大会发布 Muse Charm 硬件",
+      "设备作为 Muse AI 代理的独立物理入口"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "abe26ab67059b7299b9e5985c4dd5e7e",
+    "title": "Meta introduces camera-free AI glasses",
+    "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T23:39:44+00:00",
+    "content_snippet": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+    "title_zh": "Meta 推出无摄像头版 AI 眼镜",
+    "summary_zh": "Meta 发布了新款无摄像头的智能音频眼镜，以减轻重量并提升续航至12小时，旨在缓解公众对可穿戴监控设备的隐私担忧。",
+    "key_points": [
+      "发布无摄像头版智能眼镜，侧重音频和AI交互",
+      "设备更轻且电池续航长达12小时"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c5508130b300484e28680327a986352e",
+    "title": "Meta ditches the camera on its newest smart glasses",
+    "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T23:37:17+00:00",
+    "content_snippet": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearable surveillance tech - a catchall term that encompasses not just smart glasses, but also smartwatches and [&#8230;]",
+    "title_zh": "Meta 在其最新智能眼镜上放弃了摄像头",
+    "summary_zh": "在 Meta Connect 2026 大会上，Meta 展示了其最新款无摄像头智能眼镜。此举旨在应对公众对可穿戴监控技术的强烈反对，现场佩戴者众多，但外部争议仍存。",
+    "key_points": [
+      "为应对隐私争议，Meta 推出无摄像头智能眼镜",
+      "年会现场反映出业界对该形态设备的接纳程度"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "590f17902dd01fbd1823fff7a6a179ab",
+    "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+    "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T23:19:42+00:00",
+    "content_snippet": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to communicate with your Muse [&#8230;]",
+    "title_zh": "Meta 增强 Muse AI 功能并支持视频聊天",
+    "summary_zh": "Meta 对其 Muse AI 代理进行重大更新，为其分配独立邮箱以处理任务，并新增视频聊天交互能力，使该助手功能更强大、沟通方式更多样。",
+    "key_points": [
+      "Muse AI 获得专用邮箱，可自主完成任务",
+      "新增视频聊天功能，扩展 AI 交互方式"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "63549054e18f7a28c65e80048a41325d",
+    "title": "Meta Connect 2026: The biggest news and announcements",
+    "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-23T22:45:00+00:00",
+    "content_snippet": "It&#8217;s about time for Meta Connect, the company&#8217;s annual product launch event. This year, given the company&#8217;s major focus on AI and wearables like smart glasses, it seems likely that we&#8217;ll see updates from CEO Mark Zuckerberg and his team on those categories. The company has been facing significant scrutiny because of how some users [&#8230;]",
+    "title_zh": "Meta Connect 2026：最重磅的新闻与发布汇总",
+    "summary_zh": "汇总 Meta 年度产品发布大会 Connect 2026 的主要看点，预计将重点展示公司在 AI 和可穿戴设备领域的最新进展，并由 CEO 扎克伯格主讲。",
+    "key_points": [
+      "Meta Connect 2026 年度产品发布活动开幕",
+      "重点聚焦 AI 及智能眼镜等可穿戴设备的新品"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
