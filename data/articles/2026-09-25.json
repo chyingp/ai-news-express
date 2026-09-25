@@ -1203,5 +1203,82 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f6fd66c1471351c19cf7f44f5a8d7b23",
+    "title": "We interviewed GPT-OSS, Qwen, Gemma and GLM across 24 subjects and published all 1,452 positions",
+    "url": "https://www.reddit.com/r/artificial/comments/1wphwba/we_interviewed_gptoss_qwen_gemma_and_glm_across/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-25T00:13:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We wanted to see what happens when you keep asking language models what they actually think instead of accepting the first vague answer.</p> <p>So we interviewed:</p> <ul> <li>GPT-OSS-120B</li> <li>Qwen3-30B-A3B</li> <li>Gemma</li> <li>GLM-5.3</li> </ul> <p>Across philosophy, religion, history, economics, geopolitics, AI and 18 other areas.</p> <p>The interviewer advocated: argue against yourself, say what would change your mind, then make a prediction clear eno",
+    "title_zh": "我们对GPT-OSS、Qwen、Gemma和GLM进行了24个学科的“面试”并公布了全部1452个立场",
+    "summary_zh": "一项实验通过反复追问四个开源大语言模型（GPT-OSS-120B、Qwen3-30B-A3B、Gemma、GLM-5.3）在24个学科上的观点，而非接受其模糊的首次回答，以探究模型在深入对话中的真实表现与立场变化。",
+    "key_points": [
+      "通过多轮追问探究模型在24个学科中的深层立场",
+      "测试对象涵盖GPT-OSS、Qwen、Gemma和GLM等开源模型",
+      "公开了全部1452个模型回答立场数据"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "deepseek",
+      "alibaba",
+      "google",
+      "zhipu"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "becbb4e039b423ba5fdb0e73b616705c",
+    "title": "What's up with AAAI reviewers and organizers? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wphteu/whats_up_with_aaai_reviewers_and_organizers_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-25T00:09:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My paper advanced to the second round...but...</p> <p>Out of the papers I reviewed.</p> <p>One did not follow the AAAI template and was unblinded. My review was two lines. The other &quot;human reviewer&quot; gave a list of pros and cons that were similar to the AI review.</p> <p>One was incomplete (missing paragraphs, figures, code, no details). My review was also two lines. The other &quot;human reviewer&quot; also gave a list of pros and cons, that were simil",
+    "title_zh": "AAAI审稿人和组织者怎么了？[讨论]",
+    "summary_zh": "一篇讨论帖反映了AAAI学术会议的审稿质量问题，包括审稿人未遵循模板、审稿意见过短、AI辅助审稿以及论文在第二轮遭快速拒稿等现象，引发对同行评审流程的担忧。",
+    "key_points": [
+      "AAAI审稿人被指审稿不严谨，出现仅两行的简短意见",
+      "论文进入第二轮后被快速拒稿，引发对评审流程的质疑",
+      "讨论涉及论文未匿名、AI辅助审稿等问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2d024edf16a388f2f45b7e9e1702f7cb",
+    "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+    "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-24T22:29:48+00:00",
+    "content_snippet": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
+    "title_zh": "CDC在不明原因延迟后开放各州新冠疫苗订购",
+    "summary_zh": "美国疾控中心（CDC）在经历了一段无法解释的延迟后，终于向各州开放了新冠疫苗的订购。此前，卫生部门曾将此延迟归咎于“采购决策尚未最终敲定”，但未提供更多细节。",
+    "key_points": [
+      "CDC在无法解释的延迟后恢复新冠疫苗的州级订购",
+      "卫生部门此前将延迟归因于采购决策未定",
+      "延迟的具体原因仍未公开说明"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
