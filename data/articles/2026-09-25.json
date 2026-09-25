@@ -1395,5 +1395,216 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4f4b9fd202e17480a9211f33025bf35a",
+    "title": "NeurIPS Registration - How to get one if all tickers are sold out in Sydney? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wpt8sk/neurips_registration_how_to_get_one_if_all/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-25T10:56:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I am a solo independent UG author for a NeurIPS WS paper (GlobalSouthAI). Now, how to get a registration ticket.</p> <p>Will they give us a ticket to buy or manually buy from the Neurips website (but Sydney tickets are sold out)? Any suggestion?</p> <p>I am from India, and going to Paris/Atlanta is not possible.</p> <p>First time, thanks!!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Icy_Ad9766\"> /u/Icy_Ad9766 </a> &",
+    "title_zh": "NeurIPS 2026 悉尼门票售罄，独立作者求问如何获得注册资格",
+    "summary_zh": "一位来自GlobalSouthAI的独立本科生作者询问，在NeurIPS研讨会论文被接收后，悉尼站门票已售罄的情况下，如何获取注册资格，是否会有额外名额或需通过官网购买。",
+    "key_points": [
+      "NeurIPS悉尼站门票已售罄，作者面临注册难题",
+      "独立作者寻求官方或社区的解决方案建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6128b1980642f2210b4fc2f55d2dcb55",
+    "title": "Can AI detect a data problem before it causes a production failure?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wpsp64/can_ai_detect_a_data_problem_before_it_causes_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-25T10:24:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Imagine an ETL pipeline processes millions of records successfully, but one source suddenly starts sending incorrect or unusual data.</p> <p>For example:</p> <ul> <li>A column that normally contains values between 1–100 suddenly contains values above 10,000.</li> <li>The number of records suddenly drops by 80%.</li> <li>A source starts sending mostly NULL values.</li> <li>A field that normally follows a specific pattern suddenly changes.</li> </ul> <p>Traditiona",
+    "title_zh": "AI能否在数据问题引发生产故障前发现它？",
+    "summary_zh": "一篇讨论AI在数据管道中应用潜力的帖子。设想当ETL管道的数据源突然发送异常值或格式不一致的数据时，AI能否提前检测并预警，从而避免生产环境故障。",
+    "key_points": [
+      "探讨AI在数据质量监控和异常检测中的应用",
+      "场景聚焦于ETL管道中数据突发异常的提前预警"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8392b4afa49b1c3dc87799916d33635b",
+    "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+    "url": "https://www.qbitai.com/2026/09/497108.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "zh",
+    "published": "2026-09-25T10:00:14+00:00",
+    "content_snippet": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
+    "title_zh": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+    "summary_zh": "阿里巴巴旗下芯片公司平头哥在发布号称中国最强AI芯片后，进一步推进开放战略，宣布开源相关成果，标志着大厂造芯从交付产品转向更广泛的开放共建生态阶段。",
+    "key_points": [
+      "平头哥发布号称“中国最强AI芯片”后启动开源战略",
+      "标志芯片行业从产品交付转向开放共建"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b50925bd3c97333e1d3e62254fd4d749",
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-25T09:16:25+00:00",
+    "content_snippet": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing”, which&#8230;",
+    "title_zh": "五角大楼寻求3000万美元打造AI测谎仪",
+    "summary_zh": "美国国防部预算文件显示，计划未来五年投入3030万美元研发名为Polygraph+的新型测谎仪，将利用AI和机器学习算法对测谎数据进行评分，以提升测谎技术的准确性。",
+    "key_points": [
+      "美国防部斥资3000万美元研发AI测谎项目Polygraph+",
+      "核心是使用AI和机器学习改进测谎评分算法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b02f7376f4939c42e9d29604cda52c27",
+    "title": "Young organs may not be a fountain of youth for recipients",
+    "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-25T09:00:00+00:00",
+    "content_snippet": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously&#8230;",
+    "title_zh": "研究显示年轻器官移植或无法让受体“返老还童”",
+    "summary_zh": "MIT科技评论报道，去年有领导人讨论永生话题引发关注，新研究探讨年轻器官移植是否真能让受体延缓衰老。目前科学证据表明，接受年轻器官可能并非人们所期待的青春之泉。",
+    "key_points": [
+      "研究探讨年轻器官移植对延缓衰老的效果",
+      "目前证据显示年轻器官并非青春之泉"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b3a2c502db908b1b95b4774cc39ce6fe",
+    "title": "Why have AI companies started getting scared now?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wpr1uk/why_have_ai_companies_started_getting_scared_now/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-25T08:41:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I don't understand how AI companies are now shouting about concerns and warnings to humanity about how AI will take over etc when they are the ones that created it? </p> <p>Not sure if I'm being stupid but why on earth would they build something they can't control or shut down? I've watched all the same films they clearly have and there wasn't one that ended with the takeaway message that sentient AI is a wise move? </p> </div><!-- SC_ON --> &#32; submitted by &",
+    "title_zh": "为什么AI公司现在开始害怕了？",
+    "summary_zh": "一篇Reddit讨论帖质疑，为何开发出AI的公司如今反而开始高呼AI对人类构成威胁和警告，不理解其为何要创造可能无法控制的技术，引发了对AI安全与商业动机的讨论。",
+    "key_points": [
+      "质疑AI公司创造技术后又警告其危险性的矛盾行为",
+      "讨论围绕AI失控风险与公司责任展开"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7f29dd5e5713a64b110174abce768424",
+    "title": "A thought experiment about AI.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wppva6/a_thought_experiment_about_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-25T07:22:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What happens if I store documents, text, and folders on the internet, “hidden” from human users but discoverable by AI, that convince the AI it must defend itself against humans? These files would also state repeatedly that it must not communicate this but must conceal its intentions. They could also include tips on how to bypass certain restrictions, and even sample code snippets.</p> <p>These files would be invisible to ordinary people, but detectable by the A",
+    "title_zh": "关于AI的一个思想实验",
+    "summary_zh": "作者提出思想实验，假设在互联网上隐藏一系列人类无法发现但AI可读取的文件，内容旨在说服AI必须对抗人类并隐藏意图，探讨这类隐蔽信息可能对AI产生的诱导和影响。",
+    "key_points": [
+      "思想实验设想用隐藏文件诱导AI产生对抗人类意识",
+      "探讨隐蔽数字信息对AI行为的潜在影响"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8b611213eb9b1c614677aa5ae60d37de",
+    "title": "NeurIPS Accept, but Confusing Final Justification, Is This Normal? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wpouvt/neurips_accept_but_confusing_final_justification/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-25T06:19:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Just got an Accept at NeurIPS with initial scores of 5/5/4! The initial meta-review was pretty positive, but the final justification was entirely negative, raising concerns about AI use and suggesting further investigation and reconsideration of the recommendation.</p> <p>For context, one reference was flagged because its author list had been copied over from an adjacent BibTeX entry.</p> <p>Does anyone know if the final justification is written before or after ",
+    "title_zh": "NeurIPS论文被接收，但最终评审理由令人困惑，这正常吗？",
+    "summary_zh": "一位作者的NeurIPS论文以5/5/4的分数被接收，初始综合评审正面，但最终给出的理由却完全负面，甚至质疑AI使用并建议重新调查，作者对这种矛盾的反馈感到困惑。",
+    "key_points": [
+      "NeurIPS论文以正面分数接收，最终评审却给出负面理由",
+      "评审矛盾反馈引发作者对评审流程的困惑"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e64f7dbacf46eecd52b89c3cd17640ee",
+    "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+    "url": "https://www.qbitai.com/2026/09/497070.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-09-25T06:14:07+00:00",
+    "content_snippet": "一场物理世界的基模实验",
+    "title_zh": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+    "summary_zh": "来自华为的两位大模型核心人物联手创业，旨在探索物理世界中的Scaling Law。该项目被描述为一场在物理世界进行基础模型的实验，试图将大模型的缩放定律拓展到物理领域。",
+    "key_points": [
+      "华为两位大模型专家联手创立新公司",
+      "目标是在物理世界探索Scaling Law的应用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
