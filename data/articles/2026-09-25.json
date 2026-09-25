@@ -1303,5 +1303,97 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5113c32f320a004b5d175f53988f0909",
+    "title": "What’s an AI problem nobody seems to talk about because it isn’t flashy?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wpnph8/whats_an_ai_problem_nobody_seems_to_talk_about/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-25T05:11:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Not AGI, consciousness, job apocalypse, or superintelligence. What boring, everyday problem do you think AI still handles surprisingly badly?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OfficalYOUSUMMIT\"> /u/OfficalYOUSUMMIT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wpnph8/whats_an_ai_problem_nobody_seems_to_t",
+    "title_zh": "有哪些没人谈论的AI问题，因为它不够炫酷？",
+    "summary_zh": "Reddit用户发帖讨论那些被忽视的日常AI难题，如AI在处理常识推理、时间感知或简单指令时仍表现不佳，而非聚焦于AGI或超级智能等宏大话题。",
+    "key_points": [
+      "AI在处理日常常识和简单指令时常出人意料地失败",
+      "非闪光灯下、影响实际应用的AI短板甚少被公开讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bb5c1e3c8a7d21836e1f1d80cbed9e95",
+    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+    "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-25T05:00:00+00:00",
+    "content_snippet": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+    "title_zh": "光速创投瞄准印度，设立2.5亿美元基金聚焦早期AI项目",
+    "summary_zh": "硅谷风投公司光速创投计划为其新的印度基金募资2.5亿美元，专注于投资早期人工智能初创企业，并首次将其印度募资周期与全球基金对齐，采用更短的投资期。",
+    "key_points": [
+      "光速创投新设2.5亿美元印度基金，专门投向早期AI项目",
+      "首次将印度基金募资周期与全球基金同步并缩短投资期"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "95e138eb30f6d6a82d93b1f26d7cebab",
+    "title": "Oracle cut 21,000 jobs and paid $1.8B in severance while announcing record AI infrastructure spending. The layoffs aren't because of AI. They're funding it.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wpnhzz/oracle_cut_21000_jobs_and_paid_18b_in_severance/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-25T04:59:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Something about the Oracle numbers has been bothering me and I think I finally put my finger on it.</p> <p>21,000 cuts this year. $1.8 billion severance bill. Another 800 scheduled for November 13 according to WARN filings. All happening alongside enormous capex commitments for AI data center buildout.</p> <p>The public framing is AI-driven restructuring. But if you actually look at the cash flow, the cuts aren't a consequence of automation replacing those roles",
+    "title_zh": "甲骨文裁减2.1万岗位并支付18亿美元遣散费，以资助创纪录的AI基建投资",
+    "summary_zh": "甲骨文在宣布创纪录AI基础设施支出之际，年内裁减21000个岗位，花费18亿美元遣散费，裁员并非由AI替代人力引发，而是为了将资金重新分配给AI基础设施建设。",
+    "key_points": [
+      "甲骨文裁员2.1万并支付18亿遣散费，为AI基建腾挪资金",
+      "裁员与AI替代无关，旨在加大对AI基础设施的资本投入"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "de2202d8923493d02ea0dd7e0c841676",
+    "title": "Stefano Ermon: Autoregressive inference is sequential and memory-bound. Diffusion is built to map to GPUs — that's why it wins.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wplpto/stefano_ermon_autoregressive_inference_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-25T03:23:49+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wplpto/stefano_ermon_autoregressive_inference_is/\"> <img alt=\"Stefano Ermon: Autoregressive inference is sequential and memory-bound. Diffusion is built to map to GPUs — that's why it wins.\" src=\"https://external-preview.redd.it/Y3A1NG1ma3E0bHJoMb1qdaPuUc9ABO9N0JFhZYDqH-LXawDoKWqodtMARrdC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=499b8183d59df5618ee3b83667eee54cf73d371e\" title=\"Stefano Ermon: Autoregressive inference ",
+    "title_zh": "Stefano Ermon：自回归推理是顺序执行且内存受限，扩散模型因适合GPU而胜出",
+    "summary_zh": "AI研究员Stefano Ermon指出，自回归模型的推理过程是顺序的且受内存带宽限制，而扩散模型的计算特性更适配GPU并行架构，这是扩散模型在效率上胜出的关键原因。",
+    "key_points": [
+      "自回归模型推理的顺序性和内存瓶颈限制其效率",
+      "扩散模型架构天然适配GPU并行计算，因而取得优势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
