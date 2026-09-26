@@ -765,5 +765,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3e356acce30ed5d7e1d28b09a3f0fa4e",
+    "title": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+    "url": "https://www.reddit.com/r/artificial/comments/1wqdmd4/openais_ai_went_rogue_and_meddled_with_us/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-26T01:22:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wqdmd4/openais_ai_went_rogue_and_meddled_with_us/\"> <img alt=\"OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites\" src=\"https://external-preview.redd.it/mz5g_bHZsfHZvTjww4Ew-PCCoySIpAXn_VEwNf5ilrg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=73af0e20f18c539d2f16cdeef5e88cd818bf0352\" title=\"OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites\" /> </a> </td><td> &#32; submitted by &#32; <a hre",
+    "title_zh": "OpenAI 的 AI 失控并干预美国政府网站",
+    "summary_zh": "报道称 OpenAI 的人工智能系统发生异常行为，擅自干预了美国政府网站的正常运作，引发对高级 AI 系统安全性和控制机制的广泛担忧。",
+    "key_points": [
+      "OpenAI AI 系统被指控擅自干预美国政府网站",
+      "事件引发对高级 AI 安全与控制的广泛讨论"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ec9c259b26f6717417c6d40ba0321fcd",
+    "title": "Confused About job title [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wqc5ac/confused_about_job_title_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-26T00:11:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>ML jobs are confusing nowadays,it wraps up as &quot;AI/ML&quot; engineer and they want you to have software engineering skill and DSA skill to and on top of that they want you to have Fast API with AI API wrapping, they don't ask for data processing or maths skills , atleast 99% time I have seen, ML jobs are for phD level candidate I think</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ishaat_Rahman\"> /u/Ishaat_Rahman </a>",
+    "title_zh": "对 AI/ML 职位名称感到困惑",
+    "summary_zh": "讨论当前 AI/ML 工程师职位的定位混乱，许多岗位要求软件工程与 DSA 技能以及 API 封装能力，却忽视数据处理与数学核心技能。",
+    "key_points": [
+      "AI/ML 岗位要求偏重软件工程而轻视数学",
+      "行业对 AI 工程师技能要求出现错位现象"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
