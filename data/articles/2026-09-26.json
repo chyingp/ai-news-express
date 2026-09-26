@@ -1224,5 +1224,76 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e78a8105396f4a12d61139da61f88dd1",
+    "title": "DHH went “pencils down.” Is “AI can’t code” still a serious argument?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wqswkf/dhh_went_pencils_down_is_ai_cant_code_still_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-09-26T15:09:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>DHH just told a room full of developers that 37signals has effectively gone “pencils down.”<br /> Writing code by hand is now the exception there, not the default.<br /> He says he went from roughly 30k lines of production code per year historically to around 150k lines in August using agents, and they’re now rebuilding HEY with native clients and a Rust backend using agent-driven development.<br /> You can argue about the hype. You can argue about code quality.",
+    "title_zh": "DHH宣布进入“搁笔”模式，“AI不会编程”的争论还有意义吗？",
+    "summary_zh": "37signals公司创始人DHH告知开发者，其团队已几乎停止手写代码，默认使用AI生成。他个人的年代码产出量从约3万行飙升至15万行，引发对“AI无法真正编程”论调的重新审视。",
+    "key_points": [
+      "37signals已将AI生成代码设为默认工作流程",
+      "DHH个人年代码产出从3万行增至15万行",
+      "事件再次挑战“AI不会编程”的传统观点"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "17a1f6457583cd88ef9bed6ba0dd5228",
+    "title": "Why things move seemingly slow even with fast AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wqs8bz/why_things_move_seemingly_slow_even_with_fast_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-09-26T14:41:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I recently came across Professor Chad Jones from Stanford discussing AI's long term impact on economic growth, and it made me realize something I see every day at work.</p> <p>His research suggests that AI could significantly boost long term economic growth, but the biggest gains may take time because progress is often limited by the slowest essential step in a process, a.k.a weak links. History shows that technologies like electricity and computers took decades",
+    "title_zh": "AI速度虽快，为何事物发展似乎依然缓慢？",
+    "summary_zh": "文章援引斯坦福教授的研究，探讨AI虽能显著提升长期经济增长，但在短期内，由于扩散、适应和结构性摩擦等因素，人们感觉事物进展并不如AI本身那样迅猛。",
+    "key_points": [
+      "AI能显著提升长期经济增长潜力",
+      "感觉进展缓慢源于AI的扩散与适应过程",
+      "斯坦福教授的研究解释了预期与现实的差距"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bd23da3b5ebc0e2ba833fbedb81a0225",
+    "title": "Are there any universities offering a master's in AI in healthcare?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wqs6eu/are_there_any_universities_offering_a_masters_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-26T14:39:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am looking for universities offering AI in health and would appreciate it if someone knows any university offering this degree.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Consistent-Clock-140\"> /u/Consistent-Clock-140 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wqs6eu/are_there_any_universities_offering_a_mas",
+    "title_zh": "是否有大学提供医疗健康领域的人工智能硕士学位？",
+    "summary_zh": "有用户在论坛上发帖咨询哪些大学提供医疗健康方向的人工智能硕士学位，正在寻求相关的学术深造机会。",
+    "key_points": [
+      "用户寻求专注于医疗健康领域的AI硕士项目",
+      "话题属于教育咨询类讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
