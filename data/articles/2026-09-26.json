@@ -813,5 +813,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c30b56c47adeb08f7af155de3720de78",
+    "title": "I am finally starting to realize the full potential of AI for personal use",
+    "url": "https://www.reddit.com/r/artificial/comments/1wqg4bn/i_am_finally_starting_to_realize_the_full/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-26T03:31:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Over this past week, I finally started trying out Claude through my browser and have been using it to help automate my job applications (primarily searching job boards for roles that fit my criteria), tracking those applications and emails regarding applications, etc. </p> <p>I also started using Claude to help with research for college, right now for instance, I have Claude reviewing feedback from Gemini about sources I can use for an essay and it is autonomous",
+    "title_zh": "我终于开始意识到 AI 在个人使用中的全部潜力",
+    "summary_zh": "作者分享了过去一周使用浏览器版 Claude 辅助求职的经历，包括自动搜索符合条件的工作、跟踪申请和邮件，从而体验到 AI 对个人生产力的巨大提升，但未涉及具体产品发布或行业事件。",
+    "key_points": [
+      "用户通过 Claude 自动搜索职位匹配求职标准",
+      "Claude 帮助跟踪申请进度与邮件管理",
+      "个人体验强调 AI 提升效率的实用价值"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
