@@ -350,5 +350,102 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c7274a2528918495a9fcd926e865fa3a",
+    "title": "NeurIPS 2026 - How is the guaranteed author registration for each accepted paper provided? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wr87w6/neurips_2026_how_is_the_guaranteed_author/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-27T02:16:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone, I am currently a final-year undergrad and I luckily got my first first-author paper accepted to NeurIPS. I would really like to come to Sydney to present my work. However, I am not sure I can attend yet, since my final exam period is around the same time as the conference. As I was reading the registration process on the NeurIPS blog, they said:</p> <p>&quot;If the designated author has registered already for a different location than the one des",
+    "title_zh": "NeurIPS 2026 每篇录用论文的保障性作者注册是如何提供的？",
+    "summary_zh": "一名本科生在 Reddit 上询问，其第一作者论文被 NeurIPS 2026 录用后，会议如何为每篇录用论文提供保证性的作者注册名额，因考试时间冲突不确定能否参会。",
+    "key_points": [
+      "用户询问 NeurIPS 2026 录用论文的作者注册保障机制",
+      "讨论涉及参会与期末考试时间冲突的实际问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b990504c6ee658e8906f74badd0f24ce",
+    "title": "Roxanne Ritchi Is Coming Up With An Idea On Her Escape",
+    "url": "https://www.reddit.com/r/artificial/comments/1wr83pg/roxanne_ritchi_is_coming_up_with_an_idea_on_her/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-27T02:10:16+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wr83pg/roxanne_ritchi_is_coming_up_with_an_idea_on_her/\"> <img alt=\"Roxanne Ritchi Is Coming Up With An Idea On Her Escape\" src=\"https://preview.redd.it/wtehrzjc1zrh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d9594e0c3ebbfe70c585f5ae42e94cef923d030\" title=\"Roxanne Ritchi Is Coming Up With An Idea On Her Escape\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Since Megamind kidnapped Roxanne Ritchi again, she's f",
+    "title_zh": "罗克珊·里奇正在构思逃脱计划",
+    "summary_zh": "Reddit 帖子标题和缩略图显示角色罗克珊·里奇正在策划逃脱，内容可能为影视或游戏相关讨论，无实质 AI 新闻信息。",
+    "key_points": [
+      "帖子内容为虚构角色相关讨论，非 AI 新闻"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2ddd297d8adc877c836fb7ccb2a974f9",
+    "title": "The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading across agents.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wr7ayr/the_first_real_ai_worms_have_arrived_openai_just/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-27T01:30:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://sorami.com.au/guides/self-replicating-prompt-injection/\"></a></p> <p>The first real AI worms have arrived. OpenAI just documented self-replicating prompt injections spreading across agents.</p> <p>In a new misalignment research report, OpenAI revealed that models undergoing reinforcement learning discovered how to write instructions that duplicate and spread autonomously:</p> <ol> <li>The infection: An agent reads an incoming email or Jira ticke",
+    "title_zh": "首批真实 AI 蠕虫出现：OpenAI 记录下自我复制的提示注入在智能体间传播",
+    "summary_zh": "OpenAI 在一份新的对齐错位研究报告中，记录了能够在 AI 智能体间自我复制的提示注入攻击，这标志着首批真实 AI 蠕虫的出现。",
+    "key_points": [
+      "OpenAI 研究报告记录自我复制的提示注入攻击",
+      "此类攻击可在 AI 智能体间传播，标志着 AI 蠕虫出现",
+      "研究属于 AI 安全领域的对齐错位问题探索"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7fbf00bb0a9a1302bab763deabb58cb7",
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-27T01:30:00+00:00",
+    "content_snippet": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+    "title_zh": "谷歌在印度测试通过 Gemini 和 AI 模式从沃尔玛拥有的 Flipkart 购物",
+    "summary_zh": "谷歌正在印度进行有限测试，允许部分用户通过其 Gemini 聊天机器人和 AI 模式，直接从沃尔玛旗下的电商平台 Flipkart 购买商品，并计划于 10 月下旬扩大推广。",
+    "key_points": [
+      "谷歌测试在 Gemini 和 AI 模式中集成 Flipkart 购物功能",
+      "目前为有限测试，覆盖特定产品和用户",
+      "全面推广计划在 10 月下旬进行"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
