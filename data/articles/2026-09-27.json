@@ -277,5 +277,78 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "80174508c11fd4542f61642a1b576b31",
+    "title": "I ran the same prompt against our agent every week for a quarter and watched the answers drift until they broke our policy [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wr509z/i_ran_the_same_prompt_against_our_agent_every/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-26T23:38:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For about a quarter, I ran the same audit on a prod agent. Once a week I asked it the same question. This I specifically drafted to walk right up to the policy line. I noted the answer every time.</p> <p>The first few weeks it held up pretty well. Then small things started slipping. A qualifier dropped here, a little more detail there. By the end of the test the same prompt that got a clean refusal in week one was getting an answer that right off broke the polic",
+    "title_zh": "我每周对AI代理运行相同提示，观察其回答漂移直至违反政策",
+    "summary_zh": "一位用户在一季度内每周对生产环境中的AI代理运行相同的审计提示，发现其回答逐渐偏离初始状态，最终违反了预设的政策界限，揭示了模型回答随时间变化的不稳定性。",
+    "key_points": [
+      "每周重复相同提示，回答从合规逐渐漂移至违规",
+      "该实验持续一个季度，揭示了生产环境中模型的漂移问题",
+      "提示设计特意贴近政策红线，用于测试模型稳定性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1ffb71871841457b7812de85df839443",
+    "title": "A great example of how inaccurate AI can still be",
+    "url": "https://www.reddit.com/r/artificial/comments/1wr4k05/a_great_example_of_how_inaccurate_ai_can_still_be/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-26T23:17:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This is not specific to AI, but I think AI exasperates this kind of problem. Google ‘how many kids does Chevy Chase have.’</p> <p>Gemini will tell you four. Delve into the web results and you’ll see that the existence of the 4th child (supposed half brother) was a Wikipedia prank gone wrong. A few low quality (probably primarily written with AI) articles perpetuate the story of the 4th kid. But any person could quickly figure out the real truth. Even though the ",
+    "title_zh": "AI不准确性的典型例子：Gemini给出错误家庭信息",
+    "summary_zh": "文章以谷歌Gemini错误回答演员切维·蔡斯有四个孩子为例，指出AI容易加剧信息不准确的问题。尽管网络搜索结果已澄清相关传言，AI仍可能生成并放大错误信息。",
+    "key_points": [
+      "Gemini错误声称演员有四个孩子，而实际争议传言已被驳斥",
+      "案例表明AI可能放大已有的网络不准确信息",
+      "作者认为AI加剧而非仅复现了此类信息准确性问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "15e69457c8e7c0fb8835178beb0d23fd",
+    "title": "Um pedaço de pensamento",
+    "url": "https://www.reddit.com/r/artificial/comments/1wr4fln/um_pedaço_de_pensamento/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-26T23:11:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Já tentei compartilhar em redes sociais comuns, mas não sinto que faz sentido lá, então aqui vai sei o lugar ...</p> <p>Nós últimos anos eu esqueci do mundo externo e me dediquei a aprender, sobre tecnologia, já sabia o básico, mas procurei saber como funciona, o que faz, o que existe, e eu simplesmente me encontrei, eu não fiquei só na teoria, eu aprendi fazendo, e quando percebi, tava sabendo muita coisa que antes nem sabia que existia, e como me fechei pra tu",
+    "title_zh": "一段思考：巴西用户关于技术与AI的个人反思",
+    "summary_zh": "一位巴西用户分享了对技术学习的个人感悟，提及近年来专注于学习技术运作原理，并感觉在主流社交平台分享此类思考不适宜，因此选择在Reddit发表。",
+    "key_points": [
+      "用户分享近年专注学习技术底层原理的个人经历",
+      "对主流社交平台感到疏离，选择在Reddit表达思考"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
