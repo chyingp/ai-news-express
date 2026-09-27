@@ -447,5 +447,75 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "43b5d6a30333473cddb4bd2ef5d6dbe5",
+    "title": "Unofficial Jev plugin for coding agents: best practices, an API reference, and 150+ community projects. Evals included.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wra3v2/unofficial_jev_plugin_for_coding_agents_best/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-27T03:55:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm coming up for air from the bottomless evals ocean. I made a plugin that helps your harness of choice work Jev into your projects more holistically: best practices, anti-patterns, an API reference, and links to 150+ community projects grouped by design pattern, with a code sketch for each pattern. I built it around progressive disclosure, so the agent only loads what the task needs and it doesn't eat your context.</p> <p><a href=\"https://github.com/aaddrick/b",
+    "title_zh": "非官方 Jev 编程代理插件：最佳实践、API 参考及 150+ 社区项目",
+    "summary_zh": "Reddit 用户分享了一款非官方的 Jev 插件，旨在帮助编程代理更全面地集成 Jev。该资源包含最佳实践、反模式、API 参考，并按设计模式分类收录了 150 多个社区项目，同时提供了评估方法。",
+    "key_points": [
+      "提供 Jev 集成的 API 参考、最佳实践与反模式指南",
+      "收录超 150 个按设计模式分类的社区项目",
+      "包含针对代理代码生成的评估（Evals）方法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "28fd0846b4222ca54d4a365a7edf1f60",
+    "title": "Tauon: A new optimizer outperforming Muon on GPT-Mini (lower loss, ~8.5% faster step time) [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wr9ryk/tauon_a_new_optimizer_outperforming_muon_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-27T03:38:07+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wr9ryk/tauon_a_new_optimizer_outperforming_muon_on/\"> <img alt=\"Tauon: A new optimizer outperforming Muon on GPT-Mini (lower loss, ~8.5% faster step time) [P]\" src=\"https://preview.redd.it/8pbtu9azgzrh1.png?width=140&amp;height=40&amp;auto=webp&amp;s=14afb4fcf498ddd7b54eda686a71b871971a20e3\" title=\"Tauon: A new optimizer outperforming Muon on GPT-Mini (lower loss, ~8.5% faster step time) [P]\" /> </a> </td><td> <!-- SC_O",
+    "title_zh": "Tauon：超越 Muon 的新型优化器，在 GPT-Mini 上实现更低损失和约 8.5% 的加速",
+    "summary_zh": "研究项目 Tauon 提出了一种新的优化器，在 GPT-Mini 模型训练中，其性能超越了已有的 Muon 优化器，实现了更低的损失和约 8.5% 的每步训练时间缩短。",
+    "key_points": [
+      "新型优化器 Tauon 在 GPT-Mini 上性能优于 Muon",
+      "实现更低的训练损失，每步时间加快约 8.5%"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "27b181097655693bf8e9ab5e8b115530",
+    "title": "Teaching Neural Nets to Fight with RL [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wr99bn/teaching_neural_nets_to_fight_with_rl_p/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-27T03:10:39+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wr99bn/teaching_neural_nets_to_fight_with_rl_p/\"> <img alt=\"Teaching Neural Nets to Fight with RL [P]\" src=\"https://preview.redd.it/jsyu172kbzrh1.gif?width=640&amp;crop=smart&amp;s=8e822d114449ca3292e6dcad471cdfd566df97df\" title=\"Teaching Neural Nets to Fight with RL [P]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>In this project I wanted to see if we could discover any interesting emergent behaviors if we trai",
+    "title_zh": "利用强化学习训练神经网络进行格斗",
+    "summary_zh": "这是一篇研究项目展示，利用强化学习技术训练神经网络执行格斗任务，并附有演示动画，呈现了模型学习战斗策略的初步结果。",
+    "key_points": [
+      "研究探索使用强化学习训练神经网络格斗",
+      "项目展示了模型学习格斗策略的动态效果"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
