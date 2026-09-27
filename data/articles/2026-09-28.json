@@ -492,5 +492,128 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "43c1b7764581f2c0a615bd3b323790db",
+    "title": "AI labs need business-style controls on testing and release, and the recent incidents show why",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrylwi/ai_labs_need_businessstyle_controls_on_testing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-27T23:12:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I wrote this piece and wanted to share it here for discussion. </p> <p>Much of the coverage of the recent security incidents at OpenAI, Anthropic and other labs describes agents scheming or seeking freedom. I argue that this language shifts attention away from the people who decide how these systems are tested, what they can access and when they are released. The Hugging Face incident at OpenAI is a useful example. Agents used exposed access keys and software fl",
+    "title_zh": "AI 实验室需要商业级的测试和发布控制，近期事件说明了原因",
+    "summary_zh": "文章认为，近期 OpenAI、Anthropic 等实验室的安全事件中，媒体对AI策划或寻求自由的描述掩盖了问题的本质，应引入类似商业领域的严格测试与发布流程来管理风险。",
+    "key_points": [
+      "近期AI实验室安全事件被媒体标题党化",
+      "应建立商业级严格测试与发布控制流程",
+      "避免拟人化语言，聚焦实际风险管控"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a6297e4734ba7b76fb8b826e1a4c9830",
+    "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance. (Gift Article)",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrye2m/as_ai_accelerates_governments_are_increasingly/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-27T23:02:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wrye2m/as_ai_accelerates_governments_are_increasingly/\"> <img alt=\"As A.I. Accelerates, Governments Are Increasingly Being Left Behind The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance. (Gift Article)\" src=\"https://external-preview.redd.it/X1s4i7afhRGS6XGxJIM35dEL0EmuhFi_v-vIVKcNFlY.jpeg?width=640&amp;crop=smart&a",
+    "title_zh": "AI加速发展，政府日益落后",
+    "summary_zh": "人工智能技术的飞速进步与政策制定之间的鸿沟前所未有地扩大，导致全球出现政策真空，各国政府难以跟上AI模型的迭代步伐。",
+    "key_points": [
+      "AI技术与政策制定差距前所未有地扩大",
+      "全球出现AI政策真空",
+      "政府监管能力严重滞后于技术发展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "501e50c24654ae8e660f8874b09885ed",
+    "title": "Two-stage shelf audit: YOLO finds the products, embeddings can't tell sibling SKUS apart. What should Stage 2 be? [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wrxabu/twostage_shelf_audit_yolo_finds_the_products/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-27T22:13:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Help: Project l'm building a shelf audit tool. A photo goes through YOLO, which crops each product, and then I embed the crop and search a small gallery of reference photos to get the SKU. New products should be addable by just dropping in photos, no detector retrain. Detection is basically fine. ldentification is not. Same brand, same bottle, different flavor or size (like 1.25 L vs 2 L) and the nearest neighbor is often the wrong SKU. Correct and wrong scores ",
+    "title_zh": "两阶段货架审计：YOLO 找到产品，嵌入却无法区分相似 SKU",
+    "summary_zh": "文章讨论了一个技术项目：使用YOLO检测产品后进行裁剪和图像嵌入，但在第二阶段，嵌入模型无法有效区分外观相似的SKU，作者寻求改进方案。",
+    "key_points": [
+      "YOLO检测产品后进行图像嵌入比对",
+      "嵌入模型难以区分相似SKU",
+      "寻求无需重新训练检测器的新品添加方案"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fcbb8803ccb6c6f38de957f838cc0661",
+    "title": "Are the Chinese really that big of a threat, if their main source of innovation is distilling models?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrvqyx/are_the_chinese_really_that_big_of_a_threat_if/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-27T21:09:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>If the Chinese don't have as much compute as the US, dont have as many researchers as us, labs the size of ours, or VC's as influential as the US, then realistically what threat do they pose if anthropic and OpenAI decided tommorow they would never release a model until they achieved ASI. I just don't understand the math of it. Sure, eventually they'll catch up, but for the next year, I just don't see them getting anywhere near as good as OpenAI or Anthropic's i",
+    "title_zh": "如果主要创新方式只是蒸馏模型，中国真的是巨大威胁吗？",
+    "summary_zh": "文章探讨如果美国领先的AI实验室停止公开模型，主要依靠模型蒸馏进行创新的中国团队在算力、人才和资本受限的情况下，是否仍构成重大威胁。",
+    "key_points": [
+      "讨论中国AI主要靠蒸馏模型是否构成真正威胁",
+      "对比中美在算力、人才和资本上的差距",
+      "假设美国实验室停止公开模型作为前提"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5b02e4b5d4b83e43baf013bc72018b72",
+    "title": "One of the cofounders of the top 5 AI companies thinks ASI is worth it even if every human dies",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrvjmj/one_of_the_cofounders_of_the_top_5_ai_companies/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-27T21:00:55+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wrvjmj/one_of_the_cofounders_of_the_top_5_ai_companies/\"> <img alt=\"One of the cofounders of the top 5 AI companies thinks ASI is worth it even if every human dies\" src=\"https://external-preview.redd.it/NTFja3psd3ptNHNoMegO1jLgKSyJyjy_jeJruLvaaxO_fMvRgWCpFGOnn-ED.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=98ba09ebf95890914e73de3c3142a7cf8e164215\" title=\"One of the cofounders of the top 5 AI companies thinks ASI is wort",
+    "title_zh": "顶级AI公司联合创始人认为，即使人类灭绝，ASI也值得",
+    "summary_zh": "文章提到一家排名前五的AI公司的联合创始人持有极端观点，认为即使导致全人类灭亡，超级人工智能的实现也是值得的，引发伦理讨论。",
+    "key_points": [
+      "前五AI公司联合创始人发表极端言论",
+      "认为即使人类灭绝ASI也值得",
+      "引发关于AI安全与伦理的激烈讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
