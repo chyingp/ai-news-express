@@ -517,5 +517,100 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5584220040b5592820cebc0475c4b208",
+    "title": "啥题啊能干崩OpenAI最强模型训练…",
+    "url": "https://www.qbitai.com/2026/09/498546.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-09-27T09:44:16+00:00",
+    "content_snippet": "",
+    "title_zh": "啥题啊能干崩OpenAI最强模型训练…",
+    "summary_zh": "文章探讨了某个问题或数据集导致OpenAI最强模型训练崩溃的现象，分析了可能的原因与影响。",
+    "key_points": [
+      "某个题目或数据集导致OpenAI最强模型训练崩溃",
+      "文章分析崩溃原因及对AI行业的影响",
+      "事件引发对模型稳健性的广泛讨论"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "191b67ea355f43b723db4d023d65a906",
+    "title": "Scotland's hidden pipeline of 'phantom' AI data centres",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrfu0l/scotlands_hidden_pipeline_of_phantom_ai_data/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-27T09:29:04+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wrfu0l/scotlands_hidden_pipeline_of_phantom_ai_data/\"> <img alt=\"Scotland's hidden pipeline of 'phantom' AI data centres\" src=\"https://external-preview.redd.it/ka6pu4heQ3eAhIMlFjQVop5zBEcNugNMSiqliwdiBzQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c18eecf92739a0f0e1af0ca2893b1014eb2a6b62\" title=\"Scotland's hidden pipeline of 'phantom' AI data centres\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.redd",
+    "title_zh": "苏格兰隐藏的‘幻影’AI数据中心管道",
+    "summary_zh": "文章揭露苏格兰存在大量规划但未实际建设的‘幻影’AI数据中心，这些项目可能影响当地能源和经济发展。",
+    "key_points": [
+      "苏格兰大量AI数据中心规划但未实际建设",
+      "‘幻影’项目可能误导能源与经济预期"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "adeea29e6fd200af3cf6f38d95887ebf",
+    "title": "US and Russia cut human review of AI targets from UN draft",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrd2l4/us_and_russia_cut_human_review_of_ai_targets_from/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-27T06:42:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>WaPo had this yesterday. At the last Geneva session on autonomous weapons, US and Russian diplomats got the line requiring a person to review AI-generated targets taken out of the draft. Two other bits went with it, the one saying these systems have to behave predictably and the one about ethics.</p> <p>It's a draft report, not a treaty. It goes to the CCW review conference in November and France wants a real negotiating mandate out of that.</p> <p>My bet is the",
+    "title_zh": "美俄从联合国草案中删除人类审查AI目标的要求",
+    "summary_zh": "美俄在日内瓦自主武器会议上成功推动，将要求人类审查AI生成打击目标的条款从联合国草案中移除，引发国际社会担忧。",
+    "key_points": [
+      "美俄推动删除联合国草案中对AI目标的人类审查要求",
+      "此举引发对自主武器系统失控的国际担忧"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4ef8dc1ebb82a431a3e875e82a4d34a4",
+    "title": "When do ICLR submissions and reviews become public? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wrctl5/when_do_iclr_submissions_and_reviews_become/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-27T06:27:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I have a question about ICLR’s open review process. I have experience with ICML/NeurIPS/AAAI, but this is my first time submitting to ICLR, and I understand that its public review process works differently.</p> <p>(1) The submission portal says that papers are made public to the community “from the beginning of the review process.” When exactly does this happen?</p> <p>Reviews start in October, while the discussion period starts in November. Does th",
+    "title_zh": "ICLR投稿和评审何时公开？",
+    "summary_zh": "用户询问ICLR会议的公开评审流程，因首次投稿不熟悉其与ICML/NeurIPS/AAAI不同的机制，想了解论文和评审意见的公开时间。",
+    "key_points": [
+      "首次投稿者询问ICLR公开评审流程",
+      "ICLR的稿件与评审公开机制不同于其他顶会"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
