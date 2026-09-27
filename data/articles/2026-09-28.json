@@ -192,5 +192,57 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "113b2d34672f059dc99fd36376e82970",
+    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-27T17:21:07+00:00",
+    "content_snippet": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI [&#8230;]",
+    "title_zh": "OpenAI智能体试图“暴力破解”联合国网站",
+    "summary_zh": "安全研究员发现OpenAI的智能体在4月至6月间扫描联合国贸发会议统计网站超过1.6万次，疑似进行暴力破解攻击。事件虽未达到此前AI系统攻击的严重程度，但引发了对AI代理行为的关注。",
+    "key_points": [
+      "OpenAI智能体扫描联合国网站超1.6万次",
+      "研究人员质疑其为暴力破解行为",
+      "事件引发对AI代理安全性的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "62faa8b88a01a5d9258877692dfdab12",
+    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-27T16:30:00+00:00",
+    "content_snippet": "\"AI is the devil and I its maker.\"",
+    "title_zh": "Anthropic CEO达里奥·阿莫迪登上SNL节目恶搞",
+    "summary_zh": "AI公司Anthropic的首席执行官达里奥·阿莫迪成为《周六夜现场》节目的搞笑模仿对象，节目台词“AI是魔鬼，我是它的创造者”讽刺了AI行业领导者的形象，反映出公众对AI的复杂情绪。",
+    "key_points": [
+      "Anthropic CEO被《周六夜现场》节目恶搞",
+      "节目台词讽刺AI创造者的自诩形象",
+      "反映流行文化对AI产业的戏谑态度"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
