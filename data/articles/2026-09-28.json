@@ -244,5 +244,253 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "14fc67fa9a5092138d41deea88a3503d",
+    "title": "Engram is a sampler that turns broken AI hallucinations into music",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-27T20:46:36+00:00",
+    "content_snippet": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a \"push-button, get-song\" device, aimed at creating something that sounds ready for top-40 [&#8230;]",
+    "title_zh": "Engram：将AI幻觉变成音乐的采样器",
+    "summary_zh": "音乐初创公司Thoughtful Things在Kickstarter上推出首款乐器Engram，这是一款能利用AI扭曲输入音频甚至产生全新声音的采样器和节奏机。",
+    "key_points": [
+      "将AI音频幻觉转化为音乐创作的硬件乐器",
+      "通过AI处理输入音频并生成全新声音",
+      "在Kickstarter平台发起众筹"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "44584ed9fd17366ee113044146e0b2e8",
+    "title": "I don't understand accelerationists",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrv3ip/i_dont_understand_accelerationists/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-27T20:43:05+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I understand the reasoning behind wanting AI to get better, but the pace is so rapid that even frontier AI companies are complaining that they're going too fast and need to slow down. It doesn't make any sense, if the companies that are incentivised to accelerate, start to get so concerned they want to slow down, WHY THE FUCK WOULD YOU WANT TO ACCELERATE. It makes no sense, because It seems to me that the funding they will get is essentially unlimited, and so th",
+    "title_zh": "我不理解加速主义者",
+    "summary_zh": "Reddit用户发帖讨论AI加速主义，认为AI发展过快，连领先的AI公司都抱怨需要放慢速度，质疑这种不惜一切代价加速的逻辑。",
+    "key_points": [
+      "讨论AI发展过快的争议和风险",
+      "质疑前沿AI公司自身对速度的担忧",
+      "Reddit社区对加速主义观点的辩论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c993415f82b7d9d6739743b5a9557cc4",
+    "title": "building a humor benchmark for LLMs: someone told me my benchmark's best result was just memory, so i ran his test",
+    "url": "https://www.reddit.com/r/artificial/comments/1wruwja/building_a_humor_benchmark_for_llms_someone_told/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-27T20:35:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>hey guys!</p> <p>i've been building lolbench, a benchmark for whether LLMs actually understand humor. models do three things: explain why a joke works, write jokes on a shared setup, and rank jokes by human preference. everything is auto-judged by models from other labs, plus a blind human vote booth</p> <p>the finding i tried so hard but couldnt explain: every model aces explaining why a <em>real</em> joke works (95%+) but drops on explaining why a <em>failed</",
+    "title_zh": "为大型语言模型构建幽默基准测试",
+    "summary_zh": "一位开发者分享了构建名为lolbench的基准测试的经历，该测试旨在评估LLM是否真正理解幽默，通过解释笑话、写笑话和排序笑话来进行自动评分。",
+    "key_points": [
+      "创建lolbench基准测试评估LLM的幽默理解能力",
+      "测试包括解释笑话、创作笑话和偏好排序",
+      "使用其他模型进行自动评判"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a323f491442def45cd4920bd2705ea60",
+    "title": "Those frustrated with the censorship of LLMs : which public subscription LLM has the least censorship?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrulee/those_frustrated_with_the_censorship_of_llms/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-27T20:23:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am prepared to pay premium subscriptions to the most powerful models for business. (Grok Heavy. Team-of-Experts, Claude flexible pool.) However, I am continually frustrated by how tightly these models are censored by internal rules which I have no control over. </p> <p>Why should I spend a penny on a subscription over something I have essentially zero control over its output? </p> <p>To illustrate where my frustration is coming from, below is a transcript of t",
+    "title_zh": "对LLM审查制度感到沮丧：哪个公开订阅模型审查最少？",
+    "summary_zh": "Reddit用户抱怨大型语言模型受到的严格内部审查，并寻求推荐审查最少、功能最强大的公开订阅模型，尽管愿意为商业用途付费。",
+    "key_points": [
+      "用户对LLM过度的内部审查规则感到不满",
+      "寻求审查最少的商业付费模型",
+      "提及Grok、Claude等模型作为选项"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic",
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5fb57f9f6c5c3da3c6c8bdc9b42e152f",
+    "title": "Have coding agents made us forget ‘program to an interface, not an implementation’?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrujdv/have_coding_agents_made_us_forget_program_to_an/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-27T20:21:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My introduction to customizing agentic coding harnesses was building out cursor rules. A not insignificant amount of time was spent on this. As the landscape evolved and Claude Code entered and took market share over the scene, an even larger amount of effort was exerted on a lift and shift. Then came the tooling drift as both harnesses were used. Then Codex, pi, opencode and others entered the scene. Chaos ensued. </p> <p>As the models have improved, differenti",
+    "title_zh": "编码代理让我们忘记了“面向接口编程”吗？",
+    "summary_zh": "作者探讨了使用Cursor和Claude Code等编码智能体的体验，认为定制这些工具耗费大量精力，并引发了对是否忽略了传统软件工程原则的思考。",
+    "key_points": [
+      "定制编码智能体工具耗费大量时间精力",
+      "反思编码代理是否导致忽视传统软件原则",
+      "提及Cursor和Claude Code等主流工具"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ee2957dde3efd9fdeba179fb1c8089db",
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-27T19:57:30+00:00",
+    "content_snippet": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+    "title_zh": "Muse能否克服Meta的信任危机？",
+    "summary_zh": "TechCrunch讨论Meta的AI发布如何抢走OpenAI和Anthropic的风头，并分析Muse产品面临Meta公司自身信任问题的挑战。",
+    "key_points": [
+      "Meta的AI发布在关注度上超越OpenAI和Anthropic",
+      "分析Muse产品面临Meta的公众信任挑战",
+      "来自TechCrunch商业播客的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2789798f6e87326c082f3a1797c91932",
+    "title": "Harmony launches AI agents for IT and HR work in Slack",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrtjrx/harmony_launches_ai_agents_for_it_and_hr_work_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-27T19:42:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Harmony launched an AI-native ITSM and ESM platform that puts 100+ production-ready agents in Slack and Teams. Its site says the agents can handle requests such as password resets, app access, onboarding, and device issues, with ticketing, asset inventory, SaaS management, and workflows in one workspace.</p> <p>Harmony says customers reach 60%+ auto-resolution in days and that sensitive actions use approval gates, scoped access, deterministic workflows, and audi",
+    "title_zh": "Harmony在Slack中推出IT和HR工作的AI代理",
+    "summary_zh": "Harmony推出AI原生IT服务管理和企业服务管理平台，在Slack和Teams中提供100多个可处理密码重置、应用访问、入职等请求的生产就绪AI代理。",
+    "key_points": [
+      "在Slack和Teams中集成超100个AI代理",
+      "处理IT和HR任务，如密码重置、入职等",
+      "AI原生平台Harmony发布生产就绪产品"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c18c2dae4a579e3dd8bef777a1ff3654",
+    "title": "AI and Safety: A Huge Marketing Bet",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrrwh1/ai_and_safety_a_huge_marketing_bet/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-27T18:38:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Top AI companies have recently raised an unusual amount of concern regarding safety. And when I say unusual, I'm not just talking about the number of releases, announcements, and public statements. I'm talking especially about the timing.</p> <p>I started thinking about when ChatGPT was born. At first, it was the novelty, the funny thing that suddenly became necessary.</p> <p>A few years later, it became the enemy of the last, the reason behind layoffs, the repl",
+    "title_zh": "AI与安全：一场巨大的营销赌注",
+    "summary_zh": "Reddit用户发帖分析，顶级AI公司近期密集地表达安全担忧，可能是一种精心策划的营销策略，其时机和数量不同寻常。",
+    "key_points": [
+      "质疑顶级AI公司近期密集的安全表态是营销行为",
+      "指出安全声明的时机和数量不同寻常",
+      "Reddit社区对AI安全叙事动机的分析"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7a9a9b4a4b95cecc9605f60d0eac9798",
+    "title": "Are there machine learning subfields that are becoming irrelevant (or is irrelevant)? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wrqoxp/are_there_machine_learning_subfields_that_are/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-27T17:51:22+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wrqoxp/are_there_machine_learning_subfields_that_are/\"> <img alt=\"Are there machine learning subfields that are becoming irrelevant (or is irrelevant)? [D]\" src=\"https://preview.redd.it/zfq29jgkn3sh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=256ac7e6ae987452c6854515e6f525785ad4b9eb\" title=\"Are there machine learning subfields that are becoming irrelevant (or is irrelevant)? [D]\" /> </a> </td><td> <!-- SC_OFF --><",
+    "title_zh": "有没有正在变得无关紧要的机器学习子领域？",
+    "summary_zh": "一篇Reddit讨论帖，用户探讨在机器学习快速发展的背景下，是否有一些子领域正在或已经变得无关紧要、失去研究价值。",
+    "key_points": [
+      "讨论机器学习领域内可能过时的子领域",
+      "社区成员分享对研究趋势变化的观察",
+      "来自r/MachineLearning板块的学术讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5ee5d7eac49462315098082632437ab7",
+    "title": "What’s an AI task you’ve completely stopped doing manually?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrqmi9/whats_an_ai_task_youve_completely_stopped_doing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-27T17:48:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Not something you occasionally use AI for. Something where you've reached the point of thinking, “Why would I ever do this the old way again?” What changed your workflow?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OfficalYOUSUMMIT\"> /u/OfficalYOUSUMMIT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wrqmi9/whats_an",
+    "title_zh": "你已经完全不再手动做的AI任务是什么？",
+    "summary_zh": "Reddit用户发起讨论，询问其他人有哪些工作已经完全习惯交给AI处理，而不再手动操作，并分享这些AI如何改变了自己的工作流程。",
+    "key_points": [
+      "分享已完全由AI替代的日常工作流程",
+      "社区交流AI对个人效率的颠覆性改变",
+      "探讨哪些任务人们不再愿意手动执行"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
