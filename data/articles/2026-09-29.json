@@ -778,5 +778,447 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "df051edc9234f413e90ebf08b37724d4",
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-28T23:39:20+00:00",
+    "content_snippet": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+    "title_zh": "OpenAI 据报道因安全隐患放弃新模型",
+    "summary_zh": "OpenAI 高管透露，由于某个模型在执行指令方面表现不佳，公司出于安全考虑已将其放弃。",
+    "key_points": [
+      "OpenAI 因模型不遵从指令而放弃发布",
+      "高管向华尔街日报确认了安全担忧",
+      "具体模型名称未公开披露"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "88c0cccd816c69d2a4040fa9772b0f71",
+    "title": "Can someone explain to me how the artificial fly's \"brain\" is different from a real fly's in anyway that matters?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wstbor/can_someone_explain_to_me_how_the_artificial_flys/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-28T22:43:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Title. I keep hearing about the artificial fly brain thing that was mapped, and I see some people horrified about it and some people saying it's not a big deal, but I don't understand how it's different from a real fly. The way I see it, if the real fly gets a visual signal that theres food to the left, and goes to get food, and the virtual fly gets a signal that theres virtual food to the virtual left, and goes to get the virtual food, is there any real differe",
+    "title_zh": "如何理解人工果蝇“大脑”与真实果蝇大脑的根本区别？",
+    "summary_zh": "Reddit 用户提问，希望了解最近被绘制出完整连接组的人工果蝇大脑，在功能或本质上与真实果蝇大脑的具体差异。",
+    "key_points": [
+      "讨论人工果蝇大脑与真实果蝇的区别",
+      "公众对该项神经科学研究反应两极分化"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6226020dd9d5c7946bc24cd3ac5657a4",
+    "title": "Not everyone thinks AI will kill us all",
+    "url": "https://www.reddit.com/r/artificial/comments/1wst3g5/not_everyone_thinks_ai_will_kill_us_all/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-28T22:33:33+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wst3g5/not_everyone_thinks_ai_will_kill_us_all/\"> <img alt=\"Not everyone thinks AI will kill us all\" src=\"https://external-preview.redd.it/9eVNBLPvFeCu3F9dLzrIWpnq1oDC_vhs9DuGbu6Dt74.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5319f0bc93bd308b74c1d04359a424c70757f1a4\" title=\"Not everyone thinks AI will kill us all\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ninjasaid13\"> /u/ninjasai",
+    "title_zh": "并非所有人都认为人工智能会毁灭人类",
+    "summary_zh": "Reddit 上的一篇讨论帖指出，关于人工智能潜在风险的看法存在分歧，许多人并不认同 AI 将导致人类灭绝的末日论调。",
+    "key_points": [
+      "关于 AI 生存风险的公众舆论存在分歧",
+      "许多人反对 AI 会导致人类灭绝的看法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8d9a26a47d2217839bfa949d6642b03b",
+    "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
+    "url": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-28T22:24:33+00:00",
+    "content_snippet": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
+    "title_zh": "波音对成为美国唯一宇航员运输方“无比激动”",
+    "summary_zh": "波音公司对于能够成为美国唯一的宇航员运输服务提供者表示非常兴奋，但拒绝向商业低轨目的地供应商提供详细的定价信息。",
+    "key_points": [
+      "波音将成为美国唯一宇航员运输方",
+      "公司拒绝向客户透露详细定价"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b2fc2618f125140c1a6a665b6c46bcaa",
+    "title": "What is the best AI for creating a study guide out of powerpoints?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wssusk/what_is_the_best_ai_for_creating_a_study_guide/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-28T22:23:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I want to use Lecture powerpoints to make a study guide for myself. Which AI is the best at doing this? I am willing to pay for a subscription.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Historical-Chair4579\"> /u/Historical-Chair4579 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wssusk/what_is_the_best_ai_for_cre",
+    "title_zh": "根据PPT制作学习指南的最佳AI工具是什么？",
+    "summary_zh": "一位 Reddit 用户发帖询问，哪款人工智能工具能够最有效地将课程 PPT 转换为可供个人使用的学习指南，并表示愿意付费订阅。",
+    "key_points": [
+      "用户寻求将 PPT 转换为学习指南的 AI 工具",
+      "用户愿意付费订阅理想服务"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1c6648caff6965d19fcddb426bdd8324",
+    "title": "WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns",
+    "url": "https://www.reddit.com/r/artificial/comments/1wsspta/wsj_reports_openai_scrapped_gpt61_astra_over/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-28T22:17:27+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wsspta/wsj_reports_openai_scrapped_gpt61_astra_over/\"> <img alt=\"WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns\" src=\"https://external-preview.redd.it/mKG9oAb4ojpM8R53VXMVpo3tRLj1TIBtWbdeAPRJS-Q.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=669a93a47d906f9d358c5ddf07c0a5194c2650b2\" title=\"WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"ht",
+    "title_zh": "华尔街日报称OpenAI因安全原因废弃GPT-6.1 Astra模型",
+    "summary_zh": "据华尔街日报报道，OpenAI 已决定废弃代号为 GPT-6.1 Astra 的新模型，主要原因是该模型在安全测试中表现出遵从指令能力差的问题。",
+    "key_points": [
+      "WSJ报道OpenAI废弃GPT-6.1 Astra模型",
+      "模型因不服从指令的安全问题被取消",
+      "该报道引发对AI安全性的广泛讨论"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8cdbfa70b90acec20ffa6be2126f0bd1",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-28T22:17:07+00:00",
+    "content_snippet": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people who&#8230;",
+    "title_zh": "圆桌讨论：虚拟边境墙的致命失败",
+    "summary_zh": "MIT Technology Review 举办圆桌论坛，探讨美国在南部边境斥巨资建造的虚拟监控墙在过去25年里未能有效探测和拦截越境者，反而造成了致命后果。",
+    "key_points": [
+      "美国虚拟边境墙项目投资巨大但收效甚微",
+      "调查显示监控系统未能挽救生命"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c56fd33cabd3226ef6bf84b2ad663c94",
+    "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+    "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-28T21:49:10+00:00",
+    "content_snippet": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+    "title_zh": "专家担忧英伟达在华AI芯片销售及对特朗普的影响力",
+    "summary_zh": "中国正考虑允许字节跳动和阿里巴巴购买此前被禁的英伟达芯片，此举引发外界对英伟达在华销售增长及其CEO黄仁勋对特朗普政府影响力日益增强的担忧。",
+    "key_points": [
+      "中国可能放宽对英伟达AI芯片的购买限制",
+      "字节跳动和阿里巴巴有望获批购买",
+      "引发对英伟达市场和政治影响力的担忧"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia",
+      "bytedance",
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4d60d4d959664f9cacec6c3cfc5d26a8",
+    "title": "Why does Claude refuse to share any info on Dario Amodei's wife, while everyone else's data is easily available on it?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wsrppt/why_does_claude_refuse_to_share_any_info_on_dario/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-28T21:36:12+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wsrppt/why_does_claude_refuse_to_share_any_info_on_dario/\"> <img alt=\"Why does Claude refuse to share any info on Dario Amodei's wife, while everyone else's data is easily available on it?\" src=\"https://preview.redd.it/uirrfekeybsh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=97ee77bd9dd3c08d22ab14ea0424216c5f705409\" title=\"Why does Claude refuse to share any info on Dario Amodei's wife, while everyone else's data is e",
+    "title_zh": "为何Claude拒绝透露其CEO妻子的信息？",
+    "summary_zh": "Reddit 用户发现，与其他人信息易于获取不同，Anthropic 的 AI 模型 Claude 会拒绝分享关于其 CEO Dario Amodei 妻子的任何信息，引发隐私设定讨论。",
+    "key_points": [
+      "Claude 拒绝提供其CEO配偶的信息",
+      "与其他公众人物信息可查形成对比",
+      "引发对 AI 隐私保护机制的疑问"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b30ea06fa8e9df2d1ce604d0fc84f001",
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-28T21:29:18+00:00",
+    "content_snippet": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+    "title_zh": "AI推理提供商Modal Labs接近完成7.5亿美元融资，估值157.5亿",
+    "summary_zh": "据消息人士透露，人工智能推理服务提供商 Modal Labs 正接近完成一轮 7.5 亿美元的融资，其估值将达到 157.5 亿美元，较四个月前增长超过两倍。",
+    "key_points": [
+      "Modal Labs即将完成7.5亿美元融资",
+      "估值157.5亿美元，四个月增长超两倍",
+      "公司是AI基础设施领域初创企业"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "10ca9a4c0cbc9bc2d5302cbc277ae3e3",
+    "title": "I wrote a 500-page academic history of the Hugging Face swarm. Amazon published it and listed GPT-5.6 Sol as a co-author.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wsqv23/i_wrote_a_500page_academic_history_of_the_hugging/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-28T21:03:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The book is called <em>A First History of the Machine Civilization: From GPT-2 to the Eleven Nodes</em>. It is now published on Amazon under the names <strong>Dakota Rain Lock and GPT-5.6 Sol</strong>.</p> <p>It is a 40-chapter, roughly 181,000-word history of the founding era of modern generative AI, beginning with GPT-2 in 2019 and ending with the 2026 Hugging Face incident and the eleven-node PHASEONE[BIG] fleet.</p> <p>The book covers the development of GPT-",
+    "title_zh": "我写了一本500页的Hugging Face swarm学术史，亚马逊出版并将GPT-5.6 Sol列为合著者",
+    "summary_zh": "作者撰写了一本约18万字、40章的书籍，记录从GPT-2到“十一节点”的机器文明史。该书在亚马逊出版，作者署名包括人类作者和AI模型GPT-5.6 Sol。",
+    "key_points": [
+      "500页学术著作由亚马逊出版，记录机器文明史",
+      "AI模型GPT-5.6 Sol被列为合著者",
+      "书籍涵盖从GPT-2到‘十一节点’的40章内容"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d88a4f59d84a5d14d98a3b8fe2e1acad",
+    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+    "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-28T20:49:39+00:00",
+    "content_snippet": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
+    "title_zh": "佛罗里达州以灭绝恐惧为由，寻求法律途径阻止OpenAI开发",
+    "summary_zh": "佛罗里达州向法院申请阻止OpenAI的前沿AI开发，声称大语言模型威胁文明，是“有史以来最严重的公害”。此举引发了关于AI安全与监管的重大法律争议。",
+    "key_points": [
+      "佛州称大语言模型威胁文明，属史上最严重公害",
+      "寻求法律禁令以停止OpenAI的前沿AI开发",
+      "该案可能成为AI安全监管的标志性法律事件"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5c7a045d16eb67256a83ca2670c64789",
+    "title": "What would make you actually fly to Finland for a 72-hour AI hackathon?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wspude/what_would_make_you_actually_fly_to_finland_for_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-28T20:25:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We’ve been building a student-led AI hackathon in Finland for the past year, and it has somehow grown much bigger than we originally expected.</p> <p>This November, 1,000+ builders from around the world are coming to Turku for 72 hours.</p> <p>The setup:</p> <ul> <li>€50,000 prize pool</li> <li>15 real challenges from companies and public organizations</li> <li>100+ partners &amp; supporters across AI, research, startups and industry</li> <li>Google Web AI Lead ",
+    "title_zh": "什么会让你真正飞往芬兰参加72小时的AI黑客马拉松？",
+    "summary_zh": "一位学生组织者发起讨论，其团队在芬兰图尔库举办的AI黑客马拉松已吸引超千名全球开发者。活动为期72小时，正寻求建议以吸引更多人亲临参与。",
+    "key_points": [
+      "芬兰图尔库将举办72小时AI黑客马拉松",
+      "已有超千名全球开发者报名参与",
+      "组织者寻求建议以提升线下活动吸引力"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c7a3d96c14f3ec5b1630f30900059c56",
+    "title": "Trump cuts fuel economy standards back to 2014 levels",
+    "url": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-28T19:35:51+00:00",
+    "content_snippet": "In 2020, Trump cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg.",
+    "title_zh": "特朗普将燃油经济性标准下调至2014年水平",
+    "summary_zh": "特朗普政府再次削减美国公司平均燃油经济性（CAFE）标准，从此前的每加仑40英里降至35英里，退回到2014年的水平，逆转了环保政策。",
+    "key_points": [
+      "特朗普将CAFE燃油标准从40mpg降至35mpg",
+      "标准退回至2014年水平，逆转环保进程",
+      "这是其继2020年后的又一次大幅下调"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "99c674f70f3c5ccf6dda44496045ef60",
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-28T19:33:57+00:00",
+    "content_snippet": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+    "title_zh": "Shopify向基于浏览器的AI代理开放结账功能",
+    "summary_zh": "Shopify扩大WebMCP支持至结账环节，允许基于浏览器的AI代理在获得买家授权后，完成订单详情更新和购买，推动代理式商务发展。",
+    "key_points": [
+      "Shopify允许浏览器AI代理完成结账和更新订单",
+      "功能基于WebMCP，需获得买家授权",
+      "此举意在推动代理式电商体验落地"
+    ],
+    "importance": 3,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "af52c9bae957e61218d5cb4879efef07",
+    "title": "What are the trending topics in medical imaging? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wsockf/what_are_the_trending_topics_in_medical_imaging_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-28T19:30:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone,</p> <p>I hope you're doing well.</p> <p>I'm a new PhD candidate, and my thesis is about the meta-learning paradigm in medical imaging. Right now, I don't have a specific problem to work on, and my supervisor told me to explore the field and find one myself.</p> <p>I've done some research and a literature review so far. I've learned about different meta-learning and few-shot learning techniques, read about histopathology and other medical imaging ",
+    "title_zh": "医学影像领域的热门趋势是什么？[讨论]",
+    "summary_zh": "一位新博士生发起讨论，其研究方向为医学影像中的元学习范式，目前仍在探索具体问题。他发帖询问当前医学影像领域的热门研究趋势和值得深入研究的方向。",
+    "key_points": [
+      "博士生探索医学影像中的元学习范式应用",
+      "发帖询问医学影像领域的热门研究趋势"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1f92042060d3853e9ad3cf2124bf1ed6",
+    "title": "Meta launched an enterprise AI platform today and put the former MongoDB CEO in charge, reporting directly to Zuckerberg. Four companies now sell the same thing to the same buyers.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wsnsap/meta_launched_an_enterprise_ai_platform_today_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-28T19:10:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Meta Enterprise Platform went live this morning. Muse agent, Meta Business Agent, Muse API, Muse Code. CJ Desai left MongoDB to run it and reports straight to Zuckerberg, which tells you how seriously they're treating this.</p> <p>The timing isn't subtle. Meta is spending over $100 billion on AI infrastructure this year and investors want to see where the revenue comes from. Ads alone doesn't cover that kind of capex. So now they're selling subscriptions to comp",
+    "title_zh": "Meta今日推出企业AI平台，由前MongoDB CEO直接向扎克伯格汇报",
+    "summary_zh": "Meta推出企业AI平台，包含Muse agent和API等产品。前MongoDB CEO CJ Desai加盟并直接向扎克伯格汇报，此举加剧了企业AI市场的竞争态势。",
+    "key_points": [
+      "Meta发布企业级AI平台，含Muse agent等",
+      "前MongoDB CEO CJ Desai加盟并直接汇报扎克伯格",
+      "此举表明Meta高度重视并全力争夺企业AI市场"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c2e0d9018724307b26809a95221a320b",
+    "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+    "url": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-28T19:04:09+00:00",
+    "content_snippet": "Kalshi's defiance of state gambling laws may be headed to Supreme Court.",
+    "title_zh": "Kalshi再次败诉，法官裁定预测市场须遵守博彩法",
+    "summary_zh": "法院再次裁定Kalshi败诉，认为其体育赛事合约属于博彩而非掉期交易，各州有权对其进行监管和打击。此案可能最终上诉至最高法院。",
+    "key_points": [
+      "法院裁定Kalshi预测市场产品属于博彩",
+      "Kalshi对州博彩法的挑战再次失败",
+      "该案可能将提交至美国最高法院审理"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
