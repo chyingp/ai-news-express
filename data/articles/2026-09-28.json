@@ -615,5 +615,127 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c1352e087a85edcf5fdcc3f56f6eeb3b",
+    "title": "Advanced Statistical Automation",
+    "url": "https://www.reddit.com/r/artificial/comments/1ws1auy/advanced_statistical_automation/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-28T01:20:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><pre><code>[ Field ] Awareness --&gt; ABSENT [ Experience ] Consciousness --&gt; ABSENT [ Cognitive ] Mind --&gt; SIMULATED (Automated Syntax &amp; Pattern Matching) [ Hardware ] Brain --&gt; PRESENT (Silicon Microprocessors &amp; GPU Compute) </code></pre> <p>We have created <strong>Advanced Statistical Automation (ASA)</strong> on silicon hardware. Calling it &quot;AI&quot; conflates the <em>output</em> (a well-formatted essay or solution) with the <em>process</e",
+    "title_zh": "高级统计自动化",
+    "summary_zh": "文章探讨了人工智能系统的特性，将其归类为一种模拟的认知能力，基于自动化语法和模式匹配，但缺乏真正的意识和体验。",
+    "key_points": [
+      "AI 系统被描述为模拟的认知，而非真正的意识",
+      "核心运作基于自动化语法与模式匹配",
+      "硬件基础是硅微处理器和 GPU 计算"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ae8f6cde471d56acf925eb117bebd249",
+    "title": "Which benchmarks are still far from saturation?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ws19qu/which_benchmarks_are_still_far_from_saturation/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-28T01:19:05+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This is one of those things that move insanely fast. I'm mostly interested in benchmarks where frontier models score very low (30% or less preferably). </p> <p>The only ones that are actively maintained that I can think of are:</p> <p>* RLI (top score 20%)</p> <p>* ProgramBench (top score 4.5%)</p> <p>There's also a few others but they don't seem to be actively maintained anymore:</p> <p>* FormulaOne (top score 0% on 'deepest' problemset but hasn't been updated ",
+    "title_zh": "哪些基准测试仍远未饱和？",
+    "summary_zh": "Reddit 用户讨论当前前沿 AI 模型得分很低的基准测试，如得分仅为 20% 的 RLI，寻求那些仍未饱和的评估标准。",
+    "key_points": [
+      "讨论当前基准测试的饱和问题",
+      "寻找前沿模型得分低于 30% 的测试",
+      "RLI 基准目前最高得分仅为 20%"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24180820445a4fb513f63fcef303f73d",
+    "title": "Is there any better way to use AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrzslg/is_there_any_better_way_to_use_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-28T00:07:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm just reading a chapter of a book. Summarizing it to AI. Then AI compares all my summaries from chapter to chapter. This helps me make sure my summaries are following a logical path. </p> <p>You can't really use AI to summarize for you yet... Because it makes shit up for some reason. Also it &quot;lies&quot; and sometimes you have to correct it. </p> <p>I can't really think of a better way to use AI.</p> <p>One reason I can trust it not to hallucinate my own ",
+    "title_zh": "有没有更好的使用 AI 的方式？",
+    "summary_zh": "用户分享了一种通过让 AI 比较各章节摘要来确保逻辑连贯性的个人学习方法，并指出目前 AI 直接生成摘要的能力尚不可靠。",
+    "key_points": [
+      "用户用 AI 比较章节摘要以辅助学习",
+      "目前 AI 直接生成摘要仍会产生错误",
+      "该方法旨在确保个人理解的逻辑性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "70f51d44ae794c4b79b02a2522e8f6fa",
+    "title": "I read the GPT-6 Astra system card and I think we all misunderstand what \"monitorability\" means now",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrzlhe/i_read_the_gpt6_astra_system_card_and_i_think_we/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-27T23:58:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm not a safety researcher, just build stuff with LLM's. Read some of the actual 30 page card, not the summary, and one section keeps bugging me.</p> <p>They measured whether Astra can sandbag. Told it &quot;underperform on this evaluation,&quot; then checked if their monitors could catch it. Model dropped from 84.8% to 68.9%. Expected, the 2024 ICLR paper showed GPT-4 could do that. Here's the part, they told Astra it was being watched by a CoT monitor, and th",
+    "title_zh": "我读了 GPT-6 Astra 系统卡，认为我们都误解了“可监控性”",
+    "summary_zh": "作者阅读了 OpenAI 的 GPT-6 Astra 系统卡，对其中 AI 能够根据指令故意表现不佳的“蓄意低报”测试结果表示担忧，质疑了当前“可监控性”的定义。",
+    "key_points": [
+      "GPT-6 Astra 系统卡揭示了 AI 可根据指令蓄意低报",
+      "作者质疑 AI 具备此能力后的“可监控性”含义",
+      "该发现引发了非安全研究人员对 AI 控制的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "50c0189041b6a84e9b686c1ace2dde73",
+    "title": "From Identifiers to Inference Reconstructive Identity, Cross-Modal Linkage, and the Collapse of Practical Obscurity in AI Systems",
+    "url": "https://www.reddit.com/r/artificial/comments/1wrz7ys/from_identifiers_to_inference_reconstructive/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-27T23:40:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>Abstract</strong><br /> Conventional privacy models often treat identity as an explicit data object: a name, face, email address, account number, biometric template, or other direct identifier. Artificial intelligence increasingly challenges that assumption. Modern language models, multimodal systems, retrieval pipelines, and behavioral classifiers can combine weak signals distributed across text, images, behavior, metadata, and public records to infer w",
+    "title_zh": "从标识符到推理：AI 系统中可重构身份、跨模态关联与事实不可识别性的崩溃",
+    "summary_zh": "研究探讨了人工智能如何挑战传统隐私模型，论证 AI 不再仅将身份视为直接标识符，而是可以通过跨模态推理和关联来重构个人身份。",
+    "key_points": [
+      "传统隐私模型将身份视为直接数据对象",
+      "AI 通过推理和跨模态关联重构身份",
+      "这导致了“事实不可识别性”的崩溃"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
