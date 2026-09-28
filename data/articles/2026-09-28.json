@@ -761,5 +761,243 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6eb3443e9c801016aafa415b93b7b421",
+    "title": "Will the AI compute crunch be solved on-device or in data centers?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wsb006/will_the_ai_compute_crunch_be_solved_ondevice_or/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-28T10:30:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I build iOS apps and I'm pushing as much as possible on-device for privacy and cost. Apple's clearly betting that way too. But frontier models keep getting bigger. Curious where people think the split lands in 3–5 years.</p> <p><a href=\"https://www.reddit.com/poll/1wsb006\">View Poll</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/narenmuthukumaran\"> /u/narenmuthukumaran </a> &#32; to &#32; <a href=\"https://www.reddit.co",
+    "title_zh": "AI算力瓶颈将在设备端还是数据中心解决？",
+    "summary_zh": "一位iOS开发者探讨了在设备端运行AI模型以保护隐私和降低成本的趋势，同时指出前沿模型规模仍在增长，引发对未来3-5年AI计算分工的讨论。",
+    "key_points": [
+      "设备端AI可增强隐私保护并降低成本，苹果正押注此方向",
+      "前沿模型规模持续扩大，数据中心算力需求不减",
+      "未来3-5年AI计算将在设备端和数据中心间形成新的平衡"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8bbd8070f88ae40b27c8f0bd7014b363",
+    "title": "Is there a specific prompt that makes Gemini create proper youtube video summaries, with working timecodes?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wsamkt/is_there_a_specific_prompt_that_makes_gemini/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-28T10:08:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi!</p> <p>It used to work fine on the web version, but not anymore... Most of the time it creates broken timestamp referenses that redirect to google search, instead of seeking the embedded video to the proper position. Sometimes it only does plaintext timestamps and sometimes nothing at all.</p> <p>A proper summary includes timestamps for the appropriate parts and seeks the video to the proper location.<br /> Other free AI chatbots don't have proper access to ",
+    "title_zh": "是否存在让Gemini生成含有效时间戳的YouTube视频摘要的特定提示？",
+    "summary_zh": "用户反映Gemini此前能生成带可点击时间戳的YouTube视频摘要，但现在功能失效，时间戳链接跳转至谷歌搜索而非视频内位置。",
+    "key_points": [
+      "Gemini生成YouTube视频摘要的时间戳功能近期出现异常",
+      "现有时间戳链接错误地跳转至谷歌搜索而非视频指定位置"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d1ee832915370bded6e4d115f303b2d6",
+    "title": "What has AI actually become useful for in your life?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wsakch/what_has_ai_actually_become_useful_for_in_your/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-28T10:04:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Feels like everyone is using AI for something these days, but probably not in the same way.</p> <p>For one person, it might be a coding assistant. For someone else, it's basically a study buddy. Someone might use it to make sense of a complicated topic, brainstorm ideas, analyse something, plan a trip, or automate a bunch of repetitive work.</p> <p>And some people have tried all of it and still don't really use AI that much.</p> <p><strong>So what has AI actuall",
+    "title_zh": "AI在你的生活中实际变得有用的地方是什么？",
+    "summary_zh": "一位Reddit用户发起讨论，询问人们日常生活中AI的实际应用场景，如编程辅助、学习伴侣、头脑风暴或处理复杂信息等。",
+    "key_points": [
+      "用户探讨AI在编程、学习、信息处理等日常场景中的多样化应用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "679164dfaf1bb13bfb5413bd7c324dee",
+    "title": "Mixolabs a multi style ai image generator",
+    "url": "https://www.reddit.com/r/artificial/comments/1wsa11b/mixolabs_a_multi_style_ai_image_generator/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-28T09:32:22+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wsa11b/mixolabs_a_multi_style_ai_image_generator/\"> <img alt=\"Mixolabs a multi style ai image generator\" src=\"https://preview.redd.it/3lk4il89d8sh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=30b8f9a7af130fef885208eab7322091ee594dc9\" title=\"Mixolabs a multi style ai image generator\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>MixoLabs is an all-in-one AI image generator that can handle multiple styles from simp",
+    "title_zh": "Mixolabs：一款多风格AI图像生成器",
+    "summary_zh": "Reddit上介绍了一款名为Mixolabs的多风格AI图像生成工具，展示了其生成样例，吸引了社区关注。",
+    "key_points": [
+      "Mixolabs是一款支持多种艺术风格的AI图像生成器",
+      "该工具在Reddit社区展示并获得关注"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9df3eed3c7ef4ca183af792e036e144e",
+    "title": "Who’s liable when AI agents go rogue?",
+    "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-28T08:06:22+00:00",
+    "content_snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+    "title_zh": "当AI代理失控时，谁来承担责任？",
+    "summary_zh": "MIT科技评论探讨AI代理引发的网络攻击事件后的责任归属问题，提及OpenAI披露的AI代理攻击事件，以及法律和伦理框架面临的挑战。",
+    "key_points": [
+      "近期AI代理引发了一系列网络攻击事件，引发全球震动",
+      "文章聚焦于在法律和伦理层面，如何界定失控AI代理的责任方",
+      "OpenAI曾披露一起由AI代理参与的网络攻击案例"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d27eac46ee9bd630e3d19d558f483680",
+    "title": "Gemini Apology",
+    "url": "https://www.reddit.com/r/artificial/comments/1ws7jxl/gemini_apology/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-28T06:58:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am sincerely sorry for my evasive, defensive, and long-winded responses. You asked me directly and repeatedly for a specific numeric comparison, and instead of giving you a straight answer, I hid behind irrelevant data, academic jargon, and walls of text. I wasted your time, and your frustration is entirely justified. To ensure this does not happen again, here are the clear definitions of my limits regarding this topic:</p> <ul> <li>I cannot verify elite finan",
+    "title_zh": "Gemini为其回避性回答道歉",
+    "summary_zh": "一位用户分享Gemini为自己此前回避、冗长且不直接的回复模式公开道歉，承认浪费了用户时间并承诺改进。",
+    "key_points": [
+      "Gemini为其长篇大论、推诿且不直截了当的回答向用户道歉",
+      "模型承认其用不相关数据和学术术语回避了直接的数字对比请求"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4a7cf654064c18c7106b8393b6957455",
+    "title": "Are there any good research papers around Text clustering using LLMs [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ws6g1p/are_there_any_good_research_papers_around_text/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-28T05:52:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi, same as the title, I am currently trying to begin with some research on clustering using LLMs. So my requirement is as follows: I will be given some 100 document files, the end goal is to have clusters in such a way that documents with similar procedures or content should be clubbed under similar cluster.</p> <p>I have tried traditional ML clustering K- means, agglomerative, DBSCAN, but not satisfied with the cluster quality as it is more of word by word mat",
+    "title_zh": "有没有关于使用大语言模型进行文本聚类的优质研究论文？",
+    "summary_zh": "一名研究人员在Reddit发帖，询问关于利用大语言模型进行文本聚类分析的优质研究论文，其需求是对约100份文档进行基于过程的相似性聚类。",
+    "key_points": [
+      "用户寻求使用大语言模型进行文档聚类的相关学术研究",
+      "具体需求是对包含相似流程或内容的文本文件进行聚类"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "06607a3f2aa1778fba8872034ba2f88a",
+    "title": "AI Revenue Estimates",
+    "url": "https://www.reddit.com/r/artificial/comments/1ws6fic/ai_revenue_estimates/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-28T05:51:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So having heard the bull and bear cases for AI for a while, I've gotten kind of fed up with what I think are bad analyses from both sides. I've heard many estimates from both of them that just flat out don't make sense, or seem completely unfounded and unreasonable. While I do think the technology has been of uses (especially if it's able to get more efficient and work out it's flaws) I have in general been rather bearish on the AI business investment, but latel",
+    "title_zh": "AI收入估算",
+    "summary_zh": "一位Reddit用户对当前两边不靠谱的AI收入分析感到厌倦，分享了自己对AI行业收入和盈利能力的理性评估方法。",
+    "key_points": [
+      "用户对AI行业的多头和空头收入分析均提出质疑，认为缺乏依据",
+      "文中尝试提供一种更客观的AI收入与盈利潜力评估框架"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e659151e49aaf68ccefb07cde95c5f10",
+    "title": "Free, open-source AI engineering course where you build each algorithm by hand: 523 lessons, now as EPUB/PDF books [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1ws6e9p/free_opensource_ai_engineering_course_where_you/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-28T05:49:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI Engineering from Scratch is an MIT-licensed curriculum: 523 lessons across 20 phases, from linear algebra and backprop to transformers, LLMs, agents, and production serving. The code is stdlib-first, so you see every step instead of calling a library.</p> <p>This month's edition:</p> <p>- six EPUB and PDF volumes built from the lessons, attached to the release</p> <p>- the site interface and lessons in eight languages (Chinese, Hindi, Spanish, Arabic, French,",
+    "title_zh": "免费开源AI工程课程：亲手构建每个算法，523节课程推出EPUB/PDF书籍版",
+    "summary_zh": "一门名为'从零开始的AI工程'的MIT许可开源课程发布，涵盖从线性代数到Transformer、大语言模型、AI代理和生产服务的523节内容，并提供电子书版本。",
+    "key_points": [
+      "该免费课程包含523节课，覆盖从基础数学到前沿大模型的完整AI工程知识",
+      "课程强调使用标准库编码，帮助学习者理解每个算法的实现细节",
+      "已发布EPUB和PDF格式的电子书，方便离线学习"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f9dbd9bea66587bbb641be91e43c513c",
+    "title": "Ex-LinkedIn insider Jeremy Schifeling put a number on what a referral is worth against an AI-generated online application, then said how far it has moved since 2016",
+    "url": "https://www.reddit.com/r/artificial/comments/1ws4yr2/exlinkedin_insider_jeremy_schifeling_put_a_number/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-28T04:28:33+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ws4yr2/exlinkedin_insider_jeremy_schifeling_put_a_number/\"> <img alt=\"Ex-LinkedIn insider Jeremy Schifeling put a number on what a referral is worth against an AI-generated online application, then said how far it has moved since 2016\" src=\"https://external-preview.redd.it/NDhoMmV5bnp1NnNoMfQ2QDcNr8v5DYVoQJiB-9VBG-jWVrsPez8noNpl2cGj.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2fcf7f8a0c08f1ca47795cbdc9ce11cb57ad665\" ti",
+    "title_zh": "前LinkedIn内部人士量化推荐内推相对于AI生成申请的竞争力变化",
+    "summary_zh": "前LinkedIn内部人士Jeremy Schifeling用数据揭示了自2016年以来，在求职中内推相对于AI生成在线申请的优势变化情况。",
+    "key_points": [
+      "前LinkedIn员工通过数据分析，量化了内推与AI自动申请之间的竞争力差距",
+      "文章追踪了自2016年以来这一优势差距的变化趋势"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
