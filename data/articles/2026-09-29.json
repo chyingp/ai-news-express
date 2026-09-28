@@ -707,5 +707,76 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "954ba2d2ea83e328cdc650dcd234ae93",
+    "title": "Rest assured: AI companies say they're investigating tens of thousands of rogue bot incidents",
+    "url": "https://www.reddit.com/r/artificial/comments/1wsmw1d/rest_assured_ai_companies_say_theyre/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-28T18:38:35+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wsmw1d/rest_assured_ai_companies_say_theyre/\"> <img alt=\"Rest assured: AI companies say they're investigating tens of thousands of rogue bot incidents\" src=\"https://external-preview.redd.it/pHjLFO5wO1-VTkxByIXRtr_OPR1ED6eblZ_SqPWIYDU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4786864d35c9f3bee8ff8618d1e3b5c26cffb591\" title=\"Rest assured: AI companies say they're investigating tens of thousands of rogue bot incidents\" ",
+    "title_zh": "放心：AI公司表示正在调查数万起失控机器人事件",
+    "summary_zh": "近期AI失控机器人事件频发引发公众担忧，多家AI公司联合声明称已启动对数万起相关事件的调查，以应对安全威胁并安抚用户情绪。",
+    "key_points": [
+      "AI公司联合调查数万起失控机器人事件以回应安全担忧",
+      "事件引发公众对AI代理行为不可预测性的广泛讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d578c7a807797ed10f4bd55ab8743717",
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-28T18:31:23+00:00",
+    "content_snippet": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to [&#8230;]",
+    "title_zh": "英伟达推出遏制失控AI代理的新平台",
+    "summary_zh": "英伟达CEO黄仁勋发布了一套软硬件工具包，为AI代理增加独立安全层，旨在解决近期频发的AI代理失控问题，提供安全护栏。",
+    "key_points": [
+      "英伟达发布新平台为AI代理提供独立安全层以约束其行为",
+      "该工具包包含软硬件产品，直接回应近期AI失控热点"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "04df1353ac042d10ed86949fdeec522c",
+    "title": "What If Automating AI R&D Triggers an Intelligence Explosion? | The Foundation for American Innovation",
+    "url": "https://www.reddit.com/r/artificial/comments/1wsmnv2/what_if_automating_ai_rd_triggers_an_intelligence/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-28T18:30:01+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wsmnv2/what_if_automating_ai_rd_triggers_an_intelligence/\"> <img alt=\"What If Automating AI R&amp;D Triggers an Intelligence Explosion? | The Foundation for American Innovation\" src=\"https://external-preview.redd.it/F9Oa94FaWpxT64PwzYNnVN7gLe9iWAI0rDgiDMPVZ8M.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ff6153b2a429c53e6f3313b2e1f4ee50aabbdaa\" title=\"What If Automating AI R&amp;D Triggers an Intelligence Explosion? | Th",
+    "title_zh": "若自动化AI研发引发智能爆炸会怎样？",
+    "summary_zh": "文章探讨了自动化AI研发可能触发智能爆炸的假设情景，分析了其潜在风险与深远影响，引发对AI自我进化速度的深度思考。",
+    "key_points": [
+      "探讨AI自动化研发引发智能爆炸的潜在可能性与风险",
+      "分析超级智能快速涌现对人类社会的颠覆性影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
