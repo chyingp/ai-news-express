@@ -737,5 +737,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "033c1240ca875bab34f28414e924dc39",
+    "title": "How do you personally handle data protection when using AI tools?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ws43jw/how_do_you_personally_handle_data_protection_when/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-28T03:42:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm curious how everyone here thinks about protecting their own data when using AI assistants and tools. Personally, I've started keeping anything with real names, financial details, or work docs out of chatbots unless I know the privacy terms, and I run smaller stuff locally when I can. It feels like the convenience is so good that it's easy to overshare without thinking. What boundaries or habits have you set for yourselves?</p> </div><!-- SC_ON --> &#32; subm",
+    "title_zh": "使用AI工具时你个人如何处理数据保护？",
+    "summary_zh": "这篇论坛讨论帖探讨了个人用户在使用AI助手和工具时如何保护数据隐私的方法。发帖者分享了自身实践，例如避免输入含真名、财务信息或工作文档的内容，并提及在本地运行小型模型，旨在引发社区关于数据保护策略的经验交流。",
+    "key_points": [
+      "用户应避免向聊天机器人透露个人身份、财务和工作机密信息",
+      "在本地运行小型模型是提升数据隐私保护的有效方法",
+      "使用AI工具前需仔细了解其隐私条款和数据使用政策"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
