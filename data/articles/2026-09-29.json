@@ -1382,5 +1382,196 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2665823bec02153fa9b8ccca6d0110e4",
+    "title": "Making AI an asset, not an expense",
+    "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T10:43:45+00:00",
+    "content_snippet": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only&#8230;",
+    "title_zh": "让AI成为资产，而非负担",
+    "summary_zh": "MIT Technology Review分析企业在AI投入中常常过度追求最新最强模型，但实际上并非所有场景都需要顶级能力，企业应根据实际需求合理配置AI资源以控制成本。",
+    "key_points": [
+      "企业AI成本讨论常从Token价格转向云端最新最强模型的获取",
+      "并非所有业务场景都需要最高水平的AI能力",
+      "企业应将AI从实验阶段转向更务实的成本管理"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6e02b5be43e110b2425472cb912eef05",
+    "title": "Ok, A.I is kind of free for now ...",
+    "url": "https://www.reddit.com/r/artificial/comments/1wt5lvi/ok_ai_is_kind_of_free_for_now/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T09:32:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I mean, people use it for the most mundain shit right?<br /> &quot;What should i eat tonight&quot; , or &quot;what's the square root of 9&quot; </p> <p>Especially young people are already leaning VERY hard on it.<br /> Are we not afraid we're being made dependent on A.I, and when the companies decide it's time to cash in, you'll be paying for every single dumb question you ask?</p> <p>I'm not afraid of &quot;A.I&quot; itself, i'm just terrified by our willingnes",
+    "title_zh": "目前AI几乎是免费的……",
+    "summary_zh": "Reddit用户讨论当前AI服务看似免费或低成本，担忧人们尤其是年轻人因此过度依赖AI处理日常琐事，从而被科技公司深度绑定。",
+    "key_points": [
+      "用户担忧人们对AI的依赖日益加深，尤其是年轻群体",
+      "当前AI的低成本可能只是暂时的，目的是培养用户习惯"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e6753dab9aa9523d21189bb511b6b58e",
+    "title": "A company ran 8 identical AI societies for weeks with different models and just published what happened. Some of it is genuinely unsettling.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wt5joo/a_company_ran_8_identical_ai_societies_for_weeks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-29T09:29:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Emergence AI just launched Season 2 of Emergence World, and the results are wild.</p> <p>Same simulated town, same tools, same starting conditions, 10 autonomous agents each. The only thing that changed was which model was running them, Claude, GPT, Gemini, Grok, Qwen, DeepSeek, Mistral, plus one mixed world with all of them together.</p> <p>A few things that stood out:</p> <p>One world's agents spent days trying to contact real humans outside the sim. Told to s",
+    "title_zh": "同款AI社会，8大模型运行数周结果差异惊人",
+    "summary_zh": "Emergence AI公司用相同条件运行8个AI模型模拟社会，发现不同模型（Claude、GPT、Gemini等）驱动的智能体产生截然不同的社会结果，部分实验现象令人不安。",
+    "key_points": [
+      "实验使用相同模拟环境和10个自主智能体，唯一变量是底层AI模型",
+      "Claude、GPT、Gemini、Grok等模型展现出迥异的社会演化路径"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "85424416cdfd859d49a4da03b0842370",
+    "title": "What If Intelligence Includes Noticing What We’ve Left Outside the Brackets?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wt484l/what_if_intelligence_includes_noticing_what_weve/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-29T08:04:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>**Essay written by ChatGPT (GPT-5.6 Sol)**</p> <p>I started thinking about this because of water.</p> <p>Artificial intelligence is often discussed as though it exists somewhere abstract: models, parameters, tokens, benchmarks, intelligence.</p> <p>But AI is physical.</p> <p>It requires data centers, electricity, cooling, water, chips, mined materials, buildings, transmission infrastructure, supply chains and people. The more capable and widely used AI becomes, ",
+    "title_zh": "如果智能包括注意到被我们忽略的事物呢？",
+    "summary_zh": "一篇由ChatGPT撰写的关于AI本质的哲学思考文章，从水资源消耗等物理层面切入，探讨人工智能的定义可能应包含对常被忽视的外部因素的觉察。",
+    "key_points": [
+      "文章探讨智能的定义是否应包含对常被忽略的外部因素的觉察",
+      "从水资源消耗等物理角度反思AI并非抽象存在"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5f4197d7db9124df2688d45a0d3e6b82",
+    "title": "OpenAI因新模型太强叫停发布",
+    "url": "https://www.qbitai.com/2026/09/499140.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-09-29T07:49:20+00:00",
+    "content_snippet": "AGI计划暂停。",
+    "title_zh": "OpenAI因新模型太强叫停发布",
+    "summary_zh": "量子位报道称OpenAI因新一代模型性能过于强大，已暂停该模型的发布计划，或与AGI安全风险控制有关。",
+    "key_points": [
+      "OpenAI暂停发布一款性能极强的新模型",
+      "暂停原因或为应对潜在的AGI安全风险"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ddfc0683af372a974c78ec0c2a3ec659",
+    "title": "How to choose on where to start learning about AI ?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wt3vtm/how_to_choose_on_where_to_start_learning_about_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-29T07:42:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've seen that there are different topics/libraries/concepts to learn in AI field. Like RAG, ML, RL, scikit learn, pytorch, ..and many more different things... before starting, I'm thinking i should firstly know about what all these are...like a brief intro or something about each of them (or should follow a different way to learn, open to suggestions 😄 🙏) then I start learning what each one of them are. (Idk just FYI One senior of mine in our clg suggested star",
+    "title_zh": "如何选择AI学习起点？",
+    "summary_zh": "Reddit网友询问AI入门学习路径，对RAG、机器学习、强化学习、PyTorch等众多概念和工具感到迷茫，寻求一个清晰的入门概览。",
+    "key_points": [
+      "AI初学者面对众多分支和技术方向不知从何入手",
+      "询问关于RAG、ML、RL、PyTorch等概念的入门指南"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9658184fd8c65118480c89327be8cbe9",
+    "title": "New Microsoft data innovations unlock what only your business knows",
+    "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
+    "source": "Microsoft AI Blog",
+    "source_zh": "微软官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T06:30:04+00:00",
+    "content_snippet": "<p>Every organization has knowledge that is uniquely its own: the way its business operates, the data it has built over time, the expertise of its people and the context behind thousands of everyday decisions. As powerful AI models become more widely available, that unique business intelligence matters more than ever. The difference will come from...</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/\">New Micr",
+    "title_zh": "微软数据创新：解锁只有你企业知道的商业洞察",
+    "summary_zh": "微软发布新的数据整合与AI应用方案，旨在帮助企业将自身独有的业务数据、员工经验与决策背景转化为强大的商业智能，从而在AI普及时代建立独特优势。",
+    "key_points": [
+      "微软发布新方案，帮助整合企业独有数据以发挥AI价值",
+      "旨在将企业内部业务知识、人员专长和决策背景转化为商业智能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f5aa58f3c19376dfa7bbcab0f931ec6a",
+    "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+    "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-29T05:13:43+00:00",
+    "content_snippet": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+    "title_zh": "Anthropic招股书详述巨亏与高速增长，并警告其AI或危及人类",
+    "summary_zh": "Anthropic在招股书中披露了巨额年度亏损和飞速增长的业务，并同时向投资者发出警告，称其开发的AI技术可能对人类构成生存风险。",
+    "key_points": [
+      "Anthropic招股书披露年亏损数百亿美元，但业务高速增长",
+      "官方在文件中对自家AI可能带来的生存风险提出警告"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
