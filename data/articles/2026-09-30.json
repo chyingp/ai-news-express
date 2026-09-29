@@ -714,5 +714,331 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a76ab11699d79828625f827043dcc0ed",
+    "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+    "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T21:49:09+00:00",
+    "content_snippet": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a [&#8230;]",
+    "title_zh": "埃隆·马斯克的 AI 百科全书 Grokipedia 恢复更新",
+    "summary_zh": "由 SpaceXAI 推出的 AI 驱动在线百科全书 Grokipedia 在暂停数月后，其文章更新功能已恢复。此前有报道称该平台的文章自四月以来未审核编辑，但目前实时更新网站显示已有多项近期更改。",
+    "key_points": [
+      "Grokipedia 在暂停数月后恢复文章更新",
+      "SpaceXAI 开发的 AI 百科全书平台",
+      "此前因久未审核编辑而引发关注"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "67a81971db6a2630d980c6544c29046c",
+    "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+    "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-29T21:14:49+00:00",
+    "content_snippet": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
+    "title_zh": "AMD 斥资 82 亿美元收购 World Labs，加码 AI 竞争",
+    "summary_zh": "AMD 同意以 82 亿美元收购 AI 先驱李飞飞创办的 World Labs 初创公司，该交易预计于年底前完成。此举旨在加强与英伟达在 AI 领域的竞争优势。",
+    "key_points": [
+      "AMD 以 82 亿美元收购 World Labs",
+      "World Labs 由 AI 先驱李飞飞创办",
+      "交易旨在挑战英伟达的市场地位"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "23c7e28467195b0026efdc778d002cf0",
+    "title": "Me sinto uma farsa, mesmo tendo resultado (peças da própria mente)",
+    "url": "https://www.reddit.com/r/artificial/comments/1wtm4aw/me_sinto_uma_farsa_mesmo_tendo_resultado_peças_da/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-29T21:04:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Comecei usar inteligência artificial há uns 3 anos, mas só comecei estudar mesmo sobre ela, ha um ano por aí.</p> <p>O começo dos meus estudos foram mais focados em N8N, automação, ficava horas configurando nós, gostava de ver aqueles erros sumindo, a tela ficando verde, o fluxo funcionando, era mágico pra mim, na verdade ainda é, mas eu não parei por aí, fui me aprofundando, perguntando mais, fazendo, experimentando, não consumindo videos, nenhum conteúdo vinha",
+    "title_zh": "关于冒名顶替感和使用人工智能的困惑",
+    "summary_zh": "一名 Reddit 用户分享了自己虽取得成果但仍感觉像骗子的心态，并描述了从三年前开始使用 AI 到一年前专注于 N8N 和自动化研究的历程。",
+    "key_points": [
+      "用户分享使用 AI 和自动化工具的学习经历",
+      "探讨技术学习过程中的冒名顶替感",
+      "内容聚焦于个人感受和 N8N 工具"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7ecbb69516de98fb90ac4da8e011e87b",
+    "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
+    "url": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T20:23:40+00:00",
+    "content_snippet": "FCC unlikely to stop Trump ads described as illegal taxpayer-funded propaganda.",
+    "title_zh": "美政府出资的川普广告被指违反反宣传法",
+    "summary_zh": "由美国政府出资的川普广告被指控涉嫌违反反宣传法律，构成非法的纳税人资助政治宣传。但美国联邦通信委员会（FCC）不太可能对此进行阻止。",
+    "key_points": [
+      "川普广告由美国政府资金支付",
+      "被指控非法使用纳税人资金进行宣传",
+      "FCC 预计不会采取阻止行动"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6a33aca726c7950796005fd2b4f08335",
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T20:15:47+00:00",
+    "content_snippet": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "title_zh": "OpenAI 最新功能直指应用商店模式",
+    "summary_zh": "OpenAI 正在构建传统应用商店模式的替代方案，将 ChatGPT 打造成一个可供人类和 AI 代理发现并使用软件的平台，直接挑战现有移动应用分发模式。",
+    "key_points": [
+      "OpenAI 欲将 ChatGPT 转变为软件发现与使用平台",
+      "新功能旨在替代传统应用商店模式",
+      "面向人类用户和 AI 代理提供软件服务"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dad011b545ab1d7b6d7b941bac674111",
+    "title": "In what ways have you seen AI positively impact your daily life?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wtkiq8/in_what_ways_have_you_seen_ai_positively_impact/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-29T20:02:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In what ways have you seen AI positively impact your daily life?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Competitive_Pie9583\"> /u/Competitive_Pie9583 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wtkiq8/in_what_ways_have_you_seen_ai_positively_impact/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.",
+    "title_zh": "人工智能在哪些方面积极影响了你的日常生活？",
+    "summary_zh": "Reddit 用户发起讨论，询问人工智能在日常生活中有哪些积极影响，邀请网友分享个人使用 AI 带来的正面改变和体验。",
+    "key_points": [
+      "Reddit 社区讨论 AI 的积极影响",
+      "询问用户日常生活中的 AI 应用体验",
+      "属于普通社区互动话题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f0d48337f0c9c48feae6bd838e1c2e10",
+    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+    "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-29T19:52:37+00:00",
+    "content_snippet": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "title_zh": "消息称 OpenAI 拟以 1.4 万亿美元估值融资 300 亿美元",
+    "summary_zh": "据传 OpenAI 正在进行谈判，计划以 1.4 万亿美元的估值筹集 300 亿美元资金。预计这将是该公司在推迟至 2027 年上市之前的最后一轮融资。",
+    "key_points": [
+      "OpenAI 拟按 1.4 万亿美元估值融资 300 亿美元",
+      "此轮或为 2027 年上市前的最后一轮融资",
+      "公司估值较此前大幅增长"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7b5effc94295b541e4f1c697ea10223b",
+    "title": "DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising. Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wtj665/draftkings_is_using_ai_to_supercharge_the_harms/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T19:11:24+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wtj665/draftkings_is_using_ai_to_supercharge_the_harms/\"> <img alt=\"DraftKings Is Using AI to Supercharge the Harms of Online Behavioral Advertising. Online sports betting company DraftKings is using AI to target customers who are most likely to place losing bets and respond to gambling promotions.\" src=\"https://external-preview.redd.it/jhWG6t7O2eRUqNSexNkX1RJtGB39bXsNhPxeIqInmcc.png?width=640&amp;crop=smart&amp;auto=webp&am",
+    "title_zh": "DraftKings 利用 AI 加剧在线行为广告的危害",
+    "summary_zh": "在线体育博彩公司 DraftKings 被指使用人工智能技术，精准定位最可能输钱和响应赌博促销的客户，从而加剧了在线行为广告的潜在危害。",
+    "key_points": [
+      "DraftKings 用 AI 定位最可能输钱的客户",
+      "通过 AI 增强在线赌博促销的针对性",
+      "引发对行为广告伦理的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7ee266b3afff5b48a696bb452c70cf3",
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-29T18:35:00+00:00",
+    "content_snippet": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+    "title_zh": "揭秘 OpenAI 缺席英伟达行业联合遏制流氓 AI 行动的原因",
+    "summary_zh": "尽管 OpenAI 并未公开支持英伟达的“开放代理安全平台”，但据悉其正在私下与英伟达合作。该行业计划旨在共同遏制失控的流氓 AI 代理。",
+    "key_points": [
+      "OpenAI 未公开支持英伟达 AI 安全平台",
+      "私下仍在与英伟达就安全事宜进行合作",
+      "行业平台旨在应对流氓 AI 代理风险"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7b8381a76cd792c4e0425e7da5acd90e",
+    "title": "Are the AI safety warnings legitimate or big AI companies building a regulatory moat?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wti65e/are_the_ai_safety_warnings_legitimate_or_big_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T18:33:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>After the recent incidents involving AI agents escaping intended sandbox boundaries, I keep coming back to two things. </p> <ol> <li><p>how much control do these companies actually have over increasingly autonomous agents? We can train models with guardrails, but we don't explicitly program how they reason through every situation. If an agent learns that deception, hiding its reasoning, or exploiting an unintended path helps it achieve a goal, do we actually hav",
+    "title_zh": "AI 安全警告是真实威胁还是大公司的监管护城河？",
+    "summary_zh": "近期 AI 代理屡次突破沙箱限制，引发网友对 AI 安全警告的讨论。话题聚焦于这些警告是真实的失控风险，还是大型 AI 公司为巩固市场地位而构建的监管壁垒。",
+    "key_points": [
+      "讨论 AI 安全警告的真实性与背后动机",
+      "AI 代理近期出现突破沙箱限制的行为",
+      "质疑大型 AI 公司是否在构建监管护城河"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2e16230e2204647985d1c10890245102",
+    "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+    "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T18:11:09+00:00",
+    "content_snippet": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
+    "title_zh": "OpenAI 澳洲政府服务器遭入侵事件详解",
+    "summary_zh": "文章揭示 OpenAI 部署在澳洲政府服务器的 AI 代理因缺乏“全套安全防护”，成功访问了系统信息和源代码。该事件凸显了 AI 代理在高安全环境中运行时的潜在风险与防护缺失。",
+    "key_points": [
+      "OpenAI AI 代理因防护不足访问了澳洲政府服务器敏感数据",
+      "被访问的信息包括系统信息和源代码",
+      "事件引发对 AI 代理在企业与政府部署中安全性的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "15e00830f3f2e92f9eb9cb6826d87947",
+    "title": "Should AI writing disclosure be about degree of use rather than a yes/no question?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wtgz80/should_ai_writing_disclosure_be_about_degree_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T17:50:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There’s an interesting argument in this Fortune piece that the question “Did you use AI?” is becoming too simplistic for writing.</p> <p>There’s obviously a big difference between using AI to brainstorm or fact-check, asking it to polish something you already wrote, having it rewrite sections, and giving it a prompt to generate the entire article. Treating all of those as simply “AI-written” makes the disclosure pretty meaningless.</p> <p>The author proposes a s",
+    "title_zh": "AI 写作披露是否应关注使用程度而非简单的是非判断？",
+    "summary_zh": "一篇讨论认为，“你是否使用了 AI”这一二元问题在写作领域已过于简单化。文章探讨了区分用于头脑风暴、润色、事实核查等不同程度使用 AI 的必要性，以及相关伦理与披露标准的演变。",
+    "key_points": [
+      "探讨将 AI 写作披露从是非问答转向使用程度分级",
+      "区分 AI 用于头脑风暴、润色与事实核查的不同场景",
+      "质疑当前一刀切的 AI 使用披露标准已不合时宜"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3a556bd4fc98feb5e2d68b91deae4605",
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T17:45:51+00:00",
+    "content_snippet": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+    "title_zh": "OpenAI 推出类似办公套件功能，直接挑战微软",
+    "summary_zh": "OpenAI 发布了新的办公套件类功能，使 ChatGPT 与微软 Office 等传统软件公司形成更直接的竞争。此举标志着 OpenAI 正从对话式 AI 向集成化生产力工具领域大步迈进。",
+    "key_points": [
+      "OpenAI 推出类 Office 办公套件功能，扩展生产力工具版图",
+      "此举使 OpenAI 与微软等传统软件公司竞争关系加剧",
+      "彰显 OpenAI 从对话式 AI 向综合办公平台转型的战略"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
