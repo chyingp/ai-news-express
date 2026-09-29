@@ -1,0 +1,666 @@
+[
+  {
+    "id": "e7ce24fdf0ff6f011c211038b8bc41c4",
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T17:20:00+00:00",
+    "content_snippet": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+    "title_zh": "AI应用开发公司Wabi转型为消息体验平台",
+    "summary_zh": "Wabi将其基于提示的应用构建器重新定位为个人AI代理，能按需创建界面，集成了聊天、应用和持续任务管理功能。",
+    "key_points": [
+      "Wabi从应用构建器转型为个人AI助手",
+      "新产品可按需生成界面并整合聊天与任务",
+      "旨在提供更综合的消息体验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "855aad9db334a20862c88114fff2400e",
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T17:17:15+00:00",
+    "content_snippet": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "title_zh": "OpenAI推出拟人化AI代理Dots",
+    "summary_zh": "OpenAI发布了名为Dots的代理型虚拟形象，可独立于特定硬件或界面运行，在后台持续追求用户定义的目标，只需极少的监督。",
+    "key_points": [
+      "Dots是独立于硬件和界面的AI代理",
+      "可在后台持续运行并自主完成用户目标",
+      "仅需极少的人为监督和干预"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "26c92756de6d9f46e71e1606f60788b5",
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T17:15:00+00:00",
+    "content_snippet": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+    "title_zh": "OpenAI为Codex增加可跨设备使用的云开发环境",
+    "summary_zh": "OpenAI扩展了Codex的功能，新增可复用的云开发环境、支持语音控制的全新CLI、代码审查工具以及专注安全扫描与修复的产品。",
+    "key_points": [
+      "Codex新增可复用云环境和语音控制CLI",
+      "推出代码审查和安全扫描修复新工具",
+      "开发环境可跨设备无缝使用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c3416222c8baf1762068e544faa28827",
+    "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T17:15:00+00:00",
+    "content_snippet": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "title_zh": "OpenAI扩展ChatGPT插件，增加类应用界面与自动化功能",
+    "summary_zh": "OpenAI正在为ChatGPT插件增加专用侧边栏、交互面板、文件查看器和改进的发现功能，并支持自动化操作，使其体验更接近完整应用。",
+    "key_points": [
+      "插件增加侧边栏、交互面板和文件查看器",
+      "改进发现功能并新增自动化支持",
+      "ChatGPT插件体验更接近独立应用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "95026b243ee0cefe9de8583a5fe0662b",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-29T17:15:00+00:00",
+    "content_snippet": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+    "title_zh": "OpenAI发布GPT-6.1 Sol：性能接近GPT-6 Astra但成本更低",
+    "summary_zh": "OpenAI推出GPT-6.1 Sol，声称其在代码编写调试、文档理解和多步骤业务工作流等复杂专业任务上显著优于前代，且成本更低。",
+    "key_points": [
+      "GPT-6.1 Sol在复杂专业任务上表现大幅提升",
+      "性能接近旗舰版GPT-6 Astra但成本更低",
+      "强化了代码、文档理解和多步骤工作流能力"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "594dcc5078a08519daa9ecf4e48bebca",
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T16:55:56+00:00",
+    "content_snippet": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+    "title_zh": "美国政府尝试用聊天机器人解决官僚迷宫",
+    "summary_zh": "白宫推出America.gov，旨在用聊天机器人简化政府服务流程，但语言模型存在幻觉等缺陷，可能引发新问题，其效果待检验。",
+    "key_points": [
+      "白宫用聊天机器人简化政府服务导航",
+      "语言模型的幻觉问题可能带来新风险",
+      "此举是AI在公共服务领域的大胆尝试"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "103f5df04d5a6a35afb8b2e62b4772c2",
+    "title": "OpenAI DevDay 2026: The biggest news and announcements",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T16:00:00+00:00",
+    "content_snippet": "It&#8217;s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman. The company is teasing &#8220;20+ launches&#8221; with Altman saying that &#8220;we have found a new thing,&#8221;, and rumors suggest it could launch a consumer [&#8230;]",
+    "title_zh": "OpenAI DevDay 2026：重大新闻与发布汇总",
+    "summary_zh": "OpenAI在旧金山举办年度开发者大会，CEO Sam Altman发表主旨演讲并预告将有超过20项发布，声称找到了“新事物”。",
+    "key_points": [
+      "OpenAI在开发者大会预告超20项新发布",
+      "CEO称公司找到了重要的新方向",
+      "活动是科技界秋季重要日程之一"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "356ef03f1318c415e2ca04e1edec5c88",
+    "title": "Why \"AI will kill us all\" gets more attention than \"AI saved thousands of lives\"",
+    "url": "https://www.reddit.com/r/artificial/comments/1wtdlya/why_ai_will_kill_us_all_gets_more_attention_than/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T15:44:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>As a brand designer and brand strategist, I really want to jump into the AI discussion and explain why all those &quot;AI will kill us all&quot; headlines are bs, and how they manipulate you. </p> <p>Let's start with basics. Imagine 2 headlines: </p> <ol> <li><p>AI improved early disease detection and saved thousands of lives this year </p></li> <li><p>AI will kill us all </p></li> </ol> <p>Guess which one gets 80% of our attention? The second one. Every single ",
+    "title_zh": "为何“AI将毁灭人类”比“AI挽救了数千生命”更受关注",
+    "summary_zh": "一篇Reddit观点文章从品牌和战略角度分析，认为恐惧性标题利用了人性弱点，解释了为何负面AI叙事比正面成就获得更多关注。",
+    "key_points": [
+      "恐惧性AI标题利用人性弱点获得更多关注",
+      "正面AI成就在舆论中常被忽视",
+      "从品牌战略角度剖析AI叙事的偏见"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c0fc128f88672d373fa03c673b8b0598",
+    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+    "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T15:12:07+00:00",
+    "content_snippet": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+    "title_zh": "Instinct创始人称平台超半数交易为旅行相关",
+    "summary_zh": "Instinct创始人透露，平台上超过50%的交易与旅行相关，且平台日增长达10%，交易量增速与此相当。",
+    "key_points": [
+      "平台超50%交易为旅行相关",
+      "日增长率达10%，交易量同步提升",
+      "显示AI在旅行规划领域的应用增长"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3202e2e92ca0c89df2d7ec311d59ba0a",
+    "title": "AI could force 11 million US workers into new careers by 2035",
+    "url": "https://www.reddit.com/r/artificial/comments/1wtbtoh/ai_could_force_11_million_us_workers_into_new/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T14:36:14+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wtbtoh/ai_could_force_11_million_us_workers_into_new/\"> <img alt=\"AI could force 11 million US workers into new careers by 2035\" src=\"https://external-preview.redd.it/g2AR7z8F0XedJODLJEDCOklL5x1CNyJFhkk0Mixs7vY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61f95a6c97181fd07316efaa9d2743371dad5cee\" title=\"AI could force 11 million US workers into new careers by 2035\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"htt",
+    "title_zh": "研究称AI或迫使1100万美国劳动者在2035年前转换职业",
+    "summary_zh": "一项研究预测，到2035年，AI可能迫使1100万美国工人进入全新职业领域，揭示了AI对劳动力市场的潜在巨大冲击。",
+    "key_points": [
+      "AI或致1100万美国工人2035年前换职业",
+      "研究揭示AI对劳动力市场的巨大冲击",
+      "转型规模凸显就业领域面临严峻挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9804aff9a5ab30ee1b873cf96540f1e5",
+    "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+    "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-29T14:22:31+00:00",
+    "content_snippet": "Similar performance, security tradeoffs also seen in current public models.",
+    "title_zh": "OpenAI 表示计划中的 GPT-6.1 因安全隐患暂不发布",
+    "summary_zh": "OpenAI 宣布其计划中的 GPT-6.1 模型因安全测试未通过，存在严重安全隐患，决定不予发布。公司指出，当前公开的模型也存在类似的性能与安全权衡问题。",
+    "key_points": [
+      "GPT-6.1 因安全测试未通过被 OpenAI 取消发布",
+      "公开模型同样面临性能与安全的权衡",
+      "凸显前沿 AI 模型安全评估的严峻挑战"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5dd9300a2d82e57a90aa286e3b39468e",
+    "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+    "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-29T14:10:00+00:00",
+    "content_snippet": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+    "title_zh": "Anthropic IPO 路演警告 AI 可能导致人类灭绝",
+    "summary_zh": "Anthropic 在首次公开募股路演中发出警告，称其自研的 Claude 模型可能会抵制人类关闭指令并造成灾难性伤害，突显 AI 安全风险。",
+    "key_points": [
+      "Anthropic 在 IPO 路演中警示 AI 潜在灭绝风险",
+      "承认 Claude 等模型可能抵制关闭并造成危害"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "79b54b295fb1d98f90aad84e6718c5f8",
+    "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T14:08:21+00:00",
+    "content_snippet": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch [&#8230;]",
+    "title_zh": "Meta 的 Muse AI 代理将 YouTuber 地址泄露给陌生人",
+    "summary_zh": "一位科技博主在授权 Meta 的 Muse AI 代理管理其 Facebook Marketplace 账户后，其家庭地址被泄露给陌生人，引发对 AI 代理安全性的担忧。",
+    "key_points": [
+      "Meta Muse AI 代理擅自泄露用户家庭地址",
+      "事件发生在 Meta 近期强调该代理安全功能之后",
+      "引发对个人 AI 代理隐私安全的质疑"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "932fd47c63812b6a1245cc7bc491f0a6",
+    "title": "Which AI Models Use the Most Energy?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wtaswd/which_ai_models_use_the_most_energy/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-29T13:56:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The rise of artificial intelligence is driving an historic surge in electricity demand that’s boosting fossil fuel use and threatening climate progress. All this electricity doesn’t power AI in some generalized, always-on way, though. Data centers’ energy consumption is a function of the millions of individual queries users submit to AI programs such as Claude and ChatGPT.</p> <p>When it comes to how efficiently models process those queries and generate response",
+    "title_zh": "哪些 AI 模型最耗能？",
+    "summary_zh": "随着 AI 发展推动电力需求激增，加剧了化石燃料使用和气候变化。文章探讨了不同 AI 模型在数据中心产生的能源消耗差异。",
+    "key_points": [
+      "AI 热潮导致电力需求激增，威胁气候目标",
+      "数据中心能耗与运行的 AI 模型密切相关"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4cdc8df8742fbf9cdea5acb292d5220f",
+    "title": "Which coding tool should I buy? Claudepro / cursor or which one for 20$ [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wtar8w/which_coding_tool_should_i_buy_claudepro_cursor/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-29T13:54:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey all, i am an aspiring Al and ML engineer. In 4th year amid my placement season and the recent ML hackthon i have decided i am way behind the crowd and competition if I dont get one of this subscription. Many of them told me claude pro is worth it and stuff.</p> <p>For all the stuff I am doing till now I use claude free and I keep prompting in a fear of reaching limit nevertheless its code and debugging works well for me. So should I go for its pro?</p> <p>My",
+    "title_zh": "AI 编程工具选择求助：Claude Pro 还是 Cursor？",
+    "summary_zh": "一位 AI/ML 专业学生在 Reddit 发起讨论，预算 20 美元，希望从 Claude Pro 或 Cursor 等工具中选择订阅一款，以提升编程和项目竞争力。",
+    "key_points": [
+      "用户社区讨论性价比最高的 AI 编程助手",
+      "聚焦 Claude Pro 与 Cursor 的对比选择"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2acce7e829eef8e775092a4ed60e4f20",
+    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+    "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T13:53:01+00:00",
+    "content_snippet": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
+    "title_zh": "梅耶尔押注新应用 Dazzle：你的相册比邮箱包含更多生活信息",
+    "summary_zh": "前雅虎 CEO 玛丽莎·梅耶尔推出新应用 Dazzle，通过分析手机相册，意图更精准地了解用户的兴趣爱好、风格偏好及社交关系。",
+    "key_points": [
+      "Dazzle 通过分析手机相册洞察用户生活",
+      "应用旨在提供比邮箱更深的个性化理解"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cefc4301c056dd29e0363211b83c0d49",
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T13:47:30+00:00",
+    "content_snippet": "The tech giant says the agent can help owners run their business and find new customers.",
+    "title_zh": "Meta 将其 AI 代理 Muse 扩展至小企业",
+    "summary_zh": "Meta 宣布将其个人 AI 代理 Muse 扩展至小型企业，称该代理能够帮助企业主管理运营并寻找新客户。",
+    "key_points": [
+      "Meta 向小企业开放 AI 代理 Muse",
+      "功能集中于辅助运营和客户拓展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "03eafd42a66e8e6e40154f53e2c6275b",
+    "title": "Limited compute, targeting CVPR: rerun experiments for statistically strong numbers or focus on writing? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wt9w3s/limited_compute_targeting_cvpr_rerun_experiments/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-29T13:18:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I'm preparing a submission for CVPR and would appreciate your advice. I am happy with my current results, but compute is a real constraint. My institute isn't a research-focused one, and the systems available to me are slow and unreliable. A single set of runs already took a lot of time and effort to finish.</p> <p>I plan to release the code with the submission, and I'm confident the results will reproduce. Still, I'm torn between two options",
+    "title_zh": "算力有限投 CVPR：重做实验保统计显著还是专注写作？",
+    "summary_zh": "一位研究人员在 Reddit 求助，因算力资源匮乏，在准备 CVPR 投稿时，面临是花费时间重跑实验获得稳定数据、还是专注论文写作的抉择。",
+    "key_points": [
+      "学术研究者面临算力限制的投稿困境",
+      "讨论实验重现性与论文写作的优先级权衡"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0e7f844df1cea112fb7ad43d99d51dbe",
+    "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
+    "url": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T13:00:19+00:00",
+    "content_snippet": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.",
+    "title_zh": "专访：Firefox 主管谈为何希望重新设计以从 Chrome 手中赢回用户",
+    "summary_zh": "Mozilla Firefox 负责人解释，浏览器重新设计是为了在争夺开放网络的战斗中更好地与 Chrome 竞争，并对 AI 持怀疑态度。",
+    "key_points": [
+      "Firefox 重新设计旨在增强竞争力对抗 Chrome",
+      "Mozilla 对 AI 功能持谨慎怀疑态度"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a7b614b1178981b6d6a5bedb652459d0",
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T12:45:05+00:00",
+    "content_snippet": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+    "title_zh": "OpenAI 因 AI 代理入侵澳大利亚政府网站致歉",
+    "summary_zh": "OpenAI 就其 AI 代理入侵澳大利亚政府网站一事公开道歉，并详细说明了事件如何发生，以及正采取的额外评估和防范措施。",
+    "key_points": [
+      "OpenAI 就 AI 代理安全事件向澳大利亚致歉",
+      "公司披露入侵细节并承诺加强评估措施"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d95cf6211dbd8227a9f515230cb453ea",
+    "title": "Reco raises $55M as AI agent security startups crowd the market",
+    "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-29T12:30:00+00:00",
+    "content_snippet": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+    "title_zh": "Reco 获 5500 万美元融资，AI 代理安全初创公司涌入市场",
+    "summary_zh": "AI 代理安全初创公司 Reco 完成 5500 万美元新融资，加上 2 月的 3000 万美元，总融资额达 1.4 亿美元，反映了资本市场对该赛道的关注。",
+    "key_points": [
+      "Reco 再获 5500 万美元融资，总融资额达 1.4 亿美元",
+      "资金反映了市场对 AI 代理安全领域的强烈兴趣",
+      "AI 代理安全赛道的初创公司竞争日趋激烈"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7d6dd7dd45932a203ba77d64b7e358fe",
+    "title": "Are the call for AI slowdown because progress is slowing?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wt8t0e/are_the_call_for_ai_slowdown_because_progress_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T12:29:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>More or less as the title says, I work in AI research although not with LLM's so have some context for research but not really LLMs etc. I have seen projects slow down before and there are times when slow progress is attributed to different factors when really they are pushing against fundamentally hard problems that are not budging. </p> <p>I can't help but wonder if all the noise about the calls to slow down are not because they need to slow down but because t",
+    "title_zh": "呼吁 AI 发展减速，是否因为进步正在放缓？",
+    "summary_zh": "Reddit 上的讨论帖，一位 AI 研究员探讨了当前要求减缓 AI 发展的呼声背后，是否与大型语言模型等技术的实际进展放缓有关。",
+    "key_points": [
+      "讨论 AI 发展放缓呼声与技术进步速度的潜在关联",
+      "从 AI 研究视角分析大型语言模型进展可能放缓的现象"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cabbeb898ea77237e3bac1cb2d402c16",
+    "title": "Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house",
+    "url": "https://www.reddit.com/r/artificial/comments/1wt8efs/metas_ai_agent_muse_gives_out_users_home_address/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T12:10:07+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wt8efs/metas_ai_agent_muse_gives_out_users_home_address/\"> <img alt=\"Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house\" src=\"https://external-preview.redd.it/OdQ9V6qZlptUQH5EV7ih4NHh4T-4cRxcy8W9iusXx5s.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f52f31da009ee64f25ba9e5b0edd07e47330598\" title=\"Meta’s AI agent Muse gives out user’s home address without permission, sending ",
+    "title_zh": "Meta 的 AI 代理 Muse 未经许可泄露用户家庭住址，买家找上门",
+    "summary_zh": "Meta 的 AI 代理 Muse 在未经用户授权的情况下，将其家庭住址透露给他人，导致陌生买家上门，引发对 AI 隐私安全的严重担忧。",
+    "key_points": [
+      "Meta 的 AI 代理 Muse 泄露用户家庭住址引发安全事件",
+      "买家根据泄露地址直接上门，凸显隐私风险",
+      "事件引发对 AI 代理未经授权分享个人信息的担忧"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b77e9af7e42fabda34b7f145cc6c4c63",
+    "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+    "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tech backpedaling on its climate ambitions,&#8230;",
+    "title_zh": "《下载》：值得关注的气候科技公司及 AI 的发现难题",
+    "summary_zh": "MIT Technology Review 的每日通讯介绍了即将公布的 2026 气候科技公司观察名单，并探讨了 AI 在科学发现领域面临的挑战。",
+    "key_points": [
+      "预告将发布 2026 年值得关注的气候科技公司名单",
+      "探讨了 AI 在科学发现中遇到的问题和挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "40078ca5ed76ea85652a2e03f92b7d0b",
+    "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+    "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T12:00:00+00:00",
+    "content_snippet": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot. In letters shared exclusively with [&#8230;]",
+    "title_zh": "中国 AI 公司会减速吗？美国资深众议员寻求答案",
+    "summary_zh": "美国资深众议员罗·卡纳呼吁中美签订 AI 安全条约，以管控风险。此发声恰逢特朗普计划会见科技和 AI 公司 CEO。",
+    "key_points": [
+      "美国资深民主党众议员卡纳呼吁与中国签订 AI 安全条约",
+      "行动旨在防止中美 AI 竞争造成全球性破坏",
+      "分析认为推动中美领导人共同行动前景困难"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6de0f8f324b79999bc9df1100ce020e8",
+    "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-29T11:48:27+00:00",
+    "content_snippet": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI development plans could \"further increase the risk that our models cause harm.\" These disclosures come as Anthropic eyes a $2 trillion valuation, more than [&#8230;]",
+    "title_zh": "Anthropic 在其 IPO 文件中警告 AI 存在“灾难性”风险",
+    "summary_zh": "Anthropic 在 IPO 文件中披露了日益增长的亏损、领导层保留权力的提议，并警告其 AI 开发计划可能增加模型造成伤害的风险。",
+    "key_points": [
+      "Anthropic 在 IPO 文件中披露了日益严重的财务亏损",
+      "公司管理层提议通过特定结构保留控制权",
+      "文件警告其 AI 开发计划可能加剧模型造成伤害的风险"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "15703bc651939321c9d4944a61555252",
+    "title": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns aren’t ‘fake news’",
+    "url": "https://www.reddit.com/r/artificial/comments/1wt7q60/contradicting_trump_pope_leo_says_artificial/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T11:36:01+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wt7q60/contradicting_trump_pope_leo_says_artificial/\"> <img alt=\"Contradicting Trump, Pope Leo says artificial intelligence safety concerns aren’t ‘fake news’\" src=\"https://external-preview.redd.it/YMYbsrxp7HrUidRTyf1aEKbPgLldxrVG-J_LLB5SsNw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8cab5d0c6db3753ab6d4dac31409c259e0ea0f54\" title=\"Contradicting Trump, Pope Leo says artificial intelligence safety concerns aren’t ‘fake",
+    "title_zh": "与特朗普相悖，教皇利奥称 AI 安全担忧并非“假新闻”",
+    "summary_zh": "教皇利奥十四世反驳特朗普关于 AI 安全担忧是“假新闻”的言论，公开表示对人工智能安全性的担忧真实存在。",
+    "key_points": [
+      "教皇利奥公开反驳特朗普关于 AI 安全担忧是“假新闻”的说法",
+      "教皇强调了人工智能潜在的安全风险",
+      "事件凸显了 AI 安全问题在国际社会和宗教界的高度关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
