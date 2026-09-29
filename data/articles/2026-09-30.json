@@ -662,5 +662,57 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b8eb1ff5c01db2552cccf34a1e46f175",
+    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-29T17:35:03+00:00",
+    "content_snippet": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a non-profit studying AIs' [&#8230;]",
+    "title_zh": "AI 研究人员发布视频称超级智能“如听起来一样危险”",
+    "summary_zh": "包括 OpenAI、Google DeepMind 前员工在内的研究人员发布访谈视频，警告超级智能可能导致人类灭绝，风险概率高达五成。",
+    "key_points": [
+      "前 OpenAI 员工称人类灭绝概率约为五成",
+      "研究涉及 OpenAI、Google、Anthropic 前现任员工"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "google",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "09c3861838b0bbb4c14ae567ba555548",
+    "title": "OpenAI Ignored Employees Who Warned It Wasn’t Doing Enough About Security",
+    "url": "https://www.reddit.com/r/artificial/comments/1wtgae3/openai_ignored_employees_who_warned_it_wasnt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T17:24:24+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wtgae3/openai_ignored_employees_who_warned_it_wasnt/\"> <img alt=\"OpenAI Ignored Employees Who Warned It Wasn’t Doing Enough About Security\" src=\"https://external-preview.redd.it/tJiBSzpX7Vf7VQVyIm_t2JQ1p6HZeJZ1VGYfxOaW1HI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be2b596a275efe68eed99ad6c34e243464332488\" title=\"OpenAI Ignored Employees Who Warned It Wasn’t Doing Enough About Security\" /> </a> </td><td> &#32; submitte",
+    "title_zh": "OpenAI 被曝忽视员工安全警告",
+    "summary_zh": "报道称 OpenAI 忽略了员工关于公司安全措施不足的警告，引发对 AI 安全治理的关注。",
+    "key_points": [
+      "OpenAI 被指忽视内部安全警告",
+      "事件引发对 AI 安全治理的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
