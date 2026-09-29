@@ -1358,5 +1358,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "14c2fe461c8555bce3b3c742940417cf",
+    "title": "Project chats showing in my main chat list on desktop but not mobile? HELP",
+    "url": "https://www.reddit.com/r/artificial/comments/1wszi94/project_chats_showing_in_my_main_chat_list_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-29T03:31:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>On desktop, <strong>all of the chats inside my ChatGPT Projects are also showing up in my main/general chat history</strong>, which makes everything really cluttered.</p> <p>I’m paying for ChatGPT partly so I can keep conversations organised inside Projects, so I don’t understand why all of those chats are also appearing in my main chat list.</p> <p>The weird part is that <strong>this doesn’t happen on my phone</strong>. On mobile, the chats seem to stay inside ",
+    "title_zh": "桌面端ChatGPT项目聊天记录出现在主列表，移动端却正常？",
+    "summary_zh": "用户反映在桌面端使用ChatGPT时，项目内的所有聊天记录也同时显示在主聊天列表中，导致界面混乱，但移动端并未出现该问题，怀疑是功能设计或Bug。",
+    "key_points": [
+      "用户反馈桌面端ChatGPT项目内聊天记录意外出现在主聊天列表",
+      "该问题导致桌面端界面混乱，与用户整理对话的初衷相悖",
+      "移动端未出现相同现象，疑为桌面端特定Bug或A/B测试"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
