@@ -1,0 +1,190 @@
+[
+  {
+    "id": "11a1f3460e4780dcf74c16dd767b44ec",
+    "title": "Here&#8217;s what AI leaders are saying about Trump&#8217;s new safety plan",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-30T17:15:49+00:00",
+    "content_snippet": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He [&#8230;]",
+    "title_zh": "AI领袖对特朗普新AI安全计划的评论",
+    "summary_zh": "特朗普与科技领袖会面后回应AI安全议题，称此前称AI安全为民主党骗局的说法已不适用。各方AI领袖对此发表了不同看法。",
+    "key_points": [
+      "特朗普转变对AI安全议题态度",
+      "科技巨头领袖就新安全计划发表评论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8aacd4e61cd60ba5bb0e8af92313c94b",
+    "title": "I built a device-first deterministic architecture layer for frontier LLMs and published my research. Looking for people to run a narrow test and report back results.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wuah8c/i_built_a_devicefirst_deterministic_architecture/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-30T17:04:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wuah8c/i_built_a_devicefirst_deterministic_architecture/\"> <img alt=\"I built a device-first deterministic architecture layer for frontier LLMs and published my research. Looking for people to run a narrow test and report back results.\" src=\"https://preview.redd.it/spmoc98rvosh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dbb1c7cce59ba07d674f105daecffbe0cb5e165f\" title=\"I built a device-first deterministic architecture ",
+    "title_zh": "我构建了面向前沿LLM的设备优先确定性架构层并发表研究",
+    "summary_zh": "用户分享了一项个人研究成果：为前沿大语言模型构建了一个设备优先的确定性架构层，并寻找测试者进行狭义测试并提供反馈。",
+    "key_points": [
+      "发布面向LLM的设备优先确定性架构研究",
+      "寻找测试者验证研究成果"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eccebbaa6ab1114262c22e5d06765a86",
+    "title": "OpenAI’s Lean 4 Navier-Stokes proof compiles with zero errors, but the fluid vaporizes at 0.7 nm. What does this mean for Neuro-Symbolic AI? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wuac1n/openais_lean_4_navierstokes_proof_compiles_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-30T16:59:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I do research in neuro-symbolic AI, and like many of you, I was amazed by OpenAI’s recent formal proof of the 3D Navier-Stokes blow-up in Lean 4. Having an AI build a full mathematical proof that compiles with zero errors is a huge milestone for automated reasoning.</p> <p>The math is 100% valid. But out of curiosity, our team wanted to see what this solution would look like in the real world.</p> <p>If you map their solution to real water, ",
+    "title_zh": "OpenAI的Lean 4纳维-斯托克斯证明对神经符号AI意味着什么",
+    "summary_zh": "针对OpenAI使用Lean 4完成的纳维-斯托克斯方程形式化证明展开讨论，虽然证明编译零错误，但存在物理假设争议，探讨了此事对神经符号AI领域发展的意义与影响。",
+    "key_points": [
+      "OpenAI完成纳维-斯托克斯方程的形式化证明",
+      "证明编译成功但物理假设引发讨论",
+      "探索该成果对神经符号AI领域的影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1687155463e3982d4dc9e2eab2b02e7f",
+    "title": "I built a free 60-second test that scores how well you catch AI hallucination try it, tell me if I'm wrong",
+    "url": "https://www.reddit.com/r/artificial/comments/1wua8le/i_built_a_free_60second_test_that_scores_how_well/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-30T16:55:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Been building this for the past 8 months and I need honest feedback before I go wider.</p> <p>The premise: LLMs don't fail loudly. They fail by silently drifting from your original frame softening your question into a more common one, inventing a confident detail, smoothing away tension, and answering the reinterpreted version instead of the one you actually asked. Most people never notice.</p> <p>I documented 12 reproducible drift patterns (Dominant-Frame Colla",
+    "title_zh": "我构建了一个免费60秒测试，评估你识别AI幻觉的能力",
+    "summary_zh": "用户分享了一个花费8个月构建的免费工具，旨在通过60秒测试评估用户识别大语言模型幻觉的能力，并寻求反馈。",
+    "key_points": [
+      "发布用于测试识别AI幻觉能力的免费工具",
+      "项目已开发8个月，寻求用户反馈"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ade19e8bdc17c048813faa89efb276f9",
+    "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-30T16:24:23+00:00",
+    "content_snippet": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+    "title_zh": "Meta否认其AI Muse在未获许可的情况下读取用户私信",
+    "summary_zh": "Meta回应记者指控，称其AI代理Muse在未获明确许可的情况下无法访问用户消息，否认了该代理在设置关闭状态下读取私信的说法。",
+    "key_points": [
+      "Meta否认Muse AI在无许可下读取用户私信",
+      "争议源于记者报道与公司声明的冲突"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "68dcdac188f44e2191390d70b23a9489",
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-30T16:00:24+00:00",
+    "content_snippet": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+    "title_zh": "DoorDash推出可通过短信点餐的AI代理",
+    "summary_zh": "DoorDash推出了一款AI代理，用户可以通过发送短信来下单食物，此举旨在帮助公司在与Uber Eats等对手的竞争中获得优势。",
+    "key_points": [
+      "DoorDash发布短信点餐AI代理",
+      "旨在增强与Uber Eats等竞品的竞争力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ac11aaa6e810f103515b430dfa72926c",
+    "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+    "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-09-30T16:00:00+00:00",
+    "content_snippet": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+    "title_zh": "Destro AI的秘诀是让机器人与人达成共识",
+    "summary_zh": "Destro AI公司认为其竞争优势在于并非纯机器人公司，而是专注于让机器人和人类能协同工作、达成共识的技术方案。",
+    "key_points": [
+      "Destro AI核心技术在于协调机器人运作与人类意图"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ddad57caed36e65d458d319bfa4a33a6",
+    "title": "Isolation Forest performs best with 1.0 as max_samples [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wu8m1a/isolation_forest_performs_best_with_10_as_max/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-30T15:54:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am currently using the dataset CICIDS2017 to train an Isolation Forest model for anomaly detection, I am currently using a split that consists of 70% of ONLY BENIGN traffic for training, 15% BENIGN and 50% attacks for validation and the rest for testing, I used the validation to test with some different max_samples values, # MAX_SAMPLES_VALUES = [256, 4_096, 16_384, 100_000, 200_000, 400_000, 800_000, 1.0] and to calibrate some thresholds that maximixe differe",
+    "title_zh": "隔离森林算法在使用max_samples=1.0时性能最佳",
+    "summary_zh": "一项使用CICIDS2017数据集进行异常检测的研究发现，隔离森林模型在使用最大样本数为1.0的参数配置时，其表现达到最佳。",
+    "key_points": [
+      "研究发现隔离森林最佳参数为max_samples=1.0",
+      "实验使用CICIDS2017数据集进行异常检测"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
