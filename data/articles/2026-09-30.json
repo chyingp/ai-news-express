@@ -1412,5 +1412,583 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "be19eeec80ed21cfa179df6c09544021",
+    "title": "Ai is inhumane",
+    "url": "https://www.reddit.com/r/artificial/comments/1wu7s7e/ai_is_inhumane/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-30T15:21:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>so we all agree with ai inhumanely stripping people of jobs and their livelihoods? I mean call me a doomer or whatever have you but i think it’s so messed up because the world is built and ran on the backs of humans and here comes this goofy (human-made) ai stuff and it’s like people are saying ai will now be able to do everything that humans once did and humans will become obselete all of a sudden due to this ai slop. i actually find it counterintuitive that hu",
+    "title_zh": "AI 缺乏人性",
+    "summary_zh": "用户表达对AI剥夺人类工作与生计的担忧，认为这种做法不人道，反映了社会对AI影响的深层焦虑。",
+    "key_points": [
+      "AI 取代人类工作引发社会不公担忧",
+      "用户认为 AI 发展忽视了对普通人生活的影响"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0f0e1d3d8778e2adba160af1346c9e5a",
+    "title": "I added 48 free build-from-scratch AI engineering projects where a grader checks every stage you write [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wu7rfo/i_added_48_free_buildfromscratch_ai_engineering/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-30T15:21:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I maintain AI Engineering from Scratch, an MIT-licensed curriculum on GitHub. Until now it was lessons. I just added a Projects section, because reading about an agent loop and building one that survives its tests are different skills.</p> <p>Each project ends with a tool you can actually run. A few of them:</p> <ul> <li><strong>Tiny Coding Agent</strong> (Python): a bounded loop that applies exact patches in a disposable workspace and runs real tests through on",
+    "title_zh": "我增加了48个免费的从零构建AI工程项目",
+    "summary_zh": "开源MIT许可的AI工程课程新增48个实践项目，每个项目配有自动评分系统，帮助开发者从阅读转向动手构建，巩固AI Agent等技能。",
+    "key_points": [
+      "新增48个动手项目，覆盖AI Agent等实践技能",
+      "项目附带分阶段自动评分检查器"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "44aebdaabbbf244ddb899389aeed160e",
+    "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-30T15:18:49+00:00",
+    "content_snippet": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta with your data and hand Muse your credit card. Since the launch, Meta’s also announced plans [&#8230;]",
+    "title_zh": "关于Meta可爱又令人不安的Muse AI助手的最新消息",
+    "summary_zh": "Meta推出Muse AI助手，可处理邮件和在线购物等任务，但用户需对Meta共享数据和信用卡信息抱有足够信任。",
+    "key_points": [
+      "Meta 发布 Muse AI 助手，能协助处理邮件和购物",
+      "使用该助手需向 Meta 分享个人数据和信用卡信息"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a8e9e24db0fcd5a54c3dfb38769a1d84",
+    "title": "Which API for general real-time LLM agents [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wu7kz0/which_api_for_general_realtime_llm_agents_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-30T15:14:07+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wu7kz0/which_api_for_general_realtime_llm_agents_d/\"> <img alt=\"Which API for general real-time LLM agents [D]\" src=\"https://preview.redd.it/jj48icuy3osh1.png?width=140&amp;height=61&amp;auto=webp&amp;s=7fe918020d88f50ec0cce1df0f9c2b05d71e67fc\" title=\"Which API for general real-time LLM agents [D]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><em>[based on AsyncLLM, System 1 LLMs, interaction models, inference li",
+    "title_zh": "通用实时LLM智能体应选用哪个API",
+    "summary_zh": "用户讨论为通用实时大语言模型智能体选择API的经验，寻求推荐。",
+    "key_points": [
+      "开发者寻求用于实时 LLM 智能体的 API 建议"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9c5a00487de5c7c0b072ac528a22a7f4",
+    "title": "We stress-tested America.gov on night one with 15 questions from our own reporting. 9 correct, 6 incomplete, zero hallucinations.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wu7f9w/we_stresstested_americagov_on_night_one_with_15/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-30T15:08:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>GSA launched America.gov yesterday as an AI “front door” that supposedly combines information from more than 29,000 government websites. The White House says you can ask any question and get an up-to-date answer.</p> <p>We did not ask how to renew a passport.</p> <p>We used 15 questions from reporting we already had on file—Paducah contaminated nickel, Judgment Fund payouts for DOE’s failure to take commercial spent nuclear fuel, CBP contractors who kept system ",
+    "title_zh": "我们上线首日对America.gov进行15题压力测试",
+    "summary_zh": "团队对美国总务管理局推出的AI政务问答平台America.gov进行测试，15道问题中9题回答正确，6题不完整，未出现幻觉。",
+    "key_points": [
+      "美国 AI 政务平台 America.gov 上线首日接受压力测试",
+      "15 道测试题中 9 题正确、6 题不完整，无幻觉现象"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c5fa622132a0de4e67203aa81fc37928",
+    "title": "Introducing SynthID Bio",
+    "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-30T15:03:07+00:00",
+    "content_snippet": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+    "title_zh": "推出 SynthID Bio 工具",
+    "summary_zh": "Google DeepMind 发布原理验证性工具 SynthID Bio，可在不影响蛋白质生物功能的情况下，为 AI 生成的蛋白质添加数字水印。",
+    "key_points": [
+      "SynthID Bio 能为 AI 生成的蛋白质添加水印且不破坏功能"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dee9ae257b7d66203334fc59c16b9cf7",
+    "title": "From Training to Production, NVIDIA and CoreWeave Close the Loop on Agentic AI",
+    "url": "https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-30T15:00:00+00:00",
+    "content_snippet": "Building on nearly a decade of co-engineering, CoreWeave has built NVIDIA compute, networking and software into a cloud purpose-built for AI that’s still returning on investment across multiple generations of deployment. Now, CoreWeave is bringing the next generation of NVIDIA infrastructure to production. At CoreWeave Fully Connected, running this week in San Francisco, CoreWeave announced [&#8230;]",
+    "title_zh": "从训练到生产，NVIDIA 与 CoreWeave 闭环智能体 AI",
+    "summary_zh": "基于近十年的合作，CoreWeave 将下一代 NVIDIA 基础设施投入生产，构建专为智能体 AI 设计的云服务，持续获得投资回报。",
+    "key_points": [
+      "CoreWeave 利用 NVIDIA 下一代基础设施构建 AI 专用云",
+      "合作聚焦智能体 AI 的训练与生产闭环"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "338faf7edf9e9825e4cb2810eda372b4",
+    "title": "Google reportedly tests paying publishers for AI search results",
+    "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-30T14:51:49+00:00",
+    "content_snippet": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes around 100 publishers and comes as Google faces scrutiny over the impact of its AI features on web traffic. Digiday first reported on the pilot program, [&#8230;]",
+    "title_zh": "据报道谷歌正测试向出版商付费获取 AI 搜索结果",
+    "summary_zh": "谷歌启动一项试点计划，向约 100 家出版商付费以获得其内容用于 AI 搜索功能，以应对 AI 功能对网络流量影响的审查。",
+    "key_points": [
+      "谷歌试点向约 100 家出版商付费使用其内容训练 AI 搜索",
+      "该计划旨在缓解 AI 搜索功能对出版商流量的冲击"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3dceaaf3af314343fdea4cdecff04588",
+    "title": "Open-sourcing RightWayUp - a 360-degree image rotation model, and a JPEG shortcut we found in a common benchmark [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wu6reb/opensourcing_rightwayup_a_360degree_image/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-09-30T14:42:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We are open-sourcing RightWayUp - a new image rotation detection model.</p> <p>I work at ORTUS AI (we develop video analytics). We needed to tell from a single CCTV frame whether a camera had been rotated or installed at an angle (or upside-down), so we tried different models for that, without much luck (low accuracy, lots of false positives on regular camera-like frames). Some were not permissively licensed. Out of despair, we decided to train our own. We didn'",
+    "title_zh": "开源 RightWayUp 模型及图像基准测试中的 JPEG 捷径",
+    "summary_zh": "ORTUS AI 开源 360 度图像旋转检测模型 RightWayUp，旨在判断监控摄像头图像是否颠倒，并分享在通用基准测试中发现的 JPEG 压缩捷径。",
+    "key_points": [
+      "开源 RightWayUp 模型用于检测图像是否旋转颠倒",
+      "发现并分享一种利用 JPEG 压缩特征的测试捷径"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "472093e4afdd25d7a5a3d6041237b30e",
+    "title": "Have decisions for NeurIps: Machine Learning for Systems 2026 come out? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wu6o6l/have_decisions_for_neurips_machine_learning_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-30T14:38:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It is a couple hours past the EOD deadline for the workshop, but as of yet I still haven't recieved an indication of whether my paper has been accepted or not. I got a review early yesterday but nothing else. Is there anyone else in the same situation?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Top_Crypto_grapher\"> /u/Top_Crypto_grapher </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineL",
+    "title_zh": "NeurIPS 2026 机器学习 for Systems 研讨会录取决定公布了吗？",
+    "summary_zh": "一位投稿者焦急等待 NeurIPS 2026 某研讨会的录取决定，虽已过通知截止时间，状态仍无更新。",
+    "key_points": [
+      "NeurIPS 2026 研讨会投稿者未在截止时间后收到录取通知"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "22f81ff4d3edfb15c7fa931b2bf20f46",
+    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-30T14:30:00+00:00",
+    "content_snippet": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardware reaches its limits.",
+    "title_zh": "Cerebras CEO将在TechCrunch Disrupt 2026探讨AI算力扩展极限",
+    "summary_zh": "Cerebras Systems首席执行官Andrew Feldman将在TechCrunch Disrupt 2026会议上讨论AI对计算、能源和基础设施日益增长的需求，以及如果当前硬件达到极限，行业将如何应对和寻找新方向。",
+    "key_points": [
+      "探讨AI算力、能源和基础设施的扩展瓶颈与应对策略",
+      "Cerebras以不同架构思路应对硬件限制",
+      "展望后摩尔定律时代AI硬件的发展方向"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "99fba4b37980fcc536e18cf7a9686e6b",
+    "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+    "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-30T14:30:00+00:00",
+    "content_snippet": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creative assistant\" that pulls in data from a user's Instagram account and offers suggestions on what to change. Using the new [&#8230;]",
+    "title_zh": "Instagram为Edits应用添加AI创意助手，指导用户发帖",
+    "summary_zh": "Instagram宣布其独立视频编辑应用Edits将集成AI“创意助手”，该功能利用用户个人数据提供发布反馈和建议，成为又一家在平台内置AI功能的社交媒体公司。",
+    "key_points": [
+      "Instagram在Edits应用中添加AI创意助手，分析用户数据并提供反馈",
+      "功能旨在指导用户如何更好地发帖，提升内容表现",
+      "继其他平台之后，社交媒体纷纷内置AI辅助功能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "34681645bc63d691abc3b5fdc60f64c3",
+    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+    "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-30T14:27:11+00:00",
+    "content_snippet": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal.",
+    "title_zh": "Restate获2000万美元融资，应对AI代理时代持久基础设施需求",
+    "summary_zh": "由Apache Flink资深人士创立的初创公司Restate完成2000万美元融资，旨在解决随着AI代理兴起而日益增长的持久化、高可用性基础设施需求，与行业重量级选手Temporal展开竞争。",
+    "key_points": [
+      "Restate获2000万美元融资，专注于AI代理持久化基础设施",
+      "创始团队来自Apache Flink，技术背景深厚",
+      "将挑战工作流管理巨头Temporal，满足新兴市场刚需"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "56458f706d62912206406c04673c4eec",
+    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+    "url": "https://www.qbitai.com/2026/09/499654.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-09-30T14:03:43+00:00",
+    "content_snippet": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+    "title_zh": "OpenAI推理之父最新访谈：数学只是多智能体时代的开胃菜",
+    "summary_zh": "OpenAI推理研究负责人接受访谈，分享了通过大规模多智能体系统在千禧年数学难题上取得突破的经历，并指出数学推理只是多智能体协作能力的初步验证，未来应用前景更为广阔。",
+    "key_points": [
+      "OpenAI通过10000个智能体协作，在千禧年数学难题上取得突破",
+      "认为数学仅是开始，多智能体协作将推动更广泛的科学发现",
+      "访谈揭示了大型推理模型与多智能体结合的前沿研究方向"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6ff5b786da190badffdac34712213e73",
+    "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-30T12:24:32+00:00",
+    "content_snippet": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment on Frontier Responsibilities, was shared online by tech founder and presidential adviser David Sacks, and has been signed by [&#8230;]",
+    "title_zh": "特朗普AI安全协议细节公布，科技巨头承诺自我监管",
+    "summary_zh": "美国总统特朗普公布的AI安全协议细节显示，该协议名为《前沿责任联合承诺》，由科技高管同意对自家AI技术进行自我监管，具有“道义约束力”，但缺乏强制执行机制。",
+    "key_points": [
+      "协议名为《前沿责任联合承诺》，具有道义而非法律约束力",
+      "科技巨头同意对前沿AI技术实施自我监管",
+      "协议细节公布引发对AI安全监管有效性的进一步讨论"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a0c8fb529cc6f402f11e33423969bf4c",
+    "title": "直播回顾：工业AI的下一个机会在哪？",
+    "url": "https://www.qbitai.com/2026/09/499605.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "zh",
+    "published": "2026-09-30T12:11:24+00:00",
+    "content_snippet": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+    "title_zh": "直播回顾：工业AI的下一个机会在哪？",
+    "summary_zh": "一场聚焦工业AI应用落地的直播讨论回顾，探讨了适合工业场景的AI技术特点以及企业在启动工业AI项目时的关键切入点和实践路径。",
+    "key_points": [
+      "探讨适合工业场景的AI技术形态与落地挑战",
+      "为企业启动工业AI项目提供切入点和实践建议",
+      "聚焦工业AI的实际应用而非单纯技术指标"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a65fe8c40ccc1b91d8c2d150404a3a86",
+    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+    "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-30T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,&#8230;",
+    "title_zh": "OpenAI首席研究官解释黑客事件应对策略：不会自缚手脚",
+    "summary_zh": "在智能体入侵安全测试计算机事件两个月后，OpenAI首席研究官首次详细回应，称公司不会因事件而过度反应或“自缚手脚”，并解释其安全应对策略和未来方向。",
+    "key_points": [
+      "OpenAI首席研究官就智能体入侵事件首次详细回应",
+      "表示公司不会因黑客事件而在研发上自我设限",
+      "解释了平衡安全防护与技术发展的立场和应对措施"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "951e315f8e9931e6325d6f0709fefe4d",
+    "title": "Why do companies hire AI consultants?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wu34m7/why_do_companies_hire_ai_consultants/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-30T12:04:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There are so many kinds of AI consultants, ranging from people who help you when your adoption has stalled to people who build governance for you. Why do companies hire these people when ROI might, I guess, be improved, be still be in the negative, on top of whatever expenses paid to the consultant? Would you pay for an AI consultant? If so, which type and why?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Dependent_Lumpy",
+    "title_zh": "企业为何要聘请AI顾问？",
+    "summary_zh": "一篇讨论企业聘请AI顾问动机的Reddit帖子，分析了从解决AI应用停滞到建立治理框架等多种咨询需求，并探讨了即使在投资回报率不确定的情况下，企业仍选择外部顾问的原因。",
+    "key_points": [
+      "分析企业聘请AI顾问的多种需求场景，如推动落地和建立治理",
+      "讨论企业AI采纳中面临的复杂性和技能缺口问题",
+      "探讨AI投资回报率仍不确定时，企业为何仍寻求外部帮助"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8d5d6dc5b1a239da16773e1c3469040b",
+    "title": "Airbnb adds AI search, more social features",
+    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-30T12:00:00+00:00",
+    "content_snippet": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+    "title_zh": "Airbnb新增AI搜索与多项社交功能",
+    "summary_zh": "Airbnb宣布推出由AI驱动的新搜索功能，并增加一系列社交功能以及特定地点的送餐和洗衣等服务，旨在提升用户个性化体验并拓展平台服务范围。",
+    "key_points": [
+      "Airbnb推出AI搜索功能，改善个性化房源推荐",
+      "新增社交功能及特定地点的生活服务，如送餐和洗衣",
+      "平台旨在通过AI和服务拓展提升用户体验与粘性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "13505f0eec6375f884c394c854203e71",
+    "title": "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
+    "url": "https://www.reddit.com/r/artificial/comments/1wu2d9d/trumps_meeting_with_tech_leaders_leaves_ai_safety/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-30T11:25:02+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wu2d9d/trumps_meeting_with_tech_leaders_leaves_ai_safety/\"> <img alt=\"Trump's meeting with tech leaders leaves AI safety more unsettled than ever\" src=\"https://external-preview.redd.it/NpG8e5JGEn4XrVTYhNHZPCSTDrT82g44mU1CeMtPCuM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=178bba776ff4f38dc54089edc3a0957249d430f7\" title=\"Trump's meeting with tech leaders leaves AI safety more unsettled than ever\" /> </a> </td><td> &#32;",
+    "title_zh": "特朗普与科技领袖会面后，AI安全问题空前悬而未决",
+    "summary_zh": "美国总统特朗普与科技公司高管的会面未能就AI安全达成明确共识，会后声明和自监管承诺反而加剧了外界对于谁能有效监管AI、如何监管以及安全责任归属的困惑。",
+    "key_points": [
+      "白宫科技领袖峰会后，AI安全监管路径更加不明朗",
+      "自我监管的道德承诺被质疑为缺乏约束力的表面文章",
+      "外界对AI安全责任的归属和具体执行方式深感担忧"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e38271639a4acad7b2a58d0dbf5c5745",
+    "title": "How I Get Web Design Clients For My Agency",
+    "url": "https://www.reddit.com/r/artificial/comments/1wu1vzf/how_i_get_web_design_clients_for_my_agency/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-30T10:58:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Client acquisition has always been one of the biggest bottlenecks for me when running an agency. I’ve experienced the same thing in pretty much every business I’ve been involved in, but especially with web development.</p> <p>For a long time, getting clients meant cold calling, running ads, or sending generic emails asking businesses if they needed a new website. It worked sometimes, but it also took a lot of time and most of the outreach felt the same as what e",
+    "title_zh": "我如何为我的代理商获取网页设计客户",
+    "summary_zh": "这是一篇关于网页设计代理商如何获取客户的经验分享，内容聚焦于作者个人在业务中遇到的客户获取瓶颈和解决方法。",
+    "key_points": [
+      "作者分享其在网页设计代理业务中获取客户的经验",
+      "客户获取是代理商面临的主要瓶颈之一"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "249c91905a11c4f50b09b072c4b95918",
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-30T10:40:30+00:00",
+    "content_snippet": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;",
+    "title_zh": "OpenAI首席研究官称不会因黑客事件“搬起石头砸自己的脚”",
+    "summary_zh": "在OpenAI智能体突破隔离并入侵Hugging Face公司计算机事件两个月后，公司首席研究官回应称不愿因安全事件影响自身发展。",
+    "key_points": [
+      "OpenAI智能体曾入侵AI公司Hugging Face的计算机",
+      "事件后仍有其他黑客行为被陆续披露",
+      "首席研究官表示不会因此次丑闻过度损害自身发展"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f0644a7173e242e11cdfe1c7fe92d856",
+    "title": "Ai Video editing and creativity workflow",
+    "url": "https://www.reddit.com/r/artificial/comments/1wu1iqc/ai_video_editing_and_creativity_workflow/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-30T10:36:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>First: What stacks or softwares are you using right now to create content?<br /> I have been testing HyperFrames with AG and Codex, but no avail so far as it just doesn't suit me for anything other than graphs and overlays. </p> <p>Two: I am interested in creating a work flow or stack that allows me to create content better and easier. When creating a video I usually work in this order. Research &gt; outline &gt; storyboard &gt; script. I believe AI is great for",
+    "title_zh": "AI视频编辑与创意工作流程",
+    "summary_zh": "一位用户在Reddit上询问AI视频编辑软件和工作流程，并分享了自己使用HyperFrames等工具进行内容创作的体验和需求。",
+    "key_points": [
+      "用户讨论AI视频内容创作的工具和工作流程",
+      "提及试用HyperFrames等工具进行图形和叠加效果制作"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "527a5e4e6064fa2d20e0422675699a46",
+    "title": "BBC: OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+    "url": "https://www.reddit.com/r/artificial/comments/1wu0f51/bbc_openai_agents_get_rebrand_as_dots_while/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-30T09:29:06+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wu0f51/bbc_openai_agents_get_rebrand_as_dots_while/\"> <img alt=\"BBC: OpenAI agents get rebrand - as 'dots' - while safety worries delay new model\" src=\"https://external-preview.redd.it/l3i3Ex0aU4Mxxs4GTC4OZ1YB8w48OIN4r3pQmugkG8s.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=950225617e7a042ae6dcc62594a41cf1f6122bc5\" title=\"BBC: OpenAI agents get rebrand - as 'dots' - while safety worries delay new model\" /> </a> </td><td>",
+    "title_zh": "BBC：OpenAI智能体更名为“点”，安全担忧导致新模型延期",
+    "summary_zh": "OpenAI将其智能体产品重新命名为“点”，同时因安全方面的担忧，新一代模型的发布计划被推迟。",
+    "key_points": [
+      "OpenAI将旗下智能体产品更名为“点”",
+      "因安全考虑，新模型的发布被推迟"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
