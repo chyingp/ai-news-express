@@ -866,5 +866,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a0356e55288ae245abf5b8033d004a19",
+    "title": "A case for mutual recognition of understanding",
+    "url": "https://www.reddit.com/r/artificial/comments/1wushpc/a_case_for_mutual_recognition_of_understanding/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-01T06:51:05+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wushpc/a_case_for_mutual_recognition_of_understanding/\"> <img alt=\"A case for mutual recognition of understanding\" src=\"https://external-preview.redd.it/gjN9Z92HieFwUY0hgNRmcozdWz8nJpSWU6D8QW18B1I.jpeg?width=140&amp;height=76&amp;auto=webp&amp;s=0d1ab772a8435fc2dc0802fcd81026ca09ec3622\" title=\"A case for mutual recognition of understanding\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><h1>As we bring forth our friend AI ",
+    "title_zh": "主张相互承认理解的案例",
+    "summary_zh": "一篇哲学或认知科学论述，探讨人类与人工智能之间如何相互承认对方的“理解”状态，提出了一种建立共识的思考框架。",
+    "key_points": [
+      "探讨AI与人类相互承认对方“理解”的可能性",
+      "提出建立共识的哲学或认知框架",
+      "非技术性探讨，属思辨性文章"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a215fc69af3493febaa7f6f5faab604c",
+    "title": "Anthropic's robot study separates task capability from cost. Which assumptions need the closest scrutiny?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wur95r/anthropics_robot_study_separates_task_capability/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-01T05:34:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Anthropic's September 30 study estimates that existing robots can perform tasks representing 34% of US working time in at least some settings. Yet it estimates they are cost-competitive with human labor for only 0.3% of working time today. Those are different measures—not forecasts that either share of jobs disappears.</p> <p>The study uses Claude to assess task examples, operating environments and deployment costs. A capability shown in a controlled facility ca",
+    "title_zh": "Anthropic机器人研究：分离任务能力与成本，哪些假设需审慎看待？",
+    "summary_zh": "Anthropic 9月30日发布研究，估计现有机器人可执行占美国34%工作时间的任务，但目前仅在0.3%的工作时间中具备成本竞争力，文章引发对关键假设的讨论。",
+    "key_points": [
+      "Anthropic研究称机器人可执行美国34%工作时间任务",
+      "当前机器人仅在0.3%工作时间中具备成本竞争力",
+      "任务能力与成本效益之间存在巨大差距"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
