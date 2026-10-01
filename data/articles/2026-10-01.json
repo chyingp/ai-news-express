@@ -916,5 +916,370 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "008d5f63b9ed5e122fbb80ab10a820b3",
+    "title": "Watch Nvidia (NVDA) Rolls Out New Tools to Keep AI Agents in Line",
+    "url": "https://www.reddit.com/r/artificial/comments/1wv09av/watch_nvidia_nvda_rolls_out_new_tools_to_keep_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-01T14:02:15+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wv09av/watch_nvidia_nvda_rolls_out_new_tools_to_keep_ai/\"> <img alt=\"Watch Nvidia (NVDA) Rolls Out New Tools to Keep AI Agents in Line\" src=\"https://external-preview.redd.it/o_ygU60VyTTy72RCv-Ey3hr8KTBYgInfhhW3CvGhbek.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=13b934f4d5cdfe9d4897d02fa40c3889caaef61c\" title=\"Watch Nvidia (NVDA) Rolls Out New Tools to Keep AI Agents in Line\" /> </a> </td><td> &#32; submitted by &#32; <",
+    "title_zh": "NVIDIA 推出新工具管控 AI 代理行为",
+    "summary_zh": "NVIDIA 发布新工具，旨在确保 AI 代理在预定规则内运行，防止失控行为，增强企业对代理式 AI 的信任和应用安全性。",
+    "key_points": [
+      "NVIDIA 推出用于约束和管理 AI 代理行为的新工具集",
+      "旨在防止 AI 代理做出超出预设范围的操作",
+      "提升企业对部署代理式 AI 的安全信心"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3f4ea9f16a21e9597423d91f4f7558c3",
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents",
+    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-01T14:00:00+00:00",
+    "content_snippet": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+    "title_zh": "Photon 获 450 万美元融资，欲以 AI 代理取代移动应用",
+    "summary_zh": "初创公司 Photon 融资 450 万美元，帮助开发者构建可通过短信、邮件等消息平台工作的 AI 代理，押注消费者将更多地使用代理而非下载应用。",
+    "key_points": [
+      "Photon 完成 450 万美元种子轮融资",
+      "其平台支持构建跨消息平台的 AI 代理",
+      "目标是取代传统移动应用的下载和使用模式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7ceba4a1348d5697f346449ed75089c3",
+    "title": "Greg Brockman: How to build AI software that doesn't die when the next model ships",
+    "url": "https://www.reddit.com/r/artificial/comments/1wuzu7o/greg_brockman_how_to_build_ai_software_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-01T13:45:15+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wuzu7o/greg_brockman_how_to_build_ai_software_that/\"> <img alt=\"Greg Brockman: How to build AI software that doesn't die when the next model ships\" src=\"https://external-preview.redd.it/enl1bHphYjIxdnNoMZApC2gGLhFrWfoQnvw16GPSJChi1T31P4OPHVZNn5YA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4d23a0dafcd38cde24a133084131adca4dee3791\" title=\"Greg Brockman: How to build AI software that doesn't die when the next model ships\"",
+    "title_zh": "Greg Brockman：如何构建不因新模型发布而过时的 AI 软件",
+    "summary_zh": "OpenAI 联合创始人 Greg Brockman 分享构建经得起模型迭代考验的 AI 软件的方法论，强调软件开发应超越对特定模型版本的依赖。",
+    "key_points": [
+      "Greg Brockman 提出构建持久 AI 软件的指导原则",
+      "核心是让软件不因底层模型版本更新而失效",
+      "体现了 OpenAI 对应用层稳定性的思考"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1f1f287ab8e6efbf59aceac87be10b79",
+    "title": "How would you explain to someone who only uses AI chat what the world will look like in 20 years?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wuzfqo/how_would_you_explain_to_someone_who_only_uses_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-01T13:27:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>How would you describe AI to a person who knows nothing about it, except for searching on an AI chat? I see a lot of people saying the world is going to change, so how would you explain to someone with zero knowledge what changes we are going to see in the world 20 years from now?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Valuable_Finding7\"> /u/Valuable_Finding7 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/ar",
+    "title_zh": "如何向 AI 聊天用户解释 20 年后的世界？",
+    "summary_zh": "Reddit 网友探讨如何向仅使用过 AI 聊天的普通人，清晰描述未来 20 年内人工智能将带来的深刻社会与生活变革。",
+    "key_points": [
+      "讨论如何向 AI 初学者讲述长远未来的图景",
+      "涉及 AI 对日常生活和工作方式的深远改变"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "962e109fd2a8cd8530d54b4f4376b9a3",
+    "title": "Why do benchmark results go up every release, always?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wuz7aj/why_do_benchmark_results_go_up_every_release/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-01T13:17:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A lot of releases are clearly improvements, such as the initial fable release but for some the consensus seems to be that not much improved, or even in some cases the release was worse. Examples of this are Opus 5 (initial release) benching above Fable. Or GPT Sol 6.1 over Astra or 5.6.</p> <p>Is this just a case of misplaced perception? Or do these providers have a way of iterating on benchmark results without necessarily actually improving the real-world perfo",
+    "title_zh": "为何基准测试结果每次发布都在提升？",
+    "summary_zh": "Reddit 用户质疑为何尽管部分 AI 模型实际表现未显著提升甚至变差，但基准测试分数却逐代稳定上升，探讨基准测试的可信度问题。",
+    "key_points": [
+      "讨论 AI 模型基准测试分数与实际体验的脱节现象",
+      "列举部分模型分数虚高但实际表现不佳的案例"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "715203b469a4d41d9f65fd837c71b667",
+    "title": "Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-01T13:12:08+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1wuz2s4/parallelintime_training_of_recurrent_neural/\"> <img alt=\"Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]\" src=\"https://preview.redd.it/tq9on2k4vush1.gif?width=640&amp;crop=smart&amp;s=7241cea5ee40ba5a7c0b32d5e2cea9510d3d035f\" title=\"Parallel-in-Time Training of Recurrent Neural Networks for Dynamical Systems Reconstruction [R]\" /> </a> </td><td> <!-- SC_OFF --><div ",
+    "title_zh": "循环神经网络的时间并行训练方法用于动态系统重建",
+    "summary_zh": "一篇研究论文提出了一种针对循环神经网络的时间并行训练方法，旨在加速其对动态系统进行重建的计算过程。",
+    "key_points": [
+      "提出针对循环神经网络的时间并行训练新方法",
+      "目标应用场景是动态系统的重建与模拟",
+      "聚焦于提升训练效率的计算技术"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "052ead0cacdf507a4c1b892be2c880dc",
+    "title": "Productive, Durable, Fungible: How NVIDIA AI Factories Maximize Return on Investment",
+    "url": "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-01T13:00:49+00:00",
+    "content_snippet": "AI factories are built by the megawatt, even by the gigawatt. Each megawatt factory costs roughly $60 million, and AI factory operators will only commit capital on that scale with a clear view of the return on investment. Three key things shape AI factory returns: Earning capacity: What the factory could earn in a year [&#8230;]",
+    "title_zh": "高效、耐用、可替代：NVIDIA AI 工厂如何最大化投资回报",
+    "summary_zh": "NVIDIA 博客阐述 AI 工厂投资回报率的三大关键因素：创收能力、工厂寿命和资产的可替代性，分析大规模建设 AI 基础设施的经济账。",
+    "key_points": [
+      "NVIDIA 解析 AI 工厂投资回报模型的核心要素",
+      "一个兆瓦级 AI 工厂成本约六千万美元",
+      "强调盈利性、耐用性和可替代性是投资关键"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b2aa71ddeef46e8d31f95bd6b64d67a5",
+    "title": "Hearing tech startup Legato launches its AI hearing glasses",
+    "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-01T13:00:00+00:00",
+    "content_snippet": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+    "title_zh": "听觉科技初创公司 Legato 发布 AI 助听眼镜",
+    "summary_zh": "初创公司 Legato 推出全新 AI 助听眼镜，旨在通过解决成本、舒适度和传统助听器带来的羞耻感，使听力护理更易普及。",
+    "key_points": [
+      "Legato 发布融合 AI 技术的助听眼镜产品",
+      "目标是降低听力保健的门槛和改善用户体验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ae16462f53b7096c23ccb8aea927bd76",
+    "title": "Do businesses running multiple AI agents need one control layer?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wuyrf8/do_businesses_running_multiple_ai_agents_need_one/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-01T12:58:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>If a company uses agents from OpenAI, Claude, Meta and custom systems each has separate permissions and activity logs.</p> <p>Would you use one independent gateway that?</p> <ol> <li>Shows what every agent does<br /></li> <li>Applies the same rules across agents<br /></li> <li>Requires approval for sensitive actions<br /></li> <li>Stops unauthorized payments, emails or deployments<br /></li> <li>Creates a reliable record when something goes wrong</li> </ol> <p>F",
+    "title_zh": "运行多 AI 代理的企业是否需要统一控制层？",
+    "summary_zh": "Reddit 讨论当企业同时使用来自 OpenAI、Claude、Meta 等多方 AI 代理时，是否需要一个独立的网关来实现统一监控和规则管理。",
+    "key_points": [
+      "讨论企业内多种 AI 代理并存的管控挑战",
+      "提出是否需统一网关进行集中监控和策略下发"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "meta",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f01a6c92561bbee7a7a5454262afda4c",
+    "title": "Paying for Google AI Pro but feel like I’m barely scratching the surface. How are you actually integrating AI into work, life admin, and side gigs?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wuxwhn/paying_for_google_ai_pro_but_feel_like_im_barely/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-01T12:16:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve had a Google AI Pro subscription for a bit now, and honestly, I feel like I’m just using it as an overpriced search bar.</p> <p>​Right now I'm using it basic questions and extended conversation, using image generation, helping me to write emails and write Reddit posts like this...</p> <p>I know I can do a lot more with my plan and other AI tools, but unsure of the use cases out there. I don't know how to read or write code so my use cases here might be limi",
+    "title_zh": "付费订阅 Google AI Pro 却感觉未充分利用，如何在实际中整合 AI？",
+    "summary_zh": "一名用户分享了其付费使用 Google AI Pro 但觉得仅用作搜索工具的困惑，向社区征询如何将 AI 更深入地整合进工作、生活和副业。",
+    "key_points": [
+      "用户反思对高级 AI 订阅产品的使用深度不足",
+      "征询将 AI 融入实际工作流的方法和案例"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "94a1f180da3fa1344f21d27d78523b35",
+    "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+    "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-01T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzing your brain scans—and&#8230;",
+    "title_zh": "The Download: AI“读心术”与小电池的创意用途",
+    "summary_zh": "本期The Download新闻简报涵盖两大科技主题：AI“读心”工具能通过脑部扫描重建视觉内容，以及探索小型电池的创新应用。",
+    "key_points": [
+      "AI工具通过分析脑部扫描精准重建人所视图像",
+      "该工具亦可逆向预测大脑活动模式",
+      "简报同时探讨了小型电池的多种创意用途"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "28a5cadf6619423ecb3171dbcc8bec95",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-01T12:00:00+00:00",
+    "content_snippet": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "title_zh": "前谷歌与SpaceX产品经理创立Satlyt，融资800万美元推动星载AI",
+    "summary_zh": "初创公司Satlyt完成800万美元融资，致力于打造卫星轨道计算的开放软件平台，以安卓式策略挑战SpaceX的封闭生态。",
+    "key_points": [
+      "Satlyt融资800万美元打造开放卫星AI平台",
+      "定位为轨道计算领域的“安卓”，跨硬件兼容"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e49f8e259be33173654abd2585779233",
+    "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+    "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-01T10:32:24+00:00",
+    "content_snippet": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way too, and predict a person’s brain activity based on what they’re looking at.  In the image above, for example, the left-hand image of each pair is what&#8230;",
+    "title_zh": "AI“读心术”工具能根据脑部扫描重建你所见之物",
+    "summary_zh": "一款新型AI工具通过分析大脑扫描数据，可以高精度猜出并重建用户所视图像，还能反向预测大脑活动，展示了强大的神经解码能力。",
+    "key_points": [
+      "AI仅凭脑部扫描即可高精度重建所视图像",
+      "模型还能反向根据图像预测大脑活动"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "76079b894b3a1761183343a9e2dda87b",
+    "title": "Gemini 4 Argon - 1 Million Output Headroom. Hype or a Leap? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wuvmpo/gemini_4_argon_1_million_output_headroom_hype_or/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-01T10:12:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I rarely write about benchmarks; a competitor always beats them next week. But I care about 'Leaps'. Gemini 4 Argon feels like one to me. </p> <p>While Opus 5.5 and Astra cap output at 128-300K tokens (~90-180 pages), Argon hits 1 Million (~1400 pages). </p> <p>&quot;Context glue&quot; ruins agentic workflows. On paper, this headroom fixes that. It means less contextual drift, no more breaking down long tasks, and zero 'continue prompt' loops. It is a massive un",
+    "title_zh": "Gemini 4 Argon百万输出上下文：炒作还是飞跃？",
+    "summary_zh": "Reddit用户讨论Gemini 4 Argon模型支持高达100万token的输出上限，认为这相比竞品的30万token上限是一次重大飞跃，但也存在疑虑。",
+    "key_points": [
+      "Gemini 4 Argon输出上限达100万token",
+      "远超Opus 5.5等竞品的12.8万-30万token上限"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c355a4668911103ae8975610570bef78",
+    "title": "The most trustworthy AI answer might be the one that slows down",
+    "url": "https://www.reddit.com/r/artificial/comments/1wuunei/the_most_trustworthy_ai_answer_might_be_the_one/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-01T09:10:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve started noticing that I trust AI more when it pauses and tells me what it cannot tell from the information I gave it.</p> <p>A confident answer is convenient, but a useful answer should also show where the uncertainty is. Sometimes the difference between “this is probably true” and “this is definitely true” matters more than the answer itself.</p> <p>I wonder whether future AI systems will be judged by how well they communicate uncertainty, rather than how ",
+    "title_zh": "最值得信赖的AI答案或许是那个“慢下来”的答案",
+    "summary_zh": "用户发现，当AI在回答前停顿并坦言其不确定性时，反而更值得信赖。有用的答案应展示推理边界，而非一味自信。",
+    "key_points": [
+      "AI坦言信息不足时更显可信",
+      "展示不确定性比盲目自信更有用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
