@@ -554,5 +554,173 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b0e8a6f4f58bef00669d1a4f0999daed",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-30T23:43:07+00:00",
+    "content_snippet": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+    "title_zh": "谷歌发布迄今最强大模型 Gemini 4 Argon",
+    "summary_zh": "谷歌发布了最新的 Gemini 模型 Gemini 4 Argon，定位为编程和网络安全领域的得力工具。该模型被宣传为谷歌迄今为止最强大的模型。",
+    "key_points": [
+      "谷歌推出 Gemini 4 Argon，称其为最强模型",
+      "重点面向编程与网络安全工作负载",
+      "目前仅限可信防御者使用"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "34d821b7dd74d22a1139c11f0b154cea",
+    "title": "Two questions about the Reddit corpus for AI training",
+    "url": "https://www.reddit.com/r/artificial/comments/1wujwja/two_questions_about_the_reddit_corpus_for_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-09-30T23:18:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What percentage of “Facts” you see on Reddit do you think are correct?<br /> Whatever percentage you picked, what do you think it means since Reddit is a major source for some AI training?</p> <p>Talk among yourselves….</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Special-Steel\"> /u/Special-Steel </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit",
+    "title_zh": "关于 Reddit 语料用于 AI 训练的两个疑问",
+    "summary_zh": "一篇 Reddit 讨论帖质疑 Reddit 上信息的真实性，并探讨其作为 AI 训练主要数据源可能带来的影响。",
+    "key_points": [
+      "质疑 Reddit 上所谓'事实'的正确率",
+      "探讨 Reddit 作为 AI 训练数据源的可靠性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "971c8dabae89719c24a75c23346786ab",
+    "title": "Help to identify what AI she using… pls",
+    "url": "https://www.reddit.com/r/artificial/comments/1wuj1gu/help_to_identify_what_ai_she_using_pls/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-09-30T22:39:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey 🙋🏽‍♀️ I found a type of girl who insert herself in AI contexts, differents scenery… any guess what kinda AI she might be using ? Sora 2, Kling… I’m searching references to do a project with this kinda of quality </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Significant-Roll-166\"> /u/Significant-Roll-166 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https:/",
+    "title_zh": "求助：识别她正在使用哪种 AI",
+    "summary_zh": "一位用户发帖求助，希望识别某位女性在 AI 生成场景中使用的具体 AI 工具，并列举了 Sora 2、Kling 等可能选项。",
+    "key_points": [
+      "用户寻求识别 AI 视频生成工具",
+      "提及 Sora 2、Kling 等候选工具"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fc143780e80e6271a622dd514d1fb56e",
+    "title": "Use Reddit to test whether an AI answer preserves the constraints that actually matter",
+    "url": "https://www.reddit.com/r/artificial/comments/1wuipco/use_reddit_to_test_whether_an_ai_answer_preserves/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-09-30T22:24:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A useful way to combine Reddit and an LLM is to build a small answer-evaluation set from the questions people actually ask.</p> <p>The interesting part is often a constraint buried halfway through a post: &quot;offline only,&quot; &quot;no monthly fee,&quot; &quot;I cannot install software,&quot; or &quot;this is for one client, not an entire company.&quot;</p> <p>Here is a small exercise you can run without building an agent:</p> <ol> <li>Choose three public th",
+    "title_zh": "利用 Reddit 测试 AI 答案是否保留关键约束条件",
+    "summary_zh": "文章介绍了一种新方法，利用 Reddit 上的真实提问构建评估集，以测试大语言模型在回答时是否能保留用户埋藏在帖子中的特定约束条件。",
+    "key_points": [
+      "提出用 Reddit 真实提问评估 AI 模型",
+      "测试模型能否遵循'离线'等隐藏约束"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1531fa60609908b599317670c350b810",
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-09-30T21:07:40+00:00",
+    "content_snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "title_zh": "AI 初创公司 Flow Engineering 获巨额投资，估值 7.5 亿美元",
+    "summary_zh": "AI 初创公司 Flow Engineering 获得 Valor、Atreides 和 Sequoia 投资，估值达 7.5 亿美元，并吸引 Roelof Botha 担任天使投资人和董事会成员。该公司专注于将 AI 代理引入硬件设计。",
+    "key_points": [
+      "Flow Engineering 完成融资，估值 7.5 亿美元",
+      "专注于将 AI 代理应用于硬件设计",
+      "红杉资本参投，Roelof Botha 加入董事会"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "df517765e95e464730d7c12eb1f4e553",
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-09-30T20:44:48+00:00",
+    "content_snippet": "A simple email gives the attackers the ability to remotely inject OS commands.",
+    "title_zh": "攻击者利用 Zimbra 严重漏洞窃取邮件",
+    "summary_zh": "安全领域新闻，攻击者正在积极利用一个严重的 Zimbra 漏洞，通过发送一封简单的邮件即可远程注入系统命令并窃取邮件。本文与 AI 无直接关联。",
+    "key_points": [
+      "Zimbra 存在远程命令注入严重漏洞",
+      "攻击者仅需发送特制邮件即可利用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "58c6c873a601ee0c6c1a9ecac9bc12b0",
+    "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+    "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-09-30T20:41:41+00:00",
+    "content_snippet": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" according to chief AI architect and Google DeepMind SVP Koray Kavukcuoglu. But the company is limiting access at [&#8230;]",
+    "title_zh": "谷歌发布 Gemini 4，声称能力过强仅限'可信网络防御者'使用",
+    "summary_zh": "谷歌发布下一代前沿 AI 模型 Gemini 4 Argon，其首席 AI 架构师称该模型在软件工程、金融法律和网络安全防御等复杂工作流中表现出前沿性能，目前仅限特定人员使用。",
+    "key_points": [
+      "谷歌发布 Gemini 4，称为前沿模型",
+      "在编程、金融、法律领域表现出色",
+      "因能力过强，发布初期限制访问权限"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
