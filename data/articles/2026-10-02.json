@@ -459,5 +459,155 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a4548c383007ff688d653963b6131740",
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-01T19:21:53+00:00",
+    "content_snippet": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+    "title_zh": "ChatGPT 现在可以帮你虚拟试穿衣服了",
+    "summary_zh": "OpenAI 为 ChatGPT 推出全新购物功能，用户可上传照片来虚拟试穿服装和配饰，并可将喜欢的产品保存至收藏夹。",
+    "key_points": [
+      "ChatGPT 新增虚拟试穿功能，用户可上传照片体验。",
+      "支持保存喜欢的产品到收藏夹库。",
+      "该购物功能集成在 ChatGPT 应用中。"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b56eb6fb25bd9dd2ee16e329ed1a9f40",
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-01T18:14:42+00:00",
+    "content_snippet": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+    "title_zh": "OpenAI 与三名安全研究员分道扬镳",
+    "summary_zh": "据华尔街日报报道，OpenAI 在内部调查发现三名安全研究员处理敏感公司信息不当后，已与她们终止合作。",
+    "key_points": [
+      "内部调查认定研究员处理敏感信息不当。",
+      "三名安全研究员已与公司终止合作。",
+      "消息源自华尔街日报的报道。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2a3695ba2998bfc825d54d4c6fa6bcda",
+    "title": "The neuroscience case for never delegating judgment to AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1wv6r9g/the_neuroscience_case_for_never_delegating/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-01T18:10:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I keep asking people a simple question: how many times has your gut been right — not the times you wish you had listened, the times you actually had the feeling and later found out whether it was correct?</p> <p>The answer comes back north of ninety per cent for almost everyone I ask. That is not a hunch. If a model gave me ninety per cent on a hard classification task, I would ship it.</p> <p>So I went looking for why, and ended up somewhere I did not expect. A",
+    "title_zh": "神经科学论证为何不应向AI委托判断力",
+    "summary_zh": "一篇讨论直觉准确性的帖子引发关于不应将判断委托给AI的神经科学观点，强调人类直觉在决策中的高准确率。",
+    "key_points": [
+      "讨论人类直觉在决策中的高准确率。",
+      "从神经科学角度反对向AI委托判断。",
+      "引发对AI决策边界的深度思考。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "58e27f0e5358037196115f2638eb7307",
+    "title": "Marvel releases one last VisionQuest trailer",
+    "url": "https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-01T18:04:48+00:00",
+    "content_snippet": "\"This is a fight I likely won't win. We have said goodbye before. But remember, family is forever.\"",
+    "title_zh": "漫威发布《幻视追寻》最终预告片",
+    "summary_zh": "漫威为即将上映的剧集发布了最后一支预告片，预告中强调了家庭与牺牲的主题，与新剧内容相关。",
+    "key_points": [
+      "漫威发布剧集最终预告片。",
+      "预告片主题涉及家庭与牺牲。",
+      "内容与人工智能、科技无关。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f0ed3686cb76b3cc1669b241015b5135",
+    "title": "Dispatch, Dots, GrokBot usage vs regular chat",
+    "url": "https://www.reddit.com/r/artificial/comments/1wv6bzl/dispatch_dots_grokbot_usage_vs_regular_chat/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-01T17:54:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It seems like there is little explanation or documentation on this, if there is neither I nor my gang of 20x AI's dig it up or understand what I'm talking about... I guess it's too new. </p> <p>Has anyone got any grip on whether conversations with ChatGPT Dot, Claude Dispatch, and Grokbot agent compare in usage to a standard conversation respectively? </p> <p>By nature the setup is different — you cannot really reset the conversation with your agent in these med",
+    "title_zh": "Dispatch、Dots、GrokBot 与普通聊天的使用对比",
+    "summary_zh": "用户在 Reddit 讨论 ChatGPT、Claude 等 AI 助手在不同功能模式下的使用差异，抱怨相关文档和解释缺失，寻求社区经验。",
+    "key_points": [
+      "讨论不同 AI 助手功能模式的使用差异。",
+      "用户反映缺乏官方文档和解释。",
+      "寻求社区关于有效使用方法的经验。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "33280aa886acff1bdee4c153e59c1ad8",
+    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+    "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-01T17:50:19+00:00",
+    "content_snippet": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+    "title_zh": "Opus 5.5 总爱说‘这很重要’及其他AI写作特征",
+    "summary_zh": "分析发现 Anthropic 的 Opus 5.5 模型在写作中有明显用词偏好，例如使用 dependable 的频率是人类样本的 23 倍，揭示了其写作模式。",
+    "key_points": [
+      "Opus 5.5 写作最显著特征是过度使用 dependable。",
+      "该词出现频率比人类样本高 23 倍。",
+      "揭示了 AI 模型独特的写作习惯和模式。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
