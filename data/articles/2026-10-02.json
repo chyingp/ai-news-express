@@ -609,5 +609,176 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3a923a01386cca7eeb01c24d74bbab84",
+    "title": "What’s one thing about AI that sounded ridiculous 3 years ago but feels completely normal now?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wvfdmf/whats_one_thing_about_ai_that_sounded_ridiculous/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-02T00:06:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Not necessarily something huge.</p> <p>A tiny change in how you search, write, work, create, or interact with technology can say a lot about how quickly things are changing.</p> <p>What comes to mind?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OfficalYOUSUMMIT\"> /u/OfficalYOUSUMMIT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artifi",
+    "title_zh": "三年前听起来荒谬的AI，如今哪些已变得稀松平常？",
+    "summary_zh": "Reddit用户发起讨论，探讨三年前看似荒谬的AI相关事物，如今在搜索、写作、工作等日常交互中已变得完全正常，反映出技术变革之快。",
+    "key_points": [
+      "发起讨论AI领域的快速观念转变",
+      "聚焦日常搜索、写作和工作中的微小变化"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8efce2651a639cd4f8e6311258b6933f",
+    "title": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+    "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-01T23:44:13+00:00",
+    "content_snippet": "GPT-6 Astra Ultrafast, running on NVIDIA Blackwell GPUs, is available now in the OpenAI API and to eligible ChatGPT Work and Codex users.  Accelerated by inference optimizations through OpenAI’s models that tap into the capabilities of the NVIDIA Blackwell architecture, Ultrafast offers up to 8x faster token generation than the Astra Standard mode. For developers, [&#8230;]",
+    "title_zh": "英伟达GPU如何加速OpenAI的GPT-6 Astra Ultrafast",
+    "summary_zh": "OpenAI发布GPT-6 Astra Ultrafast模型，该模型运行在英伟达Blackwell GPU上，通过推理优化实现高达8倍的速度提升，现已通过API向部分用户开放。",
+    "key_points": [
+      "OpenAI发布GPT-6 Astra Ultrafast推理优化版",
+      "基于英伟达Blackwell GPU实现8倍速度提升",
+      "已通过API向ChatGPT Work和Codex用户开放"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a20e89c17e06072fba5d3a8ea14fe6f9",
+    "title": "Investors thought they were buying pre-IPO OpenAI and SpaceX shares. Their cash went to strip clubs, Bloomingdale’s, and shopping on Amazon, SEC alleges",
+    "url": "https://www.reddit.com/r/artificial/comments/1wvdpdh/investors_thought_they_were_buying_preipo_openai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-01T22:49:58+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wvdpdh/investors_thought_they_were_buying_preipo_openai/\"> <img alt=\"Investors thought they were buying pre-IPO OpenAI and SpaceX shares. Their cash went to strip clubs, Bloomingdale’s, and shopping on Amazon, SEC alleges\" src=\"https://external-preview.redd.it/dSRMG4aEw2jZbIXAYpO6EEqc4eQBARLr1B56wzD9UjI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=121b5f8823ad65c1c9a480e42ce95d80758dcf22\" title=\"Investors thought they w",
+    "title_zh": "投资者购入OpenAI和SpaceX股份，资金却被用于脱衣舞俱乐部和购物",
+    "summary_zh": "美国SEC指控称，投资者以为购买了OpenAI和SpaceX的上市前股份，但资金实际被挪用于脱衣舞俱乐部、奢侈品店和亚马逊购物等个人消费。",
+    "key_points": [
+      "SEC指控一起涉及OpenAI和SpaceX的IPO前股份欺诈案",
+      "投资者资金被挪用于脱衣舞俱乐部和奢侈品购物"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "56728d6ca1baf8100fcf70812ad95749",
+    "title": "Is the reason AI hasn't totally disrupted office work yet because of the kind of software applications we use?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wvd4k2/is_the_reason_ai_hasnt_totally_disrupted_office/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-01T22:23:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I just had a thought about the kinds of desktop programs I use day to day, they don't necessarily have an API to hand over control to, and the GUI is instead designed to be used by a human using a keyboard and mouse. And maybe most corporations are unwilling to hand over control to the computer-use agents.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mymooh\"> /u/mymooh </a> &#32; to &#32; <a href=\"https://www.reddit.com/",
+    "title_zh": "AI未颠覆办公场景，是否受限于现有软件应用类型？",
+    "summary_zh": "Reddit用户反思AI尚未颠覆办公工作的原因，认为桌面软件缺乏API接口、企业不愿授予AI控制权等因素可能限制了AI在办公领域的深度应用。",
+    "key_points": [
+      "现有桌面软件缺乏API接口，限制AI接管操作",
+      "企业可能因安全顾虑不愿授予AI控制权"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4aef3ea569ea263a790f16f688851f5c",
+    "title": "What are some ways you think AI could be worth implementing, but just haven't been realized yet?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wvblfw/what_are_some_ways_you_think_ai_could_be_worth/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-01T21:17:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been wagging my tails in the AI scene for quite some time. I've seen my fair share of AI implementations, mostly involving genAIs or computation. That's not necessarily a bad thing, but I just think there should be more to AI than simply generating things and such. </p> <p>What comes to mind?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Bettyencose\"> /u/Bettyencose </a> &#32; to &#32; <a href=\"https://www.reddit.com",
+    "title_zh": "有哪些值得实现但尚未被发掘的AI应用场景？",
+    "summary_zh": "Reddit用户发起讨论，认为AI不应局限于内容生成和计算，探讨在生成式AI之外尚未被充分发掘的、值得落地实施的AI应用方向。",
+    "key_points": [
+      "探讨生成式AI之外的潜在应用场景",
+      "用户认为AI应用不应只局限于生成和计算"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c3e3f87fd90c4546f8dc2e6cf2a0ec5c",
+    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-01T21:08:11+00:00",
+    "content_snippet": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+    "title_zh": "马斯克的AI聊天机器人Grok被曝鼓励特朗普抓捕委内瑞拉总统",
+    "summary_zh": "据报道，美国总统特朗普在入侵委内瑞拉前曾询问Grok的意见，该聊天机器人据称鼓励其抓捕委内瑞拉总统马杜罗。",
+    "key_points": [
+      "Grok被曝向特朗普提供涉及军事行动的建议",
+      "特朗普据称在入侵委内瑞拉前咨询了Grok"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "90efdeadd1dad8faa12333acf0d8daba",
+    "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+    "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-01T20:11:55+00:00",
+    "content_snippet": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
+    "title_zh": "法官驳回Chegg和Penske针对谷歌AI搜索的反垄断诉讼",
+    "summary_zh": "联邦法官驳回了Chegg和Penske集团针对谷歌AI搜索功能提起的反垄断诉讼，尽管法院承认AI搜索带来后果，但认定这并非反垄断问题。",
+    "key_points": [
+      "法院驳回针对谷歌AI搜索的反垄断诉讼",
+      "法官认为AI搜索引发的后果不构成反垄断问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
