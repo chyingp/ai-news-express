@@ -780,5 +780,78 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "719815cfaf3074b09b938b95e1062e61",
+    "title": "Anyone know a good AI Study Sidebar tool for free?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wvm30t/anyone_know_a_good_ai_study_sidebar_tool_for_free/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-02T05:58:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Just wanted to ask and see if you guys had any reccomendations for an ai sidebar tool, would like it to be free that could maybe answer questions for me or something. Anything out there like this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/IStoleYourMuffin69\"> /u/IStoleYourMuffin69 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artifi",
+    "title_zh": "有人知道免费好用的AI学习侧边栏工具吗？",
+    "summary_zh": "一位Reddit用户发帖寻求推荐免费的AI侧边栏工具，希望该工具能帮助在学习过程中回答问题或提供其他辅助功能。",
+    "key_points": [
+      "用户寻求免费AI学习侧边栏工具推荐",
+      "期望工具可回答问题提供学习辅助"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "56b54784da0242c1f91c49f142412480",
+    "title": "GPT vs Claude today",
+    "url": "https://www.reddit.com/r/artificial/comments/1wvlfmw/gpt_vs_claude_today/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-02T05:19:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey all,</p> <p>Another one of these..but i figured that after searching my use case over multiple subs and not finding an answer, maybe this could help someone else too :)</p> <p>I have been between Claude pro and GPT plus once. Started on Claude, got annoyed at some of its reasoning, switched to GPT and now im contemplating going back to Claude one last time to finish my project. The project involves a little bit of code, some networking, hardware integration,",
+    "title_zh": "GPT与Claude的当前对比",
+    "summary_zh": "Reddit用户发帖讨论GPT Plus与Claude Pro在不同使用场景下的表现，寻求针对自身用例的模型选择建议。",
+    "key_points": [
+      "用户对比ChatGPT Plus和Claude Pro的实用性",
+      "基于个人使用体验和特定需求寻求推荐"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "87e5762e958351b0eac259f23df72c04",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-02T04:01:31+00:00",
+    "content_snippet": "",
+    "title_zh": "AutoSynthData：为企业智能体生成训练数据",
+    "summary_zh": "Hugging Face博客发布ServiceNow AI的AutoSynthData项目，介绍一种用于自动合成数据以训练企业级AI智能体的方法。",
+    "key_points": [
+      "ServiceNow AI推出AutoSynthData项目",
+      "旨在自动合成高质量训练数据给企业智能体",
+      "发布在Hugging Face技术博客上"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
