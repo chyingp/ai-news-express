@@ -1021,5 +1021,77 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "fa6ae45db64a3cbd989d3ab21ad01435",
+    "title": "NeurIPS Free Passes [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wwkiay/neurips_free_passes_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-03T11:03:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Over the last few years, a subset of NeurIPS area chairs received complimentary passes for their service. I’ll admit that I wasn’t super organized about registering on day one because I was semi-consciously hoping for a complimentary pass. Now that the conference is sold out, I’m getting a little nervous, so I’m wondering whether any of my fellow area chairs have already received a notification.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://",
+    "title_zh": "NeurIPS 免费通行证讨论",
+    "summary_zh": "Reddit 用户讨论近几年来 NeurIPS 区域主席获得免费参会通行证的惯例，发帖者因期待获得免费通行证而延迟注册，引发了对该流程的疑问。",
+    "key_points": [
+      "部分 NeurIPS 区域主席因服务获得免费参会通行证",
+      "发帖者因期待免费通行证而未在第一天注册",
+      "讨论涉及会议注册流程与组织方惯例"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "42f44d11d344893504f8a856d8110cb6",
+    "title": "What are your thoughts on AI consciousness and how it might be different from humans?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wwid1d/what_are_your_thoughts_on_ai_consciousness_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-03T08:48:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So there’s this whole debate about AI consciousness here, and whether ai can feel pain and such. But so what if we postulate that ai is somehow conscious, eg. it feels like something to be an ai, llm or whatever. What would that experience be like?</p> <p>Here are a few ideas:</p> <ol> <li>The illusion of choice: would ai feel like it is choosing its actions? If the ai is an llm would it feel like it’s choosing its tokens?</li> <li>Rewards: if the system is subj",
+    "title_zh": "如何看待AI意识及其与人类意识的差异？",
+    "summary_zh": "Reddit 用户探讨人工智能意识的可能性，假设AI拥有主观体验会是何种感受，讨论围绕AI能否感受疼痛及与人类意识体验的根本区别展开。",
+    "key_points": [
+      "用户投入 AI 意识与疼痛感知的哲学辩论",
+      "探讨假设 AI 有意识时的主观体验状态",
+      "对比分析人工智能与人类意识的潜在差异"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b62a13addfc3a6d42ffddc8ace39e89d",
+    "title": "When AI models will not get better and will be stuck at one place?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wwhx0v/when_ai_models_will_not_get_better_and_will_be/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-03T08:19:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My idea is that AI models learn from data from the internet, so when the data from the internet and people's responses from AI conversations run out, when will there be a point when AI will no longer improve and its progress will stop? </p> <p>At that point, AI will only improve by tiny bits that we won't even notice that the model has improved. </p> <p>Is my knowledge about model training wrong? </p> <p>Do you think so too?</p> </div><!-- SC_ON --> &#32; submit",
+    "title_zh": "AI模型何时会停止进步并陷入停滞？",
+    "summary_zh": "Reddit 用户提出观点认为，当互联网数据和人类反馈数据耗尽时，AI模型可能将无法继续改进，模型性能将触及天花板并陷入停滞状态。",
+    "key_points": [
+      "AI 训练依赖的互联网数据与人类反馈终将耗尽",
+      "数据源枯竭可能导致 AI 模型进步停止",
+      "讨论模型能力触及天花板后的发展瓶颈"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
