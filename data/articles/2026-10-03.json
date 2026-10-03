@@ -779,5 +779,75 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b93525efa950ad0d4d4f597599eb1795",
+    "title": "PUSH for global regulation on AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1ww9boz/push_for_global_regulation_on_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-03T00:12:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi, </p> <p>Do you think their would be a palette for global collective auctions on AI, not going to lie AI scares me and I fear giving the current incentive structure driving AI growth faster than any safeguards. Companies competing with each other on an understanding that if I don’t develop the product with the requisite guardrails come other company will. Hence self propagating itself.</p> <p>Given current hacks and concerns by those developing it. Literally ",
+    "title_zh": "推动全球AI监管的努力",
+    "summary_zh": "Reddit用户讨论推动全球AI监管的可行性，表达了对AI发展速度超过安全保障的恐惧，以及对当前企业竞争激励机制的担忧。",
+    "key_points": [
+      "网友对AI发展速度超越安全措施表示恐惧",
+      "讨论认为企业竞争激励结构不利于AI安全",
+      "呼吁推动全球性的AI联合监管行动"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "98f988f8b5880313e9350ae3fa4637c8",
+    "title": "'AI Doomsday': Why Big Tech Wants You Scared",
+    "url": "https://www.reddit.com/r/artificial/comments/1ww90sy/ai_doomsday_why_big_tech_wants_you_scared/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-02T23:58:54+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ww90sy/ai_doomsday_why_big_tech_wants_you_scared/\"> <img alt=\"'AI Doomsday': Why Big Tech Wants You Scared\" src=\"https://external-preview.redd.it/B0GsKb2_zEzjqpn0Ha26p7WFH3PGn-KLmzNlc88GiZo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=123c45a1eb0e6d1102ec912cf599315c00392968\" title=\"'AI Doomsday': Why Big Tech Wants You Scared\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Nexusyak\"> /u",
+    "title_zh": "“AI末日论”：为何科技巨头希望你感到恐惧",
+    "summary_zh": "文章分析指出，大型科技公司可能通过渲染“AI末日”恐惧来影响公众认知和政策制定，背后或隐藏其市场或监管策略意图。",
+    "key_points": [
+      "文章质疑科技巨头渲染AI存在灭绝风险的真实动机",
+      "暗示企业可能利用恐惧来塑造对其有利的监管政策"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "384589919141e25a300ed598eb1c3fe7",
+    "title": "What are the chances of getting banned from a game with anticheat because you had an AI using commands, python, javascript, powershell etc in the background?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ww8dja/what_are_the_chances_of_getting_banned_from_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-02T23:27:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Not touching the game, but say I have Claude making a game for me.</p> <p>Running commands in command prompt, coding things, testing the game and opening and closing it repeatedly to take screenshots and compare, running Blender in the background, all the things that are done to make a game.</p> <p>What are the chances that, if I was playing Marvel Rivals in competitive mode at the same time, the anticheat would see all this command prompt usage, detect it and t",
+    "title_zh": "后台运行AI编码工具导致游戏反作弊系统封禁的风险有多高？",
+    "summary_zh": "用户发帖询问，在使用Claude等AI工具编写游戏代码、运行命令行脚本时，是否会被游戏的反作弊系统误判为作弊行为而导致封号。",
+    "key_points": [
+      "用户担心AI开发工具的后台进程会触发反作弊系统",
+      "问题涉及命令行操作、代码测试与屏幕截图等自动化行为"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
