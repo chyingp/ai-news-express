@@ -849,5 +849,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bf2700e3953cd3c6072b92881e0a9181",
+    "title": "PewDiePie unveils \"uncensored\" Ajax AI model built to run on home PCs — creator says OpenAI banned him twice over model distillation used to build his product",
+    "url": "https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-03T02:52:27+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/\"> <img alt=\"PewDiePie unveils &quot;uncensored&quot; Ajax AI model built to run on home PCs — creator says OpenAI banned him twice over model distillation used to build his product\" src=\"https://external-preview.redd.it/BLCoaPXC8u7YCea1dopWdPilT_E1VT_vH-3Zqwf_oaU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dfd0a6d5ef2a3fc1092acb4ae74d3758e097c247\" title=\"PewDiePie",
+    "title_zh": "PewDiePie发布“无审查”Ajax AI模型，可在个人电脑上运行",
+    "summary_zh": "知名YouTuber PewDiePie发布了一款名为Ajax的“无审查”AI模型，专为家庭PC运行设计。其创建者声称，因采用模型蒸馏技术构建产品，已被OpenAI两次封禁。",
+    "key_points": [
+      "发布可在个人电脑上运行的'无审查'Ajax AI模型",
+      "创建者称因模型蒸馏技术被OpenAI两次封禁"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bfd64c2b433e3558f6581469bc486b62",
+    "title": "Alexandr Wang is becoming one of the most important faces behind Meta’s AI comeback",
+    "url": "https://www.reddit.com/r/artificial/comments/1wwc9u5/alexandr_wang_is_becoming_one_of_the_most/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-03T02:48:01+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wwc9u5/alexandr_wang_is_becoming_one_of_the_most/\"> <img alt=\"Alexandr Wang is becoming one of the most important faces behind Meta’s AI comeback\" src=\"https://preview.redd.it/jcjx19jo16th1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7360c62a5cb21540fe6833d10656585d9cb8d0f2\" title=\"Alexandr Wang is becoming one of the most important faces behind Meta’s AI comeback\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Al",
+    "title_zh": "Alexandr Wang正成为Meta AI复兴背后的关键人物之一",
+    "summary_zh": "Scale AI创始人Alexandr Wang被指正逐渐成为Meta AI业务复兴的重要推动力量，其角色和影响力日益凸显。",
+    "key_points": [
+      "Alexandr Wang在Meta AI复兴中扮演越来越重要的角色",
+      "Wang的角色凸显了外部人才对Meta AI战略的影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
