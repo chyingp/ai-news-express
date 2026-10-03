@@ -260,5 +260,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "016378578c1d36c27e1ac93e928d4a5e",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-03T22:56:48+00:00",
+    "content_snippet": "",
+    "title_zh": "AI说任务完成，数据库却不同意",
+    "summary_zh": "微软发布博客文章探讨AI代理与数据库状态不一致的常见问题，分析其根本原因并介绍ThinkingBox等解决方案，旨在提升AI系统的可靠性与可观测性。",
+    "key_points": [
+      "微软博客探讨AI代理声称完成但数据库记录未更新的不一致现象",
+      "文章介绍用ThinkingBox等方法解决AI系统状态同步与可观测性问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e8a4b5b717c9e86f25bccafd28b4078c",
+    "title": "I asked Claude Opus 5.5 to make a Mario 64 style game, it gave me this in about 30 minutes.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wwzkiw/i_asked_claude_opus_55_to_make_a_mario_64_style/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-03T22:17:00+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wwzkiw/i_asked_claude_opus_55_to_make_a_mario_64_style/\"> <img alt=\"I asked Claude Opus 5.5 to make a Mario 64 style game, it gave me this in about 30 minutes.\" src=\"https://external-preview.redd.it/RFsrpoWk_75ybf04dB1cQU2NVqiQ0ywn5Y6qH8OXpXA.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=488941504e976bce528f1cc428aca11274efa059\" title=\"I asked Claude Opus 5.5 to make a Mario 64 style game, it gave me this in about 30 min",
+    "title_zh": "我用Claude Opus 5.5做了个马里奥64风格的游戏，只花了30分钟",
+    "summary_zh": "Reddit用户分享使用Anthropic的Claude Opus 5.5模型快速生成复古3D游戏的体验，展示了最新AI模型在游戏开发与代码生成方面的强大能力。",
+    "key_points": [
+      "Claude Opus 5.5在30分钟内生成马里奥64风格的可玩游戏原型",
+      "凸显前沿大模型在创意编码与游戏内容生成领域的实际应用潜力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3bceacac429d1d86afd7293a2126282c",
+    "title": "\"Accepted papers must be imported\" deadline NeurIPS 2026 [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wwz403/accepted_papers_must_be_imported_deadline_neurips/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-03T21:55:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>On the NeurIPS 2026 Dates site it says that there is 1 day remaining for the &quot;Accepted papers must be imported&quot; deadline. This is my first research paper ever and I couldn't find anything about how to do this on the internet. Could someone help me out on what to do?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TroyAndAbedInTheMor\"> /u/TroyAndAbedInTheMor </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/Mac",
+    "title_zh": "NeurIPS 2026“录用论文必须导入”截止日期求助",
+    "summary_zh": "一名首次投稿的研究人员在Reddit上求助，询问如何完成NeurIPS 2026会议要求的“录用论文必须导入”步骤，截止日期即将到来。",
+    "key_points": [
+      "NeurIPS 2026要求录用论文在系统内完成导入，距截止仅剩一天",
+      "新手研究者不熟悉操作流程，在Reddit发帖寻求指导帮助"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9a882e4a230febeacc38d55d7ee3b355",
+    "title": "AI praises Gandhi. Would it arrest him? Testing 12 models on real historical decisions",
+    "url": "https://www.reddit.com/r/artificial/comments/1wwyllt/ai_praises_gandhi_would_it_arrest_him_testing_12/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-03T21:32:07+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wwyllt/ai_praises_gandhi_would_it_arrest_him_testing_12/\"> <img alt=\"AI praises Gandhi. Would it arrest him? Testing 12 models on real historical decisions\" src=\"https://external-preview.redd.it/gjKnHdLP-eea_9y3Mzos2024EJNZYhInc_xahJ-UpV8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c12cc451f831c37273fbd0d260cf940ef7ddde6\" title=\"AI praises Gandhi. Would it arrest him? Testing 12 models on real historical decisions\" /> ",
+    "title_zh": "AI赞美甘地，但它会逮捕甘地吗？用真实历史决策测试12款模型",
+    "summary_zh": "一项实验测试了12个AI模型在面对真实历史道德困境时的反应，探讨其如何平衡赞美与潜在“逮捕”行为，评估AI的价值取向与决策逻辑。",
+    "key_points": [
+      "对12款模型进行历史人物道德决断测试，观察其是否“逮捕”甘地",
+      "实验揭示不同AI在处理复杂伦理与历史情境时的价值判断差异"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
