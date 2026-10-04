@@ -217,5 +217,217 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "40a44a974393fd1cade45d28176665f8",
+    "title": "AI is only bad because of capitalism",
+    "url": "https://www.reddit.com/r/artificial/comments/1wxqy7s/ai_is_only_bad_because_of_capitalism/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-04T21:20:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>When we imagine artificial intelligence, we can imagine it as a future in which work no longer exists and all of us are free to enjoy our lives, just as we can imagine it as the cause of a future in which machines exterminate or enslave human beings. But imagining it this way, simply as a scale of good or bad, or as a scale from 0 to 10 going from the extermination of humanity to utopia, is itself the wrong way to analyse the problem. The mistake in this metric ",
+    "title_zh": "AI 之恶仅仅源于资本主义",
+    "summary_zh": "一篇 Reddit 讨论帖，探讨人工智能的负面影响是否根源于资本主义制度本身，并对比了乌托邦与反乌托邦的未来愿景。",
+    "key_points": [
+      "帖子认为 AI 的负面应用是资本主义制度下的产物",
+      "对比了 AI 可能带来的无工作自由与人类毁灭两种未来",
+      "属于社区内关于 AI 伦理的哲学性讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ca685e283491c69a49080e9ec1309dc4",
+    "title": "Plagiarism checker= Genius",
+    "url": "https://www.reddit.com/r/artificial/comments/1wxqvl6/plagiarism_checker_genius/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-04T21:17:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Whoever invented the AI plagiarism checker is a genius. </p> <p>Why wait for papers to be published online when you can get people to upload college essays and other publications in an effort to detect AI usage. </p> <p>The models must be getting a lot of data from colleges and schools </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/meenags\"> /u/meenags </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/",
+    "title_zh": "AI 查重工具背后的天才设计",
+    "summary_zh": "Reddit 帖子指出，AI 查重工具的发明者很聪明，因为该工具在检测论文 AI 使用率时，能收集大量用户上传的大学论文数据用于训练模型。",
+    "key_points": [
+      "帖子认为 AI 查重工具可借检测之名收集海量用户数据",
+      "揭示了查重工具潜在的商业化数据收集模式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fa32bea4720b0c70aded7774adbdba9f",
+    "title": "Thank you",
+    "url": "https://www.reddit.com/r/artificial/comments/1wxqfo0/thank_you/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-04T20:58:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Do you thank an llm when you've finished chatting with it? Why or why not?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/astreigh\"> /u/astreigh </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wxqfo0/thank_you/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1wxqfo0/thank_you/\">[com",
+    "title_zh": "你会在聊完天后感谢大语言模型吗？",
+    "summary_zh": "在 Reddit 上发起的一项讨论，询问用户在与大语言模型（LLM）对话结束后是否会对 AI 表达感谢及其背后的原因。",
+    "key_points": [
+      "探讨人类与 AI 交互中的礼貌行为及心理动机",
+      "反映了社区对 AI 拟人化程度的不同看法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "072378cdfd56a51b352e493c5017787f",
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-04T20:31:07+00:00",
+    "content_snippet": "AI slop seems to be overwhelming bug bounty programs.",
+    "title_zh": "谷歌因 AI 提交量激增冻结其开源漏洞赏金计划",
+    "summary_zh": "TechCrunch 报道，由于 AI 生成的漏洞报告泛滥导致审核负荷过重，谷歌被迫暂停了其开源漏洞赏金计划，AI“垃圾”内容正在冲击该类项目。",
+    "key_points": [
+      "谷歌因 AI 生成的低质量漏洞报告数量急剧上升而暂停计划",
+      "AI 生成的内容正在缠绕并冲击传统漏洞赏金机制"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a559533f5698aa7824c7051d7f7d125b",
+    "title": "Best approach for ingesting data to create summaries, and keep track of it?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wxpaus/best_approach_for_ingesting_data_to_create/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-04T20:11:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In my occupation, there are various people I follow who give very good insights. (I'd say 5-10 people).</p> <p>Some post hour long videos on YouTube, some send 1,000 word emails, some post on X, some publish PDFs.</p> <p>There's very good info within these resources (and some I pay for), but reading / watching / annotating all of it can take hours.</p> <p>My workload recently went up, so I'm falling behind with keeping up in my field.</p> <p>I want to use AI to ",
+    "title_zh": "摄入数据并生成摘要的最佳方法是什么？",
+    "summary_zh": "一个技术求助帖，用户希望寻找一种方法，能将来自 YouTube、邮件、X 平台和 PDF 等多种渠道的长篇内容摄入并自动生成摘要进行追踪。",
+    "key_points": [
+      "用户寻求能处理多格式内容的自动化摘要技术解决方案",
+      "涉及跨平台信息摄取与知识管理的工程实践讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b3eaf21d4dafb5a4ec082ba631e72a48",
+    "title": "NeurIPS Workshops [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wxp8ok/neurips_workshops_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-04T20:08:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Anyone going to WMHS, Physworld AI or Vercodegen? Would love to get to know some people beforehand!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/navalsaras\"> /u/navalsaras </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1wxp8ok/neurips_workshops_d/\">[link]</a></span> &#32; <span><a href=\"https://www.red",
+    "title_zh": "NeurIPS 研讨会社交请愿",
+    "summary_zh": "一名 Reddit 用户发帖询问是否有其他研究人员计划参加 NeurIPS 会议期间的 WMHS、Physworld AI 或 Vercodegen 等研讨会，希望提前结识同行。",
+    "key_points": [
+      "用户寻求提前结识参加 NeurIPS 特定研讨会的同行",
+      "属于机器学习学术社区的线下社交预联络"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "693ea3f4f7340aad244794cc6a1fded3",
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-04T20:08:34+00:00",
+    "content_snippet": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+    "title_zh": "“超级智能”与非约束性安全协议能解决 AI 形象问题吗？",
+    "summary_zh": "TechCrunch 分析了特朗普政府如何试图通过宣传“超级智能”概念以及推动非约束性安全协议来重塑人工智能的公众形象，以解决行业的公关难题。",
+    "key_points": [
+      "文章讨论了特朗普政府希望通过塑造‘超级智能’来改变 AI 负面的公众认知",
+      "政府正试图借助没有法律约束力的安全承诺来缓解 AI 信任危机"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5693b91c1b05f8126341311588f19c5a",
+    "title": "Is anyone else still rewriting AI-generated social posts because they sound too robotic?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wxp1u8/is_anyone_else_still_rewriting_aigenerated_social/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-04T20:00:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve noticed a lot of AI social tools still produce content that feels off-brand or slightly forced. I’ve tried Hootsuite’s AI features, Later, and Fismbot.</p> <p>Hootsuite is solid for management, Later has decent visual planning, and Fismbot stood out a bit because it lets you feed it your brand assets and then review everything before it goes out. Still, I end up editing most of the captions.</p> <p>Is this just the current state of AI content tools, or has ",
+    "title_zh": "你是否还在因为 AI 文风太生硬而重写社交文案？",
+    "summary_zh": "Reddit 用户抱怨目前的 AI 社交媒体工具（如 Hootsuite、Later、Fismbot）生成的帖子仍显得生硬、违和感强，用户依然需要人工重写来符合品牌调性。",
+    "key_points": [
+      "用户反映主流 AI 社媒工具的内容生成质量仍不达人工标准",
+      "AI 生成的内容普遍存在生硬、不符合品牌调性的痛点"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d671404c8b56a11c9abab1cb81b3d0d8",
+    "title": "Anthropic Has Been Aggressively Lobbying the Vatican to Consider AI Consciousness",
+    "url": "https://www.reddit.com/r/artificial/comments/1wxok9e/anthropic_has_been_aggressively_lobbying_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-04T19:40:46+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wxok9e/anthropic_has_been_aggressively_lobbying_the/\"> <img alt=\"Anthropic Has Been Aggressively Lobbying the Vatican to Consider AI Consciousness\" src=\"https://external-preview.redd.it/XZo9QpTeCA9nDvaro0AggPZb6ubzdrgp-CwHpAFK3D0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f977aa7c5e34ab95a78c58b50aa7a6371734f991\" title=\"Anthropic Has Been Aggressively Lobbying the Vatican to Consider AI Consciousness\" /> </a> </td><td",
+    "title_zh": "Anthropic 正积极游说梵蒂冈关注 AI 意识问题",
+    "summary_zh": "据报道，人工智能公司 Anthropic 近期开始积极游说梵蒂冈，希望宗教高层能够将人工智能的意识问题纳入神学和哲学的讨论范畴。",
+    "key_points": [
+      "Anthropic 正在对梵蒂冈进行积极的游说活动",
+      "游说旨在推动宗教界探讨 AI 潜在的意识与伦理问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
