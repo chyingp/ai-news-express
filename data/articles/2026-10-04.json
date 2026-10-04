@@ -476,5 +476,29 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "80f274490b52f233880609dfe2f3cb39",
+    "title": "What’s an AI problem that looks easy until you try to make the system actually reliable?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wx5y1c/whats_an_ai_problem_that_looks_easy_until_you_try/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-04T03:49:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Something where a demo makes it look solved, but real-world use exposes all the edge cases. What example have you run into?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OfficalYOUSUMMIT\"> /u/OfficalYOUSUMMIT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1wx5y1c/whats_an_ai_problem_that_looks_easy_until_you_try/\">[li",
+    "title_zh": "有哪些AI问题看起来简单，但真正要让系统可靠运行却很难？",
+    "summary_zh": "Reddit用户发起讨论，探讨那些在演示中看似已解决，但实际应用时因边缘案例而暴露诸多问题的AI难题，邀请分享亲身经历。",
+    "key_points": [
+      "讨论AI原型易做但生产环境可靠性难保障的普遍现象",
+      "聚焦实际部署中遇到的各类边缘案例和隐藏复杂性",
+      "社区成员分享从简单演示到可靠系统的实战经验教训"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
