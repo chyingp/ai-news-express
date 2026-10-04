@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 日报 · 2026-10-05</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>AI 新闻速递 · 日报</h1>
+    <p class="subtitle">2026-10-05 · 共 2 条资讯</p>
+  </header>
+
+  
+  <div class="daily-header">
+    <h2>今日要点</h2>
+    <div class="stats">
+      <span>2 条资讯</span>
+      <span>0 条突发</span>
+      <span>1 个信源</span>
+    </div>
+    <div class="daily-overview">资讯分布：技术教程 1 条、产品动态 1 条。</div>
+  </div>
+  
+
+  <div class="filters">
+    <button class="active" data-category="all">全部</button>
+    
+    <button data-category="产品动态">产品动态</button>
+    
+    <button data-category="技术教程">技术教程</button>
+    
+  </div>
+
+  
+  <ol class="article-list">
+    
+    <li class="article-item" data-category="技术教程">
+      <span class="article-rank">1</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1wxirdb/chatgpt6_astra_plays_world_of_warcraft_blind_and/" target="_blank" rel="noopener">ChatGPT-6 Astra“盲打”《魔兽世界》：AI 代理解析网络数据包，40 分钟零死亡通关兽人新手区</a>
+          <div class="article-title-original">ChatGPT-6 Astra plays World of Warcraft &#39;blind&#39; and clears the orc starting zone in 40 minutes with no deaths — AI agent navigates by parsing raw server network packets and SQL filesa</div>
+          
+        </div>
+        
+        <p class="article-summary">一个名为 ChatGPT-6 Astra 的 AI 代理展示了在《魔兽世界》中的导航能力，它通过解析原始服务器网络数据包和 SQL 文件来“盲玩”游戏，在 40 分钟内无死亡地完成了兽人新手区的任务。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">技术教程</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-10-04T15:42:45+00:00" title="2026-10-04 23:42"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">2</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1wxjf7m/is_it_me_or_did_the_producers_of_coward_the_dog/" target="_blank" rel="noopener">是错觉吗？《胆小狗英雄》制作人是否通过创造 Computer（或 Simon）预言了现代 AI 助手？</a>
+          <div class="article-title-original">Is it me or did the producers of Coward the dog predicted the modern ai assistant by creating Computer?(or Simon how some fans say</div>
+          
+        </div>
+        
+        <p class="article-summary">一篇 Reddit 讨论帖，探讨动画片《胆小狗英雄》中的角色 Computer（部分粉丝称其为 Simon）是否在某种程度上预言了现代 AI 助手的功能和形态。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-10-04T16:10:14+00:00" title="2026-10-05 00:10"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+  </ol>
+  
+
+  <footer>
+    <p><a href="../index.html" style="color: var(--accent);">← 返回首页</a></p>
+    <p style="margin-top: 8px;">AI 新闻速递 · 由 Claude API 提供智能处理</p>
+  </footer>
+
+  <script>
+    document.querySelector('.filters').addEventListener('click', function(e) {
+      if (e.target.tagName !== 'BUTTON') return;
+      document.querySelectorAll('.filters button').forEach(function(b) { b.classList.remove('active'); });
+      e.target.classList.add('active');
+      var cat = e.target.dataset.category;
+      document.querySelectorAll('.article-item').forEach(function(item) {
+        item.style.display = (cat === 'all' || item.dataset.category === cat) ? '' : 'none';
+      });
+    });
+
+    function toggleCluster(el) {
+      var children = el.nextElementSibling;
+      if (children.classList.contains('open')) {
+        children.classList.remove('open');
+        el.textContent = el.textContent.replace('▾', '▸');
+      } else {
+        children.classList.add('open');
+        el.textContent = el.textContent.replace('▸', '▾');
+      }
+    }
+    function updateTimeAgo() {
+      document.querySelectorAll('time.article-time[datetime]').forEach(function(el) {
+        var dt = new Date(el.getAttribute('datetime'));
+        if (isNaN(dt)) return;
+        var diff = (Date.now() - dt.getTime()) / 1000;
+        if (diff < 60) el.textContent = '刚刚';
+        else if (diff < 3600) el.textContent = Math.floor(diff / 60) + ' 分钟前';
+        else if (diff < 86400) el.textContent = Math.floor(diff / 3600) + ' 小时前';
+        else if (diff < 604800) el.textContent = Math.floor(diff / 86400) + ' 天前';
+        else el.textContent = el.getAttribute('title') || '';
+      });
+    }
+    updateTimeAgo();
+    setInterval(updateTimeAgo, 60000);
+  </script>
+</body>
+</html>
