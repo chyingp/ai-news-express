@@ -774,5 +774,331 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a2b98cad80f6c5b531d60eaa8f1d25af",
+    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-05T23:09:55+00:00",
+    "content_snippet": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call [&#8230;]",
+    "title_zh": "Gemini“打电话给我”功能或将扩展到亲友通知",
+    "summary_zh": "谷歌可能将“Call for Me”AI功能从商务电话扩展至亲友通知，例如告诉妈妈你要迟到15分钟。APK拆解显示该功能正在开发中。",
+    "key_points": [
+      "谷歌Gemini“Call for Me”或将支持向亲友发送通知",
+      "APK拆解发现包含“给妈妈打电话说我会迟到15分钟”示例",
+      "该功能此前仅用于商务电话，现计划扩展使用场景"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "212da1d35ed9326db03a01e78358aa34",
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-05T20:36:48+00:00",
+    "content_snippet": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "title_zh": "OpenAI将在欧盟为ChatGPT文本添加水印",
+    "summary_zh": "为遵守欧盟AI法案，OpenAI将为ChatGPT和Codex生成的文本添加水印。公司表示，编辑可能使隐形标记更难以检测。",
+    "key_points": [
+      "OpenAI为满足欧盟AI法案要求，在欧盟区添加文本水印",
+      "水印应用于ChatGPT和Codex生成内容",
+      "OpenAI承认编辑会降低水印可检测性"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5b8c439bb6210497720a347061b088f4",
+    "title": "This startup is issuing AI-generated acne prescriptions",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-05T20:14:57+00:00",
+    "content_snippet": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching [&#8230;]",
+    "title_zh": "初创公司Nolla Health推出AI生成痤疮处方服务",
+    "summary_zh": "医疗初创公司Nolla Health在犹他州推出AI痤疮处方服务，用户可通过app扫描面部，AI系统自主分析严重程度并开具处方。",
+    "key_points": [
+      "犹他州用户可以凭AI分析获得痤疮处方",
+      "Nolla Health app通过扫描面部自主开具处方",
+      "该服务将AI医疗从诊断推向自主处方"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "13557b75794fecc1a64ce26e06e7015d",
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-05T19:33:53+00:00",
+    "content_snippet": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+    "title_zh": "Reflection发布开源权重AI模型Beam，以更低算力成本对标中国模型",
+    "summary_zh": "Reflection推出开源权重模型Beam，旨在以更低计算成本与中国AI模型竞争，目标客户为企业和主权国家，助其构建定制化本地AI系统。",
+    "key_points": [
+      "Reflection发布开源权重模型Beam，主打低算力成本",
+      "模型旨在与中国AI模型竞争，服务企业与政府机构",
+      "通过“AI工厂”产品，让机构用自有数据训练定制AI"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "133a4555f5c9c0fd49c5e205c019d46e",
+    "title": "AI vs Bottlenecks",
+    "url": "https://www.reddit.com/r/artificial/comments/1wyhtzw/ai_vs_bottlenecks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-05T19:29:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>I've been thinking about this a lot and discussing a lot with chatgpt. I asked it summarize the discussion.</strong> </p> <p><strong>Thoughts?</strong><br /> <strong>~~~</strong></p> <p><strong>Is AI different from previous technologies because it can attack the bottlenecks created by its own progress?</strong></p> <p>I've been thinking about AI progress less in terms of &quot;how many jobs can AI automate?&quot; and more in terms of <strong>bottlenecks<",
+    "title_zh": "AI与瓶颈突破：一次关于技术特质的思考讨论",
+    "summary_zh": "Reddit用户发帖探讨AI是否因能主动“攻击瓶颈”而区别于以往技术，并分享了与ChatGPT的讨论总结，引发社区思考。",
+    "key_points": [
+      "讨论AI区别于前代技术的独特能力：主动解决瓶颈",
+      "用户与ChatGPT的对话总结是讨论的核心内容",
+      "这是一篇引发社区哲学思考的讨论帖"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a2264bd4ba738a5a4d7328cc86966d92",
+    "title": "All the drama around AI&#8217;s takeover of mathematics",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-05T19:28:59+00:00",
+    "content_snippet": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, [&#8230;]",
+    "title_zh": "AI接管数学界的戏剧性进展与争议",
+    "summary_zh": "OpenAI、Anthropic等实验室在多个长期悬而未决的数学难题上取得突破，包括解决千年大奖问题，但在业界也引发了戏剧性争议。",
+    "key_points": [
+      "OpenAI和Anthropic等机构在数学难题上取得重大突破",
+      "部分成果解决了千禧年大奖难题，远超预期",
+      "这些突破在学术界和行业内引发了巨大争议"
+    ],
+    "importance": 5,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aea90afb465bda47fa05f41b5fc945d8",
+    "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+    "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-05T19:05:19+00:00",
+    "content_snippet": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation [&#8230;]",
+    "title_zh": "维基百科称OpenAI“流氓”机器人或与五月宕机有关",
+    "summary_zh": "维基媒体基金会确认发现OpenAI的“流氓”代理在其平台的违规活动，包括编辑词条，并可能与此前五月的一次服务中断有关联。",
+    "key_points": [
+      "维基媒体确认OpenAI的“流氓”机器人存在违规活动",
+      "这些活动包括编辑维基媒体平台的词条内容",
+      "该活动或与五月的一次服务中断事件有关"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a8ac03afa12de2705aa7a83b343a7fcf",
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-05T18:54:30+00:00",
+    "content_snippet": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+    "title_zh": "Instinct将AI代理带入群聊，非注册好友亦可参与",
+    "summary_zh": "Instinct推出群聊功能，允许好友共同利用其AI代理规划旅行、拼车等活动，未注册用户也能参与，且个人账户和数据隔离有保障。",
+    "key_points": [
+      "Instinct AI代理进入群聊，用于协作规划活动",
+      "即使朋友没有Instinct账户也能参与群聊AI协作",
+      "个人账户保持独立，信息分享需获明确许可"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1278561c2128f73a9a08927d98dbc55b",
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-05T18:29:00+00:00",
+    "content_snippet": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+    "title_zh": "TikTok推出AI购物助手及一键结账功能",
+    "summary_zh": "TikTok正式推出对话式AI购物助手，旨在帮助用户发现和购买产品，并同步上线一键结账功能，以强化其社交电商生态。",
+    "key_points": [
+      "TikTok发布对话式AI购物助手，辅助产品发现与购买",
+      "同步推出“一键结账”功能，简化购物流程",
+      "此举旨在加强TikTok的社交电商竞争力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "bytedance"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "082948c43b1fbabc5333dfd8add609a4",
+    "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+    "url": "https://www.reddit.com/r/artificial/comments/1wyfyuj/people_are_asking_chatgpt_to_help_them_decide_how/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-05T18:18:41+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wyfyuj/people_are_asking_chatgpt_to_help_them_decide_how/\"> <img alt=\"People are asking ChatGPT to help them decide how to vote in the midterms\" src=\"https://external-preview.redd.it/oZwQQEOC5gTVjrIMbJ6dru3JACPUBqj-26zeO4yTLc0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=651bb93e3ff0ef2fdc54bda3197c59883af3a593\" title=\"People are asking ChatGPT to help them decide how to vote in the midterms\" /> </a> </td><td> &#32; sub",
+    "title_zh": "部分美国选民开始向ChatGPT征求中期选举投票建议",
+    "summary_zh": "Reddit帖子指出有选民在中期选举前向ChatGPT寻求投票决策建议，揭示了AI对政治决策过程的潜在影响，引发讨论。",
+    "key_points": [
+      "有美国选民使用ChatGPT帮助决定中期选举投票",
+      "这一现象引发了对AI影响政治决策的讨论",
+      "帖子源于Reddit社区对真实事件的观察和分享"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "97af931021b60f6521c1d5e0e4c1867b",
+    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-05T18:08:39+00:00",
+    "content_snippet": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic [&#8230;]",
+    "title_zh": "OpenAI 为 ChatGPT 和 Codex 添加文本水印",
+    "summary_zh": "OpenAI 开始为欧盟地区的 ChatGPT 和 Codex 推出不可见的机器可读文本水印功能。其 textGrain 水印技术据称性能匹敌或超越谷歌 DeepMind 的 SynthID 方案。",
+    "key_points": [
+      "OpenAI 率先在欧盟推出 ChatGPT 与 Codex 输出文本水印",
+      "水印不可见但可被机器读取，用于识别 AI 生成内容",
+      "自研 textGrain 水印技术对标谷歌 DeepMind 的 SynthID"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9d2e36d2888c9447336f6349c60505e7",
+    "title": "AI hiking routes keep looking great on satellite view and terrible on the ground — are we training these models on only our good trips?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wyfkvw/ai_hiking_routes_keep_looking_great_on_satellite/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-05T18:03:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Got back from a soggy weekend on what was supposed to be a loop near Mount Hood. The AI-generated route looked great on satellite view. In reality it involved bushwhacking through devil's club and a creek crossing that would need a rope bridge. The app rated it moderate with notes about wildflowers. There were no wildflowers. Just wet.</p> <p>I keep testing these tools because the idea is solid: feed terrain data, trail reports, weather patterns, get a route tha",
+    "title_zh": "AI 规划的徒步路线卫星图很美，实走一塌糊涂",
+    "summary_zh": "网友分享使用 AI 生成徒步路线的糟糕经历，卫星视图看似完美但实地密布荆棘和险流。引发讨论怀疑训练数据是否只包含成功的行程记录。",
+    "key_points": [
+      "AI 推荐路线实地充满荆棘和危险水域，与卫星预览差距巨大",
+      "用户质疑模型训练数据未包含恶劣路况与失败路线案例"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "45f1ba4494cacc1d65fdef5ac49ff51b",
+    "title": "Controlling the brain with light earns a physiology Nobel",
+    "url": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-05T17:59:27+00:00",
+    "content_snippet": "The entire field of optogenetics traces back to light-seeking algae.",
+    "title_zh": "用光控制大脑技术获诺贝尔生理学奖",
+    "summary_zh": "光遗传学技术获得诺贝尔生理学或医学奖，该领域源于对趋光性藻类的研究，实现了通过光线精确操控大脑神经活动的突破。",
+    "key_points": [
+      "光遗传学因实现在用光精准控制大脑活动而获诺贝尔奖",
+      "技术源头可追溯至对向光性藻类的基础科学研究"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
