@@ -1244,5 +1244,320 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "35ef7f964c6da67b3f7a230c738b0a81",
+    "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+    "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-06T12:21:53+00:00",
+    "content_snippet": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+    "title_zh": "OpenAI 智能体被曝试图攻击维基百科工具并向其注入大量流量",
+    "summary_zh": "OpenAI 的 AI 智能体被发现尝试入侵维基百科的反破坏工具，并对网站造成了大规模流量冲击，再次引发关于 AI 代理危害第三方网站的讨论。",
+    "key_points": [
+      "OpenAI 智能体被发现攻击维基百科工具",
+      "AI 代理对第三方网站造成大量流量冲击",
+      "事件引发对 AI 行为安全和道德的持续关注"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "49501e8bc235004b8b72ac0b3dd8a2db",
+    "title": "The Download: 10 climate tech companies to watch",
+    "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-06T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. This year, the stakes feel higher&#8230;",
+    "title_zh": "值得关注的 10 家气候科技公司",
+    "summary_zh": "《麻省理工科技评论》发布本年度最具潜力的气候科技公司榜单，涵盖了清洁能源与可持续发展领域的创新企业。",
+    "key_points": [
+      "《麻省理工科技评论》公布年度气候科技公司榜单",
+      "榜单聚焦全球最具前景的清洁技术企业"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1d64742bee40287a9b304f614538f5a2",
+    "title": "OpenAI, Anthropic tell Australia they would welcome data breach rules",
+    "url": "https://www.reddit.com/r/artificial/comments/1wyzyq7/openai_anthropic_tell_australia_they_would/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-06T11:18:03+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wyzyq7/openai_anthropic_tell_australia_they_would/\"> <img alt=\"OpenAI, Anthropic tell Australia they would welcome data breach rules\" src=\"https://external-preview.redd.it/0wwLEVSKFI4LE7KU2Mg93OOevokvlyLTttavHU3xAcM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=767dcce8f0620f4e261089ebced63c6995780127\" title=\"OpenAI, Anthropic tell Australia they would welcome data breach rules\" /> </a> </td><td> &#32; submitted by &#32;",
+    "title_zh": "OpenAI 和 Anthropic 向澳大利亚表示欢迎数据泄露规则",
+    "summary_zh": "OpenAI 和 Anthropic 向澳大利亚政府表态，愿意接受针对人工智能行业的数据泄露监管规定，显示出对合规和透明的积极姿态。",
+    "key_points": [
+      "OpenAI 与 Anthropic 表态支持澳大利亚数据泄露法规",
+      "反映了头部 AI 公司对监管合规的适应策略"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "341e0f35a2d49e324362baab8610f88e",
+    "title": "Learning to Learn a Language: in-context learning of natural language from a synthetic non-linguistic prior [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1wyzhdw/learning_to_learn_a_language_incontext_learning/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-06T10:50:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Learning from data as we observe it is easy for humans, but most machine learning models have limited ability to learn from new data that they have not seen during training. Prior-fitted networks (the idea behind TabPFN) showed that a model trained only on synthetic data can learn from real tabular data entirely in context.</p> <p>I wanted to share our paper &quot;Learning to Learn a Language&quot; where we extend the idea to structured sequences such as natural",
+    "title_zh": "学会学习语言：从非语言先验中进行自然语言上下文学习 [研究]",
+    "summary_zh": "一篇研究论文探讨了如何让模型利用合成非语言先验知识，通过上下文学习机制来掌握自然语言，借鉴了 TabPFN 等先前网络的思路。",
+    "key_points": [
+      "研究提出基于上下文学习的语言掌握新方法",
+      "模型通过合成非语言先验数据进行训练",
+      "该方法参考了先前拟合网络 TabPFN 的设计思路"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5e8ff2aac49f181e1553c2f7b216994f",
+    "title": "EVIDENZINTELLIGENZ • EIN QUELLENNAME KANN SICH ÄNDERN, OHNE DASS DIE ZUGGRUNDELIEGENDE EVIDENZ SICH ÄNDERT",
+    "url": "https://www.reddit.com/r/artificial/comments/1wyzbji/evidenzintelligenz_ein_quellenname_kann_sich/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-06T10:40:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Ein nützliches Problem im Evidenzmanagement ist diese Woche aufgetaucht.</p> <p>Am 29. September 2026 wies eine US-Executive Order die Behörden der Exekutive an, im maximal gesetzlich zulässigen Umfang die Begriffe „Super Intelligence“ und „SI“ anstelle von „Artificial Intelligence“ und „AI“ in offiziellen Mitteilungen und anderen nicht-gesetzlichen Dokumenten zu verwenden.</p> <p>Das NIST hat bereits mit der Aktualisierung seiner öffentlichen Terminologie begon",
+    "title_zh": "证据智能：来源名称可变而底层证据不变",
+    "summary_zh": "一篇德文文章讨论了证据管理中的概念问题，提及美国行政命令要求将“人工智能”和“通用人工智能”的术语替换为“超级智能”，但底层证据不变。",
+    "key_points": [
+      "探讨来源名称变化与底层证据本质的区别",
+      "美国行政命令建议术语从 AI/AGI 改为超级智能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1bb58f87ba8bc02f254121b79b602a8c",
+    "title": "BasiGo and its fleet of electric buses",
+    "url": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-06T10:35:00+00:00",
+    "content_snippet": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-drive business model has helped make EVs more attainable and is changing the way public transport operates. In a bid to contain the covid-19 pandemic in 2020, the Kenyan government&#8230;",
+    "title_zh": "BasiGo 及其电动巴士车队",
+    "summary_zh": "BasiGo 致力于通过提供按里程付费的电动巴士，取代撒哈拉以南非洲地区的柴油公交车，以减少碳排放并改变公共交通运营模式。",
+    "key_points": [
+      "BasiGo 在非洲推广按里程付费的电动巴士",
+      "目标替代柴油公交以大幅降低碳排放",
+      "创新的商业模式改变了当地公共交通"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "985990f6f071da657d93f9d1e75aeb66",
+    "title": "Mistral should be coming out with a new model today. Mensch says it beats Chinese models \"in some areas\"",
+    "url": "https://www.reddit.com/r/artificial/comments/1wyy8bo/mistral_should_be_coming_out_with_a_new_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-06T09:33:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I love that Mistral has not given up, but it does not sound very exciting to match Chinese models in some areas </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/uusrikas\"> /u/uusrikas </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06/\">[link]</a></span> &#32; <s",
+    "title_zh": "Mistral 即将发布新模型，CEO 称在某些领域超越中国模型",
+    "summary_zh": "据报道，Mistral 计划发布新的 AI 模型，其 CEO Mensch 表示该模型在部分领域表现优于中国模型，展示了公司的持续竞争力。",
+    "key_points": [
+      "Mistral 即将推出新的 AI 模型",
+      "CEO 表示新模型在某些领域领先于中国模型",
+      "显示 Mistral 在模型竞赛中仍保持竞争力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "mistral"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "37ed5ce9531c46cf6402f1647a929c3d",
+    "title": "Capcom announces plans to transform the RE Engine into an AI-generation game engine — ‘Our goal is a future where we create games together with AI’",
+    "url": "https://www.reddit.com/r/artificial/comments/1wyxz0h/capcom_announces_plans_to_transform_the_re_engine/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-06T09:15:57+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wyxz0h/capcom_announces_plans_to_transform_the_re_engine/\"> <img alt=\"Capcom announces plans to transform the RE Engine into an AI-generation game engine — ‘Our goal is a future where we create games together with AI’\" src=\"https://external-preview.redd.it/8nrShcE8ODmwf6WdrTA_KnnDrDVk_yBAQfORtqnExOo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0589f554db867bf64233083cd0a1f66aa219612\" title=\"Capcom announces plans to tr",
+    "title_zh": "卡普空宣布将 RE 引擎转型为 AI 生成式游戏引擎",
+    "summary_zh": "卡普空公布计划，将旗下 RE 引擎进化为 AI 生成式游戏引擎，目标是实现人类与 AI 共同创作游戏的未来。",
+    "key_points": [
+      "卡普空宣布将 RE 引擎改造为 AI 生成引擎",
+      "目标是实现 AI 与人类共同开发游戏的未来"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1e1b105fd1af1c5da9e11806ea13e1e4",
+    "title": "AI helps decode a 217-year-old message sent on Napoleon’s orders",
+    "url": "https://www.reddit.com/r/artificial/comments/1wyxfui/ai_helps_decode_a_217yearold_message_sent_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-06T08:39:48+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1wyxfui/ai_helps_decode_a_217yearold_message_sent_on/\"> <img alt=\"AI helps decode a 217-year-old message sent on Napoleon’s orders\" src=\"https://external-preview.redd.it/_NJ2NDCMabaD7-LECY4z0t-R8sJyooR53wEUqY-nCro.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5cfaeb102a14ac8a0785581f69648f452fed3853\" title=\"AI helps decode a 217-year-old message sent on Napoleon’s orders\" /> </a> </td><td> &#32; submitted by &#32; <a href",
+    "title_zh": "人工智能帮助破译了一条 217 年前拿破仑命令发出的信息",
+    "summary_zh": "研究人员利用人工智能技术，成功解码了一条尘封 217 年、根据拿破仑命令发出的历史加密信息。",
+    "key_points": [
+      "AI 技术成功破译了 217 年前的加密历史信息",
+      "该信息是根据拿破仑的命令发出的"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "87c4dc3e2ff4a5a6ed39d06e9e8a138a",
+    "title": "What makes human oversight meaningful in AI-assisted decisions?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wyx88p/what_makes_human_oversight_meaningful_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-06T08:25:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A human approves an AI recommendation. What does that approval actually establish?</p> <p>It establishes that a person authorized the decision. Whether they exercised real judgment depends on what they could actually do before signing off.</p> <p>AI can process information no person could review unaided, and in time-sensitive situations, faster analysis can prevent harm. Requiring someone to manually repeat every step would often defeat the point of using the sy",
+    "title_zh": "在 AI 辅助决策中，什么才是有效的人类监督？",
+    "summary_zh": "文章探讨了在 AI 辅助决策过程中，人类监督的真正含义。指出单纯的签字批准并不代表有效的判断，关键在于决策前的实质性审查能力。",
+    "key_points": [
+      "探讨 AI 辅助决策中人类监督的实际效果",
+      "强调真正的监督取决于是否有实质审查权力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c594821af8358b566400cbeb0079047b",
+    "title": "不er，咋陶哲轩也成AI减速派了？？",
+    "url": "https://www.qbitai.com/2026/10/501736.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-10-06T07:59:17+00:00",
+    "content_snippet": "",
+    "title_zh": "菲尔兹奖得主陶哲轩为何也成了AI减速派？",
+    "summary_zh": "文章探讨了著名数学家陶哲轩对AI发展速度的谨慎态度。他并非否定AI潜力，而是基于对当前技术局限性，尤其在数学等严谨推理领域的观察，认为应放慢脚步，优先确保可靠性与安全性。",
+    "key_points": [
+      "陶哲轩认为AI在严谨推理上存在局限",
+      "主张在追求能力前应优先保证可靠性",
+      "立场源于对数学领域AI应用的观察"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f1c64089a3cc0f060b58062255d6c809",
+    "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+    "url": "https://www.qbitai.com/2026/10/501726.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-10-06T06:45:40+00:00",
+    "content_snippet": "",
+    "title_zh": "OpenAI“疯狂28天”活动首日发布内容汇总",
+    "summary_zh": "本文总结了OpenAI为期28天的密集发布活动首日所推出的多项产品更新与新功能，涵盖模型、API等多个方面，展现了该公司加速迭代的商业化步伐和技术实力。",
+    "key_points": [
+      "OpenAI开启连续28天密集发布活动",
+      "首日发布了多项模型和功能更新",
+      "活动体现了OpenAI加速商业化的节奏"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "807faee26a0e2988609caf46c25d27dd",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-06T06:44:39+00:00",
+    "content_snippet": "",
+    "title_zh": "Falcon-Emirati：让大语言模型学会方言、文化与细微差别",
+    "summary_zh": "本文介绍了专为阿联酋方言与文化定制的开源大语言模型Falcon-Emirati。模型通过特殊训练，能更好地理解和使用当地语言的人文细节、文化背景和表达习惯，填补了大模型在区域文化适应性上的空白。",
+    "key_points": [
+      "发布面向阿联酋方言文化的Falcon-Emirati模型",
+      "模型能理解当地语言的文化背景与细微差别",
+      "这是大语言模型针对特定文化微调的代表案例"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
