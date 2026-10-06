@@ -426,5 +426,145 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2cc747dbe309eaa73a067865b971c01d",
+    "title": "Could AI-assisted nanorobotics be injeceted into the bloodstream and used to kill cancer cells in the future?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wzalsp/could_aiassisted_nanorobotics_be_injeceted_into/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-06T18:42:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Could AI-assisted nanorobotics be injeceted into the bloodstream and used to kill cancer cells in the future?</p> <p>What about other potential medical uses other than cancer treatment? Such as clearing clogged arteries?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DoublePassRadiator\"> /u/DoublePassRadiator </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https:/",
+    "title_zh": "未来能否将 AI 辅助纳米机器人注入血液以杀死癌细胞？",
+    "summary_zh": "Reddit 用户探讨了将 AI 辅助纳米机器人注入血液以治疗癌症和清除动脉堵塞等未来医疗应用的可能性。",
+    "key_points": [
+      "讨论 AI 纳米机器人用于靶向杀死癌细胞的潜力",
+      "探索其在清除动脉堵塞等其他医疗场景的应用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "07e54f269f8fc821ef04bbe8ea5422ae",
+    "title": "Super Intelligence achievements",
+    "url": "https://www.reddit.com/r/artificial/comments/1wza7qt/super_intelligence_achievements/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-06T18:27:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Just watched an academic present a previously published AI paper to a large room of government officials. 20 seconds in, she realized she now has to say &quot;Super Intelligence&quot; instead of &quot;AI,&quot; and sweated through 20 pages of it. </p> <p>Live. No rehearsal. This woman is a hero.<br /> It was hilarious.</p> <p>Here's what's coming our way, my people:</p> <ul> <li>&quot;How do I turn off the Super Intelligence features?&quot;</li> <li>&quot;My Sup",
+    "title_zh": "超级智能的成就",
+    "summary_zh": "一位学者在向政府官员展示 AI 论文时，不得不临时将术语从“AI”改为“超级智能”，引发对术语变化的现场叙述。",
+    "key_points": [
+      "学者在政府演讲中被迫将“AI”改称为“超级智能”",
+      "反映了官方场合对 AI 术语的新要求"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3dab6c5ee7ae07a16c5adbca089697b7",
+    "title": "A multi-agent pipeline's biggest failure mode isn't any single agent being wrong, it's two correct agents disagreeing about what \"done\" means",
+    "url": "https://www.reddit.com/r/artificial/comments/1wza7le/a_multiagent_pipelines_biggest_failure_mode_isnt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-06T18:27:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Had a research pipeline where one agent gathered sources and a second agent synthesized them into a summary. Both performed well individually, tested extensively on their own. Chained together, the synthesis agent kept producing summaries missing obvious points the gathering agent had actually found.</p> <p>Turned out the gathering agent considered its job done once it returned anything matching the query, didn't rank or flag relevance strength. The synthesis ag",
+    "title_zh": "多智能体管线的最大失败模式是两个正确的智能体对“完成”定义不一致",
+    "summary_zh": "在多智能体研究管线中，信息收集与摘要合成智能体各自表现良好，但串联后因对任务完成状态的理解分歧导致摘要遗漏要点，揭示了系统集成的新挑战。",
+    "key_points": [
+      "单智能体表现优秀，但串联后因语义分歧导致失败",
+      "系统集成时对任务完成标准的一致性是关键挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "47e6fb94fc925c4a0f09bb149ad460f6",
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-06T18:22:45+00:00",
+    "content_snippet": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+    "title_zh": "Hark 发布一款注重隐私的 AI 个人助理",
+    "summary_zh": "AI 实验室 Hark 发布了一款主打隐私保护的 AI 个人助理，定位为未来操作系统，旨在与 Muse、Dots 和 Instinct 竞争。",
+    "key_points": [
+      "Hark 发布注重隐私的 AI 个人助理产品",
+      "产品定位为竞争性的未来操作系统"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f8a585aad039249ed2848065707046f9",
+    "title": "People don't Google anymore. They ask AI. And AI doesn't know I exist",
+    "url": "https://www.reddit.com/r/artificial/comments/1wza04r/people_dont_google_anymore_they_ask_ai_and_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-06T18:20:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I run a small law firm. Family law. Wills. Estates. Nothing flashy. But we’re good at what we do. Our clients love us. We get referrals. We’ve been in business for 12 years</p> <p>But I keep hearing the same thing from potential clients. “I asked ChatGPT for a lawyer and your firm didn’t come up.” Or “Perplexity recommended someone else.”</p> <p>It’s happening more and more. People don’t Google anymore. They ask an AI. And the AI recommends someone. Just not us<",
+    "title_zh": "人们不再用谷歌搜索，而是问 AI，而 AI 不知道我的律所存在",
+    "summary_zh": "一家小型律所发现，越来越多潜在客户通过 AI 而非谷歌搜索寻找服务，但 AI 未能推荐该律所，导致生意流失，凸显 AI 搜索对本地服务业的冲击。",
+    "key_points": [
+      "用户搜索行为从谷歌转向 AI，影响本地服务业",
+      "AI 搜索未能收录特定商家，导致其业务机会流失"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "320bbff2a4ec5414a92324689b323f89",
+    "title": "Has anybody noticed that the problem of machine translation has been, like, solved?",
+    "url": "https://www.reddit.com/r/artificial/comments/1wz903r/has_anybody_noticed_that_the_problem_of_machine/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-06T17:42:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>With all the fuss over AI and what it can do, I feel like we've totally glossed over the fact that AI has casually solved something that has been a problem for decades. </p> <p>I was born the year after the microprocessor was invented, and I've kept a very close eye on technology as it has developed. And the problem of machine translation has been with us for a while. It used to be absolutely terrible. Then it got to the point where you could sort of tell what t",
+    "title_zh": "有人注意到机器翻译的问题已经被解决了吗？",
+    "summary_zh": "Reddit 用户认为，在 AI 的热潮中，人们忽略了一条重要进展：AI 已悄然解决了困扰数十年的机器翻译难题。",
+    "key_points": [
+      "评论指出 AI 已实质性解决机器翻译长期难题",
+      "此成就被其他 AI 热点话题所掩盖"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
