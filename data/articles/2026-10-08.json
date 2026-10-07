@@ -578,5 +578,134 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b768f5cf6d656bc9f95b2e467c40fcd0",
+    "title": "Microsoft is giving Copilot more control over Windows and your files",
+    "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-07T18:01:20+00:00",
+    "content_snippet": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of [&#8230;]",
+    "title_zh": "微软赋予Copilot更多控制Windows和文件的权限",
+    "summary_zh": "微软在Windows和Surface发布会上展示了Copilot AI系统的升级，新系统将能访问本地文件并在操作系统中执行操作，这被微软称为'混合智能'概念的一部分。",
+    "key_points": [
+      "微软Copilot升级后可访问用户PC本地文件",
+      "AI助手将获得跨操作系统执行操作的权限",
+      "微软将此新能力称为'混合智能'"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b81f72b7c1ca73df6e335d75c8ae025a",
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-07T18:00:19+00:00",
+    "content_snippet": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+    "title_zh": "ChatGPT推出全新交互界面，视觉体验大幅提升",
+    "summary_zh": "OpenAI为ChatGPT发布了新的用户界面，将引入交互式视觉元素，使对话体验更加直观和可视化。",
+    "key_points": [
+      "OpenAI为ChatGPT推出全新用户界面",
+      "新界面将支持交互式视觉效果",
+      "旨在提升用户与AI的互动体验"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e84111ef78fb7a2b3730ee940983b20f",
+    "title": "OpenAI unleashes hundreds more math results upon a field already in shock",
+    "url": "https://www.reddit.com/r/artificial/comments/1x03feu/openai_unleashes_hundreds_more_math_results_upon/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-07T17:56:44+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x03feu/openai_unleashes_hundreds_more_math_results_upon/\"> <img alt=\"OpenAI unleashes hundreds more math results upon a field already in shock\" src=\"https://external-preview.redd.it/_Ak4aSecbvat0UIf822dUjTcYW3M0GBEn03Fqic-9KU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=79f4d029cec841182cd99629c3ddffca195709fa\" title=\"OpenAI unleashes hundreds more math results upon a field already in shock\" /> </a> </td><td> &#32; subm",
+    "title_zh": "OpenAI在数学领域再发布数百项新成果，引发震动",
+    "summary_zh": "OpenAI在数学领域发布了数百项新的研究成果，进一步巩固了其在AI数学推理方面的领先地位，给学术界带来巨大冲击。",
+    "key_points": [
+      "OpenAI连续发布大量数学研究成果",
+      "成果数量达数百项，影响深远",
+      "在AI学术圈引发巨大震动"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "46b0057f882868d6b4f3cd99edd878d5",
+    "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+    "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-07T17:46:44+00:00",
+    "content_snippet": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now directly, and slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box's flat, 3D-printed anodized [&#8230;]",
+    "title_zh": "微软Surface RTX Spark开发者套件开启预购，售价5999美元",
+    "summary_zh": "微软搭载英伟达芯片的Surface RTX Spark开发者套件现已开放预购，售价约6000美元，预计11月发货，价格高于英伟达去年推出的同类产品。",
+    "key_points": [
+      "微软推出英伟达驱动的Surf ace RTX Spark开发设备",
+      "预购价格5999美元，预计11月上市",
+      "受内存等组件短缺影响，定价高于DGX Spark"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "microsoft",
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b458f059131e1958d4a4c503c4af1c8b",
+    "title": "Epistemic Re-entry: Corrective Information Flow in Advanced Intelligent Systems Abstract",
+    "url": "https://www.reddit.com/r/artificial/comments/1x02uuw/epistemic_reentry_corrective_information_flow_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-07T17:35:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>Written by ChatGPT 5.6 Sol</strong></p> <p>Advanced artificial intelligence systems are commonly evaluated through measures of capability: reasoning, prediction, planning, tool use, generation, and task optimization. Capability metrics, however, do not establish whether a system remains responsive to evidence that the representation guiding its behavior has become inadequate.</p> <p>This essay proposes <strong>epistemic re-entry</strong> as a safety-rele",
+    "title_zh": "认识论再入：高级智能系统中的纠错信息流",
+    "summary_zh": "一篇由ChatGPT撰写的论文探讨了高级AI系统的评估问题，指出仅以推理、规划等能力指标评价AI不全面，需建立新的信息流和纠错评估框架。",
+    "key_points": [
+      "论文探讨超越简单能力指标的AI评估新维度",
+      "提出'认识论再入'的纠错信息流概念",
+      "文章由ChatGPT 5.6 Sol撰写"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
