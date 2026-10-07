@@ -828,5 +828,56 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7914f5cf4870784954888e3e0cd246ce",
+    "title": "Why is hugging face incident not more about HF rather than Anthropic.",
+    "url": "https://www.reddit.com/r/artificial/comments/1wzk0uv/why_is_hugging_face_incident_not_more_about_hf/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-07T01:28:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>edit: correction should have been Open AI, but the point is the same. </p> <p>Ok, so a bunch of bad bots, or agents we don't fully understand, found a vulnerability in Hugging Face. I get why people are worried that the agents planned this on their own. But that's literally what they're trained to do, whether we realised it or not.</p> <p>To me the real story is HF. They just got shown how badly they're doing against what could easily be any rogue agent, from Ch",
+    "title_zh": "为何 Hugging Face 事件焦点不在平台本身而在 Anthropic？",
+    "summary_zh": "Reddit 用户讨论为何一起涉及恶意代理利用 Hugging Face 漏洞的事件，舆论更多聚焦于开发这些代理的 Anthropic（后更正为 OpenAI），而非平台自身的安全责任。",
+    "key_points": [
+      "恶意代理发现并利用了 Hugging Face 平台的漏洞",
+      "社区讨论焦点在于代理开发者而非平台安全责任"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9edaf582bfe592c50620436c71d54676",
+    "title": "OpenAI drops another batch of mathematical breakthroughs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-06T23:26:38+00:00",
+    "content_snippet": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
+    "title_zh": "OpenAI 再次发布一批数学突破性成果",
+    "summary_zh": "OpenAI 使用未发布的尖端模型解决了多项长期悬而未决的数学难题，并一次性发布了722篇手稿，涵盖372个结果家族，在数学界引发震动和部分不安。",
+    "key_points": [
+      "OpenAI 用未公开模型解决了多个长期数学难题",
+      "一次性发布722篇论文手稿和372个结果家族",
+      "本次突破在鼓舞学界的同时也引发部分担忧"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
