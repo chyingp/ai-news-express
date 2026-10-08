@@ -1270,5 +1270,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "38a0a7239c6a47bcbc34360e48badf82",
+    "title": "Fields Medalist Terence Tao reposts statement from the Association for Human Mathematics urging mathematicians to stop working with OpenAI for continuing to solve open math problems against their recommendations",
+    "url": "https://www.reddit.com/r/artificial/comments/1x0gpxr/fields_medalist_terence_tao_reposts_statement/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-08T03:37:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x0gpxr/fields_medalist_terence_tao_reposts_statement/\"> <img alt=\"Fields Medalist Terence Tao reposts statement from the Association for Human Mathematics urging mathematicians to stop working with OpenAI for continuing to solve open math problems against their recommendations\" src=\"https://external-preview.redd.it/TRxGjMbYO2AuVu-cywROfnAHgjBxQMqGxI_OfPkExOo.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=b3bc0bd7bd6dc4ffe",
+    "title_zh": "菲尔兹奖得主陶哲轩转发声明，敦促数学家停止与OpenAI合作",
+    "summary_zh": "菲尔兹奖得主陶哲轩转发人类数学协会声明，呼吁数学家停止与OpenAI合作，因OpenAI持续无视建议，解决开放数学问题。",
+    "key_points": [
+      "陶哲轩转发声明，声援人类数学协会立场",
+      "协会指责OpenAI无视数学家建议，继续解决开放数学问题",
+      "事件反映学术界与AI公司在研究伦理上的紧张关系"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "33ae7e45bca1051cafd75efa74f0b1bc",
+    "title": "How is AI accelerating progress in medicine, and when will it reach the level of impact it has already achieved in programming and mathematics?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x0g3oy/how_is_ai_accelerating_progress_in_medicine_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-08T03:04:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Because of my own health issues, I now have to pay close attention to and hope for progress in this field.</p> <p>How is AI currently accelerating medical research and development? As LLMs continue to evolve, major AI companies shift more attention toward healthcare, and the necessary infrastructure is built, will this progress accelerate significantly?</p> <p>Or will AI’s impact on medicine remain relatively limited unless we achieve breakthroughs beyond LLMs, ",
+    "title_zh": "AI如何加速医学进步，何时能达到在编程和数学领域的影响力？",
+    "summary_zh": "文章探讨了人工智能当前如何加速医学研究与开发，并讨论随着大语言模型演进，其影响力何时能比肩在编程和数学领域已取得的成就。",
+    "key_points": [
+      "探讨AI加速医学研究的现状与潜力",
+      "提及主要AI公司正将更多注意力转向医疗保健",
+      "分析AI在医学领域影响力与编程、数学领域的差距"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
