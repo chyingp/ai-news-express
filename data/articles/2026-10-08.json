@@ -1320,5 +1320,288 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "488361a6555fc1f576405def1daf7cef",
+    "title": "AI breakthroughs in robotics won’t change your life any time soon",
+    "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-08T09:00:00+00:00",
+    "content_snippet": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;",
+    "title_zh": "机器人领域的AI突破短期内不会改变你的生活",
+    "summary_zh": "MIT科技评论文章指出，尽管人形机器人在视频中频繁亮相，近期AI在机器人领域的突破距离真正融入日常生活仍有很长的路要走，技术成熟度和应用场景尚待时间验证。",
+    "key_points": [
+      "人形机器人虽在视频中展示进展，但实际应用有限",
+      "AI驱动的机器人技术离改变大众生活仍需时日"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a80a806ab60304c5093001754fc7ff68",
+    "title": "Building a safer path to autonomous industrial AI",
+    "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-08T08:17:32+00:00",
+    "content_snippet": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
+    "title_zh": "构建更安全的自主工业AI之路",
+    "summary_zh": "随着基础模型、物理AI和智能体AI的进步，工业AI正进入自动化复杂任务的新阶段，但文章强调在部署前建立稳健的安全路径机制至关重要。",
+    "key_points": [
+      "工业AI从预测分析转向复杂任务自动化",
+      "基础模型与智能体AI推动工业AI新阶段",
+      "部署自主工业AI需优先考虑安全机制"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fe7a02d21f4287d30b949169d450a011",
+    "title": "Researchers are already significantly improving on OpenAI’s recent math results, verified in Lean",
+    "url": "https://www.reddit.com/r/artificial/comments/1x0jls1/researchers_are_already_significantly_improving/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-08T06:23:43+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x0jls1/researchers_are_already_significantly_improving/\"> <img alt=\"Researchers are already significantly improving on OpenAI’s recent math results, verified in Lean\" src=\"https://preview.redd.it/aebuy8fns6uh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e534d24f4889590e7cf8168dab551a83989128be\" title=\"Researchers are already significantly improving on OpenAI’s recent math results, verified in Lean\" /> </a> </td><td> <!",
+    "title_zh": "研究人员已在Lean中显著改进OpenAI近期数学成果",
+    "summary_zh": "Reddit上分享的一篇机器之心报道指出，研究社区已对OpenAI最近公布的数学推理成果进行了显著改进，并将证明在Lean定理证明器中进行了验证。",
+    "key_points": [
+      "研究社区在数学推理方面超越了OpenAI的近期结果",
+      "改进后的成果已在Lean定理证明器中得到验证"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "22e4f071d758b1c158ca89b4172071e8",
+    "title": "Are AI news summaries changing what people think counts as knowing?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x0jeor/are_ai_news_summaries_changing_what_people_think/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-08T06:11:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I use summaries all the time. They help me decide which articles are worth reading, especially when a story is complicated or outside my field.</p> <p>The problem is that a summary can create the feeling of understanding without the experience of seeing the evidence, tone, or disagreement in the original piece.</p> <p>Maybe AI summaries are becoming a new form of news consumption. That is not automatically bad, but it changes what “being informed” means.</p> <p>",
+    "title_zh": "AI新闻摘要正在改变人们对“认知”的定义吗？",
+    "summary_zh": "文章探讨了AI新闻摘要带来的弊端，它可以快速提供背景知识，但也可能使人产生理解错觉，跳过阅读证据的过程，从而改变对知识获取的认知。",
+    "key_points": [
+      "AI摘要提供便利但可能导致理解错觉",
+      "人们可能会混淆摘要感受与真正的深层理解"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "206ee4cbfea4ff9d3b4bee8a5882a1f6",
+    "title": "Epoch AI shows LLMs still have a long way to go before matching human researchers on innovation",
+    "url": "https://www.reddit.com/r/artificial/comments/1x0j40e/epoch_ai_shows_llms_still_have_a_long_way_to_go/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-08T05:53:59+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x0j40e/epoch_ai_shows_llms_still_have_a_long_way_to_go/\"> <img alt=\"Epoch AI shows LLMs still have a long way to go before matching human researchers on innovation\" src=\"https://preview.redd.it/dvtzzbpcn6uh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e9bd090eeebda114ff0e4e8eaf089b1bd2af0adf\" title=\"Epoch AI shows LLMs still have a long way to go before matching human researchers on innovation\" /> </a> </td><td> <!-- S",
+    "title_zh": "Epoch AI研究显示大语言模型在创新能力上仍远逊于人类",
+    "summary_zh": "Epoch AI的一项研究表明，当前的大语言模型在生成真正创新性研究想法方面，与人类研究人员相比仍有显著差距，模型在创新方面还有很长的路要走。",
+    "key_points": [
+      "研究显示大语言模型的创新能力仍远低于人类",
+      "LLM在产生突破性研究想法方面差距明显"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7246ed7376dc8817d1ed0b4375f5e984",
+    "title": "Australia outlines plans to make AI companies prove their safety systems work",
+    "url": "https://www.reddit.com/r/artificial/comments/1x0iroc/australia_outlines_plans_to_make_ai_companies/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-08T05:32:41+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x0iroc/australia_outlines_plans_to_make_ai_companies/\"> <img alt=\"Australia outlines plans to make AI companies prove their safety systems work\" src=\"https://external-preview.redd.it/XgQAg16QNxCJ822Y255IBM1Fc8mKxYV2aSC3VHVuoN4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=38b2c7bd59c7144e95d302c0d39bd3d46e75eadc\" title=\"Australia outlines plans to make AI companies prove their safety systems work\" /> </a> </td><td> &#32;",
+    "title_zh": "澳大利亚计划要求AI公司证明其安全系统有效",
+    "summary_zh": "澳大利亚政府公布计划，拟出台新规强制AI公司证明其安全系统切实有效，此举旨在加强对AI应用的安全监管和问责。",
+    "key_points": [
+      "澳大利亚要求AI公司证明其安全系统能正常工作",
+      "新规旨在加强AI行业的安全监管与公司责任"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ea2fc7fb46a19dfbfae8ec73f6f4ee71",
+    "title": "Built a generative live canvas that can Livepatch your environment and automatically saves over 5000 states that you can go back to anyone of them at anytime which also does sketches, 3D models, 3D Games, Documents, Adverts, Web/Mobile Applications, Presentations, Websites and more via one canvas",
+    "url": "https://www.reddit.com/r/artificial/comments/1x0i6qj/built_a_generative_live_canvas_that_can_livepatch/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-08T04:58:56+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x0i6qj/built_a_generative_live_canvas_that_can_livepatch/\"> <img alt=\"Built a generative live canvas that can Livepatch your environment and automatically saves over 5000 states that you can go back to anyone of them at anytime which also does sketches, 3D models, 3D Games, Documents, Adverts, Web/Mobile Applications, Presentations, Websites and more via one canvas\" src=\"https://external-preview.redd.it/a2QwMGtnajlkNnVoMQ000",
+    "title_zh": "开发者构建能自动保存5000多个状态的生成式实时画布",
+    "summary_zh": "Reddit用户分享了一款生成式实时画布工具，可进行实时环境修补并自动保存超5000个状态，支持随时回溯，并能创建草图、3D模型、游戏、文档等。",
+    "key_points": [
+      "工具支持5000多个状态保存与任意时间点回溯",
+      "集成了从2D草图到3D模型及应用开发的多种功能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e81d0c97fa75fd4061f886d7c8636c52",
+    "title": "Nvidia’s erroneous paper accepted as ICML’s spotlight [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x0i6b5/nvidias_erroneous_paper_accepted_as_icmls/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-08T04:58:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Here is the story:<br /> Nvidia has published this work (with source code available) called <a href=\"https://dreamdojo-world.github.io\">dreamDojo</a> which is a world model for robotics based of their prior work Cosmos 2.5 which is cited about 100 times and got ICML’s spotlight.</p> <p>Authors are very well known and respected in the field with too many peer reviewed papers already published.</p> <p>The work doesn’t have much novelty (which I don’t care) but it ",
+    "title_zh": "英伟达有缺陷的论文被ICML选为焦点论文",
+    "summary_zh": "英伟达一篇关于机器人世界模型的论文被发现存在科学错误，但该论文仍被顶级机器学习会议ICML接收为焦点论文，因其累计被引用约100次引发社区质疑。",
+    "key_points": [
+      "英伟达论文被发现存在错误却被ICML选为焦点",
+      "论文基于早期工作累计被引超100次引发争议"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0c9aaa8d5b1a80ba2b339995073dbdb0",
+    "title": "AI to hone my education",
+    "url": "https://www.reddit.com/r/artificial/comments/1x0i3o3/ai_to_hone_my_education/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-08T04:53:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm a 44-year-old male in my senior year of nursing school. Nursing school was so competitive to get into; with a 3.8 GPA, 10 years in the busiest ER in California, Search and Rescue volunteer experience, and 6 years of active-duty military experience, I still couldn't get accepted to a local program. After 3 years of applying, I opted for an online nursing program in Utah. </p> <p>That being said, all of the learning is online. My brain gets BORED with reading,",
+    "title_zh": "利用AI辅助完善我的护理教育",
+    "summary_zh": "一名44岁的护理专业学生分享自己利用AI工具辅助学习的经历，探讨了在竞争激烈的护理学教育中，AI如何帮助其克服困难并提升效率。",
+    "key_points": [
+      "高龄学生利用AI工具辅助护理专业学习",
+      "AI在竞争激烈的教育环境中提供个性化帮助"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "594a04da43de6ca6db5c019da5836be9",
+    "title": "Use.ai provider scam",
+    "url": "https://www.reddit.com/r/artificial/comments/1x0hgde/useai_provider_scam/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-08T04:17:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>PSA: avoid use.ai — $1.70 &quot;trial&quot; turned into a $39.99 charge with no reminder, and the premium plan gave me 2 flagship responses</p> <p>Signed up for their trial back on Sep 14. It was $1.70 so I figured why not. The welcome email did mention it renews at $39.99/month, I'll give them that.</p> <p>Then Oct 5 I get an email saying &quot;your plan has been updated&quot; — that's the $39.99 charge hitting my card. Same day. No heads up beforehand, no &quo",
+    "title_zh": "Use.ai服务商骗局警示",
+    "summary_zh": "一名用户发帖警告，AI服务提供商use.ai存在欺诈行为，其1.7美元试用期后未经明确提醒即扣款39.99美元，且高级计划仅提供2次旗舰模型响应。",
+    "key_points": [
+      "use.ai被指控试用期后未提醒即自动扣款",
+      "用户支付高额费用后仅获得极少的旗舰服务次数"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5781b744297f13ac27a1be715cc297c1",
+    "title": "Using the latest Agentic MCP skills like REA and Ghidra for Game Modding?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x0hab1/using_the_latest_agentic_mcp_skills_like_rea_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-08T04:07:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Claude and Codex keep refusing to use the latest agentic skills to decompile code and build mods from proprietary binaries, constantly citing legal and copyright issues. However, I keep seeing posts where people claim Claude or Astra are using these exact tools to reverse engineer features from other games, fix bugs, or even create pass-through mods combining different games.</p> <p>Is there a specific trick or prompt strategy I am missing here? My agents refuse",
+    "title_zh": "使用最新的MCP智能体技能（如REA和Ghidra）进行游戏模组制作？",
+    "summary_zh": "Reddit用户在讨论为何Claude和Codex等AI以法律和版权为由拒绝使用最新智能体工具进行反编译和模组制作，而其他帖子却声称有AI在利用这些工具。",
+    "key_points": [
+      "AI模型因法律顾虑拒绝用智能体工具反编译代码",
+      "用户质疑AI在任务执行上的不一致性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e9df9bf11c379ae5f691c86895896664",
+    "title": "Instead of another GPU terminal renderer, I trained a 1.26M-param model to turn TUIs (htop, vim, emacs…) into real UI components [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x0gvnt/instead_of_another_gpu_terminal_renderer_i/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-08T03:46:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x0gvnt/instead_of_another_gpu_terminal_renderer_i/\"> <img alt=\"Instead of another GPU terminal renderer, I trained a 1.26M-param model to turn TUIs (htop, vim, emacs…) into real UI components [R]\" src=\"https://external-preview.redd.it/dV5RLKJR5P6mkBb_HfKBGzik1n1I4hLueVe5DCYkEIc.png?width=140&amp;height=105&amp;auto=webp&amp;s=520c06cf49df3a5b54a58996c9ea99a178858c2a\" title=\"Instead of another GPU terminal renderer, I tr",
+    "title_zh": "为替代GPU终端渲染器，我训练了一个126万参数模型将TUI转为真实UI组件",
+    "summary_zh": "一名开发者训练了一个参数为126万的模型，能够将htop、vim等终端用户界面（TUI）直接转换成真正的图形用户界面组件。",
+    "key_points": [
+      "126万参数模型实现TUI到GUI的转换",
+      "可处理htop、vim、emacs等终端程序"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
