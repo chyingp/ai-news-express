@@ -669,5 +669,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "81c67bededb8c6b25afd17a88430411e",
+    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+    "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-08T18:10:55+00:00",
+    "content_snippet": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+    "title_zh": "OpenAI 的数学解决方案尚未达到该领域标准",
+    "summary_zh": "TechCrunch 报道指出，OpenAI 生成的大量数学证明偏离了其咨询的数学研究小组所制定的指南，显示其当前解决方案在严谨性上未达专业数学领域标准。",
+    "key_points": [
+      "OpenAI 的数学证明偏离了其咨询的专家组制定的指南",
+      "暴露当前 AI 在严谨数学推理和专业标准上的差距"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "51381643d34f3fd53ee25cf000b4440c",
+    "title": "Why are people using ChatGPT for menu generation?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x0y1d4/why_are_people_using_chatgpt_for_menu_generation/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-08T18:04:34+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x0y1d4/why_are_people_using_chatgpt_for_menu_generation/\"> <img alt=\"Why are people using ChatGPT for menu generation?\" src=\"https://preview.redd.it/4pqz6s8r9auh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=43c1be0febfedeb5941f9e6713f974cbde90a517\" title=\"Why are people using ChatGPT for menu generation?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Just wondering what's up with ChatGPT and the horrible/gross lo",
+    "title_zh": "为什么人们使用 ChatGPT 生成菜单？",
+    "summary_zh": "Reddit 用户发起讨论，探讨人们使用 ChatGPT 生成菜单的原因，反映了生成式 AI 在日常餐饮规划和创意领域的非传统应用趋势。",
+    "key_points": [
+      "用户讨论 ChatGPT 用于菜单生成的非传统用途",
+      "反映生成式 AI 在日常生活创意规划中的应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
