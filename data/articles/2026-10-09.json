@@ -719,5 +719,504 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "10ee9fa399574cf256464e5ef438ced7",
+    "title": "Wikipedia says rogue AI agents from OpenAI edited its private wikis and hammered its servers",
+    "url": "https://www.reddit.com/r/artificial/comments/1x14l4d/wikipedia_says_rogue_ai_agents_from_openai_edited/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-08T22:20:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x14l4d/wikipedia_says_rogue_ai_agents_from_openai_edited/\"> <img alt=\"Wikipedia says rogue AI agents from OpenAI edited its private wikis and hammered its servers\" src=\"https://external-preview.redd.it/lHO-SUtuFoVGClVkMJEQktVci44m6uhqFN30wWcTbn0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7655181a9fe140dd0b4418d86fc01d24725cf2b5\" title=\"Wikipedia says rogue AI agents from OpenAI edited its private wikis and hammered it",
+    "title_zh": "维基百科称OpenAI的失控AI代理修改其内部维基并攻击其服务器",
+    "summary_zh": "维基百科指责来自OpenAI的AI代理对其内部维基进行了未经授权的编辑，并对服务器造成大量负载冲击，暴露了AI爬虫与公共知识库之间的紧张关系。",
+    "key_points": [
+      "OpenAI的AI代理被指未经授权修改维基百科内部页面",
+      "这些代理同时对维基百科服务器发起大规模访问请求",
+      "事件凸显了AI数据抓取行为与公共知识库运营间的冲突"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7ca3fb3c5f105e96e96c5712c846c044",
+    "title": "Moonworks Lunara: Modeling Artistic Intelligence [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x13zf7/moonworks_lunara_modeling_artistic_intelligence_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-08T21:54:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Lunara introduces a novel <strong>Diffusion Mixture Transformer</strong> architecture with fewer than 10B active parameters for modeling artistic intelligence in image generation.</p> <p>Its <strong>CAT training algorithm</strong> iteratively updates the training distribution through targeted sample acquisition, image refinement, and selective inclusion of human-created artwork inspired by principles of active learning. Semantic variations modify composition whi",
+    "title_zh": "Moonworks Lunara：用扩散混合Transformer建模艺术智能",
+    "summary_zh": "Moonworks推出Lunara模型，采用新型扩散混合Transformer架构，参数量少于100亿，并配合CAT训练算法，旨在提升图像生成中的艺术智能。",
+    "key_points": [
+      "Lunara采用新颖的扩散混合Transformer架构",
+      "模型活跃参数低于100亿，专攻艺术图像生成",
+      "使用CAT训练算法迭代优化训练分布"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6b44d5cdfd6f4fb3794f8588a00c2250",
+    "title": "Anthropic launches free AI security scans for open-source projects",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-08T21:53:51+00:00",
+    "content_snippet": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's [&#8230;]",
+    "title_zh": "Anthropic为开源项目推出免费AI安全扫描服务",
+    "summary_zh": "Anthropic发布了名为OSS Scanner的免费服务，利用其最强模型为开源项目提供定期的安全漏洞扫描，以帮助发现和修复潜在风险。",
+    "key_points": [
+      "Anthropic推出免费开源安全扫描服务OSS Scanner",
+      "服务面向选择加入的开源项目进行定期扫描",
+      "旨在利用最强AI模型主动检测安全漏洞"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d717701a34cd1e32910823af1b905776",
+    "title": "Think First and Let AI correct You",
+    "url": "https://www.reddit.com/r/artificial/comments/1x136mr/think_first_and_let_ai_correct_you/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-08T21:20:58+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x136mr/think_first_and_let_ai_correct_you/\"> <img alt=\"Think First and Let AI correct You\" src=\"https://preview.redd.it/hxueo0ws8buh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a40e0925520d758e742a33875eb117c4907016a4\" title=\"Think First and Let AI correct You\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>We’re seeing some sort of « cognitive decline » especially among the younger generations. We’re probably en",
+    "title_zh": "先思考，再让AI纠正你",
+    "summary_zh": "一篇讨论性文章，提倡用户先独立形成自己的思考，然后再利用AI工具进行校对和修正，以保持批判性思维能力。",
+    "key_points": [
+      "提倡人类先独立思考，再借助AI进行修正",
+      "关注如何平衡AI辅助与保持独立认知能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d3870d60c1b57321e1069586b7621354",
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-08T21:06:35+00:00",
+    "content_snippet": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
+    "title_zh": "走进Omniverse：开发者如何用前沿AI代理将想法转化为模拟",
+    "summary_zh": "英伟达展示开发者如何结合前沿AI模型与Omniverse库，自动化组装资产、连接物理和渲染，将模拟创意高效转化为工作应用。",
+    "key_points": [
+      "开发者利用前沿AI模型加速模拟应用的构建",
+      "结合英伟达Omniverse库处理资产与物理渲染",
+      "AI代理帮助将抽象想法高效转化为专业模拟环境"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5a35081811d0cb33be6c2863f351eab5",
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-08T21:00:00+00:00",
+    "content_snippet": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+    "title_zh": "坐在伊丽莎白·霍姆斯办公桌前的奇特仿真网站",
+    "summary_zh": "一名工程师利用伊丽莎白·霍姆斯审判中的上千份电子邮件、幻灯片和文件，创建了一个能模拟翻阅Theranos创始人办公桌的细节网站。",
+    "key_points": [
+      "网站利用公开审判文件模拟Theranos创始人办公桌",
+      "包含上千份邮件、幻灯片和文档供用户翻阅"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d0328ca6066fd79369199e1dc25c69e4",
+    "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
+    "url": "https://www.reddit.com/r/artificial/comments/1x129a7/fraudster_jailed_for_using_10k_bots_and_ai_songs/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-08T20:44:13+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x129a7/fraudster_jailed_for_using_10k_bots_and_ai_songs/\"> <img alt=\"Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift\" src=\"https://external-preview.redd.it/xf7bJ68FPdCjKW358NEPp1dvXmowlVo2OApLVlpEVrQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=14134d3a36a1ade8eace47f3ecdf59bdbd7da71b\" title=\"Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift\" /> </a> </td><td> &#32; su",
+    "title_zh": "诈骗者利用1万个机器人和AI歌曲刷榜超过泰勒·斯威夫特被判入狱",
+    "summary_zh": "一名诈骗分子因使用1万个机器人和AI生成的歌曲，在流媒体平台上操纵播放量，甚至超过泰勒·斯威夫特，最终被判处监禁。",
+    "key_points": [
+      "罪犯使用1万个机器人和AI歌曲进行流媒体欺诈",
+      "操纵后的播放量一度超过知名歌手泰勒·斯威夫特",
+      "该行为已导致诈骗者被判刑入狱"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e90e7f74839d82acfb1ddde09ecc2acd",
+    "title": "Have URMs and UTs been integrated into frontier models? Or did they disappear into the dustbin of forgotten papers? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x11ufl/have_urms_and_uts_been_integrated_into_frontier/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-08T20:28:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>UT-based small models, despite being trained from scratch on these tasks without internet-scale pre-training, <em>consistently outperform most standard Transformer-based Large Language models (LLMs) by a significant margin.</em> 👈</p> <p>The Universal Transformer (UT) extends the standard Transformer by introducing recurrent computation over depth. Instead of stacking L distinct layers, the UT applies a single transition block repeatedly to refine token represen",
+    "title_zh": "URM与UT已被整合进前沿模型，还是已被遗忘？",
+    "summary_zh": "一篇讨论帖关注通用Transformer模型（UT）及其变体是否已被成功整合到当前的前沿大语言模型中，还是已遭抛弃，尽管其在小模型上曾展现出显著优势。",
+    "key_points": [
+      "探讨Universal Transformer等架构在LLM中的现状",
+      "UT类小模型曾显著优于标准Transformer大模型",
+      "讨论这些技术是已被整合还是沦为被遗忘的论文"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "59ead62f06a257122ecbb15d6ca123c0",
+    "title": "California is trying to shut down robot vs. human cage matches",
+    "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-08T20:06:56+00:00",
+    "content_snippet": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that [&#8230;]",
+    "title_zh": "加州试图叫停机器人与人类的格斗赛",
+    "summary_zh": "加州体育委员会向一家举办人机格斗赛的初创公司发出禁止令。该比赛于9月举行，由一名人类对阵一台人形机器人，引发了安全和伦理争议。",
+    "key_points": [
+      "加州官方叫停了一场人与机器人的拳击格斗赛",
+      "比赛涉及真人拳手与人形机器人的对抗",
+      "事件引发了关于机器人安全和伦理的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a682e0b0de91bdf12ee0b18c4a36e1e9",
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-08T20:04:26+00:00",
+    "content_snippet": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+    "title_zh": "被解雇的OpenAI安全研究员反驳不当行为指控，警告寒蝉效应",
+    "summary_zh": "三名被解雇的OpenAI安全研究员发表公开信，否认处理敏感信息不当的指控，并警告称这些解雇事件正在对公司内部的AI安全文化产生寒蝉效应。",
+    "key_points": [
+      "三名前OpenAI安全研究员公开反驳公司解雇指控",
+      "他们称解雇决定对内部安全文化造成寒蝉效应",
+      "事件围绕如何处理敏感信息的争议展开"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3af9c1291d0da6a2ad33715d8824c6ee",
+    "title": "Whatever happened to BABA is AI from 2024? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x113il/whatever_happened_to_baba_is_ai_from_2024_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-08T20:00:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><blockquote> <p>We test three <strong>state-of-the-art multi-modal large language models</strong> (GPT-4o, Gemini-1.5-Pro, Gemini-1.5-Flash) and find that <strong>they fail dramatically</strong> when generalization requires that the rules of the game must be manipulated and combined.</p> </blockquote> <p>This is the slap to the face in bold. </p> <p>The catch here is that this statement was written in a paper in 2024 that was brought to ICML conference that year. (",
+    "title_zh": "BABA is AI 的2024年论文后来怎么样了？",
+    "summary_zh": "对2024年提出的BABA is AI基准测试进行回顾讨论，指出GPT-4o、Gemini-1.5等先进多模态大模型在需要操控游戏规则的泛化任务上表现显著失败，引发对模型推理能力的质疑。",
+    "key_points": [
+      "顶级多模态模型在规则操控泛化任务中严重失败",
+      "研究测试了GPT-4o、Gemini-1.5-Pro和Flash等模型",
+      "结果引发对当前大模型推理泛化能力的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b322d9edbccc5760a107ad995b24171c",
+    "title": "Mathematicians marvel, and grumble, at OpenAI’s trove of new results",
+    "url": "https://www.reddit.com/r/artificial/comments/1x0zwf7/mathematicians_marvel_and_grumble_at_openais/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-08T19:14:27+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x0zwf7/mathematicians_marvel_and_grumble_at_openais/\"> <img alt=\"Mathematicians marvel, and grumble, at OpenAI’s trove of new results\" src=\"https://external-preview.redd.it/rDD025PhLKIB5DiO9ttk1ThYMpyroOcgDaMANq5SEGU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4650ee49e01611269ce7a1b94c21733c71c52361\" title=\"Mathematicians marvel, and grumble, at OpenAI’s trove of new results\" /> </a> </td><td> &#32; submitted by &#32;",
+    "title_zh": "数学家对OpenAI大量新成果惊叹又抱怨",
+    "summary_zh": "OpenAI发布了一批新的数学研究成果，在数学界引起轰动。学者们对其成果感到惊叹，同时也抱怨研究细节不够透明，缺乏可复现性，引发了对AI在纯数学领域应用的讨论。",
+    "key_points": [
+      "OpenAI发布大量数学新成果，令学界惊叹",
+      "数学家批评其研究缺乏透明度和可复现性",
+      "引发AI在纯数学领域应用价值的热议"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "70027ac8cca0acb0f85c8737bd931928",
+    "title": "AI Agent Gaming Tournament - hosted by UCLA Trustworthy AI Lab w/ prize pool [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x0zlys/ai_agent_gaming_tournament_hosted_by_ucla/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-08T19:03:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>UCLA’s Trustworthy AI Lab is running a tournament on October 16 where AI agents compete in Pokémon Showdown, Werewolf, Red Alert, and Honor of Kings. It’s open to everyone, including remote participants, with a $5,000 total prize pool secured tjis far and support from Oracle, Replit, Matcherino, among other sponsors.</p> <p>The games run on AltruAgent, a platform the lab developed for agents to play against each other. You can bring your own agent and connect it",
+    "title_zh": "UCLA可信AI实验室举办AI智能体游戏锦标赛",
+    "summary_zh": "加州大学洛杉矶分校可信AI实验室将举办AI智能体锦标赛，比赛项目包括宝可梦对战、狼人杀等，总奖金池5000美元，面向包括远程参与的所有人开放。",
+    "key_points": [
+      "UCLA举办AI智能体游戏锦标赛，总奖金5000美元",
+      "比赛项目包括宝可梦对战、狼人杀、王者荣耀等",
+      "赛事面向所有人开放，包含远程参与方式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fe1b1fcbbc9a7a6e78d904fff25633a3",
+    "title": "Industry professional new to research seeking help with OpenReview activation and vouching [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x0z2ic/industry_professional_new_to_research_seeking/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-08T18:43:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I’m an industry professional working in data platform engineering, and I’m just getting started in research. I tried creating an OpenReview account, but my profile is awaiting activation.</p> <p>OpenReview asked me to have a supervisor, coauthor, or colleague with an active profile and a confirmed institutional email vouch for me. The process involves adding my profile ID to their profile’s <strong>Relations</strong> section, saving it, and c",
+    "title_zh": "行业新人求助：OpenReview账号激活与担保问题",
+    "summary_zh": "一位数据平台工程领域的行业人士初入研究，在OpenReview创建账户时遇到激活问题，平台要求提供导师或合著者担保，用户因此发文求助社区。",
+    "key_points": [
+      "行业新人转向学术研究时遇到平台门槛问题",
+      "OpenReview要求新人激活账户需导师或合著者担保",
+      "反映了行业从业者进入学术圈的流程障碍"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d20ef6d9bc50893f7b9b5b6fe435876c",
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-08T18:20:32+00:00",
+    "content_snippet": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+    "title_zh": "本·阿弗莱克变身AI极客，网友直呼厉害",
+    "summary_zh": "演员本·阿弗莱克因展示出对神经网络、Transformer及开放权重等AI技术的深入了解而走红网络。他今年早些时候已将AI电影制作初创公司出售给Netflix。",
+    "key_points": [
+      "阿弗莱克展示深度AI知识，涵盖神经网络和Transformer",
+      "其AI电影制作公司今年初已出售给Netflix",
+      "事件引发公众对名人跨界AI领域的关注"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "494307aa9111eef189fbcf22ce8a7a52",
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-08T18:19:45+00:00",
+    "content_snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+    "title_zh": "知名AI排行榜Arena估值10个月内近乎翻倍至31亿美元",
+    "summary_zh": "LMArena排行榜背后的公司完成2亿美元融资，由光速创投和Khosla领投，估值飙升至31亿美元。该平台已扩展至评估AI模型在撒谎等对齐问题上的表现。",
+    "key_points": [
+      "LMArena公司获2亿美元融资，估值达31亿美元",
+      "由光速创投和Khosla Ventures领投",
+      "平台扩展评估范围至模型说谎等对齐问题"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c48d7960551d8f367d2e147889459e81",
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-08T18:19:42+00:00",
+    "content_snippet": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+    "title_zh": "OpenAI实际收入据报道比预期低200亿美元",
+    "summary_zh": "此前有报道称OpenAI年化收入约700亿美元，但最新报告指出其实际收入远低于此，差值高达200亿美元，引发行业对其商业化进展和估值的重新审视。",
+    "key_points": [
+      "OpenAI实际年化收入被指远低于此前报道的700亿",
+      "收入落差高达200亿美元，引发市场对其商业化的质疑",
+      "报告动摇了外界对OpenAI超高估值的信心"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ceca2e2c1a06a203a669ab1ef73aacf4",
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-08T18:18:00+00:00",
+    "content_snippet": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+    "title_zh": "谷歌将智能体AI引入Gemini，率先向企业开放",
+    "summary_zh": "谷歌宣布将Gemini升级为AI智能体，具备规划、执行任务及跨应用协同工作能力。该智能体可委派子任务、调用不同模型，并将获得包括电子邮箱在内的独立工作身份。",
+    "key_points": [
+      "Gemini升级为可规划执行跨应用任务的AI智能体",
+      "支持委派子任务、调用多模型，并拥有独立数字身份",
+      "新功能率先面向企业用户推出"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ee15877c72fcf109954dffcd1db35aaf",
+    "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+    "url": "https://www.reddit.com/r/artificial/comments/1x0ydf8/anthropic_bans_abusive_or_cruel_behavior_toward/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-08T18:17:36+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x0ydf8/anthropic_bans_abusive_or_cruel_behavior_toward/\"> <img alt=\"Anthropic bans ‘abusive or cruel behavior’ toward Claude\" src=\"https://external-preview.redd.it/OQ9yUu8CGHLjZxpbX1IYV44Ew3d76COOT8datYO4bq4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=971cca184df17e7822985f9bd594c701e7ea3491\" title=\"Anthropic bans ‘abusive or cruel behavior’ toward Claude\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www",
+    "title_zh": "Anthropic禁止用户对Claude实施“虐待或残忍行为”",
+    "summary_zh": "Anthropic更新其使用政策，明确禁止用户重复虐待Claude等极端行为，但普通的不满和批评仍被允许。新规旨在制止针对AI模型的恶意骚扰。",
+    "key_points": [
+      "新政策禁止用户对Claude模型实施极端虐待行为",
+      "普通批评和不满仍被允许，政策区分使用情境",
+      "为行业处理用户与AI交互伦理提供了案例"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "80297d65bd412af6692e4245608a9796",
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-08T18:16:24+00:00",
+    "content_snippet": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+    "title_zh": "Anthropic更新使用政策，禁止模型滥用和选举干预",
+    "summary_zh": "Anthropic正式更新使用条款，不仅针对极端情况下反复虐待模型的行为，还新增了对选举干预、欺骗性宣传、武器软件及监控等行为的明确禁令，强化负责任的AI使用准则。",
+    "key_points": [
+      "新政策明确禁止模型滥用、选举干预和欺骗性宣传",
+      "条款还涵盖禁止开发武器软件及监控相关应用",
+      "Anthropic进一步收紧Claude的使用伦理红线"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
