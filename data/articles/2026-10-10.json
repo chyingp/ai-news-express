@@ -498,5 +498,32 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a3df71fe1b96cee9bdd2c6cd79c96dec",
+    "title": "I ran out of Claude Code tokens and had to finish my project with ChatGPT. I was genuinely surprised.",
+    "url": "https://www.reddit.com/r/artificial/comments/1x1rqpe/i_ran_out_of_claude_code_tokens_and_had_to_finish/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-09T17:39:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been using Claude Code for a long time, and I honestly got used to thinking that no other AI could handle my project quite as well.</p> <p>Then I ran out of tokens while I still had work left to do.</p> <p>I switched to ChatGPT with my existing subscription, but I wasn't expecting much. I was worried about whether it could understand the existing codebase and continue the work without making a mess.</p> <p>To my surprise, it handled the remaining tasks smoo",
+    "title_zh": "我用完了Claude Code的token，被迫用ChatGPT完成项目，结果让我很意外",
+    "summary_zh": "一位长期使用Claude Code的开发者，在token用完后，被迫转向ChatGPT完成剩余工作。这次意外的切换让他对ChatGPT的表现感到惊讶，改变了他原本认为只有Claude能处理好其项目的看法。",
+    "key_points": [
+      "开发者因Claude Code token耗尽被迫转向ChatGPT",
+      "ChatGPT的表现出乎意料地好，改变了用户的固有印象",
+      "这次对比体验展示了不同AI编程工具的实际能力差距可能正在缩小"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
