@@ -1218,5 +1218,150 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f25025c9810660835338fb734fdb567f",
+    "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+    "url": "https://www.qbitai.com/2026/10/502096.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-10-09T02:03:48+00:00",
+    "content_snippet": "让AI反复试错的“练兵场”来了",
+    "title_zh": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+    "summary_zh": "AgentGarten 打造了一个允许 AI 智能体反复试错、实时交互的虚拟训练环境，旨在提升智能体在复杂任务中的适应与进化能力。",
+    "key_points": [
+      "AgentGarten 提供可交互的实时虚拟试炼场供 AI 训练",
+      "通过反复试错机制提升智能体复杂任务处理能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3a08645786b3bccb90303f34c3fa7417",
+    "title": "OpenAI rolls out GPT-6 with Intelligent UI — ChatGPT answers can now include interactive tools",
+    "url": "https://www.reddit.com/r/artificial/comments/1x17pdr/openai_rolls_out_gpt6_with_intelligent_ui_chatgpt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-09T00:46:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>OpenAI started rolling out GPT-6 with Intelligent UI in ChatGPT this week. Instead of plain text, answers can now include interactive charts, forms, and mini tools — a savings calculator, a bill splitter, a road-trip map — generated right inside the conversation.</p> <p>It is a small but exciting shift: software that adapts to your task instead of you having to learn the software.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/",
+    "title_zh": "OpenAI 推出 GPT-6 智能交互界面，ChatGPT 回复可嵌入交互工具",
+    "summary_zh": "OpenAI 本周开始在 ChatGPT 中推送 GPT-6 智能 UI，回复不再局限于纯文本，可自动生成交互式图表、计算器、旅行地图等实用工具。",
+    "key_points": [
+      "GPT-6 新增智能 UI 功能，可在对话中生成交互式工具",
+      "支持图表、账单分摊计算器、路书地图等内嵌应用"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ae9e127c4ad4bba9f1614d87e08b4e73",
+    "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+    "url": "https://www.qbitai.com/2026/10/502089.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-10-09T00:35:57+00:00",
+    "content_snippet": "彻底撕破脸了",
+    "title_zh": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+    "summary_zh": "以陶哲轩为首的人类数学家群体公开抗议 OpenAI，因其在数学领域的某些行为引发学术界强烈不满，双方矛盾彻底激化。",
+    "key_points": [
+      "陶哲轩率领数学家群体公开联合抵制 OpenAI",
+      "矛盾因 OpenAI 在数学领域的争议行为而彻底爆发"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "af6355163a20cb0303f61d3774136581",
+    "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+    "url": "https://www.qbitai.com/2026/10/502083.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-10-09T00:16:56+00:00",
+    "content_snippet": "新的“缝合怪”已经出现，怎么能够停滞不前",
+    "title_zh": "不等 Gemini 4 了！谷歌发布办公 Agent，支持调用 Claude",
+    "summary_zh": "谷歌未待 Gemini 4 发布即先行推出新型办公 AI 代理，该工具罕见地支持调用竞争对手 Anthropic 的 Claude 模型，打造跨模型协作体验。",
+    "key_points": [
+      "谷歌发布办公 Agent，先于其自家 Gemini 4 模型推出",
+      "新工具支持调用 Anthropic 的 Claude 模型进行跨模型协作"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "080bc68c6b7396568810d41df6e00b3c",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-09T00:08:24+00:00",
+    "content_snippet": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
+    "title_zh": "圆桌对话：与 AI 设计病毒的创造者对谈",
+    "summary_zh": "斯坦福大学博士生 Samuel King 使用生成式 AI 模型提出了微观病毒的基因蓝图，这一探索引发了关于 AI 能否设计新生命体的深刻讨论。",
+    "key_points": [
+      "研究者利用生成式 AI 设计出微观病毒的基因蓝图",
+      "成果引发对 AI 创造新生命体可能性的伦理探讨"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e0a00e06b1f0ea00c3d45d984493774e",
+    "title": "New AI can reconstruct what you’re looking at by reading brain activity",
+    "url": "https://www.reddit.com/r/artificial/comments/1x16wiz/new_ai_can_reconstruct_what_youre_looking_at_by/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-09T00:06:39+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x16wiz/new_ai_can_reconstruct_what_youre_looking_at_by/\"> <img alt=\"New AI can reconstruct what you’re looking at by reading brain activity\" src=\"https://external-preview.redd.it/PRL3-I9jRdrsI86RrITONR7mwaevJcZ11Km58YnbFv4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f51617850929b606edf7ea18b1c7fafd075ff5dc\" title=\"New AI can reconstruct what you’re looking at by reading brain activity\" /> </a> </td><td> <!-- SC_OFF --><",
+    "title_zh": "新 AI 技术可通过读取大脑活动重建你所见画面",
+    "summary_zh": "研究人员开发出一项新的 AI 技术，能够通过分析大脑活动信号来重建人眼正在注视的图像，在脑机接口领域取得新进展。",
+    "key_points": [
+      "AI 通过读取脑活动信号成功重建视觉画面",
+      "该技术为脑机接口与视觉解码研究带来新突破"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
