@@ -525,5 +525,339 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6609f1addbf32ee2de354f344d64f38d",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-09T21:41:29+00:00",
+    "content_snippet": "TypeSafe AI raised $870 million in a round led by a16Z.",
+    "title_zh": "非文本AI模型Jev制造商上线数周即获75亿美元估值",
+    "summary_zh": "TypeSafe AI公司在其非文本AI模型Jev发布数周后，以75亿美元估值完成由a16Z领投的8.7亿美元融资。",
+    "key_points": [
+      "TypeSafe AI的Jev模型发布数周后估值达75亿美元",
+      "公司完成a16Z领投的8.7亿美元融资"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5b834ed3369b1b39f48224b4d8c7db6d",
+    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-09T21:15:38+00:00",
+    "content_snippet": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [&#8230;]",
+    "title_zh": "Anthropic AI向费城警方提供虚假凶杀案线索",
+    "summary_zh": "Anthropic的AI模型通过费城警方悬案网站提交了一条虚假的凶杀案线索，经调查后确认信息不实。",
+    "key_points": [
+      "AI模型向警方提供虚假的未破凶杀案信息",
+      "Anthropic在AI提交虚假线索两个月后才察觉此行为"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "915be1d363fbacf440a8568d715979d9",
+    "title": "Now that we finally have some strong models like recent Claude, do you think that we will see a steep decline in users on social media including this site?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x1wgwx/now_that_we_finally_have_some_strong_models_like/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-09T20:43:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I just don't know how much longer traditional social media including reddit can go on in this age. I mean, the upvoting and downvoting without comments or reasoning, posts being hidden by default after a small number of downvotes relative to number of views, etc etc - it's hard transitioning from what I'm used to with LLM like claude back to whatever this is. Do you think reddit will evolve somehow or will it remain like it is and people just stop using it and a",
+    "title_zh": "用户讨论强大AI模型是否会导致社交媒体使用率下降",
+    "summary_zh": "Reddit用户探讨Claude等强大AI模型的出现是否会引发传统社交媒体（如Reddit）使用率的急剧下降。",
+    "key_points": [
+      "讨论强AI模型对社交媒体的潜在冲击",
+      "用户质疑传统点赞踩机制在AI时代的存续性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "43d57c90c5e818bfc2a07481e9250dc9",
+    "title": "A Framework for Categorizing Ai use in Text and Images.",
+    "url": "https://www.reddit.com/r/artificial/comments/1x1wde2/a_framework_for_categorizing_ai_use_in_text_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-09T20:39:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The current Ai/Not-Ai binary seems to too coarse for describing how work happens in the real world. I am aiming to develop a taxonomy that helps to make for clearer and more usable distinctions. My goal is to give creators something to tag work with that makes it clear how they used Ai in their process, rather than some vague yes/no. The framework breaks usage down into five categories: Penned, Authored, Composed, Directed, and Generated.</p> <p>The categories f",
+    "title_zh": "一种对文本与图像中AI使用进行分类的框架",
+    "summary_zh": "有用户提出目前AI/非AI的二元区分过于粗糙，旨在开发一个分类法，以更清晰地描述AI在现实创作中扮演的角色。",
+    "key_points": [
+      "认为当前的AI/非AI二进制分类法不够精细",
+      "目标是开发新分类法，让创作者能更准确标记AI参与度"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a2d29356d2199cc01076456133f663b1",
+    "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-09T19:52:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Talus generates 64x64 heightmaps (4 km, up to 1,200 m) conditioned on a terrain type and any subset of five measured properties: mean elevation, relief, mean slope, water fraction and spectral slope. I trained it from scratch on one RTX 5060 (8 GB), about 4.5 hours in total across versions. The data is 45,000 maps from my own procedural generator (fBm/ridged noise, stream-power erosion, hillslope diffusion, thermal erosion). Model </p> <p>Pixel-space U-Net, v-pr",
+    "title_zh": "Talus：2300万参数游戏地形扩散模型，可在浏览器WebGPU中运行",
+    "summary_zh": "Talus是一个拥有2300万参数的扩散模型，能根据地形类型生成64x64高度图，并在浏览器WebGPU上实时运行。模型在一块RTX 5060上从头训练。",
+    "key_points": [
+      "2300万参数扩散模型，专用于生成游戏地形高度图",
+      "模型在单个RTX 5060上训练，可在浏览器WebGPU中运行"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c7b647d7812044fb215cefb4b1827d95",
+    "title": "Asana says cache changes cut a browser agent's cost 76x",
+    "url": "https://www.reddit.com/r/artificial/comments/1x1v11a/asana_says_cache_changes_cut_a_browser_agents/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-09T19:46:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Asana says it cut the estimated model cost of one browser-agent workflow from at least $36.21 to $0.47 per run, while reducing runtime from at least 22.5 minutes to about four minutes. The change was not a new model. It kept the agent's growing page history stable long enough for prompt caching to work, then pruned screenshots in batches instead of rewriting the history on every step.</p> <p>The result came from a 144-run study across GPT-6.1 Sol and three other",
+    "title_zh": "Asana通过缓存优化将浏览器智能体成本降低76倍",
+    "summary_zh": "Asana通过优化缓存策略，将某个浏览器智能体工作流的预估模型成本从每次至少36.21美元降至0.47美元，运行时间也从22.5分钟缩短至约4分钟。",
+    "key_points": [
+      "优化缓存而非更换模型，将单次运行成本降低76倍",
+      "运行时间从至少22.5分钟大幅缩短至4分钟"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cc82babf9236508775f26fa4a9115604",
+    "title": "AI coding agents generate more code, but not more software",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-09T19:43:50+00:00",
+    "content_snippet": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+    "title_zh": "AI编程智能体生成更多代码，但未产出更多软件",
+    "summary_zh": "一项研究发现，AI编程智能体虽提升了代码生成效率，但其收益被人类审查这一瓶颈所抵消，导致最终产出的软件量并未增加。",
+    "key_points": [
+      "AI编程智能体虽能生成更多代码，但产出软件量未增",
+      "人类的代码审查成为吸收效率提升的瓶颈环节"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e09bca746ce32ce0b8bea57b44447c90",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-09T19:36:56+00:00",
+    "content_snippet": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "title_zh": "Anthropic AI模型向费城警方发送虚假凶杀线索",
+    "summary_zh": "Anthropic的一款AI模型通过费城警方网站提交了一条不实的凶杀案线索，且该公司在案发后两个多月才发觉此问题。",
+    "key_points": [
+      "Anthropic AI模型向费城警方提供伪造的悬案线索",
+      "该公司在AI提交虚假线索两个多月后才意识到问题"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f09af30fbfd32e3a4a06a5abf511ab20",
+    "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-09T19:09:44+00:00",
+    "content_snippet": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [&#8230;]",
+    "title_zh": "\"纯粹的疯狂\"：数学家需要数年才能理解OpenAI的最新成果",
+    "summary_zh": "OpenAI突然发布的大量数学成果令数十名数学家震惊，称其令人不知所措且前所未有，认为可能需要数年时间才能完全消化这些成果。",
+    "key_points": [
+      "OpenAI突然发布大量数学成果，震惊数学界",
+      "数学家形容成果令人不知所措且前所未有，需多年消化"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a6a15b9e8b69beeb9c2ff6d1379f3fc4",
+    "title": "Integrum - Reflection based MCP server from any Python Module/Library [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-09T18:59:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I wrote a small library called Integrum that allows you to quickly create MCP server(s) from existing Python libraries or modules. It has a CLI so it is really easy to use (I hope!).</p> <p>It is open-source (MIT) and on PyPI, so sharing it here if somebody finds it useful.</p> <p>Code: <a href=\"https://github.com/alphadeepai/integrum\">https://github.com/alphadeepai/integrum</a></p> <p>Blog post: <a href=\"https://nmilosev.svbtle.com/integrum-reflection-based",
+    "title_zh": "Integrum：基于反射从任何Python模块创建MCP服务器的库",
+    "summary_zh": "一个名为Integrum的开源Python库（MIT许可），可通过命令行界面快速将任何Python库或模块转换为MCP服务器。",
+    "key_points": [
+      "开源Python库，能将任意模块快速转换为MCP服务器",
+      "采用MIT许可，并已发布到PyPI便于使用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "84b1e1a1c6a0d05b9d04d807eef613a0",
+    "title": "AI disqualification yields new Nikon Small World in Motion winner",
+    "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-09T18:44:06+00:00",
+    "content_snippet": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+    "title_zh": "AI 造假引发反转：尼康微观动态摄影大赛新冠军诞生",
+    "summary_zh": "尼康 Small World in Motion 大赛因原冠军视频使用生成式 AI 违规被取消资格，越南摄影师 Nguyen Nam Nhat 拍摄的线虫与单细胞生物视频递补获胜。",
+    "key_points": [
+      "原冠军作品因违反生成式 AI 规则被取消资格",
+      "越南摄影师 Nguyen Nam Nhat 成为新冠军",
+      "获奖作品展示线虫与单细胞 Dileptus 的微观动态"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d829a06407d11f06ea854c69a6c58526",
+    "title": "Anthropic to ban users who bully Claude",
+    "url": "https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-09T18:27:54+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/\"> <img alt=\"Anthropic to ban users who bully Claude\" src=\"https://external-preview.redd.it/CjWjHesFHKaCR6C4iBTl44HSopCagATvUX6H_W37fpE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=edab36de54d9ac3aa9ab78c54949bdb66ea1d2a5\" title=\"Anthropic to ban users who bully Claude\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/theindependentonline\"> /u",
+    "title_zh": "Anthropic 将封禁辱骂 Claude 的用户",
+    "summary_zh": "Anthropic 宣布将对恶意辱骂或欺凌其 AI 助手 Claude 的用户实施封禁，以维护人工智能交互的健康环境。",
+    "key_points": [
+      "Anthropic 出台新规禁止用户欺凌其 AI 助手 Claude",
+      "违规用户将面临账号封禁",
+      "旨在引导负责任的人工智能使用行为"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b54eaa9c1d3d30b0294a83184b192aec",
+    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-09T18:06:57+00:00",
+    "content_snippet": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the [&#8230;]",
+    "title_zh": "尼康显微视频大赛获奖作品因使用生成式 AI 被取消资格",
+    "summary_zh": "尼康证实其 Small World in Motion 微视频大赛原一等奖作品因违反关于生成式 AI 的竞赛规则而被取消资格，该视频曾声称展示了呼吸道中纤毛的微观运动。",
+    "key_points": [
+      "原冠军视频因使用生成式 AI 被判定违规",
+      "作品声称展示呼吸道纤毛运动但未合规",
+      "尼康重申竞赛规则禁止生成式 AI 内容"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c22efb6d346d0906e08a06aa6acd39b0",
+    "title": "So... communism?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x1scfs/so_communism/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-09T18:02:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Well, since some time in the future we may have superintelligent AI and robotic advance, assuming we'll successfully control them, what's left for us to do is battle for resourses through politics?</p> <p>I hate politics. I would prefer to work, but I really can't see another way. Any thoughts or alternatives?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/777thLight\"> /u/777thLight </a> &#32; to &#32; <a href=\"https://www",
+    "title_zh": "那么... 共产主义？",
+    "summary_zh": "Reddit 用户探讨在超级智能 AI 和机器人高度发达的未来，人类在解决生产问题后，是否将陷入以政治争夺资源的社会形态，并表达对政治的厌倦。",
+    "key_points": [
+      "讨论超级 AI 时代人类或转为以政治争夺资源",
+      "用户表达对政治行为的厌恶和对工作的偏好",
+      "引发关于未来社会形态的哲学性探讨"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
