@@ -1363,5 +1363,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7588b4a0db404584f30d9390e80f312c",
+    "title": "USA TODAY sues OpenAI over training on 19 publications",
+    "url": "https://www.reddit.com/r/artificial/comments/1x1b3dh/usa_today_sues_openai_over_training_on_19/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-09T03:38:47+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x1b3dh/usa_today_sues_openai_over_training_on_19/\"> <img alt=\"USA TODAY sues OpenAI over training on 19 publications\" src=\"https://external-preview.redd.it/bEe08D1NnOnqmFn_WZ1PnaTrTvZmDNcxVkchNlkbHXQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=77cc6958956de856846cea7198c2ff86673f8b05\" title=\"USA TODAY sues OpenAI over training on 19 publications\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.co",
+    "title_zh": "USA TODAY 起诉 OpenAI 使用其 19 家出版物进行训练",
+    "summary_zh": "美国知名报业集团 USA TODAY 正式对 OpenAI 提起诉讼，指控其在未经授权的情况下，使用了该集团旗下 19 家出版物的内容来训练其人工智能模型。",
+    "key_points": [
+      "USA TODAY 指控 OpenAI 未经授权使用其新闻内容训练 AI 模型",
+      "诉讼涉及该报业集团旗下 19 家出版物"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e651101b6c8326c20109ca1d50c9203d",
+    "title": "OpenAI's revenue is reportedly $20 billion less than previously projected",
+    "url": "https://www.reddit.com/r/artificial/comments/1x1b33p/openais_revenue_is_reportedly_20_billion_less/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-09T03:38:23+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x1b33p/openais_revenue_is_reportedly_20_billion_less/\"> <img alt=\"OpenAI's revenue is reportedly $20 billion less than previously projected\" src=\"https://external-preview.redd.it/NQVSOFH4k3fDm0YLJ7DHLkpXlBmRUu8vNA8cNVlJHyQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=10bdb96c9f9caf93a4f1bf5c76286d728873db39\" title=\"OpenAI's revenue is reportedly $20 billion less than previously projected\" /> </a> </td><td> &#32; submitt",
+    "title_zh": "报道称 OpenAI 实际收入比此前预期低 200 亿美元",
+    "summary_zh": "最新报道披露，人工智能公司 OpenAI 的营收状况可能不及早先的乐观预测，其实际收入比之前预估的数字低了 200 亿美元，引发市场对其商业模式的关注。",
+    "key_points": [
+      "OpenAI 营收数据远低于预期，差值高达 200 亿美元",
+      "此差距引发外界对其盈利能力和高昂运营成本的担忧"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
