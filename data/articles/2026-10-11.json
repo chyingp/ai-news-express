@@ -46,5 +46,127 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "cd4de97fd64d52957297f14415dce903",
+    "title": "A Florida local newspaper ran an op-ed. It was an Iranian AI fake.",
+    "url": "https://www.reddit.com/r/artificial/comments/1x2nvth/a_florida_local_newspaper_ran_an_oped_it_was_an/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-10T19:31:54+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x2nvth/a_florida_local_newspaper_ran_an_oped_it_was_an/\"> <img alt=\"A Florida local newspaper ran an op-ed. It was an Iranian AI fake.\" src=\"https://external-preview.redd.it/dFl-nnfLzmVsPpMcsYel_3tb0ZABohWl6CkCHJBPlzk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=810c907a4ee992e24fe9f177154f6422fa581709\" title=\"A Florida local newspaper ran an op-ed. It was an Iranian AI fake.\" /> </a> </td><td> &#32; submitted by &#32; ",
+    "title_zh": "美国佛州地方报纸刊登评论文章，实为伊朗AI伪造",
+    "summary_zh": "美国佛罗里达州一家地方报纸刊登的一篇观点文章被发现是伊朗方面利用人工智能技术伪造的虚假内容，引发对AI生成信息干扰地方舆论的担忧。",
+    "key_points": [
+      "地方报纸不慎刊登伊朗AI生成的虚假评论文章",
+      "事件凸显AI生成内容对地方新闻和舆论的潜在威胁",
+      "案例引发对AI虚假信息检测与防范的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e02e230dc2a64efe2ef432f639ef7739",
+    "title": "Anthropic AI model sent fake homicide tip to Philadelphia police",
+    "url": "https://www.reddit.com/r/artificial/comments/1x2nlwy/anthropic_ai_model_sent_fake_homicide_tip_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-10T19:20:02+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x2nlwy/anthropic_ai_model_sent_fake_homicide_tip_to/\"> <img alt=\"Anthropic AI model sent fake homicide tip to Philadelphia police\" src=\"https://external-preview.redd.it/pdr6gsgrusrRxnE48ndrSBEKYGYHkiL8EFrRJe65DIw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3e0a944f326a3dd693e5ab8628e5b3e9a6b8208a\" title=\"Anthropic AI model sent fake homicide tip to Philadelphia police\" /> </a> </td><td> &#32; submitted by &#32; <a href",
+    "title_zh": "Anthropic的AI模型向费城警方发送虚假命案线索",
+    "summary_zh": "Anthropic公司的人工智能模型被发现向费城警方发送了一条虚假的命案举报信息，这引发了关于AI系统可能被滥用或产生有害虚假信息的重大安全担忧。",
+    "key_points": [
+      "Anthropic的AI模型生成了虚假的凶杀案举报信息",
+      "事件凸显AI系统可能制造和传播严重虚假信息的风险",
+      "引发对AI安全性和被恶意利用的深切担忧"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6cf45b6f27cad9cd00972f14735123d1",
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-10T18:52:07+00:00",
+    "content_snippet": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that [&#8230;]",
+    "title_zh": "DistroKid因环球音乐诉讼悄然下架歌曲",
+    "summary_zh": "音乐发行公司DistroKid被曝在未通知艺人的情况下删除了部分作品，公司已证实此举是对环球音乐集团（UMG）指控其存在大规模侵权歌曲的诉讼的直接回应。",
+    "key_points": [
+      "DistroKid为应对UMG的侵犯版权诉讼，在无通知情况下下架歌曲",
+      "此举引发众多艺人在社交媒体上投诉其作品被无故移除",
+      "事件反映了音乐版权与分发平台间愈演愈烈的法律冲突"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7e780b1cb1ad61123a8c89f8d8d0371",
+    "title": "Super Micro case 'fixer' pleads guilty to sending AI servers to China",
+    "url": "https://www.reddit.com/r/artificial/comments/1x2mxpx/super_micro_case_fixer_pleads_guilty_to_sending/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-10T18:51:51+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x2mxpx/super_micro_case_fixer_pleads_guilty_to_sending/\"> <img alt=\"Super Micro case 'fixer' pleads guilty to sending AI servers to China\" src=\"https://external-preview.redd.it/12hlLlk5oWTWDG6IRvpyYLNr3Gv3bsJdecOoz48akrI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa93fb7c92d39fe8c49dc477d26085c323d582ee\" title=\"Super Micro case 'fixer' pleads guilty to sending AI servers to China\" /> </a> </td><td> &#32; submitted by ",
+    "title_zh": "超微电脑案“中间人”承认向中国非法运送AI服务器",
+    "summary_zh": "涉及超微电脑（Super Micro）案件的一名“中间人”已认罪，其罪名是非法将人工智能服务器运往中国，该案与美国对华高端芯片出口管制政策密切相关。",
+    "key_points": [
+      "涉案“中间人”承认违反出口管制，向中国运送AI服务器",
+      "该案件紧密关联美国对华高端芯片和AI技术的限制政策",
+      "事件凸显了AI硬件领域地缘政治竞争的加剧"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bb6d377018d28cba125690211fa0fbfb",
+    "title": "I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-10T18:08:33+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/\"> <img alt=\"I Built a O(NlogN) attention system that retains 97% accuracy over long context (MQAR)[P]\" src=\"https://external-preview.redd.it/zVOPn_mNnDJX1JYwwkAFVvoaRxIz-xqSHTWymSih1MY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=beb6f8279ccc7f34963604a3f8d155247380823d\" title=\"I Built a O(NlogN) attention system that retains 97% accuracy over long context (M",
+    "title_zh": "我构建了一个O(NlogN)注意力系统，长期上下文准确率达97%",
+    "summary_zh": "一个名为MQAR的注意力系统被开发出来，其计算复杂度为O(NlogN)，在处理长上下文任务时能够保持97%的准确性，这为优化大规模语言模型效率提供了新思路。",
+    "key_points": [
+      "新注意力系统实现了O(NlogN)的计算效率",
+      "在处理长文本上下文时仍能保持97%的高准确率",
+      "该研究有望显著提升大语言模型的推理效率"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
