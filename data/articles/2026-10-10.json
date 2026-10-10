@@ -1029,5 +1029,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7efee21e0a6f824179445b62e3711ffa",
+    "title": "AI and mathematics",
+    "url": "https://www.reddit.com/r/artificial/comments/1x24m7r/ai_and_mathematics/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-10T03:09:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI and mathematics</p> <p>So I have been following the recent release of the mathematical proofs by openai, and in particular this discussion about how the real value in mathematics is not the truth of a result but rather the proof, the understanding to be gained from it, and the development of new mathematical ideas. I'm sympathetic to the point being made, but there's a disconnect to me, and I'm interested in how this point might be addressed by those who enga",
+    "title_zh": "AI与数学",
+    "summary_zh": "文章讨论了OpenAI最近发布的数学证明相关成果，并探讨了数学的真正价值不在于结果的正确性，而在于证明过程和从中获得的理解。",
+    "key_points": [
+      "OpenAI发布数学证明相关新成果",
+      "讨论焦点在于数学证明与理解的价值"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c42116642665b63444b7a275a7e67cd9",
+    "title": "DHH: Staff engineer at 33 — I spent 10 years becoming the bottleneck. Agents erased it in December.",
+    "url": "https://www.reddit.com/r/artificial/comments/1x24i6d/dhh_staff_engineer_at_33_i_spent_10_years/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-10T03:03:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x24i6d/dhh_staff_engineer_at_33_i_spent_10_years/\"> <img alt=\"DHH: Staff engineer at 33 — I spent 10 years becoming the bottleneck. Agents erased it in December.\" src=\"https://external-preview.redd.it/aW54ZXQxeGsya3VoMeyNZS8-Q9loLuAgi9GqpZqv7mnYmMjBRcTqKwirTz6y.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a642e9938e8e8f1b4f1501ea00f5debb35fa0c58\" title=\"DHH: Staff engineer at 33 — I spent 10 years becoming the bottleneck",
+    "title_zh": "DHH：33岁资深工程师，十年成为瓶颈，AI智能体在12月将其消除",
+    "summary_zh": "Ruby on Rails创始人DHH分享经历，称自己花了10年成为项目瓶颈，但AI智能体在12月解决了这个问题，从根本上改变了他的工作方式。",
+    "key_points": [
+      "DHH分享十年资深经验最终成为项目瓶颈",
+      "AI智能体在12月帮助其消除开发瓶颈"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
