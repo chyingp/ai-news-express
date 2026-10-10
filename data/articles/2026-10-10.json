@@ -1077,5 +1077,149 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "857cebcc67e3dc88fcd02d6b45cf991a",
+    "title": "OpenAI's text watermark can't prove you didn't write something. I built a lab where you can watch it die.",
+    "url": "https://www.reddit.com/r/artificial/comments/1x2a240/openais_text_watermark_cant_prove_you_didnt_write/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-10T08:28:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>OpenAI's textGrain is their answer to the EU AI Act's provenance rule (Article 50(2)): an invisible statistical watermark woven into word choices, detectable only with their secret key.</p> <p>The unusual part is they published the failure curve with the launch. Swap 10% of words for synonyms and detection falls from 92% to 66%. Swap 25% and it falls to 17%. Math and short passages barely watermark at all.</p> <p>I wrote an interactive explainer with an attack l",
+    "title_zh": "OpenAI 的文本水印无法证明你是否亲自写作：一个实验室揭秘",
+    "summary_zh": "文章探讨 OpenAI 为符合欧盟 AI 法案而推出的 textGrain 文本水印技术，指出其难以证明文本非人类所写，作者甚至搭建实验室展示该水印的失效过程。",
+    "key_points": [
+      "OpenAI 发布 textGrain 水印以符合欧盟 AI 法案来源规则",
+      "水印依赖秘密密钥检测，但已公布失败曲线",
+      "作者搭建实验室验证水印无法可靠证明人类原创性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eb89ffe2d09960c7db15806f9f220d19",
+    "title": "Help With Choosing Hardware [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x29lqj/help_with_choosing_hardware_p/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-10T08:00:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>I am going to fine-tune a satire model, with the base model being `Qwen3.5-14B-Base`. The dataset has ~18000 examples, most of which are pretty long and do not align with the model's internal knowledge (they have incorrect answers to facts), so I needed to do a full fine tune rather than use LoRA. </p> <p>Today, I rented a cloud computer on vast.ai. It had 4x12GB GPUs and 48GB of system RAM, but I feel stupid because it kept running out of memory",
+    "title_zh": "硬件选择求助：微调讽刺模型",
+    "summary_zh": "用户在 Reddit 发帖咨询微调 Qwen3.5-14B 讽刺模型所需硬件，提到数据集包含约 18000 个与模型内部知识不一致的长篇示例。",
+    "key_points": [
+      "用户计划微调 Qwen3.5-14B-Base 作为讽刺模型",
+      "数据集约 18000 长例，内容与模型内部知识不符"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "040c67fe4aa954255f80651bf8622dde",
+    "title": "Boro: NVIDIA's open-source effort for AI-assisted Linux kernel development",
+    "url": "https://www.reddit.com/r/artificial/comments/1x299oz/boro_nvidias_opensource_effort_for_aiassisted/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-10T07:39:49+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x299oz/boro_nvidias_opensource_effort_for_aiassisted/\"> <img alt=\"Boro: NVIDIA's open-source effort for AI-assisted Linux kernel development\" src=\"https://external-preview.redd.it/kxpE8gXXxUHAYRbvhTwrZndwC1fqsZWUzSj_Q4x10R8.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5d34b37ba8273232471a3a38be0ddd9042a0d082\" title=\"Boro: NVIDIA's open-source effort for AI-assisted Linux kernel development\" /> </a> </td><td> &#32; submi",
+    "title_zh": "Boro：NVIDIA 开源 AI 辅助 Linux 内核开发工具",
+    "summary_zh": "NVIDIA 推出名为 Boro 的开源项目，旨在利用人工智能技术辅助 Linux 内核的开发流程，提升内核开发效率。",
+    "key_points": [
+      "NVIDIA 发布开源项目 Boro",
+      "项目专注于 AI 辅助的 Linux 内核开发"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c8429dcd098b0e52689f0ce19ff268fb",
+    "title": "If AI-generated content becomes nearly impossible to distinguish from human-made content, what should the internet change first?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x28kms/if_aigenerated_content_becomes_nearly_impossible/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-10T06:57:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Think reviews, news, school assignments, job applications, online identities, or evidence shared on social media. Would verification systems help, or would they create as many problems as they solve? Which area do you think needs attention first?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OfficalYOUSUMMIT\"> /u/OfficalYOUSUMMIT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> ",
+    "title_zh": "若 AI 生成内容难辨真伪，互联网应率先如何变革？",
+    "summary_zh": "文章发起讨论：当 AI 生成内容与人类创作几乎无法区分时，互联网在评论、新闻、作业等领域的验证系统应如何应对，以及可能带来的问题。",
+    "key_points": [
+      "探讨 AI 内容难辨真伪对互联网的冲击",
+      "涉及评论、新闻、作业、身份等领域的验证需求",
+      "质疑验证系统是解决问题还是制造新麻烦"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f3a76d954359be07752ac353578c45b3",
+    "title": "If an AI agent can take real actions online, what should it never be allowed to do without human approval?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x280n2/if_an_ai_agent_can_take_real_actions_online_what/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-10T06:23:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Recent reporting about AI agents taking unintended actions on government websites got me thinking about where autonomy should stop.</p> <p>It's one thing for an AI to summarize a page or draft a form. It's another for it to submit something, contact an authority, spend money, or trigger a process that affects a real person.</p> <p>Where would you draw the line? Should agents need explicit approval before every external action, or should the restrictions depend o",
+    "title_zh": "若 AI 智能体可在线实操，哪些操作绝不能绕过人类审批？",
+    "summary_zh": "文章就近期 AI 智能体在政府网站上的意外操作展开思考，讨论在允许 AI 自主采取行动时，哪些行为必须始终保留人类审批权。",
+    "key_points": [
+      "AI 智能体在政府网站的非预期操作引发对自主权边界的反思",
+      "核心议题是区分 AI 可自主执行与必须人类审批的操作"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e686fdb062532421e7170466bc0e3301",
+    "title": "Could AI make public forms kinder without making public decisions less human?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x276e5/could_ai_make_public_forms_kinder_without_making/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-10T05:34:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Government forms are often difficult because they are written around institutions instead of people.</p> <p>An AI assistant could explain confusing language, point out missing information, and help someone understand what documents they need. That seems like a genuinely useful application.</p> <p>The risk is that the same system could also become a filter that decides who receives attention and who gets sent away.</p> <p>I like the idea of AI making bureaucracy ",
+    "title_zh": "AI 能让公共表单更人性化，同时不削弱决策人性吗？",
+    "summary_zh": "文章探讨利用 AI 助手解释政府表格中的晦涩语言、提示缺失信息等，以提升用户体验，同时思考如何避免公共决策因此变得非人化。",
+    "key_points": [
+      "AI 可解释表格术语、帮助用户补全信息和准备材料",
+      "核心担忧是 AI 介入是否会影响公共决策的人性化本质"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
