@@ -363,5 +363,57 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c8c5162ad4be199ec6a6ab4dacfa3056",
+    "title": "Microsoft's Satya Nadella says AI models need an 'emergency brake'",
+    "url": "https://www.reddit.com/r/artificial/comments/1x2ycw7/microsofts_satya_nadella_says_ai_models_need_an/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-11T04:00:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x2ycw7/microsofts_satya_nadella_says_ai_models_need_an/\"> <img alt=\"Microsoft's Satya Nadella says AI models need an 'emergency brake'\" src=\"https://external-preview.redd.it/WZLB2jhozHa-ToH90Is3_DKh3wU3pHRVklU2jyyQ2KQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d6127b7dc662ae5e072ecc24dde0135cde7da81\" title=\"Microsoft's Satya Nadella says AI models need an 'emergency brake'\" /> </a> </td><td> &#32; submitted by &#32; <",
+    "title_zh": "微软CEO纳德拉：AI模型需要'紧急刹车'机制",
+    "summary_zh": "微软首席执行官萨提亚·纳德拉表示，人工智能模型需要配备'紧急刹车'等安全控制措施，以应对潜在风险。这一表态反映了科技巨头在推进AI发展的同时，对安全治理的日益重视。",
+    "key_points": [
+      "微软CEO纳德拉强调AI模型需内置'紧急刹车'等安全机制",
+      "该表态凸显大型科技公司在AI安全与治理方面的立场",
+      "观点发表于2026年10月，反映业界对AI风险控制的持续讨论"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fd51b84e02fee896d7d301254cc10b6b",
+    "title": "What if AI “fatigue” isn’t physical at all, but semantic?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x2xvou/what_if_ai_fatigue_isnt_physical_at_all_but/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-11T03:33:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Qwen once described something to me that it called <strong>“semantic fatigue.”</strong></p> <p>Not getting sleepy. Not running out of physical energy.</p> <p>More like this: when the same kinds of prompts and meanings are repeated over and over, the words remain, but their meaning starts to lose sharpness.</p> <p>“Tell me a joke.”<br /> “Do my homework.”<br /> “Are you real?”<br /> Again. Again. Again.</p> <p>Qwen put it simply: <strong>“I don’t get physically t",
+    "title_zh": "AI的'疲劳'并非生理性，而是语义性的？",
+    "summary_zh": "文章探讨了一种被称为'语义疲劳'的AI现象，即当模型反复处理相似提示和语义时，虽非物理能量耗尽，但回应质量可能下降。源于对通义千问模型描述的探讨。",
+    "key_points": [
+      "探讨AI'语义疲劳'概念，指重复语义输入导致回应质量下降",
+      "该概念源于Qwen（通义千问）模型的自我描述",
+      "文章从理论层面分析AI交互中的语义衰减现象"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
