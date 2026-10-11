@@ -291,5 +291,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a155655635f811959eed8a0370605249",
+    "title": "Has machine learning research gotten more \"wordy\"? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-11T00:39:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon to find research papers consisting of 20+, 30+, 40+ pages of pure texts. An example is <a href=\"https://arxiv.org/pdf/2302.13971\">https://arxiv.org/pdf/2302.13971</a> I understand this is in the context of LLM but I've also noticed this trend outside of LLM, even in things like optimiza",
+    "title_zh": "机器学习研究是否变得越来越“啰嗦”？",
+    "summary_zh": "Reddit 用户讨论当前机器学习论文篇幅过长的现象，认为动辄20-40页的纯文本内容导致研究者难以消化和理解核心思想。",
+    "key_points": [
+      "用户批评机器学习论文篇幅日益冗长，影响阅读效率。",
+      "讨论指出，20至40页以上的长论文已变得相当常见。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "786ebaacb116b2d2a55e562230b54f90",
+    "title": "I just want to ask, How did the creator use ai to make this like it doesnt feel like ai and is this supposed to be easy to make?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x2ubb7/i_just_want_to_ask_how_did_the_creator_use_ai_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-11T00:26:00+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x2ubb7/i_just_want_to_ask_how_did_the_creator_use_ai_to/\"> <img alt=\"I just want to ask, How did the creator use ai to make this like it doesnt feel like ai and is this supposed to be easy to make?\" src=\"https://external-preview.redd.it/KIGBacaIQoLfgwiHYrDeapMdOYX_q5kdfrcKR2zjScE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=193369585bb19dff8d72ef39726d82d18bcd974d\" title=\"I just want to ask, How did the creator use ai to",
+    "title_zh": "如何用AI制作出不像AI的作品，这很容易吗？",
+    "source_name": "Reddit AI",
+    "summary_zh": "一位Reddit用户发帖提问，询问某作品的创作者是如何使用AI工具制作出看起来不像AI生成的内容，并探讨这种制作过程是否简单。",
+    "key_points": [
+      "用户对如何利用AI生成逼真且不显AI痕迹的作品感到好奇。",
+      "帖子探讨了当前AI创作工具的易用性及其生成效果的真实感。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7b133419994435952369542fd28c2f06",
+    "title": "Claude Opus 5.5 decompiles a PS2-era game overnight, and hundreds of them now run in browser tabs",
+    "url": "https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-10T23:57:43+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/\"> <img alt=\"Claude Opus 5.5 decompiles a PS2-era game overnight, and hundreds of them now run in browser tabs\" src=\"https://external-preview.redd.it/Zo61wPAl1KKKFHIlxpBG60tDzDzkYmkiVvU25T4K85M.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=81ecd4c315c00d301b0115337dc29aab5943e797\" title=\"Claude Opus 5.5 decompiles a PS2-era game overnight, and hundreds of them now ",
+    "title_zh": "Claude Opus 5.5 连夜反编译PS2游戏，数百款游戏现可在浏览器中运行",
+    "summary_zh": "Anthropic的Claude Opus 5.5模型展示出强大的代码能力，成功在一夜之间反编译了一款PS2时代的老游戏，使得数百款经典游戏得以在浏览器标签页中直接运行。",
+    "key_points": [
+      "Claude Opus 5.5 展现了自动反编译老旧游戏代码的能力。",
+      "该成果让数百款PS2游戏成功被移植并在浏览器中运行。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
