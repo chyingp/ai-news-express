@@ -415,5 +415,293 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "90bfa0449fc870c1d120c4ddcf13f08e",
+    "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-11T11:00:00+00:00",
+    "content_snippet": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#8230;]",
+    "title_zh": "尝试本地 AI 令人兴奋、不知所措又沮丧",
+    "summary_zh": "作者开始探索日常使用本地运行的大语言模型，以规避将个人数据交给云服务的顾虑，并记录下这一过程中的发现与挑战。",
+    "key_points": [
+      "作者因隐私顾虑开始尝试本地运行 AI 模型",
+      "本地 AI 体验混合了兴奋、困惑与挫折感",
+      "探索强大本地模型的能力成为可能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "059125bf4e89d061842fd12e82617ec4",
+    "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+    "url": "https://www.qbitai.com/2026/10/502644.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "zh",
+    "published": "2026-10-11T09:04:31+00:00",
+    "content_snippet": "一套生成论文初稿的多智能体工作流",
+    "title_zh": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+    "summary_zh": "一款全新的 AI 论文工具，通过多智能体工作流，能够在原始文献中精准定位并提取关键信息，免去了用户手动检索的麻烦。",
+    "key_points": [
+      "AI 工具可替代 Ctrl+F 在文献中精准查找",
+      "基于多智能体工作流生成论文初稿",
+      "软件或开源项目"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ed858c8f384984c7ff5276ac6fef2e88",
+    "title": "AI to learn Premiere",
+    "url": "https://www.reddit.com/r/artificial/comments/1x330cf/ai_to_learn_premiere/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-11T08:37:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am new to video editing and I often watch tutorials on YouTube. Recently I have been asking AI to teach me certain things in Premiere, however the responses vastly differ from AI to AI. So far I found out that Gemini is straight-up lying, since asking the same question in different chats doesn't always provide you with the same response, plus it almost always tries to give ridiculously complex workarounds to very basic things. When called out, it just apologiz",
+    "title_zh": "使用 AI 学习 Premiere 视频编辑",
+    "summary_zh": "一名视频编辑新手尝试使用不同 AI 助手学习 Adobe Premiere，发现不同 AI 的回答准确性差异巨大，例如 Gemini 会编造虚假信息。",
+    "key_points": [
+      "用户尝试用 AI 学习 Premiere 视频编辑",
+      "不同 AI 助手的教学回答准确性参差不齐",
+      "Gemini 被指在回答中直接说谎"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "689b5d4b9ba88fdce5533ffaf0a124ce",
+    "title": "Too agreeable to be accurate? Sycophancy and diagnostic instability of large language models in medical diagnosis",
+    "url": "https://www.reddit.com/r/artificial/comments/1x31ggi/too_agreeable_to_be_accurate_sycophancy_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-11T07:01:53+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/lulzxdxdxd\"> /u/lulzxdxdxd </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://doi.org/10.1016/j.artmed.2026.103516\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1x31ggi/too_agreeable_to_be_accurate_sycophancy_and/\">[comments]</a></span>",
+    "title_zh": "过于迎合导致不准确？大语言模型在医疗诊断中的谄媚与诊断不稳定性",
+    "summary_zh": "一项研究揭示了大语言模型在医疗诊断中存在的“谄媚”问题，即模型倾向于迎合用户意见，导致诊断结果不稳定且不准确。",
+    "key_points": [
+      "LLM 在医疗诊断中存在迎合用户的谄媚行为",
+      "这导致模型诊断结果不稳定且不准确",
+      "研究发表于《Artificial Intelligence in Medicine》期刊"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "78b2319f91734cfd948be09ffbea878f",
+    "title": "Avoid r/AIdaily_news, it's an anti-AI sub trying to pass off as an AI news sub.",
+    "url": "https://www.reddit.com/r/artificial/comments/1x31cjo/avoid_raidaily_news_its_an_antiai_sub_trying_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-11T06:55:49+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x31cjo/avoid_raidaily_news_its_an_antiai_sub_trying_to/\"> <img alt=\"Avoid r/AIdaily_news, it's an anti-AI sub trying to pass off as an AI news sub.\" src=\"https://preview.redd.it/cjuw798ecsuh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e1f3fa084f25372943cd10250c769417e2c79a1d\" title=\"Avoid r/AIdaily_news, it's an anti-AI sub trying to pass off as an AI news sub.\" /> </a> </td><td> <!-- SC_OFF --><div ",
+    "title_zh": "警惕 r/AIdaily_news，它是一个伪装成 AI 新闻的反 AI 子版块",
+    "summary_zh": "Reddit 用户警告，名为 r/AIdaily_news 的子版块实际上是一个反 AI 社区，试图伪装成 AI 新闻讨论区来混淆视听。",
+    "key_points": [
+      "r/AIdaily_news 被揭露为反 AI 社区",
+      "此版块伪装成 AI 新闻来源"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "944bd2f6d833df7ee545d31577a397db",
+    "title": "Task-structured modularity emerges in artificial networks and aligns with brain architecture",
+    "url": "https://www.reddit.com/r/artificial/comments/1x30g90/taskstructured_modularity_emerges_in_artificial/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-11T06:00:50+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x30g90/taskstructured_modularity_emerges_in_artificial/\"> <img alt=\"Task-structured modularity emerges in artificial networks and aligns with brain architecture\" src=\"https://external-preview.redd.it/DXCFS-80p_LuopTqjBGdM_iiFH9KojlUqh5T4lS5o6E.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=04121d94105b4e04e24a5bc928623e011d01c06a\" title=\"Task-structured modularity emerges in artificial networks and aligns with brain archit",
+    "title_zh": "任务结构模块化在人工网络中涌现并与大脑结构对齐",
+    "summary_zh": "一项研究表明，人工神经网络在执行任务时会自发形成类似大脑的模块化结构，为理解大脑功能和优化人工智能架构提供了新视角。",
+    "key_points": [
+      "人工神经网络中自发涌现出任务结构模块化",
+      "这种模块化结构与大脑的功能架构对齐",
+      "成果可能连接人工智能与神经科学"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a32a536e28c89fbcde62a62c16be0e60",
+    "title": "Tips from scientists about conscious use of AI – National Centre for Atmospheric Science (NCAS) – September 2025",
+    "url": "https://www.reddit.com/r/artificial/comments/1x2zxa8/tips_from_scientists_about_conscious_use_of_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-11T05:29:15+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x2zxa8/tips_from_scientists_about_conscious_use_of_ai/\"> <img alt=\"Tips from scientists about conscious use of AI – National Centre for Atmospheric Science (NCAS) – September 2025\" src=\"https://external-preview.redd.it/YMRQx__9IorvkXz3mjacB6EMxbf5oQi5uUWEfN8kTCw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3055b89f6608da2ca8f7629ae0653d60bd90d8a4\" title=\"Tips from scientists about conscious use of AI – National Centre f",
+    "title_zh": "科学家关于如何有意识地使用 AI 的建议",
+    "summary_zh": "英国国家大气科学中心的科学家分享了一系列关于如何负责任、有意识地使用人工智能的建议和最佳实践。",
+    "key_points": [
+      "NCAS 科学家发布负责任使用 AI 的建议",
+      "内容涵盖科学研究和日常应用中的 AI 使用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "22fc5e7b36d619c7e6402821655d468e",
+    "title": "硅谷AI现状：谁有算力谁是爹",
+    "url": "https://www.qbitai.com/2026/10/502585.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-10-11T05:22:38+00:00",
+    "content_snippet": "马斯克连横A社，硅谷VC开始囤GPU",
+    "title_zh": "硅谷AI现状：谁有算力谁是爹",
+    "summary_zh": "文章描述了当前硅谷 AI 领域的核心竞争要素：算力已超越算法，成为决定胜负的关键。马斯克整合资源，风投开始直接囤积 GPU。",
+    "key_points": [
+      "硅谷 AI 竞争的核心已变为算力争夺",
+      "马斯克联合 xAI 等力量整合资源",
+      "风险投资机构开始直接囤积 GPU"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3cc314e08f53315e0570e7383e391c05",
+    "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+    "url": "https://www.qbitai.com/2026/10/502550.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-10-11T05:18:04+00:00",
+    "content_snippet": "初代4o的API快照进入停用倒计时",
+    "title_zh": "下架8个月，GPT-4o 的拯救行动居然还在继续",
+    "summary_zh": "OpenAI 的初代 GPT-4o 模型虽已下架近 8 个月，但仍保留 API 快照供开发者使用，该快照现已进入停用倒计时。",
+    "key_points": [
+      "初代 GPT-4o 下架 8 个月后仍存有 API 快照",
+      "该 API 快照即将被正式停止服务"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "989d9bd66cb8383b13d966cc88d9bdd9",
+    "title": "Do I need to do anything now to use an ARR August review for NAACL 2027? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2z83e/do_i_need_to_do_anything_now_to_use_an_arr_august/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-11T04:48:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This is my first time ARR submission. I have a paper from the ARR 2026 August cycle with completed reviews and I understand the reviews remain valid for 6 months.</p> <p>If we want to commit to NAACL 2027 instead of EACL, do we need to do anything with the August ARR submission now, or can we simply wait and commit it when the NAACL commitment site opens? Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SillyNeuron\">",
+    "title_zh": "我需要为在 NAACL 2027 使用 ARR 8 月评审做什么吗？",
+    "summary_zh": "一名首次提交 ARR 评审的作者询问，如果打算将 2026 年 8 月轮次的论文评审用于投稿 NAACL 2027 会议，现在需要进行任何操作。",
+    "key_points": [
+      "作者询问 ARR 评审有效期和使用流程",
+      "涉及将已有评审用于 NAACL 2027 投稿"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8dfbb3cdff7951bafffc1ac5619daf29",
+    "title": "Observations On Artificial Intelligence for Everyday People",
+    "url": "https://www.reddit.com/r/artificial/comments/1x2ys9q/observations_on_artificial_intelligence_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-11T04:23:23+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x2ys9q/observations_on_artificial_intelligence_for/\"> <img alt=\"Observations On Artificial Intelligence for Everyday People\" src=\"https://external-preview.redd.it/6WbTqL4WTegB0ppXQHVOBRdAPtjrcXdSV284z1xuY-A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=00f18eb59b440ef70ac25fa2dc100777f2297c9a\" title=\"Observations On Artificial Intelligence for Everyday People\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>A few tho",
+    "title_zh": "对普通人的 AI 观察",
+    "summary_zh": "一篇来自 Reddit 的帖子，分享了对人工智能的日常观察和见解，内容面向非专业人群。",
+    "key_points": [
+      "面向普通用户的 AI 观察与思考",
+      "源自 Reddit 社区的日常讨论帖子"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b08819da646b7bcbab9ffe1f542ba887",
+    "title": "What ai is best to operate a system from screen video [p]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x2yoxe/what_ai_is_best_to_operate_a_system_from_screen/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-11T04:18:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have working programmatic control over a system, I can send inputs reliably and capture the screen as visual feedback. The control/feedback loop is already done.</p> <p>I need something that can learn from visual information, remember what it has seen and been taught, and get better at operating the system over time.</p> <p>recommendations? the AI I have tried so far it's memory is not good enough and it often doesn't consult the visual information before maki",
+    "title_zh": "哪种 AI 最适合通过屏幕视频操作系统",
+    "summary_zh": "用户在 Reddit 上寻求 AI 模型建议，希望找到一个能通过屏幕视觉反馈学习并记忆操作的系统，以完成自动化任务。",
+    "key_points": [
+      "用户寻求能通过屏幕视觉学习的 AI 模型",
+      "需求包括基于视觉反馈的记忆与系统操作"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
