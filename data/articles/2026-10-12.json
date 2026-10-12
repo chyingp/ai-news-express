@@ -519,5 +519,51 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0c16e49865e62471801f2762a812924c",
+    "title": "Is Reddit anti AI assisted writing?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x3m9w0/is_reddit_anti_ai_assisted_writing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-11T23:09:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>And what about folks who need the structure and support to express themselves in writing? Is maths done with a calculator in-authentic? How about digging a hole with a shovel rather than your bare hands?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NoodleWind\"> /u/NoodleWind </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comm",
+    "title_zh": "Reddit 是否反对 AI 辅助写作？",
+    "summary_zh": "Reddit 用户发帖讨论 AI 辅助写作的合法性与接受度，质疑使用工具辅助表达是否算作不真实，类比使用计算器或铲子是否削弱了过程的真实性。",
+    "key_points": [
+      "讨论 AI 辅助写作是否被视为不真实的表达方式",
+      "以计算器数学和铲子挖洞类比工具辅助的合理性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b2adfa977ad9cc0a43308bde17472f18",
+    "title": "I built a browser tool to visualize how a small LLM picks its next word and see what it's attending to [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x3lgnz/i_built_a_browser_tool_to_visualize_how_a_small/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-11T22:30:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I made a little thing that visualizes attention. It runs <strong>SmolLM2-135M</strong> fully in the browser (onnxruntime-web, int8, no server, works on my phone).</p> <p>You give it a prompt, it generates one token at a time, and for each step you get the next-token candidates with probabilities, plus the attention from the current token back to the earlier ones drawn as links with the weights labeled. You can click any word to see where its attention actually w",
+    "title_zh": "我构建了一个浏览器工具，用于可视化小型 LLM 如何选择下一个词",
+    "summary_zh": "开发者开源了一款浏览器工具，可完全在本地运行 SmolLM2-135M 模型，并可视化其注意力机制和逐 token 的生成过程，无服务器依赖。",
+    "key_points": [
+      "在浏览器端无服务器运行 SmolLM2-135M 并可视化注意力",
+      "支持逐 token 生成展示，帮助理解小型 LLM 的预测过程"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
