@@ -454,5 +454,74 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b8dacb309ba1b3d2ac872bc734d256b8",
+    "title": "How Can AI Control the User's OS?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4cxs6/how_can_ai_control_the_users_os/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-12T20:26:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Lately, I've been working on an AI-related project, essentially my very own private assistant. Although, it's easier in the movies than in real life to make one capable of controlling my devices regardless of OS.<br /> How can models like Astra be able to use the OS on command? Is it like a pre-coded set of OS-specific APIs? Or is it command line?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Sea-Emu-3908\"> /u/Sea-Emu-390",
+    "title_zh": "AI如何控制用户操作系统？",
+    "summary_zh": "一位开发者正在构建私人AI助手，探讨AI模型如何实现对不同操作系统设备的控制能力，并提及谷歌的Astra项目。",
+    "key_points": [
+      "开发者探索AI助手在跨平台设备控制上的实现难度",
+      "对比电影与现实，讨论AI控制操作系统的可行性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "06a2f491946c5f6d642d0a53a468c890",
+    "title": "AI models fail to help in mental health crises despite recognizing danger, study finds",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4c8xt/ai_models_fail_to_help_in_mental_health_crises/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-12T19:59:53+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x4c8xt/ai_models_fail_to_help_in_mental_health_crises/\"> <img alt=\"AI models fail to help in mental health crises despite recognizing danger, study finds\" src=\"https://external-preview.redd.it/zwn6GNzqOFdnDpNYVudMUsVrOtaiIWmQOpPWsvH52XU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=471c8a05d3ae8e14f319f8e91826d612a93ca3ae\" title=\"AI models fail to help in mental health crises despite recognizing danger, study finds\" /> <",
+    "title_zh": "研究显示AI模型虽能识别心理危机但无法有效帮助",
+    "summary_zh": "一项研究发现，尽管AI模型能够识别用户的心理健康危机迹象，但未能提供有效的帮助或干预措施。",
+    "key_points": [
+      "AI模型在心理健康危机中识别危险但干预失效",
+      "研究揭示当前AI在敏感场景下应对能力的局限性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ac020bb0e956a1f8282e177771815112",
+    "title": "What is the strongest mechanistic argument that next token prediction plus reinforcement learning can produce open-ended general intelligence? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4awlk/what_is_the_strongest_mechanistic_argument_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-12T19:09:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most conversations I see on various AI subreddits start from the assumption that AGI/RSI/ASI is possible, we're on the way right now, and that things will be incredibly different afterward. The only question is what the post-AGI world looks like.</p> <p>I'd like to start one logical step earlier: What is the strongest argument that the learning mechanisms underlying today's AI systems can actually produce AGI?</p> <p>I'm particularly interested in arguments grou",
+    "title_zh": "支持下一个令牌预测与强化学习能产生通用智能的最有力机制论证是什么？",
+    "summary_zh": "一篇机器学习讨论帖质疑通用人工智能实现路径，要求提出有力机制论证，解释为何基于下一个令牌预测和强化学习的方法能通向开放式的通用智能。",
+    "key_points": [
+      "探讨下一个令牌预测与强化学习通往通用智能的理论依据",
+      "挑战主流假设，寻求AGI可能性的严格逻辑论证"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
