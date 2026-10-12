@@ -565,5 +565,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e202f786494d3f25a820a2432371c8f4",
+    "title": "Top Agentic AI development companies worth knowing about",
+    "url": "https://www.reddit.com/r/artificial/comments/1x3qieq/top_agentic_ai_development_companies_worth/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-12T02:42:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Agentic AI is moving past chatbots into systems that plan, use tools, and complete multi-step work. Getting these into production takes more than a good model: it needs solid engineering, governance, and integration with real business systems.</p> <p>Here’s a starting list of firms with agentic AI or applied AI experience, in alphabetical order, plus the criteria I’d use to evaluate any of them. This isn’t exhaustive, so please add others in the comments.</p> <p",
+    "title_zh": "值得关注的顶级Agentic AI开发公司",
+    "summary_zh": "文章探讨了Agentic AI（代理式人工智能）的发展，指出其已超越聊天机器人，进入能规划、使用工具并执行多步骤任务的系统阶段。文章强调，将此类AI投入生产不仅需要优秀模型，还需扎实的工程、治理及与真实业务系统的集成。",
+    "key_points": [
+      "Agentic AI正从聊天机器人演进为可执行多步骤任务的自主系统",
+      "实现生产级Agentic AI需要工程、治理和系统集成等综合能力",
+      "文章旨在列举该领域值得关注的关键开发公司"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a753043f45f1e15867263eaa980e7cbc",
+    "title": "The smallest languages may teach us what AI is really optimizing for",
+    "url": "https://www.reddit.com/r/artificial/comments/1x3q1q3/the_smallest_languages_may_teach_us_what_ai_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-12T02:18:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Large models are impressive in widely spoken languages. The experience is very different for smaller languages and regional dialects.</p> <p>When a language has less training data, AI may produce translations that are technically understandable but culturally strange. It may also push people toward the dominant language because that is where the tools work best.</p> <p>Preserving a language is not the same as putting it into a model, but AI could still become a ",
+    "title_zh": "小众语言或许能揭示AI真正的优化目标",
+    "summary_zh": "文章讨论了大型语言模型在数据稀缺的小语种和方言上的表现差异。当训练数据不足时，AI生成的翻译可能在技术上可理解，但在文化上显得怪异，这种现象促使人们反思AI模型实际在优化什么。",
+    "key_points": [
+      "大型模型在小语种上的表现与主流语言差异显著",
+      "训练数据不足会导致AI产出技术正确但文化奇怪的翻译",
+      "通过分析小众语言的表现可以反思AI模型的底层优化目标"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
