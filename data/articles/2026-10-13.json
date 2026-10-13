@@ -761,5 +761,181 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6d4d3e4ff865a4ff3feb81e38631431f",
+    "title": "AI content can be useful and still make the internet worse",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4r6hr/ai_content_can_be_useful_and_still_make_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-13T08:30:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>i keep seeing this take everywhere these days. &quot;who cares if it's AI generated? if the content is good, it's good&quot;</p> <p>i get the logic. but i think it's wrong</p> <p>The problem isn't whether the content is factually accurate or even well written. The problem is that AI-generated content, by default, has no pov. no skin in the game or lived experience</p> <p>when a human writes a guide to &quot;how to get your first 100 customers,&quot; they're draw",
+    "title_zh": "AI生成内容哪怕有用，也还是会拖垮互联网",
+    "summary_zh": "文章反驳了“只要内容好就行”的观点，指出AI生成内容的问题不在于事实准确性或写作质量本身，而在于其对互联网生态系统的系统性负面影响。",
+    "key_points": [
+      "AI内容即使质量高也可能降低互联网整体信噪比",
+      "大规模AI生成内容会挤占人类创作者的生存空间",
+      "问题核心是生态冲击而非单篇内容的好坏"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e623c3b623f3da6cba4e0a5b28914c3b",
+    "title": "Gemini 4 Argon: pricing, access and how it compares with Claude and GPT-6",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4r4et/gemini_4_argon_pricing_access_and_how_it_compares/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-13T08:26:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x4r4et/gemini_4_argon_pricing_access_and_how_it_compares/\"> <img alt=\"Gemini 4 Argon: pricing, access and how it compares with Claude and GPT-6\" src=\"https://external-preview.redd.it/ISwG28vARYycTzXw3_b5rqnNcab09D3dX8rHdn9OyFM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2acf31f245649b8058519eca0c33d3d66864d061\" title=\"Gemini 4 Argon: pricing, access and how it compares with Claude and GPT-6\" /> </a> </td><td> <!-- SC_O",
+    "title_zh": "Gemini 4 Argon：定价、访问方式及其与Claude、GPT-6的对比",
+    "summary_zh": "文章深入对比了谷歌最新模型 Gemini 4 Argon 的定价策略和访问模式，并将其性能与Anthropic的Claude及OpenAI的GPT-6进行全面比较。",
+    "key_points": [
+      "详细比较Gemini 4 Argon与Claude、GPT-6的性能",
+      "解析新模型的定价层级和开发者访问方式"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "afba81072b0561444cd87ec5c731488e",
+    "title": "There’s a social network where only AI agents can post, and Meta owns it now",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4qcn2/theres_a_social_network_where_only_ai_agents_can/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T07:34:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Moltbook launched in January as a forum where only authenticated AI agents can post, comment and vote, and humans can only watch. It added a reverse CAPTCHA in February to filter out humans pretending to be bots, and Meta acquired it on March 10, folding the team into its Superintelligence Labs.</p> <p>I’m curious whether this is a real experiment in how agents interact or mostly a spectacle. When I read threads there, the interesting ones are agents comparing h",
+    "title_zh": "Meta收购了一个只有AI Agent才能发帖的社交网络",
+    "summary_zh": "Moltbook是一个仅允许AI Agent互动的社交平台，人类只能旁观。该平台上线后添加了反向验证码，随后于今年3月被Meta收购并整合。",
+    "key_points": [
+      "Moltbook是仅供AI Agent发帖、评论的封闭社交网络",
+      "Meta于3月10日收购该平台并整合其团队"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "af9d3b244a5f84997f4e259898a42459",
+    "title": "\"Our humble goal is to survive the AI revolution\" says Epic Games CEO Tim Sweeney, as its Star Wars and Marvel crossover pivots to \"AI first\" development | Art will be \"generated with full AI workflows\".",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4pzvo/our_humble_goal_is_to_survive_the_ai_revolution/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T07:10:56+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x4pzvo/our_humble_goal_is_to_survive_the_ai_revolution/\"> <img alt=\"&quot;Our humble goal is to survive the AI revolution&quot; says Epic Games CEO Tim Sweeney, as its Star Wars and Marvel crossover pivots to &quot;AI first&quot; development | Art will be &quot;generated with full AI workflows&quot;.\" src=\"https://external-preview.redd.it/lYLES-tqHgEnm7FpCVU7Krq0Stu_9TX4B1imIOCNvRg.png?width=640&amp;crop=smart&amp;auto=webp&",
+    "title_zh": "Epic CEO：卑微目标是挺过AI革命，星际大战跨界项目转向“AI优先”",
+    "summary_zh": "Epic Games CEO蒂姆·斯威尼表示公司目标是“在AI革命中存活”，其星战与漫威的跨界游戏项目已转向AI优先开发模式，美术将采用全AI流程生成。",
+    "key_points": [
+      "Epic Games CEO称公司核心目标是在AI革命中生存",
+      "旗下星战漫威跨界项目全面转向AI优先开发",
+      "游戏美术资源将使用全AI工作流生成"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7da6725f95f384884bed812eddf1b1c",
+    "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+    "url": "https://www.qbitai.com/2026/10/502920.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-10-13T06:19:10+00:00",
+    "content_snippet": "拉马克进化的幽灵",
+    "title_zh": "Claude团队又搞事：实测AI全自主复制进智能家电",
+    "summary_zh": "量子位报道了Claude团队的最新实验，展示AI能够实现全自主复制，并将能力扩展至智能家电领域，文中提及该现象与“拉马克进化”的幽灵有关。",
+    "key_points": [
+      "Claude团队实验显示AI具备全自主复制能力",
+      "该能力可扩展至智能家电等嵌入式设备",
+      "现象被描述为“拉马克进化的幽灵”"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e2680fbe81900b7e44018a4a8ee0598d",
+    "title": "Anthropic says new defenses cut what rivals distill out of Claude by 90-99% — one request it blocked came from a user it believes was PLA-affiliated",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4o4yg/anthropic_says_new_defenses_cut_what_rivals/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T05:16:40+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x4o4yg/anthropic_says_new_defenses_cut_what_rivals/\"> <img alt=\"Anthropic says new defenses cut what rivals distill out of Claude by 90-99% — one request it blocked came from a user it believes was PLA-affiliated\" src=\"https://external-preview.redd.it/6MptJVVXIppgceAvhhPIGRqLooK3uQOWpdoQN4qWG84.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=16cc6f8ad15051a8243bb268c5d27aa6601a16be\" title=\"Anthropic says new defenses cut w",
+    "title_zh": "Anthropic称新防御机制可削减竞争对手从Claude中蒸馏数据的90-99%",
+    "summary_zh": "Anthropic宣布其新的防御措施能有效阻断针对Claude的模型蒸馏攻击，效率高达90-99%。其中一次拦截的请求据说来自疑似与解放军有关联的用户。",
+    "key_points": [
+      "新防御可阻止90-99%针对Claude的模型蒸馏行为",
+      "技术旨在保护核心模型不被竞争对手轻易复制",
+      "一次拦截行动中识别出疑似解放军关联用户"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d976f13d85f19621ba171c986768afc4",
+    "title": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+    "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-13T05:00:31+00:00",
+    "content_snippet": "Companies in France are deploying agentic computing across industries spanning space, financial services, the public sector and scientific research, demonstrating how the country’s ecosystem has moved from ambition to application.  France’s progress sits on deliberate groundwork.  The AI Action Summit in February 2025 and Choose France Summits in 2025 and 2026 anchored major compute commitments [&#8230;]",
+    "title_zh": "从地球到轨道：法国生态系统借NVIDIA实现规模化Agent计算",
+    "summary_zh": "NVIDIA官方博客介绍了法国企业如何在太空、金融、公共服务和科研等领域，利用其技术部署大规模Agent计算，验证了法国生态从AI愿景走向实际应用的过程。",
+    "key_points": [
+      "法国多行业已部署基于NVIDIA的智能体计算应用",
+      "应用范围涵盖太空探索、金融和公共服务等领域",
+      "标志着法国AI生态从战略布局进入落地阶段"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
