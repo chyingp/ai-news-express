@@ -714,5 +714,52 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ec7e2ae3e4dfe1e1011dc843edc71c31",
+    "title": "Nobody wants to talk about data protection in AI, but it's the part that hits regular people first",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4lphz/nobody_wants_to_talk_about_data_protection_in_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-13T03:05:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>All the big AI safety conversations are about existential risk or model capabilities. Meanwhile the data protection side is just... quiet. Training data scraped without consent, chat logs stored forever, personal info memorized by models. What would it even look like to do data protection properly here? Not the checkbox consent stuff, the real thing.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/masiha97\"> /u/masiha97 </a",
+    "title_zh": "没人愿谈AI中的数据保护，但这正是普通人的切肤之痛",
+    "summary_zh": "文章指出AI安全讨论聚焦于生存风险或模型能力，却忽视了直接冲击普通人的数据保护问题，如训练数据违规抓取、对话记录永久存储和模型记忆个人隐私等。",
+    "key_points": [
+      "AI安全讨论忽视数据保护，如未经同意的数据抓取",
+      "个人隐私面临被模型记忆与聊天记录长期存储的风险",
+      "数据保护问题对普通用户的直接影响最为直接"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1897a22e18aaa1c930421d615f5332d6",
+    "title": "Leading Chinese mathematicians unite behind use of AI in research",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4l8ty/leading_chinese_mathematicians_unite_behind_use/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-13T02:41:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x4l8ty/leading_chinese_mathematicians_unite_behind_use/\"> <img alt=\"Leading Chinese mathematicians unite behind use of AI in research\" src=\"https://external-preview.redd.it/s-OTl1PsGYDtGExHu73IiS0Xx5WB7kAWFmN0CNBxCns.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c36c8dfabe76eb37d70335d9ef22b8b727dba6af\" title=\"Leading Chinese mathematicians unite behind use of AI in research\" /> </a> </td><td> <!-- SC_OFF --><div class=\"",
+    "title_zh": "中国顶尖数学家联手支持AI用于研究",
+    "summary_zh": "文章报道中国顶尖数学家集体表态，支持将人工智能应用于数学研究，标志着AI技术在学术领域的深入渗透与认可。",
+    "key_points": [
+      "中国顶尖数学家联合公开支持AI在数学研究中的应用",
+      "此举反映AI工具在学术研究领域的接受度提升"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
