@@ -1,0 +1,593 @@
+[
+  {
+    "id": "ca16bdc0c8048f2cfb99aafeeec03786",
+    "title": "Google CEO announces Gemini 4 Argon release: 'Over the past few weeks, our teams and early partners have put Argon to work on some of their most demanding challenges: modernizing massive codebases, speeding up model inference, and accelerating breakthroughs in quantum computing and life sciences.'",
+    "url": "https://www.reddit.com/r/artificial/comments/1x51jt3/google_ceo_announces_gemini_4_argon_release_over/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-13T16:36:58+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x51jt3/google_ceo_announces_gemini_4_argon_release_over/\"> <img alt=\"Google CEO announces Gemini 4 Argon release: 'Over the past few weeks, our teams and early partners have put Argon to work on some of their most demanding challenges: modernizing massive codebases, speeding up model inference, and accelerating breakthroughs in quantum computing and life sciences.'\" src=\"https://external-preview.redd.it/gloPWVVwktBs--AejF8Y-",
+    "title_zh": "谷歌CEO宣布发布Gemini 4 Argon：已在代码库现代化、模型推理加速等领域展现强大能力",
+    "summary_zh": "谷歌CEO宣布推出最新模型Gemini 4 Argon，称其已帮助团队和早期合作伙伴解决代码库现代化、模型推理加速以及量子计算和生命科学突破等高难度挑战。",
+    "key_points": [
+      "Gemini 4 Argon正式发布，旨在解决最具挑战性的问题",
+      "该模型已在大型代码库、模型推理、量子计算等任务中应用"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4520f7ad22fb7d9896983cabc8d8ae5d",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-13T16:30:00+00:00",
+    "content_snippet": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "title_zh": "前谷歌和SpaceX产品经理创立的Satlyt获800万美元融资，为卫星提供AI系统",
+    "summary_zh": "由前谷歌和SpaceX产品经理创立的Satlyt公司获得800万美元融资，该公司致力于开发开放的轨道计算软件，类似于卫星领域的安卓系统，以此对抗SpaceX的封闭生态。",
+    "key_points": [
+      "Satlyt获800万美元融资，为卫星提供开放的AI操作系统",
+      "其开放模式对标安卓，旨在挑战SpaceX的封闭式卫星方案"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ae54ba9f6e79a7c519bfaebf876215db",
+    "title": "ICLR reviewers, are you using AI to review papers or still doing it the old-school way? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x50ptr/iclr_reviewers_are_you_using_ai_to_review_papers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-13T16:06:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Quick question for those currently reviewing papers for ICLR: Are you using AI tools to assist with your reviews, or are you still doing everything the old way?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Hope999991\"> /u/Hope999991 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1x50ptr/iclr_reviewers_",
+    "title_zh": "ICLR审稿人，你们在借助AI审稿还是固守传统方式？",
+    "summary_zh": "一篇Reddit讨论帖，询问ICLR会议的审稿人是否正在使用AI工具来辅助完成论文评审工作，还是仍采用传统的审稿方式。",
+    "key_points": [
+      "探讨AI工具在学术会议论文评审中的使用现状"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e1a17fbe2fe833332a1d13cf91c99ae9",
+    "title": "Gemini 4 Argon for Robotics",
+    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-13T16:01:58+00:00",
+    "content_snippet": "",
+    "title_zh": "Gemini 4 Argon 在机器人领域的应用",
+    "summary_zh": "谷歌DeepMind发布博文，介绍其最新模型Gemini 4 Argon如何在机器人领域发挥作用，展示其在物理世界中的任务执行与交互能力。",
+    "key_points": [
+      "专文介绍Gemini 4 Argon在机器人领域的应用与能力"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fa170ce8a5ccc7bdd72d1a1007b9218e",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-13T16:01:52+00:00",
+    "content_snippet": "",
+    "title_zh": "Gemini 4 Argon：为攻克最棘手难题而生",
+    "summary_zh": "谷歌DeepMind发布官方博文，详细介绍新一代模型Gemini 4 Argon，强调其设计初衷就是为了解决用户面临的最为复杂和困难的问题。",
+    "key_points": [
+      "谷歌DeepMind发布Gemini 4 Argon核心介绍博客",
+      "新模型定位为能解决最复杂难题的下一代AI系统"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "85bdb976f824371fc02f9a2776229bcd",
+    "title": "Any Advice for what Industry is looking for in ML PhDs? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5080s/any_advice_for_what_industry_is_looking_for_in_ml/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-13T15:47:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm a first year ML PhD at a T5 ML program in the US. I managed to get a first author paper accepted to NeurIPS Main Track last month and thought I'd start applying for PhD research internships since I saw a lot of them required a &quot;top&quot; venue publication.</p> <p>But I've just been getting rejections (Nvidia, Waymo etc) and I also even got rejected from the Citadel NeurIPS travel grant.</p> <p>Now, I'd say my area of research isn't super &quot;hype&quot",
+    "title_zh": "业界究竟在寻找具备哪些特质的机器学习博士？",
+    "summary_zh": "一名美国顶尖机器学习项目的一年级博士生在Reddit发帖，凭借已中稿NeurIPS论文的背景，向社区寻求关于业界对机器学习博士期望的技能和求职建议。",
+    "key_points": [
+      "ML博士寻求业界求职所需技能的社区建议",
+      "发帖者已获NeurIPS论文，借此背景探讨博士实习要求"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e16554f5f7410ee05263196c3ca61650",
+    "title": "Flama: 8 years building a Python framework where ML models and LLMs are first-class, now written up on arXiv [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4zwp4/flama_8_years_building_a_python_framework_where/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-13T15:35:48+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x4zwp4/flama_8_years_building_a_python_framework_where/\"> <img alt=\"Flama: 8 years building a Python framework where ML models and LLMs are first-class, now written up on arXiv [P]\" src=\"https://preview.redd.it/7lhod6yk69vh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6b3d79b917e7fcbf13bcf8921cdfc209364ee2e2\" title=\"Flama: 8 years building a Python framework where ML models and LLMs are first-class, now written up ",
+    "title_zh": "Flama：历时8年构建的将机器学习模型和大语言模型视为一等公民的Python框架",
+    "summary_zh": "一个名为Flama的Python框架项目已在arXiv上发布论文，该项目历时八年开发，旨在让机器学习模型和大语言模型在框架中成为一等公民，提供更强的原生支持。",
+    "key_points": [
+      "Flama框架的论文已发布在arXiv上，历时8年开发",
+      "该框架将ML模型和LLM作为一等公民提供原生支持"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "84bd23b6bd8f2f638ac42dc1340373b5",
+    "title": "Could AI help me build a football YouTube channel?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4zvgs/could_ai_help_me_build_a_football_youtube_channel/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-13T15:34:39+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x4zvgs/could_ai_help_me_build_a_football_youtube_channel/\"> <img alt=\"Could AI help me build a football YouTube channel?\" src=\"https://external-preview.redd.it/Z25ra3d6amM3OXZoMRCKFofGl2FF74tfn2scnzFgc4v0uOQBuoPmaL6NN2kU.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=eabf1778b37f9474d6932b351186931e07d57570\" title=\"Could AI help me build a football YouTube channel?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I've ",
+    "title_zh": "AI能帮我创建一个足球主题的YouTube频道吗？",
+    "summary_zh": "一位Reddit用户发帖询问，人工智能工具是否能够在其创建和运营一个专注于足球内容的YouTube频道的过程中提供有效的帮助。",
+    "key_points": [
+      "用户询问AI在内容创作平台上辅助创作频道的可能性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bfad41fec1e1053b7a77753431cb6c60",
+    "title": "Progression of Artificial Intelligence",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4zmle/progression_of_artificial_intelligence/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-13T15:25:35+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x4zmle/progression_of_artificial_intelligence/\"> <img alt=\"Progression of Artificial Intelligence\" src=\"https://preview.redd.it/ndvgk6hy59vh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0f0a412819cd89523ccd6ad08c34ae478b0b69d\" title=\"Progression of Artificial Intelligence\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Progression of artificial intelligence</p> <p>Mixed Media on Paper</p> </div><!-- SC_ON --> &#3",
+    "title_zh": "人工智能的演进历程",
+    "summary_zh": "一个Reddit帖子讨论了人工智能技术从过去到现在的整体进展，可能包含可视化图表或时间线，引发了社区对AI发展的回顾与展望。",
+    "key_points": [
+      "Reddit社区对人工智能发展历程的回顾与讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5f3bca1c697a6f1b66965623dd68d723",
+    "title": "Modern-Day Propaganda in the Age of AI May Be Propaganda That Never Asks Everyone to Believe the Same Thing",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4zkd9/modernday_propaganda_in_the_age_of_ai_may_be/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-13T15:23:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Here's some interesting food for thought to consider regarding propaganda in the digital age. Take the data center problem, as an example.</p> <p>One person might see jobs, tax revenue, and technological progress. Another could see massive buildings consuming electricity and water while giving little back to the surrounding community. Someone else could see national security: if we want to compete in AI, we need the infrastructure to run it.</p> <p>And then ther",
+    "title_zh": "AI时代的现代宣传：可能从不要求所有人相信同一件事",
+    "summary_zh": "文章探讨了数字时代AI加持下的宣传新形态，以数据中心问题为例，指出不同人可能看到截然不同的叙事，AI时代的宣传在于分化而非统一认知。",
+    "key_points": [
+      "AI时代的宣传特点是碎片化叙事，而非统一信仰",
+      "以数据中心为例，说明公众认知如何被分化为不同面向"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6ba07e34bb123f97fb6e77a7420167ad",
+    "title": "Is human evaluation through surveys common in ML research?[R][D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4zear/is_human_evaluation_through_surveys_common_in_ml/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-13T15:16:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi,</p> <p>I am a master's student working on a project where our fine-tuned AI model provides feedback on images. We are also comparing its feedback with outputs from Qwen/OpenAI APIs on the same images.</p> <p>My postdoc and PhD mentors suggested creating a Google Form where participants compare the feedback and select which one is more accurate or useful. They asked me to collect around 60 responses and perform statistical analysis to determine which model pe",
+    "title_zh": "在机器学习研究中，通过调查进行人类评估是否常见？[R][D]",
+    "summary_zh": "一位硕士生询问在比较其AI模型与Qwen/OpenAI API输出的图像反馈时，采用调查问卷进行人工评估的普遍性。",
+    "key_points": [
+      "硕士生寻求ML研究中人类评估方法的建议",
+      "项目涉及对比微调模型与Qwen/OpenAI API的图像反馈"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e848a07202483d6fc879e8ac2b34d221",
+    "title": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4xfop/characterai_files_for_bankruptcy_to_sell_some/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-13T14:00:28+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x4xfop/characterai_files_for_bankruptcy_to_sell_some/\"> <img alt=\"Character.AI files for bankruptcy, to sell some assets to Disney for $20 million\" src=\"https://external-preview.redd.it/_s90J3_Wj0xj1UU7FLhaTgZlPtbgCBymB-IfsT5z3pE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=602bcd1256c98f4955b5fda9c074cb98fd10713c\" title=\"Character.AI files for bankruptcy, to sell some assets to Disney for $20 million\" /> </a> </td><td>",
+    "title_zh": "Character.AI申请破产，将以2000万美元向迪士尼出售部分资产",
+    "summary_zh": "AI聊天机器人平台Character.AI已申请破产保护，并计划以2000万美元的价格将部分资产出售给迪士尼公司。",
+    "key_points": [
+      "Character.AI申请破产保护",
+      "将以2000万美元向迪士尼出售部分资产"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6d9ab5acc0eca32f7689f19ed5f4a629",
+    "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+    "url": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T13:55:45+00:00",
+    "content_snippet": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy suddenly looked much older, and Grace from Resident Evil [&#8230;]",
+    "title_zh": "DLSS 5为《霍格沃茨之遗》首发而降低效果",
+    "summary_zh": "Nvidia调整了其DLSS 5技术，以应对玩家对其“AI生成游戏画面”效果的批评，该技术将在下月《霍格沃茨之遗》更新中首次亮相。",
+    "key_points": [
+      "Nvidia根据玩家反馈调整DLSS 5的视觉效果",
+      "调整后的技术将在《霍格沃茨之遗》中首发"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3767142f9bc06b09d57397e598347cbb",
+    "title": "I built a pytorch library of pretrained models for 3D point clouds following timm standards [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x4x6ls/i_built_a_pytorch_library_of_pretrained_models/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-13T13:50:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x4x6ls/i_built_a_pytorch_library_of_pretrained_models/\"> <img alt=\"I built a pytorch library of pretrained models for 3D point clouds following timm standards [P]\" src=\"https://preview.redd.it/m5e9anluo8vh1.png?width=140&amp;height=28&amp;auto=webp&amp;s=b904b3df41e59d610776b1d466ad34e56629f32a\" title=\"I built a pytorch library of pretrained models for 3D point clouds following timm standards [P]\" /> </a> </td><td> <!--",
+    "title_zh": "我构建了一个遵循timm标准的3D点云预训练模型PyTorch库 [P]",
+    "summary_zh": "一位开发者分享了其新构建的PyTorch库，该库包含了针对3D点云数据的预训练模型，并遵循timm（一个流行的图像模型库）的代码标准。",
+    "key_points": [
+      "开发者发布3D点云预训练模型的PyTorch库",
+      "该库遵循timm标准，便于社区使用和复现"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b22fd54eecb21f06031f7f583042f3ec",
+    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+    "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T13:50:19+00:00",
+    "content_snippet": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+    "title_zh": "SpaceXSI将X Premium、Grok和Cursor捆绑为一个订阅服务",
+    "summary_zh": "X平台推出了新的捆绑订阅服务，将其付费功能与Grok、Cursor等AI工具整合，提供每月8至200美元的不同套餐。",
+    "key_points": [
+      "X平台推出整合AI工具的捆绑订阅",
+      "套餐包含Grok和Cursor，月费8至200美元"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "65a5bbabecb616196a6cf39c514f8c2f",
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T13:00:00+00:00",
+    "content_snippet": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+    "title_zh": "美国运通引入框架，防止AI代理进行未经授权的购买",
+    "summary_zh": "American Express推出了一项新框架，旨在确保AI代理仅执行用户已授权的购物操作，以防范AI购物功能普及后可能出现的错误和纠纷。",
+    "key_points": [
+      "美国运通推出AI代理购买授权安全框架",
+      "旨在防止AI代理进行未经授权的交易"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9f5d626a2b11e843e0790aa7b0189863",
+    "title": "Police are using AI to locate homes from a single interior photo, and even a picture of a washing machine can be enough",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4v8vl/police_are_using_ai_to_locate_homes_from_a_single/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-13T12:25:51+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x4v8vl/police_are_using_ai_to_locate_homes_from_a_single/\"> <img alt=\"Police are using AI to locate homes from a single interior photo, and even a picture of a washing machine can be enough\" src=\"https://external-preview.redd.it/GLYqBoxVYN4FWS8zUoLrDm4T5gzan2eaUlWK1ZuY_ME.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ed40288a8f1fbb51cec6ac04656189b919a310e\" title=\"Police are using AI to locate homes from a single interi",
+    "title_zh": "警方利用AI通过一张室内照片定位住所，甚至一张洗衣机照片也足够",
+    "summary_zh": "报道称，警方正在使用一种AI技术，能够根据单张室内照片（甚至是洗衣机等特定物品的照片）来定位拍摄地点的住所。",
+    "key_points": [
+      "警方使用AI根据室内照片定位住宅",
+      "该技术可识别洗衣机等物体特征进行定位"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8e71e68ebc805ea8f6dfd533333d5ec1",
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-13T12:23:42+00:00",
+    "content_snippet": "The startup will sell some of its assets to Disney for $20 million.",
+    "title_zh": "成立仅五年，互动聊天平台Character.AI申请破产",
+    "summary_zh": "成立5年的AI聊天机器人初创公司Character.AI已申请破产，并将以2000万美元的价格向迪士尼出售其部分资产。",
+    "key_points": [
+      "成立5年的AI初创公司Character.AI破产",
+      "将以2000万美元向迪士尼出售部分资产"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "05b845700b5bb2faef72ec8ff537aa37",
+    "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T12:00:49+00:00",
+    "content_snippet": "NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and a personal AI supercomputer into a single superchip. With up to 128GB of unified memory and 1 petaflop of AI compute, RTX Spark delivers the full stack of NVIDIA RTX and [&#8230;]",
+    "title_zh": "万事俱备：全球PC应用生态已为NVIDIA RTX Spark做好就绪",
+    "summary_zh": "NVIDIA宣布其RTX Spark超级芯片已准备就绪，它将游戏PC、创意工作室和个人AI超算融为一体，拥有高达128GB统一内存和1 petaflop的AI算力。",
+    "key_points": [
+      "NVIDIA RTX Spark融合游戏、创作与AI功能",
+      "具备128GB统一内存和1 petaflop AI算力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "91d7e2b8175fbd3562dafe573fd6fc39",
+    "title": "The Download: open model trade-offs and geothermal power’s promise",
+    "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-13T12:00:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack&#8230;",
+    "title_zh": "The Download：开放模型的权衡与地热能的潜力",
+    "summary_zh": "本期《The Download》讨论了开放AI模型的利弊权衡，提及Anthropic的报告认为中国公司发布的强大新模型风险大于收益。",
+    "key_points": [
+      "讨论开放AI模型的益处与风险",
+      "Anthropic报告认为某中国新模型的发布风险过高"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4025dd5d6785c94740fb5bba517aeee4",
+    "title": "Character.AI files for bankruptcy",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-13T10:32:23+00:00",
+    "content_snippet": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots, but has continued releasing [&#8230;]",
+    "title_zh": "Character.AI申请破产",
+    "summary_zh": "生成式AI热潮中的早期明星初创公司Character.AI已申请破产，并计划将部分资产出售给迪士尼。该公司因聊天机器人的安全问题面临越来越多的审查和诉讼。",
+    "key_points": [
+      "Character.AI申请破产并将出售部分资产给迪士尼",
+      "公司的聊天机器人因安全问题正面临审查和诉讼"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "87606c263ccacb3e05905b2f27941815",
+    "title": "RAG chatbot looks great in demo but falls apart on real user questions. How are you handling retrieval quality?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x4suc4/rag_chatbot_looks_great_in_demo_but_falls_apart/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-13T10:16:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Working on a RAG based support bot for a client project and hit a wall I did not expect. On our test questions it looks great, but real users type messy stuff like half sentences, typos, and questions that need info from 2 or 3 different docs. Retrieval keeps pulling the wrong chunks and the model then answers confidently anyway.</p> <p>What we have tried so far:</p> <ul> <li>Smaller chunks with overlap (helped a bit, but hurt on long policy docs)</li> <li>Hybri",
+    "title_zh": "RAG聊天机器人演示出色，但面对真实用户提问时状况频出，如何提升检索质量？",
+    "summary_zh": "一位开发者分享，为客户端项目构建的RAG支持机器人，在测试中表现良好，但处理真实用户的碎片化、含错别字及跨文档查询时，检索质量大幅下降，遭遇预期之外的难题。",
+    "key_points": [
+      "RAG机器人在真实用户提问下的检索质量远低于演示效果",
+      "主要挑战包括用户输入碎片化、错别字和需要跨文档检索"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bbd5ea6a191c0dae9a5ff43febfa6bc4",
+    "title": "Open models have real benefits. Do they outweigh the risks?",
+    "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-13T10:00:00+00:00",
+    "content_snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the&#8230;",
+    "title_zh": "开放模型的真实益处是否大于其风险？",
+    "summary_zh": "MIT科技评论探讨开源AI模型的利弊权衡。文章提及Anthropic近期发布报告，认为某个模型构成重大网络攻击风险，引发对开放模型潜在危害的进一步讨论。",
+    "key_points": [
+      "Anthropic报告指某个开源模型存在重大网络攻击风险",
+      "文章深入探讨开放模型带来的益处与潜在风险的平衡"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "86dc4a539ade4f824d10e89e2c7eb447",
+    "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+    "url": "https://www.qbitai.com/2026/10/503093.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-10-13T09:33:37+00:00",
+    "content_snippet": "Winverse AI",
+    "title_zh": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+    "summary_zh": "DeepSeek创始人梁文锋投资了Swin Transformer的作者，标志着DeepSeek开始战略性地布局具身智能领域，向物理世界AI（如机器人）拓展。",
+    "key_points": [
+      "DeepSeek创始人梁文锋投资Swin Transformer作者",
+      "此举标志着DeepSeek正式进入具身智能领域布局"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4cdfa2663efa70d14e817fd557f8eb8a",
+    "title": "AI labs are buying data from dead startups to train their models",
+    "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-13T09:00:00+00:00",
+    "content_snippet": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around&#8230;",
+    "title_zh": "人工智能实验室从已倒闭初创公司购买数据以训练模型",
+    "summary_zh": "随着一批初创公司倒闭，AI实验室正通过购买这些公司的遗留数据来训练其模型。一位创业者通过出售其已关闭公司的代码和用户数据获得了约2.5万美元。",
+    "key_points": [
+      "AI实验室开始购买已倒闭初创公司的数据来训练模型",
+      "数据交易为倒闭公司提供变现途径，引发对数据隐私的关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
