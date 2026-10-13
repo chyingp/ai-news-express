@@ -589,5 +589,224 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "96dd09641f4c14e8f5c780c9c13ae73a",
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T18:30:00+00:00",
+    "content_snippet": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+    "title_zh": "Flox Intelligence 利用AI防止野生动物闯入铁路、机场和道路",
+    "summary_zh": "Flox公司开发边缘设备，能识别动物种类并播放特定声音驱离它们，保护关键基础设施免受野生动物侵扰。",
+    "key_points": [
+      "Flox边缘设备通过物种识别和声波驱赶来保护基础设施。",
+      "旨在解决野生动物对交通和能源设施的威胁问题。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6e90ac03a9f0439c82553b152e78fe70",
+    "title": "Facebook is giving users more control over their algorithm",
+    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T18:05:24+00:00",
+    "content_snippet": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+    "title_zh": "Facebook赋予用户更多算法控制权",
+    "summary_zh": "Meta宣布在Facebook上线“Your Algorithm”的AI功能，用户可直接管理信息流中感兴趣的主题，此前该功能已在Instagram推出。",
+    "key_points": [
+      "Meta推出“Your Algorithm”，让用户自定义信息流主题偏好。",
+      "用户通过标记“感兴趣”或“不感兴趣”即时调整推荐。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "60b36da6a24dba213314b18d88051826",
+    "title": "OpenAI’s blockbuster Navier-Stokes proof isn’t what we thought it was",
+    "url": "https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-13T17:30:11+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/\"> <img alt=\"OpenAI’s blockbuster Navier-Stokes proof isn’t what we thought it was\" src=\"https://external-preview.redd.it/03KGZL2rt3MG5uoMcPYK7o9PjSl1Bb9SaNKPSn7r93k.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3943d5145dfff6fcc1283b1801eb37261eb84e38\" title=\"OpenAI’s blockbuster Navier-Stokes proof isn’t what we thought it was\" /> </a> </td><td> &#32; submitted by",
+    "title_zh": "OpenAI轰动性的纳维-斯托克斯方程证明并非如我们所想",
+    "summary_zh": "针对OpenAI此前声称解决纳维-斯托克斯方程问题的重大声明，最新分析指出其证明的实质内容与外界最初解读存在差异。",
+    "key_points": [
+      "OpenAI关于纳维-斯托克斯方程的突破性证明遭到质疑。",
+      "外界对其成果的解读可能与实际技术贡献不符。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a38414be4b35ab390fa63698a3213209",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T17:30:00+00:00",
+    "content_snippet": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "title_zh": "Laplace Intelligence在机器人和自动驾驶汽车上路前进行安全攻防测试",
+    "summary_zh": "密歇根大学衍生公司Laplace Intelligence使用AI代理和交互式仿真技术，在机器人及自动驾驶车辆部署前进行压力测试，该初创公司正在Disrupt大会参赛。",
+    "key_points": [
+      "通过AI和仿真技术在部署前对物理智能体进行红队测试。",
+      "为机器人和自动驾驶提供量产前的安全验证方案。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4d1328cfb2ae5c213b9502692d71b023",
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-13T17:18:25+00:00",
+    "content_snippet": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+    "title_zh": "AI给企业安全团队带来新难题，Pluto Security获4200万美元融资",
+    "summary_zh": "随着企业全员使用AI工具带来意外安全隐患，安全公司Pluto Security完成4200万美元融资，致力于解决由此产生的安全漏洞问题。",
+    "key_points": [
+      "Pluto Security获4200万美元融资应对AI驱动的企业安全风险。",
+      "全员使用AI工具产生的非预期行为正在制造新的安全漏洞。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "11f5b582c405af4c7366f9c835e4d846",
+    "title": "Facebook will let you customize your feed algorithm using AI",
+    "url": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T17:01:31+00:00",
+    "content_snippet": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics. Your Algorithm previously launched on Instagram earlier this [&#8230;]",
+    "title_zh": "Facebook将允许用户使用AI自定义信息流算法",
+    "summary_zh": "Facebook推出“Your Algorithm”功能，允许用户通过直接添加和管理感兴趣的话题来定制信息流，更新后推荐内容会立即响应。",
+    "key_points": [
+      "用户可直接增删兴趣主题，实现信息流精细化管理。",
+      "配置更新后，推荐算法会即时反馈并调整内容。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "655bcbd4e6ef7ab37e098eb48f34ccf9",
+    "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+    "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T17:00:39+00:00",
+    "content_snippet": "Google plans to help turn those personal AI-generated apps into wide releases.",
+    "title_zh": "谷歌计划在Play商店托管用户的个性化AI生成应用",
+    "summary_zh": "谷歌计划帮助用户将AI生成的个人应用转化为可在Play商店广泛发布的版本，降低个人AI应用的分发门槛。",
+    "key_points": [
+      "谷歌拟将私人AI生成应用扩展为Play商店的正式发行版。",
+      "降低用户将自定义应用推向大众市场的技术难度。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0f96659c3b4031ee471f08d126cb7025",
+    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+    "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T17:00:00+00:00",
+    "content_snippet": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+    "title_zh": "Google Play现允许任何人构建私人的AI生成应用并在安卓运行",
+    "summary_zh": "谷歌简化了在Play商店构建和使用私人AI应用的流程，允许用户生成仅自己可用的安卓应用，无需公开上线。",
+    "key_points": [
+      "谷歌支持用户在Play商店发布仅自己可见的AI生成应用。",
+      "旨在通过降低技术门槛，让个人AI应用更易落地。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7b941fbc4a80d7babbff85c9e6c0a0de",
+    "title": "Google makes it easier to launch your vibe-coded apps",
+    "url": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T17:00:00+00:00",
+    "content_snippet": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code [&#8230;]",
+    "title_zh": "谷歌简化AI生成应用的发布流程",
+    "summary_zh": "谷歌在美国推出新功能，用户通过AI Studio生成的个性化应用可直接通过Play商店启动，无需连接电脑安装。",
+    "key_points": [
+      "谷歌推出新功能，允许AI生成应用直接通过Play商店启动。",
+      "简化了从AI生成到移动端实机运行的操作链。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
