@@ -1162,5 +1162,170 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "cad645cbcedadc55d08a15fd23a4831f",
+    "title": "AI or SI or Computer intelligence?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x5j9jo/ai_or_si_or_computer_intelligence/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-14T05:43:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What is the right terminology to describe today's AI in society?<br /> - AI </p> <p>- SI </p> <p>- CI (Computer Intelligence) seems to be the right name for it; terrance tao also refers it by this name: <a href=\"https://www.youtube.com/shorts/R0jcWrZrWW8\">https://www.youtube.com/shorts/R0jcWrZrWW8</a> </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SnooPredictions515\"> /u/SnooPredictions515 </a> &#32; to &#32; <a href=\"htt",
+    "title_zh": "AI、SI 还是 CI？探讨当今人工智能的正确术语",
+    "summary_zh": "一篇 Reddit 讨论帖，探讨当今社会应使用 AI（人工智能）、SI（合成智能）还是 CI（计算机智能）来描述现有技术，并提及数学家陶哲轩也使用“计算机智能”这一名称。",
+    "key_points": [
+      "探讨 AI、SI 和 CI 三种术语哪个更适合描述当前技术",
+      "提及数学家陶哲轩倾向于使用“计算机智能”（CI）一词"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "477541e6d50751d4f1593f8c6e16c861",
+    "title": "Localized Neural learning vs backpropagation [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5itey/localized_neural_learning_vs_backpropagation_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-14T05:16:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve recently started exploring machine learning by building neural networks from scratch and studying the underlying mathematics. I come from a physics and mathematics background, and as I’ve become more familiar with backpropagation, I’ve grown increasingly interested in alternative learning mechanisms, particularly predictive coding, Hebbian learning, and Oja’s rule.<br /> What fascinates me is the possibility of networks learning through locally available in",
+    "title_zh": "局部神经学习与反向传播的对比讨论",
+    "summary_zh": "一位具有物理和数学背景的用户在学习反向传播后，对局部神经学习与反向传播两种方法产生兴趣，并在 Reddit 机器学习社区发起学术探讨，寻求深入理解。",
+    "key_points": [
+      "用户探讨局部神经学习与反向传播的差异",
+      "从物理学和数学背景出发，质疑反向传播的生物学合理性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d439e7ee9004eb3de0cb8bdd30f3d352",
+    "title": "Mesa expands NPU capabilities with support for YOLOX with PyTorch",
+    "url": "https://www.reddit.com/r/artificial/comments/1x5iha5/mesa_expands_npu_capabilities_with_support_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-14T04:56:50+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x5iha5/mesa_expands_npu_capabilities_with_support_for/\"> <img alt=\"Mesa expands NPU capabilities with support for YOLOX with PyTorch\" src=\"https://external-preview.redd.it/djiztqWcCQYglP6OhYQH8lkuOaCWLszoV-HWAI-tLMQ.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=639b315de14af0768a58db6e70d20995005514cb\" title=\"Mesa expands NPU capabilities with support for YOLOX with PyTorch\" /> </a> </td><td> &#32; submitted by &#32; <a ",
+    "title_zh": "Mesa 扩展 NPU 能力：现已支持基于 PyTorch 的 YOLOX",
+    "summary_zh": "Mesa 项目更新其神经网络处理单元（NPU）功能，宣布支持在 PyTorch 框架下运行 YOLOX 目标检测模型，增强了其在边缘设备上的 AI 推理能力。",
+    "key_points": [
+      "Mesa NPU 新增对 YOLOX 目标检测模型的支持",
+      "该扩展基于 PyTorch 框架，提升边缘 AI 推理能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "150545ec9c28883e2b3e02f0de5dbe12",
+    "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+    "url": "https://www.qbitai.com/2026/10/503172.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-10-14T04:51:32+00:00",
+    "content_snippet": "给Ego补上缺失的交互信息",
+    "title_zh": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+    "summary_zh": "一位中国最年轻的 AI 教授开启创业，旨在构建“全身全模态”世界模型，为自我中心感知系统补充缺失的交互信息，推动具身智能发展。",
+    "key_points": [
+      "国内最年轻 AI 教授创业，聚焦具身智能",
+      "目标是打造“全身全模态”世界模型，补全交互信息"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2324a7c63a7965eb5a0c09f9e458b2a4",
+    "title": "Google AI Long-Term Cross-Thread Memory Suddenly Gone",
+    "url": "https://www.reddit.com/r/artificial/comments/1x5i9kj/google_ai_longterm_crossthread_memory_suddenly/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-14T04:44:05+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For the past couple of months, Google AI (the AI accessed directly from google.com's AI mode, NOT Gemini) has had persistent memory, even randomly bringing up things I told it months ago when I'm in a new thread.</p> <p>A few days ago, the persistent cross-thread memory just disappeared very suddenly.</p> <p>What happened? How do I get it back? I've checked my settings a hundred times and it is turned on.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href",
+    "title_zh": "谷歌 AI 长期跨线程记忆功能突然消失",
+    "summary_zh": "用户反映谷歌搜索引擎内置的 AI 模式在过去几个月具备跨会话持久记忆，但近日该功能突然消失，引发社区对其稳定性的讨论，需注意此功能非指 Gemini 聊天机器人。",
+    "key_points": [
+      "谷歌 AI 模式的跨线程持久记忆功能突发消失",
+      "该功能独立于 Gemini 聊天机器人，指搜索引擎内置 AI"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "81dc325901b0dd007f4fd6b93c30856e",
+    "title": "SMBs Will Drive Next Boom — Perplexity CEO Aravind Srinivas: Small Companies + AI-Native = Huge Money, No Fortune 500 Logos Needed",
+    "url": "https://www.reddit.com/r/artificial/comments/1x5htm0/smbs_will_drive_next_boom_perplexity_ceo_aravind/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-14T04:18:23+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x5htm0/smbs_will_drive_next_boom_perplexity_ceo_aravind/\"> <img alt=\"SMBs Will Drive Next Boom — Perplexity CEO Aravind Srinivas: Small Companies + AI-Native = Huge Money, No Fortune 500 Logos Needed\" src=\"https://external-preview.redd.it/cmQxaXAzb3N6Y3ZoMSt9zCswslVzgeOaIur7_g8U63RWiIV0GOLI19jR1dA3.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b833bfd2590970970f4f13fec2554b9241441a3c\" title=\"SMBs Will Drive Next Boom — Pe",
+    "title_zh": "Perplexity CEO：中小企业将驱动下一波 AI 繁荣",
+    "summary_zh": "Perplexity CEO Aravind Srinivas 认为，拥抱 AI 的中小企业将创造巨大价值，无需依赖财富 500 强公司，中小企业市场将成为 AI 行业下一个增长引擎。",
+    "key_points": [
+      "Perplexity CEO 看好中小企业成为 AI 增长主力",
+      "认为 AI 原生中小企业市场潜力巨大，不依赖大客户"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3a45e61a4521f28d7c9b0fe3f46b13e1",
+    "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+    "url": "https://www.qbitai.com/2026/10/503165.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "zh",
+    "published": "2026-10-14T03:32:48+00:00",
+    "content_snippet": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+    "title_zh": "APUS AI 开源 Reflex Agent：响应速度是 Claude Code 3 倍，实现无限上下文",
+    "summary_zh": "APUS AI 宣布开源其 Personal Agent 产品 Reflex Agent，声称其响应速度比 Claude Code 快 3 倍，并实现了真正的无限上下文处理能力。",
+    "key_points": [
+      "APUS AI 开源个人代理产品 Reflex Agent",
+      "宣称响应速度为 Claude Code 的 3 倍，且支持无限上下文"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
