@@ -951,5 +951,143 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2b34f1dc7f143de56fa71b73e569d19f",
+    "title": "Weird pattern in the ICLR papers I was assigned to review [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-14T00:28:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I was assigned 3 ICLR papers to review. I generally consider myself a pretty nice reviewer but...all 3 of them are slop. Unfiltered Claude slop. The language is so awful it is almost impossible to read. Unfortunately, I imagine this is common among &quot;top&quot; conference submissions now.</p> <p>The reason I am posting here is because I noticed a strange similarity between all three papers. They all use very similar methods. They all start with the premise of",
+    "title_zh": "我在审阅的ICLR论文中发现一个奇怪现象",
+    "summary_zh": "一位审稿人发现其分配到的三篇ICLR投稿论文语言质量极差，疑似由AI（Claude）生成且未经人工精心修改，引发对顶级会议投稿质量的担忧。",
+    "key_points": [
+      "审稿人发现ICLR论文充斥AI生成的低质内容",
+      "所谓“顶级”会议投稿质量令人堪忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "06c39b4f84dca10f287673e41a243525",
+    "title": "What's one thing AI does that feels genuinely magical, even when you know how it works?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x5cbx4/whats_one_thing_ai_does_that_feels_genuinely/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T23:41:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>That moment when the technology still surprises you.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OfficalYOUSUMMIT\"> /u/OfficalYOUSUMMIT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1x5cbx4/whats_one_thing_ai_does_that_feels_genuinely/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comm",
+    "title_zh": "有哪些AI功能即使你了解其原理，仍感觉神奇？",
+    "summary_zh": "Reddit上的人工智能讨论帖，用户在交流哪些AI技术应用在理解其底层机制后，依然能让人感到惊叹和不可思议。",
+    "key_points": [
+      "社区探讨AI技术带来的持续惊喜感"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f698b7de989cb7f009b96356b455b65b",
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T23:13:31+00:00",
+    "content_snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "title_zh": "Science Corporation为Stargardt病患者植入首枚视力恢复芯片",
+    "summary_zh": "前Neuralink联合创始人Max Hodak的公司Science Corporation宣布，已成功为第一位Stargardt病（遗传性黄斑病变）患者植入了PRIMA视力恢复芯片，朝着新型脑机接口迈出重要一步。",
+    "key_points": [
+      "Science Corporation完成首例Stargardt病患视力芯片植入",
+      "PRIMA芯片旨在恢复因黄斑病变丧失的视力",
+      "这是通向新型脑机接口技术路径的一部分"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b982fab38e0cdceb68d9ffe382618acd",
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-13T23:05:34+00:00",
+    "content_snippet": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+    "title_zh": "Cerebras CEO称我们正接近人人拥有家庭AI助理的未来",
+    "summary_zh": "Cerebras首席执行官Andrew Feldman在TechCrunch Disrupt大会上预测，个人AI助理将像家用电器一样普及，其运算部分将在本地设备、部分在云端完成。",
+    "key_points": [
+      "预测个人AI助理将如家电般普及",
+      "AI任务将由本地设备与云端协同处理"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "516429bbb01f8dc243f9c4740c55822e",
+    "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+    "url": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-13T22:48:12+00:00",
+    "content_snippet": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+    "title_zh": "FTC指控Martin Shkreli直播自己违反终身制药禁令",
+    "summary_zh": "美国联邦贸易委员会指控臭名昭著的“制药哥”Martin Shkreli直播时公然谈论选股，涉嫌违反其终身不得从事制药行业的禁令。",
+    "key_points": [
+      "Shkreli被指控在直播中违反终身行业禁令",
+      "FTC已针对其行为采取行动"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ef5219e107b241737e36410758b94eff",
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-13T22:36:59+00:00",
+    "content_snippet": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "title_zh": "Cerebras CEO反驳AI末日论调",
+    "summary_zh": "Cerebras首席执行官Andrew Feldman在TechCrunch Disrupt上公开批评业界渲染AI风险的做法，认为对AI潜在危害的过度关注正在掩盖其能够带来的巨大益处。",
+    "key_points": [
+      "认为AI风险讨论盖过了其潜在价值",
+      "呼吁业界减少对AI末日的过度渲染"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
