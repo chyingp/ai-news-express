@@ -845,5 +845,195 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7b4078dd29028a235403e0afe69102a9",
+    "title": "How do people make videos free?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x65pg9/how_do_people_make_videos_free/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-14T22:57:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have chatgpt premium which sadly cant generate videos, I have an idea I want to animate but all options seem to cost money, is there any free alternative?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Xanma_6aki\"> /u/Xanma_6aki </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1x65pg9/how_do_people_make_videos_free/\">[",
+    "title_zh": "如何免费制作视频？",
+    "summary_zh": "用户寻求免费的AI视频生成或动画制作替代方案，因其使用的ChatGPT付费版不支持视频生成功能。",
+    "key_points": [
+      "用户寻找免费的AI视频动画生成工具",
+      "ChatGPT高级版不支持视频生成功能"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b771f398aeda561cd0a90aa838ef7777",
+    "title": "McKinsey is making job applicants spar with a fake AI client",
+    "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-14T22:53:31+00:00",
+    "content_snippet": "Consulting firm McKinsey &#38; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the [&#8230;]",
+    "title_zh": "麦肯锡要求应聘者与AI模拟客户进行对话",
+    "summary_zh": "麦肯锡将在部分初级岗位面试中引入AI模拟客户对话环节，该模拟旨在覆盖咨询顾问可能遇到的80%场景。",
+    "key_points": [
+      "麦肯锡面试新增AI模拟客户对话环节",
+      "AI模拟覆盖80%的真实咨询场景"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4272cef9180bf5f11885698492bdeea9",
+    "title": "Practical uses?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x64xe6/practical_uses/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-14T22:22:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI is being used for so many things, but the one thing we are confronting globally right now alongside climate change is that we are running out of fossil fuels and without those we can't really make plastic or a whole host of chemicals so we really need to stop spunking them on producing power and concentrate on recycling what we have already used.</p> <p>I'm old and all my life fringe researchers have been ruminating on cold fusion. Is anyone currently using A",
+    "title_zh": "AI如何应对化石燃料枯竭与塑料替代难题？",
+    "summary_zh": "Reddit用户讨论AI在应对化石燃料枯竭和寻找塑料替代品方面的实际应用，认为应优先解决此类全球性问题。",
+    "key_points": [
+      "讨论AI在应对化石燃料危机中的实际用途",
+      "强调寻找塑料替代品是全球性紧迫任务"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "56827513038b99bc46a611f90276d9e1",
+    "title": "Tracing where LLM \"slop\" style comes from in the model and in training, and cutting it out [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x64lbk/tracing_where_llm_slop_style_comes_from_in_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-14T22:08:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I wanted to find where the recognizable assistant style (em dashes, &quot;it's not X, it's Y&quot;, lists of three, buzzwords) lives in a model and which training stage installs it.</p> <p><strong>Where it lives:</strong> in Qwen3-4B-Instruct, a difference-in-means direction from the model's own exaggerated vs plain writing separates 64 hand-written minimal pairs. It correlates up to 0.82 with a trope-based slop score on normal output. Logit-lens readouts show a",
+    "title_zh": "追踪并消除大语言模型中的“垃圾”写作风格 [研究]",
+    "summary_zh": "研究通过分析Qwen3-4B模型，定位了LLM中“助理式陈词滥调”风格的来源，并探讨了在不同训练阶段去除该风格的方法。",
+    "key_points": [
+      "研究定位LLM中陈词滥调风格的来源",
+      "分析发现风格主要在模型后期层形成"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "886b315d1f3700b1f61ed095e61ed281",
+    "title": "Made a free Udemy. I call it Claudemy",
+    "url": "https://www.reddit.com/r/artificial/comments/1x63nwi/made_a_free_udemy_i_call_it_claudemy/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-14T21:29:04+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x63nwi/made_a_free_udemy_i_call_it_claudemy/\"> <img alt=\"Made a free Udemy. I call it Claudemy\" src=\"https://preview.redd.it/8bordwwp3ivh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ffecba53a3839cb29aeded4f6acee4a6769edf8\" title=\"Made a free Udemy. I call it Claudemy\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I wanted to learn about consulting but I wanted the information to come from actual experts.</p> <p>",
+    "title_zh": "我做了一个免费的Udemy，叫做Claudemy",
+    "summary_zh": "Reddit用户分享了一款名为Claudemy的免费在线学习项目，其功能类似免费版的Udemy。",
+    "key_points": [
+      "用户创建了名为Claudemy的免费学习平台",
+      "项目旨在提供类似Udemy的免费课程体验"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b72f25cbab4b4e5b46ce75c54eee772a",
+    "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-14T21:11:28+00:00",
+    "content_snippet": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when [&#8230;]",
+    "title_zh": "美国八个州起诉OpenAI，称ChatGPT对儿童不安全",
+    "summary_zh": "美国八个州联合起诉OpenAI，指控其聊天机器人ChatGPT危害儿童并误导消费者关于安全性的说明。",
+    "key_points": [
+      "美国八州以危害儿童为由起诉OpenAI",
+      "指控ChatGPT安全性存在虚假宣传"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "37b9190980f025dbbc239b040c93277a",
+    "title": "MoralityBench.ai: Open benchmark testing LLMs against validated human moral psychology instruments, updated results for Muse and Gemini 4 Argon",
+    "url": "https://www.reddit.com/r/artificial/comments/1x62rly/moralitybenchai_open_benchmark_testing_llms/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-14T20:52:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Moralitybench has been updated with Muse Wonder, GPT-6 Astra and Gemini 4 Argon. Argon refused to answer a number of questions, which is unusual for an LLM.</p> <p>Of the 16 LLMs tested only 3 had an agreement (meaning how much the answers changed each run) over &gt;90% across 5 test runs. Jev was also tested and displayed the highest level of agreement (95%).</p> <p>We do not offer an explanation of the significance of this testing. That is for the reader to de",
+    "title_zh": "MoralityBench.ai：针对Muse和Gemini 4 Argon更新道德心理基准测试",
+    "summary_zh": "开源基准测试MoralityBench更新了对最新大模型（包括Muse和Gemini 4 Argon）的道德心理学评估结果，发现Gemini 4 Argon存在异常拒答现象。",
+    "key_points": [
+      "基准测试评估大语言模型的道德一致性",
+      "Gemini 4 Argon在测试中表现出异常拒答"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "75727f1050f9a8689a0e8aa2554de77c",
+    "title": "We ran 500 questions through Gemini to see when it searches the web",
+    "url": "https://www.reddit.com/r/artificial/comments/1x62pgc/we_ran_500_questions_through_gemini_to_see_when/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-14T20:49:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>The study:</strong><br /> We ran 500 product questions through Google's Gemini: name a product and it searches the web 78% of the time; describe the need without naming one and it searches 7%, answering from memory.</p> <p><a href=\"https://www.opendecision.com/research/when-does-ai-search-the-web\">https://www.opendecision.com/research/when-does-ai-search-the-web</a></p> <p>One question we had that didn’t seem to have a clear answer anywhere was when AI s",
+    "title_zh": "我们向Gemini提了500个问题以研究其何时进行网络搜索",
+    "summary_zh": "一项研究通过500个产品问题测试发现，用户在提示中明确产品名称时，Gemini有78%的概率会进行网络搜索；而仅描述需求时，该比例降至7%。",
+    "key_points": [
+      "明确产品名称时78%的查询触发网络搜索",
+      "仅描述需求不指名时仅7%触发搜索"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
