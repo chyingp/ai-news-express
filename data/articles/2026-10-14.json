@@ -1089,5 +1089,78 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "ea6dde78ac7e2efb047290666b1930c8",
+    "title": "PhD students, how ya feeling? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x5fv1a/phd_students_how_ya_feeling_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-14T02:33:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>All seems a bit pointless now. Either pump out AI papers and neglect your own development, or take it slow and fall behind in the publishing race. I already have two papers made largely without LLMs (still seeking publication), but it's hard to resist just vibing the third from start to finish with Claude.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SeaAccomplished441\"> /u/SeaAccomplished441 </a> &#32; to &#32; <a href=",
+    "title_zh": "博士研究生,你们感觉如何？[讨论]",
+    "summary_zh": "一篇Reddit讨论帖,博士生对AI时代学术研究的意义感到迷茫,面临是依赖LLM大量发论文还是放慢节奏注重个人发展的两难选择。",
+    "key_points": [
+      "AI工具冲击传统博士培养模式,引发学术焦虑",
+      "博士生在借助LLM多发论文与保持个人成长间面临抉择"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "14045b84f7cd1c6661980904c94cb691",
+    "title": "If an AI helps discover a drug, who gets credit?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x5futt/if_an_ai_helps_discover_a_drug_who_gets_credit/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-14T02:33:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI may soon contribute to research in ways that are difficult to describe with traditional authorship.</p> <p>A model might suggest a molecule, identify a pattern in clinical data, or connect findings from papers that no individual researcher had time to read together.</p> <p>The human team still designs the experiment and checks the result, but the discovery process becomes shared with a system that cannot own credit.</p> <p>Should recognition go to the people ",
+    "title_zh": "如果AI帮助发现了药物,功劳该归谁？",
+    "summary_zh": "文章探讨AI在药物发现等科研中做出实质性贡献时,传统论文署名规则面临的挑战,AI可能建议分子、识别数据模式或连接跨领域发现。",
+    "key_points": [
+      "AI在科研中的贡献难以用传统作者身份界定",
+      "AI可能独立提出分子建议或跨领域数据关联",
+      "引发关于科研伦理与知识产权归属的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e4c7720184b2cb289d9a5cdceacbb32f",
+    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-14T02:00:14+00:00",
+    "content_snippet": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "title_zh": "Google DeepMind与新加坡政府联合发布AI防诈骗工具",
+    "summary_zh": "Google DeepMind与新加坡政府科技局合作,推出基于轻量级设备端Gemma模型的AI工具,可在完全不上传云端数据的情况下,在私密聊天中实时拦截诈骗对话。",
+    "key_points": [
+      "基于设备端Gemma模型,无需云端数据传输以保护隐私",
+      "专用于实时检测并拦截私密聊天中的诈骗对话",
+      "由Google DeepMind与新加坡政府科技局联合开发"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
