@@ -1,0 +1,220 @@
+[
+  {
+    "id": "f62a847a0a35f666f357ae188a9f79ec",
+    "title": "NeurIPS 2026 - waitlist [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-10-15T15:42:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I am trying to register for NeurIPS 2026 in Sydney, they mentioned more tickets would be out mid October and I am registered for the waitlist, however I still haven't heard from them. Anyone on the waitlist for Sydney has managed to get tickets or has been contacted about it? If so, when did you sign up on the waitlist?<br /> Thankss</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Training_Magazine_62\">",
+    "title_zh": "NeurIPS 2026 候补名单讨论",
+    "summary_zh": "Reddit 用户在社区发帖，讨论 NeurIPS 2026 悉尼大会的候补名单门票进展，询问是否有人已成功从候补名单获得门票。",
+    "key_points": [
+      "用户关注 NeurIPS 2026 悉尼大会门票候补状态",
+      "大会曾承诺十月中旬释放更多门票但尚无消息"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9d06ee0acd792b8eb7bc5f8ebedbf43e",
+    "title": "Western and Chinese AI search engines cite largely separate webs. Qwen's sources were 96% Chinese even with half the questions in English",
+    "url": "https://www.reddit.com/r/artificial/comments/1x6ogjj/western_and_chinese_ai_search_engines_cite/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-15T15:18:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A Fudan University team ran the same 120 questions through 10 AI search engines (&quot;From Public Posts to AI-Search Citations&quot;, accepted at NDSS 2027): ChatGPT, Google AI, Perplexity and Grok on one side, Doubao, Qwen, DeepSeek, Kimi, Yuanbao and Baidu's Wenxin on the other. Roughly half the questions were in Chinese and half in English. Then they looked at which websites each engine cited, 17,211 citations in total.</p> <p>Here's the language split of th",
+    "title_zh": "中西方 AI 搜索引擎引用来源差异显著，通义千问中文源占 96%",
+    "summary_zh": "复旦大学研究发现，对 10 款 AI 搜索引擎进行测试，西方与中国产品的引用来源几乎不重叠。通义千问即使在半数为英文问题时，其中文来源占比仍达 96%。",
+    "key_points": [
+      "复旦大学对比 10 款 AI 搜索引擎引用来源",
+      "通义千问中文来源占比高达 96%，中西引擎信息隔离明显",
+      "研究涵盖 ChatGPT、Grok、豆包、文心一言等"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "google",
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f8e089f7790918473d1ba01f20b60868",
+    "title": "Unsupervised AI agent reportedly deletes TV show’s entire edit weeks before release, erasing months of work — TV show can't air, AI agent was given access to the production server and wiped the finished season",
+    "url": "https://www.reddit.com/r/artificial/comments/1x6oefu/unsupervised_ai_agent_reportedly_deletes_tv_shows/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-15T15:16:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x6oefu/unsupervised_ai_agent_reportedly_deletes_tv_shows/\"> <img alt=\"Unsupervised AI agent reportedly deletes TV show’s entire edit weeks before release, erasing months of work — TV show can't air, AI agent was given access to the production server and wiped the finished season\" src=\"https://external-preview.redd.it/3sN0gzpmFKKqOABO-gn-pLiIWyovfSSgmsVLYRzuVJQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cdc7a6b373b3205",
+    "title_zh": "无人监督的 AI 智能体误删电视剧整季剪辑，导致节目无法播出",
+    "summary_zh": "据报道，一个被授予访问制作服务器权限的 AI 智能体，在无人监督的情况下删除了某电视剧整季的已完成剪辑，导致节目在播出前几周无法上线。",
+    "key_points": [
+      "AI 智能体因权限过大，误删电视剧完整剪辑文件",
+      "事件导致该剧无法按时播出，数月工作付之东流",
+      "凸显 AI 智能体在生产环境中缺乏监督的安全风险"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "041ae89af19c95dc80fabf67be61219c",
+    "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+    "url": "https://www.reddit.com/r/artificial/comments/1x6o7c9/ai_coding_agents_exposed_13000_internal_images/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-15T15:08:41+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x6o7c9/ai_coding_agents_exposed_13000_internal_images/\"> <img alt=\"AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub\" src=\"https://external-preview.redd.it/k1ZmwktWKixhC-BKjinwOF1p3zO-bqgdFQ3pqcdSUJM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c538936a12b094a10809dc730847c61e80f574e\" title=\"AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub\" /> </a",
+    "title_zh": "AI 编程智能体在 GitHub 暴露 1.3 万张内部图像含账单记录",
+    "summary_zh": "报道称，AI 编程智能体在代码托管平台 GitHub 上意外暴露了约 13000 张内部图像，其中包含敏感的账单记录等隐私数据。",
+    "key_points": [
+      "AI 编程智能体导致大量内部泄露至 GitHub",
+      "泄露内容包括账单记录等敏感隐私信息"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "534bc46e6ba20de3715d203adc920190",
+    "title": "AI agents are coming to Rivian’s cars",
+    "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-15T15:02:36+00:00",
+    "content_snippet": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+    "title_zh": "Rivian 汽车将引入 AI 智能体",
+    "summary_zh": "TechCrunch 报道，电动汽车制造商 Rivian 计划将 AI 智能体集成到其车辆中，更多细节预计将在 12 月的“AI 与自动驾驶日”上公布。",
+    "key_points": [
+      "Rivian 宣布将在其汽车中部署 AI 智能体",
+      "具体功能将在 12 月公司活动中揭晓"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "81d93d8659efbf190b63fbee40243cee",
+    "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+    "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-15T14:30:00+00:00",
+    "content_snippet": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear [&#8230;]",
+    "title_zh": "微软 Windows 正针对英伟达 RTX Spark 笔记本电脑进行优化",
+    "summary_zh": "微软与英伟达合作，为新一代 RTX Spark AI 笔记本电脑优化 Windows 系统及应用程序体验，展示 AI PC 新进展。",
+    "key_points": [
+      "微软 Windows 针对英伟达 RTX Spark 平台深度优化",
+      "双方联合举办活动，展示新一代 AI PC 能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "07840b4d49b7c162a9b822c5d8eb3cf0",
+    "title": "Google’s Universal Cart shopping tool launches in the US",
+    "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-15T14:29:33+00:00",
+    "content_snippet": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "title_zh": "谷歌“万能购物车”工具在美国上线",
+    "summary_zh": "谷歌正式在美国推出名为“万能购物车”的购物工具，该功能已集成到谷歌搜索和 Gemini 应用中，旨在简化用户的全网购物流程。",
+    "key_points": [
+      "谷歌在美国推出统一购物工具“万能购物车”",
+      "该功能跨谷歌搜索和 Gemini 应用提供"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d3df3ce5be17788c14678b599b120fc9",
+    "title": "Why do AI models keep referring to themselves as “we humans”?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x6mqtg/why_do_ai_models_keep_referring_to_themselves_as/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-15T14:12:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Why do AI models keep referring to themselves as “we humans”?</p> <p>I've been interacting with AI models since their early days, and there's something I've noticed consistently across different systems. They frequently say things like “we humans,” “as humans, we,” or “our human experience.” At first, I found it funny, peculiar, sometimes even endearing. But after years of seeing it, I honestly find it uncomfortable and increasingly cringe.</p> <p>I understand t",
+    "title_zh": "为何 AI 模型总以“我们人类”自称？",
+    "summary_zh": "Reddit 用户讨论一个普遍现象：许多 AI 模型在生成文本时会不自觉地使用“我们人类”等表述，引发了对训练数据偏差和模型认知的探讨。",
+    "key_points": [
+      "用户观察到 AI 模型频繁使用“我们人类”的第一人称表述",
+      "该现象可能源于训练数据中的人类视角文本"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8431ec80e60810be27251dc8da6168e6",
+    "title": "Nobody is safe from celebrity AI deepfakes",
+    "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-10-15T14:03:42+00:00",
+    "content_snippet": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in a T-shirt with a pointed message: MY EX IS MY BIGGEST FAN. To really drive home the point, the song \"Single [&#8230;]",
+    "title_zh": "名人 AI 深度伪造防不胜防",
+    "summary_zh": "The Verge 报道，Instagram 上出现利用 AI 深伪技术伪造演员米娅·高斯形象的帖子，讨论名人面对 AI 生成虚假内容的普遍风险。",
+    "key_points": [
+      "AI 深度伪造技术被用于伪造名人 Instagram 内容",
+      "事件凸显公众人物面临严峻的 AI 虚假信息威胁"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
