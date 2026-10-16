@@ -1060,5 +1060,333 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "fea87a584c3a33d9d986bb7e8441354a",
+    "title": "AI containment bingo, oct 2026 edition. this week alone already crossed off 7 squares. how many do you have?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x7ikor/ai_containment_bingo_oct_2026_edition_this_week/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-16T15:02:03+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x7ikor/ai_containment_bingo_oct_2026_edition_this_week/\"> <img alt=\"AI containment bingo, oct 2026 edition. this week alone already crossed off 7 squares. how many do you have?\" src=\"https://preview.redd.it/yh28q5xeguvh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=85051f95b2e6c40e2fe14923acbeeebcbb1cbd31\" title=\"AI containment bingo, oct 2026 edition. this week alone already crossed off 7 squares. how",
+    "title_zh": "AI 控制宾果，2026 年十月版：仅本周就已划掉七个格子，你中了几个？",
+    "summary_zh": "一篇 Reddit 帖子，以宾果游戏的形式列举了多种 AI 失控或产生意外后果的场景，并声称在 2026 年十月的一周内就已有多项应验。",
+    "key_points": [
+      "以宾果游戏形式调侃 AI 发展失控的多种可能场景",
+      "声称在 2026 年十月中旬一周内已有七项场景成为现实"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bdc8d1e10f35e05cb0bc57b9a3b92ef8",
+    "title": "Why I don't think AI will take our taste: we get bored of whatever is common and models make what's common",
+    "url": "https://www.reddit.com/r/artificial/comments/1x7hpyw/why_i_dont_think_ai_will_take_our_taste_we_get/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-16T14:28:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I don't think we can just train taste into AI agents and be left with nothing. Someone asked me exactly that after a talk I gave on taste in Prague last week (if taste is pattern matching and you can train it, why not?). Then I read the research to check myself.</p> <p><strong>Our brains pay out for surprise.</strong> Novel pictures activate the dopamine-producing midbrain in humans (Bunzeck and Düzel, Neuron, 2006). In monkeys, dopamine neurons fire for a new e",
+    "title_zh": "为何我认为 AI 不会夺走我们的品味：我们厌倦平庸，而模型只擅长制造平庸",
+    "summary_zh": "一篇 Reddit 讨论文章，作者认为人类会厌倦常见事物，而 AI 模型恰恰擅长生成常见的模式化内容，因此 AI 无法真正替代或夺走人类的审美和品味。",
+    "key_points": [
+      "作者认为人类会厌倦平凡事物，而 AI 模型善于生成常见内容",
+      "AI 无法通过模式匹配训练获得真正能与人类抗衡的品味"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "460fbf9a3796d84a1f8f082297185d71",
+    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-16T14:26:51+00:00",
+    "content_snippet": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "title_zh": "马克·沃尔伯格谈如何“正确”在电影中使用 AI，并对 AI 克隆人延续其遗产持开放态度",
+    "summary_zh": "演员兼投资人马克·沃尔伯格表示支持在电影制作中负责任地使用 AI，并愿意接受未来使用 AI 克隆技术来延续自己的银幕形象和演艺事业。",
+    "key_points": [
+      "沃尔伯格支持用 AI '增强'电影制作，而非滥用",
+      "他对未来采用 AI 克隆延续个人演艺遗产持开放态度"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a1282aae0bec814679dfba8ce37d058a",
+    "title": "Meta’s new terms may allow it to train AI on news sites for free",
+    "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-16T14:02:40+00:00",
+    "content_snippet": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to \"develop, improve, research,\" and \"train\" [&#8230;]",
+    "title_zh": "Meta 新服务条款或将允许其免费抓取新闻网站数据训练 AI",
+    "summary_zh": "据报道，Meta 即将生效的新服务条款可能赋予其权限，抓取使用其平台的商业伙伴相关的网站内容，包括在线新闻出版商，以用于开发和改进其 AI 技术。",
+    "key_points": [
+      "Meta 新条款可能允许其爬取合作企业相关网站的数据",
+      "条款将于 10 月 30 日生效，旨在利用外部内容开发 AI"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "19497513a218facab8c11c753e00b6ac",
+    "title": "Why are people who are extremely Anti AI choose to selectively target AI harming the environment and just shut there mouths on the other things that present a more serious harm?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x7gp20/why_are_people_who_are_extremely_anti_ai_choose/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-16T13:47:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For the record, I'm not super Pro-AI, i have some strong opinions against it and its cons but i am also open to see if it has any pros and whenever i point out there selective outrage, they just say that I'm doing whataboutism like no what I'm doing is being vocal about the things that harm the environment in order of how much they harm it, can't we be against both and just not selectively choose?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https:",
+    "title_zh": "为何极度反对 AI 的人选择性地抨击 AI 危害环境，却对其他更严重的危害视而不见？",
+    "summary_zh": "一篇 Reddit 讨论帖，发帖者质疑部分极端反 AI 人士选择性关注 AI 对环境的影响，却忽略了其他领域更严峻的环境问题，认为这是一种双重标准。",
+    "key_points": [
+      "批评反 AI 人士对 AI 环境影响的指责存在选择性",
+      "认为他们忽略了其他领域更严重、更需关注的环境危害"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "62c95b03adf65dd4af1aaa2d42915082",
+    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-16T12:55:09+00:00",
+    "content_snippet": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+    "title_zh": "Replit CEO 称未来工作的形态是“自动驾驶公司",
+    "summary_zh": "Replit CEO 阿姆贾德·马萨德描绘了“自动驾驶公司”的愿景，认为未来将由 AI 智能体处理日常运营任务，而人类则专注于更高层级的决策和创新。",
+    "key_points": [
+      "Replit CEO 提出‘自动驾驶公司’概念，AI 智能体将处理日常事务",
+      "人类员工将转向专注于高层决策和创新工作"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6fd77be0feae08499b53474f5994336e",
+    "title": "To reviewers: do you upload your review to an AI? (NOT the paper itself) [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x7f6ft/to_reviewers_do_you_upload_your_review_to_an_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-16T12:41:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The way I review a paper has stayed substantially the same, except for an added step. Trying to get a sense of how common it is here.</p> <p>Nowadays I do the review, and I upload my review to an AI to ask for second thoughts. I don't ever upload a paper I'm reviewing, though. The authors can do it themselves (if they want to, it's their call).</p> <p>So in the end, it's even more work for me. Not fun. But it has produced higher quality reviews, most of the time",
+    "title_zh": "致审稿人：你们是否会将评审意见上传给 AI 进行分析？",
+    "summary_zh": "一位 Reddit 用户发帖询问，学术同行在完成论文评审后，是否会将个人撰写的评审意见（但不包含原论文）上传给 AI，以获取第二意见或改进思路。",
+    "key_points": [
+      "调查学术审稿人是否使用 AI 辅助分析已完成的评审意见",
+      "仅上传个人评审内容，不包含待审论文的全文"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8f7c3f99b1cc5ec055c9cd128d8307d0",
+    "title": "Free online talk with Matthew Watkins, AI researcher, on 'AI gods / AI delusions'",
+    "url": "https://www.reddit.com/r/artificial/comments/1x7eyak/free_online_talk_with_matthew_watkins_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-16T12:31:00+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x7eyak/free_online_talk_with_matthew_watkins_ai/\"> <img alt=\"Free online talk with Matthew Watkins, AI researcher, on 'AI gods / AI delusions'\" src=\"https://external-preview.redd.it/JyphSjjcyhTFNGDLm8_A9Vii4lwbEarN-sOeRgRFNbQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d08e0452328fe491fd8ad1283c8c3e80a3ee8ff7\" title=\"Free online talk with Matthew Watkins, AI researcher, on 'AI gods / AI delusions'\" /> </a> </td><td> &#",
+    "title_zh": "AI 研究员马修·沃特金斯免费在线讲座：“AI 之神 / AI 妄念",
+    "summary_zh": "一场由 AI 研究员马修·沃特金斯主讲的免费在线讲座预告，主题探讨将 AI 神化或对 AI 产生不切实际妄念的社会文化现象。",
+    "key_points": [
+      "AI 研究员马修·沃特金斯将举办免费在线讲座",
+      "讲座主题聚焦于对 AI 的神化和过度幻想"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ec97128c42cac4ea94f88b1a13bb04ae",
+    "title": "How would you separate model improvements from agent infrastructure in an evaluation?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x7eq1o/how_would_you_separate_model_improvements_from/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-16T12:20:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In the October 12 Cheeky Pint episode, Zuckerberg and Wang describe agent behaviour as something shaped through model training, while also discussing the surrounding privacy and security infrastructure.</p> <p>How would you test which layer is responsible for better results? Holding the tools and task set fixed while swapping models seems useful, but models may have been trained around different tool interfaces.</p> <p>Would a comparison need both a shared setup",
+    "title_zh": "如何在评估中区分模型本身的改进和智能体基础设施的改进？",
+    "summary_zh": "一篇 Reddit 技术讨论，探讨如何设计评估方法，以解耦分析大语言模型本身能力的提升与提示工程、安全框架等智能体基础设施优化各自带来的表现增益。",
+    "key_points": [
+      "探讨如何将模型能力提升与智能体基础设施改进区分评估",
+      "讨论源自扎克伯格等人关于智能体行为塑造的对话"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f0b7bdc91180aff5ad8929401a72434b",
+    "title": "Where to follow what people do w/ AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1x7epak/where_to_follow_what_people_do_w_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-16T12:19:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, sorry for few English mistzkes i'm French.</p> <p>Post here because i want to know where you all get your informations from. I would like to keep in track with what peoples are doing with ai, like they did with blender or Adobe, knowing every decompiled game etc. I didnt find a Reddit sub or a forum that got every AI users post</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Rinkashimiiii\"> /u/Rinkashimiiii </a",
+    "title_zh": "去哪里关注人们如何使用 AI 进行创作",
+    "summary_zh": "一位法国用户发帖询问，希望像过去关注 Blender 或 Adobe 社区那样，找到可以追踪和了解人们实际使用 AI 进行各种创作和实践的最新动态的信息源。",
+    "key_points": [
+      "用户寻求追踪人们使用 AI 进行创作实践的可靠信息源",
+      "希望像关注 Blender 等软件社区一样关注 AI 应用动态"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "482e4b85ac530056ea1a3e14d4859d81",
+    "title": "The Download: failed social media bans, and extending pets’ lives",
+    "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-16T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. In July, France joined&#8230;",
+    "title_zh": "The Download：社交媒体禁令的失效与宠物寿命的延长",
+    "summary_zh": "本期麻省理工科技评论的日常通讯探讨了两个话题：一是年轻人如何绕过各类社交媒体禁令，研究认为这并非急需解决的问题；二是关于延长宠物寿命的科技进展。",
+    "key_points": [
+      "儿童正在轻松绕开社交媒体禁令，研究者认为无需过度担忧。",
+      "通讯涵盖了科技在延长宠物寿命方面的最新应用。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f49d514bdcc1ac0ecbe00e6c4c2752dc",
+    "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+    "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-16T12:00:05+00:00",
+    "content_snippet": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
+    "title_zh": "Surface Laptop Ultra 兑现了微软的大部分承诺",
+    "summary_zh": "Ars Technica 评测了微软的 Surface Laptop Ultra，认为这款设备基本实现了其开发、人工智能和游戏三合一的目标，但可能仍有改进空间。",
+    "key_points": [
+      "设备定位为兼顾开发、AI 和游戏的多合一产品。",
+      "评测认为该产品基本兑现了微软的宣传承诺。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4c9ec5741f063f2cebc70e3922bd07fa",
+    "title": "Qdrant tests Perplexity’s PDF embeddings: 21× smaller compressed vectors, with originals still stored",
+    "url": "https://www.reddit.com/r/artificial/comments/1x7dxuw/qdrant_tests_perplexitys_pdf_embeddings_21/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-16T11:41:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Qdrant tested Perplexity’s new visual document embeddings on 11,609 pages across four ViDoRe v3 datasets. The models search pages as images, so tables and layout can stay intact.</p> <p>Their result: 1-bit TurboQuant reduced the compressed vectors from 856 KB to 40 KB per page while retaining 96.5% of the float32 retrieval score. Rescoring against the originals brought that to 99.9%.</p> <p>The important catch is storage: those 40 KB exclude the original vectors",
+    "title_zh": "Qdrant 测试 Perplexity 的 PDF 嵌入技术：压缩向量体积缩小 21 倍",
+    "summary_zh": "Qdrant 对 Perplexity 的可视文档嵌入模型进行了测试，发现其采用的 1 位 TurboQuant 量化技术能将压缩后的向量大小从 856 KB 减少到 40 KB，且保留了原始信息。",
+    "key_points": [
+      "测试显示新模型可将压缩向量体积缩小至原来的近 21 分之一。",
+      "该技术将文档页面作为图像搜索，能更好地保留表格和布局结构。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eba7db3b5dd5a9658b7f7a516db75f7e",
+    "title": "does anyone else feel like we collectively stopped being surprised by AI way too fast",
+    "url": "https://www.reddit.com/r/artificial/comments/1x7d8ng/does_anyone_else_feel_like_we_collectively/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-16T11:03:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>something that happened eighteen months ago would’ve been front page news everywhere, now it’s a Tuesday. new model drops, does something that would’ve seemed insane in 2022, gets a few upvotes and we move on</p> <p>not sure if that’s a sign we’ve genuinely adjusted or if we’re just numb to it at this point. curious if people think that’s healthy or if we’re sleepwalking past stuff we should actually be paying attention to</p> </div><!-- SC_ON --> &#32; submitte",
+    "title_zh": "有人觉得我们对 AI 进步已经太快见怪不怪了吗？",
+    "summary_zh": "一个 Reddit 讨论帖指出，科技界对 AI 的突破性进展已快速脱敏。过去足以成为头条新闻的模型发布，现在已沦为日常话题，引发了对行业适应速度的思考。",
+    "key_points": [
+      "AI 领域的重大突破已很难像过去那样引发惊叹和广泛关注。",
+      "社区认为这种现象可能意味着人们已真正适应了 AI 的快速进步。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
