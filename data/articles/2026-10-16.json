@@ -793,5 +793,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bf51e81669464bf240dcd9bad92edaeb",
+    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+    "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-16T01:44:47+00:00",
+    "content_snippet": "",
+    "title_zh": "扩展印度语言预训练：2.8万亿Token及开放数据生成管道",
+    "summary_zh": "本文介绍了使用约2.8万亿Token对印度语言进行大规模预训练的工作，并公开了其数据生成管道，旨在提升印度语言AI模型的性能与可复现性。",
+    "key_points": [
+      "为提升印度语言AI能力，进行了2.8万亿Token的大规模预训练",
+      "项目公开了数据生成管道，以促进研究和可复现性",
+      "该工作涉及的数据和模型规模对多语言AI发展具有重要意义"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4547167691da9a324a7a2e8fa52edc56",
+    "title": "Accenture restricts monthly employee spending on Claude to $29/month",
+    "url": "https://www.reddit.com/r/artificial/comments/1x737yd/accenture_restricts_monthly_employee_spending_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-16T01:21:06+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x737yd/accenture_restricts_monthly_employee_spending_on/\"> <img alt=\"Accenture restricts monthly employee spending on Claude to $29/month\" src=\"https://external-preview.redd.it/bethG8hMbD05zEERk3jExkMZOV0_dJX1bkwhJO4085A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cac23c51d91d85f23fdbd89903adeda31b225444\" title=\"Accenture restricts monthly employee spending on Claude to $29/month\" /> </a> </td><td> &#32; submitted by &",
+    "title_zh": "埃森哲限制员工对Claude的月度消费至29美元",
+    "summary_zh": "咨询公司埃森哲将其员工每月在AI助手Claude上的公司支出限制为29美元，此举可能反映了企业对AI工具成本控制的趋势。",
+    "key_points": [
+      "埃森哲实施新规，限制员工每月对Claude的使用支出为29美元",
+      "此举可能成为企业控制AI工具订阅成本的案例"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "31c84818fd6a3c1809a3a8d949b88982",
+    "title": "Which of Kissinger’s 6 AI scenarios do you think is most likely?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x734ve/which_of_kissingers_6_ai_scenarios_do_you_think/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-16T01:16:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In his final book there are six possible futures. </p> <p>“1. Humanity will lose control of an existential race between multiple actors trapped in a security dilemma.<br /> 2. Humanity will suffer the exercise of supreme hegemony by a victor unharnessed by the checks and balances traditionally needed to guarantee a minimum of security for others.<br /> 3. There will not be just one supreme AI but rather multiple instantiations of superior intelligence in the wor",
+    "title_zh": "基辛格提出的6种AI未来情景，你认为哪一种最可能发生？",
+    "summary_zh": "文章探讨了基辛格在其遗作中预言的六种人工智能未来情景，包括AI军备竞赛失控、AI霸权统治等，并引发社区对最可能情景的讨论。",
+    "key_points": [
+      "探讨了基辛格关于AI未来的六种可能情景，涵盖安全困境和霸权统治",
+      "内容源自Reddit社区围绕基辛格观点的讨论帖"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cb389b54305fa9792bfe745d85bda18d",
+    "title": "Frontier AI revenue growth could slow even while AI usage keeps rising",
+    "url": "https://www.reddit.com/r/artificial/comments/1x72gor/frontier_ai_revenue_growth_could_slow_even_while/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-16T00:43:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My six-month prediction is that frontier-model providers could see slower revenue growth without any slowdown in overall AI adoption.</p> <p>The reason is task economics.</p> <p>For difficult coding or research, a stronger model might justify a substantial premium. For extracting fields from a document or drafting a routine email, the extra capability may not change the outcome enough to justify the extra cost.</p> <p>An application developer has an incentive to",
+    "title_zh": "前沿AI收入增长或将在AI使用率上升的同时放缓",
+    "summary_zh": "有预测认为，尽管AI整体采用率持续上升，但前沿模型提供商的收入增长可能因任务经济学原因而放缓，高价模型仅在部分复杂任务中具有明显优势。",
+    "key_points": [
+      "预测前沿AI模型收入增速可能在未来六个月内放缓",
+      "原因是用户只愿为复杂的编码或研究等特定任务支付高价",
+      "AI使用率的整体提升与模型商收入的增长可能不成正比"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
