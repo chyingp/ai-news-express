@@ -675,5 +675,123 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3f579372e804f00928cce70aac63e3f3",
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-15T23:44:56+00:00",
+    "content_snippet": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.",
+    "title_zh": "Cal AI 病毒式成功的背后：一小群网红功不可没",
+    "summary_zh": "Cal AI 在两年内创造了超过3000万美元的收入，并于三月被 MyFitness 以未公开价格收购。文章复盘了其通过小型网红矩阵实现病毒式增长的成功路径。",
+    "key_points": [
+      "Cal AI 两年内收入超3000万美元后被 MyFitness 收购",
+      "病毒式成功源于精心布局的小型网红营销策略"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cd93513c56f07cc93685e2abd205a8cb",
+    "title": "AI deepfakes are getting out of hand.",
+    "url": "https://www.reddit.com/r/artificial/comments/1x70tlj/ai_deepfakes_are_getting_out_of_hand/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-15T23:26:26+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x70tlj/ai_deepfakes_are_getting_out_of_hand/\"> <img alt=\"AI deepfakes are getting out of hand.\" src=\"https://external-preview.redd.it/IWKwvV-HP1mhZaocKuohovbHLN7JAVcoVvLGivQxaUk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=41d0d1b8c4864fa937d4fa3ab3beeeeefa232983\" title=\"AI deepfakes are getting out of hand.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Been reading about AI voice scams lately and it's honestly m",
+    "title_zh": "AI 深度伪造正在失控",
+    "summary_zh": "Reddit 社区讨论 AI 深度伪造技术带来的负面影响，关注其日益严峻的失控态势与社会危害。",
+    "key_points": [
+      "AI 深度伪造技术滥用问题引发广泛担忧",
+      "网友讨论深度伪造对社会信任和隐私的冲击"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "223b4e59111dffa96639fb7b37e2d6d9",
+    "title": "What's an AI feature that sounds impressive in a demo but is much less useful in real life?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x70ohx/whats_an_ai_feature_that_sounds_impressive_in_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-15T23:19:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What goes wrong when you actually try it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OfficalYOUSUMMIT\"> /u/OfficalYOUSUMMIT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1x70ohx/whats_an_ai_feature_that_sounds_impressive_in_a/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1x7",
+    "title_zh": "哪些 AI 功能在演示中惊艳，实际却不太有用？",
+    "summary_zh": "Reddit 用户发起讨论，探讨那些在演示中看起来很强大但实际使用场景下效果大打折扣的 AI 功能，分析其落地难的原因。",
+    "key_points": [
+      "网友盘点演示惊艳但实用性差的 AI 功能",
+      "讨论聚焦于 AI 功能从演示到实际应用的落差"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "953a262ff105c232f209c3f7f6849e23",
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-15T22:43:23+00:00",
+    "content_snippet": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video [&#8230;]",
+    "title_zh": "ChatGPT 现在可以窥视你的 Chrome 标签页了",
+    "summary_zh": "OpenAI 为 ChatGPT 的 Chrome 扩展程序推出升级，允许其在获用户授权后查看当前打开的浏览器标签页内容，以便提供更连贯的交互体验。",
+    "key_points": [
+      "ChatGPT Chrome 扩展新增查看用户浏览器标签页功能",
+      "此举旨在让 ChatGPT 结合网页内容提供更具上下文的帮助"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "179bf541be9616a0f90522654fa4ceaf",
+    "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+    "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-15T22:35:55+00:00",
+    "content_snippet": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its [&#8230;]",
+    "title_zh": "世嘉因灾难性发布下架《全面战争：幕府将军2》重制版",
+    "summary_zh": "因游戏存在严重漏洞且疑似使用 AI 进行画面升频导致质量低下，世嘉在发售仅数日后紧急下架了《全面战争：幕府将军2》完整版。",
+    "key_points": [
+      "游戏因漏洞和疑似 AI 升频问题遭玩家大量投诉",
+      "世嘉下架《幕府将军2》重制版以应对灾难性发布"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
