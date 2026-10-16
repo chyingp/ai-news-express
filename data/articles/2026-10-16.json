@@ -891,5 +891,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e40f74052517c24f26f03e12b7b4cc16",
+    "title": "Companies rushed in on AI. Now some are pulling back",
+    "url": "https://www.reddit.com/r/artificial/comments/1x772ca/companies_rushed_in_on_ai_now_some_are_pulling/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-16T04:44:06+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x772ca/companies_rushed_in_on_ai_now_some_are_pulling/\"> <img alt=\"Companies rushed in on AI. Now some are pulling back\" src=\"https://external-preview.redd.it/rp3HkwcPvU1qL07PPE5ivA4RFf055fC_vRhBsGZrWFA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=661f5137e5736024f989d4cca8fafe2dd2cde8b2\" title=\"Companies rushed in on AI. Now some are pulling back\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.c",
+    "title_zh": "企业争相投入 AI，如今部分开始撤退",
+    "summary_zh": "文章探讨了企业在初期大规模涌入人工智能领域后，现在部分公司开始撤回或减少 AI 相关投入的行业现象，反映了从狂热到理性的转变趋势。",
+    "key_points": [
+      "部分企业从 AI 热潮中撤退，削减相关投资",
+      "行业正从初期狂热转向更理性的投入评估",
+      "标志着 AI 应用进入更务实的落地调整阶段"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0aa5e2749b10f7f63ac9fc441ef2c11f",
+    "title": "How many of your paper (either paper you authored or reviewed) are desk rejected? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x75edb/how_many_of_your_paper_either_paper_you_authored/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-16T03:13:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Just spend 4h reviewing a paper while I was sick, gave it a 3/4. This morning got an email saying it's desk rejected. I saw many people around me also have many papers desk rejected. I heard, though idk how true it is, some people use multiple accounts to bypass the 20 paper limit and all their paper got DR.</p> <p>edit: I mean ICLR</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Striking-Warning9533\"> /u/Striking-Warning95",
+    "title_zh": "你的论文有多少被直接拒稿？",
+    "summary_zh": "一篇 Reddit 讨论帖，作者分享了自己花费时间审阅论文后却收到直接拒稿通知的经历，并询问其他研究人员遭遇类似情况的频率，引发了关于同行评审流程的讨论。",
+    "key_points": [
+      "研究者花费 4 小时审稿，论文仍被直接拒稿",
+      "社区讨论高水平拒稿率现象的普遍性",
+      "涉及对当前学术评审流程效率的反思"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1ef07b36e7e7af78fc321d63521635f9",
+    "title": "Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month",
+    "url": "https://www.reddit.com/r/artificial/comments/1x74q4z/accenture_tells_employees_they_can_now_spend_only/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-16T02:38:26+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x74q4z/accenture_tells_employees_they_can_now_spend_only/\"> <img alt=\"Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month\" src=\"https://external-preview.redd.it/qMSQz1H1aQrcBWwa-CVGOKMz4MJIq-fHJtLWG3VASd0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ffd90a0a0d585d752c033bf3faeaed2c4e3ed88\" title=\"Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month\" /> </a> </td><td> &#32; sub",
+    "title_zh": "埃森哲内部通知员工每月 Claude 预算仅有 29 美元",
+    "summary_zh": "据报道，咨询巨头埃森哲通知员工，其每月可用于 Claude 服务的开支被限制在 29 美元，这可能反映了企业在 AI 工具成本控制上的新动向。",
+    "key_points": [
+      "埃森哲将员工每月 Claude 预算设为 29 美元",
+      "此举体现了企业对 AI 工具成本的控制策略",
+      "涉及 Anthropic 公司的 Claude 产品"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
