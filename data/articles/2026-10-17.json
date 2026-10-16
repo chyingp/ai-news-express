@@ -311,5 +311,80 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "13131774e8114bcfdc9fad3816a483c6",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-16T21:22:28+00:00",
+    "content_snippet": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+    "title_zh": "Replit 停止与 Anthropic 合作",
+    "summary_zh": "Replit 首席执行官表示已终止与 Anthropic 的合作关系，原因涉及成本等多个方面。该公司虽在 8 月宣布与 OpenAI 合作，但此前未透露与 Anthropic 解约的消息。",
+    "key_points": [
+      "Replit 因成本等多重原因终止与 Anthropic 合作",
+      "该公司已于 8 月与 OpenAI 建立合作伙伴关系",
+      "此前外界未获悉 Replit 与 Anthropic 合作中断"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d28099c5d4fb369e3338b492977e6d52",
+    "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+    "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-16T20:20:07+00:00",
+    "content_snippet": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+    "title_zh": "新泽西检察官因利用 AI 制作儿童性虐待材料被捕",
+    "summary_zh": "新泽西州一名副检察长因涉嫌利用 AI 制作儿童性虐待材料而被捕。该案由 Discord 用户举报后，经警方调查触发逮捕行动。",
+    "key_points": [
+      "新泽西州副检察长涉嫌用 AI 制作非法儿童性虐待材料",
+      "Discord 用户举报导致案件曝光和警方介入",
+      "案件中涉及 AI 技术被滥用于犯罪活动"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b1ded3be81291ae220c28dc26b4214a7",
+    "title": "ModelSphere launches as an open-source LLM deployment platform for mixed GPU fleets",
+    "url": "https://www.reddit.com/r/artificial/comments/1x7q9w4/modelsphere_launches_as_an_opensource_llm/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-16T19:56:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Phancy Group and RiseUnion have launched ModelSphere, an open-source LLM deployment platform now available on GitHub under Apache 2.0. The project targets production serving with Kubernetes, Helm, SGLang, and vLLM, rather than a new model or chat app.</p> <p>Its README lists autoscaling, cache-aware request routing, a shared KV cache, support for several accelerator families, and recovery of in-flight generations after service interruptions. Those are project cl",
+    "title_zh": "ModelSphere 开源 LLM 部署平台发布，支持混合 GPU 集群",
+    "summary_zh": "Phancy Group 和 RiseUnion 推出开源大语言模型部署平台 ModelSphere。该项目基于 Kubernetes、Helm、SGLang 和 vLLM，专注于生产环境服务，适用于混合 GPU 集群。",
+    "key_points": [
+      "开源平台 ModelSphere 发布，采用 Apache 2.0 许可",
+      "专为混合 GPU 集群的生产级 LLM 部署设计",
+      "整合 Kubernetes、Helm、SGLang 和 vLLM 技术"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
