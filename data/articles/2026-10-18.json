@@ -168,5 +168,107 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "dc44a51ff91dd36e73a4ef03b1fac9a0",
+    "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-17T21:00:13+00:00",
+    "content_snippet": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.  Starting at $2,399, laptops from ASUS, Dell, HP, Lenovo, Microsoft and MSI bring powerful local AI, content creation and gaming capabilities to a portable device, with [&#8230;]",
+    "title_zh": "RTX Spark点燃全球庆典，新款Windows PC上市",
+    "summary_zh": "英伟达宣布搭载Blackwell RTX显卡的RTX Spark笔记本电脑上市，配备最高128GB统一内存和完整AI平台，起售价2399美元，由华硕、戴尔等品牌推出，主打本地AI和内容创作。",
+    "key_points": [
+      "英伟达推出RTX Spark笔记本，起售价2399美元",
+      "配备Blackwell RTX显卡和最高128GB统一内存",
+      "华硕、戴尔、微软等品牌首批搭载，专注于本地AI任务"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "153fffadd7d6267dfdc8a0a2a3493208",
+    "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-17T19:41:19+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/\"> <img alt=\"17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]\" src=\"https://external-preview.redd.it/2TB3JmxWwucJ9pcGYD-0stb9bY_Ylj6_LfeCy1mIflM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=846d4e07fdb8519a0940eed992153c079e906d7c\" title=\"17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]\" /> </a> </td><td> &#32; submitted by ",
+    "title_zh": "17个AI模型、7700手扑克对决：前沿模型、廉价模型、本地模型与Jev对弈",
+    "summary_zh": "一项关于扑克游戏的AI实验在Reddit引发讨论，对比了17个AI模型在7700手牌中的表现，测试了前沿模型、廉价模型、本地模型和Jev的能力。",
+    "key_points": [
+      "实验测试了17个AI模型在扑克游戏中的表现",
+      "对比了前沿模型、廉价模型、本地模型和Jev的能力",
+      "实验结果在Reddit机器学习社区引发关注和讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8efb2eb182234560de0d1d0f4e9dc871",
+    "title": "Retired Penn professor arrested for blocking Uber Eats robot Robotics/Automation",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8ijyg/retired_penn_professor_arrested_for_blocking_uber/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-17T19:12:57+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x8ijyg/retired_penn_professor_arrested_for_blocking_uber/\"> <img alt=\"Retired Penn professor arrested for blocking Uber Eats robot Robotics/Automation\" src=\"https://external-preview.redd.it/uICViLFpURUQCSLhBOEGplo4gEeseO5-sOZzpfr9erM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6545b1949e671384eb9517fc5a60d5a8879787ee\" title=\"Retired Penn professor arrested for blocking Uber Eats robot Robotics/Automation\" /> </a> </td>",
+    "title_zh": "宾夕法尼亚大学退休教授因阻拦Uber Eats机器人被捕",
+    "summary_zh": "一名宾夕法尼亚大学退休教授在阻拦Uber Eats送餐机器人时被逮捕，事件发生在校园或附近区域，引发公众对自动化机器人与人类互动的关注。",
+    "key_points": [
+      "宾大退休教授因阻拦Uber Eats送餐机器人被捕",
+      "事件反映了公众对自动化机器人的态度和潜在冲突",
+      "该新闻在Reddit人工智能板块引发关于机器人技术的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5329074f895835a3effbd8ccf80a023e",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-17T18:48:08+00:00",
+    "content_snippet": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "title_zh": "Replit CEO称已默认转向OpenAI，取代Anthropic",
+    "summary_zh": "Replit首席执行官宣布已将平台默认AI模型提供商从Anthropic更换为OpenAI，但Claude模型仍可供客户继续使用，此举反映了AI开发平台在模型选择上的策略调整。",
+    "key_points": [
+      "Replit将默认AI模型从Anthropic更换为OpenAI",
+      "Claude模型仍作为可选项供平台客户使用",
+      "此决定反映了Replit在模型提供商策略上的重大转变"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
