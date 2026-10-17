@@ -409,5 +409,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "41d402ebb966af6cc9727483e362594e",
+    "title": "From a single artificial neuron to Transformers: The wild evolutionary tree of AI, and what comes next ?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x82g80/from_a_single_artificial_neuron_to_transformers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-17T05:51:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It’s crazy to think that the entire modern AI revolution started with researchers just trying to mathematically mimic a single biological neuron. When you zoom out, the timeline of AI architectures looks exactly like an evolutionary tree.</p> <p>We went from struggling to solve basic logic puzzles (shoutout to the XOR problem) to building early neural networks, realizing they forgot things too quickly, battling the vanishing gradient problem, inventing LSTMs to ",
+    "title_zh": "从单个神经元到Transformer：AI的疯狂演化树与未来展望",
+    "summary_zh": "文章回顾了人工智能架构从模拟单个生物神经元到当前Transformer模型的发展历程，并将其比作一棵演化树，探讨了技术演进路径及未来可能的发展方向。",
+    "key_points": [
+      "AI架构从模拟单个生物神经元演化为复杂的Transformer模型",
+      "整个发展历程被形象地比作一棵演化树",
+      "文章旨在梳理技术脉络并展望AI架构的未来"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "728c5c47e0bd1320360014bde7d445c9",
+    "title": "Please Help me !! I’m being harassed and threatened",
+    "url": "https://www.reddit.com/r/artificial/comments/1x81him/please_help_me_im_being_harassed_and_threatened/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-17T04:55:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>TLDR:</p> <p>• ⁠We’re two 19-year-old undergraduate AI/ML researchers from a Tier-3 college in a remote town in India. We’ve won two national-level hackathons, and three of our papers have been accepted at NeurIPS workshops.<br /> • ⁠We’re facing ongoing harassment and academic pressure at our college, including threats of detention when we refuse unrelated, unpaid projects. We receive virtually no institutional support.<br /> • ⁠We need approximately $3,100 for",
+    "title_zh": "求助：两名19岁印度AI研究人员声称遭受骚扰与威胁",
+    "summary_zh": "两名来自印度偏远地区三流大学的19岁本科生AI研究员发帖求助，称他们尽管曾赢得全国黑客马拉松且论文被NeurIPS研讨会接收，但正在遭受持续的骚扰和威胁。",
+    "key_points": [
+      "两名19岁印度AI本科生研究员声称遭受骚扰和威胁",
+      "他们已获得国家级竞赛奖项和顶会论文接收",
+      "发帖旨在寻求帮助应对当前困境"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
