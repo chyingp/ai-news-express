@@ -270,5 +270,99 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e22cd6ab63f38d35091ba5d07afabe2c",
+    "title": "scared and upset",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8onnf/scared_and_upset/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-17T23:43:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>if ai takes all the jobs how will we afford to live and pay off things like our rent, car payments, loans, etc. and what is the point of not having us be able to pick a career and make our own money? do they want us to just die and be controlled, i can’t even dream of a good future because i don’t want to follow my dream career path if it’s not even going to be an option anymore :(</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com",
+    "title_zh": "害怕与不安",
+    "summary_zh": "Reddit用户发帖表达对AI取代所有工作后人类如何谋生、支付账单及实现个人职业梦想的深切担忧与恐惧。",
+    "key_points": [
+      "AI若全面取代人类工作，社会将面临生存危机",
+      "用户质疑生命意义与个人价值实现的途径"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "637ebb5e09475f66714ad7219972ff73",
+    "title": "What is wrong with AI writing - ICLR edition [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8oksb/what_is_wrong_with_ai_writing_iclr_edition_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-17T23:40:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm sure many of us are slogging through impenetrable AI writing as we finish ICLR reviewing.</p> <p>I'll try to create an anonymized version from a paper I'm reviewing, though it's hard to match Claude on this:</p> <blockquote> <p>outperforms the best baseline costing no more at none of six operating points and a permuted placebo at none of three, with gains up to about 1.5 not excluded</p> </blockquote> <p>My question for the community is this: how do we call ",
+    "title_zh": "AI写作的问题出在哪 - ICLR审稿版[D]",
+    "summary_zh": "一篇Reddit帖子讨论了在ICLR论文评审中遇到的AI生成文本问题，指出其难以理解，并尝试对一篇论文进行匿名化处理来展示问题。",
+    "key_points": [
+      "ICLR审稿人指出AI生成论文文本晦涩难懂",
+      "帖子尝试匿名化处理一篇论文以说明AI写作的缺陷"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "514291088fc1f8cf82e526f59f34a720",
+    "title": "Who will win in AI race?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8oizy/who_will_win_in_ai_race/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-17T23:37:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>As I am thinking about AI I feel like the companies Open AI and Atrophic I just purely set up to win the race. Isn't AI race is all about compute power? And the companies like Meta, Microsoft, Google already better positioned because they own a lot of infrastructure? And infrastructure is not only the data centers but also tool that can benefit integrating LLM's with it (Android, Office, Social Networks)?</p> <p>Or do Open AI or Anthropic have some unknown metho",
+    "title_zh": "谁将在AI竞赛中胜出？",
+    "summary_zh": "Reddit用户讨论AI竞赛的本质是否为算力之争，并指出Meta、微软、谷歌等拥有庞大基础设施的巨头公司可能比OpenAI等初创公司更具优势。",
+    "key_points": [
+      "AI竞赛的核心可能在于算力资源",
+      "拥有大量基础设施的科技巨头被认为更具优势"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24a6bb2519a404ce2c6135aaef66c2a3",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-17T21:31:32+00:00",
+    "content_snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "title_zh": "Meta移除引发数据抓取与AI训练担忧的条款",
+    "summary_zh": "Meta移除了其服务条款中曾引发外界对于其抓取网页数据用于AI训练担忧的语言表述，但发言人坚称这并未改变其实际抓取行为。",
+    "key_points": [
+      "Meta更新服务条款，删除涉及数据抓取的敏感表述",
+      "Meta发言人强调抓取网页的方式本身并未改变"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
