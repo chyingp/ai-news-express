@@ -670,5 +670,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e2fbbb56508b791ae920ce4c5d746f7a",
+    "title": "EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-17T14:48:25+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/\"> <img alt=\"EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deterministic Scikit-Learn pipelines [P]\" src=\"https://preview.redd.it/znmjaciji1wh1.gif?frame=1&amp;width=140&amp;height=78&amp;auto=webp&amp;s=6ae559fe46a95951315a5d598a2dc633421fc991\" title=\"EpochGo: Local-first multi-agent AutoML engine using offline Ollama LLMs and deter",
+    "title_zh": "EpochGo：基于离线Ollama大模型与确定性Scikit-Learn管道的本地优先多智能体AutoML引擎",
+    "summary_zh": "EpochGo是一个本地优先的多智能体自动化机器学习引擎，它结合了离线运行的Ollama大语言模型和确定性的Scikit-Learn管道，旨在实现端到端的AutoML流程。",
+    "key_points": [
+      "EpochGo是使用离线Ollama LLM的多智能体AutoML引擎",
+      "它采用确定性的Scikit-Learn管道进行模型构建",
+      "该引擎设计强调本地优先和离线运行能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
