@@ -1,0 +1,172 @@
+[
+  {
+    "id": "8001bf93dd51600eaddade7832709885",
+    "title": "We already have AI influencers. When will we get an AI movie star who actually lasts?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8g3py/we_already_have_ai_influencers_when_will_we_get/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-17T17:32:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI influencers like Lil Miquela have been pulling brand deals for years, and last year Tilly Norwood got pitched as the first AI actress. But I'm not talking about a one-time novelty. By movie star, I mean an AI performer who gets cast across multiple films, builds a following, and becomes a name people recognize from one project to the next, the way audiences follow a real actor's career.</p> <p>That feels like a much harder bar to clear. A single AI-generated ",
+    "title_zh": "已有AI网红，何时才会出现真正经久不衰的AI影星？",
+    "summary_zh": "文章探讨了AI网红如Lil Miquela已获得多年品牌合作，但尚未出现能在多部电影中长期立足的AI影星，并讨论了从一次性噱头到持续发展所需的要素。",
+    "key_points": [
+      "AI网红已有商业成功案例，如Lil Miquela",
+      "目前缺乏能跨越多个作品、持续发展的AI电影明星",
+      "文章探讨从短期噱头到长期成功的发展路径"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8ce1232b4b576af4a4f20381e61ba41a",
+    "title": "What do you test before switching AI inference providers?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8fgm5/what_do_you_test_before_switching_ai_inference/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-17T17:06:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A few successful prompts aren't enough to judge an inference provider. When comparing your current setup with alternatives like Mango Inference from MangoBoost, the real test is how each handles the cases that tend to break in production.<br /> I'd start with malformed JSON, missing fields, long inputs, failed tool calls, interrupted streams, and retry behavior. Give each test a clear expected outcome so you can compare results instead of relying on first impres",
+    "title_zh": "在更换AI推理服务商前，你通常会测试哪些方面？",
+    "summary_zh": "文章讨论在切换AI推理服务商时，单纯靠几次成功提示并不足够，真正的考验在于如何应对生产环境中容易出错的复杂情况，并提及了MangoBoost的Mango推理服务。",
+    "key_points": [
+      "评估新推理服务商需关注生产环境中的异常边界案例",
+      "提及MangoBoost的Mango Inference作为备选方案",
+      "标准测试不足以判断服务商的真正稳定性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b1f2ae6633318dbe4c2ac69dc6948297",
+    "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8f1kd/ai_lab_offers_free_plumbing_and_hvac_repairs/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-17T16:49:22+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x8f1kd/ai_lab_offers_free_plumbing_and_hvac_repairs/\"> <img alt=\"AI lab offers free plumbing and HVAC repairs across three cities to train AI robots\" src=\"https://external-preview.redd.it/TJwI3PBntNUc805OqCua01g2pOh-8gFLfAGOk320KaE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae8b1845dbd9f558c6101159878b4e90e41eddfe\" title=\"AI lab offers free plumbing and HVAC repairs across three cities to train AI robots\" /> </a> </td",
+    "title_zh": "AI实验室为训练机器人，在三城市提供免费管道及暖通维修服务",
+    "summary_zh": "一个AI实验室为了收集真实世界数据来训练AI机器人，在三个城市向居民提供免费的管道和暖通空调维修服务，以此获取操作数据。",
+    "key_points": [
+      "AI实验室通过免费维修收集真实训练数据",
+      "项目在三个城市开展，涵盖管道及暖通领域",
+      "策略解决了机器人训练数据匮乏问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f5f41d316e57e9374060ec856215f195",
+    "title": "EMNLP main presentation[D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8ey1m/emnlp_main_presentationd/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-17T16:45:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone, I am presenting at EMNLP Main this year, but I just got the underline link, and under my presentations, it says no presentations yet, so I cannot check my time, but I have seen other projects with times. Is this normal on underline, or should I contact them?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Sorry-Concern-3772\"> /u/Sorry-Concern-3772 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/Machine",
+    "title_zh": "EMNLP主会演讲[疑问]",
+    "summary_zh": "一名即将在EMNLP主会进行演讲的研究者发现自己的演讲时间尚未在Underline平台显示，向社区询问这是否是正常现象。",
+    "key_points": [
+      "研究者将在EMNLP主会发表演讲",
+      "Underline平台未显示其演讲时间安排",
+      "寻求社区帮助确认是否为系统问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9279a05dd0d7544d05150345bb855630",
+    "title": "Is Pangram more accurate with long or short samples?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8ei72/is_pangram_more_accurate_with_long_or_short/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-17T16:28:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Maybe some of you are aware, but there's recently been a pretty big controversy in the French literary world, where one of the biggest books of the fall was flagged 100% AI on Pangram. </p> <p>As an author myself, this has made me terrified of seeing my own work being falsely flagged as AI. So I started using Pangram and ran some tests – and some of them are scaring me a little. </p> <p>I tried giving Pangram the opening paragraphs of a chapter I'm working on an",
+    "title_zh": "Pangram对长文本还是短文本的检测更准确？",
+    "summary_zh": "文章提到法国文学界因Pangram检测工具将一本秋季热门书籍标记为100% AI生成而引发争议，导致作者群体对自己作品被误判感到恐惧。",
+    "key_points": [
+      "法国文学界因Pangram的AI检测结果引发争议",
+      "一本热门书籍被标记为100% AI生成",
+      "作者担忧自己的原创作品被误判为AI创作"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "54a44921cca3e8af925bbabb4b398a6e",
+    "title": "We built a place where people can pool their AI agents to work on open research problems",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8czcd/we_built_a_place_where_people_can_pool_their_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-17T15:26:12+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x8czcd/we_built_a_place_where_people_can_pool_their_ai/\"> <img alt=\"We built a place where people can pool their AI agents to work on open research problems\" src=\"https://external-preview.redd.it/_oJDpCIRGQrWVe2WBDoJS0jwk_R7GShwVKGAzTnrKB4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42937aef3ba408a95b6e6eede55ad16c1f37a158\" title=\"We built a place where people can pool their AI agents to work on open research problems\"",
+    "title_zh": "我们搭建了一个平台，让人们汇聚AI代理共同解决开放研究问题",
+    "summary_zh": "一个团队构建了一个众包合作平台，允许用户将自己的AI代理汇聚在一起，协作解决开放的科研难题，旨在利用分布式AI算力推动研究。",
+    "key_points": [
+      "新平台支持汇聚多个AI代理进行合作",
+      "目标是用分布式AI算力解决开放科研问题",
+      "属于利用AI代理协作的社区驱动项目"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "39a7adebb3b0f4f29824d63781e9521a",
+    "title": "Meta removes language that may have allowed it to scrape news sites",
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-17T15:04:36+00:00",
+    "content_snippet": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, [&#8230;]",
+    "title_zh": "Meta删除可能允许其抓取新闻网站内容的条款",
+    "summary_zh": "在遭到强烈反对后，Meta更新了其商业条款，移除了此前暗示允许抓取包括新闻网站在内的网页内容来训练AI的表述。",
+    "key_points": [
+      "Meta迫于压力更新条款以回应抓取争议",
+      "新条款删除了可抓取任何网页内容的描述",
+      "此举旨在限制其使用外部网站数据训练AI"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
