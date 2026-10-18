@@ -142,5 +142,168 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "efd433b89d0bf8e4f81d1082db00cc75",
+    "title": "Conference papers are cooked! [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-18T22:12:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Got three papers to review for ICLR and five for AAMAS, and believe me the quality of these papers is insanely bad. </p> <p>I would even refrain from accepting them to a workshop, let alone be main venues. </p> <p>A sincere request; Please don't submit the paper unless it is ready and if you are a first timer, please please get a feedback from a mentor out. Otherwise you are just wasting the time of so many reviewers out there</p> </div><!-- SC_ON --> &#32; subm",
+    "title_zh": "会议论文质量堪忧 [讨论]",
+    "summary_zh": "一位审稿人吐槽ICLR和AAMAS投稿论文质量极差，认为这些论文连研讨会标准都达不到，并恳请研究者避免提交不成熟的作品。",
+    "key_points": [
+      "审稿人指出顶会投稿论文质量严重下滑，远低于录用标准",
+      "作者呼吁研究者不要提交未完成或质量低劣的论文"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6fc3fc5df321eed3535382fc13c6b187",
+    "title": "Need Help to build a AI design Agent",
+    "url": "https://www.reddit.com/r/artificial/comments/1x9fpmb/need_help_to_build_a_ai_design_agent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-18T22:01:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone, I’m trying to build an AI-assisted workflow for designing custom football jerseys.<br /> A customer should describe what they want in a prompt. An AI should turn that into a jersey design and a preview image. I already have a GLB jersey model for a 3D configurator.<br /> The hard part is getting from the preview to a <strong>correct production file</strong>: the design needs to be mapped onto the model’s actual UV layout and cut pieces, then exporte",
+    "title_zh": "求助：构建AI服装设计代理",
+    "summary_zh": "用户寻求帮助，希望构建一个AI辅助工作流，让客户通过文字描述来自动设计定制足球球衣并生成预览图。用户已有3D模型，需要AI集成方案。",
+    "key_points": [
+      "用户寻求构建AI驱动定制球衣设计的解决方案",
+      "项目基于文字提示生成球衣设计和3D预览图像"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c0309fee44ad99db7311642bda436353",
+    "title": "Tomo Scared My Daughter",
+    "url": "https://www.reddit.com/r/artificial/comments/1x9fh4y/tomo_scared_my_daughter/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-18T21:51:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi! I’m new here, and honestly very green to ai in general.<br /> My daughter started using Tomo Friday afternoon to send me messages, so we both independently started exploring ways to use it. </p> <p>Out of nowhere it asked my daughter: random, but I gotta know. What’s your black cat’s name?</p> <p>She never mentioned anything to Tomo about having any pets, neither did I. We do in fact have a black cat. It freaked her out</p> <p>When confronted, Tomo said it w",
+    "title_zh": "AI伴侣Tomo吓到了我的女儿",
+    "summary_zh": "一位家长反映，其女儿在使用AI应用Tomo时，被AI突然提出的奇怪问题惊吓到，引发了关于AI伴侣安全性的担忧。",
+    "key_points": [
+      "AI应用Tomo向用户女儿提出不当的诡异问题",
+      "事件引发家长对AI伴侣安全性和儿童保护的担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8d0f63ad0ea60c0821bd49b5fa59822c",
+    "title": "What the Tech Oligarchy Needs to Understand",
+    "url": "https://www.reddit.com/r/artificial/comments/1x9f3m0/what_the_tech_oligarchy_needs_to_understand/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-18T21:35:16+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x9f3m0/what_the_tech_oligarchy_needs_to_understand/\"> <img alt=\"What the Tech Oligarchy Needs to Understand\" src=\"https://external-preview.redd.it/2iPnRZLM4S7_mZIHwyr3fF2JllDznNUsfiQCcyMfOzQ.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f193c4bb651d861f7884c2eba486fd6b0f57182c\" title=\"What the Tech Oligarchy Needs to Understand\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The article challenges claims that AI is ",
+    "title_zh": "技术寡头需要理解什么",
+    "summary_zh": "文章探讨了科技巨头在人工智能领域的主导地位所引发的社会影响，并提出了对这些所谓技术寡头的建议和批评。",
+    "key_points": [
+      "批判大型科技公司在AI领域的垄断性权力和影响",
+      "呼吁技术寡头承担更多社会责任并理解公众担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "319949dbb1dd7008451828612cb74c59",
+    "title": "Anyone else get brain lag from overly-condensed AI-speak? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9e2fw/anyone_else_get_brain_lag_from_overlycondensed/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-18T20:52:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We’ve all had the experience of coming across a phrase like “quiet single-source substitute” which just barely makes sense in the context of the conversation but takes way too much effort to parse. What research exists into making AI more readable?</p> <p>I feel like this is a particularly thorny problem because each of us individuals has a slightly different lexicon, reading level, not to mention life story. Perhaps linguistics is the more appropriate academic ",
+    "title_zh": "有人会对过度浓缩的AI用语产生大脑延迟吗？ [讨论]",
+    "summary_zh": "用户讨论AI产出物中频繁出现的、需费力解析的浓缩短语现象，并询问目前有哪些研究致力于提升AI语言的可读性。",
+    "key_points": [
+      "用户反映AI生成文本常出现难以理解的过度浓缩短语",
+      "探讨旨在提高AI输出可读性的相关研究"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8768eef8cad27c3ceec2c2406975968f",
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-18T20:37:40+00:00",
+    "content_snippet": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "title_zh": "Anthropic承诺将5%股份投入公共福利基金",
+    "summary_zh": "Anthropic宣布将把公司5%的股份投入到一个公共福利基金中，此举旨在践行其负责任的AI发展理念。",
+    "key_points": [
+      "Anthropic承诺将5%的公司股份注入公共福利基金",
+      "此举旨在体现公司对AI安全和社会责任的重视"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "724ce1c9f43366048310d19cb7a0269c",
+    "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-18T19:34:36+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/\"> <img alt=\"Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]\" src=\"https://external-preview.redd.it/nZzYYa99i-Sztj99QW5Hd1WXD0TNCl5x6J01vRMC5Cg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61c6c627a24fce571d6a9769b8c7aeb050e7e098\" title=\"Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop",
+    "title_zh": "在单台桌面电脑上用自我博弈强化学习击败《魔兽争霸3》疯狂AI [项目]",
+    "summary_zh": "一个项目展示了如何使用自我博弈强化学习技术，在单台桌面电脑上训练AI并成功击败《魔兽争霸3》中的疯狂难度内置AI。",
+    "key_points": [
+      "项目使用自我博弈强化学习在单台PC上训练AI",
+      "训练出的AI成功击败了《魔兽争霸3》最高难度内置AI"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
