@@ -700,5 +700,128 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b5669e0c55047c97c59f83ade9066bcb",
+    "title": "We tested two AI versions: 96.7% accuracy, same critical mistake",
+    "url": "https://www.reddit.com/r/artificial/comments/1x922ye/we_tested_two_ai_versions_967_accuracy_same/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-18T12:31:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We recently ran a small experiment comparing JEV 1.13 and JEV 1.14 on Turkish-language intent classification.</p> <p>The goal was to identify whether a message came from someone looking to buy a service, someone offering a service, or neither.</p> <p>Here are the results:</p> <p>JEV 1.13: 29/30 correct (96.7%)</p> <p>JEV 1.14: 29/30 correct (96.7%)</p> <p>Buyer detection: 9/10 for both versions</p> <p>Average response time: 367 ms vs. 352 ms</p> <p>Total API cos",
+    "title_zh": "我们测试了两个AI版本：96.7%的准确率，相同的严重错误",
+    "summary_zh": "一项实验比较了JEV 1.13和1.14版本在土耳其语意图分类上的表现，两者虽然均达到96.7%的高准确率，但都犯了同样的严重错误，揭示了模型间共性问题。",
+    "key_points": [
+      "两个AI版本在土耳其语意图分类中均达96.7%准确率",
+      "尽管准确率高，但两个模型都重复了相同的严重错误",
+      "实验旨在区分用户是购买服务、提供服务还是无关"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e87d3d592c7ad70e884b36f82990903c",
+    "title": "I built an open-source tool to monitor naval bases using free satellite radar, no AIS needed",
+    "url": "https://www.reddit.com/r/artificial/comments/1x91bfq/i_built_an_opensource_tool_to_monitor_naval_bases/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-18T11:51:23+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x91bfq/i_built_an_opensource_tool_to_monitor_naval_bases/\"> <img alt=\"I built an open-source tool to monitor naval bases using free satellite radar, no AIS needed\" src=\"https://preview.redd.it/01dqxgpas7wh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4fd3b49cfa32e139c2181a129afffe15b90152d\" title=\"I built an open-source tool to monitor naval bases using free satellite radar, no AIS needed\" /> </a> </td><td> <!-- SC_OF",
+    "title_zh": "我构建了一个开源工具，利用免费卫星雷达监控海军基地，无需AIS",
+    "summary_zh": "开发者发布了一款开源工具，使用免费的卫星雷达图像来监测海军基地舰艇活动，无需依赖船舶自动识别系统，可用于情报分析。",
+    "key_points": [
+      "利用免费卫星雷达数据监控海军基地舰艇动向",
+      "工具完全开源，不依赖传统的AIS船舶定位系统"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "558282e90718626d7ec9b27b8afe2f26",
+    "title": "Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google models",
+    "url": "https://www.reddit.com/r/artificial/comments/1x91a46/distillation_attack_on_opencode_drains_users_api/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-18T11:49:21+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x91a46/distillation_attack_on_opencode_drains_users_api/\"> <img alt=\"Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google models\" src=\"https://external-preview.redd.it/WQgCgikvM-i6VJiuGRzpFeu9OEcaArL-FoQYgB08Z1U.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=223791ae0d46f96af8d426bbe00139c97a8e7f52\" title=\"Distillation attack on OpenCode drains users' API keys for Anthropic, OpenAI, Google ",
+    "title_zh": "针对OpenCode的蒸馏攻击可窃取Anthropic、OpenAI、Google模型的API密钥",
+    "summary_zh": "一种新型蒸馏攻击利用OpenCode平台漏洞，能够窃取用户的API密钥，受影响模型涵盖Anthropic、OpenAI和谷歌等多家主要供应商。",
+    "key_points": [
+      "蒸馏攻击通过OpenCode平台窃取用户API密钥",
+      "影响范围包括Anthropic、OpenAI和Google模型",
+      "攻击可能导致用户API密钥被盗用和资源损失"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "openai",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f31d6b9e1b4574edadb2c94e94483fda",
+    "title": "Even LinkedIn is getting tired of your AI-written posts",
+    "url": "https://www.reddit.com/r/artificial/comments/1x90hey/even_linkedin_is_getting_tired_of_your_aiwritten/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-18T11:03:34+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x90hey/even_linkedin_is_getting_tired_of_your_aiwritten/\"> <img alt=\"Even LinkedIn is getting tired of your AI-written posts\" src=\"https://external-preview.redd.it/f2jEgDHfYBnrRTP7H9ZeYu8MpgV3-Ef6QZte0QNWgUY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2e59fb8cb33f77315b280319e67c5f68e1dbc90\" title=\"Even LinkedIn is getting tired of your AI-written posts\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.",
+    "title_zh": "就连领英也开始厌烦你的AI生成帖子了",
+    "summary_zh": "社交媒体平台领英展现出对AI自动生成内容的厌倦迹象，可能将采取措施应对其平台上海量AI生成的帖子，反映了对AI内容泛滥的普遍关注。",
+    "key_points": [
+      "领英平台出现对AI生成帖子的负面反馈",
+      "反映AI内容泛滥引发社交媒体平台关注",
+      "可能推动平台出台新政策来限制AI生成内容"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ad9cc70d32f164019ee1cb61d35f663",
+    "title": "What is the status on AI protection like local agent sandbox, AI firewalls/proxy solutions?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x90ak1/what_is_the_status_on_ai_protection_like_local/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-18T10:52:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What are some current solutions to protect your local systems &amp; data against unwanted AI behaviour, inbound and outbound traffic against unwanted agents? Are there any solutions for home users, midsize enterprises available?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RetoricEuphoric\"> /u/RetoricEuphoric </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https",
+    "title_zh": "AI防护现状：本地代理沙盒、AI防火墙及代理解决方案如何？",
+    "summary_zh": "用户发起讨论，询问当前保护本地系统和数据免受AI不当行为侵害的主流方案，特别是本地代理沙盒、AI防火墙等工具在家庭和企业环境下的可用性。",
+    "key_points": [
+      "探讨如何保护本地系统免受不当AI行为侵害",
+      "聚焦本地代理沙盒和AI防火墙等防护方案",
+      "寻求适用于家庭用户和中型企业的解决方案"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
