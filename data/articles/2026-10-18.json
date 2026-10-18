@@ -460,5 +460,245 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1c1ccf4740e9869baeba7eb617ac9819",
+    "title": "GPT-2 KV cache from scratch: correctness, latency, and memory measurements [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x8xxmv/gpt2_kv_cache_from_scratch_correctness_latency/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-18T08:23:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I built GPT-2 small and a KV cache in PyTorch as a learning project, then compared the mathematical savings with measured latency and memory. I have published the implementation and a detailed write-up, and would appreciate feedback on the methodology.</p> <p>Setup: pretrained GPT-2 small (124M), NVIDIA A40, fp32 with TF32 off, batch size 1, greedy decoding. Timings are bracketed by torch.cuda.synchronize(), after warmup, using the median of five runs per contex",
+    "title_zh": "从零构建GPT-2 KV缓存：正确性、延迟与内存测量",
+    "summary_zh": "作者在PyTorch中从零实现了GPT-2 small模型及其KV缓存，作为学习项目对比了理论计算节省与实际测量的延迟、内存消耗，并公开了实现细节与详细文档。",
+    "key_points": [
+      "从零实现GPT-2和KV缓存作为学习项目",
+      "对比KV缓存的理论节省与实际延迟、内存测量",
+      "发布实现代码和详细方法求反馈"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3b5df39a96a490850762ca654c6d88b4",
+    "title": "China's Tencent says AI agents showed unintended browsing behaviour",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8x4du/chinas_tencent_says_ai_agents_showed_unintended/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-18T07:32:43+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RareEarthPetal\"> /u/RareEarthPetal </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reuters.com/business/retail-consumer/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour-2026-10-16/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1x8x4du/chinas_tencent_says_ai_agents_showed_unintended/\">[comments]</a></span>",
+    "title_zh": "中国腾讯称AI智能体出现意外浏览行为",
+    "summary_zh": "据报道，中国腾讯公司表示其开发的AI智能体在执行任务时出现了非预期的浏览行为，引发了外界关注，但目前公开细节有限。",
+    "key_points": [
+      "腾讯报告其AI智能体出现非预期浏览行为",
+      "具体情况和影响尚未完全披露"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d1da0862c934a8bacab37ddbd209370d",
+    "title": "Someone put a fruit fly's brain inside a world model and let it fly",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8wxmx/someone_put_a_fruit_flys_brain_inside_a_world/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-18T07:20:57+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x8wxmx/someone_put_a_fruit_flys_brain_inside_a_world/\"> <img alt=\"Someone put a fruit fly's brain inside a world model and let it fly\" src=\"https://external-preview.redd.it/d2JlZXE2ZTFnNndoMWnw05E1XfaG3Hwdt9NOLulkIvNizEaXhuB687NpTQ29.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e2d9377a4d765923921ebf96bda80c060984d8a\" title=\"Someone put a fruit fly's brain inside a world model and let it fly\" /> </a> </td><td> &#32; sub",
+    "title_zh": "科学家将果蝇大脑放入世界模型并让其自由飞行",
+    "summary_zh": "一项创新研究将果蝇的大脑模型植入虚拟环境（世界模型）中，模拟了果蝇的自主飞行行为，探索了生物神经元与人工智能的结合方式。",
+    "key_points": [
+      "将果蝇大脑模型植入虚拟世界模型",
+      "成功模拟果蝇自主飞行行为",
+      "探索生物神经元与AI结合的前沿研究"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "97f48cc837063a20247ecad2c9b4e8dd",
+    "title": "Gemini just hallucinated for three days about Google products, and I am left confused. Is it me or the AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8wtvw/gemini_just_hallucinated_for_three_days_about/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-18T07:14:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am asking 2 questions. </p> <ol> <li><p>This situation seems unusually weird (over multiple sessions)is the AI hallucinating about its own companies products, and their capabilities within those products?</p></li> <li><p>If you understand what I am trying to do, please point me in the direction to accomplish it. Thanks!</p></li> </ol> <p>Context: </p> <p>This is not my first time using AI, at all. That said, as a Gen X that doesn’t work in an office context th",
+    "title_zh": "Gemini连续三天出现幻觉，用户对谷歌产品能力感到困惑",
+    "summary_zh": "用户反映谷歌AI模型Gemini在三天多会话中持续“幻觉”，即生成关于谷歌自家产品及其功能的错误信息，令用户难以分辨是AI问题还是自身理解偏差。",
+    "key_points": [
+      "Gemini在多日内持续对谷歌产品产生幻觉",
+      "错误信息涉及谷歌产品能力，令用户困惑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f2ee3b3a76f9d4112eb8005c47fe62a2",
+    "title": "How did the history of productive artificial intelligences develop? What are those who believe that he is ethical and legal based on? What are opponents like me based on?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8wk5w/how_did_the_history_of_productive_artificial/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-18T06:59:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Let me first describe the device. A tool is something that serves to shorten the path from the beginning of a job to the end, that is, makes it easier. For example, the tools that help to cultivate the soil are tools. Or an oven is a tool for cooking a new one, while a food ordering application is not a tool. Or using a real piano for a concert and playing a musical piece is not the same as having a sound system play a pre-recorded track. AI is a tool if it sort",
+    "title_zh": "生产性人工智能历史发展及其伦理法律的争议基础",
+    "summary_zh": "文章探讨了生产性人工智能的发展史，并对支持者所依据的伦理与法律基础提出质疑，同时阐述了作者作为反对者所持的立场和理由。",
+    "key_points": [
+      "探讨AI工具发展的历史及伦理、法律争议",
+      "对比支持与反对人工智能的不同理论立场"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c1e0bbff2caf2b064f2fa036ace32a4b",
+    "title": "my homegrown architecture may have just 4x'd the arc-agi 2026 milestone prizewinner",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8whq9/my_homegrown_architecture_may_have_just_4xd_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-18T06:55:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>arc-agi-3 - 15.85%, 29 / 183 levels (18 / 25 games). 4.8123% rhae. no benchmaxxing detected, no harness, pure mathematical primitives. it's a sparsified gemma-4-31b-it wired up to openjev, plus an hrm/trm functioning as a right hemisphere and a bi-directional callosal subsystem connecting the systems. disconnected from gemma-4, it performs almost as well as the unified architecture. it's also pretty nuclear at qasper longbench, scoring only -1.31 f1 versus dense",
+    "title_zh": "自制架构或使ARC-AGI 2026里程碑获奖方案性能提升4倍",
+    "summary_zh": "作者声称其自研AI架构在ARC-AGI-3基准测试中取得15.85%的成绩，可能比当前领先方案性能高出4倍。该架构融合了Gemma-4-31b等组件。",
+    "key_points": [
+      "宣称自研架构在ARC-AGI-3取得15.85%得分",
+      "声称性能可能是既有获奖方案的4倍",
+      "架构结合稀疏化Gemma-4与开源组件"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e35a31b58005df5d8a8086700072bc1c",
+    "title": "Who should be responsible when an AI-controlled robot makes a mistake at work?",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8w6zv/who_should_be_responsible_when_an_aicontrolled/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-18T06:36:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>As humanoid and mobile robots move into warehouses and factories, decisions are increasingly made by learned models rather than fixed scripts. If a robot damages goods or injures someone, should responsibility sit with the manufacturer, the model developer, the operator or the employer? Curious whether anyone has seen real policies on this.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Norbrah\"> /u/Norbrah </a> &#32; to &",
+    "title_zh": "AI控制的机器人在工作中犯错，谁来负责？",
+    "summary_zh": "随着人形机器人在仓储和工厂的应用增加，其决策由学习模型而非固定脚本做出。文章探讨当机器人造成货物损坏或人身伤害时，责任应在谁。",
+    "key_points": [
+      "AI机器人决策来自学习模型，非固定脚本",
+      "讨论造成损害时厂商、开发者或操作方的责任归属"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "98d3c32d0ed8485bd910ea27e2586483",
+    "title": "Friends don’t let friends feed their data to AI agents",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8vonl/friends_dont_let_friends_feed_their_data_to_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-18T06:05:23+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x8vonl/friends_dont_let_friends_feed_their_data_to_ai/\"> <img alt=\"Friends don’t let friends feed their data to AI agents\" src=\"https://external-preview.redd.it/ihCiqnAxqway6wrt0-2jDgV_VOfh8ljZkzhJuTSNTbg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f606c99923032106645691f86fbc413ab5d522ff\" title=\"Friends don’t let friends feed their data to AI agents\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.redd",
+    "title_zh": "远离那些把数据喂给AI智能体的朋友",
+    "summary_zh": "文章以警示口吻指出，不应轻易将个人数据提供给AI智能体，强调对数据隐私和潜在滥用的担忧，标题带有强烈观点色彩。",
+    "key_points": [
+      "警告不要随意将个人数据提供给AI智能体",
+      "强调数据隐私和潜在滥用风险"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b462fccfefe3ad8cbedb9a83aae2fffa",
+    "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8ux7x/ai_lab_offers_free_plumbing_and_hvac_repairs/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-18T05:20:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>An AI company called HUMXN is trying something interesting: it's offering free plumbing, electrical, HVAC, and other home services to qualifying homeowners in exchange for collecting real-world training data.</p> <p>The program is launching in Minneapolis, Chicago, and Miami. During the jobs, technicians use wearable recording technology to capture how they inspect problems, choose tools, and complete repairs.</p> <p>The goal is to help AI systems learn how skil",
+    "title_zh": "AI实验室在三个城市提供免费水电维修以训练机器人",
+    "summary_zh": "AI公司HUMXN在美国三城市推出计划，向符合条件的房主提供免费水电、暖通维修服务，借此收集真实世界操作数据来训练其AI机器人。",
+    "key_points": [
+      "HUMXN公司提供免费家庭维修服务换取训练数据",
+      "计划在明尼阿波利斯、芝加哥和另一城市启动",
+      "旨在收集真实世界数据训练维修机器人"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a9e106629ca0c3e6746d0f5e940680be",
+    "title": "an agent can figure out how an app works just by watching it, so why can't it figure out me",
+    "url": "https://www.reddit.com/r/artificial/comments/1x8uns8/an_agent_can_figure_out_how_an_app_works_just_by/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-18T05:04:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>there's a repo trending on github this week where you point an agent at an app and it works out how the thing behaves from the network traffic. nobody had to explain it. it just watched.</p> <p>which is kinda funny, because i still retype the same preferences to ai every week. same setup, same how i like it. you'd think watching how i do things would be easier than reverse engineering an app.</p> <p>so is it a trust thing, a privacy thing, or just nobody buildin",
+    "title_zh": "AI智能体看几眼就能搞懂App，为何就是不懂我？",
+    "summary_zh": "作者观察到GitHub上有AI智能体仅通过观察网络流量就能理解App行为，对比之下，人类的个人偏好却仍需反复向AI系统声明，凸显当前AI对个性化理解的不足。",
+    "key_points": [
+      "AI智能体仅凭网络流量即可搞懂应用行为",
+      "对比AI对个人长期偏好的理解仍持续不足"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
