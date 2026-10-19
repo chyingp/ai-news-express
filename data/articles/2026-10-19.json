@@ -398,5 +398,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "74f0bafff2546e0c703a9ae190ff901e",
+    "title": "I moved from network training to deployment optimization and am starting to think that was a right decision [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1x9k4si/i_moved_from_network_training_to_deployment/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-19T01:34:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>TL;DR: this is just a thought dump about how I moved from network training to deployment and why I am making peace with (maybe) not getting back to model training, nothing too interesting.</p> <p>I used to work at a reasonably good startup developing and training models. In 2024, I got an offer from FAANG but the catch was that the team worked on the deployment of networks.</p> <p>I have a PhD and I had always trained models but I was never the top performer in ",
+    "title_zh": "我从网络训练转向部署优化，并开始认为这是一个正确的决定",
+    "summary_zh": "作者分享个人职业转变心得，从模型训练转向部署优化，并探讨为何可能不再回归训练工作，认为这一选择值得。",
+    "key_points": [
+      "作者从模型训练转向部署优化",
+      "反思职业转变的合理性并逐步接受",
+      "认为部署优化可能是更正确的职业路径"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8323caa8357735e144dca0f1dbce4e8e",
+    "title": "Don’t filter your email based on AI detection",
+    "url": "https://www.reddit.com/r/artificial/comments/1x9jbon/dont_filter_your_email_based_on_ai_detection/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-19T00:54:10+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1x9jbon/dont_filter_your_email_based_on_ai_detection/\"> <img alt=\"Don’t filter your email based on AI detection\" src=\"https://external-preview.redd.it/9QUrkbNtbpM0RHFo4nQGgmvDdtoOXjqjjgjCccyyhZA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5622c4411835d63864e80a3aabb6240677daf36f\" title=\"Don’t filter your email based on AI detection\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/fivefilt",
+    "title_zh": "不要基于AI检测来过滤你的电子邮件",
+    "summary_zh": "文章警告不要使用AI检测工具来过滤电子邮件，因为这类技术可能不准确，会误判正常邮件，造成重要信息丢失。",
+    "key_points": [
+      "AI邮件检测技术存在误判风险",
+      "基于AI过滤邮件可能导致重要信息丢失",
+      "呼吁用户谨慎使用此类工具"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
