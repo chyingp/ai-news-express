@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5ad90a306354bd6efad023f9a7ea83c3",
+    "title": "LLM Memory: 5 Approaches to Handling New Information",
+    "url": "https://www.reddit.com/r/artificial/comments/1xavo5m/llm_memory_5_approaches_to_handling_new/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-20T15:47:01+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xavo5m/llm_memory_5_approaches_to_handling_new/\"> <img alt=\"LLM Memory: 5 Approaches to Handling New Information\" src=\"https://preview.redd.it/ssdwe70x7nwh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=370bfc6a9d26e0aef40c175b6993ac3fe8dc1cf0\" title=\"LLM Memory: 5 Approaches to Handling New Information\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Came across this article on HuggingFace around LLM memory. It goes ",
+    "title_zh": "LLM记忆：处理新信息的5种方法",
+    "summary_zh": "本文介绍了大语言模型处理新信息的五种记忆方法，包括上下文学习、检索增强生成等，旨在帮助开发者优化模型的长期记忆与信息整合能力。",
+    "key_points": [
+      "总结LLM处理新信息的五种主流记忆技术",
+      "涵盖从简单上下文到复杂检索增强的多种方案",
+      "旨在指导开发者提升模型的信息更新与回忆能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eb9c98f8c73a90d0bb981fa1b7131392",
+    "title": "The new economics of enterprise AI",
+    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-20T15:20:25+00:00",
+    "content_snippet": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#8221; to &#8220;how efficiently are we using it?&#8221;&#8230;",
+    "title_zh": "企业人工智能的新经济学",
+    "summary_zh": "文章探讨企业AI部署的经济模式转变，指出随着AI成为基础设施，企业关注点从“能否使用”转向成本效率与价值创造，分析了规模化应用带来的新挑战。",
+    "key_points": [
+      "企业AI正从试验阶段转向核心基础设施",
+      "关注点从技术可行性转向成本控制与投资回报",
+      "AI规模化部署引发对企业经济模型的重估"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
