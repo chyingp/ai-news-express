@@ -46,5 +46,209 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4d8868e651d146e3e8a1b6d49aaf8696",
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-20T18:38:24+00:00",
+    "content_snippet": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "title_zh": "谷歌联手亚马逊，挑战英伟达在AI应用开发者领域的主导地位",
+    "summary_zh": "谷歌继亚马逊之后，发布了一款开发者工具，旨在帮助PyTorch用户将应用从英伟达GPU上迁移，以削弱英伟达在AI开发者生态中的垄断地位。",
+    "key_points": [
+      "谷歌和亚马逊发布工具，让PyTorch应用脱离英伟达GPU。",
+      "此举旨在挑战英伟达在AI开发者工具链中的强势地位。",
+      "该工具降低了开发者对英伟达硬件的依赖性。"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "amazon",
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dd509f4a2f7db9fa59812ab19a7b318f",
+    "title": "ChatGPT now lets you lock your chats",
+    "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-20T18:36:53+00:00",
+    "content_snippet": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+    "title_zh": "ChatGPT现可锁定聊天记录以增强隐私",
+    "summary_zh": "OpenAI为ChatGPT推出了聊天锁定功能，用户可在与他人分享设备时，锁定包含个人或隐私内容的对话，防止被意外查看。",
+    "key_points": [
+      "ChatGPT新增聊天锁定功能，保护私密对话内容。",
+      "适用于向亲友展示设备其他内容时，避免隐私泄露。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bafbb5974fa17f55a930ceef6a5716e1",
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-20T18:17:47+00:00",
+    "content_snippet": "",
+    "title_zh": "NVIDIA Cosmos3-H-Dreams：通过生成式仿真将临床手术带入现实",
+    "summary_zh": "英伟达发布Cosmos3-H-Dreams项目，利用生成式仿真技术，旨在为临床手术场景提供高度逼真的合成数据与模拟，以推动医疗AI发展。",
+    "key_points": [
+      "英伟达发布用于临床手术的生成式仿真技术。",
+      "该技术可生成合成数据，用于训练医疗AI模型。",
+      "这是其Cosmos平台在垂直行业应用的重要延伸。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8d536d0f896d1eb4d235d112d9dcad39",
+    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-20T18:07:34+00:00",
+    "content_snippet": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. [&#8230;]",
+    "title_zh": "研究人员发现AI聊天记录可公开访问，Meta暂停Muse分享功能",
+    "summary_zh": "由于安全公司发现Meta的AI助手Muse的分享链接可被公开访问，导致用户对话可能泄露，Meta已紧急暂停该分享功能作为预防措施。",
+    "key_points": [
+      "安全公司发现6800多个Muse聊天分享链接可公开访问。",
+      "Meta已暂停Muse的对话分享功能以应对此次隐私风险。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4ef62f095ce7426358ec4bbf4457e81c",
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-20T17:55:12+00:00",
+    "content_snippet": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+    "title_zh": "报道称施密特持有Anthropic约1%股份，约为CEO阿莫迪持股量的一半",
+    "summary_zh": "据彭博社报道，前谷歌CEO埃里克·施密特持有AI公司Anthropic约1%的股份，其持股量大约是该公司CEO达里奥·阿莫迪的一半，揭示了Anthropic的内部股权结构。",
+    "key_points": [
+      "前谷歌CEO施密特持有Anthropic约1%的股份。",
+      "其持股量约为Anthropic CEO阿莫迪的一半。",
+      "这一消息披露了这家领先AI实验室的股权分布情况。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e272af73262f2476624b1febe814c559",
+    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-20T17:12:48+00:00",
+    "content_snippet": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "title_zh": "Meta的Muse应用下载量40天内突破1000万，用户留存率领先竞争对手",
+    "summary_zh": "Meta的AI伴侣应用Muse在美国市场上线仅40天，下载量便突破1000万大关，并表现出高于同类AI竞品的用户留存率，成为现象级应用。",
+    "key_points": [
+      "Muse应用在40天内达到1000万次美国下载量。",
+      "该应用的用户留存率高于其他AI竞争对手。",
+      "这一增长速度使其跻身史上增长最快的应用之列。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3f884836ca3b3c7af28af9ffbb31fa30",
+    "title": "Last week I asked who’s accountable when an agent has its own identity. This week Workday bought a company to answer that.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xaxnz8/last_week_i_asked_whos_accountable_when_an_agent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-20T17:00:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Workday announced it’s acquiring <a href=\"http://C1.ai\">C1.ai</a>, an identity governance platform that handles access for both employees and AI agents. Same access lifecycle, same offboarding, same audit trail. They’re calling it the identity layer for people, money and agents.</p> <p>That’s a market answer to a question that was open a week ago. If an agent needs credentials to work across your systems, somebody has to issue them, scope them, and revoke them w",
+    "title_zh": "Workday收购身份治理公司C1.ai，以解决AI代理的问责问题",
+    "summary_zh": "Workday宣布收购身份治理平台C1.ai，该平台为员工和AI代理提供统一的访问权限管理、注销和审计追踪，旨在建立人、资金与AI代理之间的身份层。",
+    "key_points": [
+      "Workday收购C1.ai，为AI代理建立身份治理层。",
+      "新系统可统一管理人力和AI代理的访问生命周期。",
+      "此举旨在解决AI代理独立行动时的问责与访问控制难题。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f40f87a51b415a0ad723538b4e6e56e3",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "url": "https://huggingface.co/blog/allenai/fairstress",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-20T16:09:19+00:00",
+    "content_snippet": "",
+    "title_zh": "FairStress：对大语言模型决策公平性进行更深层次的评估",
+    "summary_zh": "Allen AI发布FairStress研究，提出了一个更深入的基准框架，用于评估大语言模型在决策任务中的公平性，旨在揭示现有模型在不同压力场景下的偏见问题。",
+    "key_points": [
+      "FairStress框架用于深度评估LLM决策的公平性。",
+      "研究旨在揭示模型在不同压力条件下的偏见表现。",
+      "为构建更公平的AI系统提供新的评估基准。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
