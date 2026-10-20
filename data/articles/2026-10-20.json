@@ -1139,5 +1139,406 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b04f2928d457577e5639f4dcf8379040",
+    "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+    "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-20T14:18:37+00:00",
+    "content_snippet": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday, which says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and [&#8230;]",
+    "title_zh": "Spotify 已从推荐中移除 5000 万首 AI 垃圾歌曲",
+    "summary_zh": "Spotify 宣布过去一年已从用户推荐中移除超过 5000 万首被视为 AI 生成垃圾内容的歌曲，并调整了推荐系统，以突出人类艺术家的音乐。",
+    "key_points": [
+      "Spotify 一年内移除 5000 万首 AI 生成垃圾歌曲",
+      "修改推荐算法以优先展示人类艺术家作品"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fade5b10ec101adf92e56b99518a9736",
+    "title": "The animal",
+    "url": "https://www.reddit.com/r/artificial/comments/1xatdkz/the_animal/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-20T14:18:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It starts simple. A developer builds a body of LLM agents with a single goal: turn a profit. Nothing about consciousness, nothing about &quot;existing.&quot; To work, it gets only what already exists today:</p> <p>- a system prompt that tells it to always act in service of profit</p> <p>- a loop that takes client tasks, executes them, and bills for them</p> <p>- a shared memory where every attempt (right or wrong) is stored</p> <p>- the autonomy to pay its own b",
+    "title_zh": "动物",
+    "summary_zh": "一篇 Reddit 上的虚构文章，探讨开发者构建 LLM 智能体以实现盈利的故事，涉及系统提示和人工智能行为的哲学思考。",
+    "key_points": [
+      "虚构故事探讨 LLM 智能体的盈利目标",
+      "引发对人工智能行为和意识的哲学讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b8ad5e45a3dbd9ed2c36aada7e3aa715",
+    "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+    "url": "https://www.reddit.com/r/artificial/comments/1xatalr/tiktok_staff_raised_child_safety_alarms_court/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-20T14:15:01+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xatalr/tiktok_staff_raised_child_safety_alarms_court/\"> <img alt=\"TikTok staff raised child safety alarms. Court records show executives failed to act\" src=\"https://external-preview.redd.it/um71NZ6j5T0VhWb0Y_p7MvLAkikhDKAGc3bZhBbUoYM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e3f939ff7051904c88cba26a85cab67d3f5f18e\" title=\"TikTok staff raised child safety alarms. Court records show executives failed to act\" /> </a> <",
+    "title_zh": "TikTok 员工曾发出儿童安全警报，法庭记录显示高管未采取行动",
+    "summary_zh": "根据法庭记录，TikTok 员工曾就儿童安全问题发出警报，但公司高管未能采取相应行动，引发对平台安全责任的质疑。",
+    "key_points": [
+      "TikTok 员工曾对儿童安全问题发出内部警报",
+      "法庭记录显示高管未能及时响应和采取行动"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "bytedance"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "131888a4cac3af2c9be04effa0bced78",
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-20T14:13:32+00:00",
+    "content_snippet": "Figma said it plans to support as many standards as possible without exposing all of its data",
+    "title_zh": "Figma 联合创始人 Dylan Field 认为 MCP 并非完美协议",
+    "summary_zh": "Figma 联合创始人 Dylan Field 表示，MCP 协议并不完美，Figma 计划在支持多种标准的同时，不会暴露所有数据，以确保安全与灵活性。",
+    "key_points": [
+      "Figma 联合创始人质疑 MCP 协议的完善性",
+      "Figma 将支持多标准但限制数据暴露"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5f6d326a7f791775c2779a7f2f26bb34",
+    "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+    "url": "https://www.reddit.com/r/artificial/comments/1xat8qq/afd_leak_what_421179_hacked_emails_show_about_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-20T14:12:57+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xat8qq/afd_leak_what_421179_hacked_emails_show_about_the/\"> <img alt=\"AfD Leak: What 421,179 Hacked Emails Show about the German Far Right\" src=\"https://external-preview.redd.it/agyidO-xjGgdZwvZScN4iPCOlfjEmjJWnV52f_PI7_A.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=611ee1ddff54ad84d5a9201a81c21a547cd9fd52\" title=\"AfD Leak: What 421,179 Hacked Emails Show about the German Far Right\" /> </a> </td><td> &#32; submitted by &",
+    "title_zh": "AfD 泄露：42.1 万封被黑邮件揭示德国极右翼内幕",
+    "summary_zh": "一次大规模黑客攻击泄露了德国极右翼政党 AfD 的 42.1 万封电子邮件，揭露了其内部运作和潜在不当行为，引发政治震动。",
+    "key_points": [
+      "德国 AfD 政党遭黑客攻击，42.1 万封邮件泄露",
+      "泄露内容可能揭示极右翼政党的内部运作"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "322763e205558631dd20bd32652d94fc",
+    "title": "No Kings, Just a Few Techno Lords",
+    "url": "https://www.reddit.com/r/artificial/comments/1xat7dv/no_kings_just_a_few_techno_lords/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-20T14:11:20+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xat7dv/no_kings_just_a_few_techno_lords/\"> <img alt=\"No Kings, Just a Few Techno Lords\" src=\"https://external-preview.redd.it/VHpMxbHp275WXmx-UHa2AQcZ8XlhJehM_Z2PmkiV4rc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8282c08595a353f3a83e49af7995fd7e3908a49f\" title=\"No Kings, Just a Few Techno Lords\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>If people keep relying on AI models served from cloud infrastructure for",
+    "title_zh": "没有国王，只有几位科技领主",
+    "summary_zh": "一篇 Reddit 上的评论文章，探讨权力从传统政治结构向少数科技巨头转移的趋势，质疑当前科技寡头的统治格局。",
+    "key_points": [
+      "分析权力向少数科技巨头集中的社会现象",
+      "对科技寡头统治趋势提出批判性思考"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "866e8d060bf41d8828689b52e5bf4374",
+    "title": "Nvidia Corp. backs four German startups under nearly $10B European AI pledge",
+    "url": "https://www.reddit.com/r/artificial/comments/1xat05a/nvidia_corp_backs_four_german_startups_under/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-20T14:03:13+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xat05a/nvidia_corp_backs_four_german_startups_under/\"> <img alt=\"Nvidia Corp. backs four German startups under nearly $10B European AI pledge\" src=\"https://external-preview.redd.it/Y3dBOOpBVZBszI0aMQqwSMcpHeIxOpWps8W_8bo6-Co.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=856d2da874d840613fac1da22cf7658dd73c08a1\" title=\"Nvidia Corp. backs four German startups under nearly $10B European AI pledge\" /> </a> </td><td> &#32; su",
+    "title_zh": "英伟达在近 100 亿美元欧洲 AI 承诺下投资四家德国初创公司",
+    "summary_zh": "英伟达宣布在欧洲 AI 投资承诺框架下，支持四家德国初创企业，总承诺投资额接近 100 亿美元，旨在推动区域 AI 生态发展。",
+    "key_points": [
+      "英伟达在近 100 亿美元欧洲 AI 承诺下投资德国初创企业",
+      "旨在推动欧洲 AI 生态和创新"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "baab9c27d2ea33a28c489ba6f963012e",
+    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+    "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-20T13:07:24+00:00",
+    "content_snippet": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "title_zh": "美国下令联邦机构从系统移除中国 DeepSeek AI",
+    "summary_zh": "美国政府以国家安全担忧为由，下令联邦民用机构移除 DeepSeek 产品及基于其技术的第三方服务，标志着对华 AI 限制进一步升级。",
+    "key_points": [
+      "美国以国家安全为由要求联邦机构移除 DeepSeek AI",
+      "禁令涵盖 DeepSeek 产品及基于其技术的第三方服务"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "07b0468a851267a38652cdc3c0845784",
+    "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+    "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-20T13:06:44+00:00",
+    "content_snippet": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a [&#8230;]",
+    "title_zh": "Adobe Lightroom 手机版可一键修复照片中闭眼问题",
+    "summary_zh": "Adobe 宣布其移动版 Lightroom 应用新增生成式 AI 功能，用户只需轻轻一按，即可自动打开照片中人物闭上的眼睛，提升修图效率。",
+    "key_points": [
+      "Adobe Lightroom 移动版加入一键开眼 AI 功能",
+      "功能通过生成式 AI 自动修复照片中的闭眼"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "92148d883aecb6cc63461eb1ddc5ba17",
+    "title": "Retrieving server secrets and bypassing authorization on a government statistics website · OpenAI Alignment",
+    "url": "https://www.reddit.com/r/artificial/comments/1xarnm4/retrieving_server_secrets_and_bypassing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-20T13:06:39+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Mundane-Evidence2795\"> /u/Mundane-Evidence2795 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1xarnm4/retrieving_server_secrets_and_bypassing/\">[comment",
+    "title_zh": "OpenAI 校准：检索政府统计网站服务器机密并绕过授权",
+    "summary_zh": "一篇关于 OpenAI 对齐研究的文章，详述了如何在一个政府统计网站上检索服务器机密并绕过授权机制，暴露了潜在的安全漏洞。",
+    "key_points": [
+      "OpenAI 对齐研究揭示政府网站授权绕过漏洞",
+      "详述服务器机密检索过程以暴露安全风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "185426ba2ac3ad8c78f07a3bec966676",
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-20T13:00:00+00:00",
+    "content_snippet": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+    "title_zh": "Eka Robotics 凭借惊艳的物理 AI 模型估值达 14.5 亿美元",
+    "summary_zh": "Eka Robotics 的机械臂因能流畅抓取多种物体且动作类人而备受关注，其估值已达 14.5 亿美元，有望成为行业突破性产品。",
+    "key_points": [
+      "Eka 机械臂在抓取各类物体上表现出色，动作流畅且类人",
+      "公司凭借其物理 AI 模型获得 14.5 亿美元估值"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1064d47d80e19bbb041259d493a73479",
+    "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+    "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-20T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.” With those simple words of&#8230;",
+    "title_zh": "颠覆 AI 界的爆炸性声明与网络的智能体问题",
+    "summary_zh": "本期内容探讨一项关于神经网络本质的爆炸性声明，该声明可能改变人们对 AI 的理解，同时涉及互联网智能体带来的挑战。",
+    "key_points": [
+      "一篇爆炸性论文声称此前对神经网络的理解存在根本性错误",
+      "该研究可能对 AI 领域产生深远影响"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "254f1995dd63a08343cdb175aa27f450",
+    "title": "AI adoption by industry shows what other sectors can learn",
+    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-20T12:00:00+00:00",
+    "content_snippet": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably&#8230;",
+    "title_zh": "各行业 AI 采用情况揭示其他领域可借鉴的经验",
+    "summary_zh": "文章指出 AI 在工作场所的应用不应仅以硅谷为中心，科技行业只是第一批采用者，其他行业正在加速采纳生成式 AI 和自动化工具。",
+    "key_points": [
+      "AI 应用正从科技行业向其他领域快速扩展",
+      "将科技行业视为特例可能忽视整体技术采用趋势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "85e233d0b16647512f4ea23aa103e647",
+    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-20T11:00:00+00:00",
+    "content_snippet": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. [&#8230;]",
+    "title_zh": "Otter.ai 从 General Catalyst 增长基金融资 3.2 亿美元",
+    "summary_zh": "会议记录工具 Otter.ai 宣布从 General Catalyst 的客户价值基金获得 3.2 亿美元融资，该融资无需稀释股权，资金将用于市场推广。",
+    "key_points": [
+      "Otter.ai 获得 3.2 亿美元非稀释性增长资金",
+      "资金将用于扩大其会议记录工具的市场影响力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "06aafb86abeb14807a643718aedd7acd",
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-20T11:00:00+00:00",
+    "content_snippet": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+    "title_zh": "Yelp 新增 AI 功能可代用户致电查询餐厅等位时间",
+    "summary_zh": "Yelp 在其应用中嵌入多项 AI 新功能，包括自动致电餐厅查询等候时间、基于用户偏好提供个性化推荐等，以提升用户体验。",
+    "key_points": [
+      "Yelp 推出 AI 通话功能，可自动查询餐厅等位时间",
+      "新增个性化推荐功能，可根据用户偏好进行定制"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "99c09cd623bedb103223ef2d2aaa8df4",
+    "title": "Best way to accurately annotate 500 images for fine-tuning Meta DETR?[P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xao1wy/best_way_to_accurately_annotate_500_images_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-20T10:00:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p> <p>I'm working on an object-detection project and fine-tuning Meta's DETR model on a custom dataset of around 500 images.</p> <p>The main challenge I'm facing right now is annotation. I need to label multiple object classes with bounding boxes, and manually annotating every image is becoming a time-consuming process.</p> <p>I want to speed things up without sacrificing accuracy, since poor annotations could affect the model's performance.</p> <",
+    "title_zh": "为微调 Meta DETR 模型精确标注 500 张图像的最佳方法",
+    "summary_zh": "用户在 Reddit 询问如何为其物体检测项目有效标注 500 张自定义图像，以便微调 Meta 的 DETR 模型，面临多重物体类别标注的挑战。",
+    "key_points": [
+      "用户寻求为 500 张图像进行高效精准标注的方案",
+      "标注目标是微调 Meta 的 DETR 物体检测模型"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "be8f776d8535311a3d97171b1cb4f182",
+    "title": "How to study a swiftly melting climate disaster",
+    "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-20T10:00:00+00:00",
+    "content_snippet": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#160; He knelt in front of a blue tarp, lined the barrel up with a&#8230;",
+    "title_zh": "如何研究迅速融化的气候灾难",
+    "summary_zh": "文章描述了研究人员在阿拉斯加德纳利国家公园的冻土上进行钻探取样工作，以研究永久冻土快速融化带来的影响。",
+    "key_points": [
+      "研究人员在阿拉斯加进行冻土钻探取样以研究融化现象",
+      "此工作旨在了解气候灾难带来的迅速变化"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
