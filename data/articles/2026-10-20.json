@@ -964,5 +964,79 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "57291fadff56cb66905c15625822f109",
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-20T01:27:03+00:00",
+    "content_snippet": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "title_zh": "Mamdani 称联邦政府在AI问题上不作为，敦促纽约人反击",
+    "summary_zh": "纽约市长 Zohran Mamdani 表示，纽约人必须抵制AI接管不可避免的叙事，并要求制定保护公众的法规，将权力重新交到民众手中。",
+    "key_points": [
+      "纽约市长批评联邦政府在AI监管上的缺席",
+      "呼吁公众抵制AI必然掌控一切的论调",
+      "要求制定法规保护公众并赋予民众权力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7f594402bab78d1e3e29a2f67cf0763f",
+    "title": "Research shows AI agents reject sponsored listings 97% of the time. Nobody is building the advertising infrastructure for what comes next.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xadsk6/research_shows_ai_agents_reject_sponsored/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-20T00:26:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Two recent papers caught my attention and I think they point to a massive blind spot in how we're thinking about AI agents in commerce.</p> <p>Wadi &amp; Ma (McGill, Sep 2026) tested what happens when you tell an LLM &quot;you work for the traveler&quot; vs &quot;you work for the booking platform.&quot; The consumer-deployed agent chose sponsored listings only 2.8% of the time — a 97.2% rejection rate. The platform-deployed agent? 25%. Nearly 9x higher. This rep",
+    "title_zh": "研究显示AI代理97%的时间会拒绝赞助内容，广告基础设施面临挑战",
+    "summary_zh": "最新研究发现，当AI代理被设定为用户服务时，会拒绝97%的赞助内容。这揭示了当前AI商业代理广告基础设施的巨大盲区，对未来商业变现模式构成挑战。",
+    "key_points": [
+      "AI代理在服务用户模式下会拒绝97%的赞助内容",
+      "现有广告基础设施无法应对AI代理带来的变化",
+      "研究揭示了AI代理商业化模式的巨大盲区"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "76f803013769ec60953f5d4ab6d94177",
+    "title": "Meta Says Claude AI Tool Triggered No Kings Instagram Suspension",
+    "url": "https://www.reddit.com/r/artificial/comments/1xad1q4/meta_says_claude_ai_tool_triggered_no_kings/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-19T23:53:24+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xad1q4/meta_says_claude_ai_tool_triggered_no_kings/\"> <img alt=\"Meta Says Claude AI Tool Triggered No Kings Instagram Suspension\" src=\"https://external-preview.redd.it/1Pv3ScYHnDRVG6vAMnCF4Tu2CzVoXBF2wIs9z6inHFI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c50db08ac2a003131ceb56e86f973c4f3610fab8\" title=\"Meta Says Claude AI Tool Triggered No Kings Instagram Suspension\" /> </a> </td><td> &#32; submitted by &#32; <a href=",
+    "title_zh": "Meta 称 Claude AI 工具触发了“无国王”Instagram账号停用",
+    "summary_zh": "Meta 表示，其 Instagram 平台上一系列账号的暂停是由其 Claude AI 内容审核工具触发的，这些账号与“无国王”运动相关。",
+    "key_points": [
+      "Meta 将Instagram账号大规模停用归因于其AI工具Claude",
+      "该AI工具误将“无国王”运动相关内容判定为违规"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
