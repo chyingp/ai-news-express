@@ -1038,5 +1038,30 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "fcba2472d802d7aa7adc45ce6f31b8b0",
+    "title": "Nvidia CEO says he'd cut off chip supply to a customer building unsafe AI, and commits $250M to UK AI safety research",
+    "url": "https://www.reddit.com/r/artificial/comments/1xahcz9/nvidia_ceo_says_hed_cut_off_chip_supply_to_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-20T03:19:22+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xahcz9/nvidia_ceo_says_hed_cut_off_chip_supply_to_a/\"> <img alt=\"Nvidia CEO says he'd cut off chip supply to a customer building unsafe AI, and commits $250M to UK AI safety research\" src=\"https://external-preview.redd.it/0eLzgjaIGruGoBr6hf6l__57MzThLWN6ZRkh0A7cGVI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=11c849e6db435d0bb5917ed6eb15a5dfdbb7762d\" title=\"Nvidia CEO says he'd cut off chip supply to a customer building",
+    "title_zh": "英伟达CEO称将切断对开发不安全AI客户的芯片供应，并承诺2.5亿美元用于英国AI安全研究",
+    "summary_zh": "英伟达CEO黄仁勋表态，若客户利用其芯片开发不安全的AI系统，将考虑切断芯片供应。同时，英伟达承诺向英国AI安全研究领域投入2.5亿美元，显示其在推动AI安全方面的强硬立场和资金支持。",
+    "key_points": [
+      "英伟达CEO警告可能对开发不安全AI的客户断供芯片",
+      "公司宣布投入2.5亿美元支持英国AI安全研究"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
