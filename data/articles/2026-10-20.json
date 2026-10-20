@@ -1063,5 +1063,81 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3f1260209eeb04827e89e87c943ca005",
+    "title": "Advancing digital sovereignty with greater control and choice",
+    "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+    "source": "Microsoft AI Blog",
+    "source_zh": "微软官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-20T08:20:02+00:00",
+    "content_snippet": "<p>Across my conversations with leaders in government, critical infrastructure and regulated industries, one priority consistently rises to the top: putting technology to work on their most important systems while maintaining the control those systems require. This challenge is becoming more important as advanced cloud and AI capabilities move into public services, regulated processes and essential...</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereig",
+    "title_zh": "推进数字主权：微软提供更强的控制与选择",
+    "summary_zh": "微软发布博客，强调在与政府、关键基础设施和受监管行业领导者的对话中，如何利用技术的同时保持系统控制是首要任务。文章旨在阐述微软通过增强数据控制、加密和透明度等措施，帮助客户实现数字主权，以应对日益重要的合规与安全挑战。",
+    "key_points": [
+      "微软推出新措施，增强政府及监管行业客户的数字主权控制",
+      "重点涵盖数据加密、本地化部署及透明度工具的改进",
+      "旨在平衡技术创新与严格的数据合规及安全需求"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "99d1b3b58bf4c2aac3fe2f982817a01b",
+    "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+    "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-20T05:00:00+00:00",
+    "content_snippet": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and training to support innovation across industries.  Many of these companies are also members of the NVIDIA Inception program for cutting-edge startups — and as of today, access to some [&#8230;]",
+    "title_zh": "西班牙初创企业借助巴塞罗那超算中心加速区域创新",
+    "summary_zh": "NVIDIA 博客介绍了巴塞罗那超算中心（BSC）的 AI 工厂加速器项目，该项目已全面投入运营，为初创企业提供主权计算、技术支持和培训。许多受惠企业同时也是 NVIDIA Inception 计划成员，促进了跨行业创新。",
+    "key_points": [
+      "BSC 的 AI 工厂加速器项目为初创企业提供主权计算资源与培训",
+      "参与项目的初创企业多为 NVIDIA Inception 计划成员",
+      "此举旨在推动西班牙区域创新，覆盖多个行业"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ef38fc25be722fcbf1842b89faa5aa5",
+    "title": "Yuval Noah Harari Warns of 'Collective Dementia' in the Age of AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1xai8oq/yuval_noah_harari_warns_of_collective_dementia_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-20T04:05:20+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xai8oq/yuval_noah_harari_warns_of_collective_dementia_in/\"> <img alt=\"Yuval Noah Harari Warns of 'Collective Dementia' in the Age of AI\" src=\"https://preview.redd.it/1047grpfpjwh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=17239c72ea0e9fa48b77c388932235e56cd0fbbd\" title=\"Yuval Noah Harari Warns of 'Collective Dementia' in the Age of AI\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Historian and bestselling autho",
+    "title_zh": "尤瓦尔·赫拉利警告：AI 时代将引发“集体失忆”",
+    "summary_zh": "在 Reddit 论坛中引用的内容显示，历史学家尤瓦尔·赫拉利发出警告，人工智能可能通过生成虚假叙事和操纵信息，导致人类社会出现“集体失忆”的现象，引发对 AI 伦理和社会影响的广泛讨论。",
+    "key_points": [
+      "尤瓦尔·赫拉利警告 AI 可能导致人类社会出现“集体失忆”",
+      "担忧 AI 生成的虚假信息将侵蚀集体记忆与认知",
+      "该观点在 Reddit 社区引发关于 AI 伦理的热烈讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
