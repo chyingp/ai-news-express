@@ -171,5 +171,123 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "24ae028040a75e10f9867bbcdd4531b7",
+    "title": "Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0",
+    "url": "https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-21T17:58:42+00:00",
+    "content_snippet": "",
+    "title_zh": "在仿真中训练，在真实机器人上部署：搭载 Isaac Lab 3.0 的 Microduck",
+    "summary_zh": "Hugging Face 博客介绍英伟达的 Microduck 项目，展示如何利用 Isaac Lab 3.0 仿真环境训练机器人，并成功部署到真实硬件上，实现从仿真到现实的迁移学习。",
+    "key_points": [
+      "利用 Isaac Lab 3.0 仿真环境训练机器人策略。",
+      "成功实现从仿真到真实机器人的迁移部署。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "950641e2d069c6b8d0b06c4591713966",
+    "title": "3 things you should do with your AI to save $$$ before booking a hotel",
+    "url": "https://www.reddit.com/r/artificial/comments/1xbu3ox/3_things_you_should_do_with_your_ai_to_save/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-21T17:47:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hotel pages are built to make the choice feel simple, but the data behind them isn't. I pulled a lot of live hotel rates and these are the 3 checks that mattered most. It is incredibly frustrating to do them by hand, so have the AI do them. </p> <ol> <li><p>Have it put the free cancellation dates side by side. At the ILUNION in Barcelona the same twin room was 135 with free cancellation until the 8th, and 185 with free cancellation only until the 6th. So the lat",
+    "title_zh": "预订酒店前，用 AI 帮你省钱的 3 个技巧",
+    "summary_zh": "一篇 Reddit 帖子分享了利用 AI 分析酒店实时房价数据的三个实用检查技巧，帮助用户发现价格陷阱并节省费用，避免手动比价的繁琐过程。",
+    "key_points": [
+      "利用 AI 分析实时酒店房价数据以发现隐性成本。",
+      "通过 AI 自动化比价，避免手动查询的繁琐和误导。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bc268181b8d139d88412c90e10b4f222",
+    "title": "Noun-verb-conjunction triads [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xbtzv9/nounverbconjunction_triads_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-21T17:44:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The neural network would consist of multiple layers with at least one layer consisting of multiple attention heads. Each attention head would hold one triad consisting of one noun + one verb + one conjunction.</p> <p>The siamese cat ate the mouse then died:</p> <ul> <li>(Null) Cat ate</li> <li>also Mouse eaten</li> <li>and cat siamese</li> <li>Then cat died</li> </ul> <p>&quot;Also&quot; means the two events are the same event. (Not in english).</p> <p>A possibl",
+    "title_zh": "名词-动词-连词三元组 [讨论]",
+    "summary_zh": "Reddit 上关于神经网络架构的学术讨论，提出了一种由多层组成的网络，其中至少一层包含多个注意力头，每个头部容纳一个名词、动词和连词组成的三元组。",
+    "key_points": [
+      "探讨基于名词-动词-连词三元组的神经网络注意力机制设计。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9df610225313c51cba980b313550dc26",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "url": "https://openai.com/index/att-legal",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-21T17:00:00+00:00",
+    "content_snippet": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "title_zh": "AT&T 如何利用 OpenAI 重新思考内部法务工作",
+    "summary_zh": "AT&T 正与 OpenAI 合作，利用 AI 使其法律知识更易于获取。其 LegalEdge 团队正利用该技术重塑法律咨询的接收流程，并规模化法律判断能力。",
+    "key_points": [
+      "AT&T 与 OpenAI 合作，提升内部法律知识获取效率。",
+      "LegalEdge 团队利用 OpenAI 技术改进法务工作流程。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "37d9080f34d24666511bc1aebbce3fab",
+    "title": "How many \"unexploitable\" bugs are about to become exploitable?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xbrt5f/how_many_unexploitable_bugs_are_about_to_become/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-21T16:25:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Wiz just disclosed <a href=\"https://www.wiz.io/blog/php2shell-php-rce\">PHP2Shell</a>, two critical vulnerabilities in the PHP engine that allow unauthenticated remote code execution and memory disclosure.</p> <p>The bugs have been sitting in PHP's codebase for over a decade. Finding them was hard enough. Turning them into reliable exploits, especially across different environments, was considerably harder.</p> <p>With the help of Gemini and GPT models, Wiz resea",
+    "title_zh": "还有多少“无法利用”的漏洞即将变得可被利用？",
+    "summary_zh": "一篇 Reddit 讨论指出，随着 AI 技术的发展，过去被判定为无法利用的软件漏洞可能面临新的攻击风险。文章以 PHP 引擎中潜伏多年的高危漏洞为例进行了讨论。",
+    "key_points": [
+      "AI 技术发展可能使过去无法利用的软件漏洞变得可被攻击。",
+      "以 PHP 引擎中潜伏多年的高危漏洞为例警示安全风险。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
