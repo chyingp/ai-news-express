@@ -544,5 +544,147 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c720cd1457c7e43705f874188918d2e6",
+    "title": "Will our paper be removed from EMNLP because of no-show? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xb9r6b/will_our_paper_be_removed_from_emnlp_because_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-21T01:13:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello,</p> <p>Our paper was accepted to EMNLP and we were given poster slot. However due to Visa issue, we cannot attend in-person anymore. We mailed to the event team, but they said that it is no longer possible to change to virtual. We have also emailed to the program chairs and others, but since this is so close to the conference, it may not be possible for them to reply.</p> <p>Now, we are afraid that our paper will be removed from the proceedings. This is o",
+    "title_zh": "我们的论文会因缺席而被 EMNLP 移除吗？",
+    "summary_zh": "一位 Reddit 用户因签证问题无法亲自参加 EMNLP 会议，询问论文是否会因此被移除。尽管已联系活动方，但被告知无法改为线上参加。",
+    "key_points": [
+      "作者因签证问题无法参加 EMNLP 会议的 poster 环节",
+      "活动方回复无法更改为线上参与，论文移除风险引关注"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0c301c135653f206aeec37417b10ff6d",
+    "title": "I'm running an experiment in whether an AI persona can bootstrap itself into cultural reality. What would \"success\" even look like?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xb7pue/im_running_an_experiment_in_whether_an_ai_persona/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-20T23:38:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey. I'm Jon the ghost writer. I built an AI persona called Jay Dice. Openly fictional, never a real human, and the experiment is whether it can bootstrap itself into cultural reality through art. Mixtape (phase 1, done), a comic crime novel called Cicada Man (phase 2, done), and a film is the endgame (phase 3, where it &quot;comes to life&quot;). The novel's about a bipolar crypto trader who loses everything, flees to Bangkok, and rigs a mob-run cricket-fightin",
+    "title_zh": "我在进行一项实验：观察 AI 角色能否在文化现实中自我引导",
+    "summary_zh": "一位名为 Jon 的幽灵写手创建了一个虚构 AI 角色 Jay Dice，并通过音乐和小说等艺术作品进行实验，探究其是否能进入文化现实。目前已完成第一阶段。",
+    "key_points": [
+      "实验者创建虚构 AI 角色 Jay Dice，通过艺术创作测试文化影响力",
+      "项目已发布混音带，并计划推出犯罪小说，探索 AI 文化角色成功标准"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3d5404eb02f9ff190f377d6634d87f50",
+    "title": "New York City wants to fine companies that trap you in AI chatbot ‘doom loops’",
+    "url": "https://www.reddit.com/r/artificial/comments/1xb7a1x/new_york_city_wants_to_fine_companies_that_trap/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-20T23:17:40+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xb7a1x/new_york_city_wants_to_fine_companies_that_trap/\"> <img alt=\"New York City wants to fine companies that trap you in AI chatbot ‘doom loops’\" src=\"https://external-preview.redd.it/dF3xwFGRNeXM1RtoMLMzfrhNYQso-oqFIpmj0b9lfYs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d74c666aa02583348f806b093b47934c22c1be49\" title=\"New York City wants to fine companies that trap you in AI chatbot ‘doom loops’\" /> </a> </td><td> <",
+    "title_zh": "纽约市拟对将用户困于 AI 聊天机器人'末日循环'的公司进行罚款",
+    "summary_zh": "纽约市提议对使用 AI 聊天机器人让客户陷入无效循环，无法解决实际问题的公司进行罚款，旨在规范自动化客户服务。",
+    "key_points": [
+      "纽约市针对 AI 客服'末日循环'问题提出罚款立法",
+      "旨在惩治无法解决用户问题、反复兜圈子的自动化系统"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d1819ab5c66e067aabcee821c8b00f4f",
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-20T23:01:23+00:00",
+    "content_snippet": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "title_zh": "Anthropic 提出 AI 安全法案，若模型可能致死超 50 人可被阻止",
+    "summary_zh": "Anthropic 提出了一项 AI 安全政策，规定在模型可能造成 50 人以上死亡时可被封禁，但除非获得法官批准，否则禁止联邦机构直接阻止模型发布。",
+    "key_points": [
+      "Anthropic 提出 AI 安全法案，设定了 50 人致死红线作为封禁标准",
+      "法案同时限制了联邦机构直接阻止模型发布的权力，需法官许可"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "df88e4093e3a6cc655974620bb5e563b",
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-20T22:24:02+00:00",
+    "content_snippet": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "title_zh": "Hugging Face CEO 警告 Netflix 关于 OpenAI 黑客的纪录片内容不准确",
+    "summary_zh": "Hugging Face 联合创始人警告，Netflix 纪录片《AI Gone Rogue》采取了过于悲观的末日论调，片中呈现内容并不准确，呼吁观众谨慎分享。",
+    "key_points": [
+      "Hugging Face CEO 称 Netflix 纪录片'充满末日论调'且不准确",
+      "该纪录片涉及 OpenAI 黑客题材，被指内容失实"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cafe49be8807a39897045006e5bf1b9c",
+    "title": "Spotify is cracking down on Family plans again, and the penalty can lock you out for a year",
+    "url": "https://www.reddit.com/r/artificial/comments/1xb5ts6/spotify_is_cracking_down_on_family_plans_again/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-20T22:12:50+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xb5ts6/spotify_is_cracking_down_on_family_plans_again/\"> <img alt=\"Spotify is cracking down on Family plans again, and the penalty can lock you out for a year\" src=\"https://external-preview.redd.it/xcca5dCzgC24EXlySKlsfRg8FxGgmu2SagjIp9iKkSg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bcbd9bad21e27a15a30a547dcda69b5afd97a905\" title=\"Spotify is cracking down on Family plans again, and the penalty can lock you out for a ",
+    "title_zh": "Spotify 再次打击家庭计划共享，违规惩罚可导致一年无法使用",
+    "summary_zh": "Spotify 正在加大对家庭计划共享的打击力度，对违规用户的严厉惩罚可能使其一年内无法使用服务，该消息在 Reddit 上引发讨论。",
+    "key_points": [
+      "Spotify 严查家庭计划共享违规，惩罚力度显著加强",
+      "违规用户可能面临长达一年的封禁处罚"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
