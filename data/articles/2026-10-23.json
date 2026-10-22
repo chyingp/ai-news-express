@@ -407,5 +407,440 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "73f803029b01cb70059789139924d59b",
+    "title": "Canva’s first AI image model plans designs before generating them",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-22T21:51:25+00:00",
+    "content_snippet": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an [&#8230;]",
+    "title_zh": "Canva 发布首个 AI 图像模型 Craft，生成前先规划设计",
+    "summary_zh": "Canva 发布自有 AI 图像生成模型 Canva Craft，采用两阶段架构，先生成设计蓝图再生成图像，以提升精确度，直接与 OpenAI、微软和谷歌的产品竞争。",
+    "key_points": [
+      "Canva 推出自有 AI 图像模型 Craft，直接挑战行业巨头。",
+      "采用两阶段架构，先生成设计规划，再生成最终图像。",
+      "该模型将提供更高的图像生成精确度与控制力。"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c4f2e7d5237a4ccbafdb698ecf4c0ce5",
+    "title": "Designing an AI serving harness built to last",
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-22T21:17:29+00:00",
+    "content_snippet": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
+    "title_zh": "设计经得起时间考验的 AI 服务框架",
+    "summary_zh": "企业 AI 的下一个竞争焦点正从模型本身转向其周边的服务和基础设施。构建一个稳固、可扩展的 AI 服务框架成为关键差异化因素。",
+    "key_points": [
+      "企业 AI 竞争正从模型性能转向外围服务框架的构建。",
+      "稳定、可扩展的 AI 服务框架是未来核心竞争优势。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "17571afb32c1fa11ad094f3d35f89569",
+    "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-22T20:57:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A while back I posted SteerTTS v1, a small English TTS you steer with numbers (<a href=\"https://huggingface.co/WhissleAI/steer-tts\">https://huggingface.co/WhissleAI/steer-tts</a>). Today I am releasing the edge variant:</p> <p><a href=\"https://huggingface.co/WhissleAI/steer-tts-edge\"><strong>https://huggingface.co/WhissleAI/steer-tts-edge</strong></a></p> <p><strong>Size:</strong> everything an app has to ship (weights, voices, text front end and Python runtime)",
+    "title_zh": "可调节小型文语转换模型缩至 11.84 MB，性能几乎无损",
+    "summary_zh": "WhissleAI 发布其 SteerTTS 边缘版本，模型大小缩减至 11.84 MB，同时词错误率保持不变，语音质量评分仅略微下降约 0.1。",
+    "key_points": [
+      "SteerTTS 边缘版模型大小压缩至 11.84 MB。",
+      "模型压缩后词错误率未变，语音质量下降极微小。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dcbaa5686677ecb8adfd0a52960bfa29",
+    "title": "Figure All Hands 2026",
+    "url": "https://www.reddit.com/r/artificial/comments/1xcub9s/figure_all_hands_2026/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-22T20:45:37+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xcub9s/figure_all_hands_2026/\"> <img alt=\"Figure All Hands 2026\" src=\"https://external-preview.redd.it/YWJPV1nn-LBuoDaTIPK_9kSQWMf2bn2WC7QPd8ZnN04.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2cf89e817e7b5d5d80642c6503289243d353f371\" title=\"Figure All Hands 2026\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Curious on people's thoughts on the pre-train vs post-train strategy in robotics AI?</p> </div><!-- SC_ON -",
+    "title_zh": "Figure 2026 年全员大会",
+    "summary_zh": "关于 Figure 公司 2026 年全员大会的讨论，内容涉及该公司人形机器人及相关 AI 技术的最新进展和展示。",
+    "key_points": [
+      "Figure 公司举行 2026 年全员大会。",
+      "会议可能展示了其在人形机器人和 AI 领域的最新动态。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "af7e7277bac39aa5891995ed38f43361",
+    "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+    "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-22T20:32:05+00:00",
+    "content_snippet": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [&#8230;]",
+    "title_zh": "法律专家称 Meta 仍可能抓取新闻网站数据训练 AI",
+    "summary_zh": "Meta 修改了其商业条款，移除了暗示可自由抓取新闻网站内容训练 AI 的语言，但法律专家认为这些修改不足以解决根本关切。",
+    "key_points": [
+      "Meta 微调了服务条款，移除了部分 AI 训练相关表述。",
+      "法律专家指出修改后条款仍可能允许其抓取数据训练 AI。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d7dcc58ca817ba78a8cf3dbc11dc3902",
+    "title": "Meta turns Muse sharing back on",
+    "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-22T20:24:04+00:00",
+    "content_snippet": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
+    "title_zh": "Meta 重新开启 Muse 分享功能",
+    "summary_zh": "在安全研究人员发现公开对话链接容易被抓取后，Meta 重新启用了其 AI 产品 Muse 的分享功能。此前泄露的信息包括内部营收评估和贷款申请。",
+    "key_points": [
+      "Meta 的 Muse 分享功能在安全问题被发现后重新开启。",
+      "此前因公开链接可被轻易访问，导致内部商业信息泄露。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9b9aa8b73b495213b7b5435e1940ce48",
+    "title": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
+    "url": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-22T19:59:37+00:00",
+    "content_snippet": "We can't have nice things, but at least we can get trailers for them.",
+    "title_zh": "《质量效应：宇宙》预告片泄露，展示我们错过的内容",
+    "summary_zh": "一款名为《质量效应：宇宙》的游戏预告片遭泄露，为玩家展示了这款可能已被取消或改变方向的项目的一瞥。",
+    "key_points": [
+      "《质量效应》系列新作《宇宙》的预告片泄露。",
+      "该预告片可能展示了一个已中止或变更的游戏项目。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "74f914977fde188c8b736c789d1c3efd",
+    "title": "AI helping to improve Linux's AMD Zen CPU microarchitecture detection",
+    "url": "https://www.reddit.com/r/artificial/comments/1xcsy3b/ai_helping_to_improve_linuxs_amd_zen_cpu/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-22T19:54:43+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xcsy3b/ai_helping_to_improve_linuxs_amd_zen_cpu/\"> <img alt=\"AI helping to improve Linux's AMD Zen CPU microarchitecture detection\" src=\"https://external-preview.redd.it/37qT7Rm7ynsdls77r6RTikn1BVyDXoq66v6aXuMU574.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fc5a146c5128df14cd1b2ab963e199c03b7dfd4e\" title=\"AI helping to improve Linux's AMD Zen CPU microarchitecture detection\" /> </a> </td><td> &#32; submitted by &#32; <",
+    "title_zh": "AI 助力改善 Linux 对 AMD Zen CPU 微架构的检测",
+    "summary_zh": "一项新的技术进展显示，AI 正被用于改进 Linux 操作系统对 AMD Zen 系列 CPU 微架构的检测能力，可能带来性能优化。",
+    "key_points": [
+      "AI 技术被应用于提升 Linux 对 AMD Zen CPU 的识别精度。",
+      "该技术有望优化基于 AMD 处理器的系统性能。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "amd"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dfb142c013a963b6b22392b645a81b19",
+    "title": "Ninety Days on Lobsters: how a programming community talked about AI · Radius",
+    "url": "https://www.reddit.com/r/artificial/comments/1xcstsa/ninety_days_on_lobsters_how_a_programming/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-22T19:50:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xcstsa/ninety_days_on_lobsters_how_a_programming/\"> <img alt=\"Ninety Days on Lobsters: how a programming community talked about AI · Radius\" src=\"https://external-preview.redd.it/1QDaCMhTomVOKPGZRX_5FkAgTBspOQoeuq-Wy8fwgaM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=839027069b2c93a7ff4089a98966010af4372a92\" title=\"Ninety Days on Lobsters: how a programming community talked about AI · Radius\" /> </a> </td><td> <!-- SC_OF",
+    "title_zh": "程序员社区 Lobsters 过去九十天如何讨论 AI",
+    "summary_zh": "一篇文章分析了技术社区 Lobsters 在过去三个月里关于人工智能的讨论趋势，揭示了程序员群体对 AI 的看法和关注点。",
+    "key_points": [
+      "分析了程序员社区 Lobsters 90 天内对 AI 的讨论。",
+      "揭示了开发者群体对 AI 技术趋势和影响的真实态度。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c1230fd4012baae4263c7625929391b0",
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-22T19:07:09+00:00",
+    "content_snippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+    "title_zh": "1Password 推出新功能，让 AI 代理无需查看密码即可代表用户登录",
+    "summary_zh": "密码管理服务 1Password 发布新功能，允许 AI 代理在不知晓用户真实密码的情况下，安全地代表用户登录个人账户，以保护私密凭证。",
+    "key_points": [
+      "1Password 推出面向 AI 代理的安全登录功能。",
+      "该功能使 AI 代理无需接触密码即可代表用户完成登录。"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c1c1c91a0dd305cd91b870be3ea6649f",
+    "title": "\"Disillusioned\" MAHA leader quits as Trump admin's food agenda spoils: Report",
+    "url": "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-22T19:04:06+00:00",
+    "content_snippet": "The departure comes amid turmoil in Kennedy's Make America Healthy Again movement.",
+    "title_zh": "“幻想破灭”：MAHA运动领袖辞职，特朗普政府食品议程受阻",
+    "summary_zh": "据报道，一名对特朗普政府食品政策感到失望的“让美国再次健康”运动领袖宣布辞职，该运动由罗伯特·肯尼迪领导，目前正经历内部动荡。",
+    "key_points": [
+      "MAHA运动因特朗普政府食品议程问题陷入内部动荡",
+      "一名感到“幻想破灭”的运动领袖宣布辞职",
+      "该运动由罗伯特·肯尼迪领导，此次辞职加剧了内部危机"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8e6cfc22204fb217ce70d702347f41e6",
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-22T19:00:00+00:00",
+    "content_snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "title_zh": "OpenAI广泛推出其Jev竞品，决策模型竞争升温",
+    "summary_zh": "OpenAI正式向全球发布其决策模型，直接与市场上已有的Jev模型展开竞争，此举正值AI领域决策模型竞赛日益激烈之际。",
+    "key_points": [
+      "OpenAI全球发布自研决策模型，对标竞争对手Jev",
+      "此举标志着AI决策模型领域竞争加剧",
+      "该模型旨在与原始Jev模型争夺市场份额"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "591876a8e3e006964f6564e69a096e09",
+    "title": "Canva releases its first image generation model",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-22T19:00:00+00:00",
+    "content_snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+    "title_zh": "Canva发布首款自定义图像生成模型",
+    "summary_zh": "在线设计平台Canva向全体用户推出其首个自研图像生成模型，声称该模型性能更佳、定制化更强且成本更低。",
+    "key_points": [
+      "Canva发布首款自研图像生成模型并向所有用户开放",
+      "新模型在可定制性和性能上均有提升，成本进一步降低",
+      "此举标志着Canva在AI内容生成领域迈出重要一步"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6c4c325e4c950cc13436ff2a1cbfeeb2",
+    "title": "Discord now formats Markdown previews right",
+    "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-22T18:58:19+00:00",
+    "content_snippet": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects [&#8230;]",
+    "title_zh": "Discord优化Markdown预览格式，利好AI代理",
+    "summary_zh": "Discord最新更新修复了Markdown文件的预览渲染问题，使其不再显示乱码。鉴于大语言模型和AI代理常依赖Markdown文件，这一改进对开发者十分有利。",
+    "key_points": [
+      "Discord修复了Markdown文件预览渲染错误的问题",
+      "该更新对依赖Markdown文件工作的LLM和AI代理有帮助",
+      "改善了开发者在Discord上的文档交互体验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "870bab36282f461e87a0c42f5cd9c00f",
+    "title": "The Foundations of Scalable AI",
+    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-22T18:48:04+00:00",
+    "content_snippet": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic&#8230;",
+    "title_zh": "构建可扩展AI系统的基础要素",
+    "summary_zh": "来自《麻省理工科技评论》EmTech Future大会的讨论指出，构建可扩展AI需要在数据、工程、平台、运营模式和治理等方面协同发力，尤其是在高度监管的环境中。",
+    "key_points": [
+      "可扩展AI系统需数据、工程、平台和治理等多要素协同",
+      "运营模式的整合是AI规模化落地的关键",
+      "相关探讨聚焦于在高度监管环境中构建AI基础设施"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bc91e34a2351f2b0b2a9398d1182e038",
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-22T18:43:53+00:00",
+    "content_snippet": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+    "title_zh": "微软穆斯塔法·苏莱曼：微软AI诊断疑难杂症能力超越医生",
+    "summary_zh": "微软AI部门负责人穆斯塔法·苏莱曼宣称，一项发表于《科学》的研究表明，微软的新AI诊断系统在处理疑难杂症上优于全科医生，但其性能提升主要归功于底层AI模型。",
+    "key_points": [
+      "研究显示微软AI诊断系统在疑难病例上超越全科医生",
+      "系统性能的提升主要来自底层AI模型而非微软系统本身",
+      "苏莱曼以此追逐“医疗超级智能”的宏伟目标"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dc7cc050f4bc502c17a1ebd6d488c2ce",
+    "title": "The inside story behind OpenAI’s million-dollar math proof",
+    "url": "https://www.reddit.com/r/artificial/comments/1xcqows/the_inside_story_behind_openais_milliondollar/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-22T18:30:57+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xcqows/the_inside_story_behind_openais_milliondollar/\"> <img alt=\"The inside story behind OpenAI’s million-dollar math proof\" src=\"https://external-preview.redd.it/YI1LfC46Cc3vyX9FyR8wx-x1hNZ2DZWztfJHOvFve7U.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e0eb46786535c803fffec8917a92f9137636ab7\" title=\"The inside story behind OpenAI’s million-dollar math proof\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://w",
+    "title_zh": "OpenAI百万美元数学证明背后的内幕故事",
+    "summary_zh": "一篇揭示OpenAI在解决复杂数学证明过程中幕后故事的文章在Reddit引发热议，该成果曾悬赏百万美元。",
+    "key_points": [
+      "揭秘OpenAI完成百万美元悬赏数学证明的背后过程",
+      "该数学证明成果在Reddit人工智能社区引发广泛关注",
+      "展示了AI在解决前沿数学问题上的潜力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "58b4226c9687740ec95b25d6dff13828",
+    "title": "The Proximity Paradox: Why AI Is Making Us Soft—and How to Fight Back",
+    "url": "https://www.reddit.com/r/artificial/comments/1xcqlr5/the_proximity_paradox_why_ai_is_making_us_softand/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-22T18:27:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We have a chronic obsession with the finish line. Right now, across every sleek boardroom and digital workspace, we are popping champagne for software that generates entire codebases, drafts multi-page reports, or solves intricate analytical puzzles in a single click. We call it a triumph.</p> <p>But look closer, and you will see a quiet, existential crisis: we are systematically automating away the very thing that makes us good at what we do.</p> <p>When you re",
+    "title_zh": "亲近度悖论：AI如何使人“变软”以及如何反击",
+    "summary_zh": "文章探讨了当前对AI能一键生成代码和报告的速度痴迷，可能导致人类核心能力退化的“亲近度悖论”现象，并提出了应对策略。",
+    "key_points": [
+      "过分追求AI一键生成结果可能导致人类能力退化",
+      "文章提出“亲近度悖论”概念以警示社会",
+      "呼吁在拥抱AI效率的同时保持核心思考与技能锻炼"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
