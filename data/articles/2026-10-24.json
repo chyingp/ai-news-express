@@ -297,5 +297,177 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3c04578ab049778fce09e707b78d0871",
+    "title": "Stenosis detection in coronary angiograms, need recall over precision [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdkcav/stenosis_detection_in_coronary_angiograms_need/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-23T17:25:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Starting a project to detect candidate stenoses in x-ray coronary angiograms. The goal is high recall, false positives are fine as long as it doesn't flag half the image.</p> <p>I already tried YOLO on a couple of in-house datasets earlier. It looked fine in-domain and fell apart on the other dataset, and a big chunk of that turned out to be annotation format. One set had fixed-size boxes around a point, the other had boxes fitted to the lesion. Same disease, ba",
+    "title_zh": "冠状动脉造影狭窄检测：追求高召回率而非精确度 [讨论]",
+    "summary_zh": "作者启动了一个项目，旨在通过YOLO模型从X光冠状动脉造影片中检测候选狭窄。目标是在不误报一半图像的前提下实现高召回率，并认为假阳性是可接受的。",
+    "key_points": [
+      "使用YOLO模型检测X光冠脉造影中的狭窄",
+      "项目目标为高召回率，允许少量假阳性",
+      "初期在内部数据集上表现良好，正在寻求改进建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "91bbf26a8cd5698c4a7f24cf6e7b1739",
+    "title": "Need 3 mins of your time! Quick anonymous survey on AI coding tools for my college project",
+    "url": "https://www.reddit.com/r/artificial/comments/1xdk7sz/need_3_mins_of_your_time_quick_anonymous_survey/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-23T17:21:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p> <p>I’m currently in Semester IV and running a short research project on how AI tools (ChatGPT, GitHub Copilot, Gemini, etc.) affect learning to code and student confidence.</p> <p>If you are student, I’d really appreciate your help!</p> <p>- Takes only 3–5 minutes</p> <p>- 100% Anonymous (no names, emails, or sign-ins collected)</p> <p>- Purely for academic research</p> <p>Link to the survey: <a href=\"https://forms.gle/Z2HzZqy4G4TERwwq5\">https:",
+    "title_zh": "需要3分钟！关于AI编程工具的匿名调查 [学生项目]",
+    "summary_zh": "一名大二学生为课程项目发起了一项简短的匿名调查，旨在研究ChatGPT、GitHub Copilot等AI工具如何影响学习编程和学生信心。",
+    "key_points": [
+      "学生发起关于AI编程工具影响的匿名调查",
+      "研究AI工具如ChatGPT对学习编程和信心的影响",
+      "请求学生群体参与3分钟调查"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "11d6634683578e8411af63afc43e4eb3",
+    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+    "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-23T17:18:31+00:00",
+    "content_snippet": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+    "title_zh": "英特尔获得豁免，此前曾担忧美国模糊的外国制造机器人禁令冲击晶圆厂",
+    "summary_zh": "英特尔表示外国制造的自动驾驶机器人对其美国芯片生产至关重要，在担忧一项模糊的禁令将影响其工厂后，该公司现已获得相关豁免。",
+    "key_points": [
+      "美国一项模糊的禁令可能影响外国制造机器人在芯片厂的使用",
+      "英特尔称外国制机器人对美本土芯片生产至关重要",
+      "英特尔最终获得豁免，确保工厂运营不受影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "intel"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7fdd8418b683394f5a089400280fa89",
+    "title": "RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns",
+    "url": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-23T16:58:39+00:00",
+    "content_snippet": "\"Trust is slow to build and quick to lose,\" board chair Jack Leslie said.",
+    "title_zh": "RFK Jr.的疫苗伤害诊所或损害NIH医院声誉，董事会警告",
+    "summary_zh": "美国国立卫生研究院临床中心董事会警告称，小罗伯特·F·肯尼迪倡导的疫苗伤害诊所可能会损害该院声誉，因为信任建立缓慢但失去很快。",
+    "key_points": [
+      "NIH医院董事会警告疫苗伤害诊所或损害声誉",
+      "董事会强调公众信任建立缓慢但失去迅速",
+      "该诊所由RFK Jr.推动，引发科学界担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a08e7d50b12c6e1efc370682635f8737",
+    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-23T16:52:55+00:00",
+    "content_snippet": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous [&#8230;]",
+    "title_zh": "谷歌更新隐私政策，可能用Gmail和相册数据投放定向广告",
+    "summary_zh": "谷歌更新了隐私政策，为用户使用个性化AI功能时利用Gmail、谷歌相册等个人数据投放定向广告添加了例外条款，引发隐私担忧。",
+    "key_points": [
+      "谷歌隐私政策更新，允许用个人数据投放广告",
+      "涉及Gmail、谷歌相册等数据，针对个性化AI功能用户",
+      "此举背离了之前不用此类数据做广告的承诺"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "89bb2e1625948c3a14b9fa4aa2a44433",
+    "title": "Everybody panic: A Valve developer said \"HLX\" in public",
+    "url": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-23T16:35:00+00:00",
+    "content_snippet": "Sound designer lets Half Life-related codename slip at a conference.",
+    "title_zh": "游戏界震动：Valve开发者在公开场合说出\"HLX\"",
+    "summary_zh": "一名Valve的音效设计师在一次会议上意外说出了与《半条命》相关的代号\"HLX\"，引发了游戏社区对《半条命》系列新作的广泛猜测和狂热期待。",
+    "key_points": [
+      "Valve开发者公开提及代号\"HLX\"引发《半条命》新作猜测",
+      "音效设计师在会议上意外漏嘴",
+      "事件在游戏社区引发狂热讨论和期待"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7417c261100bfc56321b6e5b9fc47154",
+    "title": "what are some everyday examples of AI gadgets",
+    "url": "https://www.reddit.com/r/artificial/comments/1xdiz0d/what_are_some_everyday_examples_of_ai_gadgets/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-23T16:34:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI gadgets get talked about a lot. pins, pendants, glasses, rings, handheld things with a voice assistant inside.</p> <p>but when it comes to what people actually use every day, the list gets short fast.</p> <p>so what's on your list? honestly curious what made it stick.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/IndependentCoast3974\"> /u/IndependentCoast3974 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artifi",
+    "title_zh": "有哪些日常使用的AI小工具？ [讨论]",
+    "summary_zh": "Reddit用户发起讨论，探讨人们在日常生活中实际使用的AI小工具。虽然AI别针、吊坠、眼镜等概念火热，但用户表示真正日常使用的设备清单似乎非常有限。",
+    "key_points": [
+      "Reddit讨论日常生活中实际使用的AI小工具",
+      "AI别针、眼镜等概念火热，但实际使用率低",
+      "用户好奇哪些AI小工具真正成为了日常必备品"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
