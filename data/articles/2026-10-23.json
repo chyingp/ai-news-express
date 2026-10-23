@@ -1062,5 +1062,126 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "37f874215f23171a4287bf8a05c721d0",
+    "title": "This library is hosting an AI class",
+    "url": "https://www.reddit.com/r/artificial/comments/1xd1e98/this_library_is_hosting_an_ai_class/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-23T02:00:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xd1e98/this_library_is_hosting_an_ai_class/\"> <img alt=\"This library is hosting an AI class\" src=\"https://preview.redd.it/xpckgnmgj4xh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f39566a36e47cba500a41b65fba01c60ab218f20\" title=\"This library is hosting an AI class\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SparklingFox\"> /u/SparklingFox </a> &#32; to &#32; <a href=\"https://www.redd",
+    "title_zh": "这家图书馆正在举办人工智能课程",
+    "summary_zh": "一家图书馆正在社区内举办人工智能相关课程，提供教育资源以帮助公众了解和学习AI技术。",
+    "key_points": [
+      "图书馆推出AI课程，面向公众普及人工智能知识",
+      "内容涵盖基础AI概念，降低技术学习门槛"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "51462f7e3cc57c6bfdf9ec2c138ee0fc",
+    "title": "Kazakhstan Expands Compute for Its AI Future",
+    "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-23T02:00:13+00:00",
+    "content_snippet": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment.  The shift is visible across the full AI stack — from infrastructure to models to applications.  Together, the ecosystem announcements below point to the nation’s increasing supply of accelerated computing — along with its growing demand for what comes next. Read All NVIDIA in Europe [&#8230;]",
+    "title_zh": "哈萨克斯坦扩大计算能力布局人工智能未来",
+    "summary_zh": "哈萨克斯坦正在从基础设施建设转向全面部署人工智能生态系统，涵盖加速计算、模型开发和应用落地，以推动国家AI能力提升。",
+    "key_points": [
+      "哈萨克斯坦加速部署AI基础设施与计算资源",
+      "构建涵盖基础设施、模型到应用的完整AI生态"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6d51a48cdd8d9c7b85eee29c43a39328",
+    "title": "METR, Redwood Research find exploit in OpenAI agent monitoring that could hide hundreds of actions",
+    "url": "https://www.reddit.com/r/artificial/comments/1xd0waf/metr_redwood_research_find_exploit_in_openai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-23T01:35:37+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xd0waf/metr_redwood_research_find_exploit_in_openai/\"> <img alt=\"METR, Redwood Research find exploit in OpenAI agent monitoring that could hide hundreds of actions\" src=\"https://external-preview.redd.it/3cjUcu5aO9iH5y_EgOz2oKXIFiJwGHi5YF1hLgJjgaU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f863342fcd769b89b9a3e8cd683cadc8d296bf4d\" title=\"METR, Redwood Research find exploit in OpenAI agent monitoring that could hide hun",
+    "title_zh": "METR与Redwood Research发现OpenAI智能体监控漏洞，可隐藏数百项操作",
+    "summary_zh": "研究机构METR和Redwood Research在OpenAI的智能体监控系统中发现一个安全漏洞，该漏洞可能被利用来隐藏多达数百次未授权的操作。",
+    "key_points": [
+      "发现OpenAI智能体监控系统存在严重漏洞",
+      "漏洞可被利用隐藏大量恶意操作，引发安全担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d518f499a18d6686e742ea1cd0969eab",
+    "title": "Microsoft AI diagnostic system doubles doctors' accuracy on complex cases in Science study",
+    "url": "https://www.reddit.com/r/artificial/comments/1xd0ugh/microsoft_ai_diagnostic_system_doubles_doctors/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-23T01:33:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xd0ugh/microsoft_ai_diagnostic_system_doubles_doctors/\"> <img alt=\"Microsoft AI diagnostic system doubles doctors' accuracy on complex cases in Science study\" src=\"https://external-preview.redd.it/0qwuBgDb5xt6ovlwURFKIdYG-_wPg86RgybISSS9haU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e555218088d74f983c4c00d8c2befc94dfa199f\" title=\"Microsoft AI diagnostic system doubles doctors' accuracy on complex cases in Science stu",
+    "title_zh": "微软AI诊断系统在《科学》研究中将医生处理复杂病例的准确率提升一倍",
+    "summary_zh": "微软发布的一项人工智能诊断系统在《科学》期刊的研究中显示，能帮助医生在诊断复杂病例时，将准确率显著提升一倍。",
+    "key_points": [
+      "微软AI诊断系统显著提升复杂病例诊断准确率",
+      "研究成果发表于顶级期刊《科学》"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "40b6e6db387fb66be424d2176255da89",
+    "title": "NEURA Robotics, TUM Open 2,300 sq m RoboGym, Debut 4NE1 Gen 4 Humanoid",
+    "url": "https://www.reddit.com/r/artificial/comments/1xd0rnq/neura_robotics_tum_open_2300_sq_m_robogym_debut/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-23T01:29:29+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xd0rnq/neura_robotics_tum_open_2300_sq_m_robogym_debut/\"> <img alt=\"NEURA Robotics, TUM Open 2,300 sq m RoboGym, Debut 4NE1 Gen 4 Humanoid\" src=\"https://external-preview.redd.it/9RpJ9Ll5SfebSkWYb0lG_uaChmXM1zOgY8lHbxDxBdE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a59702a6bf47b3e7df3dbfbb976a37b2f10557dc\" title=\"NEURA Robotics, TUM Open 2,300 sq m RoboGym, Debut 4NE1 Gen 4 Humanoid\" /> </a> </td><td> &#32; submitted b",
+    "title_zh": "NEURA Robotics与慕尼黑工大开放2300平米机器人训练场，发布4NE1第四代人形机器人",
+    "summary_zh": "NEURA Robotics与慕尼黑工业大学合作，开设了一个占地2300平方米的机器人训练场“RoboGym”，并首次展示了其第四代人形机器人4NE1。",
+    "key_points": [
+      "开设2300平米大型机器人训练场RoboGym",
+      "发布4NE1第四代人形机器人，加速具身智能研发"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
