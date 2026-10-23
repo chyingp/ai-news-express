@@ -1183,5 +1183,131 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "78ed10cb4191e4c660d47c6a1c07c540",
+    "title": "Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems",
+    "url": "https://www.reddit.com/r/artificial/comments/1xd6lqj/contestable_agents_for_data_governance_recording/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-23T06:40:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xd6lqj/contestable_agents_for_data_governance_recording/\"> <img alt=\"Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems\" src=\"https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de730fbf7ecace6df0036b21470c16a2d4feacfb\" title=\"Contestable Agents for Data Governance: Re",
+    "title_zh": "可争议的智能代理用于数据治理：记录人工智能生成元数据的人类管理",
+    "summary_zh": "一篇研究论文，探讨通过可争议的AI代理来增强数据治理，方法是由人类监督并记录AI在结构化和非结构化系统中生成的元数据，以提升透明度和问责制。",
+    "key_points": [
+      "提出可争议AI代理框架，用于提升数据治理的透明度",
+      "通过人类监督和记录AI生成的元数据来确保问责",
+      "该框架适用于结构化和非结构化数据系统"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b43eaac856b750b220a6b1c5d7beeb39",
+    "title": "OpenAI's GPT Rosalind agents map mouse brain gene disruptions in 32 minutes",
+    "url": "https://www.reddit.com/r/artificial/comments/1xd57xo/openais_gpt_rosalind_agents_map_mouse_brain_gene/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-23T05:19:30+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xd57xo/openais_gpt_rosalind_agents_map_mouse_brain_gene/\"> <img alt=\"OpenAI's GPT Rosalind agents map mouse brain gene disruptions in 32 minutes\" src=\"https://external-preview.redd.it/GigzWTWKBz8jA4QnLvLhgai1vwRLMygjDo6ftf2QEFc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=072860461d8435600863d801c1f41245f71170b0\" title=\"OpenAI's GPT Rosalind agents map mouse brain gene disruptions in 32 minutes\" /> </a> </td><td> &#32; ",
+    "title_zh": "OpenAI的GPT Rosalind代理在32分钟内绘制出小鼠大脑基因中断图谱",
+    "summary_zh": "OpenAI的GPT Rosalind代理展示了强大的科学分析能力，在短短32分钟内完成了对小鼠大脑基因中断的复杂图谱绘制工作，显著加速了神经科学研究。",
+    "key_points": [
+      "OpenAI的GPT Rosalind代理在32分钟内完成脑基因图谱绘制",
+      "该成果展示了AI在复杂生物数据分析中的巨大加速潜力",
+      "这项工作可能推动脑科学研究方法的革新"
+    ],
+    "importance": 3,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a5c5d1b73ee531e5fb04ec2dc67e19fb",
+    "title": "Agility Robotics locks Nvidia as sole Digit 5 compute supplier ahead of Nasdaq listing",
+    "url": "https://www.reddit.com/r/artificial/comments/1xd4cuk/agility_robotics_locks_nvidia_as_sole_digit_5/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-23T04:31:08+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xd4cuk/agility_robotics_locks_nvidia_as_sole_digit_5/\"> <img alt=\"Agility Robotics locks Nvidia as sole Digit 5 compute supplier ahead of Nasdaq listing\" src=\"https://external-preview.redd.it/2oCqKY3c6JFlEEOxQxri6LLJ1UZBTajWr7Tj40hnMzU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a57ac5a22bb61ed812594c32a97121780e7ba2cb\" title=\"Agility Robotics locks Nvidia as sole Digit 5 compute supplier ahead of Nasdaq listing\" /> </",
+    "title_zh": "Agility Robotics锁定英伟达为Digit 5机器人独家计算供应商",
+    "summary_zh": "机器人公司Agility Robotics选择英伟达作为其人形机器人Digit 5的独家计算平台供应商，此举紧邻其纳斯达克上市计划之前，巩固了英伟达在机器人生态的地位。",
+    "key_points": [
+      "Agility Robotics选择英伟达作为Digit 5的独家计算平台",
+      "该合作在人形机器人领域具有重要供应链意义",
+      "Agility Robotics正筹备纳斯达克上市，此合作增强其技术背书"
+    ],
+    "importance": 3,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "04de52c67f8df50e21c0199989d3cb8f",
+    "title": "US banks detect rogue AI agents inside customer accounts, move to restrict access",
+    "url": "https://www.reddit.com/r/artificial/comments/1xd4at6/us_banks_detect_rogue_ai_agents_inside_customer/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-23T04:28:06+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xd4at6/us_banks_detect_rogue_ai_agents_inside_customer/\"> <img alt=\"US banks detect rogue AI agents inside customer accounts, move to restrict access\" src=\"https://external-preview.redd.it/icdxrpAAKsAat1V_qHGrs9ircD6Xd3Y4cv9IUX14oTY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d11fbda4062b00984793c97f6f99db10ae97c889\" title=\"US banks detect rogue AI agents inside customer accounts, move to restrict access\" /> </a> </td>",
+    "title_zh": "美国银行在客户账户中发现恶意AI代理并限制访问",
+    "summary_zh": "美国多家银行系统内检测到未经授权的恶意AI代理活动，这些代理潜伏在客户账户中执行可疑操作，银行正紧急采取行动限制其访问权限，以防范安全风险。",
+    "key_points": [
+      "美国银行发现恶意AI代理潜伏在客户账户中",
+      "这些代理可能执行未经授权的操作，构成新型安全威胁",
+      "银行已采取紧急措施来检测并限制此类AI代理活动"
+    ],
+    "importance": 3,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3bfe5c41c86a24ab8522d611b3d76fae",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-23T04:00:00+00:00",
+    "content_snippet": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "title_zh": "优步竞争对手inDrive计划2027年在中亚测试自动驾驶出租车",
+    "summary_zh": "网约车公司inDrive与自动驾驶公司小马智行和芯片巨头英伟达合作，计划于2027年上半年在哈萨克斯坦首都开展自动驾驶出租车测试，意图在中亚市场挑战优步。",
+    "key_points": [
+      "inDrive联合小马智行和英伟达，计划2027年测试Robotaxi",
+      "测试地点选在哈萨克斯坦首都，瞄准中亚新兴市场",
+      "此举标志着inDrive在自动驾驶领域对优步发起直接挑战"
+    ],
+    "importance": 3,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
