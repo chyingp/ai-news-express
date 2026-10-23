@@ -1309,5 +1309,291 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bb2257cf08ee66c5bf31804883bba0d4",
+    "title": "Anyone else have the Google search Ai bug and pull info out of old chats?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xdcm2o/anyone_else_have_the_google_search_ai_bug_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-23T12:26:21+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xdcm2o/anyone_else_have_the_google_search_ai_bug_and/\"> <img alt=\"Anyone else have the Google search Ai bug and pull info out of old chats?\" src=\"https://preview.redd.it/o1dce5a3n7xh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6cf802bb86dbbdeac3a55c1c10d8423e9b363a12\" title=\"Anyone else have the Google search Ai bug and pull info out of old chats?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>So I started my ch",
+    "title_zh": "还有其他人遇到 Google 搜索 AI Bug 并从旧聊天中提取信息吗？",
+    "summary_zh": "Reddit 用户讨论 Google 搜索 AI 功能出现的一个 Bug，该 Bug 可能会从用户历史聊天记录中意外提取并显示信息，引发隐私担忧。",
+    "key_points": [
+      "Google 搜索 AI 功能被发现会从旧聊天记录中提取信息",
+      "该 Bug 引发了用户对数据隐私和 AI 行为的担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6b37d84f817a2e25758938eb334e9b9b",
+    "title": "The Download: testing six tech promises and biotech’s blind spots",
+    "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-23T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips? Absolutely. Scrubbing&#8230;",
+    "title_zh": "聚焦：检验六大科技承诺与生物技术的盲点",
+    "summary_zh": "MIT 科技评论的每日通讯本期内容聚焦于两个主题：对六项重大科技承诺（如宠物语言解码）的现实检验，以及生物技术领域中被忽视的盲点。",
+    "key_points": [
+      "MIT 科技评论探讨了六项重大科技承诺的落地进展",
+      "报道同时关注了生物技术领域中被忽视的问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "39c0ec6f91b16efff37a5e72b6e13512",
+    "title": "I sent the same question to 16 AI models at once. They disagree far more than I expected.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xdc3j6/i_sent_the_same_question_to_16_ai_models_at_once/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-23T12:01:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I built a desktop app that sends one prompt to up to 16 models side by side, and the most interesting thing I’ve learned isn’t technical. It’s how often they disagree.</p> <p>Ask a factual question and the answers mostly match. Ask anything about judgment, like legal wording, a business decision or a medical “should I”, and you get several confident answers that contradict each other. When you only use one model, you never see that.</p> <p>It changed how I use A",
+    "title_zh": "我向 16 个 AI 模型同时发送了相同问题，它们的分歧远超预期",
+    "summary_zh": "一位开发者通过自建应用向 16 个 AI 模型同时提问，发现模型在涉及判断、法律等主观问题时分歧巨大，而在事实性问题上则较为一致。",
+    "key_points": [
+      "同一问题同时询问 16 个 AI 模型后发现答案分歧显著",
+      "在判断、法律等主观问题上，模型一致性低；事实问题上则表现一致"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c8d9d8b98c2a12b6327c86991a7d235e",
+    "title": "Retro gaming is being overrun with AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-23T12:00:00+00:00",
+    "content_snippet": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as [&#8230;]",
+    "title_zh": "复古游戏正被 AI 泛滥",
+    "summary_zh": "由于新的解编译和移植技术，复古游戏如《光环》、《风之杖》被意外移植到浏览器、手机等平台，近期因 AI 辅助而出圈，引发热潮。",
+    "key_points": [
+      "AI 辅助的移植技术让复古游戏频繁出现在浏览器和手机等非原生平台",
+      "短期内涌现大量爆款项目，复古游戏生态面临改变"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "434b46acd754e4d38f90f48f26999798",
+    "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-23T11:30:22+00:00",
+    "content_snippet": "Ukraine has changed drones and war-fighting tech to reduce reliance on Starlink.",
+    "title_zh": "乌克兰学习在马斯克利用卫星搞政治时脱离星链作战",
+    "summary_zh": "由于马斯克多次利用星链服务施加政治影响，乌克兰军队正在改造无人机和作战技术，以减少对星链卫星网络的依赖。",
+    "key_points": [
+      "因马斯克的政治干预，乌克兰正减少对星链的战场依赖",
+      "乌军通过技术改造发展出不依赖星链的无人机和作战方式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "59b198b09382989dc29051a459188fd9",
+    "title": "What should I use ?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xdayfr/what_should_i_use/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-23T11:02:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi there, I am new to AI and I am currently using Hermes Agent. I am using a free month of GPT Plus, but it will end soon and I have been at my token limit for a week. I was wondering which option would be better for me: paying for a subscription to a good LLM like GPT or Claude, or running a local LLM on my PC. For those wondering, my configuration is an Intel i5 11400F, RTX 5070 16GB OC, and 32GB DDR4. I heard that local models are less efficient than online m",
+    "title_zh": "我应该用什么？",
+    "summary_zh": "一位 AI 初学者在 Reddit 求助，表示 GPT Plus 免费试用即将结束且遇到令牌限制，希望了解是付费订阅大语言模型还是采用其他方案更好。",
+    "key_points": [
+      "用户因免费试用到期和令牌限制，正考虑为 LLM 付费",
+      "发帖寻求社区关于选择 GPT Plus 或其他方案的建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a52e990b8afa57066e5c606265eec2a5",
+    "title": "SK Hyper seeks $350B to fund 5GW AI data center buildout in South Korea",
+    "url": "https://www.reddit.com/r/artificial/comments/1xdaxnv/sk_hyper_seeks_350b_to_fund_5gw_ai_data_center/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-23T11:02:02+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xdaxnv/sk_hyper_seeks_350b_to_fund_5gw_ai_data_center/\"> <img alt=\"SK Hyper seeks $350B to fund 5GW AI data center buildout in South Korea\" src=\"https://external-preview.redd.it/D_0VDs8XX3ty1DvpZKwyzxFnjc2SoQBGRd7h0qS6riM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0287aaa7c5f8b693b10499d801c9cd93f248417\" title=\"SK Hyper seeks $350B to fund 5GW AI data center buildout in South Korea\" /> </a> </td><td> &#32; submitted ",
+    "title_zh": "SK Hyper 寻求 3500 亿美元融资在韩国建设 5GW AI 数据中心",
+    "summary_zh": "SK Hyper 计划为一处在韩国建设的、规模达 5 吉瓦的 AI 数据中心筹集 3500 亿美元资金，以满足日益增长的 AI 算力需求。",
+    "key_points": [
+      "SK Hyper 计划融资 3500 亿美元建设超级 AI 数据中心",
+      "该数据中心规模达 5 吉瓦，旨在满足巨大的算力需求"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "39d720b1c73328f32d9204725b65fe97",
+    "title": "What should an AI assistant do when your clicks disagree with your goals?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xdaq5x/what_should_an_ai_assistant_do_when_your_clicks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-23T10:50:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Imagine telling an AI assistant that you want to spend less time on outrage and more time learning something useful. Then, on a tired evening, you keep clicking the arguments it shows you.</p> <p>If it learns mainly from those clicks, it could give you more of something you explicitly wanted less of. If it ignores your behavior and keeps redirecting you, it could start to feel patronizing. Both versions might claim to understand your preferences.</p> <p>I'd want",
+    "title_zh": "当你的点击与目标不符时，AI 助理该怎么做？",
+    "summary_zh": "讨论当用户告知 AI 助理想要减少愤怒浏览、多学习时，但实际行为却不断点击对立观点，AI 应遵从用户表达的目标还是基于点击行为的隐性偏好。",
+    "key_points": [
+      "探讨 AI 助理应优先遵循用户明确目标还是短期点击行为",
+      "涉及 AI 对齐与用户意图推断的伦理和设计问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e0260551102382ac2ac4795ee0f2e23a",
+    "title": "DeepSeek, MiniMax clear Beijing's AI export registration for overseas deployment",
+    "url": "https://www.reddit.com/r/artificial/comments/1xdalps/deepseek_minimax_clear_beijings_ai_export/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-23T10:44:07+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xdalps/deepseek_minimax_clear_beijings_ai_export/\"> <img alt=\"DeepSeek, MiniMax clear Beijing's AI export registration for overseas deployment\" src=\"https://external-preview.redd.it/_K9HE8NIMZAv8J_l2yS-M5Yki1djUpqTy-WmLKAmR8k.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5df43fb1c061c92bb8b6ce03703bbdec00ac72ac\" title=\"DeepSeek, MiniMax clear Beijing's AI export registration for overseas deployment\" /> </a> </td><td> &#3",
+    "title_zh": "DeepSeek 和 MiniMax 通过北京 AI 出口登记，获准海外部署",
+    "summary_zh": "中国 AI 公司 DeepSeek 和 MiniMax 已通过北京要求的 AI 出口登记程序，为其大模型服务的海外部署和扩展扫清了政策障碍。",
+    "key_points": [
+      "DeepSeek 和 MiniMax 完成中国 AI 出口登记",
+      "获批后可为这两家公司的海外业务部署提供合规基础"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "deepseek",
+      "minimax"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "829a2e725b31e198f3c8c7044856c750",
+    "title": "Connect 100+ Featured & 40,000 MCP Apps to Local AI | Row-Bot Demo",
+    "url": "https://www.reddit.com/r/artificial/comments/1xda3lt/connect_100_featured_40000_mcp_apps_to_local_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-23T10:14:30+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xda3lt/connect_100_featured_40000_mcp_apps_to_local_ai/\"> <img alt=\"Connect 100+ Featured &amp; 40,000 MCP Apps to Local AI | Row-Bot Demo\" src=\"https://external-preview.redd.it/bnA2eXFvbjZ6NnhoMR_0HSSwzqOEMUomvBtMLw-C5qr-zhwiaHBSDWBWHPSt.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=33110db928f66a9ab42d7be8579119452486361d\" title=\"Connect 100+ Featured &amp; 40,000 MCP Apps to Local AI | Row-Bot Demo\" /> </a> </td><td> <",
+    "title_zh": "连接 100+ 精品及 40000 个 MCP 应用到本地 AI | Row-Bot 演示",
+    "summary_zh": "一个名为 Row-Bot 的本地 AI 工具演示了其可连接超过 100 个精选应用和 40000 个 MCP 应用，旨在扩展本地 AI 的集成能力和应用场景。",
+    "key_points": [
+      "Row-Bot 工具支持连接超过 40,000 个 MCP 应用到本地 AI",
+      "该演示旨在展示本地 AI 与海量应用集成的可能性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9936fdfe21d3517ebe89dd95d7baa0bc",
+    "title": "Pony.ai and inDrive target Kazakhstan robotaxis by 2027 as Nvidia Corp. GPU deployments expand",
+    "url": "https://www.reddit.com/r/artificial/comments/1xd95nw/ponyai_and_indrive_target_kazakhstan_robotaxis_by/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-23T09:17:44+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xd95nw/ponyai_and_indrive_target_kazakhstan_robotaxis_by/\"> <img alt=\"Pony.ai and inDrive target Kazakhstan robotaxis by 2027 as Nvidia Corp. GPU deployments expand\" src=\"https://external-preview.redd.it/rnCIp_C_L6KaTxlQu9SlC80uHLMUUayH4H62NIgkoi0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c6cf233a7728740c9006247dffb0a077ff6fb36\" title=\"Pony.ai and inDrive target Kazakhstan robotaxis by 2027 as Nvidia Corp. GPU deplo",
+    "title_zh": "小马智行与inDrive计划2027年在哈萨克斯坦推出Robotaxi，英伟达GPU部署扩张",
+    "summary_zh": "小马智行与出行平台inDrive合作，计划在2027年前于哈萨克斯坦部署自动驾驶出租车，随着英伟达公司GPU部署的进一步扩张，为项目的算力需求提供支撑。",
+    "key_points": [
+      "小马智行联合inDrive拓展中亚自动驾驶出租车市场",
+      "计划2027年前在哈萨克斯坦落地自动驾驶出租车服务",
+      "英伟达GPU部署扩张为项目提供算力基础"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8410564441b350267d92cfe9734a84ea",
+    "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+    "url": "https://www.qbitai.com/2026/10/504901.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-10-23T07:35:51+00:00",
+    "content_snippet": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+    "title_zh": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+    "summary_zh": "百度官方披露了百度世界2026大会的详细议程，将举办10余场重磅分论坛，全面解读在人工智能时代下，企业如何实现智能组织架构的进化与发展。",
+    "key_points": [
+      "百度世界2026将设10余个分论坛聚焦AI与组织进化",
+      "大会旨在解码智能时代的企业组织发展路径"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "baidu"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
