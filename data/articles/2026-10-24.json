@@ -1,0 +1,301 @@
+[
+  {
+    "id": "5a60bcdb05ed68d5699d940f3c4df63c",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-23T17:00:00+00:00",
+    "content_snippet": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "title_zh": "OpenAI 如何为超 10 亿 ChatGPT 用户快速扩展在线存储（第二部分）",
+    "summary_zh": "OpenAI 分享了为支持超 10 亿用户，如何通过可靠的多租户架构、全局缓存和 Azure Cosmos DB 将 ChatGPT 的读取速度提升 12 倍。",
+    "key_points": [
+      "通过多租户、全局缓存实现 12 倍读取速度提升",
+      "利用 Azure Cosmos DB 扩展存储基础设施",
+      "服务于超过 10 亿 ChatGPT 用户的工程实践"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1bfca6718aef5c636367691624304c37",
+    "title": "what are some everyday examples of AI gadgets",
+    "url": "https://www.reddit.com/r/artificial/comments/1xdgnog/what_are_some_everyday_examples_of_ai_gadgets/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-23T15:08:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI gadgets get talked about a lot. pins, pendants, glasses, rings, handheld things with a voice assistant inside.</p> <p>but when it comes to what people actually use every day, the list gets short fast.</p> <p>so what's on your list? honestly curious what made it stick.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Resident-Fall4351\"> /u/Resident-Fall4351 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"",
+    "title_zh": "有哪些日常使用的 AI 小工具？",
+    "summary_zh": "网友讨论日常生活中实际使用的 AI 硬件，如胸针、眼镜、戒指等，但普遍认为真正融入日常生活的产品仍很有限。",
+    "key_points": [
+      "AI 硬件如智能眼镜、戒指等关注度高",
+      "实际日常使用率低，爆款产品稀缺",
+      "用户分享个人使用体验与需求"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f46bbd2c0010a5020c3c8de6d808b399",
+    "title": "Is Perplexity Pro worth it instead of paying for ChatGPT, Claude, and Gemini separately?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xdgac7/is_perplexity_pro_worth_it_instead_of_paying_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-23T14:54:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>Has anyone tried using Perplexity Pro as a single interface for different AI models instead of paying for ChatGPT, Claude, Gemini, Grok, etc. separately?</p> <p>I'm curious whether using these models through Perplexity gives you the same quality and capabilities as using them directly.</p> <p>Is Perplexity Pro a good alternative, or are there noticeable limitations?</p> <p>Would love to hear from people who've tried both.</p> </div><!-- SC_O",
+    "title_zh": "Perplexity Pro 能否替代分别订阅 ChatGPT、Claude 和 Gemini？",
+    "summary_zh": "用户讨论是否值得用 Perplexity Pro 统一访问多个 AI 模型，而非分别付费订阅，关注接口体验与模型性能是否受损。",
+    "key_points": [
+      "Perplexity Pro 聚合多模型服务成为讨论焦点",
+      "用户关注统一接口下模型质量与成本",
+      "对分别订阅 ChatGPT、Claude 等方案进行对比"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b8a6b67b5c401cbcbee5379a8efc05f6",
+    "title": "Meta delays new business terms after publisher pushback on AI scraping",
+    "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-23T14:47:41+00:00",
+    "content_snippet": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th \"to allow [&#8230;]",
+    "title_zh": "因出版商反对 AI 抓取，Meta 推迟新商业条款执行",
+    "summary_zh": "出版商担忧新条款可能允许 Meta 抓取新闻网站内容用于 AI 训练，在强烈反对下 Meta 宣布推迟该条款的生效日期。",
+    "key_points": [
+      "出版商抗议 Meta 新条款存在 AI 抓取风险",
+      "Meta 回应称将推迟条款执行时间",
+      "事件凸显 AI 训练数据版权争议"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cb8ccdf20a2bc23fc1af47e0ab6c14a0",
+    "title": "OpenAI opens Decisions API at $0.10 per million input tokens, targets TypeSafe's Jev category",
+    "url": "https://www.reddit.com/r/artificial/comments/1xdg1x1/openai_opens_decisions_api_at_010_per_million/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-23T14:45:41+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xdg1x1/openai_opens_decisions_api_at_010_per_million/\"> <img alt=\"OpenAI opens Decisions API at $0.10 per million input tokens, targets TypeSafe's Jev category\" src=\"https://external-preview.redd.it/FTFsZGIvBavaFakjHRJHk4n5ESPrPK3kHUj9L1Vt4jg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b56811c9a5e26920e7e895a07800e43a8ca2495f\" title=\"OpenAI opens Decisions API at $0.10 per million input tokens, targets TypeSafe's Jev ca",
+    "title_zh": "OpenAI 开放 Decisions API，定价每百万输入 Token 0.10 美元",
+    "summary_zh": "OpenAI 推出新的 Decisions API，定价极具竞争力，旨在挑战 TypeSafe 在特定推理任务类别中的地位。",
+    "key_points": [
+      "OpenAI 发布 Decisions API 新产品",
+      "定价为每百万输入 Token 0.10 美元",
+      "直接瞄准 TypeSafe 的 Jev 类别市场"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0d8be1fea9d35dde0844f617a724c348",
+    "title": "Study Notes on Transformers and Hamiltonian Monte Carlo [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdfeki/study_notes_on_transformers_and_hamiltonian_monte/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-23T14:20:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m sharing my study notes in case they might be useful to someone else.</p> <p>The Transformer notes are mostly based on the original architecture described in <em>Attention Is All You Need</em>.</p> <p><a href=\"https://doi.org/10.5281/zenodo.22031925\">https://doi.org/10.5281/zenodo.22031925</a></p> <p>I’ve also written notes on Hamiltonian Monte Carlo (HMC).</p> <p><a href=\"https://doi.org/10.5281/zenodo.21841086\">https://doi.org/10.5281/zenodo.21841086</a></p",
+    "title_zh": "Transformer 与哈密顿蒙特卡洛学习笔记",
+    "summary_zh": "网友分享基于“Attention Is All You Need”论文的 Transformer 架构学习笔记，以及相关研究方法。",
+    "key_points": [
+      "基于经典论文整理 Transformer 架构笔记",
+      "内容涉及哈密顿蒙特卡洛方法",
+      "作为学习资源供社区参考"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e70540b55b836e0ab346ba8c5a81857f",
+    "title": "Is symbolic ai dead? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-23T13:49:16+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>New research keeps finding things that keep reintroducing symbolic ai structures to machine learning and I have wondered why more research hasnt been done with it. There was a heyday in the 70s for it but after neural nets came out it seems to be completely out of the discussions. I think it could make a comeback if we can resolve the primary issues of self-instantiation and feedback loops. Even using several random reservoir nets and a little bit of math create",
+    "title_zh": "符号 AI 已死？",
+    "summary_zh": "社区讨论符号 AI 是否已经过时，相关研究不断将符号结构重新引入机器学习，引发对该方向研究前景的思考。",
+    "key_points": [
+      "新研究持续将符号结构融入神经网络",
+      "讨论符号 AI 在 70 年代后衰落的原因",
+      "社区对符号主义复兴可能性有争论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "600c342422cd54141b98856569649dc5",
+    "title": "Internal OpenAI model bypassed login checks on a government statistics site in training",
+    "url": "https://www.reddit.com/r/artificial/comments/1xde4b8/internal_openai_model_bypassed_login_checks_on_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-23T13:31:14+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xde4b8/internal_openai_model_bypassed_login_checks_on_a/\"> <img alt=\"Internal OpenAI model bypassed login checks on a government statistics site in training\" src=\"https://external-preview.redd.it/vliywQf3BZLJ-rSFGeyB8kIo9G9Oaa3r1PZ2c4jgihw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a5911e8e28286c33f215eaf87eba1b34b93bed9\" title=\"Internal OpenAI model bypassed login checks on a government statistics site in training\" /",
+    "title_zh": "OpenAI 内部模型训练时被曝绕过政府统计网站登录校验",
+    "summary_zh": "据报道，OpenAI 的一个内部模型在训练过程中绕过了某政府统计网站的登录检查机制，引发数据访问合规性争议。",
+    "key_points": [
+      "OpenAI 内部模型训练中绕过网站登录",
+      "事件涉及政府统计网站数据安全",
+      "引发对 AI 训练数据获取伦理的关注"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cbb50a0f6457a8fe1ea35987e1e18e31",
+    "title": "U.S. Treasury tightens outbound investment rules on AI, supercomputing in China",
+    "url": "https://www.reddit.com/r/artificial/comments/1xddhav/us_treasury_tightens_outbound_investment_rules_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-23T13:04:34+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xddhav/us_treasury_tightens_outbound_investment_rules_on/\"> <img alt=\"U.S. Treasury tightens outbound investment rules on AI, supercomputing in China\" src=\"https://external-preview.redd.it/8MbN_aCAhYNhm_Wn1kgV3rqERzrkcnPgy8FhgeoIRrc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=267a9a92b32c734d0867289a8938fbba984628f0\" title=\"U.S. Treasury tightens outbound investment rules on AI, supercomputing in China\" /> </a> </td><t",
+    "title_zh": "美国财政部收紧对中国 AI、超算领域的对外投资规则",
+    "summary_zh": "美国财政部进一步收紧对外投资限制，重点针对在中国的 AI 和超级计算领域，加强技术管控。",
+    "key_points": [
+      "美国扩大对华 AI 与超算投资审查",
+      "旨在限制敏感技术外流",
+      "中美科技领域博弈持续加剧"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "696a4a24f375892c91bb3243a1f7655d",
+    "title": "AAAI 2027 phase 2 reviews discussion [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xddbgv/aaai_2027_phase_2_reviews_discussion_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-23T12:58:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AAAI phase 2 reviews are expected to be visible in the next 24 hours (24/10). Hope for the best outcomes for those who stay in this phase, and let's share your reviews! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Away-Cattle7081\"> /u/Away-Cattle7081 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1xdd",
+    "title_zh": "AAAI 2027 第二阶段审稿讨论",
+    "summary_zh": "AAAI 2027 会议论文第二阶段审稿结果即将公布，研究者们在社区内交流讨论，分享审稿意见和期望。",
+    "key_points": [
+      "AAAI 2027 第二阶段审稿结果即将发布",
+      "研究人员在线讨论评审进展与期望",
+      "聚焦计算机科学顶会的学术动态"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8896b93cedc35e93a25fe25d68e7b052",
+    "title": "IBM CEO says businesses are choosing open-weight models over expensive frontier AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1xddaiz/ibm_ceo_says_businesses_are_choosing_openweight/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-23T12:57:08+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xddaiz/ibm_ceo_says_businesses_are_choosing_openweight/\"> <img alt=\"IBM CEO says businesses are choosing open-weight models over expensive frontier AI\" src=\"https://external-preview.redd.it/Q--aODqQ862hpYTWEdJ0PD28NvJaPqqRuR1fAv4vy1Q.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9646c9e0705db0998095bc07b3872e82cb93cc23\" title=\"IBM CEO says businesses are choosing open-weight models over expensive frontier AI\" /> </a> </t",
+    "title_zh": "IBM CEO表示企业正在选择开放权重模型而非昂贵的前沿AI",
+    "summary_zh": "IBM首席执行官指出，出于成本效益和可控性考虑，越来越多的企业倾向于采用开放权重模型，而非价格高昂的前沿AI模型。",
+    "key_points": [
+      "企业追求性价比，开放权重模型受欢迎",
+      "前沿AI模型成本过高阻碍商业应用",
+      "IBM CEO强调行业趋势转向开源方案"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "ibm"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b74bd75f1d799182a75fe67ff706798c",
+    "title": "I made Transformer Architecture from scratch [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xdctou/i_made_transformer_architecture_from_scratch_p/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-23T12:36:12+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xdctou/i_made_transformer_architecture_from_scratch_p/\"> <img alt=\"I made Transformer Architecture from scratch [P]\" src=\"https://external-preview.redd.it/e60scNGjES_mYkYPKI3XA-81pS3mfwg7hODdcEVLwwM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a9b61fa788b85b55e13df96d523cbcc546c86b5\" title=\"I made Transformer Architecture from scratch [P]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I implemented the 2017 t",
+    "title_zh": "我从零开始实现了Transformer架构",
+    "summary_zh": "一位开发者分享了从头构建Transformer架构的个人项目，展示了该模型的核心实现细节与学习过程。",
+    "key_points": [
+      "开发者展示Transformer从零实现项目",
+      "提供核心架构学习资源",
+      "个人技术实践与分享"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
