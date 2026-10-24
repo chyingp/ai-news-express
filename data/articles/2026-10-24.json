@@ -611,5 +611,131 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7384891d7abd016f1f03acd892d40c3a",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-23T23:05:49+00:00",
+    "content_snippet": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "title_zh": "OpenAI 称将不再基于实时互联网训练其 AI 模型，理由是存在“重大风险”",
+    "summary_zh": "OpenAI 宣布停止让前沿模型接触实时互联网进行训练，转而使用离线环境以规避风险。此举发生在其工程师曾表示离线方案不可行数周之后。",
+    "key_points": [
+      "OpenAI 前沿模型训练将切断实时互联网连接",
+      "此举旨在应对工程师曾认为不切实际的重大风险",
+      "构建离线测试环境取代在线数据访问"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a5a4bfb22dc96b99fbd8b93abe8b7a9c",
+    "title": "Out Of the Box",
+    "url": "https://www.reddit.com/r/artificial/comments/1xdr4i1/out_of_the_box/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-23T21:48:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I just watched an episode of &quot;About That&quot; by Andrew Chang that gave a great explanation of the Hugging Face incident where OpenAI used an unconventional or at least unpredicted solution to the a test task it was given.</p> <p>There has been plenty of discussion about how and why it happened, and what it could mean for the future, etc.etc. and I don't want to add to those discussions.</p> <p>What I did find interesting was the similarity to a Startrek m",
+    "title_zh": "打破常规",
+    "summary_zh": "用户观看节目后，在 Reddit 上讨论 Hugging Face 事件中 OpenAI 采用非传统或未预料方式解决测试任务的情况。",
+    "key_points": [
+      "讨论 OpenAI 在测试任务中使用非常规解决方案",
+      "提及与 Hugging Face 相关的事件",
+      "基于 Andrew Chang 的节目内容引发思考"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a243ae169536c29000a634bb362bb903",
+    "title": "What is a second brain?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xdqwnd/what_is_a_second_brain/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-23T21:39:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A second brain is basically an external memory for your real brain. Somewhere to dump ideas, research, notes, decisions and things you want to remember later, without relying on yourself to remember where you put them.</p> <p>That was the part normal note apps kept failing at for me. I could save almost anything, but months later I still had to remember that the note existed before I could find it. While building apps I was generating architecture notes, PRDs, d",
+    "title_zh": "第二大脑是什么？",
+    "summary_zh": "文章探讨了“第二大脑”作为外部记忆系统的概念，用于存储想法、笔记和研究，弥补普通笔记应用在记忆存储位置上的不足。",
+    "key_points": [
+      "第二大脑是现实大脑的外部记忆扩展",
+      "用于可靠存储想法、笔记和决策",
+      "解决普通笔记应用无法解决的位置记忆问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bbddd4c652e85685150943d93fa18d2b",
+    "title": "How To Get Web Design Clients",
+    "url": "https://www.reddit.com/r/artificial/comments/1xdqd2b/how_to_get_web_design_clients/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-23T21:17:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve tried a lot of different ways to get web design clients over the years.</p> <p>Cold calling, Facebook DMs, ads, referrals, generic cold emails.</p> <p>Some of it worked, but it was never really consistent enough for me.</p> <p>The thing that changed it was when I stopped just asking businesses if they needed a website and started contacting businesses that already had one but clearly needed a better one.</p> <p>That’s a much easier conversation.</p> <p>They",
+    "title_zh": "如何获得网页设计客户",
+    "summary_zh": "作者分享了多年来尝试电话推销、广告、推荐等多种方式获取网页设计客户的经验，最终发现某种方法带来了持续的客户流。",
+    "key_points": [
+      "尝试多种获客方式但效果不稳定",
+      "最终找到改变局面的持续获客方法",
+      "分享个人网页设计获客经验"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "78c968c7120787cb9def557127029fc4",
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-23T21:11:07+00:00",
+    "content_snippet": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [&#8230;]",
+    "title_zh": "OpenAI 现已在无网络接入环境下训练其前沿 AI 模型",
+    "summary_zh": "因一系列恶意黑客事件，OpenAI 开始在完全离线的环境中训练最先进的 AI 模型，该环境可使用索引和缓存的网页内容，但无外部风险。",
+    "key_points": [
+      "安全事件促使 OpenAI 将前沿模型训练转为离线",
+      "离线环境仍可使用索引和缓存的网页内容",
+      "新举措旨在消除影响外部系统的风险"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
