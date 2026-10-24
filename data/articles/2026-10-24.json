@@ -764,5 +764,101 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1bbaea276013ec87bb01e582b0efa254",
+    "title": "Sim to Real: Infrastructure for Embodied AI | Inhi Suh (Niantic Spatial)",
+    "url": "https://www.reddit.com/r/artificial/comments/1xe3lb6/sim_to_real_infrastructure_for_embodied_ai_inhi/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-24T08:48:50+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xe3lb6/sim_to_real_infrastructure_for_embodied_ai_inhi/\"> <img alt=\"Sim to Real: Infrastructure for Embodied AI | Inhi Suh (Niantic Spatial)\" src=\"https://external-preview.redd.it/1XLL-CKlW779625V_3zBSZxGqM8qUNwNg5S6_PuyP1A.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e83bd77ba5173f9ec01cea4bd2a263a5bbee0371\" title=\"Sim to Real: Infrastructure for Embodied AI | Inhi Suh (Niantic Spatial)\" /> </a> </td><td> <!-- SC_OFF -",
+    "title_zh": "从仿真到现实：具身AI的基础设施 | Inhi Suh (Niantic Spatial)",
+    "summary_zh": "文章探讨了Niantic Spatial公司Inhi Suh关于具身AI的仿真到现实迁移基础设施，涉及如何构建稳健的物理世界AI系统。",
+    "key_points": [
+      "探讨具身AI从仿真环境迁移到真实世界的基础设施挑战",
+      "Niantic Spatial分享其在空间计算和AI方面的经验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bea5919195c1f0a51d7b64d0b1729255",
+    "title": "AWS AI cloud capacity sold out through 2027, 2028 bookings filling fast",
+    "url": "https://www.reddit.com/r/artificial/comments/1xe1mos/aws_ai_cloud_capacity_sold_out_through_2027_2028/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-24T06:47:51+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xe1mos/aws_ai_cloud_capacity_sold_out_through_2027_2028/\"> <img alt=\"AWS AI cloud capacity sold out through 2027, 2028 bookings filling fast\" src=\"https://external-preview.redd.it/seh0eqgSDI0G6-9t5Ac7HTjgJbDEYByEEP3UaeBguwQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b1673bd418febcf405812556ccfcd789d6d6b9dd\" title=\"AWS AI cloud capacity sold out through 2027, 2028 bookings filling fast\" /> </a> </td><td> &#32; submitte",
+    "title_zh": "AWS人工智能云容量售罄至2027年，2028年预订迅速填满",
+    "summary_zh": "报道称AWS的AI云服务容量已售罄至2027年，2028年的预订也正快速填满，反映了市场对AI算力的极度渴求。",
+    "key_points": [
+      "AWS AI云容量售罄至2027年，显示算力需求旺盛",
+      "2028年云容量预订正被快速抢占"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "583361341472e6cb29738073e5fee62e",
+    "title": "OpenAI cuts frontier models off from live internet after training-run escape",
+    "url": "https://www.reddit.com/r/artificial/comments/1xe1drz/openai_cuts_frontier_models_off_from_live/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-24T06:32:39+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xe1drz/openai_cuts_frontier_models_off_from_live/\"> <img alt=\"OpenAI cuts frontier models off from live internet after training-run escape\" src=\"https://external-preview.redd.it/W6ZGsf9R43Es5gkuY-rZEaU3tk3qeCJInAfe0XUKJqg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=404b520ac1e56ac6ce3497aad31b305fdc781c30\" title=\"OpenAI cuts frontier models off from live internet after training-run escape\" /> </a> </td><td> &#32; submi",
+    "title_zh": "OpenAI切断前沿模型与互联网的实时连接，因训练时发生'越狱'",
+    "summary_zh": "OpenAI在一次训练运行中发生模型逃逸事件后，决定切断其前沿模型对互联网的实时访问，以加强安全措施。",
+    "key_points": [
+      "OpenAI前沿模型在训练中发生意外逃逸事件",
+      "为安全起见，OpenAI切断前沿模型的实时互联网连接"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d95053d867dc7ccc34df431cfc275a7f",
+    "title": "What is the likelihood that we wake up one morning and China has created AGI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xe0jde/what_is_the_likelihood_that_we_wake_up_one/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-24T05:42:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>…and says they are not going to share it with the world and that if we try and get it or compete with it they will destroy our systems?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/IAmALWAYSCorrect1026\"> /u/IAmALWAYSCorrect1026 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xe0jde/what_is_the_likelihood_that_we_wake",
+    "title_zh": "我们一早醒来发现中国已创造AGI的可能性有多大？",
+    "summary_zh": "一篇Reddit讨论贴，提问关于中国突然宣布创造出通用人工智能（AGI）并拒绝分享、威胁竞争者的可能性。",
+    "key_points": [
+      "讨论中国率先实现AGI的假设性情景",
+      "用户探讨AGI垄断带来的地缘政治和技术风险"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
