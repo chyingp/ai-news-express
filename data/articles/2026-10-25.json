@@ -185,5 +185,78 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f3bcc2fa45829630a48ad0ee8c53e649",
+    "title": "Short overview of models that i used",
+    "url": "https://www.reddit.com/r/artificial/comments/1xelqv9/short_overview_of_models_that_i_used/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-24T22:28:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>chatgpt - best for daily use, good customization, swear if i tell him to, big limits, doesn’t block questions, just uses worse model, boring, no personality </p> <p>grok - lot of free uses, can generate / use a lot of photos for free, great customization, cool personality, isn’t boring does what i tell him to do without unnecessary crap, most stupid of those 3</p> <p>claude - frighteningly smart, if it doesn’t support file type it makes its own interpreter, low ",
+    "title_zh": "我使用过的AI模型简要概览",
+    "summary_zh": "Reddit用户分享了对ChatGPT、Grok等AI模型的个人使用体验，比较了它们在日常使用、个性化、免费功能和限制方面的优缺点。",
+    "key_points": [
+      "用户认为ChatGPT适合日常使用但缺乏个性",
+      "Grok提供较多免费照片生成和个性化功能",
+      "比较了多个模型的限制与自由表达差异"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d8e8652b8d9abef6da48022e11166358",
+    "title": "I didn't want to pay for a subscription, so Claude made tools for my business instead.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xekp0q/i_didnt_want_to_pay_for_a_subscription_so_claude/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-24T21:41:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xekp0q/i_didnt_want_to_pay_for_a_subscription_so_claude/\"> <img alt=\"I didn't want to pay for a subscription, so Claude made tools for my business instead.\" src=\"https://preview.redd.it/xd9d2xqvihxh1.png?width=140&amp;height=86&amp;auto=webp&amp;s=ba21151e08622e69ace8c1fb464e353b118de6de\" title=\"I didn't want to pay for a subscription, so Claude made tools for my business instead.\" /> </a> </td><td> <!-- SC_OFF --><div class",
+    "title_zh": "我不想付订阅费，所以让Claude为我的生意做了工具",
+    "summary_zh": "一位用户为了节省订阅费用，利用Claude模型为自己创建了商业工具，分享了一种用AI替代付费软件的实践经验。",
+    "key_points": [
+      "用户为节省订阅费让Claude构建商业工具",
+      "分享利用AI替代付费软件的可行经验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b1787c28a15080e7145887de5fef719a",
+    "title": "Blue Planet III is keeping the rough edges in the age of AI",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-24T21:29:12+00:00",
+    "content_snippet": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue [&#8230;]",
+    "title_zh": "《蓝色星球III》在AI时代保留不完美镜头",
+    "summary_zh": "BBC纪录片《蓝色星球III》为证明内容的真实性，刻意保留不完美的自然镜头，以避免画面因AI处理而显得过于完美和虚假，从而区别AI生成内容。",
+    "key_points": [
+      "BBC为证明真实性刻意保留不完美自然镜头",
+      "过于完美的画面容易被误认为是AI生成内容",
+      "此举旨在对抗AI时代虚假完美影像的趋势"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
