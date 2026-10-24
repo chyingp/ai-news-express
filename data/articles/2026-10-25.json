@@ -111,5 +111,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4a46bde0397e521774a85d9e65cf8ecd",
+    "title": "An exploration into non weighted non neural net symbolic ai [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xeipgz/an_exploration_into_non_weighted_non_neural_net/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-24T20:16:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The purpose of this exercise is to explore direct match and hamming distance matching with symbolic bit level structures in digital processing. The goal is to find structures and systems that can represent information from any raw bit level data set. </p> <p>The mechanisms that this works on is essentially the perceptron, with recursive memory and processing, and correlation connectionism. It is rudimentary but can stand as a base level for symbolic ai, and allo",
+    "title_zh": "非加权非神经网络符号人工智能的探索",
+    "summary_zh": "研究通过直接匹配和汉明距离匹配，利用符号比特级结构表示原始数据信息，探索非加权非神经网络的符号AI系统。",
+    "key_points": [
+      "探索基于符号比特级结构的非神经网络AI",
+      "采用直接匹配和汉明距离匹配方法",
+      "目标是从原始比特数据集中表示信息"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "41208e707565c1ca9c88179f04575ea3",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-24T19:00:00+00:00",
+    "content_snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "title_zh": "AI 墓地：一份失败项目与初创公司的持续记录",
+    "summary_zh": "TechCrunch 盘点已关闭或未达预期的 AI 项目，包括苹果多次推迟的 Siri AI 和 OpenAI 混乱的超级应用发布。",
+    "key_points": [
+      "盘点苹果推迟的Siri AI和OpenAI失败项目",
+      "关注AI领域关闭或未达预期的初创公司",
+      "提供一份持续更新的失败AI项目列表"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "71bbf192b1ce828881ed83b5d7e414a1",
+    "title": "AI is humanities collective inheritance and should be legally treated as such",
+    "url": "https://www.reddit.com/r/artificial/comments/1xefah4/ai_is_humanities_collective_inheritance_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-24T17:58:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I know this isn’t a novel thought but it has been bothering me for a while and I simply want to get it off my chest (written by a human, btw, except the “4 commitments”.)</p> <p>Every discovery, invention, or other contribution to human aggregate knowledge by our ancestors has been gathered into these models. It is the “Summa Scientiae Humanae” the sum of all human knowledge. All of our ancestors built this. Across history every earned morsel of knowledge has be",
+    "title_zh": "AI 是人类共同的遗产，法律上应如此对待",
+    "summary_zh": "文章主张将人工智能视为人类集体继承的知识贡献，并应在法律层面给予相应地位和保护。",
+    "key_points": [
+      "主张AI是人类集体知识的继承",
+      "呼吁在法律上承认AI为人类共同遗产",
+      "强调防止AI被少数实体垄断"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
