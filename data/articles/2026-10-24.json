@@ -860,5 +860,56 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "fbf8802405c30dee45d08f16b50d8ddc",
+    "title": "ChatGPT Plus vs Claude Pro ($20) for learning to code?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xe6gz9/chatgpt_plus_vs_claude_pro_20_for_learning_to_code/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-24T11:41:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m planning to spend $20/month on one of them to learn coding and build projects. Which is better for explaining concepts, debugging, and helping me improve?</p> <p>I’m also concerned about usage limits. Which one lets you code and ask questions longer without hitting limits?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Consistent_Piglet928\"> /u/Consistent_Piglet928 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/",
+    "title_zh": "ChatGPT Plus与Claude Pro（20美元）学编程：哪个更好？",
+    "summary_zh": "用户在Reddit上询问每月20美元预算下，ChatGPT Plus和Claude Pro哪个更适合学习编程，侧重概念解释、代码调试和项目构建，同时关注使用限额。",
+    "key_points": [
+      "用户比较ChatGPT Plus和Claude Pro的编程辅助能力",
+      "关注点包括概念解释、调试效果和项目构建",
+      "担忧两工具的使用限额与可持续使用时长"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7498d32217e5f765e0b16657afc563bb",
+    "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+    "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-24T11:00:09+00:00",
+    "content_snippet": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+    "title_zh": "冰盖扩张或始于两千年前，但被人类活动抵消",
+    "summary_zh": "研究表明，北半球冰盖本应在约2000年前开始自然扩张，但早期人类活动如农业和森林砍伐导致的排放可能抵消了这次冰期，改变了气候轨迹。",
+    "key_points": [
+      "冰盖自然扩张本应始于2000年前",
+      "早期人类活动排放的温室气体可能阻止了冰期",
+      "研究揭示了人类对全球气候的早期影响"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
