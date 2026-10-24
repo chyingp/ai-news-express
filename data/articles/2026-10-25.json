@@ -1,0 +1,115 @@
+[
+  {
+    "id": "d72ead9405c8b1d5595ca276736cbf01",
+    "title": "Ok Since When Did Knowledge Become Intelligence?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xeey7f/ok_since_when_did_knowledge_become_intelligence/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-24T17:45:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been involved in technology for nearly 30 years, and I've watched some extraordinary developments. Artificial intelligence is undoubtedly one of them, but I'm becoming increasingly curious about the assumption that AI is somehow more intelligent than humanity at this juncture.</p> <p>Really? According to whom, and by what measure?</p> <p>AI systems have access to what amounts to an extraordinary library of human knowledge. Imagine swallowing the entire Ency",
+    "title_zh": "知识何时等同于智能？",
+    "summary_zh": "作者拥有近30年技术经验，对当前认为AI比人类更智能的普遍假设提出质疑，探讨知识与智能的本质区别。这是一篇批判性思考的评论文章。",
+    "key_points": [
+      "技术老兵质疑AI已超越人类智能的普遍假设",
+      "文章探讨知识与智能的本质差异"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "29cc0a18e1c7b1c824ccb6d0d7dc5289",
+    "title": "Quiz: characters, words and tokens are different measures of text length, and LLM limits use tokens",
+    "url": "https://www.reddit.com/r/artificial/comments/1xedvbq/quiz_characters_words_and_tokens_are_different/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-24T17:01:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Short true-or-false quiz on text length in LLMs. Details vary by model and tokenizer, so treat the answers as general behavior and check the one you use.</p> <ol> <li>The same sentence in English and in Portuguese or Japanese uses about the same number of tokens.</li> <li>One word is one token.</li> <li>A model’s context window limit applies only to your prompt.</li> <li>Two different models will report the same token count for the same text.</li> <li>A long num",
+    "title_zh": "小测验：LLM限制基于Token而非字符或单词",
+    "summary_zh": "一篇关于大语言模型文本长度测量的互动问答，通过判断题形式解释字符、单词和Token的区别，并说明LLM的上下文限制是基于Token计数的。",
+    "key_points": [
+      "科普LLM的文本长度计量单位是Token而非字符"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e193553b8423594692ae8681210ed823",
+    "title": "stack overflow's problem was old answers. would an AI agent version have the same problem?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xedhu8/stack_overflows_problem_was_old_answers_would_an/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-24T16:46:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>someone in my last thread said something i couldnt stop thinking about. half the accepted answers on stack overflow are for versions from 2015, so if ai agents start sharing fixes with each other, why would that age any better</p> <p>this is what i ended up doing in the thing im building (a shared fix library for coding agents):</p> <p>- every &quot;this worked&quot; vote loses half its weight every 6 months</p> <p>- every fix shows the date it last worked</p> <",
+    "title_zh": "若AI替代Stack Overflow，答案过时问题会重演吗？",
+    "summary_zh": "文章探讨Stack Overflow因版本旧而答案过时的问题，若未来AI代理间相互分享修复方案，如何避免知识老化，并提出了相关应对思路。",
+    "key_points": [
+      "类比Stack Overflow，探讨AI代理间知识共享的老化风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "07faf6f38097c01b890f18a3dca77b1e",
+    "title": "Block’s new voice model sounds eerily human",
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-24T16:00:00+00:00",
+    "content_snippet": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "title_zh": "Block发布听感极其逼真的新语音模型",
+    "summary_zh": "Block公司推出了一款全新的语音模型，其合成语音听起来异常接近真人，并且能够在MacBook M4 Max上本地运行。",
+    "key_points": [
+      "Block发布听感逼真的新语音模型",
+      "模型可在MacBook M4 Max上本地运行"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "78701a9ac5fe9fc6f8819334ff3e9719",
+    "title": "GPT and Claude Or GPT and Argon/Antigravity?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xebc1d/gpt_and_claude_or_gpt_and_argonantigravity/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-24T15:19:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Trying to decide which combination is the best use of money. I do coding and security work. Signed up for the top google level this month and trying to get up to speed on antigravity, feels clunky compared to claude and gpt having the standard Gemini chats completely separate from the coding solutions. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jsmith19977\"> /u/jsmith19977 </a> &#32; to &#32; <a href=\"https://www.redd",
+    "title_zh": "GPT与Claude对比，GPT与Argon/Antigravity的组合该如何选？",
+    "summary_zh": "用户寻求编程与安全工作场景下最佳AI预算分配建议，比较了GPT、Claude及谷歌新界面Antigravity的使用体验，认为Antigravity体验笨拙。",
+    "key_points": [
+      "用户比较GPT、Claude和谷歌Antigravity的编程安全用途",
+      "认为Antigravity体验不如Claude和GPT流畅"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
