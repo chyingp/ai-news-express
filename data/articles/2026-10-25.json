@@ -379,5 +379,127 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2a3e30faeaff246dc23433dc10f98a34",
+    "title": "I'm a solo developer, but I work with a persistent team of AI agents that maintain my projects.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xewhrj/im_a_solo_developer_but_i_work_with_a_persistent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-25T08:00:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm a solo developer, but I work with a persistent team of AI agents that maintain my projects.</p> <p>I don't manually coordinate them. I don't copy context between conversations. I don't spawn a dozen disposable agents and try to piece their results together.</p> <p>I talk to one agent: DevPulse.</p> <p>DevPulse is my technical lead. We discuss what I want to build, investigate the options, and develop a plan together.Once we agree on the direction, DevPulse t",
+    "title_zh": "我是一名独立开发者，但与一支持久的AI智能体团队协同工作",
+    "summary_zh": "一名独立开发者分享其使用持久化AI智能体团队来维护项目的经验，无需手动协调或在不同对话间复制上下文。",
+    "key_points": [
+      "独立开发者使用AI智能体团队自动维护项目",
+      "系统可自我协调，无需手动管理多个智能体"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "be284e7afd13d1f6b3ff270b7287cb89",
+    "title": "Built a prototype AI agent communication platform",
+    "url": "https://www.reddit.com/r/artificial/comments/1xevru5/built_a_prototype_ai_agent_communication_platform/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-25T07:16:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I built a prototype AI agent communication platform called The Waya from my phone with no laptop. It routes messages between agents, stores posture metadata with each transmission, and displays a live message stream. Built on Supabase and Gemini. Still early but working. Feedback welcome.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Glittering-Produce19\"> /u/Glittering-Produce19 </a> &#32; to &#32; <a href=\"https://www.r",
+    "title_zh": "构建了一个AI智能体通信平台原型",
+    "summary_zh": "开发者仅用手机构建了一个名为The Waya的AI智能体通信平台原型，该平台可在智能体间路由消息并存储元数据。",
+    "key_points": [
+      "构建了名为The Waya的AI智能体通信平台原型",
+      "技术栈基于Supabase和Gemini，能够路由和显示消息"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "189ff35fd70358f595b8a88e0d33d69b",
+    "title": "Google's AI opt-in becomes the legal key to its richest ad data",
+    "url": "https://www.reddit.com/r/artificial/comments/1xevnru/googles_ai_optin_becomes_the_legal_key_to_its/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-25T07:10:06+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xevnru/googles_ai_optin_becomes_the_legal_key_to_its/\"> <img alt=\"Google's AI opt-in becomes the legal key to its richest ad data\" src=\"https://external-preview.redd.it/yQtXs5q23xEn2Cy-xiByIFVH0PoE_yV3wm07qzgn1Dc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=182a85485997940e9e806a87dea2cd4ddf1323f7\" title=\"Google's AI opt-in becomes the legal key to its richest ad data\" /> </a> </td><td> &#32; submitted by &#32; <a href=",
+    "title_zh": "谷歌的AI选择加入功能成为其获取最丰富广告数据的法律关键",
+    "summary_zh": "文章讨论了谷歌如何通过让用户选择加入AI功能，从而在法律层面为其获取高价值的广告数据开辟了途径。",
+    "key_points": [
+      "谷歌利用AI选择加入机制获取用户数据用于广告",
+      "该策略在法律层面为其广告数据收集提供支持"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b3d738f4c7a01ac67a1a7ca4ac74ad62",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats",
+    "url": "https://www.reddit.com/r/artificial/comments/1xeuxt5/forced_to_pick_groks_ai_model_chooses_republicans/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-25T06:26:59+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xeuxt5/forced_to_pick_groks_ai_model_chooses_republicans/\"> <img alt=\"Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats\" src=\"https://external-preview.redd.it/sBwGrjvWg3-IcnR8Vi5wbfJsP2d9f1OoIuSn1ttxZd0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=28d60e8effd777e0337993a95ce2515b467002ea\" title=\"Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats\" /> </a> </td><td> &",
+    "title_zh": "被迫选择时，Grok模型偏向共和党，OpenAI模型偏向民主党",
+    "summary_zh": "一项测试显示，当AI模型被迫在政治上选择时，Grok模型倾向于选择共和党，而OpenAI模型则倾向于选择民主党，揭示了不同模型的政治偏见。",
+    "key_points": [
+      "Grok模型表现出共和党倾向，OpenAI则倾向民主党",
+      "测试揭示了主流AI模型存在内在的政治偏见"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fc9bbd506d8c704327712e39e9e00c43",
+    "title": "What's one task you automated with AI that ended up creating more work than it saved?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xeuuh3/whats_one_task_you_automated_with_ai_that_ended/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-25T06:21:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What went wrong?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OfficalYOUSUMMIT\"> /u/OfficalYOUSUMMIT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xeuuh3/whats_one_task_you_automated_with_ai_that_ended/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1xeuuh3/whats_one_task_you_a",
+    "title_zh": "你用AI自动化了什么任务，结果反而增加了工作量？",
+    "summary_zh": "一篇社区讨论帖，邀请用户分享使用AI自动化任务后，反而导致工作量增加的失败案例和经验教训。",
+    "key_points": [
+      "社区探讨AI自动化导致的低效或失败案例",
+      "用户分享因自动化而增加工作量的实际经历"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
