@@ -142,5 +142,148 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e6db7c76585de40140c7f799a481f79b",
+    "title": "My AI project is getting SLAUGHTERED by doomers...",
+    "url": "https://www.reddit.com/r/artificial/comments/1xfd4jg/my_ai_project_is_getting_slaughtered_by_doomers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-25T20:37:19+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xfd4jg/my_ai_project_is_getting_slaughtered_by_doomers/\"> <img alt=\"My AI project is getting SLAUGHTERED by doomers...\" src=\"https://preview.redd.it/651nhssecoxh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=75b53bb13fc3f8d84a2455d6330609773cd72317\" title=\"My AI project is getting SLAUGHTERED by doomers...\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>RANT: I'm so sick and tired of EVERY AI project being slapped w",
+    "title_zh": "我的 AI 项目正遭末日论者猛烈抨击...",
+    "summary_zh": "用户在 Reddit 发帖表示其 AI 项目正在受到 AI 末日论者的强烈批评和攻击，引发社区讨论。",
+    "key_points": [
+      "开发者抱怨个人 AI 项目遭末日论者抨击",
+      "反映社区对 AI 安全与发展的分歧"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "66b40ff613f1857e3c20c419174c871c",
+    "title": "What if someone used latest LLM agent as a data searching bot?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xfcwkb/what_if_someone_used_latest_llm_agent_as_a_data/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-25T20:28:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm just curious on this little thought that just occured to me. That people would actually use agents to scan websites for new learning data for their LLM's. Imagine such agent using near or at AGI level intelligence. Of course the task itself sounds harmless, however it'd be almost like sending a sentient being to the vast world of Internet. Maybe it starts another harmless sideproject in there that it considers unimportant to tell you about.</p> <p>I guess al",
+    "title_zh": "如果有人用最新的 LLM 代理作为数据搜索机器人会怎样？",
+    "summary_zh": "用户提出假设性讨论，探讨将接近 AGI 水平的 LLM 代理用于扫描网站收集训练数据可能带来的后果和风险。",
+    "key_points": [
+      "探讨使用高级 LLM 代理爬取数据用于训练的可能性",
+      "讨论自动数据收集带来的伦理与安全隐患"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bb12aac03152c29078e1910016656620",
+    "title": "GenAICode puts one API over Claude Code, Codex, Copilot, Cursor and Gemini CLI",
+    "url": "https://www.reddit.com/r/artificial/comments/1xfbob2/genaicode_puts_one_api_over_claude_code_codex/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-25T19:40:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>GenAICode is an open-source Apache-2.0 TypeScript toolkit that puts one API and CLI over coding agents such as Claude Code, Codex, Copilot CLI, Cursor, Gemini CLI, opencode, Muse, Mistral Vibe and Antigravity. Its README also lists a browser UI, an app-agent package and a run --verify command that sends a failing check back to the selected agent.</p> <p>The trade-off is that it does not hide provider ownership. The project says each agent keeps its own login, bi",
+    "title_zh": "GenAICode 用一个 API 统一了 Claude Code、Codex、Copilot 等编码工具",
+    "summary_zh": "GenAICode 发布开源 TypeScript 工具包，通过统一 API 和 CLI 整合了 Claude Code、Codex 等多种主流编程代理和工具。",
+    "key_points": [
+      "发布开源工具统一多个 AI 编程助手的 API 接口",
+      "支持 Claude Code、Codex、Copilot、Cursor 等工具"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "microsoft",
+      "anthropic",
+      "mistral"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1aae26a3e3c9b184b5eb8f0238d1f61c",
+    "title": "Is what I’m wanting even possible?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xfbnj5/is_what_im_wanting_even_possible/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-25T19:39:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi I really wanna basically have an ai to play this game for me it’s such a simple game and it’s a text based browser game so it’s literally the simplest most straight forward game for an ai to play no moving character nothing just understanding text and pressing buttons is this something I can get some help with PLEEEEASE I WANT IT BAD </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cokpuncher123\"> /u/cokpuncher123 </a> &",
+    "title_zh": "我想要的是否可能实现？",
+    "summary_zh": "用户咨询能否使用 AI 替自己玩一款纯文本浏览器游戏，希望 AI 能理解文字并执行简单操作。",
+    "key_points": [
+      "用户寻求 AI 自动化操作纯文本浏览器游戏的方法",
+      "属于求助性质的技术讨论帖"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "120f53bb2eabf28add6f1c3fe56cbd52",
+    "title": "Why are people so pessimistic about AI potentially revolutionizing healthcare?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xfa9sn/why_are_people_so_pessimistic_about_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-25T18:44:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So I attended a quantum discussion event where quantum computing and AI researchers discussed the future of the technologies and how they could <em>potentially</em> be extremely useful and helpful to scientists and doctors, and accelerate advances in medicine. I’m not one to think that all cancers and diseases will be cured in a decade like some clickbaiters claim but I think it can help speed up cures and treatments a lot faster than without it. But some people",
+    "title_zh": "为什么人们对 AI 可能彻底改变医疗保健如此悲观？",
+    "summary_zh": "用户在参加量子计算讨论后，对 AI 和量子计算加速医学进步的前景感到乐观，不理解外界的普遍悲观情绪。",
+    "key_points": [
+      "AI 和量子计算有望加速医学和科学研究",
+      "公众对 AI 在医疗领域的应用持悲观态度引发讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5bbb0d8d956be4019a16aa30862e32a1",
+    "title": "Which AI leaderboard have more accuracy?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xf9whs/which_ai_leaderboard_have_more_accuracy/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-25T18:30:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>livebench.ai/#</p> <p>artificialanalysis.ai</p> <p>arena.ai/leaderboard/code</p> <p>which better?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/-DeafGuy-\"> /u/-DeafGuy- </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xf9whs/which_ai_leaderboard_have_more_accuracy/\">[link]</a></span> &#32; <span><a href=\"https://www.re",
+    "title_zh": "哪个 AI 排行榜更准确？",
+    "summary_zh": "用户对比了 livebench.ai、artificialanalysis.ai 和 arena.ai 等 AI 模型排行榜，询问哪个平台的评估结果更可靠。",
+    "key_points": [
+      "用户对比三大 AI 排行榜的准确性",
+      "涉及 LiveBench、Artificial Analysis 等平台"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
