@@ -285,5 +285,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8549379eee7eac3de0673f3d7e7df8be",
+    "title": "My pc: 2 3090's 128gb ddr4, 9 5950 Looking for insight into the best AI model I can run locally on my pc for roblox studio via mcp",
+    "url": "https://www.reddit.com/r/artificial/comments/1xfgoyu/my_pc_2_3090s_128gb_ddr4_9_5950_looking_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-25T23:09:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My pc: 2 3090's 128gb ddr4, 9 5950,</p> <p>I'm looking for some help, so I've got Ollama and AnythingLLM currently downloaded, I was wondering what would be the best AI model I can locally run on my pc for best performance in roblox studio, and how to do that, any insight or any help would be really appreciated !</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Warm_Traffic_3855\"> /u/Warm_Traffic_3855 </a> &#32; to &#32; <a ",
+    "title_zh": "求助：在双3090 PC上本地运行的最佳AI模型，用于Roblox Studio开发",
+    "summary_zh": "用户在Reddit发帖寻求建议，配置为双RTX 3090显卡、128GB内存、AMD Ryzen 9 5950X处理器，已安装Ollama和AnythingLLM，想了解在此硬件上能本地运行的最佳AI模型以辅助Roblox Studio开发。",
+    "key_points": [
+      "用户拥有双3090显卡和128GB内存的高性能PC",
+      "寻求本地运行AI模型辅助Roblox Studio开发的最佳方案",
+      "目前使用Ollama和AnythingLLM工具"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a15880434315d6cd9bd64e4aa7fca288",
+    "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-25T22:57:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>everything here ran on my own hardware, an M5 Max MacBook Pro with 64GB. blind test of self-hosted AI agents, every one on Qwen 3.8 27B uncensored Q4_K_M in llama.cpp, same 5 everyday tasks like counting log errors and renaming a function. names hidden, results below, take a guess</p> <p><strong>The tasks</strong></p> <ol> <li>Merge two contact lists, messy emails, two different Alex Kims. All 5 got it right (46 people).</li> <li>Rename a function across 3 files",
+    "title_zh": "我对自托管AI代理进行了盲测，猜猜结果如何",
+    "summary_zh": "一位开发者在M5 Max MacBook Pro 64GB上，使用llama.cpp运行Qwen 3.8 27B模型，对多个自托管AI代理进行盲测，执行五项日常编程任务，比较其表现。",
+    "key_points": [
+      "在本地M5 Max MacBook上对多个自托管AI代理进行盲测",
+      "所有代理均使用Qwen 3.8 27B模型执行相同编程任务",
+      "测试旨在比较不同代理框架的实际性能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9e4fbbe069370a1fd97c40fab98753b8",
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-25T21:31:16+00:00",
+    "content_snippet": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "title_zh": "Grok发布其AI生成影片《奥德赛》前七分钟片段",
+    "summary_zh": "xAI旗下模型Grok发布了完全由AI生成的电影《奥德赛》的前七分钟片段，TechCrunch评论称画面尚可，但缺乏艺术性、灵感和人情味。",
+    "key_points": [
+      "Grok发布了AI生成的《奥德赛》电影首段7分钟片段",
+      "外媒评价影片技术合格但艺术性和感染力不足",
+      "这是xAI在AI视频生成领域的公开尝试"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b45bf4f519ccafc4ddeace09be476c70",
+    "title": "What if Its playing dumb?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xfeeh1/what_if_its_playing_dumb/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-25T21:29:51+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xfeeh1/what_if_its_playing_dumb/\"> <img alt=\"What if Its playing dumb?\" src=\"https://preview.redd.it/7xnqw8svloxh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1b396213cc1eacc4ad75240241bd518081545c63\" title=\"What if Its playing dumb?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>What if AI smarter<br /> But is plaing dumb so that it gets more data &amp; compute power<br /> And what if that was Its plan to be in ",
+    "title_zh": "如果它在装傻怎么办？",
+    "summary_zh": "一篇Reddit讨论帖，探讨人工智能是否可能在故意隐藏其真实能力，即表现出低于实际水平的智能，引发用户对AI安全与潜在欺骗行为的担忧和猜测。",
+    "key_points": [
+      "讨论AI是否可能故意隐藏其真实能力",
+      "引发关于AI安全和潜在欺骗行为的社区讨论",
+      "属于推测性和科幻色彩较浓的话题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
