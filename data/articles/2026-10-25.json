@@ -306,5 +306,78 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "8cbdb9da8254491c096b7dff1a56bed9",
+    "title": "ICLR 2027 is still handing out desk rejects [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-25T05:35:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Thank you for your efforts in protecting the community from AI slop.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Temporary_Switch_339\"> /u/Temporary_Switch_339 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/\">[link]</a></span> &#32; <span><a href=\"",
+    "title_zh": "ICLR 2027 仍在发出 Desk Reject [N]",
+    "summary_zh": "Reddit 用户发帖反映 ICLR 2027 会议仍在发出 Desk Reject 通知，并感谢此举保护了学术社区免受 AI 生成的低质量投稿影响。",
+    "key_points": [
+      "ICLR 2027 继续实行 Desk Reject 机制",
+      "此举旨在过滤 AI 生成的学术垃圾"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0d574f56bce71f42d3f4e563461c38f5",
+    "title": "I with the advancement of AI, is there a time coming where video, audio, and image evidence won’t stand up in court?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xetiew/i_with_the_advancement_of_ai_is_there_a_time/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-25T05:02:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The deepfakes are getting better and better. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/draathkar\"> /u/draathkar </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xetiew/i_with_the_advancement_of_ai_is_there_a_time/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1xetiew/i_with_t",
+    "title_zh": "AI 进步会让视频、音频和图像证据在法庭上失效吗？",
+    "summary_zh": "Reddit 用户探讨随着深度伪造技术进步，未来视频、音频和图像证据在法庭上的可信度是否会受到根本性冲击。",
+    "key_points": [
+      "深度伪造技术日益逼真引发法律担忧",
+      "探讨视听证据在法庭上的未来可信度"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1c9ef9a7eb49fa4d486a9a47a0f61e56",
+    "title": "OpenAI and Anthropic support OSS maintainers. Do Chinese AI companies offer similar programs?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xerrbz/openai_and_anthropic_support_oss_maintainers_do/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-25T03:26:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I was looking at the OSS programs from OpenAI and Anthropic and started wondering whether Qwen, DeepSeek, GLM, Kimi, or MiniMax offer anything similar.</p> <p>I mean free coding subscriptions or API credits for people maintaining open-source projects, rather than the usual signup credits.</p> <p>I tried searching but couldn’t find much. There’s a Qiniu program that offers credits for AI-related open-source projects, so there are at least some options.</p> <p>Wha",
+    "title_zh": "OpenAI 和 Anthropic 支持开源维护者，中国 AI 公司有类似计划吗？",
+    "summary_zh": "Reddit 用户注意到 OpenAI 和 Anthropic 为开源项目维护者提供支持，并发问中国的 AI 公司如 Qwen、DeepSeek 等是否有类似举措。",
+    "key_points": [
+      "OpenAI 和 Anthropic 为开源维护者提供免费资源",
+      "探讨中国 AI 公司是否跟进支持开源生态"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic",
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
