@@ -258,5 +258,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "62bd34f767d4befc5ea5b3ffd124f89c",
+    "title": "Unintended consequences of AI on academic research",
+    "url": "https://www.reddit.com/r/artificial/comments/1xeobab/unintended_consequences_of_ai_on_academic_research/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-25T00:30:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Academia has been about publishing to advance science and get recognition, but in the future, if you're working on a cutting edge maths or physics problem, why would you make your advancement public? Especially if it is going to get stolen and fed into a system that will replace you. </p> <p>Sadly, I can imagine a world where the bleeding edge becomes closed again, as it has been for most of human history</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href",
+    "title_zh": "人工智能对学术研究产生的意外后果",
+    "summary_zh": "文章探讨了人工智能可能对学术出版带来的负面影响。作者担忧，当研究者取得前沿突破时，可能因害怕成果被AI系统抓取、窃取并用于训练而不再选择公开发表，从而阻碍科学进步。",
+    "key_points": [
+      "AI可能导致研究者因害怕成果被窃取而拒绝发表",
+      "前沿数学、物理学成果可能不再公开",
+      "学术出版的传统模式面临信任危机"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "940feb59be8e25b9287c3e61dd232b0e",
+    "title": "People are starting to use AI for FB Marketplace listings and it’s making me mad",
+    "url": "https://www.reddit.com/r/artificial/comments/1xenhio/people_are_starting_to_use_ai_for_fb_marketplace/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-24T23:51:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A leather couch was listed. Pristine condition. Little wrinkling. Showed up and the couch was so worn down. I wouldn’t have looked at the listing in the first place had they used legitimate photos. It’s so deceiving. Don’t do this. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bayls215\"> /u/bayls215 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.red",
+    "title_zh": "有人开始在Facebook二手交易列表中使用AI，这让我抓狂",
+    "summary_zh": "用户分享了一次糟糕的线上二手交易经历。卖家在Facebook Marketplace上发布用AI优化过的沙发照片，显示状况完好，但实物磨损严重。文章批评这种欺骗性行为，呼吁不要用AI美化二手商品图片。",
+    "key_points": [
+      "卖家使用AI美化二手沙发照片误导买家",
+      "实物与AI生成图片的严重不符引发不满",
+      "作者呼吁停止在二手交易中滥用AI技术"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
