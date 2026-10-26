@@ -431,5 +431,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f205585dad466989c7a30da677da7eef",
+    "title": "[P] Stop force-feeding your agent 30,000 tokens of chat history just to wake up. We built DUMEdb (Apache 2.0) — 220-token zero-turn wake using 1959 IBM unit-record principles. [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xflxcj/p_stop_forcefeeding_your_agent_30000_tokens_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-26T03:17:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Yo Peace!</p> <p>If you build autonomous agents or pair-program across multiple sessions, you’ve probably hit this wall:</p> <p>Every time an agent switches context or resumes a project, the standard practice in most frameworks is to dump 30,000+ tokens of raw chat history back into prompt memory. </p> <p>### Why this architecture breaks:</p> <ol> <li><p>**KV-Cache / Context Choke**: You’re burning 25%–70% of your model’s context ceiling on Turn 1 before doing a",
+    "title_zh": "别再喂给AI代理3万Token历史了：DUMEdb用220Token实现零轮唤醒",
+    "summary_zh": "研究人员开源了DUMEdb项目，借鉴1959年IBM单位记录原理，将AI代理的上下文切换成本从数万Token降至220Token，实现了高效的零轮唤醒，解决了会话恢复时上下文冗余的痛点。",
+    "key_points": [
+      "DUMEdb将代理唤醒所需Token从3万+降至220",
+      "基于1959年IBM单位记录原理实现零轮唤醒",
+      "Apache 2.0开源，解决多会话AI代理的上下文切换问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7ac9b9cc36e4b867962d49c5a8ec3d31",
+    "title": "My six-month bet: more hybrid AI deployments, not a wholesale move to local models",
+    "url": "https://www.reddit.com/r/artificial/comments/1xflmv7/my_sixmonth_bet_more_hybrid_ai_deployments_not_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-26T03:02:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I expect more applications to use open-weight or self-hosted models over the next six months. But I doubt “everything moves local” is the likely outcome.</p> <p>Self-hosting has an obvious appeal when an application handles a large, predictable volume of routine work. You can control the deployment and reduce dependence on one API provider.</p> <p>The catch is that model weights being available doesn’t make operations free. Someone still pays for hardware, idle ",
+    "title_zh": "未来半年预测：混合AI部署将增多，而非全面转向本地模型",
+    "summary_zh": "作者预测未来六个月，更多应用将采用混合AI部署模式，结合云端与本地自托管模型。虽然开源模型采用会增加，但并非所有工作负载都会迁移到本地，混合模式将是更现实的路径。",
+    "key_points": [
+      "预测未来六个月混合AI部署将更普遍",
+      "自托管模型对大规模常规工作负载有吸引力",
+      "全面转向本地模型并非最可能的结果"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
