@@ -383,5 +383,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2e327acfe701387fe4ec8ae42524f532",
+    "title": "The AI Access Problem Most European Businesses Have Not Checked For",
+    "url": "https://www.reddit.com/r/artificial/comments/1xfjqk2/the_ai_access_problem_most_european_businesses/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-26T01:28:51+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xfjqk2/the_ai_access_problem_most_european_businesses/\"> <img alt=\"The AI Access Problem Most European Businesses Have Not Checked For\" src=\"https://external-preview.redd.it/5Ju5JoxR62MzTMDYvwx49P6TZ-CLTMavmmEzroRmtzc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cce61213fbe9e5d97284302a0a51108771e6fa02\" title=\"The AI Access Problem Most European Businesses Have Not Checked For\" /> </a> </td><td> &#32; submitted by &#32;",
+    "title_zh": "多数欧洲企业尚未察觉的AI访问问题",
+    "summary_zh": "文章探讨了欧洲企业在部署AI时面临的一个普遍但被忽视的访问问题，涉及数据合规、基础设施区域限制或模型可用性障碍，可能影响企业竞争力。",
+    "key_points": [
+      "欧洲企业普遍忽视AI访问的合规性与基础设施问题",
+      "数据驻留和模型区域限制构成主要部署障碍",
+      "未解决此问题可能导致企业竞争力下降"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f12bcdd2533e147dcb9541168f33020e",
+    "title": "Felt like we needed a no nonsense space…",
+    "url": "https://www.reddit.com/r/artificial/comments/1xfj75y/felt_like_we_needed_a_no_nonsense_space/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-26T01:03:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We've just opened The Machine Room | Al Research &amp; Engineering.</p> <p>It's a new community for people interested in actually building, researching, testing and understanding Al: researchers, engineers, indie builders, students and technically curious people all welcome.</p> <p>The focus is on things like models and architecture, agents and tool use, interpretability and evals, inference and systems, training/finetuning, papers, theory/cognition, alignment/g",
+    "title_zh": "需要一个认真的空间，所以我们创建了它",
+    "summary_zh": "发布者宣布开设名为'The Machine Room'的新社区，专注于AI研究与工程，面向研究员、工程师、独立开发者等技术人群，旨在建立严肃的AI讨论空间。",
+    "key_points": [
+      "新社区'The Machine Room'专为AI研究者和工程师打造",
+      "目标是提供无喧哗、重技术讨论的严肃空间",
+      "面向技术好奇者、独立开发者和学生等群体"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
