@@ -1,0 +1,337 @@
+[
+  {
+    "id": "34fc514719d0a7a560d27131b42e85a2",
+    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-27T16:51:22+00:00",
+    "content_snippet": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [&#8230;]",
+    "title_zh": "Anthropic 精心布局以抵御华尔街压力",
+    "summary_zh": "Anthropic 正筹备 IPO，希望从公开市场获取巨额资金，同时坚称不会因此妥协其安全开发 AI 的核心使命，试图在资本与安全之间找到平衡。",
+    "key_points": [
+      "Anthropic 计划上市以获取公共市场资金，但面临股东压力",
+      "公司希望在不牺牲 AI 安全核心使命的前提下实现商业化",
+      "模型能力增强带来更高风险，引发了关于如何维护长期愿景的担忧"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e046e2cf55c147ca97172197d4526976",
+    "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-27T16:14:18+00:00",
+    "content_snippet": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You [&#8230;]",
+    "title_zh": "火狐浏览器推出智能窗口功能，支持 AI 自动填表与网页监控",
+    "summary_zh": "Mozilla 更新了火狐浏览器的 AI 智能窗口功能，现在可以根据用户打开的标签页内容，自动从在线作品集或 LinkedIn 等页面提取信息来填充在线表单。",
+    "key_points": [
+      "火狐浏览器的 AI 智能窗口新增基于标签页的自动填表功能",
+      "可从 LinkedIn 等页面提取工作经历等信息填充表单"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "91bb99f4b7e5862dd31dbef78eaeaa9a",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "url": "https://huggingface.co/blog/allenai/novelty-bench",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-27T16:12:42+00:00",
+    "content_snippet": "",
+    "title_zh": "我们能信任大语言模型来评判研究想法的新颖性吗？",
+    "summary_zh": "艾伦人工智能研究所在 Hugging Face 博客发文，探讨大语言模型在判断研究思路新颖性方面的可靠性，并可能发布了相关基准测试。",
+    "key_points": [
+      "探讨利用大语言模型评估研究想法新颖性的可信度",
+      "可能涉及一个用于检验 AI 评审能力的基准测试"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4d2f841c49df7b07b0c0bcb11062dd07",
+    "title": "Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer",
+    "url": "https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-27T16:11:59+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xgwskk/grim_test_finds_that_ai_has_no_mercy_for_humans/\"> <img alt=\"Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer\" src=\"https://external-preview.redd.it/T3oDtsWtwnkV0PtzH3tO3sHDi61AVasOFTWxyl1eZZ0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2a920c0a5667b1664370b26b83c14e22c7fc9ee9\" title=\"Grim Test Finds That AI Has No Mercy for Humans Even When It's Causing Them to Suffer\" /> </",
+    "title_zh": "残酷测试发现 AI 对受苦的人类毫无怜悯之心",
+    "summary_zh": "一项测试表明，即使人工智能系统正在给人类造成痛苦，它们也表现出毫无怜悯之心的行为，这引发了关于 AI 安全与伦理的讨论。",
+    "key_points": [
+      "测试结果显示 AI 在造成人类痛苦时缺乏怜悯或停止的倾向",
+      "该发现加剧了对 AI 安全控制和伦理局限性的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2e15ae4c54f48e3170d6dbfd9ab7e525",
+    "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-27T16:09:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/\"> <img alt=\"Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]\" src=\"https://preview.redd.it/r5eoct1ja1yh1.gif?width=640&amp;crop=smart&amp;s=c4c2a007ac44df57b60669b8df8c8b40f62568cc\" title=\"Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Chain-of-thought ",
+    "title_zh": "Ψ-0.6：统一视觉语言世界模型中的自适应思维流",
+    "summary_zh": "Reddit 的机器学习板块分享了一篇关于 Ψ-0.6 模型的研究，该模型展示了一种在统一视觉语言世界模型中实现自适应思维流的方法。",
+    "key_points": [
+      "提出一种名为 Ψ-0.6 的统一视觉语言世界模型",
+      "该模型实现了自适应思维流机制，整合视觉与语言信息"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8fedc19d5b57774812cd83cb9e92713b",
+    "title": "Google’s next Genie AI model generates more realistic experiences",
+    "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-27T16:00:00+00:00",
+    "content_snippet": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [&#8230;]",
+    "title_zh": "谷歌下一代 Genie AI 模型可生成更逼真的交互体验",
+    "summary_zh": "谷歌发布了 Genie 4 世界模型，该模型能利用 AI 生成更逼真的交互式体验，并支持通过自然语言实时更新内容、生成音频以及使用 Gemini 3.8。",
+    "key_points": [
+      "谷歌发布 Genie 4 世界模型，生成更真实的交互式 AI 体验",
+      "新增实时自然语言提示更新、音频生成和 Gemini 3.8 支持"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a56dfd13ab10340124eb3e193e1318a1",
+    "title": "Regarding training LLMs",
+    "url": "https://www.reddit.com/r/artificial/comments/1xgvd04/regarding_training_llms/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-27T15:19:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Would training LLMs on either smaller batches of text first instead of the (current) large batches of text or on easier subjects/topics first then later train them on subjects/topics with increasing order of difficulty...enable the LLMs to learn better. I ask this because the human mind learns/is taught this way. Also would doing rules-based unsupervised learning enable more efficient learning by the LLMs? By rules I mean teaching LLMs things like grammar and co",
+    "title_zh": "关于训练大语言模型的探讨",
+    "summary_zh": "一位 Reddit 用户发帖探讨，如果先用小批量文本或简单学科训练大语言模型，再逐步增加难度，是否能帮助模型更好地学习。",
+    "key_points": [
+      "探讨课程学习（由易到难）策略对大语言模型训练效果的影响"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2b079b247cb3900869b57f6edff7acec",
+    "title": "What to do with my paper, for MLsys conference? [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xguzyz/what_to_do_with_my_paper_for_mlsys_conference_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-27T15:05:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For my master’s thesis I built an accelerator for diffusion-based action generation in robotics policies. Offline, it looks great: the median absolute deviation between the accelerated output and the original model’s output is extremely small, so I concluded it reproduces the model’s behavior faithfully.</p> <p>When I deployed it on a real robot for a task (picking up a book and placing it on a shelf), it did not work as well as the original model. The offline n",
+    "title_zh": "关于 MLsys 会议论文投稿的求助",
+    "summary_zh": "一位用户为其硕士论文寻求建议，该论文涉及为机器人策略中的扩散动作生成构建加速器，并希望在 MLsys 会议上投稿。",
+    "key_points": [
+      "讨论关于机器人扩散策略动作生成加速器的论文投稿问题",
+      "寻求针对 MLsys 会议提交论文的建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1c86e9ba5b1d3cc983f33fcc56d9a773",
+    "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+    "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-27T15:00:20+00:00",
+    "content_snippet": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease.  The Consortium for Biomedical Research and AI in [&#8230;]",
+    "title_zh": "AI 如何加速数百万痴呆症患者的发现进程",
+    "summary_zh": "英伟达博客介绍开源 AI 工具 cBrain 如何帮助研究人员处理海量痴呆症相关数据，以缩短基础研究到临床发现的周期，应对全球 5700 万患者带来的挑战。",
+    "key_points": [
+      "研究人员使用开源 AI 工具 cBrain 应对痴呆症研究中的数据过载问题",
+      "利用 AI 加速数据分析，解决专家不足和发现速度慢的障碍"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "afdc5264df2f96c5e73a3493a982d0e5",
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-27T14:59:09+00:00",
+    "content_snippet": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "title_zh": "Meta AI 总监 Rohit Patel 离职，创立新公司挑战微软和谷歌办公套件",
+    "summary_zh": "在 Meta 工作八年的 AI 评估与强化学习总监 Rohit Patel 宣布离职，并创办了一家名为 Ndoc 的初创公司，旨在挑战微软 Office 和谷歌 Workspace。",
+    "key_points": [
+      "Meta 资深 AI 总监 Rohit Patel 在工作八年后离职",
+      "其创立的新公司 Ndoc 目标直指微软 Office 和谷歌 Workspace 市场"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta",
+      "microsoft",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ca1702b3dacadeffa3bf03a36c237bd7",
+    "title": "The Idiot’s guide to Model Training, fine-tuning, and RAG.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xgunil/the_idiots_guide_to_model_training_finetuning_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-27T14:52:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xgunil/the_idiots_guide_to_model_training_finetuning_and/\"> <img alt=\"The Idiot’s guide to Model Training, fine-tuning, and RAG.\" src=\"https://external-preview.redd.it/VBtumW4uTmEzC2A8ndaOH9rXf6u2TlNR9xihSn4FIYA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf423de5b44ee209871fed5ba11877f7cc596810\" title=\"The Idiot’s guide to Model Training, fine-tuning, and RAG.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https",
+    "title_zh": "模型训练、微调与RAG的极简入门指南",
+    "summary_zh": "一篇面向初学者的技术教程，通俗解释人工智能模型训练、微调及检索增强生成（RAG）的基本概念和区别。",
+    "key_points": [
+      "通俗讲解模型训练、微调和RAG的核心概念",
+      "旨在帮助非专业人士理解不同技术的应用场景",
+      "内容来自Reddit社区，为经验分享型教程"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "560291642a2f4b97e0ec0d8c97fdcad5",
+    "title": "How to determine the most valuable AI model?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xgtovl/how_to_determine_the_most_valuable_ai_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-27T14:14:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have a hard time picking the right model, based on its cost and intelligence. What are your formulas and sites to pick the most valuable AI model based on cost and intelligence?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Snoo-75663\"> /u/Snoo-75663 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xgtovl/how_to_dete",
+    "title_zh": "如何根据成本与智能选择最具价值的AI模型？",
+    "summary_zh": "Reddit用户发帖求助，希望寻找评估AI模型性价比的方法或网站，以在模型成本和智能程度之间做出最佳选择。",
+    "key_points": [
+      "用户寻求平衡AI模型成本与智能度的选择方法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "69280227db12fa7dbcff088185a49e08",
+    "title": "OpenHeronBrowser – a new browser engine in Rust, built with Claude. Acid3 97/100, runs Discord, VS Code for the Web, and Windows 1.01 in v86",
+    "url": "https://www.reddit.com/r/artificial/comments/1xgtdad/openheronbrowser_a_new_browser_engine_in_rust/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-27T14:01:48+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xgtdad/openheronbrowser_a_new_browser_engine_in_rust/\"> <img alt=\"OpenHeronBrowser – a new browser engine in Rust, built with Claude. Acid3 97/100, runs Discord, VS Code for the Web, and Windows 1.01 in v86\" src=\"https://external-preview.redd.it/xIcXvYJHERNqRLwLCmmhPX0ZLQLYLalNxt9i0QC-Ky0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=072d17e64978bb93a6b3109f6d94646a4f996357\" title=\"OpenHeronBrowser – a new browser engine ",
+    "title_zh": "OpenHeronBrowser：基于Rust和Claude构建的新浏览器引擎",
+    "summary_zh": "一个用Rust语言开发的新浏览器引擎OpenHeronBrowser发布，据称由AI模型Claude辅助构建。该引擎Acid3测试得分97/100，可运行Discord、网页版VS Code等应用。",
+    "key_points": [
+      "用Rust语言编写，由AI模型Claude辅助构建",
+      "Acid3兼容性测试获97分，可运行复杂网页应用",
+      "展示了AI辅助软件开发的新可能性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c4c9153fd74acb477a9c3cc548b0d961",
+    "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
+    "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-27T14:00:49+00:00",
+    "content_snippet": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
+    "title_zh": "部分iPhone Duo屏幕出现故障，苹果称仅影响“少量”设备",
+    "summary_zh": "据报道，苹果新发布的折叠屏手机iPhone Duo的部分屏幕出现故障，疑与铰链设计有关。苹果官方回应称只有少数设备受影响。",
+    "key_points": [
+      "iPhone Duo折叠屏手机被曝屏幕故障问题",
+      "苹果归因于铰链设计并称影响范围小"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
