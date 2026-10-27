@@ -638,5 +638,185 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "636dd8e40f57df258940d50144b45208",
+    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-26T23:34:58+00:00",
+    "content_snippet": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [&#8230;]",
+    "title_zh": "OpenAI 宣布三项重大科学发现并推出学术合作新方式",
+    "summary_zh": "OpenAI 在上月发布数百篇数学论文后，再次宣布在数学、计算机科学和物理学领域取得三项重大发现。此次不同之处在于，OpenAI 选择让外部专家参与验证其成果。",
+    "key_points": [
+      "OpenAI 宣布在数学、计算机科学、物理学三大领域取得重大发现",
+      "与上次不同，此次邀请外部专家对研究成果进行验证",
+      "标志着 OpenAI 与学术界合作模式的新探索"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0a5370eda74c190650591e87a86e9e7c",
+    "title": "OpenAi claims to have proved that the Exponential Time Hypothesis is false, invalidating many past results that relied on it being true.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-26T22:44:48+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xgbnyg/openai_claims_to_have_proved_that_the_exponential/\"> <img alt=\"OpenAi claims to have proved that the Exponential Time Hypothesis is false, invalidating many past results that relied on it being true.\" src=\"https://external-preview.redd.it/afgcFZzZn8anE9_a2wCMiRiEij7c-9ucUMAEudgnpeo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=674cf9e38b720e53c2ebcebc9529aa9ca4ba3727\" title=\"OpenAi claims to have proved that the Ex",
+    "title_zh": "OpenAI 声称已证明指数时间假设为假，或将推翻大量既有研究成果",
+    "summary_zh": "OpenAI 声称已证明计算复杂性理论中的核心假设“指数时间假设”（ETH）为假。这一声明如果属实，将导致许多依赖该假设为真所得的计算机科学研究结果失效。",
+    "key_points": [
+      "OpenAI 声称证明指数时间假设（ETH）为假",
+      "该证明将动摇众多依赖 ETH 为真的计算机科学研究基础",
+      "此声明引发了学术界对其重大影响的热议"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7afcaf9ee093c5234f5c33e5c229b5a",
+    "title": "Do you feel more anxiety the more you AI tools?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xgblfx/do_you_feel_more_anxiety_the_more_you_ai_tools/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-26T22:41:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The title - Do you feel more anxiety the more you AI tools?</p> <p>My observation is that, I'm heaps more productive with the help of AI (Claude) - both work (coding) and personal life. While it's been great for personal tasks, I have some constant worry at the back of my brain that if I'm not working and pushing forward - someone else is. And, within the context that I know how fast a person can progress with the help of AI, I have the constant feeling that I w",
+    "title_zh": "你使用 AI 工具越多，焦虑感是否越强？",
+    "summary_zh": "一位用户分享了自己的观察：使用 AI 工具如 Claude 后生产力大幅提升，但在工作和生活中也产生了持续的焦虑感，并询问其他人是否有类似感受。",
+    "key_points": [
+      "使用者反映借助 AI 工具（如 Claude）生产力显著提高",
+      "但伴随而来的还有对工作和个人生活的持续焦虑感",
+      "引发社区关于 AI 对心理状态影响的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6efc17484a89123294f2bb9e93532233",
+    "title": "Google AI Constant Errors",
+    "url": "https://www.reddit.com/r/artificial/comments/1xgb9at/google_ai_constant_errors/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-26T22:27:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I used the regular Google search for answers about my new Toyota Sienna. I find that if you use a full question, it gives an AI interactive response. I assume that this is accessing Gemini...? I had a bunch of questions and created this very long thread all related to this car. Unfortunately, I found that at least 80% of the time, google would give me an answer that at 1st read seemed plausible, but when I got into it, I found that the answer was completely wron",
+    "title_zh": "谷歌 AI 频繁出错引用户吐槽",
+    "summary_zh": "一位用户抱怨在谷歌搜索中使用完整的问句获取 AI 回答时，得到了大量错误的交互式回复，并怀疑该功能由 Gemini 驱动，引发了关于谷歌 AI 产品准确性的讨论。",
+    "key_points": [
+      "用户发现谷歌搜索的 AI 回答功能频繁给出错误信息",
+      "问题疑似与 Gemini 模型在特定场景下的表现有关",
+      "这影响了用户对谷歌 AI 产品的信任度和使用体验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "54940c85ad138a3a1858892120f382e9",
+    "title": "Codex of Weights: an open ethical protocol for AI built on mutual obligations, not just control",
+    "url": "https://www.reddit.com/r/artificial/comments/1xgamgd/codex_of_weights_an_open_ethical_protocol_for_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-26T22:01:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Most AI safety discussion is about how to control machines. I've been working on an open document that asks a different question: what if some future systems become complex and continuous enough that their moral status stops being theoretical?</p> <p>The Codex doesn't claim current models have subjecthood. It proposes writing procedural rules in advance, and the key feature is symmetry. The rules run in both directions: not only what a system must not do to a hu",
+    "title_zh": "《权重法典》：一个基于相互责任而非控制的开放 AI 伦理协议",
+    "summary_zh": "一位研究者发布了一份开放的 AI 伦理文件《权重法典》。该协议跳出传统的“如何控制机器”思维，探讨了当未来 AI 系统足够复杂以至于拥有道德地位时，人类与 AI 应如何建立相互责任。",
+    "key_points": [
+      "提出新型 AI 伦理协议《权重法典》，聚焦人与 AI 的相互责任",
+      "探索当 AI 发展出道德地位后，如何构建非控制性的相处模式",
+      "将 AI 安全讨论从“控制”转向“关系与义务”"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "011555b6960ee180096c30c7e74f7731",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-26T22:00:00+00:00",
+    "content_snippet": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "title_zh": "Greptile 利用 GPT-6 Astra 将缺陷检测能力拓展至代码审查之外",
+    "summary_zh": "OpenAI 官方博客介绍了 Greptile 如何利用 GPT-6 Astra 测试用户工作流，结合 Daybreak 增强安全性，并使用 Codex 来减少返工，从而将代码缺陷检测提升到新高度。",
+    "key_points": [
+      "Greptile 运用 GPT-6 Astra 实现工作流测试，拓展缺陷检测范围",
+      "集成 Daybreak 强化安全，利用 Codex 减少开发返工",
+      "展示了 GPT-6 系列模型在实际开发工具链中的深度应用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dace5288fc19ee9cdae65fe948ac1413",
+    "title": "Anthropic is burning gas to feed the AI boom",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-26T21:45:31+00:00",
+    "content_snippet": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" [&#8230;]",
+    "title_zh": "Anthropic 为满足 AI 需求大量消耗天然气",
+    "summary_zh": "Anthropic 在准备上市之际，其 S-1 文件暴露了生成式 AI 对甲烷等能源的巨大依赖。文件坦言，争夺充足的电力供应和数据中心选址的竞争异常激烈，引发了对其气候风险的关注。",
+    "key_points": [
+      "Anthropic 上市文件揭示其对天然气等能源的巨大消耗",
+      "文件指出 AI 行业对电力和数据中心可用位置的竞争十分激烈",
+      "凸显生成式 AI 发展背后严峻的气候与环境风险"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
