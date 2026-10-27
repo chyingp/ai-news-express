@@ -938,5 +938,125 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "06471c7a974c08c8dee64dc1f98c202f",
+    "title": "Where does the money for AI come from in 2027?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xgjp9t/where_does_the_money_for_ai_come_from_in_2027/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-27T05:02:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Where does OpenAI and Anthropic go for money in 2027 if they don’t go public?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/IAmALWAYSCorrect1026\"> /u/IAmALWAYSCorrect1026 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xgjp9t/where_does_the_money_for_ai_come_from_in_2027/\">[link]</a></span> &#32; <span><a href=\"https:",
+    "title_zh": "2027年AI公司的资金来源在哪？",
+    "summary_zh": "Reddit用户讨论：如果OpenAI和Anthropic在2027年不上市，它们将从哪里获得资金以维持高昂的AI研发和运营成本。",
+    "key_points": [
+      "探讨OpenAI和Anthropic在不上市情况下的未来融资途径",
+      "反映业界对AI公司巨额烧钱模式可持续性的担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "482ec1427fccabf04e0c777a540a79fd",
+    "title": "Are we actually any closer to reliable agents, or is it still mostly demos?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xgji5i/are_we_actually_any_closer_to_reliable_agents_or/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-27T04:51:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I keep seeing claims about agents that can book things, manage inboxes, run multi step tasks on their own. Every demo looks great but every time I try to use one for something real it falls apart at step four and I end up babysitting it. I am not trying to be cynical, I genuinely want to know if anyone here has an agent setup that reliably does useful work without you watching it. What actually works for you day to day versus what is still a party trick?</p> </d",
+    "title_zh": "我们离可靠的AI Agent更近了吗，还是仍停留在演示阶段？",
+    "summary_zh": "Reddit用户讨论AI Agent的可靠性：尽管演示效果出色，但在实际使用中（如预订、管理收件箱等）经常在第四步就出错，需要人工监控，质疑其真正落地能力。",
+    "key_points": [
+      "当前AI Agent在复杂多步任务中表现不稳定，易出错",
+      "用户体验与产品演示存在差距，需持续人工介入"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3253ea67c2cd7af3f9a5f704e2b4c07b",
+    "title": "Practical notes on setting up a GPU kernel-dev environment: CUDA 13's GPU cutoff, async timing pitfalls, profiler counter permissions [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xgisgo/practical_notes_on_setting_up_a_gpu_kerneldev/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-27T04:12:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm working through a free series on GPU kernel engineering (my own channel; I posted the roadmap here earlier: <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/\">https://www.reddit.com/r/MachineLearning/comments/1xa4h2g/open_gpu_kernel_engineering_series_naive_gemm_to/</a> ) . Session 1 is a setup session. While preparing it I collected a few things that cost me time and that I rarely see in one",
+    "title_zh": "搭建GPU内核开发环境的实践笔记：CUDA 13、异步计时与性能计数器权限",
+    "summary_zh": "一篇技术教程，分享了搭建GPU内核开发环境时的实用经验，包括CUDA 13的GPU兼容性限制、异步计时陷阱以及性能计数器权限设置等技术细节。",
+    "key_points": [
+      "详解CUDA 13的GPU架构支持范围与开发注意事项",
+      "总结异步场景下的计时误区和Profiler权限配置方法"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eeaee6ce4110c173025bd3c906f684c6",
+    "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+    "url": "https://www.qbitai.com/2026/10/505580.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-10-27T03:23:55+00:00",
+    "content_snippet": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+    "title_zh": "钛动科技发布行业首个Pro-Agent产品Navos Pro，定义结果导向的AI for Work",
+    "summary_zh": "钛动科技在TGC 2026科技增长大会上发布了行业首个Pro-Agent产品Navos Pro，旨在通过AI技术为企业提供以结果为导向的工作解决方案。",
+    "key_points": [
+      "钛动科技发布企业级AI Agent产品Navos Pro",
+      "产品定位“结果导向”，瞄准AI for Work赛道"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d69508e6c6edb5a126ea65b79d7ca862",
+    "title": "What's the most underrated use of AI that has nothing to do with writing or making images?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xghbet/whats_the_most_underrated_use_of_ai_that_has/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-27T02:57:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What's your example?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OfficalYOUSUMMIT\"> /u/OfficalYOUSUMMIT </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xghbet/whats_the_most_underrated_use_of_ai_that_has/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1xghbet/whats_the_most_unde",
+    "title_zh": "除了写作和绘图，AI最被低估的应用场景是什么？",
+    "summary_zh": "Reddit用户发起讨论，探讨AI在写作和图像生成之外最被低估的应用案例，试图发掘那些尚未被大众广泛关注的AI实用场景。",
+    "key_points": [
+      "探讨AI在写作和绘图之外的冷门但实用的应用场景",
+      "社区尝试挖掘AI技术更广泛的落地潜力"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
