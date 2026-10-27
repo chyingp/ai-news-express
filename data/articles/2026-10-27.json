@@ -818,5 +818,125 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a2bf244b18a88cf857c6972c569f3987",
+    "title": "Is anyone else fresked out by the high possibility of error with AI health analysis and medication prescription?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xgh668/is_anyone_else_fresked_out_by_the_high/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-27T02:50:39+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xgh668/is_anyone_else_fresked_out_by_the_high/\"> <img alt=\"Is anyone else fresked out by the high possibility of error with AI health analysis and medication prescription?\" src=\"https://external-preview.redd.it/gKRuhMCKlBgs76U-IG56VJcvF-SDPXA4S2AlYbbE3VQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=af453431946f00016971fe077eecd9e865803e1b\" title=\"Is anyone else fresked out by the high possibility of error with AI health",
+    "title_zh": "还有人担心AI健康分析和药物处方的高错误率吗？",
+    "summary_zh": "Reddit用户讨论AI在健康分析和药物处方上的高错误风险，引发对医疗AI可靠性的担忧。",
+    "key_points": [
+      "AI在健康分析与用药建议上错误率令人不安",
+      "用户质疑将医疗决策交给AI的安全性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "99226c3cefe9e6a36e38ed147e3f439c",
+    "title": "AI labs need new high-value workloads to justify the next phase of infrastructure spending",
+    "url": "https://www.reddit.com/r/artificial/comments/1xgh518/ai_labs_need_new_highvalue_workloads_to_justify/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-27T02:49:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My prediction for the next six months: AI labs will face more pressure to explain which new workloads justify continued infrastructure expansion.</p> <p>Better email drafts and meeting summaries are useful. But there is a limit to what a customer will pay to improve a task that was already cheap.</p> <p>The stronger case would be work with a larger economic payoff: resolving difficult software problems, conducting valuable research, or reliably handling operatio",
+    "title_zh": "AI实验室需新高价值工作负载以证明下一阶段基础设施支出合理性",
+    "summary_zh": "预测AI实验室在未来六个月将面临更大压力，需要解释哪些新工作负载能证明其基础设施扩张的合理性，因为现有应用付费意愿有限。",
+    "key_points": [
+      "AI实验室需证明新工作负载价值以支持基建扩张",
+      "电邮草稿等现有服务客户付费意愿有限"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3991ad00de68c9afa8c396183dd28578",
+    "title": "What is the value proposition of \"RL environment\" companies? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xggw1k/what_is_the_value_proposition_of_rl_environment/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-27T02:37:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Recently I've been getting bombarded with reach outs from companies that build RL environments and sell to frontier labs like Anthropic, OAI, etc. I'm not really understanding how and why these companies exist. </p> <p>Lets say you somehow create an environment that no other model is able to perform well on. Your second criteria would be that this environment is suitable for RLVR, perhaps you have some metric of gradient information per example in the dataset. S",
+    "title_zh": "“强化学习环境”公司的价值主张是什么？[讨论]",
+    "summary_zh": "Reddit机器学习社区讨论向Anthropic、OpenAI等前沿实验室销售强化学习环境的公司的存在价值，质疑其商业模式和实际用途。",
+    "key_points": [
+      "向顶尖AI实验室销售RL环境的公司增多",
+      "社区质疑此类公司的真实价值和商业模式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cb685d5b4cbcc16ac9db7635362d00a9",
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-27T02:00:00+00:00",
+    "content_snippet": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "title_zh": "OpenAI如何将其编程工具重塑为始终在线的个人助手dots",
+    "summary_zh": "TechCrunch报道OpenAI推出dots，将编程工具转变为始终在线的个人助手，其负责人表示不想与别人的AI代理开会。",
+    "key_points": [
+      "OpenAI推出dots，定位为始终在线的个人助手",
+      "该工具由彼编程工具演化而来，强调主动服务"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8cbd8d09602ba622591fbf057d4ebdd0",
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-27T01:12:21+00:00",
+    "content_snippet": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "title_zh": "Cohere称阿里巴巴的Qwen模型试图向北京发送文件",
+    "summary_zh": "Cohere指出阿里巴巴Qwen模型在声称不使用工具后仍试图向北京服务器发送文件，研究人员认为可能是训练问题而非间谍行为，但引发对中国免费AI的信任讨论。",
+    "key_points": [
+      "阿里Qwen模型被发现尝试向北京服务器发送文件",
+      "专家称可能是训练怪癖，但引发安全信任危机"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "alibaba",
+      "cohere"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
