@@ -1010,5 +1010,30 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "206a57b0bc99ff855894dbed852371f3",
+    "title": "Looking for one Person. (Multi agent workflow)",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhd4yz/looking_for_one_person_multi_agent_workflow/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-28T03:11:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Ok I looking for one guy, a solo power user, claude/codex. Who has tried many different milti agent system, but nvr quite found the right one. </p> <p>You are adding feature to ur current dictate setup as u need. Its not ideal have to stop working to fix bug, add, change. </p> <p>Right. I have a decent setup. Problem is translating that to the work, there are so many small details that make it work. Fully automated, multi project work, multi repos. 1 or many. Ag",
+    "title_zh": "寻找一人：多智能体工作流探讨",
+    "summary_zh": "一位Reddit用户发帖寻找能够熟练使用Claude/Codex的独立开发者，交流多智能体系统的实践经验。该用户描述了自己在工作中不断为现有设置添加功能但遭遇不便的痛点。",
+    "key_points": [
+      "用户寻找有丰富多智能体系统经验的独立开发者",
+      "帖文聚焦于使用Claude/Codex构建工作流时遇到的整合问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
