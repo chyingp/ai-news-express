@@ -1,0 +1,558 @@
+[
+  {
+    "id": "05b8a9f5907e55fbba0154fe1fde0be8",
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-28T17:00:58+00:00",
+    "content_snippet": "",
+    "title_zh": "Gemini 4 Carbon：Google DeepMind 的下一代前沿模型",
+    "summary_zh": "Google DeepMind 发布其最新的下一代前沿模型 Gemini 4 Carbon，预示着 AI 模型能力的又一次重大跃升。",
+    "key_points": [
+      "Google DeepMind 正式介绍下一代前沿模型 Gemini 4 Carbon",
+      "该模型或将在性能与多模态能力上设立新标杆",
+      "标志着谷歌在大模型军备竞赛中的持续加码"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7a28b9ee4e283bb27d46862f6871243e",
+    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-28T17:00:00+00:00",
+    "content_snippet": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+    "title_zh": "Chrome AI 自动填充功能升级：可从 Gmail 中提取信息填写表单",
+    "summary_zh": "谷歌 Chrome 浏览器更新其 AI 自动填充功能，经用户授权后，可直接从 Gmail 中读取航班、订单、快递等信息来辅助填写网页表单。",
+    "key_points": [
+      "Chrome 自动填充现可读取 Gmail 内的航班和订单信息",
+      "该功能需经用户授权以保障隐私安全",
+      "进一步提升浏览器智能化办公体验"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4ec46b596fc84ced8eceff9ca8e1193c",
+    "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+    "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-28T17:00:00+00:00",
+    "content_snippet": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving [&#8230;]",
+    "title_zh": "Chrome 增强型自动填充集成 Gmail，利用 Gemini 辅助表单填写",
+    "summary_zh": "继去年整合 Google 账户信息后，Chrome 的增强型自动填充功能进一步扩展，现在利用 Gemini 智能从 Gmail 提取信息，帮助用户自动填写线上表单。",
+    "key_points": [
+      "Chrome 增强型自动填充功能深度集成 Gmail 数据",
+      "利用 Gemini 模型提升信息提取的智能化水平",
+      "该功能已于即日起上线"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "419db36770bc47e6ed2c0f3761cda687",
+    "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+    "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+    "source": "Microsoft AI Blog",
+    "source_zh": "微软官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-28T16:51:35+00:00",
+    "content_snippet": "<p>If you want to compete, you need to be multi-model. And if you want to take advantage of everything that different AI models have to offer, you need a great harness. But building one that works seamlessly across multiple models and surfaces is incredibly hard. You need to solve for performance, quality, and cost. And...</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/\">Intr",
+    "title_zh": "微软推出 Copilot Harness：解锁多模型智能体工作的潜力",
+    "summary_zh": "微软发布 Copilot Harness，旨在通过一个统一的框架整合多种 AI 模型，解决跨模型协作的效率与质量问题，实现真正的多模型智能体工作流。",
+    "key_points": [
+      "微软发布 Copilot Harness 以整合多种人工智能模型",
+      "该框架旨在解决跨模型工作的性能与体验统一性问题",
+      "标志着微软在多模型生态战略上的重要布局"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "456b37fe8a8dd15f412cec23932f9516",
+    "title": "Could AI detection eventually become a fundamentally unsolvable problem, similar to the halting problem? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhtabq/could_ai_detection_eventually_become_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-28T16:42:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In theoretical computer science, we have the halting problem, which proves that certain problems cannot be solved by any general algorithm.<br /> This made me wonder about something similar in machine learning.<br /> Today, we can often distinguish AI-generated content from human-created content, at least statistically. But as AI models improve, could we eventually reach a point where the two become completely indistinguishable?<br /> Not just because our detect",
+    "title_zh": "AI 检测是否会像停机问题一样变得无解？",
+    "summary_zh": "Reddit 上的讨论将 AI 内容检测与计算机理论中的停机问题进行类比，探讨随着 AI 生成能力增强，从算法上准确判别内容来源是否将成为根本上不可解的问题。",
+    "key_points": [
+      "类比停机问题，探讨 AI 检测在理论上是否可能无解",
+      "随着模型进步，区分 AI 与人类创作的难度急剧增加"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a9a5698cb3be182e4633303ea98f745c",
+    "title": "AI agents have automated like 70% of my job and it’s amazing",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhsttu/ai_agents_have_automated_like_70_of_my_job_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-28T16:26:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>To be fair, my company has a pretty open policy about AI tools so they let us experiment with different tools. I see a lot of the typical laziness and slop form my coworkers, but i’ve been obsessed with learning and skill development and think i’ve finally unlocked a new way to work. So bear with me cause it truly is crazy. </p> <p>I was using chatgpt when it came out and was never that impressed. Used claude code a lot earlier this year for side projects and fu",
+    "title_zh": "AI 智能体已自动化了 70% 的工作，体验非常棒",
+    "summary_zh": "一位 Reddit 用户分享了在开放的公司政策支持下，利用各类 AI 智能体工具将约 70% 的日常工作自动化，从而更专注于学习和技能提升的经历。",
+    "key_points": [
+      "用户利用 AI 智能体实现了约 70% 的工作流程自动化",
+      "公司对 AI 工具持开放态度并鼓励尝试",
+      "强调正确使用 AI 可促进个人技能发展而非导致懒惰"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e574c76f5695b103682a10efe2d3ea8d",
+    "title": "How do you start with Agentic AI for a specific use case? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhso7k/how_do_you_start_with_agentic_ai_for_a_specific/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-28T16:20:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello all!</p> <p>I'm a PhD student in a niche field and the next plan is to apply agentic AI to automate a rather boring yet important workflow. I'm very well aware of LLMs but not very much into agentic AI and how do you set up?</p> <p>I've heard terms like harness and others, but I'd like to know how to get started with this (details below). Using AI for this proved to be pretty much useless.</p> <p>I'll present an input and a testing scenario and my model, a",
+    "title_zh": "如何针对特定场景上手智能体 AI？",
+    "summary_zh": "一位博士生在 Reddit 上调研如何将智能体 AI 应用于其专业领域的自动化工作流，询问关于框架搭建、工具选择以及部署环境的实操经验。",
+    "key_points": [
+      "博士研究者寻求将智能体 AI 应用于特定领域的指导",
+      "讨论涉及 LangChain、工具调用和环境搭建等技术选型"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8fa18f800f21390edf26d1c6746b50f1",
+    "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+    "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-28T16:15:30+00:00",
+    "content_snippet": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" [&#8230;]",
+    "title_zh": "Meta 称或将再次推迟备受争议的商业条款",
+    "summary_zh": "因出版商对 AI 训练的反对声浪，Meta 表示可能推迟原定 11 月 20 日实施的新商业条款，强调将在与行业充分协商后才能进行政策变更。",
+    "key_points": [
+      "Meta 因出版商反对推迟新的 AI 训练相关商业条款",
+      "公司承诺进行全面行业协商后再修改政策"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b01917f8b2b42f5c6fbffcb2c4ffbeed",
+    "title": "AI execs may be too out of touch to build for the general public",
+    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-28T15:53:52+00:00",
+    "content_snippet": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+    "title_zh": "AI 高管们可能脱离大众，难以为公众构建产品",
+    "summary_zh": "科技领袖们吹嘘自己如何利用 AI 维系家庭关系，这种表现引发了对其严重脱离普通大众生活的批评，外界担忧这会阻碍普惠型 AI 产品的落地。",
+    "key_points": [
+      "AI 高管炫耀用 AI 连接家人被批脱离大众",
+      "大众担心脱离现实的领导层无法打造贴近生活的 AI 产品"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a25dd0954befb28c4ebae1ed2b75105a",
+    "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+    "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-28T15:41:18+00:00",
+    "content_snippet": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+    "title_zh": "韩国金融业遭遇新一轮网络攻击",
+    "summary_zh": "韩国多家金融机构遭遇新一轮网络攻击，凸显了由 AI 驱动的黑客技术日益成为亚洲地区金融科技安全的重大威胁。",
+    "key_points": [
+      "韩国金融机构再次成为网络攻击目标",
+      "攻击凸显了 AI 驱动黑客技术在亚洲的潜在风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "418810575294c2df82ec74c5453a7f88",
+    "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-28T15:00:46+00:00",
+    "content_snippet": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified [&#8230;]",
+    "title_zh": "轻薄全能：NVIDIA RTX Spark Windows 笔记本电脑迎来新机型、智能体工具和游戏",
+    "summary_zh": "NVIDIA RTX Spark 平台赋能轻薄笔记本电脑，面向开发者、创作者和游戏玩家。华硕、戴尔、惠普、联想、微软和微星等厂商已推出相关机型，该平台在单一超级芯片中集成了 Blackwell RTX GPU 和 Grace CPU。",
+    "key_points": [
+      "NVIDIA RTX Spark 平台集成了 Blackwell GPU 和 Grace CPU",
+      "华硕、戴尔、惠普、联想、微软、微星推出新款 RTX Spark 笔记本"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4de33f2bccf585e4efdf418c7ba6e1d2",
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-28T15:00:00+00:00",
+    "content_snippet": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+    "title_zh": "语音 AI 正流行：英伟达发布新的开放转录模型",
+    "summary_zh": "英伟达发布了一款可转录多达 40 种语言的免费语音转文本模型，但仅适用于录音，不适用于实时音频。此举在会议和医疗转录工具领域迈出了重要一步，但实时应用领域仍由 ElevenLabs 等竞争对手主导。",
+    "key_points": [
+      "英伟达发布免费开源语音转文本模型，支持 40 种语言",
+      "模型仅支持录音转录，不支持实时音频"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "74376878bbbbb39ceb224695f715890d",
+    "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-28T14:44:00+00:00",
+    "content_snippet": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans [&#8230;]",
+    "title_zh": "xAI 欲收购居民房屋，以避免数据中心噪音诉讼",
+    "summary_zh": "马斯克旗下 xAI 的子公司提议收购密西西比州一社区的房屋，条件是居民不加入针对其附近数据中心和发电厂的诉讼。据报道，一名房地产经纪人正在该社区逐户寻求收购。",
+    "key_points": [
+      "xAI 试图通过收购房屋，避免数据中心噪音相关的法律诉讼",
+      "收购协议要求居民承诺不加入对 xAI 的诉讼"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f3c5c0e1800e8079f833bfcd8c7248b7",
+    "title": "AMA this Wednesday: Stephen “Cas” Casper, Harvard Kennedy School, on AI safeguards, incidents and governance (28 Oct, 3 to 4pm ET) [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhpnfs/ama_this_wednesday_stephen_cas_casper_harvard/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-28T14:30:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.reddit.com/r/ArtificialInteligence/comments/1xfuacm/ama_this_wednesday_stephen_cas_casper_harvard/\">https://www.reddit.com/r/ArtificialInteligence/comments/1xfuacm/ama_this_wednesday_stephen_cas_casper_harvard/</a></p> <p><a href=\"/r/ArtificialInteligence\">r/ArtificialInteligence</a> We have an AMA today Wednesday 28 October from 3 to 4pm ET (19:00 UTC, 20:00 CET) with Stephen “Cas” Casper, Assistant Professor of Public Policy at the Harvard",
+    "title_zh": "周三 AMA：哈佛肯尼迪学院 Stephen Casper 探讨 AI 安全、事件与治理",
+    "summary_zh": "哈佛肯尼迪学院的 Stephen 'Cas' Casper 将于周三在 Reddit 举办 AMA 活动，讨论人工智能的保障措施、事故和治理问题。活动时间为 10 月 28 日下午 3 点至 4 点。",
+    "key_points": [
+      "哈佛学者将举行 AMA 讨论 AI 安全、事故与治理",
+      "活动将于美东时间 10 月 28 日下午 3 点举行"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7b27b8e2d23d1e2020705c089e806c68",
+    "title": "We got 6.1 and still cannot count",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhplth/we_got_61_and_still_cannot_count/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-28T14:28:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xhplth/we_got_61_and_still_cannot_count/\"> <img alt=\"We got 6.1 and still cannot count\" src=\"https://preview.redd.it/k08l2gnex7yh1.png?width=140&amp;height=115&amp;auto=webp&amp;s=6a8019ddb8e684d12ede0e7c924845f50b5afe11\" title=\"We got 6.1 and still cannot count\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>GPT-6.1 Sol Extra High</p> <p><a href=\"https://preview.redd.it/k08l2gnex7yh1.png?width=801&amp;format=png&amp;au",
+    "title_zh": "我们拿到了 6.1 分，但仍然不会数数",
+    "summary_zh": "一篇 Reddit 帖子，标题暗示其讨论的 AI 模型在获得评分为 6.1 的情况下，仍然无法完成计数任务。内容仅为一张图片，无详细文字说明。",
+    "key_points": [
+      "Reddit 用户调侃 AI 模型评分虽高但仍不会计数"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "82fd8d1b603b914934ea898f23e7669d",
+    "title": "AI Odyssey - Part 5 ‘From Asimov to Banks’",
+    "url": "https://www.reddit.com/r/artificial/comments/1xho8gf/ai_odyssey_part_5_from_asimov_to_banks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-28T13:34:51+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xho8gf/ai_odyssey_part_5_from_asimov_to_banks/\"> <img alt=\"AI Odyssey - Part 5 ‘From Asimov to Banks’\" src=\"https://preview.redd.it/rzy78livn7yh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b300f1cbde96ddb16024317653a6990c00fdb6e2\" title=\"AI Odyssey - Part 5 ‘From Asimov to Banks’\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Saturday morning!! 1965 a trip to the swimming pool and the local sweet shop for Liquor",
+    "title_zh": "AI 漫游指南 - 第五部分 '从阿西莫夫到班克斯'",
+    "summary_zh": "这是一篇系列博客的第五部分，内容探讨从艾萨克·阿西莫夫到伊恩·班克斯等科幻作家作品中的 AI 概念。文章包含一张与主题相关的图片。",
+    "key_points": [
+      "探讨科幻作家阿西莫夫和班克斯作品中的 AI 概念"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a936c3aba4879aea68353834b46a3823",
+    "title": "[R] Taking EmbeddingGemma-2 (577M) from Rank #26 to #1 on the MAEB audio benchmark by filling its 256d null space with PCA-reduced intermediate Conformer layers (zero training) [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xho7pr/r_taking_embeddinggemma2_577m_from_rank_26_to_1/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-28T13:34:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Model &amp; weights: <a href=\"https://huggingface.co/BrunoHays/embeddinggemma-2-nullspace-audio\">BrunoHays/embeddinggemma-2-nullspace-audio</a></p> <p>I wanted to share an experiment on <code>google/embeddinggemma-2</code> (577M) for MAEB, the 30-task audio benchmark on the <a href=\"https://huggingface.co/spaces/mteb/leaderboard\">MTEB leaderboard</a>. By projecting intermediate Conformer layers into the unused null space of the model's final projection matrix us",
+    "title_zh": "[R] 通过 PCA 填充零空间，将 EmbeddingGemma-2 在 MAEB 音频基准上的排名从第 26 位提升至第 1 位",
+    "summary_zh": "一项实验展示了如何通过主成分分析（PCA）技术，利用 Conformer 模型的中间层信息填充 EmbeddingGemma-2 模型的 256 维零空间，无需额外训练，即可在 MAEB 音频基准测试中将排名从第 26 位大幅提升至第 1 位。",
+    "key_points": [
+      "通过 PCA 填充 EmbeddingGemma-2 模型的零空间以提升性能",
+      "在 MAEB 音频基准上排名从第 26 跃升至第 1，无需训练"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0b4fcc8ea945d7bdbe860c965e3641f6",
+    "title": "A harness that records where an LLM agent’s tool arguments came from, before the tool runs [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-28T13:11:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been thinking about AI agent safety, and I built a test harness to check my own results. I think it may be useful to people who study models too.</p> <p>It records where each tool argument came from before the tool executes, measures whether the same input gives the same decision, and tests whether a model takes arguments from someone else's text instead of its user's. </p> <p>If you modify the harness, it can probably be used for much more.</p> <p><a href=",
+    "title_zh": "[P] 记录 LLM 智能体工具参数来源的测试工具，在工具执行前运行",
+    "summary_zh": "一个用于 AI 智能体安全研究的测试工具项目。该工具能在智能体的工具执行前记录其每个参数的来源，并衡量相同输入是否会产生不同输出，旨在提升 LLM 智能体的可解释性和安全性。",
+    "key_points": [
+      "开发了一款记录 LLM 智能体工具参数来源的安全测试工具",
+      "可在工具执行前追溯参数来源，提升智能体可解释性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "66308a605ed5f6c0f071bf0b0f96733e",
+    "title": "UK Uses AI to Summarise Asylum Interviews: One in Five Checked Summaries Failed",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhnkxt/uk_uses_ai_to_summarise_asylum_interviews_one_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-28T13:07:21+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xhnkxt/uk_uses_ai_to_summarise_asylum_interviews_one_in/\"> <img alt=\"UK Uses AI to Summarise Asylum Interviews: One in Five Checked Summaries Failed\" src=\"https://external-preview.redd.it/qLjocRSqDE2s5NJCBL_C03adgkRE9GHS8kyBm4MkcOg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7bbfd9a7013b60022fca7416bf09e360bfe7dcc0\" title=\"UK Uses AI to Summarise Asylum Interviews: One in Five Checked Summaries Failed\" /> </a> </td><td",
+    "title_zh": "英国使用 AI 总结庇护面试，五分之一经检查的总结不合格",
+    "summary_zh": "英国政府使用人工智能来总结寻求庇护者的面试内容，但事后检查发现，五分之一的 AI 生成的总结未能通过审核，引发了对其在严肃政府流程中可靠性的担忧。",
+    "key_points": [
+      "英国政府在庇护面试中使用 AI 进行总结",
+      "审核发现五分之一的 AI 总结不合格，可靠性存疑"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "625cd70e87491200b888d98f5186989a",
+    "title": "The Download: dead startups fueling AI and interspecies communication",
+    "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-28T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s&#8230;",
+    "title_zh": "下载：已死初创公司的数据为 AI 供能，以及跨物种交流",
+    "summary_zh": "MIT Technology Review 的每日新闻通讯，本期内容包括：AI 实验室正在从已倒闭的初创公司购买数据来训练模型，以及科学家利用 AI 破译动物语言以实现跨物种交流的研究进展。",
+    "key_points": [
+      "AI 实验室购买已倒闭初创公司的数据用于模型训练",
+      "科学家利用 AI 技术探索实现跨物种交流的可能性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2b0a5d044d7f5155df8bc743590ed518",
+    "title": "Pairing industrial AI autonomy and human control",
+    "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-28T12:00:00+00:00",
+    "content_snippet": "",
+    "title_zh": "工业人工智能自主性与人类控制的结合",
+    "summary_zh": "文章探讨了如何在工业场景中平衡人工智能的自主决策能力与人类监督控制，确保安全有效的协作模式。",
+    "key_points": [
+      "工业AI需要平衡自主操作与人类监督",
+      "人机协作是保障安全与效率的关键"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6a00cf459c47b5db8a4ed3d57e0cb401",
+    "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-28T11:27:30+00:00",
+    "content_snippet": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with [&#8230;]",
+    "title_zh": "Meta悄然推出“AI宠物日记”应用",
+    "summary_zh": "Meta发布了一款名为Waddle World的电子宠物风格应用，虚拟生物可与用户聊天并绘制涂鸦，实际定位是一款伪装成宠物护理游戏的日常日记工具。",
+    "key_points": [
+      "Meta推出融合AI聊天和绘画功能的电子宠物应用",
+      "Waddle World本质上是一款日常日记工具"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c3668f0088864f208374861e4f04187d",
+    "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+    "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-28T11:00:49+00:00",
+    "content_snippet": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
+    "title_zh": "中国在太平洋海底电缆的活动增加大型科技公司风险",
+    "summary_zh": "美国拥有的跨太平洋海底电缆面临日益增长的破坏风险，谷歌和Meta等科技巨头的线缆被指处于高风险之中。",
+    "key_points": [
+      "美国跨太平洋海底电缆面临破坏风险",
+      "谷歌和Meta的海底电缆安全受关注"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
