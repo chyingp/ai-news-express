@@ -625,5 +625,472 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "dc33a09df2dbde611a4d52b9ec598c6e",
+    "title": "CPT’d Qwen9B on Polish legal data. How to make it chat? IMPORTANTLY: how to make it reason? and function call in my harness? and which to do first? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xi21f9/cptd_qwen9b_on_polish_legal_data_how_to_make_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-28T22:04:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>TLDR:</strong> training my first general law model and unsure what to do with my data</p> <p><strong>PRE-PS:</strong> it will be a replacement for opus in my current AI LAW harness, I know it will be hard but I wanna do this project and find it geniuenly fun.</p> <p>I’m building a Polish legal model using <strong>Qwen3.5-9B-BASE (I plan to scale up to 27b qwen4 later)</strong>. I’ve done CPT and have quite a bit of data available, but I’m getting lost ab",
+    "title_zh": "基于波兰法律数据微调 Qwen9B：如何实现聊天、推理和函数调用？",
+    "summary_zh": "作者正在训练一个通用法律模型，以替代现有 AI 法律工具中的 Opus。不确定如何处理数据，并就如何实现模型聊天、推理以及在自研框架中集成函数调用功能寻求建议，认为该项目充满乐趣。",
+    "key_points": [
+      "基于 Qwen9B 微调波兰法律领域模型",
+      "核心挑战在于实现聊天、推理和函数调用能力",
+      "该项目旨在替换现有工作流中的 Opus 模型"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "34b53368a5c19b91602d45edd7bceafb",
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-28T21:48:37+00:00",
+    "content_snippet": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+    "title_zh": "谷歌在全球扩展 AI 搜索广告，核心广告增长放缓",
+    "summary_zh": "谷歌母公司 Alphabet 公布第三季度财报，营收增至 1276 亿美元，同比增长 25%。与此同时，谷歌宣布在全球范围内扩展 AI 驱动的搜索广告，以应对核心广告业务增长放缓的趋势。",
+    "key_points": [
+      "Alphabet 第三季度营收 1276 亿美元，同比增长 25%",
+      "谷歌全球扩展 AI 搜索广告以应对广告增长放缓",
+      "此举标志着 AI 商业化变现的加速推进"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0406d5cc85465a90392f4466e1779cd3",
+    "title": "LLMs are significantly better at finding mistakes in papers than trained human reviewers",
+    "url": "https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-28T21:40:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/\"> <img alt=\"LLMs are significantly better at finding mistakes in papers than trained human reviewers\" src=\"https://preview.redd.it/pp2ver9g2ayh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9c85ae451b080334dc6517930473d2ef463a7b5c\" title=\"LLMs are significantly better at finding mistakes in papers than trained human reviewers\" /> </a> </td><td> <!-- SC_OFF --><di",
+    "title_zh": "研究发现 LLM 在发现论文错误方面显著优于训练有素的人类审稿人",
+    "summary_zh": "一项新研究揭示，大语言模型在识别学术论文中的错误方面，表现显著优于经过专业训练的人类审稿人，引发了关于 AI 辅助学术评审的广泛讨论。",
+    "key_points": [
+      "LLM 在论文错误检测上性能超越人类专家",
+      "研究结果可能重塑未来的学术同行评审流程",
+      "体现了语言模型在细致文本分析中的进步"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "65911ac3f4f50838b86edb6d63438f9c",
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-28T21:34:30+00:00",
+    "content_snippet": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+    "title_zh": "微软从 OpenAI 获得 100 亿美元营收",
+    "summary_zh": "微软公布截至 9 月 30 日的季度财报，称通过与 OpenAI 的商业合作（包括收入分成协议）获得了 100 亿美元的收入，这凸显了双方在财务上的巨大依赖关系。",
+    "key_points": [
+      "微软单季从 OpenAI 合作中录得 100 亿美元收入",
+      "收入来自双方的商业安排和分成协议",
+      "凸显了微软与 OpenAI 深度绑定的财务关系"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "microsoft",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cfb16e16d622d647a7a2f3b42939b5e0",
+    "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+    "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-28T21:34:04+00:00",
+    "content_snippet": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run [&#8230;]",
+    "title_zh": "Akai 拥抱氛围编程，推出开源 MPC 硬件",
+    "summary_zh": "Akai 展示了其未正式发布的 MPC Sample Key 硬件，并积极拥抱黑客和自定义固件开发社区。该设备将开源，以便让模组社区通过'氛围编程'自由创造新功能。",
+    "key_points": [
+      "Akai 展示未发布的开源 MPC 硬件并拥抱模组社区",
+      "设备支持氛围编程，鼓励第三方自定义固件开发",
+      "提前给予开发者使用权限以激发硬件创新"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1a03c7011eafc46533d303f5d9500563",
+    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-28T21:25:30+00:00",
+    "content_snippet": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+    "title_zh": "微软连续 10 个季度创下创纪录营收",
+    "summary_zh": "微软公布最新季度营收达到 923 亿美元，同比增长 19%，这是该公司连续第 10 个季度实现创纪录的营收，显示出在当前人工智能浪潮下的强劲财务状况。",
+    "key_points": [
+      "微软季度营收 923 亿美元，同比增长 19%",
+      "实现连续 10 个季度创纪录的营收里程碑",
+      "AI 业务成为推动微软财务增长的关键动力"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cb78b67f14f162048f4402fb1854f5dc",
+    "title": "Hochul signs AI chatbot and baby monitor regulations",
+    "url": "https://www.reddit.com/r/artificial/comments/1xi04ex/hochul_signs_ai_chatbot_and_baby_monitor/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-28T20:49:19+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xi04ex/hochul_signs_ai_chatbot_and_baby_monitor/\"> <img alt=\"Hochul signs AI chatbot and baby monitor regulations\" src=\"https://external-preview.redd.it/Ai2gGRS08LCo_MEHKFnwnRAFsILWfJ_qb8Zvf4cedPc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=424af1557eab0f499d88580786577e033ce77acb\" title=\"Hochul signs AI chatbot and baby monitor regulations\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/use",
+    "title_zh": "纽约州长签署 AI 聊天机器人和婴儿监视器监管法案",
+    "summary_zh": "美国纽约州州长霍楚签署了一项针对 AI 聊天机器人和婴儿监视器的监管法规，旨在加强对儿童和消费者在 AI 交互中的安全保护与隐私管理。",
+    "key_points": [
+      "纽约州正式立法监管 AI 聊天机器人和婴儿监视器",
+      "法规重点在于保护儿童安全与防止隐私泄露",
+      "反映了地方层面收紧 AI 应用监管的趋势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "00e8fd6c1f9be6657d2ac7348af5933d",
+    "title": "OpenAI reportedly plans to buy Google's AI chips (TPUs) — rivals becoming each other's suppliers",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-28T20:42:44+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Reuters reported on Tuesday (Oct 28), citing The Information and a person familiar with the matter, that OpenAI plans to buy Google's AI chips (TPUs). No financial terms were disclosed, and both companies declined to comment or did not immediately respond. The report follows last week's news that OpenAI will make its frontier models available through Google Cloud, and a June 2025 Reuters report that OpenAI had begun renting Google's TPUs.</p> <p>The context: Goo",
+    "title_zh": "OpenAI 计划采购谷歌 TPU 芯片，竞争对手互为供应商",
+    "summary_zh": "据路透社报道，OpenAI 正计划采购谷歌的 AI 芯片（TPU）。若交易达成，这两家在 AI 领域激烈竞争的对手将在硬件供应链上形成一种新的合作关系。",
+    "key_points": [
+      "OpenAI 计划采购谷歌 TPU 芯片用于 AI 训练",
+      "交易若达成将重塑两家竞争对手的供应关系",
+      "具体财务条款尚未披露且双方拒绝置评"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "52fa9eb7caabe7399ebba1c7f33ea528",
+    "title": "Creating AI value with enterprise context",
+    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-28T20:32:02+00:00",
+    "content_snippet": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a&#8230;",
+    "title_zh": "利用企业上下文创造 AI 价值",
+    "summary_zh": "文章探讨了企业中存在多套 AI 系统并行运行的现象，包括客户平台和流程自动化工具。重点在于如何通过有效整合和提供丰富的企业上下文数据，来真正释放这些 AI 工具的商业价值。",
+    "key_points": [
+      "企业面临多种 AI 工具同时运行的信息孤岛问题",
+      "实现 AI 价值的关键在于注入和整合企业上下文数据",
+      "探讨客户平台与自动化工具间的协同工作挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "203e1ae8f43f5b720060c627f2571c5c",
+    "title": "I made an interactive AI city that shows how life changes from 1956 to 2050",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhzg1v/i_made_an_interactive_ai_city_that_shows_how_life/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-28T20:23:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I built an interactive city that shows how AI could change daily life, from 1956 to 2050</p> <p>👉 <a href=\"https://ai-world-2050.pages.dev\">https://ai-world-2050.pages.dev</a></p> <p>It covers one room and one city across the eras, and the 2030s split into three possible futures. Every forecast cites its source, and the news updates every day.</p> <p>Try it and check the numbers. If something looks off, tell me.</p> </div><!-- SC_ON --> &#32; submitted by &#32; ",
+    "title_zh": "开发者构建展示 1956 至 2050 年生活变化的互动 AI 城市",
+    "summary_zh": "一位开发者建立了一个互动式 AI 城市模型，可视化展示了从 1956 年到 2050 年人工智能如何改变人们的日常生活，并细化了 2030 年代的三种发展路径。",
+    "key_points": [
+      "互动模型展示从 1956 到 2050 年 AI 对生活的影响",
+      "项目特别细化了 2030 年代的不同技术发展路线",
+      "通过可视化的方式展示 AI 的长期社会变迁"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5e0dbd246e9dc96cbf6a3c812384fbef",
+    "title": "Open Source Project to help Secure LLM powered Applications",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhzatd/open_source_project_to_help_secure_llm_powered/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-28T20:18:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We built extensible-mcp to help folks build LLM powered applications securely. From a technical perspective it is an MCP proxy capable of loading new MCP Servers dynamically without polluting the LLM’s context while providing Zero Trust policy controls to manage all tool calls. </p> <p>Policies and sensitive credentials are maintained and applied outside the LLMs purview. Policies can be written in any of Rego, CEL, and, with the latest release, Cedar. Tool defi",
+    "title_zh": "开源项目助力构建安全的 LLM 应用",
+    "summary_zh": "一个名为 extensible-mcp 的开源项目发布，作为 MCP 代理可动态加载新 MCP 服务器，通过零信任策略确保 LLM 应用安全，避免污染模型上下文。",
+    "key_points": [
+      "extensible-mcp 作为代理实现动态加载 MCP 服务器",
+      "采用零信任策略控制管理 LLM 应用安全"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8bdc1d3d9ec7a6e4e97a53e48d865e8e",
+    "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+    "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-28T20:03:00+00:00",
+    "content_snippet": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over [&#8230;]",
+    "title_zh": "Google 发布 Gemini 4 Carbon，网络安全能力大幅提升",
+    "summary_zh": "Google 推出最新前沿模型 Gemini 4 Carbon，在编码、代理任务和网络安全方面有显著提升，在人工分析智能指数基准测试中排名第一。",
+    "key_points": [
+      "Gemini 4 Carbon 在编码和网络安全方面表现突出",
+      "该模型在 Artificial Analysis Intelligence Index 基准测试中排第一"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b2173123b9bf5b7b31e0f2490e63a69e",
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-28T19:19:58+00:00",
+    "content_snippet": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+    "title_zh": "Anthropic 推出工具帮助公司了解 AI 支出回报",
+    "summary_zh": "Anthropic 发布新工具，让企业客户能够清晰了解在模型上的花费所带来的价值，此举发生在其计划首次公开募股之前。",
+    "key_points": [
+      "新工具揭示用户在 Anthropic 模型上的支出回报",
+      "该举措发生在公司计划 IPO 的背景下"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e0fde9d76dfcab43c463a74ee091f2c4",
+    "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+    "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-28T18:50:39+00:00",
+    "content_snippet": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the [&#8230;]",
+    "title_zh": "\"漏洞末日\"即将来临，互联网老代码面临危机",
+    "summary_zh": "Wiz 首席技术官警告，广泛使用的 PHP 语言曝出两个严重漏洞，影响约70%网站，修复工作远未结束，互联网老代码的安全危机正在逼近。",
+    "key_points": [
+      "PHP 两处严重漏洞影响约 70% 的网站",
+      "修复工作复杂，部分网站被迫下线以等待补丁"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0ee110650c52b9d575af80b22ae3e741",
+    "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+    "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-28T18:47:27+00:00",
+    "content_snippet": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+    "title_zh": "Google 发布无法使用的 Gemini 4 Carbon 前沿模型",
+    "summary_zh": "Ars Technica 报道称，Google 正式发布了其最新的前沿 AI 模型 Gemini 4 Carbon，但普通用户目前无法使用，其本质是 Argon 模型的微幅改进版。",
+    "key_points": [
+      "Gemini 4 Carbon 是 Google 最新前沿模型",
+      "该模型仅比前代 Argon 有少量改进，且暂不向公众开放"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3a6e219abc13c7e9f1522294248cfd5b",
+    "title": "Microsoft is ending Copilot support on smart TVs",
+    "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-28T18:36:26+00:00",
+    "content_snippet": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, [&#8230;]",
+    "title_zh": "微软即将终止智能电视上的 Copilot 支持",
+    "summary_zh": "据报道，微软将在今年内结束对 LG 和三星智能电视上 Copilot AI 助手的支持，该功能在两年前的 CES 上宣布合作推出。",
+    "key_points": [
+      "微软将停止在 LG 和三星智能电视上的 Copilot 服务",
+      "此合作于两年前 CES 宣布，持续不足两年"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7c578f53ebc27924dc091f5b3887e978",
+    "title": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-28T17:52:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B. The student finds its own first wrong step and writes a critique. A frozen copy, conditioned on the prefix plus the critique, is distilled back into the student under reverse KL. Notably, replacing the critique with a fixed generic feedback line <strong>matches</strong> the full gain of about 3 points, and critiques from a 6x larger model do not materially improve performance",
+    "title_zh": "研究：事后自我蒸馏中通用反馈与自写反思效果相当",
+    "summary_zh": "一项 ACM ICAIF 2026 论文研究事后自我蒸馏方法，在金融推理任务中发现，一条通用反馈提示能达到与模型自写反思类似的效果。",
+    "key_points": [
+      "研究对比了事后自我蒸馏中的通用反馈与自写反思",
+      "结果显示通用反馈提示可在多步推理任务中替代自写反思"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ca9347041e63a97216e8fb7d1e820695",
+    "title": "SenseNova open-sourced a 27B model that makes videos by writing code, and published full production logs too",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhv6bq/sensenova_opensourced_a_27b_model_that_makes/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-28T17:49:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It's called Code2Video. Rather than generating pixels the way video models do, it writes a program for each shot, renders it, looks at the frames and revises the code.</p> <p>I think the reasoning holds up for a certain kind of video. If a ball bounces, the bounce comes from the physics in the code, not from what bounces usually look like. Text, formulas and chart numbers get typed in from the source, so they don't come out as gibberish. And since every element ",
+    "title_zh": "SenseNova 开源 27B 模型：通过编写代码生成视频",
+    "summary_zh": "SenseNova 开源了名为 Code2Video 的 27B 参数模型，该模型通过编写和修改渲染程序而非直接生成像素来创建视频，并公布了完整生产日志。",
+    "key_points": [
+      "模型通过编写可渲染的程序来生成视频内容",
+      "项目完全开源，并公开了完整生产流程日志"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fb4a5a6acb5ff8a16d888630c0716b96",
+    "title": "Google AI gets cagey when asked who won the 2020 elections",
+    "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-28T17:46:32+00:00",
+    "content_snippet": "But the AI responses get more forthright when asked outside the US.",
+    "title_zh": "Google AI 在被问及 2020 大选结果时闪烁其词",
+    "summary_zh": "测试发现，Google AI 在回答谁赢得 2020 年美国总统大选的问题时表现回避，但当提问者位于美国以外地区时，其回答则更加直接。",
+    "key_points": [
+      "Google AI 对美国大选结果的回答因地域而异",
+      "在美国境内提问时回答闪烁其词，境外则更直接"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
