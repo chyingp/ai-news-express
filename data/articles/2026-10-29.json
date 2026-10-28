@@ -554,5 +554,76 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "355b4d9519a1d45e38607171706ecf34",
+    "title": "The Clayton’s Name Change For AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhukol/the_claytons_name_change_for_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-28T17:27:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>There is something profoundly odd about a political leader deciding that one of the most consequential technologies humanity has ever developed should be renamed because he dislikes the word used to describe it.</p> <p>First, Lake Ontario becomes “Lake America” and now there is a signed an executive order replacing <em>Artificial Intelligence</em> with <em>Super Intelligence</em> across the executive branch.</p> <p>OK! That makes sense - not! But what is equally",
+    "title_zh": "克莱顿式的AI名称变更",
+    "summary_zh": "文章批评一位政治领导人因个人喜好而试图为人工智能这一重要技术重新命名的做法，认为此举既奇怪又意义重大，并类比了将安大略湖更名为'美国湖'等行为。",
+    "key_points": [
+      "政治领导人因不喜欢原有词汇而试图重命名AI技术",
+      "文章认为此举对重大技术的发展显得奇怪且不负责任"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2755194358e3029f047485dc37705a39",
+    "title": "Gemini 4 Carbon Ranks #1 on Artificial Analysis V5",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhuemz/gemini_4_carbon_ranks_1_on_artificial_analysis_v5/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-28T17:22:05+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xhuemz/gemini_4_carbon_ranks_1_on_artificial_analysis_v5/\"> <img alt=\"Gemini 4 Carbon Ranks #1 on Artificial Analysis V5\" src=\"https://preview.redd.it/cdb76ljes8yh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=05d3586f4086808d268660079cb505d2d383f23f\" title=\"Gemini 4 Carbon Ranks #1 on Artificial Analysis V5\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kairosdev\"> /u/kairosdev </a> &#3",
+    "title_zh": "Gemini 4 Carbon在Artificial Analysis V5排行榜上排名第一",
+    "summary_zh": "谷歌的Gemini 4 Carbon模型在独立分析机构Artificial Analysis最新的V5评估中综合表现排名第一，展现了其强大的技术竞争力。",
+    "key_points": [
+      "谷歌Gemini 4 Carbon模型在V5基准测试中夺冠",
+      "该排名由第三方独立分析机构Artificial Analysis发布"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5c7eb630057b0984147d3ad6d816dbff",
+    "title": "Cocktail-party audio as a reverse Turing test: humans beat speech models, but not by enough [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xhuado/cocktailparty_audio_as_a_reverse_turing_test/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-28T17:17:59+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello - I wanted to share a small project I worked on test whether picking one voice out of background chatter could separate humans from machines, in the spirit of an audio CAPTCHA.</p> <p><strong>Setup</strong></p> <ul> <li>40 synthetic clips: one target sentence read by a synthetic voice, mixed over multiple background voices reading random short fragments (staggered starts, 4 dB attenuation)</li> <li>146 human transcriptions from 18 sessions, unlimited repla",
+    "title_zh": "鸡尾酒会音频作为反向图灵测试：人类胜出，但优势不足",
+    "summary_zh": "一项研究通过让参与者从背景噪音中识别特定语音的任务，来测试人类与语音模型的区分度。结果显示人类表现优于模型，但两者间的差距正在缩小。",
+    "key_points": [
+      "研究使用鸡尾酒会问题作为区分人类与AI的音频验证码",
+      "人类在分离语音任务上仍优于模型，但差距有限"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
