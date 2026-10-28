@@ -1035,5 +1035,148 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "208ad89ef123fe38af78afd73fe4cfa7",
+    "title": "Why hasn’t Google acquired OpenAI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhjud6/why_hasnt_google_acquired_openai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-10-28T09:57:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Given Google’s massive resources, AI expertise, and the strategic importance of ChatGPT, why hasn’t Google attempted to acquire OpenAI? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Icy-Visual1206\"> /u/Icy-Visual1206 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xhjud6/why_hasnt_google_acquired_openai/\">[link]</a><",
+    "title_zh": "为何谷歌没有收购 OpenAI？",
+    "summary_zh": "Reddit 用户讨论谷歌拥有庞大资源与 AI 专长，为何未曾尝试收购战略意义重大的 OpenAI 及其产品 ChatGPT。",
+    "key_points": [
+      "探讨谷歌未收购 OpenAI 的战略与竞争原因",
+      "焦点在于 ChatGPT 对谷歌核心业务的潜在威胁"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "87c30b1210a8d91b7e70ae2d0f097dcb",
+    "title": "Legora is building the agentic operating system for legal work",
+    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-28T09:30:00+00:00",
+    "content_snippet": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "title_zh": "Legora 正在构建法律工作的智能体操作系统",
+    "summary_zh": "文章介绍 Legora 如何利用 OpenAI 模型、ChatGPT 和 Codex 加速法律工作流程、扩展合同分析，让律师能专注于更高价值的工作。",
+    "key_points": [
+      "Legora 通过 OpenAI 技术为法律行业构建智能体操作系统",
+      "该应用可加速合同分析与法律工作流程"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "efc21ab1b688aff202f1378eff0004f3",
+    "title": "Philologists have reasoned from fragmentary evidence for 200 years. LLMs still confabulate when context is missing.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhj4rf/philologists_have_reasoned_from_fragmentary/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究讨论",
+    "language": "en",
+    "published": "2026-10-28T09:12:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Of everything Thales supposedly wrote, not one authenticated word survives. Anaximander wrote the first prose treatise in the Greek tradition. Today it exists as roughly one sentence, preserved only because Aristotle quoted it and Simplicius, almost a thousand years later, copied that quotation. Heraclitus comes down in scattered aphorisms, most of them embedded in sermons of church fathers who quoted him to refute him.</p> <p>And yet classical philology built a",
+    "title_zh": "语言学家从碎片证据推理已两百年，LLM 仍在缺失上下文时胡编乱造",
+    "summary_zh": "文章对比语言学家基于残缺证据的推理传统与 LLM 在信息缺失时的编造行为，用古希腊哲学文本流传的实例进行说明。",
+    "key_points": [
+      "语言学家能从一两句话的残篇中推理出千年背景",
+      "LLM 在面对缺失上下文时仍会产生编造信息"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "33c4a9bf4639a1907e00f7dd0cdbe1dc",
+    "title": "I asked 200+ Redditors what goes into a social contract for a world where AI does most of the work. The top answer was a question: who decides?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhiakn/i_asked_200_redditors_what_goes_into_a_social/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业评论",
+    "language": "en",
+    "published": "2026-10-28T08:18:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Over the past two months I posted one question in several Reddit communities: if AI and robots end up doing most of the work, what should go into the new social contract?</p> <p>Across those threads, more than 200 replies came back.</p> <p>The thing I heard most was not a rule. It was a question: who decides? Many said the rich and powerful will write the rules anyway.</p> <p>After that, people asked for:</p> <p>- enforcement, so the rules actually bite</p> <p>-",
+    "title_zh": "AI 承担大部分工作后，社会契约如何重塑？200 多位 Reddit 用户的首问：由谁决定？",
+    "summary_zh": "在 Reddit 上关于 AI 时代新社会契约的讨论中，200 多位参与者最核心的关切并非具体条款，而是谁拥有最终决定权。",
+    "key_points": [
+      "AI 取代多数工作后新社会契约的核心问题是如何制定",
+      "参与者普遍认为首要问题是谁来制定这些契约"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "65c26b84d69f1db8bb0cf3c3798d6bb4",
+    "title": "In China’s enterprise AI market, a specific application may be easier to sell than a platform",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhhkcl/in_chinas_enterprise_ai_market_a_specific/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业评论",
+    "language": "en",
+    "published": "2026-10-28T07:30:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My hypothesis for China’s enterprise AI market: over the next six months, smaller vendors will have a better chance selling a concrete application than a general “agent platform.”</p> <p>A platform asks the buyer to imagine future value, choose workflows, organize data, and often build part of the solution themselves.</p> <p>A focused application can make a narrower promise: process these documents, reconcile these records, or prepare this report.</p> <p>That al",
+    "title_zh": "在中国企业 AI 市场，具体应用可能比平台更好卖",
+    "summary_zh": "一种观点认为，未来半年内在中国的企业 AI 市场中，具有明确应用场景的垂类应用要比要求客户自己规划价值的通用智能体平台更具销售优势。",
+    "key_points": [
+      "中国企 AI 市场的具体应用比通用平台更容易商业化",
+      "平台决策涉及多部门协调，复杂性高"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "98662d005ee409afa893bd967735d095",
+    "title": "Could today’s frontier AI independently solve the protein folding problem?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xhgxov/could_todays_frontier_ai_independently_solve_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究讨论",
+    "language": "en",
+    "published": "2026-10-28T06:50:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>With the back drop of AI in one month having solved one millennium problem and provided partial solutions to two more.</p> <p>As the headline says, would a frontier model today with an unlimited token budget be able to on its own just based on a prompt giving it the direction solve the protein folding problem that was solved by deep mind with the help of AI and awarded the Nobel prize?</p> <p>The hard version of this is that it correctly figures out the mechanis",
+    "title_zh": "当今的顶尖 AI 能否独立解决蛋白质折叠问题？",
+    "summary_zh": "文章探讨在 AI 已解决一个千禧年大奖难题并部分解决其他难题的背景下，拥有无限 Token 预算的前沿模型是否能仅靠提示词独立破解蛋白质折叠问题。",
+    "key_points": [
+      "评估顶级 AI 模型凭原始提示词解决蛋白质折叠难题的能力",
+      "背后基于 AI 近期在数学千禧难题上的突破性表现"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
