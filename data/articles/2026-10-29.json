@@ -1092,5 +1092,53 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a316ee58ff908bfcf24c0ce5573bca98",
+    "title": "any fun casual podcasts? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xi7cvk/any_fun_casual_podcasts_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-10-29T01:55:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Does anyone know any fun casual conversational style podcasts that discuss current papers/industry trends, with discussions at a high to mid technical level?</p> <p>Edit: small preference for conversation discussion styles between two constant hosts </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Upstairs-Cry-9233\"> /u/Upstairs-Cry-9233 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearn",
+    "title_zh": "有什么有趣的闲聊类机器学习播客推荐吗？",
+    "summary_zh": "一位Reddit用户发帖询问，是否有风格轻松、两人对谈形式的播客，能以中高技术水平讨论最新的论文和行业趋势。",
+    "key_points": [
+      "用户寻找轻松对谈风格的机器学习播客",
+      "要求内容涉及最新论文和行业趋势的中高技术讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5536851b9ba28ab5b925a800ca2a3810",
+    "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "en",
+    "published": "2026-10-28T23:05:39+00:00",
+    "content_snippet": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and [&#8230;]",
+    "title_zh": "Instagram负责人称人们对AI的负面情绪“会变得更糟”",
+    "summary_zh": "Instagram负责人亚当·莫塞里在播客采访中表示，很多人确实不喜欢AI，这不仅仅是年轻人和创意工作者，并认为这种负面情绪将会加剧。",
+    "key_points": [
+      "Instagram负责人莫塞里承认人们对AI的负面情绪普遍存在",
+      "他认为这种负面情绪未来会变得更严重"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
