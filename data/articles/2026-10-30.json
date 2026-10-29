@@ -555,5 +555,301 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "eadfc5a6b5e474c39092113ea28213cb",
+    "title": "if ai is already here to stay and we can’t get rid of it, are there was to make clear rules on using clean energy, keeping humans employed even at entry level jobs like cashier or working at coffee shop, human doctors, and just have ai help out not completely take over the world? includes humanoids.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xivz66/if_ai_is_already_here_to_stay_and_we_cant_get_rid/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-29T20:56:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>just wondering. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Opposite_List_303\"> /u/Opposite_List_303 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xivz66/if_ai_is_already_here_to_stay_and_we_cant_get_rid/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1xivz66/if_ai_is_already",
+    "title_zh": "如何制定规则让AI作为辅助而非完全取代人类工作？",
+    "summary_zh": "一位Reddit用户发帖探讨，既然人工智能已无法被抛弃，能否通过制定明确规则，确保人类就业（如收银员、咖啡师、医生等），让AI仅作辅助，而非全面接管社会与工作，包括人形机器人。",
+    "key_points": [
+      "探讨AI时代如何保障人类基础就业岗位",
+      "呼吁制定法规限制AI完全替代人类",
+      "涉及人形机器人的应用边界讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5a2f7c255453991fe835c33d4b52d508",
+    "title": "W(2;3,21) = 416 - a van der Waerden number conjectured by Kullmann in 2010, now proved with a Lean 4 kernel-checked proof [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xivpue/w2321_416_a_van_der_waerden_number_conjectured_by/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-29T20:46:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>w(2;3,21) = 416 - today proved with a Lean 4 kernel-</strong><br /> <strong>checked proof</strong> (preprint + 13.6 GB evidence package).</p> <p>Every red-blue colouring of {1, ..., 416} contains a red 3-term or a blue 21-term arithmetic progression, and some colouring of {1, ..., 415} contains neither.</p> <p>Kullmann conjectured the value in 2010; DeepMind's Formal Conjectures list still carried it as open this year.</p> <p>The proof is a Lean 4 theore",
+    "title_zh": "数学家利用Lean 4证明范德瓦尔登数猜想W(2;3,21)=416",
+    "summary_zh": "一篇预印本论文宣布，利用Lean 4定理证明器，通过内核检查的方式，证明了康曼于2010年提出的范德瓦尔登数猜想W(2;3,21)的值为416。",
+    "key_points": [
+      "用Lean 4正式化证明了数学猜想W(2;3,21)=416",
+      "提供了13.6GB的证据包和内核检验证明",
+      "属于AI辅助数学证明领域的进展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f340982c808480896ca25dd015e1664d",
+    "title": "Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand — $63 million injection is the largest investment in tape for 20 years",
+    "url": "https://www.reddit.com/r/artificial/comments/1xivhhm/fujifilm_plans_5x_production_boost_of_100tb/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-29T20:37:16+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xivhhm/fujifilm_plans_5x_production_boost_of_100tb/\"> <img alt=\"Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand — $63 million injection is the largest investment in tape for 20 years\" src=\"https://external-preview.redd.it/YgBt6eM1dbynAuuzLwEVArB2Tt6WavgE_x6PLUT82yc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c5a88d225d630f198695e260473cbf4f3703cba\" title=\"Fuj",
+    "title_zh": "富士胶片拟将100TB磁带产量提升5倍以满足AI存储需求",
+    "summary_zh": "受人工智能存储需求激增推动，富士胶片计划投资6300万美元，将100TB容量的磁带存储介质产量提升5倍，这是20年来对磁带业务的最大投资。",
+    "key_points": [
+      "富士胶片投资6300万美元扩产磁带存储",
+      "产量将提升5倍以满足AI数据存储需求",
+      "此乃20年来对磁带生产领域的最大投资"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "60144b1613db26a481deb8e80aef478c",
+    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-29T20:08:31+00:00",
+    "content_snippet": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+    "title_zh": "搜索流量枯竭，Reddit宣布转向强制登录体验",
+    "summary_zh": "随着AI改变人们在线获取信息的方式，Reddit正在重新思考其开放网络的根基，宣布将转向强制用户登录的体验，以保护其受众和商业利益。",
+    "key_points": [
+      "Reddit因AI冲击开放网络流量而寻求变革",
+      "转向登录制体验以保护用户数据和商业模式",
+      "应对AI摘要直接替代传统网页搜索的挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5a02832e79560891f44a5e6267a0de57",
+    "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+    "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-29T20:08:10+00:00",
+    "content_snippet": "Inspector general rejected request from Democratic and Republican senators.",
+    "title_zh": "美国防部监察长拒绝调查星链/星盾在乌克兰降速事件",
+    "summary_zh": "美国国防部监察长拒绝了来自民主党和共和党参议员的请求，决定不对星链和星盾服务在乌克兰地区出现速度减缓的情况展开调查。",
+    "key_points": [
+      "两党参议员要求调查星链在乌降速被拒",
+      "国防部监察长决定不对此事展开调查",
+      "事件涉及星链/星盾军事应用与地缘政治"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "223b05929cb398d87f413bb1ea3f537e",
+    "title": "Rivian expands joint venture with VW to include AI assistant",
+    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-29T20:05:47+00:00",
+    "content_snippet": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+    "title_zh": "Rivian扩大与大众合资范围，新增AI助手合作",
+    "summary_zh": "美国电动汽车制造商Rivian扩大与大众汽车集团的合资企业合作范围，计划引入人工智能助手功能。但未透露价值58亿美元的合资项目是否会因此增加规模。",
+    "key_points": [
+      "Rivian与大众的合资将拓展AI助手功能",
+      "双方合资目前价值58亿美元",
+      "未公布新合作是否增加投资金额"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "db83db5c214c0a3981122c22af6f5a06",
+    "title": "OpenAI-backed Thrive Holdings acquires ADT",
+    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-29T19:56:19+00:00",
+    "content_snippet": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+    "title_zh": "OpenAI支持的Thrive Holdings以153亿美元收购ADT",
+    "summary_zh": "由OpenAI支持的Thrive Holdings宣布以153亿美元的交易价格收购家居安防公司ADT，计划将人工智能技术引入家庭安防业务。",
+    "key_points": [
+      "Thrive Holdings以153亿美元收购ADT",
+      "交易方获得OpenAI支持并计划引入AI技术",
+      "目标是将人工智能深入整合至家庭安防系统"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "037c43a2e9b5c15c234d09323913701c",
+    "title": "Google unveils Gemini 4 Carbon, a cybersecurity-focused frontier model — and vetted defenders get it first",
+    "url": "https://www.reddit.com/r/artificial/comments/1xiuc3w/google_unveils_gemini_4_carbon_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-10-29T19:55:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Google announced Gemini 4 Carbon on Oct 28, calling it its strongest Gemini 4-era model, built for cybersecurity and long-horizon engineering work. Per Google’s figures, it scores 88.2% on SEC-bench Pro (finding real vulnerabilities), 54.8% on ExploitGym (validating exploits), and 71.0% on CWE-bench (patching), and it tops the Artificial Analysis Intelligence Index v5 at 59. These are company-reported numbers; independent reproduction is still pending.</p> <p>Th",
+    "title_zh": "谷歌发布 Gemini 4 Carbon，一款面向网络安全的旗舰模型",
+    "summary_zh": "谷歌发布 Gemini 4 Carbon，称其为 Gemini 4 时代最强模型，专为网络安全和长期工程任务打造。在漏洞发现基准测试中取得了高分，并优先向受信任的防御者开放。",
+    "key_points": [
+      "谷歌发布专攻网络安全领域的最强前沿模型",
+      "在漏洞发现基准测试（SEC-bench Pro）达88.2%",
+      "优先向经过审核的防御者开放使用"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5d9d7808457b118e410aba114f94234e",
+    "title": "Meta quietly launches an AI fashion app called Style Sketch",
+    "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-29T19:14:36+00:00",
+    "content_snippet": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+    "title_zh": "Meta悄然推出AI时尚应用“Style Sketch”",
+    "summary_zh": "Meta低调发布了一款名为 Style Sketch 的AI时尚应用，该应用可以连接用户的Instagram账户，利用用户分享的照片构建虚拟衣橱，或允许用户手动添加物品照片。",
+    "key_points": [
+      "Meta推出AI时尚应用Style Sketch",
+      "可连接Instagram照片构建虚拟衣橱",
+      "支持手动拍照或上传管理服饰"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6a43f5f4412b95a256a27403deff041e",
+    "title": "Is Selling Website Redesigns Easier Than Building Websites From Scratch?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xit48t/is_selling_website_redesigns_easier_than_building/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-29T19:08:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>When I first started doing cold email for web design, I thought the goal was pretty simple.</p> <p>Find enough businesses, send enough emails, and eventually some people will be interested.</p> <p>And to be fair, it worked. But I always felt like there was something missing.</p> <p>Most of my emails were basically the same message with a different name at the top. I was offering web design services, but I wasn't giving people a particularly good reason to care.<",
+    "title_zh": "销售网站改版是否比从零搭建网站更容易？",
+    "summary_zh": "一名Reddit用户发帖讨论，在从事网站建设冷邮件推广时，发现销售网站改版服务似乎比说服客户从零开始搭建全新网站要容易得多，并分享相关的业务洞察。",
+    "key_points": [
+      "探讨销售网站改版与新建网站的业务难度",
+      "分享AI/网页设计领域的冷邮件营销经验",
+      "讨论内容偏向商业技巧而非AI技术"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8439773cf2844d814c0a34e2da9f70c9",
+    "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-29T18:45:31+00:00",
+    "content_snippet": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in [&#8230;]",
+    "title_zh": "你现在可以直接在 Gemini 对话中生成和编辑谷歌文档",
+    "summary_zh": "谷歌为 Gemini 推出了新的文件编辑功能，用户可以直接在聊天界面内生成、预览和编辑 PDF、Google Docs、表格、幻灯片、Markdown 等多种格式的文件。",
+    "key_points": [
+      "Gemini 新增多格式文档生成与编辑功能",
+      "支持在聊天中直接操作 PDF、Docs 等文件",
+      "该功能即日起面向所有 Gemini 用户开放"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "72117db35823a11a3966f3c2e3c3737f",
+    "title": "Granola crunches up a dictation feature to compete with Wispr",
+    "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-29T17:54:38+00:00",
+    "content_snippet": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+    "title_zh": "Granola 推出听写功能以与 Wispr 竞争",
+    "summary_zh": "AI 会议笔记应用 Granola 新增了听写功能，直接对标此前已添加会议记录功能的听写应用 Wispr，语音 AI 领域的竞争日趋白热化。",
+    "key_points": [
+      "Granola 反向跨界推出听写功能",
+      "竞争对手 Wispr 此前已添加会议笔记",
+      "语音 AI 赛道产品功能趋同，竞争加剧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
