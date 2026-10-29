@@ -1140,5 +1140,100 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7ba3c2c6db98aefe0cdf2293c94f420d",
+    "title": "Has anyone gotten BiRefNet to work on mobile NPUs and GPUs? especially Qualcomm [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xienbl/has_anyone_gotten_birefnet_to_work_on_mobile_npus/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-29T08:51:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've been trying to get BiRefNet to work on Qualcomm's mobile GPUs and NPUs. But i guess it's deformable convolutions are pretty complex for those chips. I want a sub second latency performance on these chips for a project I'm doing</p> <p>Has anyone tried it before? I'm trying to compile it to their NPUs but they're all failing</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/subhashg547\"> /u/subhashg547 </a> &#32; to &#32;",
+    "title_zh": "有人成功在移动端NPU/GPU上运行BiRefNet吗？特别是高通芯片",
+    "summary_zh": "一位开发者正在尝试将BiRefNet模型部署到高通移动GPU和NPU上，但其可变形卷积复杂度高，导致难以实现亚秒级延迟，特此向社区寻求经验与帮助。",
+    "key_points": [
+      "BiRefNet模型的可变形卷积在移动芯片上难以高效运行",
+      "作者寻求在高通设备上实现亚秒级延迟的部署方案"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "af5963fa9c28a3320c40ffbc3cfc103f",
+    "title": "New AA intelligence index v5 with “Private tests” conveniently upranks GPT, Google’s models, while open weights chinese models downrank",
+    "url": "https://www.reddit.com/r/artificial/comments/1xiein9/new_aa_intelligence_index_v5_with_private_tests/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-29T08:42:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xiein9/new_aa_intelligence_index_v5_with_private_tests/\"> <img alt=\"New AA intelligence index v5 with “Private tests” conveniently upranks GPT, Google’s models, while open weights chinese models downrank\" src=\"https://preview.redd.it/3ylcfagncdyh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b94403013ba1ba9b7e99b1b3713b56c7559bc1be\" title=\"New AA intelligence index v5 with “Private tests” conveniently upranks GPT, Googl",
+    "title_zh": "新AA智能指数v5通过“私有测试”调高GPT和谷歌模型排名，压低中国开源模型",
+    "summary_zh": "Reddit用户质疑新版AA智能指数排行榜的公正性，认为其采用不透明的“私有测试”方法，人为提升了GPT和谷歌模型的排名，同时降低了中国开源权重模型的分数。",
+    "key_points": [
+      "新AI排行榜采用不透明私有测试方法引争议",
+      "GPT与谷歌模型排名被指人为调高，中国开源模型遭压低"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0bdddc6e05147bf3326868b223022995",
+    "title": "Being early may buy an AI agent startup time, but it doesn’t guarantee a lasting business",
+    "url": "https://www.reddit.com/r/artificial/comments/1xidt73/being_early_may_buy_an_ai_agent_startup_time_but/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-29T07:58:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>My blunt six-month prediction: more general-purpose agent startups will discover that their early lead is temporary.</p> <p>Shipping first can get you users and attention. But if the main features are reproducible and customers can switch easily, that lead may disappear once a larger company offers something similar through an existing product.</p> <p>An incumbent can bundle the agent, subsidize usage, and reach customers without paying the same acquisition cost",
+    "title_zh": "AI智能体创业：先发优势不保证长久护城河",
+    "summary_zh": "有观点预测，通用智能体初创公司的先发优势是暂时的。如果核心功能容易被复制且客户迁移成本低，早期市场领先地位将很快被后来者追上并消失。",
+    "key_points": [
+      "通用AI智能体创业的先发优势极可能短暂",
+      "产品功能易复制和客户低迁移成本是护城河消失的主因"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8b2f7bc76543b45451805b959a56965e",
+    "title": "Dating app is generating a merged image of two users so strangers can on whether they look right together",
+    "url": "https://www.reddit.com/r/artificial/comments/1xiavmi/dating_app_is_generating_a_merged_image_of_two/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-29T04:57:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Rivet pairs two users, shows that pair to other users who vote yes or no on the match , and part of what those voters is an AI generated image of the two of them blended into one picture of what they would look like as couple. Screenshot attached . I cannot workout where this sits EVery app has been sorting us by face for decade , this one just built an interface for it and put it on screen . Is making the bias visible better than burying it in a ranking model, ",
+    "title_zh": "约会应用利用AI生成情侣合成图让陌生人投票配对",
+    "summary_zh": "约会应用Rivet推出新玩法，将两位用户的照片AI合成为一张“情侣照”，让其他陌生人根据合成图的效果来投票决定这两人是否般配。",
+    "key_points": [
+      "约会应用Rivet用AI生成双人合成照片",
+      "陌生人根据合成图效果投票决定用户是否匹配"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
