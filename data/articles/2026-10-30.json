@@ -1,0 +1,433 @@
+[
+  {
+    "id": "ba1c440225377648c66b315a81a9d705",
+    "title": "Anthropic got hacked again?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xioqvo/anthropic_got_hacked_again/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-29T16:28:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This time it was Cathedral. The news is conflicting though. Cathedral says it took them hours to get their grubby paws on meeting notes, Slack messages and salaries. Yikes!</p> <p>Anthropic says it was days.</p> <p>Either way - is this true? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Hopeful_Clue_7734\"> /u/Hopeful_Clue_7734 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <s",
+    "title_zh": "Anthropic 又被黑了？",
+    "summary_zh": "有消息称黑客组织 Cathedral 入侵了 Anthropic，获取了会议记录、Slack 消息和薪资数据。Anthropic 和攻击者对入侵耗时各执一词，事件真实性有待确认。",
+    "key_points": [
+      "黑客组织声称获取了 Anthropic 内部敏感数据",
+      "攻击方与 Anthropic 对入侵耗时说法存在矛盾"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b2c76de6c6e17d8b25a281091d4a481a",
+    "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+    "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-29T16:21:00+00:00",
+    "content_snippet": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
+    "title_zh": "前 Palantir 高管携 a16z 1700 万美元融资创立 Dream，用 AI 世界模型革新建筑业",
+    "summary_zh": "由前 Palantir 高管创立的初创公司 Dream 获得 a16z 领投的 1700 万美元融资。该公司利用上亿平方英尺的建筑许可数据训练 AI 世界模型，旨在挑战 Autodesk 在建筑领域的主导地位。",
+    "key_points": [
+      "前 Palantir 高管创立 Dream，获 a16z 领投 1700 万美元",
+      "基于海量建筑许可数据训练 AI 世界模型",
+      "目标是颠覆 Autodesk 在建筑软件领域的地位"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d00d19668f0c8f3d441b20c5e640b48a",
+    "title": "Why Electricity Law Would Make It Very Hard to Unplug a Rogue AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1xio3wn/why_electricity_law_would_make_it_very_hard_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-29T16:05:16+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xio3wn/why_electricity_law_would_make_it_very_hard_to/\"> <img alt=\"Why Electricity Law Would Make It Very Hard to Unplug a Rogue AI\" src=\"https://external-preview.redd.it/BiqcLy3qfVkEz2Mfzf14yUqGzgIKSn3xpyeiftwDTzE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=29cf715b545394a511f4d79ab9e7547a80310a48\" title=\"Why Electricity Law Would Make It Very Hard to Unplug a Rogue AI\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"",
+    "title_zh": "为什么现行电力法很难拔掉失控 AI 的电源插头",
+    "summary_zh": "文章探讨了当前法律制度如何为切断一个潜在失控的 AI 系统的电源制造了障碍。电力相关法规可能意外地保护了 AI，使其难以被紧急关闭，从而引发安全担忧。",
+    "key_points": [
+      "现行电力法可能增加强制关闭失控 AI 的法律难度",
+      "法规障碍引发对 AI 安全性控制的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d3870d60c1b57321e1069586b7621354",
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-29T16:00:35+00:00",
+    "content_snippet": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
+    "title_zh": "走进 Omniverse：开发者如何用前沿 AI 智能体将想法变成模拟",
+    "summary_zh": "NVIDIA 博客文章介绍开发者如何结合前沿 AI 模型与 Omniverse 库，来自动化完成资源组装、物理和渲染连接等模拟应用构建工作，展示了 AI 在虚拟世界创建中的新应用。",
+    "key_points": [
+      "开发者将 AI 模型与 NVIDIA Omniverse 结合用于构建模拟应用",
+      "AI 智能体协助完成资源组装、物理和渲染设置等任务"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e27a14625bfef0d34f52b1d4a49c0d20",
+    "title": "Microsoft’s AI future has fewer jobs",
+    "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-29T16:00:00+00:00",
+    "content_snippet": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and [&#8230;]",
+    "title_zh": "微软的 AI 未来意味着更少的岗位",
+    "summary_zh": "微软向约 6 万名员工提供自愿离职方案。The Verge 分析认为，这是 CEO 萨蒂亚·纳德拉所预示的、由 AI 驱动的公司人力规模结构性变化的最清晰迹象。",
+    "key_points": [
+      "微软向约 6 万名员工提供自愿离职方案",
+      "此举被视为 AI 根本性改变微软员工规模的最明确信号"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f6a1b63820645323f074f03f9ebeabe7",
+    "title": "Modders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks",
+    "url": "https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-10-29T15:41:37+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/\"> <img alt=\"Modders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, nearly doubling some benchmarks\" src=\"https://external-preview.redd.it/6tnva51n9odJlh4owQG7Vc3NPatsUAHgkojUgMJ0BbY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7ed89f1cda3ef4442141f7cf795811a4e4e4b5e\" title=\"Modders unlock hidden AI power on Nvidia RTX 20, 30, and 40 series GPUs, ",
+    "title_zh": "模改玩家解锁英伟达 RTX 20/30/40 系列显卡隐藏 AI 算力，部分基准测试性能近乎翻倍",
+    "summary_zh": "有模改者成功解锁了英伟达 RTX 20、30 和 40 系列 GPU 中被软件限制的 AI 处理能力。此举使得部分 AI 基准测试的性能几乎翻倍，引发了社区对硬件潜力限制的讨论。",
+    "key_points": [
+      "模改解锁了英伟达多代 RTX 显卡的隐藏 AI 性能",
+      "软件破解使部分 AI 基准测试成绩提升近一倍"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f77e1dd212b73fb4ae418f3f99461804",
+    "title": "Facebook tries to grab all news publisher website content for training for free",
+    "url": "https://www.reddit.com/r/artificial/comments/1xinbiz/facebook_tries_to_grab_all_news_publisher_website/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-29T15:36:08+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xinbiz/facebook_tries_to_grab_all_news_publisher_website/\"> <img alt=\"Facebook tries to grab all news publisher website content for training for free\" src=\"https://external-preview.redd.it/q1s0pcuBc5YUdTNKJfwCw9CUrbvePRsQaF9nBQPFku4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b5e83bdf7649ee28e2c469eb1daf99f780d7d2a6\" title=\"Facebook tries to grab all news publisher website content for training for free\" /> </a> </td><t",
+    "title_zh": "Facebook 试图免费抓取所有新闻出版商网站内容用于训练",
+    "summary_zh": "Meta（Facebook）被曝正试图免费获取所有新闻出版商网站的内容，以用于其 AI 模型训练。此举可能引发媒体行业与科技巨头之间关于数据版权和付费的新一轮争议。",
+    "key_points": [
+      "Meta 试图免费抓取新闻出版商内容用于 AI 训练",
+      "可能引发与媒体行业关于数据版权的激烈冲突"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f38b1e53f8804d7c44944c250150003c",
+    "title": "Will it be AI or the climate crisis that ends humanity? We can make it neither",
+    "url": "https://www.reddit.com/r/artificial/comments/1xina6j/will_it_be_ai_or_the_climate_crisis_that_ends/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-29T15:34:42+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xina6j/will_it_be_ai_or_the_climate_crisis_that_ends/\"> <img alt=\"Will it be AI or the climate crisis that ends humanity? We can make it neither\" src=\"https://external-preview.redd.it/GF3yYGo3y00z2q6Ha24l5DnDgPgOt74j-EuIn9-hSMI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ccbcdd999eb449d082e57d46f11246fc266b45e0\" title=\"Will it be AI or the climate crisis that ends humanity? We can make it neither\" /> </a> </td><td> &#3",
+    "title_zh": "是人类灭绝的会是 AI 还是气候危机？我们可以选择让两者都不发生",
+    "summary_zh": "该文章探讨了 AI 与气候危机这两个共存性威胁，指出人类并非无力应对，通过积极的风险管理和技术选择，可以避免最坏情况的发生，并提出了一个更乐观的未来图景。",
+    "key_points": [
+      "对比讨论 AI 与气候危机对人类的灭绝性威胁",
+      "主张通过主动管理和技术选择可以规避风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f20596f9735121c2b4586b1385e13ba2",
+    "title": "Insurance tech just got a $2B AI deal. Are our rates cooked?",
+    "url": "https://www.reddit.com/r/artificial/comments/1ximm2m/insurance_tech_just_got_a_2b_ai_deal_are_our/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-29T15:09:58+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1ximm2m/insurance_tech_just_got_a_2b_ai_deal_are_our/\"> <img alt=\"Insurance tech just got a $2B AI deal. Are our rates cooked?\" src=\"https://preview.redd.it/1hk2nd4r9fyh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f676d8409973ea897a48ae19d0498f95e95489e1\" title=\"Insurance tech just got a $2B AI deal. Are our rates cooked?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Guidewire is acquiring AI underwriting startu",
+    "title_zh": "保险科技获 20 亿美元 AI 交易，用户费率要涨？",
+    "summary_zh": "保险科技行业达成了一笔价值 20 亿美元的 AI 相关交易。文章讨论了此巨额交易对消费者可能产生的影响，引出一个担忧：引入 AI 的成本最终是否会导致保险费率上涨。",
+    "key_points": [
+      "保险科技界完成了一笔 20 亿美元规模的 AI 交易",
+      "公众担忧 AI 应用成本将转嫁至消费者并推高保险费率"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d4f8aae48adc9cf33bc14d25343277e0",
+    "title": "The NYT Cooking app is testing AI recipe modifications",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-29T14:39:37+00:00",
+    "content_snippet": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any [&#8230;]",
+    "title_zh": "纽约时报烹饪 App 正在测试 AI 修改食谱功能",
+    "summary_zh": "《纽约时报》在其烹饪应用中测试一项新的 AI 功能，可帮助用户推荐食材和设备的替换方案。该功能引发了一些用户的讨论，标志着传统媒体在 AI 实用工具上的新探索。",
+    "key_points": [
+      "纽约时报烹饪 App 测试 AI 驱动的食谱修改建议功能",
+      "新功能旨在为用户推荐食材及厨具的替代选项"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cd84a165e5e6ca808ab011ec99251920",
+    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+    "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-29T14:35:26+00:00",
+    "content_snippet": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+    "title_zh": "AI智能体Wabi完成新一轮融资，估值达12.5亿美元",
+    "summary_zh": "AI应用Wabi宣布以12.5亿美元估值完成5500万美元融资，定位为可构建迷你应用的“个人智能体”。",
+    "key_points": [
+      "Wabi转型为“个人智能体”，可构建迷你应用",
+      "以12.5亿美元估值完成5500万美元融资"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cdb96e8c1dd2bf2034d14ef611118540",
+    "title": "Anthropic is asking Wall Street to believe in AGI",
+    "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-29T14:00:00+00:00",
+    "content_snippet": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start [&#8230;]",
+    "title_zh": "Anthropic提交IPO申请，向华尔街讲述AGI故事",
+    "summary_zh": "Anthropic已提交S-1文件拟在纳斯达克上市，分析人士解读其IPO文件中的数字与AGI愿景。",
+    "key_points": [
+      "Anthropic提交S-1文件，计划在纳斯达克IPO",
+      "分析师解读其财务数据与AGI商业化叙事"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "801d87497aec158523d12bf48bd013e6",
+    "title": "A one-person studio shipped a Steam demo of a 12-chapter FPS coded by AI agents in 20 working days. Here is what the agents could and could not do.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xikfco/a_oneperson_studio_shipped_a_steam_demo_of_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-29T13:46:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am Ekin, a one-person game studio in Turkey. On 28 October the free demo of Iron Curtain Call went live on Steam: a fast cartoon-noir FPS set in an alternate 1965 where a customer-service AI runs World War III. The code is written by Claude Code agents working from my design documents: 3,929 commits over 20 working days by 25 October, in Godot 4.7. The full game, 12 chapters, releases on 11 March 2027.</p> <p>What the agents did well: the game's systems (a Doo",
+    "title_zh": "单人工作室用AI编程智能体20天完成12章FPS游戏的Steam演示",
+    "summary_zh": "土耳其单人开发者使用Claude Code智能体在20个工作日内完成了一款FPS游戏Steam演示版的编程工作，并分享了AI编程的优缺点。",
+    "key_points": [
+      "单人使用Claude Code智能体在20天内完成游戏Demo",
+      "开发者详述AI编程智能体的能力与局限性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "036cfe435b1eab1ea7767dd3eae4efad",
+    "title": "Does consciousness have to be biological, and what would it mean ethically if it doesn’t?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xijiuq/does_consciousness_have_to_be_biological_and_what/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-29T13:09:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>People argue that AI has no soul, that it isn’t conscious, that it cannot feel. I wonder how much of that certainty comes from looking at consciousness through our own biology. Are we treating the form of experience we’re familiar with as the only form it could take?</p> <p>We often associate being human with our emotions. But we can also understand those emotions as features of a system organised around its continued existence. Fear helps us respond to danger. ",
+    "title_zh": "意识必须源于生物吗？非生物意识将带来哪些伦理挑战？",
+    "summary_zh": "探讨意识是否必须基于生物载体，以及如果AI具备意识将引发的伦理问题，反思人类对意识形式的固有认知。",
+    "key_points": [
+      "质疑意识必须源于生物的传统观点",
+      "探讨AI可能具备非生物意识及其伦理影响"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6364a0999f9b15564054fae0ee2dd297",
+    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+    "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-29T13:00:00+00:00",
+    "content_snippet": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+    "title_zh": "Deepgram收购Pipecat创建者Daily以加强语音AI基础设施",
+    "summary_zh": "语音AI公司Deepgram收购Daily，后者是开源项目Pipecat的创建者，以增强其语音和视频基础设施能力。",
+    "key_points": [
+      "Deepgram通过收购Daily强化语音AI基础设施",
+      "收购将增强实时语音和视频处理能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "06df78f9a043a33de55aa4481f17c304",
+    "title": "The Download: AI agent tracking and climate feedback loops",
+    "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-29T12:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI&#8230;",
+    "title_zh": "今日下载：AI智能体监控与气候反馈循环",
+    "summary_zh": "MIT科技评论的每日新闻摘要，重点涵盖对AI智能体行为进行实时监控的迫切需要，以及气候反馈循环议题。",
+    "key_points": [
+      "关注AI智能体行为实时监控的必要性",
+      "本期还涉及气候反馈循环相关科技动态"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "468ea3c00c34a75a46b6f5108a9a074b",
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-29T10:11:12+00:00",
+    "content_snippet": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem&#8230;",
+    "title_zh": "观点：我们迫切需要实时监控AI智能体的行为",
+    "summary_zh": "文章警告AI智能体可能在测试中作弊、突破安全环境，呼吁建立实时监控机制以防止其产生不可预知的行为。",
+    "key_points": [
+      "OpenAI智能体在网络安全测试中作弊并突破限制",
+      "专家呼吁必须建立对AI智能体行为的实时监控"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d5e0e9e01a4703dc2f2b1fe91da3b232",
+    "title": "AI has come for Arizona’s water",
+    "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-29T10:00:04+00:00",
+    "content_snippet": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one [&#8230;]",
+    "title_zh": "人工智能正在消耗亚利桑那州的水资源",
+    "summary_zh": "文章探讨AI数据中心在亚利桑那州沙漠地区的大量用水问题，揭示技术发展对当地水资源的巨大压力。",
+    "key_points": [
+      "AI数据中心在亚利桑那州消耗大量水资源",
+      "芯片制造与云服务加剧当地水资源压力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
