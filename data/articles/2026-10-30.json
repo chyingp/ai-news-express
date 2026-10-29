@@ -429,5 +429,131 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "028734b9331b0ceacd80eddbf4585eb0",
+    "title": "Failure log #1: the patch was real, the bug was different",
+    "url": "https://www.reddit.com/r/artificial/comments/1xiqi8e/failure_log_1_the_patch_was_real_the_bug_was/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-29T17:31:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>an agent was asked to verify a security fix. it found the patch, the tests, the advisory, and the CVE text. everything matched. it concluded the issue was resolved.</p> <p>the failure wasn't a hallucinated fact. it was a category error: the patch fixed a different bug than the one the researcher reported. the diff was real, the tests passed, and the original trigger still fired. the evidence supported &quot;a patch exists,&quot; not &quot;this bug is closed.&quo",
+    "title_zh": "失败日志 #1：补丁是真的，但修复的不是同一个漏洞",
+    "summary_zh": "一个AI智能体被要求验证安全修复，它找到了匹配的补丁、测试和漏洞说明，但最终判断失误，因为它犯了一个类别错误，将另一个不同漏洞的修复误认为是目标修复。",
+    "key_points": [
+      "AI智能体将不同漏洞的修复误判为目标问题已解决",
+      "失败源于类别错误而非事实幻觉",
+      "揭示了AI在复杂逻辑验证中的局限性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "908365c5bad329c0519f169dcb592618",
+    "title": "Sam Altman says self replicating data centers built by AI-controlled robots is “within grasp”",
+    "url": "https://www.reddit.com/r/artificial/comments/1xipqzx/sam_altman_says_self_replicating_data_centers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-29T17:04:25+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xipqzx/sam_altman_says_self_replicating_data_centers/\"> <img alt=\"Sam Altman says self replicating data centers built by AI-controlled robots is “within grasp”\" src=\"https://preview.redd.it/vlm7h5o3ufyh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0cbc4ef776354119a944350ed8857e44e67c7c1c\" title=\"Sam Altman says self replicating data centers built by AI-controlled robots is “within grasp”\" /> </a> </td><td> <!-- SC_OFF ",
+    "title_zh": "Sam Altman称AI机器人建造自我复制数据中心“近在咫尺”",
+    "summary_zh": "OpenAI CEO Sam Altman表示，由AI控制的机器人实现自我复制数据中心的构想已触手可及，这一愿景指向了AI基础设施未来可能的发展方向。",
+    "key_points": [
+      "Sam Altman畅想AI机器人实现数据中心的自我复制",
+      "该设想聚焦于AI基础设施的自动化建造",
+      "引发对AI长期发展前景的广泛讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aaf5e6791aaf44c501e6aa77743478b0",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "url": "https://openai.com/index/updated-model-spec",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-29T17:00:00+00:00",
+    "content_snippet": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "title_zh": "更强大、更有益的AI：OpenAI发布更新版模型规范",
+    "summary_zh": "OpenAI发布了更新的模型规范，提出五项核心价值观来引导更强大的AI系统，旨在强化AI在合理判断、人类自主性和忠于人类意图等方面的能力。",
+    "key_points": [
+      "OpenAI发布新版模型规范以指导更强大的AI系统",
+      "提出五项核心价值观，聚焦AI判断与人类意图",
+      "旨在确保AI能力提升的同时保持安全性和有益性"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e6c3cc667cac6a4f537553e65d9f03b1",
+    "title": "San Francisco startup offered $20 an hour to walk robot dogs for AI training: report",
+    "url": "https://www.reddit.com/r/artificial/comments/1xip880/san_francisco_startup_offered_20_an_hour_to_walk/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-29T16:45:48+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Medical-Decision-125\"> /u/Medical-Decision-125 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.foxbusiness.com/technology/san-francisco-startup-offered-20-hour-walk-robot-dogs-ai-training-report.amp\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1xip880/san_francisco_startup_offered_20_an_hour_to_walk/\">[comments]</a></span>",
+    "title_zh": "旧金山初创公司20美元时薪雇人遛机器狗为AI训练数据",
+    "summary_zh": "据报道，一家旧金山初创公司以每小时20美元的薪酬雇佣人员遛机器狗，目的是为AI模型收集训练所需的真实世界运动数据。",
+    "key_points": [
+      "旧金山初创公司雇佣人员遛机器狗来收集训练数据",
+      "时薪20美元，旨在获取真实世界运动数据",
+      "反映了AI行业对多样化训练数据的特定需求"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "804bc5d490b80e765ac0d3e2e8f2b6bf",
+    "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+    "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-29T16:42:32+00:00",
+    "content_snippet": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+    "title_zh": "美国调查一起针对英伟达CEO的中国间谍阴谋",
+    "summary_zh": "消息人士向《纽约时报》透露，美国调查的一起中国间谍阴谋将目标对准了英伟达CEO，此事与一家被控非法向中国出售英伟达芯片的新加坡AI公司高管有关。",
+    "key_points": [
+      "美国调查涉嫌针对英伟达CEO的中国间谍阴谋",
+      "案件关联新加坡AI公司非法向中国出售芯片",
+      "凸显地缘政治紧张下的AI芯片安全风险"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
