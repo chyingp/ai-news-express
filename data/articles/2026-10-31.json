@@ -94,5 +94,254 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "65939e23d9c65b2e4bf81168ea1c7117",
+    "title": "AI cracks a 27-year-old pillar of computer science, OpenAI and Anthropic claim",
+    "url": "https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-30T20:23:31+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fcking_Chuck\"> /u/Fcking_Chuck </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.science.org/content/article/ai-cracks-27-year-old-pillar-computer-science-openai-and-anthropic-claim\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/\">[comments]</a></span>",
+    "title_zh": "AI 攻克了计算机科学存在 27 年的难题，OpenAI 和 Anthropic 宣称",
+    "summary_zh": "OpenAI 和 Anthropic 在《科学》杂志发表研究，声称其 AI 模型解决了一个长达 27 年的计算机科学难题，即计算复杂性理论中关于 P 与 NP 问题的部分突破。",
+    "key_points": [
+      "OpenAI 和 Anthropic 联合取得理论突破",
+      "成果发表在《科学》杂志，解决 27 年难题",
+      "涉及计算复杂性理论的核心问题"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0513d2ae79159f6bd7fee4caabe2b421",
+    "title": "OpenAI CEO Sam Altman says it's \"quite terrible\" for your PC to have RAM — Sam Altman says data centers offer better utilization",
+    "url": "https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-30T19:47:36+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/\"> <img alt=\"OpenAI CEO Sam Altman says it's &quot;quite terrible&quot; for your PC to have RAM — Sam Altman says data centers offer better utilization\" src=\"https://external-preview.redd.it/sD0M9fW9UAsJNXUQuZVi942TMIM7N73ajBFBKerWh5A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=46878b5964fcad0e8127451cd7b6ee44a331ca80\" title=\"OpenAI CEO Sam Altman says it's &quot",
+    "title_zh": "OpenAI CEO Sam Altman 称 PC 拥有 RAM “相当糟糕”",
+    "summary_zh": "OpenAI 首席执行官 Sam Altman 表示，个人电脑拥有独立内存利用率低下，数据中心能实现更好的资源利用。该言论引发了对未来计算架构的讨论。",
+    "key_points": [
+      "Altman 批评个人电脑的 RAM 架构效率低",
+      "他认为数据中心模式利用率更优",
+      "言论引发关于计算架构未来的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a3817659de7b8fe382557af8f454f414",
+    "title": "What Happened With Gemini?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xjp9ah/what_happened_with_gemini/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-30T19:42:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am a newbie to AI but have been using Gemini for some proceedings with legal and medical issues. So far, it hasn't been 100% accurate, but it has been mostly helpful and has helped me save a lot of time. Lately, I ask some questions and am getting very lame answers like; &quot;I can't answer that,&quot; or very short non-helpful answers. What have I walked into? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nationwideo",
+    "title_zh": "Gemini 发生了什么？",
+    "summary_zh": "Reddit 用户反映，近期谷歌的 Gemini 模型在回答法律和医疗等问题时表现明显下滑，回复质量变得较差且不够精确，引发了社区对其性能波动的广泛讨论。",
+    "key_points": [
+      "用户抱怨 Gemini 近期回答质量下降",
+      "在法律和医疗等领域的表现变差",
+      "社区对模型性能波动表示担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f89f2da3f701e74f4b30b19e32ed80fd",
+    "title": "If an AI video defames someone, who should the victim actually sue, the person who prompted it, the model provider, or the platform that kept it up?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xjozdg/if_an_ai_video_defames_someone_who_should_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-30T19:31:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This feels like a question we're going to have to take seriously pretty soon. We've already seen cases where AI generated likenesses are used in ways people never agreed to, from unauthorized ads to digital replicas that go beyond what someone thought they had consented to.</p> <p>I've been paying more attention to AI video tools lately, including platforms like PixVerse. What's interesting is how accessible AI video creation is becoming. That opens up a lot of ",
+    "title_zh": "如果 AI 视频诽谤他人，受害者应该起诉谁？",
+    "summary_zh": "随着 AI 生成视频技术的发展，未经授权使用他人肖像制作的诽谤性视频引发法律难题。讨论焦点在于责任归属：提示生成者、模型提供商还是传播平台。",
+    "key_points": [
+      "AI 生成视频引发肖像权和诽谤纠纷",
+      "法律上责任归属存在争议",
+      "涉及生成者、模型方和平台三方"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b119c6eeb05f2544f94bcea51d13f31d",
+    "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+    "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-30T18:21:38+00:00",
+    "content_snippet": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in [&#8230;]",
+    "title_zh": "谷歌卫星 AI 服务器向地球传回首次响应",
+    "summary_zh": "谷歌宣布其配备 AI 芯片的卫星成功在轨运行，内置的 Gemma 4 模型响应指令，在外太空创作了一首俳句并传回地球，标志着太空边缘计算的一大突破。",
+    "key_points": [
+      "谷歌卫星成功启动太空中的 TPU 芯片",
+      "Gemma 4 模型在太空生成并传回诗歌",
+      "实现卫星在轨 AI 推理零的突破"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "22f921a2b7dd92d7e74ea4d7d3f76de8",
+    "title": "MIT's claim that 95% of AI pilots fail - Is this true?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xjmtot/mits_claim_that_95_of_ai_pilots_fail_is_this_true/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-30T18:10:03+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xjmtot/mits_claim_that_95_of_ai_pilots_fail_is_this_true/\"> <img alt=\"MIT's claim that 95% of AI pilots fail - Is this true?\" src=\"https://external-preview.redd.it/uE_JlHImIkg6ddVq_VKHRoiWk6IJf3LMJtqifGr0Vg4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=385dfb92e2427076ee4e77542c0cdd3d6a910179\" title=\"MIT's claim that 95% of AI pilots fail - Is this true?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.r",
+    "title_zh": "MIT 称 95% 的 AI 试点项目失败，这是真的吗？",
+    "summary_zh": "MIT 的研究报告指出，企业在将 AI 试点项目转化为实际生产力时面临巨大挑战，成功率极低。Reddit 用户对该数据的真实性和背后的原因展开了激烈辩论。",
+    "key_points": [
+      "MIT 报告称仅 5% 的 AI 试点成功落地",
+      "社区讨论成功率低下的深层原因",
+      "涉及数据质量与业务融合等问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e01cb623c5e7327ce40e8cb4ac35a6a8",
+    "title": "Advice on dealing with Cold Start forecasting [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xjmgju/advice_on_dealing_with_cold_start_forecasting_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-30T17:56:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone. I am dealing with a problem statement at work where the goal is to predict the sales of a new innovation to be launched. Note that the data that I actually have is just product attributes, the month level invoice data for each region, weather data and some macroeconomic data. Currently there is a methodology in place where we are using a xgboost regressor trained on the historical data for this prediction, but no one in the team is very confident i",
+    "title_zh": "应对冷启动预测问题的建议",
+    "summary_zh": "一名从业者在 Reddit 机器学习版求助，希望解决新品上市销售预测中的冷启动问题。目前仅拥有产品属性和区域天气等有限数据，缺乏历史销售记录。",
+    "key_points": [
+      "面临新品销售预测的冷启动挑战",
+      "缺乏历史销售数据，仅有属性和天气信息",
+      "寻求技术社区的建议和解决方案"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c9dcfb62ccca45b22e323f6f45c8391b",
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-30T17:47:12+00:00",
+    "content_snippet": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+    "title_zh": "Zest 的新 AI 代理可通过短信寻找餐厅并预订座位",
+    "summary_zh": "初创公司 Zest 推出新的 AI 代理服务，能够综合多人饮食偏好，通过短信投票选定餐厅并自动完成预订，旨在解决团队聚餐决策难的痛点。",
+    "key_points": [
+      "AI 代理能综合多人偏好推荐餐厅",
+      "支持通过短信投票和自动预订座位",
+      "解决团队聚餐决策难的痛点"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a4df15e2609a100ee0b4447e47e1f57e",
+    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-30T17:38:19+00:00",
+    "content_snippet": "Low costs and offline security mean magnetic tape still has a job.",
+    "title_zh": "富士胶片拟将磁带产能提升 5 倍以应对 AI 存档需求",
+    "summary_zh": "由于 AI 生成数据量激增，对低成本、高安全性的离线存储需求大增。富士胶片宣布计划将磁带存储的产能扩大五倍，以满足不断增长的数据存档需求。",
+    "key_points": [
+      "AI 数据激增推动离线存档需求爆发",
+      "富士胶片计划扩产 5 倍",
+      "磁带具备低成本和离线安全优势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a5d82a5cf5c844da87b0513be695058c",
+    "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-30T17:38:04+00:00",
+    "content_snippet": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More [&#8230;]",
+    "title_zh": "星巴克拟利用 AI 在得来速提供个性化数字菜单",
+    "summary_zh": "星巴克 CEO 在财报电话会上表示，公司计划利用 AI 识别来店顾客，并在得来速显示屏上展示个性化数字菜单，通过推荐历史订单和偏好来提升客户体验。",
+    "key_points": [
+      "星巴克探索 AI 个性化菜单推荐",
+      "通过识别客户展示定制化点单界面",
+      "旨在提升得来速服务体验和效率"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
