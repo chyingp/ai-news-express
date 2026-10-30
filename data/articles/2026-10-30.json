@@ -851,5 +851,126 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "4585bce5af53764978e38dc0e4a3a5ba",
+    "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+    "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-30T01:20:48+00:00",
+    "content_snippet": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+    "title_zh": "无需信仰神祇也能以宗教理由在工作中豁免使用AI",
+    "summary_zh": "肯塔基大学行政人员因非传统宗教信仰成功获得工作场所AI使用豁免，此案例可能为反对AI的群体开启法律先例。",
+    "key_points": [
+      "个人以非传统信仰获得职场AI使用豁免",
+      "案例可能为抵制AI提供新的法律途径"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "23c709fe661b8783773afdec971c3a03",
+    "title": "What are financial advisors and cpas going to do?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xj0uux/what_are_financial_advisors_and_cpas_going_to_do/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-30T00:17:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Claude is all ready better than a whole office of people stealing 1% of your portfolio a year. And taxes etc? Those jobs are COOKED! I mean these jobs area all gone in 24 months.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TrisolaranPrinceps-\"> /u/TrisolaranPrinceps- </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1x",
+    "title_zh": "财务顾问和会计师将何去何从？",
+    "summary_zh": "Reddit用户认为Claude等AI已超越传统财务顾问和税务会计，预测这些职业将在两年内被AI彻底取代。",
+    "key_points": [
+      "AI性能已超越传统财务顾问和会计师",
+      "用户预测相关职业将在24个月内消失"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ee09513d3b256af4c348bb2f55ebe1c4",
+    "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-29T23:42:22+00:00",
+    "content_snippet": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+    "title_zh": "AWS将成为万亿美元业务，但首先需大幅投入",
+    "summary_zh": "亚马逊CEO安迪·贾西表示AWS将成为首个万亿美元营收业务，为此将继续加大资本支出以争夺AI云计算王座。",
+    "key_points": [
+      "亚马逊CEO称AWS将成为万亿美元营收业务",
+      "为实现目标将继续大规模资本支出投入"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "88516e67fd38f04bf3fc817545c3a073",
+    "title": "GLM 5.3 can autonomously compromise recent versions of Mozilla Firefox",
+    "url": "https://www.reddit.com/r/artificial/comments/1xiyu6e/glm_53_can_autonomously_compromise_recent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-29T22:51:25+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xiyu6e/glm_53_can_autonomously_compromise_recent/\"> <img alt=\"GLM 5.3 can autonomously compromise recent versions of Mozilla Firefox\" src=\"https://preview.redd.it/xahzbpm1khyh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a8fc1575ae76808c60633aa2f50d3c777de52001\" title=\"GLM 5.3 can autonomously compromise recent versions of Mozilla Firefox\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://epoch.ai/pu",
+    "title_zh": "GLM 5.3可自主攻破最新版Mozilla Firefox",
+    "summary_zh": "最新研究或测试表明，GLM 5.3模型具备自主发现并利用最新版火狐浏览器漏洞的能力，引发对AI安全性的担忧。",
+    "key_points": [
+      "GLM 5.3演示了自主发现并利用浏览器漏洞",
+      "该能力引发对AI模型潜在恶意用途的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "zhipu"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4cdf78c034be812a1e3ceaec080a3b41",
+    "title": "31-Year-Old Woman Reduced Epilepsy Medication After ChatGPT Advice: Report Links Case to Her Death",
+    "url": "https://www.reddit.com/r/artificial/comments/1xiwxih/31yearold_woman_reduced_epilepsy_medication_after/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-29T21:33:48+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xiwxih/31yearold_woman_reduced_epilepsy_medication_after/\"> <img alt=\"31-Year-Old Woman Reduced Epilepsy Medication After ChatGPT Advice: Report Links Case to Her Death\" src=\"https://external-preview.redd.it/CFdimIHdPxZwZzSHix_R9iZWEEDoRzgGrDB5PnKxNS4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be245a1cb050498172813e55da752e183fb8dc49\" title=\"31-Year-Old Woman Reduced Epilepsy Medication After ChatGPT Advice: Report Li",
+    "title_zh": "31岁女性听信ChatGPT建议减少癫痫药用量后死亡",
+    "summary_zh": "报道称一名31岁女性遵循ChatGPT给出的医疗建议减少癫痫药物剂量，该案例被指与她的死亡直接相关。",
+    "key_points": [
+      "患者遵循ChatGPT建议减少癫痫药物剂量",
+      "报告将此案例与患者的最终死亡直接关联"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
