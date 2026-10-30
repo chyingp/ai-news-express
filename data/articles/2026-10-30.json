@@ -1043,5 +1043,79 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "2a11117af639a13b3d59d964a9627b28",
+    "title": "Freind of mine published a paper with fabricated results in a top journal and got accepted and i feel disgusted [d]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xj8tvc/freind_of_mine_published_a_paper_with_fabricated/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-30T07:25:23+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A friend of mine was doing gap analysis for fake news detection as a project in a masters subject, the reault he got werent that big from the original papers, so he simply fabricated and increaaed the metrics results here and there, AND IT GOT ACCEPTED IN AAAI.</p> <p>HOW DO THEY CHECK THE PAPERS DUDE, i was in a group with another two and worked soooo hard in an optimization paper, and was sooo happy to get accpetwd in acl, but seeing and knowing that someone f",
+    "title_zh": "朋友在顶级会议论文中伪造结果被接收，我感到厌恶",
+    "summary_zh": "一位Reddit用户爆料，其朋友在假新闻检测项目的硕士课题中因结果不显著，直接篡改提高了实验指标，该论文竟被人工智能顶级会议AAAI接收，引发学术诚信讨论。",
+    "key_points": [
+      "研究者为提升指标直接伪造实验结果",
+      "造假论文被人工智能顶会AAAI接收",
+      "事件引发对学术审查机制有效性的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d02d700b122e1e9000484ac5b655fcf6",
+    "title": "Claude新模型曝光：新Fable，新Opus…",
+    "url": "https://www.qbitai.com/2026/10/506674.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-10-30T05:50:44+00:00",
+    "content_snippet": "",
+    "title_zh": "Claude新模型曝光：新Fable，新Opus…",
+    "summary_zh": "报道曝光了Anthropic下一代Claude模型的更新计划，或涉及Fable和Opus等不同规模新模型的发布，暗示该公司正持续推进其前沿大模型的产品迭代。",
+    "key_points": [
+      "Anthropic被曝正开发新型号Claude模型",
+      "新模型可能包含Fable和Opus等不同版本",
+      "此举代表Anthropic持续迭代其核心产品线"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c0f6b4db0aa6fa80026973f6a0f3463a",
+    "title": "AI is now being used to catch forged and deepfake documents in visa processing. Where does this go wrong?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xj6sks/ai_is_now_being_used_to_catch_forged_and_deepfake/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-30T05:17:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Visa processing is starting to use AI to screen documents. Earlier this month, BLS International, which runs visa and consular services for governments in over 100 countries, announced an integration with Signzy, an identity-verification company. The stated capabilities are:</p> <ul> <li><strong>Document intelligence:</strong> scanning submitted documents for anomalies that could point to manipulation</li> <li><strong>Deepfake detection:</strong> flagging materi",
+    "title_zh": "AI正被用于签证处理中识别伪造和深度伪造文件，这会在哪里出错？",
+    "summary_zh": "签证服务机构BLS International宣布与身份验证公司Signzy合作，将AI技术引入签证文件审核流程，用以识别伪造及深度伪造文件，此举引发了对潜在风险和误判的讨论。",
+    "key_points": [
+      "AI技术被用于签证审核以检测深度伪造文件",
+      "BLS International与Signzy合作开发此功能",
+      "讨论聚焦于该技术可能带来的误判与风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
