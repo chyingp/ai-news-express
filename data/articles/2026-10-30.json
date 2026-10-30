@@ -972,5 +972,76 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5fa66191f7f5bbfa43144ae69493c9c7",
+    "title": "I want your thoughts on the future of AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1xj47js/i_want_your_thoughts_on_the_future_of_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-30T02:59:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Before I begin, I want to say I am not an expert, I am just trying to get your thoughts. For some reason people on here are incredibly rude know-it-alls, even when I literally stress that I am not even close to an expert 😂</p> <p>I have 4 ways I think the future of AI can go:</p> <ol> <li><p>AI is currently so heavily incentivized that it is much cheaper than it actually is. Once the true cost of AI arrives, companies will have a board of 5-10 AI users instead o",
+    "title_zh": "你对人工智能的未来有何看法",
+    "summary_zh": "一位Reddit用户发帖，自述非AI专家，寻求社区对AI未来发展的看法，并抱怨了社区的某些不友好氛围。",
+    "key_points": [
+      "Reddit用户发起非正式的社区讨论",
+      "内容为征求对AI未来的个人观点",
+      "发帖人提到社区内存在不友好的回复"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ad3b4cb725898401c5c8d29eb231d2cd",
+    "title": "How I Used AI This Past Year | Play, Advice, Research, Work, and Diaries",
+    "url": "https://www.reddit.com/r/artificial/comments/1xj3dar/how_i_used_ai_this_past_year_play_advice_research/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-30T02:17:31+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xj3dar/how_i_used_ai_this_past_year_play_advice_research/\"> <img alt=\"How I Used AI This Past Year | Play, Advice, Research, Work, and Diaries\" src=\"https://external-preview.redd.it/71ffh9qXdNKxh6kZr7zy3vdOulRHggEi7CbpJc26teI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=153cfaef860c18f5d72cd1347e424d5916275f47\" title=\"How I Used AI This Past Year | Play, Advice, Research, Work, and Diaries\" /> </a> </td><td> <!-- SC_OFF",
+    "title_zh": "过去一年我是如何使用AI的：娱乐、建议、研究、工作与日记",
+    "summary_zh": "一篇个人经验分享，作者讲述了在过去一年中，如何将AI应用于娱乐、寻求建议、辅助研究、日常工作及日记撰写等多种生活和工作场景。",
+    "key_points": [
+      "个人分享将AI用于娱乐、工作、研究等多场景",
+      "涵盖了获取建议和撰写日记等个人化应用"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c3a2227a522370dbdddaa962e8f422f9",
+    "title": "A real citation can still be the wrong evidence for an AI answer",
+    "url": "https://www.reddit.com/r/artificial/comments/1xj360n/a_real_citation_can_still_be_the_wrong_evidence/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-30T02:07:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>An AI answer says a treatment “improves long-term outcomes” and links to a real study.</p> <p>But suppose that study only measured a short-term indicator. The link works, the paper exists, and the claim still goes beyond the evidence.</p> <p>Checking whether a citation is fabricated only catches one kind of error.</p> <p>I’d like research assistants to show the specific passage supporting a claim, along with the study population and what was actually measured. T",
+    "title_zh": "真实的引用仍可能为AI答案提供错误证据",
+    "summary_zh": "文章指出，即使AI回答引用了真实的学术论文，该引用也可能无法支撑其结论，因为研究测量指标可能与AI声称的结论不匹配，提醒读者核实引用内容。",
+    "key_points": [
+      "AI答案引用真实论文仍可能构成错误证据",
+      "问题在于引用内容无法支持AI得出的结论",
+      "提醒用户需核实引用材料与结论的匹配度"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
