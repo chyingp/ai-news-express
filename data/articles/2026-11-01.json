@@ -92,5 +92,51 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7004a1292cb49226225dbb0ab079dd3c",
+    "title": "Is neuro-evolution relevant? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkh5bw/is_neuroevolution_relevant_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-10-31T18:09:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I've experimented using neuro-evolution to train AI to play a variety of different games and I'm just curious as to how or if this technique is actually really used anywhere in industry or if people are doing research on this. I'd assume it'd probably relate with reinforcement learning in some way but I'm not entirely sure about that</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/tapopalis\"> /u/tapopalis </a> &#32; to &#32",
+    "title_zh": "神经进化算法在当今还重要吗？",
+    "summary_zh": "作者尝试了用神经进化方法训练AI玩游戏，并质疑该技术在工业界或学术研究中是否仍有实际应用价值，引发社区讨论。",
+    "key_points": [
+      "神经进化方法在工业界的实际应用情况存疑",
+      "讨论聚焦该技术是否仍具研究或应用相关性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "13b0ff0b025697f03c6014a6cd7be75f",
+    "title": "Would you trust an emergency alert written by AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xkf72z/would_you_trust_an_emergency_alert_written_by_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-31T16:52:32+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xkf72z/would_you_trust_an_emergency_alert_written_by_ai/\"> <img alt=\"Would you trust an emergency alert written by AI?\" src=\"https://external-preview.redd.it/J9cwlPjCEoM9R-VQuzhefFOKjkNt_HpiLJ4cPttWzuU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f60a0eb8bf0896abe3847e73fac113d2eaf19aa8\" title=\"Would you trust an emergency alert written by AI?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>After Hurricane Isaias m",
+    "title_zh": "你会信任由AI撰写的紧急警报吗？",
+    "summary_zh": "文章探讨公众对由人工智能生成的紧急警报的信任度问题，引发关于AI在关键安全通信中应用的伦理与可靠性讨论。",
+    "key_points": [
+      "探讨公众对AI生成紧急警报的信任程度",
+      "涉及AI在关键安全领域的可靠性问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
