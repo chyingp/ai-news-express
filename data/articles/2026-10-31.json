@@ -777,5 +777,79 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e938bc47350637b61f0f182c066da340",
+    "title": "I wondered what became of my junior high school music teacher. It was spooky. Asking an AI turned into an unnerving discussion that was positively hallucinatory.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xjz5mj/i_wondered_what_became_of_my_junior_high_school/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-31T02:55:26+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xjz5mj/i_wondered_what_became_of_my_junior_high_school/\"> <img alt=\"I wondered what became of my junior high school music teacher. It was spooky. Asking an AI turned into an unnerving discussion that was positively hallucinatory.\" src=\"https://external-preview.redd.it/e5Gk3kaqWKDxWaq9DblGR9Mz-oajRdzxA16CRzVAQ3Y.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a8460f739c107b1d4928cb164a6567781f568806\" title=\"I wondered what ",
+    "title_zh": "向AI查询初中音乐老师近况，竟引发令人不安的幻觉式对话",
+    "summary_zh": "Reddit用户分享了一次离奇的AI交互体验：本意查询初中音乐老师的近况，结果AI的回应逐渐演变成一场诡异且充满幻觉的可怕对话，令人毛骨悚然。",
+    "key_points": [
+      "用户使用AI查询个人往事时遭遇严重幻觉",
+      "AI生成的内容从简单事实演变为令人不安的虚构情节"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ec65015625291e9f98d35f94338ef650",
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-31T01:20:05+00:00",
+    "content_snippet": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+    "title_zh": "英伟达或为Nscale西弗吉尼亚AI数据中心融资提供担保",
+    "summary_zh": "据报道，芯片巨头英伟达正在考虑为Nscale公司在西弗吉尼亚州建设的AI数据中心提供贷款担保，此举旨在提振投资者对巨额AI基础设施支出的信心。",
+    "key_points": [
+      "英伟达考虑为Nscale的AI数据中心项目作贷款担保",
+      "此举意在缓解投资者对AI基建开支的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dd3d21cbbb4a6cc073a3ab15760a14db",
+    "title": "Fewer tokens? Anyone else noticing the big dogs’ AI efficiency push?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xjx6oi/fewer_tokens_anyone_else_noticing_the_big_dogs_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-31T01:16:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Seems like the big AI companies are putting more and more effort into making compute go further lately. stuff like:</p> <ul> <li><p>AWS making its Trainium chips and servers more energy efficient</p></li> <li><p>OpenAI pushing smaller mini/nano models for the everyday jobs.</p></li> <li><p>Google’s TurboQuant research squeezing down the memory needed for cached context.</p></li> </ul> <p>makes sense tbh. When you’re paying to run this stuff constantly, even smal",
+    "title_zh": "AI巨头纷纷转向效率优先，你是否也注意到Token消耗在减少？",
+    "summary_zh": "Reddit用户观察到，主要AI公司正更多地将精力投入到提升计算效率上，例如AWS推出更节能的Trainium芯片，OpenAI推广面向日常任务的小型模型。",
+    "key_points": [
+      "行业趋势从追求大模型转向更高效、低消耗的小模型",
+      "AWS和OpenAI等巨头正通过硬件和模型优化提升能效"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
