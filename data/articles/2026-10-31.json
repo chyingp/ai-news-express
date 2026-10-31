@@ -851,5 +851,56 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "39b8a769f9b31688f3ebd4b6359f5fbb",
+    "title": "NYT: 'the lawmakers also signaled that if the Democrats retook the House in elections on Tuesday, the chamber was likely to shift away from its largely hands-off approach to artificial intelligence companies.'",
+    "url": "https://www.reddit.com/r/artificial/comments/1xk0sda/nyt_the_lawmakers_also_signaled_that_if_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-31T04:21:21+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xk0sda/nyt_the_lawmakers_also_signaled_that_if_the/\"> <img alt=\"NYT: 'the lawmakers also signaled that if the Democrats retook the House in elections on Tuesday, the chamber was likely to shift away from its largely hands-off approach to artificial intelligence companies.'\" src=\"https://preview.redd.it/0glaxqzqbqyh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ec5a7c4a7d6d03568debf9ab34c60e65c2903bb\" title=\"NYT: 'the l",
+    "title_zh": "纽约时报：若民主党重掌众议院，或转变对AI公司的放任监管态度",
+    "summary_zh": "据纽约时报报道，美国立法者暗示，如果民主党在周二的选举中重夺众议院控制权，该议院可能会改变目前对人工智能公司基本不干预的监管方式。",
+    "key_points": [
+      "美国民主党若赢得众议院，可能加强AI监管",
+      "当前众议院对AI公司采取基本不干预的态度",
+      "选举结果将直接影响科技行业政策走向"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2acd5f5ab0dfe8e6f74b3160c1f5698d",
+    "title": "Anthropic high junk investment rating expected as Alphabet sheds $500 billion in value. Is there a soft landing for AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xjzxf7/anthropic_high_junk_investment_rating_expected_as/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-10-31T03:35:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This week made me take a new look at AI. China shed the first half trillion in AI related business value last week. This week Alphabet shaved another, or their own half trillion in market value. There are only a handful of companies on the planet who could shrug off a loss that size and go about as if it didn't happen. Many believe it is an AI related loss. It is not as damaging as the metaverse decision was to Facebook. But is it the proper AI wake up call whic",
+    "title_zh": "Anthropic获预期垃圾级投资评级，Alphabet市值蒸发5000亿美元，AI能否软着陆？",
+    "summary_zh": "文章探讨了AI行业面临的财务挑战，指出Anthropic预计将获得高垃圾级投资评级，同时Alphabet市值大幅缩水5000亿美元，引发对AI行业能否实现软着陆的质疑。",
+    "key_points": [
+      "Anthropic预计将获得高垃圾级投资评级",
+      "Alphabet市值蒸发5000亿美元，反映市场担忧",
+      "中国AI相关商业价值上周已缩水5000亿美元"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
