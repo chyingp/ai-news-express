@@ -138,5 +138,151 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7d89f96fac7f2065c0d2ec95b31e776e",
+    "title": "We have access to the most powerful AI in history, yet I sometimes have absolutely no idea what to do with it. Is that a lack of imagination?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xkmqw1/we_have_access_to_the_most_powerful_ai_in_history/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-31T22:08:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This has been bothering me lately.</p> <p>I use AI extensively for software development, work, research, and everyday tasks. Tools like Claude, Codex, and GPT have become part of my daily routine. They've made me significantly more productive.</p> <p>But here's the weird part.</p> <p>Sometimes I finish everything I need to do, and I still have plenty of tokens, usage limits, and access to incredibly powerful models.</p> <p>And I just sit there thinking... now wh",
+    "title_zh": "我们手握史上最强AI，有时却不知如何使用——这是缺乏想象力吗？",
+    "summary_zh": "作者反思尽管日常频繁使用Claude、Codex等AI工具提升生产力，但有时仍感到不知如何最大化利用其潜力，质疑这是否源于想象力匮乏。",
+    "key_points": [
+      "AI在日常工作中已显著提升生产力",
+      "用户可能因缺乏想象力未能充分挖掘AI潜力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "87307dc097e3d91d39e3d6c3996086f4",
+    "title": "Descartes' Demon Is Back, and This Time It's Targeting AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1xkmkdl/descartes_demon_is_back_and_this_time_its/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-31T21:59:58+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xkmkdl/descartes_demon_is_back_and_this_time_its/\"> <img alt=\"Descartes' Demon Is Back, and This Time It's Targeting AI\" src=\"https://external-preview.redd.it/ibW6WlN4WXOJwsFDtr5TOi5IEBa02FpTNEt_wBvH7i8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e0d8b818bc03a59c04eb8e03b558de352c83b21\" title=\"Descartes' Demon Is Back, and This Time It's Targeting AI\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.redd",
+    "title_zh": "笛卡尔的恶魔回归，这次目标是AI",
+    "summary_zh": "文章探讨了哲学思想实验“笛卡尔的恶魔”在当代的延伸，即对AI系统感知现实能力的根本性质疑，可能涉及AI安全与认知可靠的讨论。",
+    "key_points": [
+      "哲学概念“笛卡尔的恶魔”被用于质疑AI认知",
+      "探讨AI能否可靠地感知和理解现实"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8462b9fc7109b30ba03f782bf029b44d",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-31T21:41:00+00:00",
+    "content_snippet": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "title_zh": "苹果CEO称公司不想“为了AI而推出AI”",
+    "summary_zh": "苹果新任CEO为其公司在AI领域的当前策略辩护，强调不会为了单纯追求AI功能而推出产品，体现了审慎稳健的AI部署思路。",
+    "key_points": [
+      "苹果CEO强调AI产品发布不以追热点为导向",
+      "公司采取审慎策略，注重实际价值而非单纯技术堆砌"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9a46afb49d1d4059b85b2bb064c9dc05",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-31T21:17:03+00:00",
+    "content_snippet": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "title_zh": "法官允许NAACP针对xAI数据中心污染诉讼继续推进",
+    "summary_zh": "美国法官裁定，全美有色人种协进会（NAACP）指控埃隆·马斯克旗下AI公司xAI数据中心违反《清洁空气法》的诉讼可继续审理。",
+    "key_points": [
+      "法官驳回xAI撤销诉讼的动议，案件将继续",
+      "诉讼指控xAI数据中心运营违反《清洁空气法》"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "29456508c3fd58453bbb0aabdbfb0141",
+    "title": "Where the heck is Ilya?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xkkw6n/where_the_heck_is_ilya/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-10-31T20:44:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Just my gut feeling says we need him participating in the discourse because… Gotta teach the AGI to love” is his perspective and the only alignment strategy I feel like ultimately works. Ultimately I just can’t see how we possibly control ASI, but if it can understand “love” perhaps we won’t need to .</p> <p>I understand wanting to one shot safe superintelligence and be protective of his innovations but I almost worry if he stays too long in stealth he is not st",
+    "title_zh": "伊利亚·苏茨克维去哪了？",
+    "summary_zh": "Reddit用户表达了对前OpenAI首席科学家伊利亚·苏茨克维动向的关注，认为其“教AI学会爱”的对齐策略至关重要，并期待他参与AGI讨论。",
+    "key_points": [
+      "社区关注前OpenAI首席科学家伊利亚的动向",
+      "其独特的AI对齐理念被视作应对ASI的关键"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7cb082707842438aaa552a7f5e261c40",
+    "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks",
+    "url": "https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-31T18:57:26+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xkibsh/anthropics_claude_ai_blocks_video_game_cloning/\"> <img alt=\"Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks\" src=\"https://external-preview.redd.it/pD5YE6gGdfiTB0n3EVJgoPU1_s6tKLWc7-ziWXMhmBE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b64f5aab34dd152fbf8819a51796d124edfde42\" title=\"Anthropic's Clau",
+    "title_zh": "Anthropic的Claude AI封禁视频游戏克隆和逆向工程，新限制殃及合法开发者",
+    "summary_zh": "Anthropic为Claude新增使用限制，明确禁止用于视频游戏克隆和逆向工程。但新规打击面过大，也阻挠了合法游戏开发及基础故障排查工作。",
+    "key_points": [
+      "Claude新增禁止游戏克隆与逆向工程的使用条款",
+      "限制过于宽泛，已影响合法开发者与日常排错"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
