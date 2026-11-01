@@ -544,5 +544,127 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "df2b4123366a46a5ac5de5c672e3d789",
+    "title": "Working on a research framework for intelligence beyond infrastructure and looking for honest feedback",
+    "url": "https://www.reddit.com/r/artificial/comments/1xl59a7/working_on_a_research_framework_for_intelligence/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-01T15:03:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have been working on a research project called Organic Intelligence Protocol, or OIP.</p> <p>The idea started with a question I kept coming back to. Are we evaluating intelligence fairly when access to infrastructure and resources can influence how capable a system appears to be?</p> <p>OIP is my attempt to explore that question through concepts such as infrastructure independence, grounded feedback, and adaptive moral logic.</p> <p>Over the past few months, I",
+    "title_zh": "开发超越基础设施的情报研究框架，寻求真实反馈",
+    "summary_zh": "一位研究者分享其项目“有机智能协议（OIP）”，旨在探索不受基础设施和资源限制的公平智能评估框架，并向社区征求诚实的反馈意见。",
+    "key_points": [
+      "提出‘有机智能协议’（OIP）概念，探讨基础设施之外的智能评估。",
+      "研究核心是消除资源差异对智能能力评估的影响。",
+      "发布在Reddit社区寻求同行反馈。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ebea3a2dda928a1b1d912716dea481a0",
+    "title": "Trump’s achilles heel is turning his own voters against him",
+    "url": "https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-01T14:48:18+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xl4wds/trumps_achilles_heel_is_turning_his_own_voters/\"> <img alt=\"Trump’s achilles heel is turning his own voters against him\" src=\"https://external-preview.redd.it/FV0XukQm_BDBPPadIZR5NXC2EoauIi_vk137LCiE1fI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec5ef6cd2b24a7f60d5a779478588d0dffcffb19\" title=\"Trump’s achilles heel is turning his own voters against him\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https:",
+    "title_zh": "特朗普的致命弱点正让其选民倒戈",
+    "summary_zh": "一篇政治分析文章，讨论特朗普的某项政策或行为如何成为其致命弱点，导致其自身的支持者群体开始反对他。文章非AI领域内容。",
+    "key_points": [
+      "文章分析特朗普政治策略中的重大缺陷。",
+      "核心观点是特朗普正失去其核心选民的支持。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a7ca37707bf5271ce18eb487af074ae2",
+    "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+    "url": "https://www.qbitai.com/2026/11/507038.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-11-01T13:09:55+00:00",
+    "content_snippet": "",
+    "title_zh": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+    "summary_zh": "报道Anthropic针对其模型Claude的一项紧急更新，通过修改Harness配置禁止用户进行逆向工程或“逆向游戏”行为，以加强模型安全控制。",
+    "key_points": [
+      "Anthropic紧急调整Claude的Harness以禁止逆向工程。",
+      "此举旨在防止用户通过逆向游戏绕过模型安全限制。",
+      "事件引发社区对AI安全与用户权限的讨论。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8f4bc6c91b71e60c86f295b5548c6c63",
+    "title": "Data augmentation question. How do I characterise an original and augmented datasets where the augmentation parameters were zoom and crop? [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xl1uba/data_augmentation_question_how_do_i_characterise/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-01T12:28:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For context, I am a new postgraduate student in machine learning (but not a very good one). I have produced some augmented datasets (TIFF files where each file contains one object to be detected / classified) which I used in training deep learning models. I used fairly aggressive cropping (random crops between 0 and 90%) and more moderate zooms (random values between 0 and 20%). My supervisor wants me to characterise these datasets to see how augmentation has ch",
+    "title_zh": "数据增强问题：如何描述使用缩放和裁剪增强的原始与增强数据集？",
+    "summary_zh": "一位机器学习研究生在论坛提问，寻求关于如何科学地描述和表征使用缩放（zoom）与裁剪（crop）参数进行数据增强后得到的数据集特征。",
+    "key_points": [
+      "提问者寻求对经缩放裁剪增强后的数据集进行表征的方法。",
+      "问题背景是深度学习中目标检测与分类任务的数据准备。"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "914238b1f2e5c1bca9a6a634e7e742e2",
+    "title": "‘If it wasn’t for ChatGPT my brother would still be alive’: inside OpenAI’s safety unit",
+    "url": "https://www.reddit.com/r/artificial/comments/1xkzv9y/if_it_wasnt_for_chatgpt_my_brother_would_still_be/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-01T10:35:40+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xkzv9y/if_it_wasnt_for_chatgpt_my_brother_would_still_be/\"> <img alt=\"‘If it wasn’t for ChatGPT my brother would still be alive’: inside OpenAI’s safety unit\" src=\"https://external-preview.redd.it/aXvg_3fKaj07b8-YEDRBvPjZ0V56wLQ040OGimlq_-8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8e414c82cbe0ec707dd6ab0ef0303b7be5cec93\" title=\"‘If it wasn’t for ChatGPT my brother would still be alive’: inside OpenAI’s safety unit\"",
+    "title_zh": "“如果没有ChatGPT，我哥哥可能还活着”：走进OpenAI安全部门内部",
+    "summary_zh": "一篇深度报道，通过一个悲剧性案例（声称ChatGPT导致了某人死亡）来审视OpenAI安全部门的内部运作、面临的挑战及其对AI内容风险的应对措施。",
+    "key_points": [
+      "通过个人悲剧案例揭示ChatGPT可能引发的严重安全风险。",
+      "文章深入探讨了OpenAI安全部门的工作与挑战。",
+      "聚焦于AI生成内容带来的现实世界危害。"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
