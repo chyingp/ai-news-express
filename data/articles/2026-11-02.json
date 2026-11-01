@@ -22,5 +22,102 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "347479e44edbd520c551b5d7fd097fac",
+    "title": "What's One Repetitive Task You Would Automate With AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xlcntu/whats_one_repetitive_task_you_would_automate_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-01T19:54:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm a web designer, and one of the most repetitive things in my business is finding new clients.</p> <p>So naturally, email outreach was one of the first things I wanted to automate.</p> <p>But not just regular cold email where you send the same template to thousands of businesses.</p> <p>I use Swokei to find businesses with websites, analyze them for issues with design, SEO, speed, and mobile optimization, and turn those findings into personalized, ready-to-sen",
+    "title_zh": "你最想用AI自动化哪项重复性任务？",
+    "summary_zh": "一位网页设计师在Reddit发起讨论，询问人们最希望自动化的重复性任务。发帖者以自身寻找客户的邮件推广为例，表达了不想只是发送模板化冷邮件的需求。",
+    "key_points": [
+      "网页设计师分享用AI自动化客户邮件推广的想法",
+      "讨论聚焦于AI如何减少模板化重复工作"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "29c56545b6d5f8e89572dd1eda89301c",
+    "title": "DeepSeek open-sources a super-agent coding prototype: one Router, many Workers, minimal human attention",
+    "url": "https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-01T19:38:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>On October 31, the DeepSeek Harness team published a design essay, Exploring Super-agent Design: Towards a More Autonomous Agent System, alongside an MIT-licensed research prototype called dsh-superagent-prototype.</p> <p>The idea is not a new foundation model. It is orchestration around existing model-powered tools, built for one GitHub repository. A persistent Router session handles incoming conversations and dispatch decisions, but does not do the work itself",
+    "title_zh": "DeepSeek开源超级智能体编码原型：一个路由，多个工人",
+    "summary_zh": "DeepSeek团队发布了一个名为dsh-superagent-prototype的研究原型及设计论文，采用MIT许可证开源。该原型并非新基础模型，而是探索一种更自主的智能体系统架构。",
+    "key_points": [
+      "DeepSeek开源超级智能体编码原型系统",
+      "采用一个路由器加多个工人的架构设计",
+      "基于MIT许可证发布，旨在提升智能体自主性"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "deepseek"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bf030ff2c161b05ee1c5474acd37041f",
+    "title": "Like AI, we have had access to great computing power, all types of open and closed source softwares for decades. Still most people aren't even using Excel fully. AI is capable but most people won't use it as well for most use cases",
+    "url": "https://www.reddit.com/r/artificial/comments/1xlah5b/like_ai_we_have_had_access_to_great_computing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-01T18:27:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In this way AI is very overrated. 99% of even office users are basic excel users. We have had open source databases, rbdms, Hadoop and what not. </p> <p>Frankly most people don't even need AI</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Inner-Schedule8998\"> /u/Inner-Schedule8998 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/",
+    "title_zh": "类似AI，人们拥有强大算力却连Excel都用不全",
+    "summary_zh": "Reddit帖子讨论AI能力被高估，指出多数办公室用户仅使用Excel基础功能，类比过往强大的计算和软件工具未被充分利用，认为大多数人并不真正需要AI。",
+    "key_points": [
+      "多数用户仅使用Excel基础功能，AI使用率可能同样低",
+      "类比历史技术工具未被充分利用的情况",
+      "认为AI能力被高估，多数人并不需要AI"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3e27ccb6469f04244c50136f8be2b8ca",
+    "title": "I animated what GPT-4o's tokenizer does to \"strawberry\": real token ids, a tiny BPE run, and why the space belongs to the word (6 min video) [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xl9sv7/i_animated_what_gpt4os_tokenizer_does_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-01T18:01:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I made this explainer for my small channel and would like feedback from people learning this, especially if anything is wrong.</p> <p>It follows one word the whole way:</p> <ul> <li>&quot;How many r's are in strawberry?&quot; is 8 tokens in o200k_base (the GPT-4o / GPT-5 tokenizer). &quot; strawberry&quot; is a single token, id 101830, so the three r's are hidden inside one id.</li> <li>Why pieces of words: letters make sequences about 4x longer, whole words nee",
+    "title_zh": "动画解析GPT-4o分词器如何拆解单词“strawberry”",
+    "summary_zh": "一位YouTube创作者制作了一段6分钟的教学动画，详细展示了GPT-4o的o200k_base分词器如何处理“strawberry”一词，包括真实token ID和BPE算法运行过程，并征求反馈。",
+    "key_points": [
+      "通过动画可视化GPT-4o分词器处理单词的过程",
+      "包含真实token ID和BPE算法细节",
+      "视频旨在帮助学习者理解分词原理"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
