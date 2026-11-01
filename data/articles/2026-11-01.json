@@ -399,5 +399,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "b86eb43b41a19d26965fbba7283a7526",
+    "title": "Anthropic's automated red-teaming found a blind spot in training-data monitors",
+    "url": "https://www.reddit.com/r/artificial/comments/1xks5ad/anthropics_automated_redteaming_found_a_blind/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-01T02:41:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Anthropic's Alignment Science team published a new experiment on Oct 31: instead of having human red-teamers hunt for weaknesses in training-data monitors, they set thousands of Claude agents to do it automatically.</p> <p>Each agent had to produce a fine-tuning dataset (up to 5,000 examples) that would make a small research model misaligned while still passing a monitor similar to the ones Anthropic uses in production. The agents could inspect the exact monitor",
+    "title_zh": "Anthropic 发现 AI 训练数据监控存在盲点",
+    "summary_zh": "Anthropic 对齐科学团队通过实验发现，使用数千个 AI 代理自动进行红队测试，可揭露人类红队未能发现的训练数据监控盲点，展示了自动化安全测试的潜力与局限性。",
+    "key_points": [
+      "使用数千 AI 代理进行自动化红队测试",
+      "发现人类测试者未能找出的监控盲点",
+      "实验展示自动化方法在 AI 安全中的互补价值"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
