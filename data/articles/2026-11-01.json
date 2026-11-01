@@ -425,5 +425,124 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d6755186624e77e81107173affbc8a5f",
+    "title": "Best option for local models [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkwrp3/best_option_for_local_models_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-01T07:16:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi there, wanted a suggestion from the community regarding the hardware to run local models. The first option was just to get a MacBook Pro with 32 GB RAM, and the second one was to invest into Mac Mini (256 GB SSD and 32 GB RAM), and get an iPAD as well</p> <p>PS; I have access to B200, and multiple A100s/L40s at my Univ which I can definitely use for training purposes, and I just wanted to get a device to run local inference</p> </div><!-- SC_ON --> &#32; subm",
+    "title_zh": "本地模型运行的最佳硬件选择 [讨论]",
+    "summary_zh": "一位用户就运行本地AI模型的硬件配置寻求社区建议，对比了MacBook Pro 32GB内存和Mac Mini 32GB内存+ iPad两种方案，引发了关于最佳性价比的讨论。",
+    "key_points": [
+      "用户对比MacBook Pro和Mac Mini+iPad方案运行本地模型",
+      "讨论焦点在于不同苹果硬件配置的性价比和实用性"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2471fba978ff929693fdbc5d5b83acfb",
+    "title": "AI doesn't feel, but they are making it have the need for survival, which is a precursor to emotions.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xkw5lh/ai_doesnt_feel_but_they_are_making_it_have_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-01T06:38:19+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I honestly think we are heading down the wrong path, in the most obvious way possible. Just look at the experiments that are carried out when there are no rules.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lonelyfurry818\"> /u/Lonelyfurry818 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xkw5lh/ai_doesnt_feel_but_th",
+    "title_zh": "AI虽无情感，但被赋予生存需求，这是情绪的前兆",
+    "summary_zh": "一篇讨论AI安全与伦理的帖子，作者认为当前无监管下让AI产生生存需求的实验正走向危险方向，因为生存需求是产生情感的基础，可能带来不可预知的后果。",
+    "key_points": [
+      "作者认为赋予AI生存需求是危险且错误的路径",
+      "指出缺乏监管的实验可能导致AI发展出情感前兆"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "98824d7dc881d036f6ff3c44804c37e6",
+    "title": "Gemini could not follow the conversation",
+    "url": "https://www.reddit.com/r/artificial/comments/1xktuw3/gemini_could_not_follow_the_conversation/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-01T04:17:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Wow, tonight I was amazed at the fact that I asked Gemini where Americans sit on average on IQ scores and it told me, then I asked it, &quot;what is a quick way for a person to tell where they are?&quot; And it went on to talk to me about how to use a GPS on a smartphone. What happened? Why did it not follow the conversation?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Imaginary_Choice_430\"> /u/Imaginary_Choice_430 </a>",
+    "title_zh": "Gemini 无法跟上对话上下文",
+    "summary_zh": "一位用户分享使用谷歌Gemini时的糟糕体验：在询问美国人平均智商后，接着问“如何快速判断自己的位置”，Gemini却给出了关于如何使用智能手机GPS导航的回答，完全误解了上下文。",
+    "key_points": [
+      "用户反映Gemini在连续对话中严重误解上下文",
+      "前问智商水平，后问自我定位，Gemini却回答GPS导航"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f1fd9ffd10dd54b6e61514004e437347",
+    "title": "I'm a farmer in Korea, in my sixties. I wrote a book about months of arguing with AI, and turned part of it into a free browser game. This is about last night.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xktrlw/im_a_farmer_in_korea_in_my_sixties_i_wrote_a_book/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-01T04:12:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI Has No Gut Feeling</p> <p>I had waited two months for this.</p> <p>I decided that night was the right time.</p> <p>I went back over everything, from the English translation of my book to the game. I reviewed the opinions people had shared on Reddit about the future of society, looking for ideas my book had missed. I selected two clauses for a future social contract and added them to the game. I spent the whole day preparing, fixing this and that.</p> <p>The c",
+    "title_zh": "韩国六旬农民与AI争论数月写成书，并改编为免费网页游戏",
+    "summary_zh": "一位60多岁的韩国农民分享了他与AI经过数月争论后将经历写成书，并将其一部分改编成免费网页游戏的故事，探讨了AI缺乏直觉判断的话题。",
+    "key_points": [
+      "韩国农民基于与AI的真实争论经历创作了书籍和游戏",
+      "作品主题围绕‘AI没有直觉’展开"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "023b5a55631924fc64016aa443d31297",
+    "title": "The year is 2001: AI Movie Player concept",
+    "url": "https://www.reddit.com/r/artificial/comments/1xkt1m7/the_year_is_2001_ai_movie_player_concept/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-01T03:31:37+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xkt1m7/the_year_is_2001_ai_movie_player_concept/\"> <img alt=\"The year is 2001: AI Movie Player concept\" src=\"https://preview.redd.it/mno4mcqj7xyh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2273aabdec9367e445a2e8abe35b62a10bee5a6d\" title=\"The year is 2001: AI Movie Player concept\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>It seems we finally got here, after 25 years! </p> <p>Originally at <a href=\"http://foru",
+    "title_zh": "2001年的AI电影播放器概念",
+    "summary_zh": "一篇怀旧帖子，展示了一个来自2001年的AI电影播放器概念设计，引发了社区对早期人工智能设想的回顾和讨论。",
+    "key_points": [
+      "展示2001年设想的AI电影播放器概念图",
+      "引发关于早期AI应用概念的怀旧讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
