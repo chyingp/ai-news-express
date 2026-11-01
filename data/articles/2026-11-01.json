@@ -284,5 +284,120 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "7bf54536a8b2de122754f950972d5556",
+    "title": "Prof. Gary Marcus gave audience to His Holiness Pope Leo XIV and agreed to be his AI ambassador [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkqf9h/prof_gary_marcus_gave_audience_to_his_holiness/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-01T01:08:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xkqf9h/prof_gary_marcus_gave_audience_to_his_holiness/\"> <img alt=\"Prof. Gary Marcus gave audience to His Holiness Pope Leo XIV and agreed to be his AI ambassador [N]\" src=\"https://external-preview.redd.it/ntvD2f11AKbdqMxcuAv06UqEi6pQmXMji_HVT4gngmo.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=aeff27dbaf0c8f51f64d3d4d2a1003a7f3579ab1\" title=\"Prof. Gary Marcus gave audience to His Holiness Pope Leo XIV and agreed to ",
+    "title_zh": "Gary Marcus教授获教宗利奥十四世接见，同意担任AI大使",
+    "summary_zh": "Reddit消息，知名AI学者Gary Marcus教授获罗马教宗利奥十四世接见，并同意出任其AI事务大使。该消息标注为[N]（新闻），具体细节有限。",
+    "key_points": [
+      "Gary Marcus与教宗利奥十四世会面",
+      "同意担任教宗的AI大使"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dab9dedf4343638f01fb05aa9f5b5440",
+    "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-01T00:07:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been noticing that a lot of techniques seem to repeat across modalities with just a different name.</p> <p>For example, tokenisation, masking (MLM / MAE / audio masking), diffusion, next-token / next-frame prediction, etc.</p> <p>Is there an existing taxonomy or mental model that groups ML techniques by their underlying pattern rather than by modality (NLP / vision / audio)?</p> <p>This will help me to group the research papers and then make reference to wo",
+    "title_zh": "跨模态机器学习技术是否存在根本性的重复模式？",
+    "summary_zh": "Reddit用户讨论文本、图像、音频等不同模态的机器学习技术是否存在根本性的重复模式，例如分词、掩码、扩散、预测等，询问是否有现有分类法。",
+    "key_points": [
+      "探讨跨模态ML技术的共性模式",
+      "提及分词、掩码、扩散等重复出现的技巧"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2a8a956965fc3197ea4edaff6ecb33ec",
+    "title": "If You Could Automate One Task in Your Business, What Would It Be?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xkoyue/if_you_could_automate_one_task_in_your_business/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-31T23:55:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm a web designer, and one of the most repetitive things in my business is finding new clients.</p> <p>So naturally, email outreach was one of the first things I wanted to automate.</p> <p>But not just regular cold email where you send the same template to thousands of businesses.</p> <p>I use Swokei to find businesses with websites, analyze them for issues with design, SEO, speed, and mobile optimization, and turn those findings into personalized, ready to sen",
+    "title_zh": "如果你能自动化企业中的一项任务，会是什么？",
+    "summary_zh": "一位网页设计师在Reddit发帖，讨论最希望自动化的业务任务，其本人最想自动化的是寻找新客户的邮件外联工作，希望实现更个性化的自动化。",
+    "key_points": [
+      "用户讨论企业任务自动化需求",
+      "网页设计师希望自动化个性化邮件外联以寻找客户"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "26e3f6b32fb32b6c4b5af40405b42b56",
+    "title": "As AI output is becoming more indistinguishable from human made output i have this one burning question. (just an amateur who's interested)",
+    "url": "https://www.reddit.com/r/artificial/comments/1xknviq/as_ai_output_is_becoming_more_indistinguishable/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-10-31T23:01:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>AI LLM's study human made examples, and by studying those LLM's improve in their accuracy. AI training is aimed at improving the ability of replicating and improving upon human made examples. For humans AI output is easier to create than making it themselves, the only hurdle being other humans recognizing it as AI output. As accuracy of AI output improves the output from AI becomes less and less distinguishable from human made output, and as a result more and mo",
+    "title_zh": "AI输出与人类创作日益难辨引发的一个根本性问题",
+    "summary_zh": "Reddit业余爱好者发帖提问，当AI输出越来越像人类作品，且训练数据可能混入AI生成内容时，是否会形成循环影响，贴文原标题为英文。",
+    "key_points": [
+      "用户担忧AI内容与人类创作难以区分",
+      "探讨如训练数据混入AI生成内容可能导致递归影响"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b3dfb64c1371b0974f951997fe0584ce",
+    "title": "Really impressed with AI language translation",
+    "url": "https://www.reddit.com/r/artificial/comments/1xknbji/really_impressed_with_ai_language_translation/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-10-31T22:35:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Normally I’m on a mission to combat the hype and misinformation about LLMs and exaggerated or misleading statements about its abilities, but I was reading the documents that were released in the latest tranche of PURSUE files on the department of war government site, and in one folder there are a bunch of handwritten letters from the 40s and 50s written in cursive. I’m a millennial so I can read them, but I came across one I just couldn’t make out. So I uploaded",
+    "title_zh": "对AI语言翻译能力印象深刻",
+    "summary_zh": "Reddit用户发帖表示，尽管平时致力于反对夸大LLM能力，但在阅读最新一批公开文件时，对AI的语言翻译水平感到印象深刻。",
+    "key_points": [
+      "用户称赞AI语言翻译能力超出预期",
+      "体验来自阅读最新政府公开文件"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
