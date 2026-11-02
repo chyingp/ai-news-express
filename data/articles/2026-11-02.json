@@ -215,5 +215,28 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "35fd66e9373349caac0f09dc7fe2b61e",
+    "title": "UnEZ: A fully unsupervised, directly interpretable neural network [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlkj9m/unez_a_fully_unsupervised_directly_interpretable/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-02T01:40:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Had this paper come up on my arxiv mailing list and wanted to hear your thoughts on it. Bit of a longer read but as far as I can tell it’s similar to an autoencoder but with a directly interpretable latent space rather than an abstract one. Anyone aware of other models that perform in a similar manner? I haven’t seen any models that can train on an unlabeled dataset then output the labels directly so I’d love to hear about any similar architectures you guys have",
+    "title_zh": "UnEZ：一种完全无监督、直接可解释的神经网络",
+    "summary_zh": "文章介绍了一种名为UnEZ的新型神经网络，它类似于自编码器，但拥有一个可直接解释的潜空间，而非抽象的潜空间，旨在实现完全无监督学习下的模型可解释性。",
+    "key_points": [
+      "UnEZ提供一种类似自编码器的架构，但潜空间直接可解释",
+      "该网络实现了完全无监督的特征学习和解释能力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
