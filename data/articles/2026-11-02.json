@@ -238,5 +238,173 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9286cc3e329f70b30435448078a62fb1",
+    "title": "Has anyone ever seen Retrofuturism like this? Ai Made Scifi Space Opera",
+    "url": "https://www.reddit.com/r/artificial/comments/1xlqdrw/has_anyone_ever_seen_retrofuturism_like_this_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-02T06:57:48+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xlqdrw/has_anyone_ever_seen_retrofuturism_like_this_ai/\"> <img alt=\"Has anyone ever seen Retrofuturism like this? Ai Made Scifi Space Opera\" src=\"https://external-preview.redd.it/eG11MnN6OGJkNXpoMcIzckHssAXDp1mhuDUmlTNaCEKhce2dyNT6M7rB1Av9.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec56e28cd850e60119d8e4c9ea49a9b5f4ba87df\" title=\"Has anyone ever seen Retrofuturism like this? Ai Made Scifi Space Opera\" /> </a> </td><td>",
+    "title_zh": "有人见过这样的复古未来主义吗？AI制作的科幻太空歌剧",
+    "summary_zh": "Reddit用户分享了一段由AI生成的复古未来主义风格科幻太空歌剧视频，探讨其独特的视觉美学和AI在艺术创作中的应用。",
+    "key_points": [
+      "用户分享AI生成的复古未来主义科幻视频",
+      "探讨AI在艺术和视觉美学创作中的独特表现"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a83d6d6078a7bf790eda9b53f27de6bc",
+    "title": "How do you guys handle AI image/video moderation at scale?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xlpsnm/how_do_you_guys_handle_ai_imagevideo_moderation/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-02T06:21:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm building a content moderation system, processing potentially 1M+ uploads per day.</p> <p>We need to detect and block these categories:</p> <ul> <li><code>m*nor</code></li> <li><code>s*xual_v*olence</code></li> <li><code>b*stiality</code></li> <li><code>self_h*rm</code></li> <li><code>real_person</code> (non-consensual use of identifiable people's likeness)</li> </ul> <p>I'm exploring open-source models, self-hosted solutions, commercial APIs (Sightengine, AW",
+    "title_zh": "你们是如何大规模处理AI图像/视频审核的？",
+    "summary_zh": "一位开发者正在构建日处理超百万上传的内容审核系统，寻求能检测未成年、性暴力等违规内容的AI模型方案，以应对大规模审核挑战。",
+    "key_points": [
+      "开发者寻求日处理百万级上传的审核方案",
+      "需检测未成年、性暴力等多类违规内容"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9df91e07c53dd46432fdacbd1d9edc1e",
+    "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+    "url": "https://www.qbitai.com/2026/11/507107.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-11-02T06:08:04+00:00",
+    "content_snippet": "能指挥Agent干活，还能控制智能家居",
+    "title_zh": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+    "summary_zh": "小米发布了一款售价约150元的开源AI硬件产品，能够指挥Agent和智能家居，引发抢购热潮导致相关配件涨价。",
+    "key_points": [
+      "小米发布低成本开源AI硬件，售价约150元",
+      "产品能控制Agent和智能家居，引爆市场",
+      "因需求旺盛，相关配件价格随之上涨"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "xiaomi"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "84949685a22db3e90e4f3e0d011803f8",
+    "title": "How to handle object deduplication across multiple camera angles using YOLO (especially for tiny 20x22px crops) across isolated user sessions? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xloo4i/how_to_handle_object_deduplication_across/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-02T05:15:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’m building a computer vision pipeline where users upload multiple photos of the same physical scene taken from different angles (front view, side view, close-up) to build a clean list of unique objects and their attributes.<br /> I’m running <strong>YOLO</strong> for object detection to extract bounding boxes and crop each detected object into lightweight ⁠.webp⁠ images. Because the same physical object appears across 3 or 4 different photos from different ang",
+    "title_zh": "如何使用YOLO处理多摄像头角度下的物体去重（特别针对20x22像素的微小裁剪）",
+    "summary_zh": "用户在机器学习板块提问，讨论如何构建计算机视觉流程，使用YOLO模型处理不同角度照片中的微小物体去重问题，以生成唯一对象列表。",
+    "key_points": [
+      "讨论使用YOLO进行多角度图像的物体去重",
+      "重点解决20x22像素微小裁剪对象的识别挑战"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b6c54db9acfa9edc79a9978f368d9fc0",
+    "title": "Brandon sex offender had 'sexual conversations' with AI-generated children: HCSO",
+    "url": "https://www.reddit.com/r/artificial/comments/1xlo5om/brandon_sex_offender_had_sexual_conversations/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-02T04:47:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xlo5om/brandon_sex_offender_had_sexual_conversations/\"> <img alt=\"Brandon sex offender had 'sexual conversations' with AI-generated children: HCSO\" src=\"https://external-preview.redd.it/z4EnTag1A-LvluJ1xm6L3OS9Az_nWBJE2TdppwBuH5g.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dfabe233d6b9a3d2cd97cba0f8870eae8c89f464\" title=\"Brandon sex offender had 'sexual conversations' with AI-generated children: HCSO\" /> </a> </td><td>",
+    "title_zh": "性犯罪者与AI生成儿童进行“性对话”被查获",
+    "summary_zh": "一名有前科的性犯罪者因使用AI技术生成儿童形象并进行违法对话，被警方逮捕，引发对AI技术滥用和监管的关注。",
+    "key_points": [
+      "性犯罪者利用AI生成儿童形象进行违法对话",
+      "案件引发对AI技术伦理和滥用风险的讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f3a11e2da23a031705e8e3bb31bc07a9",
+    "title": "[R] There is no free lunch in RLVR: under strategy specialization, every pass@1 gain provably costs some prompt, and the pass@k crossover has a tight bound [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xlnu1y/r_there_is_no_free_lunch_in_rlvr_under_strategy/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-02T04:30:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Paper: <a href=\"https://arxiv.org/abs/2610.39295\">https://arxiv.org/abs/2610.39295</a></p> <p>Code + verification package (every number in the paper is checked by a script): <a href=\"https://github.com/yliusci/no-free-lunch-rlvr\">https://github.com/yliusci/no-free-lunch-rlvr</a></p> <p>Browser diagnostic: <a href=\"https://huggingface.co/spaces/yliusci/passk-price\">https://huggingface.co/spaces/yliusci/passk-price</a></p> <p>I kept running into the same pattern i",
+    "title_zh": "RLVR没有免费午餐：策略专精下每次pass@1收益必含代价",
+    "summary_zh": "一篇研究论文证明，在强化学习验证奖励下，策略专精导致的pass@1性能提升必然以某些提示的代价为交换，并给出了pass@k交叉的紧密界限。",
+    "key_points": [
+      "论文证明RLVR中pass@1提升必有代价",
+      "给出了策略专精下pass@k交叉的紧密理论界限"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "409ff3d7d1ca211b4e7a4f57ce053c31",
+    "title": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+    "url": "https://www.qbitai.com/2026/11/507082.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-11-02T04:28:53+00:00",
+    "content_snippet": "HuggingFace疑似泄露权重已被下5000次",
+    "title_zh": "GPT-6.2 Astra开启灰测！Claude Mythos 5.5同日曝光",
+    "summary_zh": "OpenAI的GPT-6.2 Astra开始灰度测试，同日Anthropic的Claude Mythos 5.5模型也被曝光，HuggingFace上疑似泄露的权重已被下载超5000次。",
+    "key_points": [
+      "GPT-6.2 Astra启动灰度测试",
+      "Anthropic的Claude Mythos 5.5同日遭曝光",
+      "HuggingFace疑似泄露模型权重，下载量超5000次"
+    ],
+    "importance": 5,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
