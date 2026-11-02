@@ -119,5 +119,101 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3ce613be2e44a54f6263446ae94762f2",
+    "title": "Feds find small businesses that use AI are more likely to hire",
+    "url": "https://www.reddit.com/r/artificial/comments/1xli21l/feds_find_small_businesses_that_use_ai_are_more/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-01T23:43:03+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xli21l/feds_find_small_businesses_that_use_ai_are_more/\"> <img alt=\"Feds find small businesses that use AI are more likely to hire\" src=\"https://external-preview.redd.it/yI-JFrCh0OzDKk1l1DSR4uxMvPpzehg1fWefbRG5m8Y.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76705428734da579ccd63933800083ae802c29ab\" title=\"Feds find small businesses that use AI are more likely to hire\" /> </a> </td><td> &#32; submitted by &#32; <a href=",
+    "title_zh": "联邦调查发现使用人工智能的小型企业更可能增加招聘",
+    "summary_zh": "美国政府机构的一项研究发现，采用人工智能技术的小型企业更倾向于扩大招聘，而非裁员，表明AI应用可能带动了新的就业机会。",
+    "key_points": [
+      "使用AI的小型企业更可能增加而非减少招聘",
+      "研究挑战了AI必然导致大规模失业的普遍担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cf5e1b5d84c4197bd1feb084f4696795",
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-01T21:55:23+00:00",
+    "content_snippet": "Data centers are deeply unpopular. But what if we called them something else?",
+    "title_zh": "OpenAI 拟将数据中心更名为“AI算力园区”",
+    "summary_zh": "OpenAI 正考虑将其数据中心重新命名为“AI 算力园区”，以应对公众对传统数据中心高能耗等问题的负面印象。",
+    "key_points": [
+      "OpenAI 计划通过改称“AI算力园区”来重塑数据中心形象",
+      "此举旨在缓解公众对数据中心环境影响的担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5087c31902400a4e9e213ee7c8e1205b",
+    "title": "OpenAI is now capping how many paid ChatGPT accounts you can have per device and payment card",
+    "url": "https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-01T21:44:45+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/\"> <img alt=\"OpenAI is now capping how many paid ChatGPT accounts you can have per device and payment card\" src=\"https://external-preview.redd.it/DZ51iJNjU4-9Tp8E_R3kWqN9W0oRB7A7oqFC16tURFI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=abfced9192c11565416eab39dd177afcc5309650\" title=\"OpenAI is now capping how many paid ChatGPT accounts you can have per device and payment ",
+    "title_zh": "OpenAI 开始限制每台设备和支付卡可持有的付费ChatGPT账户数量",
+    "summary_zh": "OpenAI 推出新政策，对用户每台设备和每张支付卡可拥有的付费 ChatGPT 账户数量设置上限，旨在防止滥用。",
+    "key_points": [
+      "OpenAI 限制单设备/单卡关联的付费ChatGPT账户数",
+      "新规旨在打击账户共享和商业滥用行为"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b3a6357c7fdd515ddda6f29f03ff0c55",
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-01T20:57:58+00:00",
+    "content_snippet": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+    "title_zh": "人工智能能让科技公司CEO工作更轻松，但其他人呢？",
+    "summary_zh": "在《Equity》播客中，人们讨论了为何科技公司CEO关于AI提升效率的言论显得脱离实际，忽略了普通员工可能面临的职位替代和工作量增加等挑战。",
+    "key_points": [
+      "探讨科技CEO言论与普通员工对AI感受之间的脱节",
+      "分析AI在提升管理层效率同时可能给员工带来的压力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
