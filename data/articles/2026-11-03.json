@@ -590,5 +590,267 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c8f2e6d0210ea37707adddefea93ae41",
+    "title": "How to tell if a voice recording is AI-generated",
+    "url": "https://www.reddit.com/r/artificial/comments/1xm9hsx/how_to_tell_if_a_voice_recording_is_aigenerated/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-02T21:05:26+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xm9hsx/how_to_tell_if_a_voice_recording_is_aigenerated/\"> <img alt=\"How to tell if a voice recording is AI-generated\" src=\"https://external-preview.redd.it/n3tOqo80tl9Sz1fxNBWIo6gVVw0cu6EH_6zD9x9gKU8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b43e89ee7f273ceb74783801f3904f3bcb6e3eb9\" title=\"How to tell if a voice recording is AI-generated\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/",
+    "title_zh": "如何辨别一段录音是否为AI生成",
+    "summary_zh": "Reddit讨论帖，介绍辨别AI生成语音录音的方法和技巧，帮助用户识别深度伪造音频。",
+    "key_points": [
+      "分析AI生成语音的常见特征与破绽",
+      "提供实用的辨别方法和工具建议"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "83195940d93af293ddd168177036db75",
+    "title": "LightMIS: Ultra-lightweight medical image segmentation for edge devices [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm8dbo/lightmis_ultralightweight_medical_image/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-02T20:22:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I am one of the authors of LightMIS, and I would like to share our work on 2D binary medical image segmentation. LightMIS has 131K parameters and aggregates multi-scale encoder features directly, without a learned stage-wise decoder. It achieves close observed modality-macro Dice and IoU averages to nnWNet, while using 98.14% fewer parameters and 94.58% fewer GFLOPs, with both models trained and evaluated under the same nnU-Net protocol.</p> ",
+    "title_zh": "LightMIS：面向边缘设备的超轻量医学图像分割模型",
+    "summary_zh": "研究人员发布LightMIS模型，专为边缘设备设计，参数仅13.1万，无需解码器即可聚合多尺度特征，实现高效2D医学图像分割。",
+    "key_points": [
+      "模型仅13.1万参数，适合边缘设备部署",
+      "无需学习型解码器，直接聚合多尺度特征"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "02f99a9717cf5e37c885a1a9db1705a0",
+    "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-02T20:18:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Link: <a href=\"https://rikiyat.github.io/blog/weight-space-programming/\">https://rikiyat.github.io/blog/weight-space-programming/</a></p> <p>Snippet: “We find that frontier LLMs are surprisingly good at <strong>natively reading and writing neural network weights</strong>, well past what we’d expect from humans or conventional algorithms. This might be a big deal for both optimization and interpretability.<br /> Just by looking at the raw weights, GPT-6 Astra <st",
+    "title_zh": "权重空间编程的火花：大语言模型能原生读写神经网络权重",
+    "summary_zh": "研究发现前沿大语言模型展现出原生读写神经网络权重的能力，这一发现挑战了模型仅限于文本处理的认知，为AI编程开辟新方向。",
+    "key_points": [
+      "前沿LLM能原生读写神经网络权重",
+      "能力超越文本处理，可进行权重空间编程"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "03cd53e16add8549fcbe3a2c1f1e068e",
+    "title": "OpenAI lowers funding goals as investors cool on AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-02T19:47:27+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/\"> <img alt=\"OpenAI lowers funding goals as investors cool on AI\" src=\"https://external-preview.redd.it/bVlgn_IVm9_tBYTDkDMblTh5I_O-jgY4etsXVdOcvA4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=29a1cc2fa6d32171fa1226bd5072018a9f96184e\" title=\"OpenAI lowers funding goals as investors cool on AI\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.c",
+    "title_zh": "投资者对AI降温，OpenAI降低融资目标",
+    "summary_zh": "据报道，由于投资者对AI领域热情减退，OpenAI下调了其融资目标，反映出市场对AI投资的态度趋于谨慎。",
+    "key_points": [
+      "OpenAI因投资者热情降温而下调融资目标",
+      "反映市场对AI领域投资态度趋于谨慎"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "daa188e2f56eca54dcf2c55bdf4dcfa1",
+    "title": "Your agentic coding sessions are a treasure",
+    "url": "https://www.reddit.com/r/artificial/comments/1xm6ev6/your_agentic_coding_sessions_are_a_treasure/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-02T19:10:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xm6ev6/your_agentic_coding_sessions_are_a_treasure/\"> <img alt=\"Your agentic coding sessions are a treasure\" src=\"https://external-preview.redd.it/EvO4yqigLIZQZ3VytEN__V47v3eKk8dBAIxDakJgy_s.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d66dbbe447758767f3c38fcbb18daa9cc804dfc1\" title=\"Your agentic coding sessions are a treasure\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Bartaseth\"> /",
+    "title_zh": "你的智能体编程会话是个宝藏",
+    "summary_zh": "Reddit讨论帖，指出用户的智能体编程会话数据具有宝贵价值，探讨其在模型训练和改进中的潜在用途。",
+    "key_points": [
+      "智能体编程会话数据对模型训练具有重要价值",
+      "探讨利用会话数据改进AI编程工具的可能性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3375e4915d2814f848c883808ea23d8c",
+    "title": "Couldn't reproduce a published paper's numbers with its own code and settings. How do I present this? [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm64of/couldnt_reproduce_a_published_papers_numbers_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-02T19:00:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm writing a machine learning paper. One of my baselines is a published method. I reran it with the authors' released code and the exact hyperparameters listed in their paper. On most benchmarks my numbers match theirs within noise, but on two benchmarks my reproduction is clearly lower, by several points, over three seeds. I've repeated the reproduction four different times, months apart, with the same result.</p> <p>I plan to report both: their published numb",
+    "title_zh": "无法用自己的代码和设置复现已发表论文的数据，该如何呈现？[讨论]",
+    "summary_zh": "一名机器学习研究者在尝试复现已发布论文结果时，使用作者提供的代码和参数发现部分基准测试结果无法匹配，寻求学术呈现建议。",
+    "key_points": [
+      "使用原文代码和超参数仍难以复现部分结果",
+      "讨论学术论文中如何呈现无法复现的情况"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8531cc516d803558b418afba8f295ad9",
+    "title": "Anthropic clamps down on Claude’s AI video game clones",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-02T18:56:02+00:00",
+    "content_snippet": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to [&#8230;]",
+    "title_zh": "Anthropic 禁止使用 Claude 克隆电子游戏",
+    "summary_zh": "Anthropic更新了Claude Code的系统提示，阻止用户使用该AI工具复刻现有电子游戏，以应对AI生成游戏克隆泛滥的现状。",
+    "key_points": [
+      "Anthropic更新Claude Code以阻止游戏克隆",
+      "AI生成的游戏反编译和移植正在泛滥"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fed672823bae30559a66829c960ccad3",
+    "title": "To all ML PhDs, how are you guys doing these days? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xm5w5i/to_all_ml_phds_how_are_you_guys_doing_these_days_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-02T18:52:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Given how competitive AI research has become, and how much luck is involved in landing an actual research role at Big Tech or an AI startup, do you still think your PhD was worth it?<br /> Yes, i know a PhD should primarily be about enjoying research, not getting an industry job. But realistically, we all need to make a living, and after 4–6 years, you’d hope to have some opportunities beyond roles where a master’s would have been enough.<br /> So how you guys f",
+    "title_zh": "各位机器学习博士生，你们最近过得怎么样？[讨论]",
+    "summary_zh": "Reddit上的讨论帖，机器学习博士生们在AI研究竞争激烈、产业研究岗位难寻的背景下，探讨攻读博士学位的价值是否值得。",
+    "key_points": [
+      "AI研究竞争激烈，产业研究岗位难寻",
+      "博士生讨论博士学位在当前环境下的价值"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b26578c04a00196cfa190b7dd658bfbf",
+    "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+    "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-02T18:05:31+00:00",
+    "content_snippet": "The tsunami of imitators is way bigger than any one model maker can stem.",
+    "title_zh": "Claude 禁止游戏克隆的新规难以阻止AI复制热潮",
+    "summary_zh": "Ars Technica评论文章认为，尽管Anthropic禁止Claude克隆游戏，但AI模仿创作的浪潮规模巨大，单一模型厂商的限制难以根本阻止。",
+    "key_points": [
+      "单一模型厂商的限制难以阻止AI克隆潮流",
+      "AI模仿创作已成难以遏制的行业现象"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4abc12850beae1d087ab9a035a4d6f19",
+    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-02T18:01:30+00:00",
+    "content_snippet": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to [&#8230;]",
+    "title_zh": "OpenAI将数据中心发电厂宣传为保护周边地区的方式",
+    "summary_zh": "OpenAI宣布在佐治亚州数据中心试点“电网保护者计划”，承诺在极端天气或紧急情况下释放高达1000兆瓦电力，足够70万户家庭空调用电。",
+    "key_points": [
+      "OpenAI试点计划，紧急时释放1000兆瓦电力",
+      "旨在保障周边社区在极端天气下的电力供应"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f3c40d8a649f8cb1c65bb905fea2215b",
+    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-02T17:51:19+00:00",
+    "content_snippet": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and [&#8230;]",
+    "title_zh": "《纽约时报》起诉 Brave 浏览器，指控其非法抓取内容训练 AI 并绕过付费墙",
+    "summary_zh": "《纽约时报》等多家出版商联合起诉 Brave 浏览器开发商，指控其未经许可抓取受版权保护的内容以训练 AI 模型，并涉嫌提供功能帮助用户绕过付费墙。",
+    "key_points": [
+      "《纽约时报》联合其他出版商起诉 Brave 浏览器开发商",
+      "指控涉及非法抓取内容用于训练人工智能模型",
+      "还指控 Brave 允许用户绕过网站付费墙"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
