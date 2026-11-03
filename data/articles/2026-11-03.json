@@ -852,5 +852,103 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "406009df40af7e8801432d641e5514f5",
+    "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+    "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-02T23:30:16+00:00",
+    "content_snippet": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
+    "title_zh": "国家航空航天博物馆改造完成，“太空家园”展区开放",
+    "summary_zh": "史密森尼国家航空航天博物馆完成大规模改造，其全新的“太空家园”展区正式对公众开放，标志着该馆所有太空主题展区已全面重启。",
+    "key_points": [
+      "史密森尼国家航空航天博物馆完成改造",
+      "全新\"太空家园\"常设展区正式开放",
+      "所有太空主题展区恢复全面开放"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c368c304bd55e435c140688a32e1ff5f",
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-02T23:13:53+00:00",
+    "content_snippet": "The one-year-old startup is now valued at $300 million.",
+    "title_zh": "Trajectory 获 4500 万美元融资，让非技术专家也能训练 AI 模型",
+    "summary_zh": "成立仅一年的 AI 初创公司 Trajectory 完成 4500 万美元融资，估值达 3 亿美元。其平台旨在简化 AI 模型训练流程，使非技术背景的行业专家也能参与构建。",
+    "key_points": [
+      "Trajectory 完成 4500 万美元融资，估值 3 亿美元",
+      "平台致力于让非技术专家也能训练 AI 模型",
+      "公司成立仅一年，旨在降低 AI 开发门槛"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c55e2f44554894e71bf7f36b8faf3db0",
+    "title": "failure log #2: the patch was real, the bug was different, the PoC still fired",
+    "url": "https://www.reddit.com/r/artificial/comments/1xmbiex/failure_log_2_the_patch_was_real_the_bug_was/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-02T22:23:35+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xmbiex/failure_log_2_the_patch_was_real_the_bug_was/\"> <img alt=\"failure log #2: the patch was real, the bug was different, the PoC still fired\" src=\"https://external-preview.redd.it/ZXV6amVnaHJ5OXpoMSw8vqP-HK7Ubvf3xWnarrhWbNaWQFaZOs5yqtfbKkgT.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ebd2dc4cd9fa55fc735f8bd80f13467ae7d42b7\" title=\"failure log #2: the patch was real, the bug was different, the PoC still fired\" /> </a",
+    "title_zh": "故障日志 2：补丁真实有效，但存在其他漏洞，概念验证仍被触发",
+    "summary_zh": "一篇技术故障排查日志，描述了一个安全补丁虽修复了原问题，但因存在另一处被忽视的漏洞，导致概念验证攻击依然能够成功执行的案例。",
+    "key_points": [
+      "安全补丁修复了原有漏洞但未解决根本问题",
+      "存在另一处不同漏洞导致攻击仍然生效",
+      "文章为开发者分享的真实故障排查经验"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b86b88ec9ca0ed8c65c70dff76f852cb",
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-11-02T22:14:50+00:00",
+    "content_snippet": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+    "title_zh": "Anthropic 警告称已非常接近 RSI 能力，即自我构建 AI",
+    "summary_zh": "Anthropic 发出警告，称 AI 系统正接近递归自我改进能力。RSI 代表 AI 能够自主训练并大规模加速自身能力发展的临界点，被认为可能带来不可逆的灾难性风险。",
+    "key_points": [
+      "Anthropic 警告 AI 系统正趋近递归自我改进能力",
+      "RSI 指 AI 可自行训练导致能力急剧加速",
+      "该能力被部分人视为不可逆转的灾难性临界点"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
