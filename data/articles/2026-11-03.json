@@ -950,5 +950,279 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f4ee1b7cabd3fcec0ce9c96166f1073f",
+    "title": "I made ChatGPT, Claude, Gemini, etc. into FREE text-to-speech sites.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xmim57/i_made_chatgpt_claude_gemini_etc_into_free/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-03T03:44:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Nowadays, all popular ai chatting websites like qwen, chatgpt, gemini, claude, etc. come with a read aloud functionality that allows users to read aloud the AI's responses.</p> <p>I used that feature to instead make the AI repeat back the text that i gave it -- effectively turning the platforms into text to speech tools. It's simple but it's worked for over 30k users, and the voices sound really nice and it's free to use!</p> <p>You can get all of these extensio",
+    "title_zh": "我将ChatGPT、Claude、Gemini等制成了免费的文本转语音网站",
+    "summary_zh": "一位开发者利用ChatGPT、Claude、Gemini等主流AI聊天网站的朗读功能，将其改造成免费的文本转语音工具网站。",
+    "key_points": [
+      "利用AI聊天产品的朗读功能实现免费TTS",
+      "支持ChatGPT、Claude、Gemini等多个平台",
+      "属于个人开发者创意项目"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "36719bfa3896332cb6c0703462b19743",
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-03T03:30:00+00:00",
+    "content_snippet": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+    "title_zh": "谷歌将Dreambeans推向印度，力图普及AI生成个性化故事",
+    "summary_zh": "谷歌将其最新的AI实验项目Dreambeans引入印度市场，该应用目前已支持13种印度语言，旨在通过AI为大众生成个性化故事。",
+    "key_points": [
+      "谷歌AI实验项目Dreambeans进军印度",
+      "已支持13种印度地方语言",
+      "目标是用AI生成大众化个性化故事"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "67762201d80432299ff09b310ab03bec",
+    "title": "Apple Intelligence in China will run on Alibaba's Qwen, testing starts Nov 4",
+    "url": "https://www.reddit.com/r/artificial/comments/1xmhyjf/apple_intelligence_in_china_will_run_on_alibabas/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-03T03:12:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Apple's China Newsroom said on Oct 31 that Apple Intelligence will begin testing on November 4 via the iOS developer Beta and ship to Chinese users in December with iOS 27.3. The China rollout integrates Alibaba's Qwen model. Apple Intelligence was first unveiled at WWDC in June 2024, so Chinese iPhone users have waited about two and a half years.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bestvicam\"> /u/bestvicam </a>",
+    "title_zh": "Apple Intelligence中国版将搭载阿里巴巴Qwen模型，11月4日开始测试",
+    "summary_zh": "苹果宣布Apple Intelligence将于11月4日通过iOS开发者测试版在中国开始测试，并于12月向用户推送。国行版本将集成阿里巴巴的Qwen模型，而非ChatGPT。",
+    "key_points": [
+      "中国版Apple Intelligence搭载阿里巴巴Qwen模型",
+      "11月4日开始测试，12月正式推送",
+      "国行版Siri等AI功能将由Qwen驱动"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7d5c04d205f2e7b5c01eb843e7fb1828",
+    "title": "Are We Measuring AI Intelligence, or Just the Infrastructure Behind It?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xmhgs4/are_we_measuring_ai_intelligence_or_just_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-03T02:49:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We often measure AI intelligence through speed, computing power, data, and overall performance. But are these measures telling us how intelligent a system really is?</p> <p>How much of an AI system's performance comes from its own capabilities, and how much depends on the infrastructure supporting it?</p> <p>Consider an AI system operating with stable electricity, cloud access, and continuous internet connectivity. It performs well under these conditions. But wh",
+    "title_zh": "我们是在衡量AI智能，还是仅仅衡量其背后的基础设施？",
+    "summary_zh": "文章探讨了当前AI性能评估标准的有效性，质疑通过速度、算力和数据等指标衡量的到底是系统真正的智能水平，还是仅仅反映了其依赖的基础设施能力。",
+    "key_points": [
+      "质疑当前AI评估过于关注算力和速度",
+      "探讨AI性能多少来自自身能力的问题",
+      "反思对AI智能本质的衡量标准"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fa861d362190a95653ca09392ef21bb2",
+    "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+    "url": "https://www.qbitai.com/2026/11/507322.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-11-03T01:57:30+00:00",
+    "content_snippet": "指令执行能力也同步提升",
+    "title_zh": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+    "summary_zh": "MIT研究显示，GPT-6 Astra模型能够直接修改阿里巴巴通义千问Qwen模型的权重参数，令其数学能力提升6倍，同时指令执行能力也获得同步增强。",
+    "key_points": [
+      "GPT-6 Astra可直接修改Qwen模型权重",
+      "Qwen数学能力因此暴涨6倍",
+      "指令执行能力也得到同步提升"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dc645454d4f3c1091e7b71326ae0a7d0",
+    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+    "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-03T01:49:52+00:00",
+    "content_snippet": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+    "title_zh": "苹果或试图通过与第三方AI应用合作增加收入",
+    "summary_zh": "苹果在周一的财报电话会议中暗示，将探索通过第三方AI应用带来的“机会”来增加收入。这表明苹果可能正在着手布局围绕第三方AI的商业化策略。",
+    "key_points": [
+      "苹果在财报会上暗示第三方AI商业化可能",
+      "计划通过第三方AI应用机会增加收入",
+      "涉及苹果未来的AI商业变现策略"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c17c39e73eb5cb0037138e699538c5c8",
+    "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
+    "url": "https://www.qbitai.com/2026/11/507313.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-11-03T01:46:55+00:00",
+    "content_snippet": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作",
+    "title_zh": "爱诗科技PixVerse与OpenAI深度合作，打通AI创意全流程",
+    "summary_zh": "爱诗科技旗下AI视频生成平台PixVerse宣布与OpenAI开启深度合作，双方将共同推出产品集成和创作者教育计划，旨在高效打通从文本、图像到视频的AI创意全流程。",
+    "key_points": [
+      "PixVerse与OpenAI建立深度合作关系",
+      "推出产品集成与创作者教育计划",
+      "旨在打通AI创意从生成到视频的全流程"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "09b8d69e34fb97b431b80e46557c56b9",
+    "title": "OpenAI’s quarterly commit growth has exploded this year, rising to 2442% by Q4 2026 relative to Q1 2024",
+    "url": "https://www.reddit.com/r/artificial/comments/1xmfx3a/openais_quarterly_commit_growth_has_exploded_this/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-03T01:36:30+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xmfx3a/openais_quarterly_commit_growth_has_exploded_this/\"> <img alt=\"OpenAI’s quarterly commit growth has exploded this year, rising to 2442% by Q4 2026 relative to Q1 2024\" src=\"https://preview.redd.it/axe13pb2xazh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d53439199888a26bad092dac4fd657afc8f429fa\" title=\"OpenAI’s quarterly commit growth has exploded this year, rising to 2442% by Q4 2026 relative to Q1 2024\" /> </a",
+    "title_zh": "OpenAI季度代码提交量飙升，同比增长2442%",
+    "summary_zh": "数据显示，OpenAI在2026年第四季度的代码提交（Commit）活动相比2024年第一季度增长了2442%，呈现爆发式增长，一定程度上反映了其研发活动的急剧加速。",
+    "key_points": [
+      "OpenAI代码提交量同比增长2442%",
+      "反映出研发活动急剧加速",
+      "数据对比为26年Q4与24年Q1"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "32e78b27297ccb1420b49ffc09c0c455",
+    "title": "Designers, how do you... work?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xmf7dx/designers_how_do_you_work/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-03T01:03:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm asking because, as a software engineer, I never thought about how things looked. I just wanted them to work.</p> <p>Now with AI, it seems like the most important thing actually is how things look, because the &quot;making it work&quot; part is increasingly handled by AI. (I know, not 100%, you still need to understand systems, yada yada.) But I've noticed that everything I'm searching for lately is design skills and prompts to make AI output look less like A",
+    "title_zh": "设计师们，你们是如何……工作的？",
+    "summary_zh": "一位软件工程师在AI时代对设计师工作方式的提问和思考，认为随着AI让功能实现变得容易，产品的外观和设计感可能成为更重要的价值所在。",
+    "key_points": [
+      "软件工程师对AI时代设计价值的思考",
+      "认为AI简化功能后，视觉设计更显重要",
+      "属于社区个人见解讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3dc62719b6736bfb38f6ed4a8c6e1d8d",
+    "title": "Apple Intelligence is finally coming to China in December, powered by Alibaba's Qwen instead of ChatGPT",
+    "url": "https://www.reddit.com/r/artificial/comments/1xmf3on/apple_intelligence_is_finally_coming_to_china_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-03T00:58:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Apple confirmed on October 31 that Apple Intelligence will come to iPhones in mainland China in December with iOS 27.3, with testing starting in the iOS developer beta on November 4.</p> <p>The notable part is the model swap: instead of ChatGPT, Siri, Writing Tools and Visual Intelligence in China will be able to call on Alibaba's Qwen for text and image understanding and content generation. Alibaba says user requests and generated responses will not be used for",
+    "title_zh": "Apple Intelligence终于进入中国，将搭载阿里Qwen而非ChatGPT",
+    "summary_zh": "苹果确认Apple Intelligence将于12月随iOS 27.3进入中国，11月4日开始测试。关键变化是：Siri和写作工具等AI功能将由中国监管批准的阿里巴巴通义千问（Qwen）模型提供支持，而非ChatGPT。",
+    "key_points": [
+      "苹果确认国行版Apple Intelligence上线时间",
+      "将使用阿里巴巴Qwen模型替代ChatGPT",
+      "意味着Siri等核心功能由阿里AI驱动"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "30470ccd04740effe5eaa997a3b07696",
+    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-03T00:35:52+00:00",
+    "content_snippet": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+    "title_zh": "Y Combinator 的 Garry Tan 重度使用 AI 代理，年花费高达 20 万美元令牌",
+    "summary_zh": "Y Combinator 总裁 Garry Tan 在新播客中透露，他因痴迷 AI 代理导致睡眠不足，并在令牌上投入巨资，年花费高达 20 万美元。这反映了一些科技领袖对人工智能工具的高度投入。",
+    "key_points": [
+      "Garry Tan 声称每年在 AI 令牌上花费高达 20 万美元",
+      "他自嘲因过度兴奋使用 AI 代理而患上“网络精神病”",
+      "此事突显了硅谷精英对前沿 AI 工具的个人深度投入"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]

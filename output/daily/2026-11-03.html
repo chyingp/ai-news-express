@@ -9,21 +9,23 @@
 <body>
   <header>
     <h1>AI 新闻速递 · 日报</h1>
-    <p class="subtitle">2026-11-03 · 共 32 条资讯</p>
+    <p class="subtitle">2026-11-03 · 共 46 条资讯</p>
   </header>
 
   
   <div class="daily-header">
     <h2>今日要点</h2>
     <div class="stats">
-      <span>32 条资讯</span>
-      <span>2 条突发</span>
+      <span>46 条资讯</span>
+      <span>4 条突发</span>
       <span>7 个信源</span>
     </div>
-    <div class="daily-overview">今日有 2 条重要资讯：
+    <div class="daily-overview">今日有 4 条重要资讯：
+• 苹果确认Apple Intelligence将于12月随iOS 27.3进入中国，11月4日开始测试。关键变化是：Siri和写作工具等AI功能将由中国监管批准的阿里巴巴通义千问（Qwen）模型提供支持，而非ChatGPT。
+• Anthropic 发出警告，称 AI 系统正接近递归自我改进能力。RSI 代表 AI 能够自主训练并大规模加速自身能力发展的临界点，被认为可能带来不可逆的灾难性风险。
 • AI初创公司42AI结束隐身状态，宣布获得6250万美元融资，并推出了一个据称能在全新情境下预测人类行为的世界模型。
 • 埃隆·马斯克表示，由于Grok Bot的用户增长速度过快，导致运营成本变得“不可持续地高昂”，因此不得不限制该聊天机器人的使用额度。
-资讯分布：行业政策 7 条、产品动态 6 条、技术教程 6 条。</div>
+资讯分布：产品动态 12 条、行业政策 10 条、技术教程 7 条。</div>
   </div>
   
 
@@ -31,6 +33,8 @@
     <button class="active" data-category="all">全部</button>
     
     <button data-category="产品动态">产品动态</button>
+    
+    <button data-category="开源项目">开源项目</button>
     
     <button data-category="技术教程">技术教程</button>
     
@@ -49,8 +53,86 @@
   
   <ol class="article-list">
     
-    <li class="article-item" data-category="研究论文">
+    <li class="article-item breaking" data-category="产品动态">
       <span class="article-rank">1</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xmf3on/apple_intelligence_is_finally_coming_to_china_in/" target="_blank" rel="noopener">Apple Intelligence终于进入中国，将搭载阿里Qwen而非ChatGPT</a>
+          <div class="article-title-original">Apple Intelligence is finally coming to China in December, powered by Alibaba&#39;s Qwen instead of ChatGPT</div>
+          
+        </div>
+        
+        <p class="article-summary">苹果确认Apple Intelligence将于12月随iOS 27.3进入中国，11月4日开始测试。关键变化是：Siri和写作工具等AI功能将由中国监管批准的阿里巴巴通义千问（Qwen）模型提供支持，而非ChatGPT。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">产品动态</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★★</span>
+          <time class="article-time" datetime="2026-11-03T00:58:43+00:00" title="2026-11-03 08:58"></time>
+        </div>
+        
+        <span class="cluster-toggle" onclick="toggleCluster(this)">还有 1 篇相关报道 ▸</span>
+        <div class="cluster-children">
+          
+          <div class="cluster-child">
+            <a href="https://www.reddit.com/r/artificial/comments/1xmhyjf/apple_intelligence_in_china_will_run_on_alibabas/" target="_blank" rel="noopener">Apple Intelligence中国版将搭载阿里巴巴Qwen模型，11月4日开始测试</a>
+            <span class="cluster-child-source">Reddit AI</span>
+          </div>
+          
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="研究论文">
+      <span class="article-rank">2</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.qbitai.com/2026/11/507322.html" target="_blank" rel="noopener">MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍</a>
+          
+        </div>
+        
+        <p class="article-summary">MIT研究显示，GPT-6 Astra模型能够直接修改阿里巴巴通义千问Qwen模型的权重参数，令其数学能力提升6倍，同时指令执行能力也获得同步增强。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">量子位</span>
+          <span class="tag">研究论文</span>
+          
+          <span class="stars">★★★★☆</span>
+          <time class="article-time" datetime="2026-11-03T01:57:30+00:00" title="2026-11-03 09:57"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item breaking" data-category="模型发布">
+      <span class="article-rank">3</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/" target="_blank" rel="noopener">Anthropic 警告称已非常接近 RSI 能力，即自我构建 AI</a>
+          <div class="article-title-original">Anthropic warns that it’s very close to RSI capability, aka self-building AI</div>
+          
+        </div>
+        
+        <p class="article-summary">Anthropic 发出警告，称 AI 系统正接近递归自我改进能力。RSI 代表 AI 能够自主训练并大规模加速自身能力发展的临界点，被认为可能带来不可逆的灾难性风险。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">TechCrunch AI</span>
+          <span class="tag">模型发布</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★☆</span>
+          <time class="article-time" datetime="2026-11-02T22:14:50+00:00" title="2026-11-03 06:14"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="研究论文">
+      <span class="article-rank">4</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -72,8 +154,31 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">5</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/" target="_blank" rel="noopener">谷歌将Dreambeans推向印度，力图普及AI生成个性化故事</a>
+          <div class="article-title-original">Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses</div>
+          
+        </div>
+        
+        <p class="article-summary">谷歌将其最新的AI实验项目Dreambeans引入印度市场，该应用目前已支持13种印度语言，旨在通过AI为大众生成个性化故事。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">TechCrunch AI</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-11-03T03:30:00+00:00" title="2026-11-03 11:30"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item" data-category="融资收购">
-      <span class="article-rank">2</span>
+      <span class="article-rank">6</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -95,8 +200,54 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">7</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/" target="_blank" rel="noopener">苹果或试图通过与第三方AI应用合作增加收入</a>
+          <div class="article-title-original">Apple may try to increase revenue by doing…something with third-party AI apps</div>
+          
+        </div>
+        
+        <p class="article-summary">苹果在周一的财报电话会议中暗示，将探索通过第三方AI应用带来的“机会”来增加收入。这表明苹果可能正在着手布局围绕第三方AI的商业化策略。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">TechCrunch AI</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-11-03T01:49:52+00:00" title="2026-11-03 09:49"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">8</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.qbitai.com/2026/11/507313.html" target="_blank" rel="noopener">爱诗科技PixVerse与OpenAI深度合作，打通AI创意全流程</a>
+          <div class="article-title-original">爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程</div>
+          
+        </div>
+        
+        <p class="article-summary">爱诗科技旗下AI视频生成平台PixVerse宣布与OpenAI开启深度合作，双方将共同推出产品集成和创作者教育计划，旨在高效打通从文本、图像到视频的AI创意全流程。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">量子位</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-11-03T01:46:55+00:00" title="2026-11-03 09:46"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item breaking" data-category="融资收购">
-      <span class="article-rank">3</span>
+      <span class="article-rank">9</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -119,7 +270,7 @@
     </li>
     
     <li class="article-item breaking" data-category="产品动态">
-      <span class="article-rank">4</span>
+      <span class="article-rank">10</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -141,8 +292,31 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="融资收购">
+      <span class="article-rank">11</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/" target="_blank" rel="noopener">Trajectory 获 4500 万美元融资，让非技术专家也能训练 AI 模型</a>
+          <div class="article-title-original">Trajectory raises $45M to make AI model training accessible to nontechnical experts</div>
+          
+        </div>
+        
+        <p class="article-summary">成立仅一年的 AI 初创公司 Trajectory 完成 4500 万美元融资，估值达 3 亿美元。其平台旨在简化 AI 模型训练流程，使非技术背景的行业专家也能参与构建。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">TechCrunch AI</span>
+          <span class="tag">融资收购</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-11-02T23:13:53+00:00" title="2026-11-03 07:13"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item" data-category="研究论文">
-      <span class="article-rank">5</span>
+      <span class="article-rank">12</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -165,7 +339,7 @@
     </li>
     
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">6</span>
+      <span class="article-rank">13</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -198,7 +372,7 @@
     </li>
     
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">7</span>
+      <span class="article-rank">14</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -217,17 +391,12 @@
           <time class="article-time" datetime="2026-11-02T18:01:30+00:00" title="2026-11-03 02:01"></time>
         </div>
         
-        <span class="cluster-toggle" onclick="toggleCluster(this)">还有 2 篇相关报道 ▸</span>
+        <span class="cluster-toggle" onclick="toggleCluster(this)">还有 1 篇相关报道 ▸</span>
         <div class="cluster-children">
           
           <div class="cluster-child">
             <a href="https://www.reddit.com/r/artificial/comments/1xm43yd/openais_plan_to_make_data_centers_less_hated/" target="_blank" rel="noopener">OpenAI 计划将数据中心改称“算力园区”以改善形象</a>
             <span class="cluster-child-source">Reddit AI</span>
-          </div>
-          
-          <div class="cluster-child">
-            <a href="https://openai.com/index/grid-protectors-program" target="_blank" rel="noopener">OpenAI 推出电网保护者计划</a>
-            <span class="cluster-child-source">OpenAI 官方博客</span>
           </div>
           
         </div>
@@ -236,7 +405,7 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">8</span>
+      <span class="article-rank">15</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -259,7 +428,7 @@
     </li>
     
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">9</span>
+      <span class="article-rank">16</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -281,8 +450,31 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="开源项目">
+      <span class="article-rank">17</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xmim57/i_made_chatgpt_claude_gemini_etc_into_free/" target="_blank" rel="noopener">我将ChatGPT、Claude、Gemini等制成了免费的文本转语音网站</a>
+          <div class="article-title-original">I made ChatGPT, Claude, Gemini, etc. into FREE text-to-speech sites.</div>
+          
+        </div>
+        
+        <p class="article-summary">一位开发者利用ChatGPT、Claude、Gemini等主流AI聊天网站的朗读功能，将其改造成免费的文本转语音工具网站。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">开源项目</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-03T03:44:47+00:00" title="2026-11-03 11:44"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item" data-category="技术教程">
-      <span class="article-rank">10</span>
+      <span class="article-rank">18</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -305,7 +497,30 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">11</span>
+      <span class="article-rank">19</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xmhgs4/are_we_measuring_ai_intelligence_or_just_the/" target="_blank" rel="noopener">我们是在衡量AI智能，还是仅仅衡量其背后的基础设施？</a>
+          <div class="article-title-original">Are We Measuring AI Intelligence, or Just the Infrastructure Behind It?</div>
+          
+        </div>
+        
+        <p class="article-summary">文章探讨了当前AI性能评估标准的有效性，质疑通过速度、算力和数据等指标衡量的到底是系统真正的智能水平，还是仅仅反映了其依赖的基础设施能力。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-03T02:49:29+00:00" title="2026-11-03 10:49"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">20</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -328,7 +543,7 @@
     </li>
     
     <li class="article-item" data-category="融资收购">
-      <span class="article-rank">12</span>
+      <span class="article-rank">21</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -350,8 +565,31 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">22</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xmfx3a/openais_quarterly_commit_growth_has_exploded_this/" target="_blank" rel="noopener">OpenAI季度代码提交量飙升，同比增长2442%</a>
+          <div class="article-title-original">OpenAI’s quarterly commit growth has exploded this year, rising to 2442% by Q4 2026 relative to Q1 2024</div>
+          
+        </div>
+        
+        <p class="article-summary">数据显示，OpenAI在2026年第四季度的代码提交（Commit）活动相比2024年第一季度增长了2442%，呈现爆发式增长，一定程度上反映了其研发活动的急剧加速。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-03T01:36:30+00:00" title="2026-11-03 09:36"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item" data-category="融资收购">
-      <span class="article-rank">13</span>
+      <span class="article-rank">23</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -373,8 +611,31 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">24</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://openai.com/index/grid-protectors-program" target="_blank" rel="noopener">OpenAI 推出电网保护者计划</a>
+          <div class="article-title-original">Introducing the Grid Protectors Program</div>
+          
+        </div>
+        
+        <p class="article-summary">OpenAI 推出电网保护者计划，将与公用事业公司合作，确保未来计算园区支持电网可靠性并保护消费者电力成本。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">OpenAI 官方博客</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-11-02T15:00:00+00:00" title="2026-11-02 23:00"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">14</span>
+      <span class="article-rank">25</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -396,7 +657,30 @@
     </li>
     
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">15</span>
+      <span class="article-rank">26</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/" target="_blank" rel="noopener">Y Combinator 的 Garry Tan 重度使用 AI 代理，年花费高达 20 万美元令牌</a>
+          <div class="article-title-original">Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens</div>
+          
+        </div>
+        
+        <p class="article-summary">Y Combinator 总裁 Garry Tan 在新播客中透露，他因痴迷 AI 代理导致睡眠不足，并在令牌上投入巨资，年花费高达 20 万美元。这反映了一些科技领袖对人工智能工具的高度投入。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">TechCrunch AI</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-03T00:35:52+00:00" title="2026-11-03 08:35"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">27</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -419,7 +703,7 @@
     </li>
     
     <li class="article-item" data-category="模型发布">
-      <span class="article-rank">16</span>
+      <span class="article-rank">28</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -442,7 +726,7 @@
     </li>
     
     <li class="article-item" data-category="技术教程">
-      <span class="article-rank">17</span>
+      <span class="article-rank">29</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -465,7 +749,7 @@
     </li>
     
     <li class="article-item" data-category="技术教程">
-      <span class="article-rank">18</span>
+      <span class="article-rank">30</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -488,7 +772,7 @@
     </li>
     
     <li class="article-item" data-category="行业动态">
-      <span class="article-rank">19</span>
+      <span class="article-rank">31</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -507,11 +791,21 @@
           <time class="article-time" datetime="2026-11-02T09:35:19+00:00" title="2026-11-02 17:35"></time>
         </div>
         
+        <span class="cluster-toggle" onclick="toggleCluster(this)">还有 1 篇相关报道 ▸</span>
+        <div class="cluster-children">
+          
+          <div class="cluster-child">
+            <a href="https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/" target="_blank" rel="noopener">MIT科技评论：智能体网络及更安全道路的驱动</a>
+            <span class="cluster-child-source">MIT 科技评论</span>
+          </div>
+          
+        </div>
+        
       </div>
     </li>
     
     <li class="article-item" data-category="模型发布">
-      <span class="article-rank">20</span>
+      <span class="article-rank">32</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -534,7 +828,7 @@
     </li>
     
     <li class="article-item" data-category="技术教程">
-      <span class="article-rank">21</span>
+      <span class="article-rank">33</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -557,7 +851,7 @@
     </li>
     
     <li class="article-item" data-category="研究论文">
-      <span class="article-rank">22</span>
+      <span class="article-rank">34</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -580,7 +874,7 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">23</span>
+      <span class="article-rank">35</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -603,7 +897,7 @@
     </li>
     
     <li class="article-item" data-category="研究论文">
-      <span class="article-rank">24</span>
+      <span class="article-rank">36</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -626,7 +920,7 @@
     </li>
     
     <li class="article-item" data-category="技术教程">
-      <span class="article-rank">25</span>
+      <span class="article-rank">37</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -649,7 +943,7 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">26</span>
+      <span class="article-rank">38</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -672,7 +966,7 @@
     </li>
     
     <li class="article-item" data-category="研究论文">
-      <span class="article-rank">27</span>
+      <span class="article-rank">39</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -695,7 +989,7 @@
     </li>
     
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">28</span>
+      <span class="article-rank">40</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -717,31 +1011,8 @@
       </div>
     </li>
     
-    <li class="article-item" data-category="行业政策">
-      <span class="article-rank">29</span>
-      <div class="article-content">
-        <div class="article-title">
-          
-          <a href="https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/" target="_blank" rel="noopener">MIT科技评论：智能体网络及更安全道路的驱动</a>
-          <div class="article-title-original">The Download: the agentic web arrives and the drive for safer roads</div>
-          
-        </div>
-        
-        <p class="article-summary">《The Download》通讯讨论了万维网发明人 Tim Berners-Lee 预测的由自动程序导航的“智能体网络”的到来，以及实现道路“零死亡”愿景的努力。</p>
-        
-        <div class="article-meta">
-          <span class="source-badge">MIT 科技评论</span>
-          <span class="tag">行业政策</span>
-          
-          <span class="stars">★★☆☆☆</span>
-          <time class="article-time" datetime="2026-11-02T13:10:00+00:00" title="2026-11-02 21:10"></time>
-        </div>
-        
-      </div>
-    </li>
-    
     <li class="article-item" data-category="技术教程">
-      <span class="article-rank">30</span>
+      <span class="article-rank">41</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -764,7 +1035,76 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">31</span>
+      <span class="article-rank">42</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xmf7dx/designers_how_do_you_work/" target="_blank" rel="noopener">设计师们，你们是如何……工作的？</a>
+          <div class="article-title-original">Designers, how do you... work?</div>
+          
+        </div>
+        
+        <p class="article-summary">一位软件工程师在AI时代对设计师工作方式的提问和思考，认为随着AI让功能实现变得容易，产品的外观和设计感可能成为更重要的价值所在。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-11-03T01:03:13+00:00" title="2026-11-03 09:03"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">43</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/" target="_blank" rel="noopener">国家航空航天博物馆改造完成，“太空家园”展区开放</a>
+          <div class="article-title-original">&#34;At Home in Space&#34; opens, caps Air and Space Museum renovation</div>
+          
+        </div>
+        
+        <p class="article-summary">史密森尼国家航空航天博物馆完成大规模改造，其全新的“太空家园”展区正式对公众开放，标志着该馆所有太空主题展区已全面重启。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Ars Technica</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-11-02T23:30:16+00:00" title="2026-11-03 07:30"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="技术教程">
+      <span class="article-rank">44</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xmbiex/failure_log_2_the_patch_was_real_the_bug_was/" target="_blank" rel="noopener">故障日志 2：补丁真实有效，但存在其他漏洞，概念验证仍被触发</a>
+          <div class="article-title-original">failure log #2: the patch was real, the bug was different, the PoC still fired</div>
+          
+        </div>
+        
+        <p class="article-summary">一篇技术故障排查日志，描述了一个安全补丁虽修复了原问题，但因存在另一处被忽视的漏洞，导致概念验证攻击依然能够成功执行的案例。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">技术教程</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-11-02T22:23:35+00:00" title="2026-11-03 06:23"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">45</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -787,7 +1127,7 @@
     </li>
     
     <li class="article-item" data-category="行业动态">
-      <span class="article-rank">32</span>
+      <span class="article-rank">46</span>
       <div class="article-content">
         <div class="article-title">
           
