@@ -355,5 +355,170 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1d3acd0a667862ee85018c38b89b4aa2",
+    "title": "Keeping track of AI tool access is a headache",
+    "url": "https://www.reddit.com/r/artificial/comments/1xn5a92/keeping_track_of_ai_tool_access_is_a_headache/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-03T21:09:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Got asked what seemed like an easy question a couple weeks ago and I still can’t answer it. Which AI tools at our company can actually see sensitive data? I mean real access to customer records, financial stuff, source code, that kind of thing.</p> <p>Nobody has a full list. IT knows about the tools that went through approval, so those are covered. The gaps are the browser extension someone installed on their own, or the AI feature that got switched on in an upd",
+    "title_zh": "追踪AI工具访问权限成为企业痛点",
+    "summary_zh": "文章讨论企业在管理AI工具访问敏感数据（如客户记录、财务信息、源代码）时面临的挑战，许多公司无法清晰掌握哪些AI工具能访问哪些机密信息，暴露了数据治理的漏洞。",
+    "key_points": [
+      "企业难以追踪AI工具对敏感数据的实际访问权限",
+      "数据治理和AI工具管理之间存在明显脱节"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "656673d20b5c101d28d01f6bdb8ec06b",
+    "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+    "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-03T21:05:55+00:00",
+    "content_snippet": "Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were &#8220;crushing consensus expectations.&#8221; Yet, retail investors were lukewarm on the company on Tuesday, with the stock trading slightly down. That&#8217;s because Palantir&#8217;s enterprise sales, its big growth area, showed signs of slowing. First, the good [&#8230;]",
+    "title_zh": "Palantir亮眼财报背后暗藏隐忧",
+    "summary_zh": "尽管Palantir第三季度财报远超预期，但散户投资者反应冷淡，股价小幅下跌。分析指出其估值过高且对未来增长预期存在分歧，揭示了市场对高增长AI公司的审慎态度。",
+    "key_points": [
+      "Palantir财报‘碾压预期’但股价不涨反跌",
+      "市场对其高估值和增长可持续性表示担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c3696f86bfc50e5c23a08e4cd935fbef",
+    "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+    "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-03T20:39:55+00:00",
+    "content_snippet": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
+    "title_zh": "乌克兰无人机袭击促使俄罗斯紧急建设地下数据中心",
+    "summary_zh": "由于乌克兰频繁的无人机袭击暴露了俄罗斯数字基础设施的脆弱性，俄罗斯正仓促规划将数据中心转入地下以加强防护，这反映了地缘冲突对AI算力基础设施的直接冲击。",
+    "key_points": [
+      "乌克兰无人机袭击重创俄罗斯数字基础设施",
+      "俄罗斯被迫将数据中心转入地下以保障安全"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f35f29ae55559b3e8275414fdc1843f1",
+    "title": "Google says students in schools that ban AI won't have access to Search",
+    "url": "https://www.reddit.com/r/artificial/comments/1xn34ud/google_says_students_in_schools_that_ban_ai_wont/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-03T19:49:13+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xn34ud/google_says_students_in_schools_that_ban_ai_wont/\"> <img alt=\"Google says students in schools that ban AI won't have access to Search\" src=\"https://external-preview.redd.it/xQhABazQA0mBRpYUStRrpjJUewUe6WiLZgoZzlDEb5o.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9c6d385139123958a4aed740449b3944aa2bdd9\" title=\"Google says students in schools that ban AI won't have access to Search\" /> </a> </td><td> &#32; submitte",
+    "title_zh": "谷歌宣布禁止AI的学校将无法使用谷歌搜索",
+    "summary_zh": "谷歌向教育机构发布新政策，如果学校选择全面禁用AI功能，其学生将无法访问谷歌搜索服务。这一强硬捆绑策略引发了关于技术垄断和教育公平的争议。",
+    "key_points": [
+      "谷歌将搜索服务与AI功能强行捆绑",
+      "禁用AI的学校会被剥夺谷歌搜索使用权"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0018ea6e4618a3fe55b0e320d889c170",
+    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-03T19:34:43+00:00",
+    "content_snippet": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+    "title_zh": "AI推理初创公司Fal估值翻倍至160亿美元",
+    "summary_zh": "成立五年的AI推理服务初创公司Fal在需求激增下完成13亿美元融资，由Bessemer领投，估值飙升至160亿美元，反映了AI基础设施领域持续高涨的资本热度。",
+    "key_points": [
+      "Fal完成13亿美元融资，估值跃升至160亿",
+      "AI推理算力需求激增推动资本大幅涌入"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8e6819728a5a480ade830139d8cc47d0",
+    "title": "A new, open-weights 278M PII detection model and reference benchmark [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-03T19:29:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I wanted to share a new open-weights PII detection model, benchmark and research paper. It's a fine-tune of RoBERTa using 1.2B samples of synthetically generated text that contain a variety of PII. The benchmark, PII-SCOPE (Synthetic Context and Ontology for PII Extraction), was built to address common issues in public LLM-generated datasets and is on Hugging Face too. The model and script identify instances of PII based on surrounding contex",
+    "title_zh": "新型开源PII检测模型及基准数据集发布",
+    "summary_zh": "一款基于RoBERTa微调的2.78亿参数开源PII检测模型发布，使用12亿条合成数据训练，并配套发布了PII-SCOPE基准数据集，旨在提升个人身份信息识别的准确性。",
+    "key_points": [
+      "发布2.78亿参数开源PII检测模型",
+      "使用大量合成数据训练并配套专业基准测试集"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "980ad3ccd233bd1b460a61f6e7cc3e23",
+    "title": "Google to shut off search for schools that opt-out of AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-03T19:10:47+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/\"> <img alt=\"Google to shut off search for schools that opt-out of AI\" src=\"https://external-preview.redd.it/WGOi07NPmQYaA2qqaF-6UnN2W_NeLwGYwqewr3x1fGE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf8d9957bc9d08eea909a5276e8fb18353f0175c\" title=\"Google to shut off search for schools that opt-out of AI\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://w",
+    "title_zh": "谷歌将对禁用AI的学校切断搜索服务",
+    "summary_zh": "谷歌明确告知教育机构，不允许部分用户退出AI功能，任何选择退出AI集成的学校将被切断谷歌搜索访问权限，再次展示其强硬的产品整合策略。",
+    "key_points": [
+      "谷歌对教育机构执行禁止部分退出的AI政策",
+      "选择退出AI的学校将完全失去谷歌搜索"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
