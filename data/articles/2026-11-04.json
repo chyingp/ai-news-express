@@ -785,5 +785,33 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "1876e3d156df92962abe427bc3bc7c52",
+    "title": "Graded 1,300+ word-association clues: Google's models beat OpenAI's, and both beat Anthropic's",
+    "url": "https://www.reddit.com/r/artificial/comments/1xnbvcs/graded_1300_wordassociation_clues_googles_models/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-04T01:55:45+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I run a word-association benchmark: one model gives a one-word clue meant to point at several of its team's words on a 5x5 board, and a teammate model guesses. Each clue is graded 0-100, mostly on how many of its own words a guesser is expected to find before hitting a wrong one. Models play each other in paired games under the same rules and the same grader.</p> <p>Average clue grade (± is a 95% interval):<br /> Gemini 4 Argon: 67 ±3<br /> Gemini 3.8 Flash: 64.",
+    "title_zh": "1300+词汇联想测试评分：谷歌模型击败OpenAI，两者均胜Anthropic",
+    "summary_zh": "一项基于1300多个词汇联想线索的基准测试显示，谷歌的AI模型在该任务上表现最佳，击败了OpenAI的模型，而OpenAI又优于Anthropic的模型。该测试通过双模型协作猜词来评估模型的语义关联能力。",
+    "key_points": [
+      "谷歌模型在词汇联想测试中得分最高，表现优于OpenAI",
+      "OpenAI模型排名第二，领先于Anthropic的模型",
+      "基准测试通过1300+个线索评估模型协作猜词能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
