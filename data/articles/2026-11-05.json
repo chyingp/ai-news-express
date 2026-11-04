@@ -731,5 +731,318 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3ba59fa6ce83686924c708896885ba34",
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-04T22:13:16+00:00",
+    "content_snippet": "While it's not yet clear what kind of product the smart phone startup is cooking up, Nothing's CEO said that product is designed to leverage AI for productivity gains.",
+    "title_zh": "Nothing CEO 宣布公司神秘 AI 优先设备将于下月发布",
+    "summary_zh": "手机初创公司 Nothing 的首席执行官宣布，计划在下月推出一款以 AI 为核心的新设备，旨在利用人工智能提升生产力，但产品具体形态尚未明确。",
+    "key_points": [
+      "Nothing 将于下月发布一款 AI 优先的新设备",
+      "该设备设计用于通过 AI 提高生产效率",
+      "目前产品具体类型仍处于保密阶段"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "97f1c44b18b4354bd4c2cd00b61dfca6",
+    "title": "Academic survey about the use of AI for advice or assistance",
+    "url": "https://www.reddit.com/r/artificial/comments/1xo1ezk/academic_survey_about_the_use_of_ai_for_advice_or/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-04T22:06:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Do you use AI chatbots (like ChatGPT, Claude, Gemini) for everyday tasks? Please share your thoughts! Researchers at the University of Toronto are conducting a study to understand how people use and think about conversational AI tools in their daily lives.</p> <p><strong>Who can participate?</strong></p> <ul> <li>You are <strong>18 years of age or older</strong>.</li> <li>You use online AI chatbots for everyday writing, advice, searching, or assistance.</li> <li",
+    "title_zh": "多伦多大学关于使用 AI 寻求建议的学术调查",
+    "summary_zh": "多伦多大学研究人员发起一项学术调查，旨在了解人们如何在日常生活中使用和看待 ChatGPT、Claude 等对话式 AI 工具。",
+    "key_points": [
+      "调查关注日常 AI 聊天机器人的使用习惯",
+      "研究由多伦多大学主导进行"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d13217a5b4923233ed812aa05fc86f30",
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-04T21:56:01+00:00",
+    "content_snippet": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+    "title_zh": "Uber 称几乎无人使用 AI 代理预订行程",
+    "summary_zh": "Uber 公司透露，在上季度最繁忙的一周里，只有四名用户通过 AI 代理完成叫车服务，表明该功能的实际采用率极低。",
+    "key_points": [
+      "Uber 披露 AI 代理叫车服务使用量微乎其微",
+      "上季度最繁忙时仅四人使用此功能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bae902d76017d4ff6d9b2c3695c2b4ba",
+    "title": "[P] NKI layer megakernels for GLM-5.3-Flash on AWS Trainium2: where a decode step's time went, and what we changed [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo0yuq/p_nki_layer_megakernels_for_glm53flash_on_aws/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-04T21:47:55+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We wrote an inference engine for AWS Trainium2 that serves GLM-5.3-Flash (320B MoE, 1M-token context) on one trn2.48xlarge, and open-sourced it. Most of the work went into decode, and the part I found most interesting is how little of a decode step was the model's actual math.</p> <p>In an early build, in one KDA (linear attention) layer at batch 1, the recurrence was 2% of the attention half. The rest was the mHC pre-projection (36%), XLA glue (33%), transposes",
+    "title_zh": "研究人员为 AWS Trainium2 上 GLM-5.3-Flash 模型开发 NKI 层巨核推理引擎",
+    "summary_zh": "研究团队为 AWS Trainium2 芯片开发了开源推理引擎，可在单台服务器上运行 320B 参数的混合专家模型 GLM-5.3-Flash，并重点优化了解码步骤的性能。",
+    "key_points": [
+      "实现在 AWS Trainium2 上高效运行 320B 大模型",
+      "针对解码步骤进行了深度性能优化并已开源"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4e9fada29e6fb841be5d7e9ddb31ef9d",
+    "title": "17 better ways Elon Musk could have wasted $446 million",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-04T21:45:00+00:00",
+    "content_snippet": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you [&#8230;]",
+    "title_zh": "17 种比马斯克浪费 4.46 亿美元更好的花钱方式",
+    "summary_zh": "一则讽刺性评论文章，讨论社交媒体内容对脑力的消耗，并调侃了埃隆·马斯克花费巨资的行为，认为其有诸多更优的消费选择。",
+    "key_points": [
+      "文章以讽刺口吻批评社交媒体和马斯克的消费行为",
+      "主题侧重社会评论而非 AI 技术本身"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "423e16ab4854ec5c914472929a70005d",
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-04T21:25:44+00:00",
+    "content_snippet": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+    "title_zh": "OpenAI 已开始试图影响 2028 年美国大选",
+    "summary_zh": "OpenAI 高管 Chris Lehane 提出一项新的社会契约构想，希望在惠及美国民众的同时推动公司商业利益，试图让 AI 成为 2028 年大选的核心议题。",
+    "key_points": [
+      "OpenAI 高管提议将 AI 定位为 2028 大选关键议题",
+      "该提议旨在结合公共利益与公司商业发展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1ade992fff95b35bffe3479c861ed0b6",
+    "title": "Is there an AI I can train to play games on my phone?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xo0azq/is_there_an_ai_i_can_train_to_play_games_on_my/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-04T21:21:08+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Is there an AI I can show like a couple of minutes or an hour of playing a game on my phone and have it play that game for me? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/H0neymoon_sweetheart\"> /u/H0neymoon_sweetheart </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xo0azq/is_there_an_ai_i_can_train_to_play_games_on",
+    "title_zh": "有没有能训练来玩手机游戏的 AI？",
+    "summary_zh": "一位 Reddit 用户发帖询问，是否存在可以通过观看几分钟或一小时游戏演示，就能学会并自动代玩手机游戏的 AI 技术。",
+    "key_points": [
+      "用户寻求能通过示范学习自动玩手机游戏的 AI"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "421e2b40f3bf5ee4fd27dc7c2173e2c2",
+    "title": "Meta acquires AI coding startup Conductor",
+    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-04T21:10:56+00:00",
+    "content_snippet": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+    "title_zh": "Meta 收购 AI 编程初创公司 Conductor",
+    "summary_zh": "Meta 宣布收购 AI 编程初创企业 Conductor，该公司的平台允许软件工程师部署多个 AI 代理，并行处理项目中的不同任务。",
+    "key_points": [
+      "Meta 收购专注于多智能体编程的初创公司 Conductor",
+      "Conductor 技术可让多个 AI 代理并行完成开发任务"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24e560ad31910656a8cbdacbcae7573e",
+    "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+    "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-04T20:55:50+00:00",
+    "content_snippet": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+    "title_zh": "科技巨头称选民的反 AI 情绪是“反特朗普”而非“反科技”",
+    "summary_zh": "面对美国选民压倒性投票支持限制 AI 和数据中心的情况，大型科技公司将这股反对浪潮归因于政治上的反特朗普情绪，而非对其技术的不满，但报道指出这可能是行业否认现实的表现。",
+    "key_points": [
+      "美国选民投票显示强烈支持限制 AI 扩张",
+      "科技巨头试图将反对声浪解释为政治情绪",
+      "报道认为这是科技行业对现状的否认"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ddf982939191cc51ad73b58e25dc8ab",
+    "title": "What ai is good for me?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xnyyqr/what_ai_is_good_for_me/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-04T20:28:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Something I can use for daily talks, coding, 3d modeling, websites especially with good frontend design, and good usage I'm thinking of chatgpt but too many creators use Claude mostly aswell so what's the best choice for me? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mrproiss1\"> /u/mrproiss1 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.c",
+    "title_zh": "哪种 AI 适合我？",
+    "summary_zh": "一名 Reddit 用户发帖咨询，希望寻找一款适合日常聊天、编程、3D 建模和前端设计的 AI 工具，并在 ChatGPT 和 Claude 之间犹豫不决。",
+    "key_points": [
+      "用户寻求兼顾编程、设计和聊天的多功能 AI 工具",
+      "主要在 ChatGPT 和 Claude 之间做选择"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "94f88b800358a11e1ebb030d04345cc1",
+    "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+    "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-04T20:23:24+00:00",
+    "content_snippet": "AT&#38;T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide [&#8230;]",
+    "title_zh": "AT&T智能安防系统接入Google Home，支持Gemini AI功能",
+    "summary_zh": "AT&T的Connected Life智能家居安防系统成为首款接入Google Home Premium的产品，可利用Gemini for Home总结家居事件、搜索视频历史等。",
+    "key_points": [
+      "AT&T智能安防系统首个集成Gemini for Home",
+      "支持AI总结家居事件和视频历史搜索功能",
+      "通过Google Home Premium实现智能家居控制"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2685c0ac972344078eb4b9f36fcb641f",
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-04T19:30:04+00:00",
+    "content_snippet": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]",
+    "title_zh": "开源AI蓬勃发展，Hugging Face解析谁在盈利",
+    "summary_zh": "开源模型在企业、政府和初创公司中日益主流化，带来低成本、高可控的优势。Hugging Face探讨了在模型免费化趋势下，企业如何捕获价值，以及中国开源模型崛起的影响。",
+    "key_points": [
+      "开源模型因低成本和灵活性成为主流选择",
+      "Hugging Face分析开源生态中的盈利模式",
+      "中国开源模型崛起对全球竞争格局产生影响"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cbd69ab726f591caa91d3222dda0c4a0",
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-04T19:29:52+00:00",
+    "content_snippet": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+    "title_zh": "谷歌AI政策引发争议，DuckDuckGo向学校推广自身搜索服务",
+    "summary_zh": "DuckDuckGo抓住学校对谷歌AI限制不满的机会，向教育机构推荐其搜索引擎，并强调可禁用AI功能的选项，以此吸引教育市场用户。",
+    "key_points": [
+      "谷歌AI政策在教育领域引发不满",
+      "DuckDuckGo趁机向学校推广隐私友好的搜索服务",
+      "提供禁用AI功能选项作为核心卖点"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
