@@ -520,5 +520,270 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6c4f4e98831bd644e4d0e983adcdd763",
+    "title": "Experiments with Chinchilla scaling laws (following DeepMind) [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnbdx0/experiments_with_chinchilla_scaling_laws/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-04T01:31:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Question to all the PhDs &amp; research engineers in this group.<br /> Have any of you done small-scale experiments with the Chinchilla scaling laws (using PyTorch or JAX)? If so, we'd be keen to hear more (or have a chat). Thanks! </p> <p>Here's the official Chinchilla paper, from the DeepMind website (&quot;Training Compute-Optimal Large Language Models&quot;).<br /> <a href=\"https://deepmind.google/blog/an-empirical-analysis-of-compute-optimal-large-language-",
+    "title_zh": "关于Chinchilla缩放定律的实验探索",
+    "summary_zh": "本文为Reddit论坛上的技术提问帖，作者向博士生和研究工程师征集小规模复现Chinchilla缩放定律的实验经验，希望了解使用PyTorch或JAX进行实验的细节。",
+    "key_points": [
+      "帖子寻求用小规模实验复现DeepMind的Chinchilla缩放定律的经验",
+      "作者对使用PyTorch或JAX框架进行此类实验感兴趣"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a112795abade99ea78f7d1abb6996b7b",
+    "title": "Token consumption OpenAi Luna 5.6",
+    "url": "https://www.reddit.com/r/artificial/comments/1xnb08a/token_consumption_openai_luna_56/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-11-04T01:13:48+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xnb08a/token_consumption_openai_luna_56/\"> <img alt=\"Token consumption OpenAi Luna 5.6\" src=\"https://preview.redd.it/rric9gcvwhzh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=509c02fae2ef6abbb0bc2a4cb15107593abd6486\" title=\"Token consumption OpenAi Luna 5.6\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Here’s the cost of over 300 conversations with our chatbot running on OpenAI GPT 5.6 Luna. As you can see, it ca",
+    "title_zh": "OpenAI Luna 5.6 的 Token 消耗量",
+    "summary_zh": "Reddit 用户讨论 OpenAI 新模型 Luna 5.6 在处理任务时的 token 消耗情况，关注其资源使用效率及潜在成本影响。",
+    "key_points": [
+      "讨论 OpenAI Luna 5.6 模型的 token 消耗量",
+      "关注该模型在处理任务时的计算资源使用效率",
+      "社区就高 token 量可能带来的成本问题展开讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "faa8b68df590a6f6f4e69eb9e7dd430f",
+    "title": "The biggest modding site in PC gaming is taking a stance on AI",
+    "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-04T00:42:10+00:00",
+    "content_snippet": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform. \"One of the most consistent [&#8230;]",
+    "title_zh": "PC游戏最大Mod网站Nexus Mods对AI内容采取立场",
+    "summary_zh": "全球最大PC游戏Mod网站Nexus Mods宣布，上传新Mod时必须强制披露是否使用了AI技术。此举旨在提高透明度，是平台针对AI生成内容发布的新政策的一部分。",
+    "key_points": [
+      "Mod作者须强制声明其作品是否使用了AI技术。",
+      "该政策旨在提升平台上AI生成内容的透明度。",
+      "此举是Nexus Mods针对AI内容发布的重大政策更新。"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e36dd793b43295600978cbaf1cfd61a7",
+    "title": "We hit 40.000 Unique Visitors A Month!",
+    "url": "https://www.reddit.com/r/artificial/comments/1xn8z2z/we_hit_40000_unique_visitors_a_month/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-03T23:41:50+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xn8z2z/we_hit_40000_unique_visitors_a_month/\"> <img alt=\"We hit 40.000 Unique Visitors A Month!\" src=\"https://preview.redd.it/yqz2i6lmhhzh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b2c07982e578965a345769456a4a21c702026ce\" title=\"We hit 40.000 Unique Visitors A Month!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>What started as a small side project to help people discover AI-assisted and vibe-coded games is ",
+    "title_zh": "我们的月独立访客突破4万！",
+    "summary_zh": "一篇Reddit帖子庆祝其AI相关网站或社区月独立访客数达到4万，属于个人或小型项目分享里程碑成就，无实质性行业新闻价值。",
+    "key_points": [
+      "分享AI相关网站月独立访客达4万的成就",
+      "属于个人项目里程碑，非行业重大事件"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8850f344fac233b1b9e21e8b31275566",
+    "title": "Please stop asking me when the AI bubble will pop",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-03T23:37:45+00:00",
+    "content_snippet": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, [&#8230;]",
+    "title_zh": "别再问我AI泡沫何时破裂了",
+    "summary_zh": "The Verge编辑回应频繁被问及AI泡沫何时破裂的问题，表示若真能预测市场走势，早已借此牟利，暗示无人能准确预测泡沫破裂时机。",
+    "key_points": [
+      "作者表示无法预测AI泡沫何时破裂，否则早已借此致富",
+      "文章回应外界对AI泡沫的广泛讨论与焦虑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "407d60c120ee29e1123392580b86eea3",
+    "title": "If AI Doesn't Understand Because It Predicts Patterns, What Makes You Different?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xn8pfy/if_ai_doesnt_understand_because_it_predicts/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-03T23:29:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Your Brain Is More Similar to an AI Than You Think. Here's Why. </p> <p>What if the difference between how humans think and how AI works isn't as obvious as we like to believe?</p> <p>We often criticize AI for being a prediction machine, for relying on patterns, retrieving information, following instructions, and generating responses based on previous experiences.</p> <p>But here's an uncomfortable question:</p> <p>Aren't humans doing many of the same things?</p",
+    "title_zh": "如果AI因预测模式而被认为不理解，那你又有何不同？",
+    "summary_zh": "本文探讨了人类认知与AI工作方式的相似性，挑战了认为AI仅是预测机器而缺乏理解的普遍观点，指出人类大脑也可能以类似方式运作。",
+    "key_points": [
+      "文章质疑了基于AI预测模式就认定其'不理解'的观点",
+      "提出人类大脑的认知过程可能与AI的预测机制高度相似"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "25d872dc0ec91ea96286753703108849",
+    "title": "Scientists release new ‘four as’ framework to tackle key ethical challenges governing AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1xn88ws/scientists_release_new_four_as_framework_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-03T23:09:38+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xn88ws/scientists_release_new_four_as_framework_to/\"> <img alt=\"Scientists release new ‘four as’ framework to tackle key ethical challenges governing AI\" src=\"https://external-preview.redd.it/8OXmxoFLiyqXfyjPOwjW3BzxxXTVIXoVALy9E8YLP7c.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=524601a310970e709be5acf696606ef788c3c391\" title=\"Scientists release new ‘four as’ framework to tackle key ethical challenges governing AI\" /> <",
+    "title_zh": "科学家发布新‘四个A’框架以应对AI治理的关键伦理挑战",
+    "summary_zh": "研究人员提出一个名为‘四个A’的新伦理框架，旨在系统性地解决人工智能在治理过程中面临的关键道德难题，为AI开发与部署提供指导原则。",
+    "key_points": [
+      "新型‘四个A’伦理框架旨在应对AI治理的核心挑战",
+      "该框架为AI开发与政策制定提供系统性伦理指导",
+      "研究成果有望影响未来AI行业的监管与最佳实践标准"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bf81805a5ae860b994873a9158cd9f23",
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-03T22:41:03+00:00",
+    "content_snippet": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+    "title_zh": "Anthropic 正在开发用于证明 AI 模型身份的系统",
+    "summary_zh": "Anthropic 正在开发一个名为 FlashProve 的系统，该系统允许任何人验证 AI 的回复是否确实来自其声称的模型。此举旨在增强 AI 互动的透明度和信任度。",
+    "key_points": [
+      "Anthropic 开发 FlashProve 系统，可验证 AI 回复的真实模型身份",
+      "该系统旨在提升 AI 透明度，让任何人都能进行查验"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "531adeae60eca9bf2272d5d1fa79cd64",
+    "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+    "url": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-03T22:39:37+00:00",
+    "content_snippet": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
+    "title_zh": "加州对抗特朗普政府“荒谬”要求，拒绝废除州宽带法",
+    "summary_zh": "加州因拒绝接受特朗普政府提出的废除州宽带法的条件，正试图争取联邦宽带资金。该州认为联邦要求“荒谬”，双方在宽带政策上发生冲突。",
+    "key_points": [
+      "加州拒绝特朗普政府以废除州宽带法为拨款条件的要求",
+      "加州认为联邦要求“荒谬”，仍在寻求联邦宽带建设资金",
+      "该冲突反映了州与联邦在通信政策上的持续分歧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4970a06a586ccae03c7884f4e86c0351",
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-03T22:19:53+00:00",
+    "content_snippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+    "title_zh": "为应对电力紧缺，数据中心转向使用旧喷气发动机",
+    "summary_zh": "由于接入电网和获取新涡轮发电机需要等待数年，数据中心建设者正转向一种非常规、低效且不环保的解决方案：重新启用曾被废弃的喷气发动机来临时发电。",
+    "key_points": [
+      "数据中心因电网接入和涡轮机供应瓶颈面临数年电力延迟",
+      "运营商采取权宜之计，启用老旧喷气发动机作为临时电源",
+      "这种方案效率较低且对环境更不友好"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0835e4c1adb39f7fac54d5bdd1930d2a",
+    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-03T21:43:08+00:00",
+    "content_snippet": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+    "title_zh": "Ballistic Ventures募集4.9亿美元新基金，押注AI驱动的网络安全热潮",
+    "summary_zh": "专注于网络安全的Ballistic Ventures计划为一个新旗舰基金募集3.6亿美元，并为另一独立投资工具募集1.3亿美元。此举正值AI驱动的网络安全市场需求激增，反映出风投对相关领域的浓厚兴趣。",
+    "key_points": [
+      "Ballistic Ventures为旗舰基金目标筹资3.6亿美元",
+      "额外募集1.3亿美元投入独立投资工具",
+      "融资背景为AI驱动的网络安全市场需求激增"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
