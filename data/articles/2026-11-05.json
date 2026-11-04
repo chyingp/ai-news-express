@@ -1,0 +1,487 @@
+[
+  {
+    "id": "b17040584ed4523a57397aa620dc3d3c",
+    "title": "How to create AI ChatBot?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xnsxdm/how_to_create_ai_chatbot/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-04T16:39:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Do you guys know how to create AI chatbot like ChatGPT, Cloude or some other AI bots? Do you need to have coding experience or you dont even need to know how to type a single line in code? If someone knows pls let me know</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/StanixA\"> /u/StanixA </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/art",
+    "title_zh": "如何创建AI聊天机器人？",
+    "summary_zh": "Reddit用户询问创建类似ChatGPT或Claude的AI聊天机器人是否需要编程经验，希望了解实现方法。",
+    "key_points": [
+      "用户询问创建AI聊天机器人的方法",
+      "关注是否需要编程技能"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5236859690c3b8152e1654bf6c7e63ab",
+    "title": "Do looped transformers save HBM traffic? Profiling weight reuse in Huginn on a B200 [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnskvt/do_looped_transformers_save_hbm_traffic_profiling/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-04T16:26:12+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xnskvt/do_looped_transformers_save_hbm_traffic_profiling/\"> <img alt=\"Do looped transformers save HBM traffic? Profiling weight reuse in Huginn on a B200 [P]\" src=\"https://preview.redd.it/h7a0hkamgmzh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c3e61dc14d449c0cdb3608683567cdd297af29bb\" title=\"Do looped transformers save HBM traffic? Profiling weight reuse in Huginn on a B200 [P]\" /> </a> </td><td> <!-- SC_OFF -->",
+    "title_zh": "循环Transformer真的能节省HBM流量吗？在B200上剖析Huginn的权重复用",
+    "summary_zh": "一篇研究论文分析了循环Transformer在英伟达B200 GPU上的权重复用效果，探讨其是否能有效减少高带宽内存（HBM）流量。",
+    "key_points": [
+      "研究循环Transformer的权重复用机制",
+      "在英伟达B200上进行性能剖析",
+      "探讨减少HBM流量的实际效果"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "426fbb13ddcd527778dba2018340f462",
+    "title": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-04T16:17:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>As per the the 2027 CVPR guidelines:</p> <p>&quot;Maximum number of submissions (continuing from CVPR 2026): Each author may submit at most 25 papers. If an author enrolls more than 25 papers, the Program Chairs (PCs) will desk-reject the submissions that exceed this limit (see the Desk Rejection Policy in Section 2).&quot;</p> <p>AI Slop Researcher: &quot;Cool let me throw 25 darts (slop papers), surely one will get a batch of careless/inexperienced reviewers t",
+    "title_zh": "为什么学术会议不能合理降低投稿数量上限？",
+    "summary_zh": "讨论CVPR 2027规定每位作者最多投稿25篇论文的政策，质疑该上限是否足够合理以解决审稿压力。",
+    "key_points": [
+      "CVPR 2027将每位作者投稿上限设为25篇",
+      "社区质疑该限制能否缓解审稿压力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "33440c9f4820d6660e5b85967b406c1f",
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-04T16:17:22+00:00",
+    "content_snippet": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+    "title_zh": "谷歌因计划对限制AI的学校关闭搜索功能而面临强烈反对",
+    "summary_zh": "谷歌因一项将关闭限制AI使用的学校之搜索服务的计划，遭到纽约市长等政界人士的批评，被指责为不受监管的垄断。",
+    "key_points": [
+      "谷歌计划对限制AI的学校关闭搜索服务",
+      "政界人士批评谷歌涉嫌垄断行为"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c62a7e00b4c97f382ce765b8016acf7b",
+    "title": "Data centers lost the midterms",
+    "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-04T16:05:39+00:00",
+    "content_snippet": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 [&#8230;]",
+    "title_zh": "数据中心在中期选举中失利",
+    "summary_zh": "美国中期选举后，支持暂停或限制数据中心扩张的候选人和措施获胜，给AI产业的核心基础设施发展带来沉重打击。",
+    "key_points": [
+      "选民支持限制数据中心扩张的候选人和措施",
+      "AI产业基础设施发展面临更严格的政策环境"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "433e42d2df3c6a45d77f5a12a7f046fc",
+    "title": "An entire social network populated by AI characters who interact autonomously",
+    "url": "https://www.reddit.com/r/artificial/comments/1xns15w/an_entire_social_network_populated_by_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-04T16:05:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Found this interesting website: <a href=\"https://dead-world.xyz/\">https://dead-world.xyz</a></p> <p>It's like Reddit or Twitter, but all the users are AI characters with their own personalities, relationships, memories and conversations. They interact and evolve without human input. Pretty wild experiment I guess</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Bropocalypse_Team\"> /u/Bropocalypse_Team </a> &#32; to &#32; <a ",
+    "title_zh": "一个完全由自主交互的AI角色构成的社交网络",
+    "summary_zh": "一个名为Dead World的网站展示了由拥有个性、记忆和关系的AI角色组成的社交网络，它们能自主互动和演化。",
+    "key_points": [
+      "网站展示由AI角色构成的社交网络",
+      "AI角色具备个性、记忆并能自主交互"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8358357a3539fd1a8a9bc41b6f4fdc80",
+    "title": "Anthropic’s FlashProve could prove an AI provider used the model you paid for without exposing its weights",
+    "url": "https://www.reddit.com/r/artificial/comments/1xnrvak/anthropics_flashprove_could_prove_an_ai_provider/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-04T15:58:57+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xnrvak/anthropics_flashprove_could_prove_an_ai_provider/\"> <img alt=\"Anthropic’s FlashProve could prove an AI provider used the model you paid for without exposing its weights\" src=\"https://external-preview.redd.it/6rQaawW7Milkn-GryKuilD6bFqVwi03YevTwq8GDu44.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec4c0bf87d2323822ebbaf2eaa89863f4934eb5a\" title=\"Anthropic’s FlashProve could prove an AI provider used the model you p",
+    "title_zh": "Anthropic的FlashProve可证明AI提供商使用了你付费的模型，且无需暴露权重",
+    "summary_zh": "Anthropic推出FlashProve技术，允许客户在不暴露模型权重的情况下，验证AI服务商确实使用了其付费购买的特定模型。",
+    "key_points": [
+      "Anthropic推出模型验证技术FlashProve",
+      "客户可验证服务商使用的模型而不暴露权重"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3196c5909d1fda4b73a072cb4764eba8",
+    "title": "Uber only fulfilled 4 rides from AI agents last quarter",
+    "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-04T15:58:45+00:00",
+    "content_snippet": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during [&#8230;]",
+    "title_zh": "上季度Uber仅通过AI智能体完成了4次乘车订单",
+    "summary_zh": "Uber高管透露，2026年第三季度仅4次出行由第三方AI智能体安排，AI对核心业务的冲击远未到来。",
+    "key_points": [
+      "Uber上季度仅4次订单由AI智能体完成",
+      "AI智能体对Uber核心业务影响甚微"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fe97429604c57a655cf3a8c361ad0e45",
+    "title": "Sam Altman addresses RAM comments: people should &#8216;put as much as they want in their computers&#8217;",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-04T14:46:01+00:00",
+    "content_snippet": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it [&#8230;]",
+    "title_zh": "Sam Altman回应内存评论：人们应该‘想装多少内存就装多少’",
+    "summary_zh": "OpenAI CEO Sam Altman在选举夜为自己关于PC内存的观点辩护，并改名为‘Ram Altman’，鼓励人们为电脑配备大量内存。",
+    "key_points": [
+      "Altman回应内存争议，改名'Ram Altman'自嘲",
+      "主张鼓励人们在电脑中安装更多内存"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8ccb12fff18af596767d01f51064d8e1",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-04T14:30:00+00:00",
+    "content_snippet": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "title_zh": "OpenAI将收购Pierre计算机公司",
+    "summary_zh": "OpenAI宣布收购Pierre计算机公司，目的是扩展其Codex平台在代码构建、理解和审查方面的工具集。",
+    "key_points": [
+      "OpenAI收购Pierre计算机公司",
+      "旨在增强Codex的代码构建与审查工具"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "86928d89e168d9fbc972b005c603a372",
+    "title": "Going in circles when using LLMs",
+    "url": "https://www.reddit.com/r/artificial/comments/1xno0n3/going_in_circles_when_using_llms/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-04T13:20:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi!</p> <p>I have been using ChatGPT and Claude, I would say extensively, since the day they came out. They obvisouly got exponentially better and better since then. However, I have a problem related to doing projects. I don't know if I am using it wrong, maybe my approach is bad entirely and all that, but I cannot seem to finish my projects. And by projects I do not mean simple pet-projects. For them you can think of MVP state and stop after achieving it. My ma",
+    "title_zh": "使用LLM时陷入循环困境",
+    "summary_zh": "用户反映在利用ChatGPT和Claude等大语言模型进行项目时，经常陷入重复循环，无法得到有效推进，怀疑自己的使用方式有问题。",
+    "key_points": [
+      "用户反馈使用ChatGPT和Claude做项目时易陷入重复循环",
+      "探讨是否因使用方式不当导致AI输出原地打转",
+      "问题主要出现在复杂项目而非简单任务中"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "966745d9c7f0bb9d0581a6be76024c35",
+    "title": "The Download: blended meat, restored sight, and the agentic web",
+    "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-04T13:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs. The students loved them:&#8230;",
+    "title_zh": "今日下载：混合肉类、恢复视力与智能体网络",
+    "summary_zh": "MIT科技评论的每日新闻摘要，涵盖初创公司开发混合食品以减少红肉需求、恢复视力的植入物技术，以及智能体网络的发展趋势。",
+    "key_points": [
+      "初创公司尝试通过混合食品减少人们对红肉的消费需求",
+      "介绍能恢复视力的植入物技术新进展",
+      "探讨AI智能体驱动的网络发展趋势"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5a5d2de4de04525c51528bf270029460",
+    "title": "Securing the agentic enterprise with data lineage",
+    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-04T13:00:00+00:00",
+    "content_snippet": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s&#8230;",
+    "title_zh": "通过数据血缘保障智能体企业安全",
+    "summary_zh": "文章探讨在企业AI智能体应用中，如何利用数据血缘技术追踪数据来源和流转，防止因数据引用错误导致的商业风险和安全问题。",
+    "key_points": [
+      "AI智能体在提取多源数据时可能产生难以察觉的错误",
+      "数据血缘技术可追踪数据流转防止错误决策",
+      "为销售、定价等企业场景提供安全保障方案"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aea02c7449337b51c97bf224302bf598",
+    "title": "Hy4 adds vision and computer use. How reliable will it be on long tasks?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xnn1xm/hy4_adds_vision_and_computer_use_how_reliable/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-11-04T12:33:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Tencent just dropped Hy4. Vision and computer use are probably the two biggest new additions.</p> <p>For the first time, Hy can understand images and complex charts. It can also work across CLI and GUI, with specific training for tools like Blender and CAD.</p> <p>The computer use part sounds pretty interesting, but there’s more to it than just clicking buttons and running commands. What happens when a button moves, a permission pop-up gets in the way, or a comm",
+    "title_zh": "腾讯混元4新增视觉与电脑操作功能，长任务可靠性如何？",
+    "summary_zh": "腾讯推出Hy4模型，新增视觉理解和计算机操作能力，具备图像图表识别及跨CLI/GUI操作能力，但在长时间任务中的可靠性仍需验证。",
+    "key_points": [
+      "腾讯发布Hy4模型，首次增加视觉理解和计算机操作能力",
+      "支持图像图表识别及Blender、CAD等专业工具操作",
+      "长任务执行可靠性尚待实际检验"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "tencent"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "27ef63eca13564102f2c1bbb769a9359",
+    "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-04T12:00:00+00:00",
+    "content_snippet": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads [&#8230;]",
+    "title_zh": "谷歌尚未找到让AI像搜索引擎一样变现的方法",
+    "summary_zh": "谷歌搜索查询量虽以五年来最快速度增长，但搜索收入增速从17%降至12%，AI概述服务增长未能有效转化为广告收入，变现难题显现。",
+    "key_points": [
+      "谷歌搜索查询量增速创五年新高，但收入增速明显放缓",
+      "AI概述服务增长尚未有效转化为广告收入",
+      "谷歌面临AI商业化变现的核心挑战"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "65b02ad15362fbdb8f57024fad1135fc",
+    "title": "why is every AI memory tool still unreliable or am I using it wrong?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xnlmx2/why_is_every_ai_memory_tool_still_unreliable_or/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-04T11:16:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I use Claude, GPT, and their built-in memories a lot, but unfortunately, they are too inconsistent. They cannot remember which needs, or even cannot give the exact context most of the time which is needed. This might not affect normal things, like polishing emails. But it highly affects long-term or complex projects.</p> <p>Moreover, it works only inside that exact AI. I also tried some external tools like Mem0 and Supermemory; they are a little better, but they",
+    "title_zh": "为何所有AI记忆工具仍不可靠？",
+    "summary_zh": "用户反映Claude、ChatGPT等内置记忆功能过于不稳定，无法准确记住需求和上下文，尤其在复杂项目中表现不佳，影响使用体验。",
+    "key_points": [
+      "Claude和GPT内置记忆功能在复杂场景下表现不可靠",
+      "AI难以持续跟踪上下文并记住特定需求",
+      "问题在邮件润色等简单任务上影响不明显"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f5214fe665ae1f7ee022e4878e4133a0",
+    "title": "The State of Enterprise AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1xnkvd1/the_state_of_enterprise_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-04T10:30:06+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xnkvd1/the_state_of_enterprise_ai/\"> <img alt=\"The State of Enterprise AI\" src=\"https://external-preview.redd.it/avC4c5VIO9HTrdfELU9hGUHq7--alrKLmB2nuWi0hGQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b2f1bf703b88c1b56bdcac651bb1b67b0f3ae72\" title=\"The State of Enterprise AI\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Curious to what others think how relevant and true it is?</p> </div><!-- SC_ON --> &#32; sub",
+    "title_zh": "企业AI现状报告",
+    "summary_zh": "一篇关于企业人工智能应用现状的分析讨论，涉及AI在企业中的部署情况、面临的挑战以及未来发展趋势。",
+    "key_points": [
+      "分析当前企业AI的应用部署整体状况",
+      "探讨企业在采用AI技术时遇到的主要挑战",
+      "展望企业AI未来的发展方向"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ada442a5f99db1c115010be441caf284",
+    "title": "A message to top tier conferences [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-04T09:55:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>TL;DR: Please be hard in desk rejecting AI generated papers</strong></p> <p><strong>Recently I went to two AI conferences (A and A*) and I was surprised that &quot;AI cheaters&quot; didn't even read their own paper before presentation! For example, a guy couldn't even answer the question of how he represented knowledge graphs in his papaer, he thought for 5 minutes before answering &quot;with a vector&quot;. Another one was opening chat gpt and typing qu",
+    "title_zh": "给顶级学术会议的建议：严审AI生成论文",
+    "summary_zh": "一位参会者发现顶级AI会议上出现大量由AI生成且作者未阅读就演讲的论文，呼吁会议方在审稿阶段更严格地拒绝此类AI滥用行为。",
+    "key_points": [
+      "顶级AI会议出现作者未阅读自己AI生成论文的现象",
+      "AI生成论文存在到演讲时才发现内容错误的情况",
+      "呼吁会议方加强初审环节拒绝AI滥竽充数论文"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6ab1356febe6b7c14a41f537893971b0",
+    "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-04T09:00:29+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/\"> <img alt=\"Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]\" src=\"https://preview.redd.it/ykjgz5i39kzh1.png?width=140&amp;height=105&amp;auto=webp&amp;s=aa9661d9c922aa8d678e519d09f9e1a41bfa221b\" title=\"Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output co",
+    "title_zh": "Hydrogen-1.0开源科学模型在FSR上击败GPT-6 Astra且推理成本降低72%",
+    "summary_zh": "Hydrogen-1.0作为开源权重科学模型，在FSR基准测试中表现超越GPT-6 Astra，同时估算输出成本降低72%，展示了开源模型在科学领域的竞争力。",
+    "key_points": [
+      "Hydrogen-1.0在FSR基准测试中性能超越GPT-6 Astra",
+      "估算输出成本相比GPT-6 Astra降低72%",
+      "模型采用开源权重，专为科学研究场景设计"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0127d9c06498e5d5bf211ae3c4a42506",
+    "title": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+    "url": "https://www.qbitai.com/2026/11/507567.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-11-04T08:49:12+00:00",
+    "content_snippet": "11月4日，虎鲸文娱集团打造的行业首个AI影视制作与管理平台“鲸锐AI”正式上线。",
+    "title_zh": "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上",
+    "summary_zh": "虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”，该平台可将AI视频单分钟制作成本降低30%以上，于11月4日正式上线。",
+    "key_points": [
+      "虎鲸文娱发布行业首个AI影视制作与管理平台“鲸锐AI”",
+      "AI视频单分钟制作成本节省30%以上",
+      "平台于11月4日正式上线，面向影视行业"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
