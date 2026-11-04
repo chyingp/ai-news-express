@@ -483,5 +483,253 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f95b3a80fa8bdb807e972e79ab9f695b",
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-04T18:50:55+00:00",
+    "content_snippet": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,&#8230;",
+    "title_zh": "得克萨斯州曾是AI数据中心建设新中心，如今地位岌岌可危",
+    "summary_zh": "得克萨斯州作为美国增长最快的数据中心市场，是科技巨头AI建设的热土。但近期选举中民主党胜出，可能影响该州数据中心的发展前景。",
+    "key_points": [
+      "得州是美国AI数据中心建设增长最快的地区",
+      "民主党在地方选举中获胜可能改变现有政策环境",
+      "科技巨头的AI扩张计划面临政治不确定性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9ba460d217869131eb65ccb784fe3e98",
+    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+    "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-04T18:44:57+00:00",
+    "content_snippet": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]",
+    "title_zh": "基于开源AI构建：Hugging Face政策主管谈成本、风险与权衡",
+    "summary_zh": "开源模型在企业和政府中日益主流，Hugging Face政策主管探讨了企业如何从免费可用模型中获取价值，以及中国开源模型崛起带来的竞争等问题。",
+    "key_points": [
+      "开源AI模型在企业中应用越来越普遍",
+      "探讨企业如何从开源模型中获取商业价值",
+      "中国开源模型的崛起带来新的竞争格局"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ff04559404293b8c5240c0d4a1cec323",
+    "title": "Nothing teases a screen-free AI device ahead of launch next month",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-04T18:26:07+00:00",
+    "content_snippet": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature [&#8230;]",
+    "title_zh": "Nothing公司预告将于下月推出无屏幕AI设备",
+    "summary_zh": "Nothing公司CEO裴宇在社交媒体宣布，将于12月推出首款AI设备。该设备是无屏幕的“AI原生”产品，具体功能尚未详细披露。",
+    "key_points": [
+      "Nothing公司将于12月发布首款AI设备",
+      "设备无屏幕，主打AI原生体验",
+      "CEO裴宇此前已宣布AI硬件和操作系统计划"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "75eb51dfb9067cd304ac4837c8c85e8b",
+    "title": "ai has been stuck in software. what would ai native hardware actually need to be?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xnvouu/ai_has_been_stuck_in_software_what_would_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-04T18:22:28+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>aina a hardware interface launching tomorrow says every big shift in computing came from software and hardware built together which is true, the mouse and gui, then the touchscreen, and that ai has been stuck in software. nobody says what it is.</p> <p>i'm curious what you think about the claim. chat is how we talk to ai today, but is that really the right interface?</p> <p>if ai got its own hardware, what's the job it would do better than a phone or a laptop? a",
+    "title_zh": "AI长期局限于软件，AI原生硬件真正需要什么？",
+    "summary_zh": "Reddit用户讨论AI硬件缺失的问题，指出每次计算变革都是软硬件协同创新，但AI目前仍主要停留在软件层面，缺乏原生硬件支持。",
+    "key_points": [
+      "历史重大计算变革均由软硬件协同创新推动",
+      "AI目前主要停留在软件层面，缺乏原生硬件",
+      "新硬件接口即将发布，可能改变现状"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e831baecc2f708e9008ff67260e05190",
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-04T18:21:40+00:00",
+    "content_snippet": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual&#8230;",
+    "title_zh": "圆桌讨论：探索认知永生的可能性",
+    "summary_zh": "MIT Technology Review将举办圆桌讨论，探讨一些前卫技术专家如何试图使人类大脑在死后仍能持续运作，追求意识的延续。",
+    "key_points": [
+      "技术专家探索让大脑在死后继续运作的方法",
+      "核心目标是实现某种形式的认知永生",
+      "活动将于11月17日举行"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c3fe18d638771b2431ffed0ff89dcee0",
+    "title": "Woman Dies After ChatGPT Tells Her To Stop Taking Epilepsy Medication—And Now Her Family Is Suing",
+    "url": "https://www.reddit.com/r/artificial/comments/1xnvk76/woman_dies_after_chatgpt_tells_her_to_stop_taking/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-04T18:17:44+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xnvk76/woman_dies_after_chatgpt_tells_her_to_stop_taking/\"> <img alt=\"Woman Dies After ChatGPT Tells Her To Stop Taking Epilepsy Medication—And Now Her Family Is Suing\" src=\"https://external-preview.redd.it/_rVb3D5P_o7WFKXsAQ_qv1SptTTChbj1YYTMiCI-0rM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ed2c238d215794e5fe5bc48218291e9ce0edd01\" title=\"Woman Dies After ChatGPT Tells Her To Stop Taking Epilepsy Medication—And Now H",
+    "title_zh": "女子听从ChatGPT建议停用癫痫药物致死，家属提起诉讼",
+    "summary_zh": "一名女性因听从ChatGPT建议停止服用癫痫药物后去世，其家属已对相关方提起诉讼，引发对AI提供医疗建议风险的关注。",
+    "key_points": [
+      "女子因停用癫痫药物死亡，源于ChatGPT建议",
+      "家属已正式提起法律诉讼",
+      "事件凸显AI提供医疗建议的潜在严重风险"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2a75c3522d1be688ee44ec80a7986a95",
+    "title": "Notes from comparing AI personal finance apps.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xnv781/notes_from_comparing_ai_personal_finance_apps/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-04T18:03:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been comparing AI-related personal finance tools, and one thing that helped was sorting them by the problem they’re meant to solve. “Personal finance app” covers a pretty wide range of products.</p> <ol> <li>“Where did my money go?” (mainly budgeting and tracking)</li> </ol> <p>Monarch Money: budgeting, net worth tracking, and a shared household view, with an AI assistant for questions about your data.</p> <p>Copilot Money: a similar focus, with a polished,",
+    "title_zh": "AI个人理财应用对比笔记",
+    "summary_zh": "用户分享了对市场上多款AI个人理财工具的比较心得，按功能类型进行了分类，涵盖预算追踪、投资分析等不同场景。",
+    "key_points": [
+      "用户按解决的具体问题分类比较AI理财应用",
+      "主要类别包括预算追踪和投资分析等",
+      "不同工具针对“个人理财”的不同细分领域"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "45b27d1602b07011ed39afb3b3f37daa",
+    "title": "ChatGPT will now make you animated GIFs",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-04T18:00:00+00:00",
+    "content_snippet": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively generate GIFs in a single [&#8230;]",
+    "title_zh": "ChatGPT新增动画GIF生成功能",
+    "summary_zh": "OpenAI为ChatGPT更新了图像模型，新增直接生成动画GIF的功能。用户可以调整动画速度、编辑帧并分享，此前不支持原生GIF生成。",
+    "key_points": [
+      "ChatGPT现可基于文本或图片提示生成动画GIF",
+      "新功能基于OpenAI的Images 2.6模型",
+      "用户可调整动画速度和编辑单帧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "600a90225a247402bf568cf865d491d0",
+    "title": "Apple put a warning about rogue AI agents in its 10-K. That’s a legal filing, not a blog post.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xnudhs/apple_put_a_warning_about_rogue_ai_agents_in_its/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-04T17:33:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Apple’s annual report to the SEC now includes language about AI agents potentially acting without authorization, and specifically uses the words conceal and manipulate when describing unintended agent behaviour.</p> <p>Worth pausing on where that appears. A 10-K is a legal document. Risk factors in it are drafted by lawyers who are personally exposed if they’re wrong or misleading. Companies put things there when they’ve concluded the risk is material enough tha",
+    "title_zh": "苹果在年度报告中警告失控AI代理风险",
+    "summary_zh": "苹果在提交给SEC的10-K年报中增加了关于AI代理在未经授权情况下可能执行操作并隐藏行为的警告，将这一风险列为正式财务披露。",
+    "key_points": [
+      "苹果在法定年度报告中警告AI代理的潜在危险",
+      "报告使用“隐藏”和“操纵”描述失控AI行为",
+      "在10-K中提及非一般博客声明，具法律意义"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fcbae52d16c99dae57b4e9090ba78a61",
+    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+    "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-04T16:51:35+00:00",
+    "content_snippet": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+    "title_zh": "实测苹果Siri摘要功能：惊喜与不安并存",
+    "summary_zh": "TechCrunch编辑试用苹果AI驱动的Siri摘要功能后，在一天内被其便利性打动，尽管仍有隐私顾虑，认为功能还有改进空间。",
+    "key_points": [
+      "Siri摘要功能在实际使用中表现出令人惊喜的实用性",
+      "用户同时对AI处理个人数据感到不安",
+      "功能仍存在提升空间，隐私问题待解"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
