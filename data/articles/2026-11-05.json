@@ -1408,5 +1408,156 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5ea48b8517adbd0d8b67c55a70d10efb",
+    "title": "Where Did the People in Between Go?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xog015/where_did_the_people_in_between_go/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-05T11:10:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> <p>About forty years ago, if I wanted to call my aunt in America, I had to go to the telephone and telegraph office. I would request an international call and wait for the operator to connect me. I remember waiting an hour at a time. The voice on the other end of the receiver seemed to run a race down the telephone line and only reached me after a while. A lot of people worked in that office.</p> <p>Now I just take my phone out of my pocket and dial",
+    "title_zh": "中间的人去哪儿了？",
+    "summary_zh": "作者回忆四十年前打国际长途需要接线员转接，感叹如今技术自动化取代了中间人角色，引发对人工智能时代人类中介消失的反思。",
+    "key_points": [
+      "作者对比过去依赖人工接线员与当今自动化技术",
+      "探讨技术进步导致中间人角色逐渐消失的现象",
+      "反思人工智能时代人类中介的未来"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3b1e4e7f7c1e71fb9907cb6fc54f43cb",
+    "title": "Big Tech’s big AI buildout will not end until someone stops it",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-05T10:45:00+00:00",
+    "content_snippet": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also [&#8230;]",
+    "title_zh": "科技巨头的AI军备竞赛：巨额投入未见回报却无人喊停",
+    "summary_zh": "亚马逊、微软、Alphabet、Meta等巨头最新财报显示，AI数据中心建设支出持续创纪录，但投资回报仍遥不可及，业界质疑此趋势何时放缓。",
+    "key_points": [
+      "四大科技巨头AI数据中心支出持续创纪录",
+      "巨额投入目前尚未带来明确投资回报",
+      "华尔街对无回报的支出狂欢表示质疑"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google",
+      "microsoft",
+      "meta",
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "38b76194247a0115b6ecac8062d1cd9a",
+    "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-05T10:44:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi all, author here (Idiap Research Institute, joint work with Logitech). We recently released DialFork and thought it might interest people here. It's a benchmark for a failure mode of LLM agents that is easy to miss: every turn is fluent and factual, the tool calls are correct, yet the agent stops following the procedure it was given. For example, asked for the weather, it fetches the forecast (correct tool call) but never tells you, and starts asking you to r",
+    "title_zh": "DialFork：评估对话智能体程序性幻觉的新基准",
+    "summary_zh": "Idiap研究院与罗技联合发布DialFork基准，用于检测LLM智能体在流畅对话中产生的程序性幻觉，即工具调用或步骤逻辑错误。",
+    "key_points": [
+      "新基准DialFork专门检测对话Agent的程序性幻觉",
+      "错误表现为工具调用或步骤逻辑异常但语言流畅",
+      "由Idiap研究院和罗技联合开发"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6bdb281483412aaa55105f6f5bb07d07",
+    "title": "Apple is cutting employee AI spending budgets even as it pushes workers to use the technology more. Engineers have seen daily limits cut from $300 to $200, with further reductions to $100 planned. Other teams could see limits fall to $25.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xocwcy/apple_is_cutting_employee_ai_spending_budgets/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-05T07:50:01+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xocwcy/apple_is_cutting_employee_ai_spending_budgets/\"> <img alt=\"Apple is cutting employee AI spending budgets even as it pushes workers to use the technology more. Engineers have seen daily limits cut from $300 to $200, with further reductions to $100 planned. Other teams could see limits fall to $25.\" src=\"https://preview.redd.it/o8l9f1ml1rzh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a72592038782c75b8865c0796a8c4",
+    "title_zh": "苹果削减员工AI预算，工程师日配额从300降至200美元",
+    "summary_zh": "苹果在推动员工使用AI技术的同时，却将工程师每日AI支出限额从300降至200美元，并计划进一步缩减至100美元，其他团队可能低至25美元。",
+    "key_points": [
+      "苹果工程师AI工具日预算从300美元削至200美元",
+      "公司计划未来进一步压缩至100美元",
+      "其他团队预算或降至25美元，与推广AI态度矛盾"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b6eeeae33ca165aad837802485097584",
+    "title": "Chris Lehane posed 5 questions for 2028 candidates",
+    "url": "https://www.reddit.com/r/artificial/comments/1xoco51/chris_lehane_posed_5_questions_for_2028_candidates/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-05T07:34:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>OpenAI's Chief Global Affairs Officer published a personal essay on Nov. 4, listing 5 questions for 2028 US presidential candidates about AI policy.</p> <p>The questions cover safety and human control, tax policy and who shares gains, protecting children and preparing workers, healthcare affordability, education access, and US leadership relative to China.</p> <p>The fifth ties leadership to energy, computing infrastructure, research and talent. OpenAI Global Af",
+    "title_zh": "OpenAI高管向2028年总统候选人提出五大AI政策问题",
+    "summary_zh": "OpenAI全球事务官Chris Lehane发表个人文章，列出关于AI安全、税收、儿童保护、就业及全球治理的五项议题，呼吁候选人回应。",
+    "key_points": [
+      "涵盖安全与控制、税收分配、儿童保护等议题",
+      "呼吁2028年美国总统候选人回应AI政策",
+      "体现OpenAI积极影响政策制定的意图"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "142b40c34cbca1fb4d334c8931e83e85",
+    "title": "Publication expectations for ML PhDs at top-10 US schools / top ML groups? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xoc358/publication_expectations_for_ml_phds_at_top10_us/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-05T06:56:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>From what I’ve read on Reddit so far, I’m getting the impression that around 4 first-author papers at top ML conferences (NeurIPS, ICML, ICLR, etc.) is a fairly standard expectation for graduating from a top ML PhD program.<br /> Of course, my impression could be biased by the posts I’ve seen.<br /> For people at top-10 US CS schools or similarly competitive ML groups, is this roughly accurate? What’s the typical expectation in terms of number of papers and venu",
+    "title_zh": "美国顶尖ML博士项目的发表期望：四篇顶会一作论文？",
+    "summary_zh": "Reddit机器学习社区讨论美国前十学校及顶尖ML组的博士毕业要求，普遍认为需约4篇NeurIPS、ICML等顶会一作论文。",
+    "key_points": [
+      "顶尖ML博士毕业通常需4篇一作顶会论文",
+      "主要涉及NeurIPS、ICML、ICLR等会议",
+      "讨论反映了ML博士培养的高强度竞争现状"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
