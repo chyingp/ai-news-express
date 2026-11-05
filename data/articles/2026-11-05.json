@@ -1314,5 +1314,99 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "aec293667466346408f695e40a3b5337",
+    "title": "Now that Democrats are in control, will they regulate AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xo8w64/now_that_democrats_are_in_control_will_they/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-05T03:53:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>If you're in tech, specifically programming, you've seen this coming for 2 years now. However, it's only recently emerged as a top 10 issue in the USA, that issue being AI. Do you think Democrats will be smart enough to step in to protect jobs and industries or will they allow AI to ravage entire industries like it's currently doing?</p> <p>The general public still doesn't understand, but if AI can replace programmers, game developers, 3D modelers, animators, wr",
+    "title_zh": "民主党掌控国会后，会监管人工智能吗？",
+    "summary_zh": "本文讨论美国民主党在掌握国会控制权后，是否会推动人工智能监管立法。文章指出AI已成为美国前十大议题，核心争论点是民主党是否会介入以保护就业和产业。",
+    "key_points": [
+      "AI已成为美国民众关注的前十大政治议题之一",
+      "讨论焦点在于民主党是否会为保护就业而推动AI监管"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "56c490683676137166d84f8fbfbc124e",
+    "title": "I submitted my AACL paper as a long paper, but it’s listed as a short paper. [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo8vd3/i_submitted_my_aacl_paper_as_a_long_paper_but_its/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-05T03:52:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi. My AACL Main paper was just published on ACL Anthology, and I noticed that it appears as a Short Paper. My understanding that it was a long paper since that was what I selected during the ARR review, and my paper's main text runs through nine pages. </p> <p>Has anyone run into this at an ACL venue? Is it something I should be worried about? This is my first paper so thank you very much for the help.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"",
+    "title_zh": "我在AACL提交的长论文被列为短论文",
+    "summary_zh": "一位研究人员在Reddit上求助，称其向AACL会议提交的长论文在ACL Anthology上被错误地列为短论文，尽管论文正文篇幅达九页，符合长论文要求。",
+    "key_points": [
+      "论文正文九页却被AACL列为短论文，引发作者困惑",
+      "帖子寻求社区帮助，可能涉及会议审稿或收录流程问题"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ec12fc672b7c0e873c95c17ef4e0b062",
+    "title": "Anyone else tired of how expensive agent evaluations are? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xo8hlk/anyone_else_tired_of_how_expensive_agent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-05T03:33:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So I have been working on some general use agents that work with different domains but these require online simulations to test for some of the domains. And running agents in actual environments takes so much time and compute and then reproducing results is another headache. My goal is to test which VLMs can be better in general for agents irrespective of a singular domain.</p> <p>I found there’s a benchmark called AgentVQA that tests how well models understand ",
+    "title_zh": "还有人厌倦了智能体评估的高昂成本吗？",
+    "summary_zh": "一位AI开发者在Reddit上抱怨通用智能体评估成本过高。由于需要在真实环境中进行在线模拟测试，耗费大量时间和计算资源，且结果复现困难。",
+    "key_points": [
+      "通用智能体的在线模拟评估耗费大量计算资源和时间",
+      "评估结果难以复现，增加了研发成本和工程挑战"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9e9772388f20ebf1514d67bb9fd98223",
+    "title": "Could AI search hurt ad business?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xo874r/could_ai_search_hurt_ad_business/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-05T03:18:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>People use AI more for everyday searches when comparing products or looking for quick answers. It's easier than opening a bunch of links.<br /> Google is a good example of how AI search could change the way online businesses make money. I checked Google's latest earnings with anvita mate and search revenue was still up 12% YoY, but paid ad click growth slowed from 13% to 8%.<br /> Think about how we shop online. Before, we'd search for a product, visit a few sit",
+    "title_zh": "AI搜索会损害广告业务吗？",
+    "summary_zh": "文章探讨AI搜索对传统在线广告业务模式的冲击。用户越来越依赖AI进行产品比较和快速查询，减少了点击链接的行为，文章以谷歌的财报为例分析其潜在影响。",
+    "key_points": [
+      "用户转向AI搜索导致链接点击减少，冲击传统广告模式",
+      "以谷歌为案例，分析AI搜索如何改变在线企业的盈利方式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
