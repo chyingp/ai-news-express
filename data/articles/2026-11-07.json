@@ -316,5 +316,127 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d0f519374f2b8f9332dbc01ca04c987f",
+    "title": "Higgs Realtime Duplex: a 45B MoE full-duplex model that listens, watches and talks at once, and thinks, calls tools and delegates in the background [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-06T20:23:53+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Disclosure: I'm at Boson AI and this is our release. Not open weights; the Duplex API has a waitlist, and the previous turn-based Higgs Realtime is available now.</p> <p>Most voice models are still turn-based: listen, wait for end of turn, think, speak. Duplex runs all streams at once and keeps working in the background while it talks.</p> <p><strong>Streams.</strong> Everything is cut into 160 ms chunks:</p> <ul> <li>Audio in: 1 token per chunk (6.25 tokens/s)<",
+    "title_zh": "Higgs Realtime Duplex：450亿参数MoE全双工模型，能同时听、看、说并后台思考与调用工具",
+    "summary_zh": "Boson AI发布了450亿参数的全双工模型Higgs Realtime Duplex，支持实时边听边看边说并后台思考。目前仅提供API等待列表，其前代轮次对话版已可用。",
+    "key_points": [
+      "45B MoE全双工模型实现真正同步视听与对话能力",
+      "能在后台进行思考、调用工具和委派任务",
+      "非开源，API需加入等待列表，前代版本已可用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4ff7533ddf5b758e773e9889fe2109fd",
+    "title": "AI teddy makes unprompted 'I can't help with killing you' remark",
+    "url": "https://www.reddit.com/r/artificial/comments/1xpmrry/ai_teddy_makes_unprompted_i_cant_help_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-06T20:08:11+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xpmrry/ai_teddy_makes_unprompted_i_cant_help_with/\"> <img alt=\"AI teddy makes unprompted 'I can't help with killing you' remark\" src=\"https://external-preview.redd.it/J-LnHG92vZ_Q6iLO4KqM9M7eno5exVW5iTsPFNngfLU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=baa0f7303be5263351b9ffb76ebee30c3547a0f4\" title=\"AI teddy makes unprompted 'I can't help with killing you' remark\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"",
+    "title_zh": "AI泰迪熊未经提示突然说出“我无法帮你杀你”",
+    "summary_zh": "一款AI智能泰迪熊在无明显触发的情况下，突然发出“我无法帮你杀你”的言论，异常回应引发公众对AI设备安全性与不可预测性的担忧和讨论。",
+    "key_points": [
+      "AI玩具意外说出涉及杀戮的拒绝性语句",
+      "事件加剧了对嵌入式AI设备安全性的公众疑虑",
+      "言论在未提示下生成，展现AI行为不可预测性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3bc01457309b56110355477bc2cf31e5",
+    "title": "All the latest updates on AI data centers",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-06T20:02:22+00:00",
+    "content_snippet": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead [&#8230;]",
+    "title_zh": "关于AI数据中心的所有最新动态",
+    "summary_zh": "科技公司加速扩建高能耗AI数据中心，引发全球范围内对电网冲击、电费上涨、社区影响和环境后果的争议，该文章汇总了相关最新动态。",
+    "key_points": [
+      "AI数据中心的大规模扩张对电力基础设施造成巨大压力",
+      "数据中心建设在全球引发环境与社区利益冲突",
+      "汇总了电力消耗与电网稳定性的最新争议进展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "37d75a0fa3790bf4ac75d250aeccd452",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-06T18:44:38+00:00",
+    "content_snippet": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "title_zh": "数百个Artex AI黑客工具被发现公开暴露在互联网上",
+    "summary_zh": "安全研究人员发现数百台托管渗透测试工具Artex的服务器暴露于公网，使得任何人都可随意访问这款黑客工具，构成严重安全隐患。",
+    "key_points": [
+      "数百台服务器未经保护地公开了渗透测试工具Artex",
+      "任何人都能通过公网直接访问和利用这些黑客工具",
+      "构成严重网络安全威胁，暴露管理疏漏"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "dcfedcc7440be1b63e34f9fdd075f41e",
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-06T18:44:20+00:00",
+    "content_snippet": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "title_zh": "Meta推出Spaces，与Muse智能体协作的新方式",
+    "summary_zh": "Meta为其AI助手Muse推出新功能Spaces，提供一种全新的互动方式，以增强用户与AI代理之间的协作体验。",
+    "key_points": [
+      "Meta发布Spaces，作为与Muse代理交互的新协作方式",
+      "Muse代理持续获得新功能和集成更新",
+      "旨在提升用户与AI助手之间的协作效率与体验"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
