@@ -1376,5 +1376,51 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "0dbe99e7e45b15b44a04c888f1acda0c",
+    "title": "What’s the difference between a traditional PKMS and an AI-powered second brain?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xp0ael/whats_the_difference_between_a_traditional_pkms/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-06T01:30:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A traditional Personal Knowledge Management System (PKMS) helps you organize, store and retrieve what you know. A second brain takes that further by helping you connect ideas, rediscover forgotten knowledge and put it to work. Andrej Karpathy explored this direction with his LLM Wiki concept, where AI organizes information into interconnected knowledge that compounds over time. I think the next evolution is making that knowledge useful to both humans and AI agen",
+    "title_zh": "传统个人知识管理系统与AI驱动的“第二大脑”有何区别？",
+    "summary_zh": "文章探讨了传统个人知识管理系统（PKMS）与AI驱动的“第二大脑”之间的核心差异。传统PKMS侧重于知识的存储和检索，而“第二大脑”则能建立知识连接、重新发现信息并付诸实践，文中提及Andrej Karpathy对此方向的探索。",
+    "key_points": [
+      "AI第二大脑超越传统PKMS，能连接想法并应用知识",
+      "文章提及Andrej Karpathy对这一方向的探索"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "33d03372fe4308a5c65c049537fd701e",
+    "title": "What is the best way to do what I'm trying to do? I'm trying to recreate Autodesk Maya as close as possible but a free version",
+    "url": "https://www.reddit.com/r/artificial/comments/1xp082g/what_is_the_best_way_to_do_what_im_trying_to_do/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-06T01:27:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It's very <a href=\"https://imgur.com/a/zShm4ti\">basic</a> so far but looks pretty good considering I started like 3 hours ago. Right now I'm simply asking ChatGPT to replicate certain features and functions I like in Maya (I've only focused on tools for 3D modeling and shaders and nothing else so far) and then downloading the development build and testing it. Also got it to read some documentation about the tools and navigation from the website.</p> <p>Thing is,",
+    "title_zh": "如何用AI免费复刻Autodesk Maya？",
+    "summary_zh": "一名用户分享其在三小时内利用ChatGPT尝试复制Autodesk Maya三维建模工具功能的初步成果。项目目前仅为基础版本，目标是打造一个尽可能接近Maya的免费替代软件。",
+    "key_points": [
+      "用户尝试用ChatGPT辅助编程重建Maya核心建模功能",
+      "项目在三小时内取得基础视觉效果，目标为免费替代品"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
