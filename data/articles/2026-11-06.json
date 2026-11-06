@@ -957,5 +957,424 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "11ed893c56f479775506a52110f78743",
+    "title": "ICLR Review [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xozcd8/iclr_review_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-06T00:44:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>About to be released. Anybody got them so far ?</p> <p>I have two submissions #35k+ &amp; 50k+, waiting.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Invariant_n_Cauchy\"> /u/Invariant_n_Cauchy </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://www.reddit.com/r/MachineLearning/comments/1xozcd8/iclr_review_d/\">[link]</a></span> &#32; <span><a href=\"",
+    "title_zh": "ICLR 审稿结果即将发布",
+    "summary_zh": "Reddit 用户讨论即将公布的 ICLR 论文审稿结果，部分投稿者表示正在等待结果。讨论纯属社区对学术会议日程的关注。",
+    "key_points": [
+      "ICLR 审稿结果即将向投稿者公布",
+      "用户在线讨论和等待自己的投稿结果",
+      "属于机器学习学术社区的常规动态"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2fc3983a0ad2f79a9ab31ac2f281bfc7",
+    "title": "Blind listening test: 62 people compared 8-bar piano loops written by 8 LLMs (Gemini, Claude, Qwen, Kimi, Grok, GPT-6.1, DeepSeek, Llama). Interim results",
+    "url": "https://www.reddit.com/r/artificial/comments/1xoz9sv/blind_listening_test_62_people_compared_8bar/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-06T00:41:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I ran this study, so take that into account. The listeners were paid raters on an evaluation platform I operate; nothing here is a product and I'm not linking anything.</p> <p><strong>Question:</strong> when 8 flagship LLMs each get ONE shot at writing a short piano loop as a note list, which outputs do ordinary listeners prefer? This is about symbolic composition (notes), not audio-generation models, and not full songs.</p> <p><strong>Setup</strong></p> <ul> <l",
+    "title_zh": "盲听测试：八大语言模型钢琴作曲能力对比",
+    "summary_zh": "一项盲听研究让 62 人评估 GPT-6.1、Gemini、Claude 等 8 款主流大语言模型一次生成的钢琴曲。该测试旨在对比不同模型的音乐创作能力。",
+    "key_points": [
+      "62人参与评估8款 LLM 生成的钢琴曲",
+      "测试涵盖 GPT-6.1、Gemini、Claude 等旗舰模型",
+      "研究旨在横向比较各模型的创意生成能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic",
+      "google",
+      "xai",
+      "deepseek",
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3323df791b8bcd34e15af67b305a53a1",
+    "title": "OpenAI is stepping back from NDAs for data center projects",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-06T00:37:56+00:00",
+    "content_snippet": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions [&#8230;]",
+    "title_zh": "OpenAI 承诺数据中心项目不再要求签署保密协议",
+    "summary_zh": "在选民对数据中心扩张表示反对后，OpenAI 宣布将在其数据中心项目中，不再要求公职人员签署保密协议（NDA），以提高项目透明度。",
+    "key_points": [
+      "OpenAI 承诺在数据中心项目上放弃使用 NDA",
+      "此举回应了公众对数据中心扩张的反对声音",
+      "旨在增加与社区和公职人员互动的透明度"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c6a1ad42392735a1a89f30e23d021c6e",
+    "title": "Airbnb is working on an AI travel agent",
+    "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-06T00:06:12+00:00",
+    "content_snippet": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But [&#8230;]",
+    "title_zh": "Airbnb 计划于 2027 上半年推出 AI 旅行代理",
+    "summary_zh": "Airbnb 在 2026 年第三季度财报中宣布，将于 2027 年上半年推出一款 AI 代理，帮助用户规划和预订旅行，处理复杂的行程管理任务。",
+    "key_points": [
+      "Airbnb 计划在 2027 年上半年推出 AI 旅行代理",
+      "该代理将协助用户规划行程和管理预订",
+      "旨在提供比当前 AI 更复杂的旅行规划服务"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "792b87e13d1b79933e349febe09c08f9",
+    "title": "Is the AI market correction about technology, politics, or both?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xoxdqr/is_the_ai_market_correction_about_technology/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-05T23:15:52+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The recent stock market decline raises some interesting questions about the future of AI.</p> <p>Technology companies are investing billions in AI infrastructure, while political uncertainty, trade policies, and questions about profitability are adding pressure.</p> <p>AI can be a revolutionary technology and still be overvalued in the stock market. Those two things aren’t mutually exclusive.</p> <p>How much of the current market uncertainty is driven by politic",
+    "title_zh": "AI 市场调整：技术因素还是政治因素？",
+    "summary_zh": "Reddit 用户讨论近期 AI 相关股票下跌的原因，探讨是技术瓶颈、盈利能力担忧还是政治不确定性与贸易政策导致了市场调整。",
+    "key_points": [
+      "科技公司在 AI 基础设施上投资巨大",
+      "市场下跌引发对 AI 盈利能力和政治的讨论",
+      "政治不确定性和贸易政策增加了市场压力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "de2ac0271472c1aa1cfd1710cf12721c",
+    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-05T23:09:36+00:00",
+    "content_snippet": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "title_zh": "名为“*sshole”的漏洞允许黑客无需密码 SSH 登录 Linux 设备",
+    "summary_zh": "一种影响 Alpine Linux 等系统的严重漏洞被发现，攻击者可利用此漏洞在无密码情况下通过 SSH 登录设备，对系统安全构成重大威胁。",
+    "key_points": [
+      "漏洞可让攻击者无密码 SSH 登录 Linux 设备",
+      "已知影响 Alpine Linux 的部分配置"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2c7d344dabc0ebdd1c3aca604eeff0b9",
+    "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+    "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-05T22:49:03+00:00",
+    "content_snippet": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+    "title_zh": "NASA 用 AI 生成图像揭晓神秘 X-70 试验机",
+    "summary_zh": "NASA 宣布了一款名为 X-70 Fractal 的新型 X 系列试验机，但仅公布了一张由 AI 生成的图像，其具体用途和技术细节仍是一个谜。",
+    "key_points": [
+      "NASA 宣布 X-70 新型试验机，但信息有限",
+      "使用 AI 生成的图像作为发布素材",
+      "此举旨在扩大其 X 系列试验机队"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "560f077b27e20f2902a11d7034060dae",
+    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-05T22:40:55+00:00",
+    "content_snippet": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+    "title_zh": "Airbnb 称将于 2027 上半年推出 AI 旅行代理",
+    "summary_zh": "Airbnb 宣布其即将推出的 AI 代理将帮助旅行者规划行程、比较选项、管理预订，并在整个住宿期间提供协助。",
+    "key_points": [
+      "Airbnb 将在 2027 年上半年推出 AI 旅行代理",
+      "该代理可帮助规划旅行、比价和管理预订",
+      "目标是提供一站式的旅行协助服务"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2ba0a42f4ffd72e6f72fd1757b14b8c1",
+    "title": "Is anyone using LLMs daily to build expertise in a specific field ?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xowfk2/is_anyone_using_llms_daily_to_build_expertise_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-05T22:33:33+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I feel like LLMs have made it much easier to learn about almost any subject. That got me wondering: is anyone here using them every day to study a specific topic in depth, with the goal of becoming an expert in that field?</p> <p>If so, what are you learning, and what does your daily learning routine look like?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/himmetozcan\"> /u/himmetozcan </a> &#32; to &#32; <a href=\"https://",
+    "title_zh": "有人在日常使用大语言模型来构建特定领域专业知识吗？",
+    "summary_zh": "Reddit 用户发起讨论，探讨是否有人每天使用大语言模型深入学习某一特定领域，并询问具体的学习内容和目标，反映了 AI 辅助学习的新趋势。",
+    "key_points": [
+      "探讨使用 LLM 每日学习成为领域专家的可能性",
+      "询问社区用户的具体学习内容和方法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "448caf20b90713b4575909af7c329536",
+    "title": "Perplexity launches its own take on AI agents for work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-05T22:26:50+00:00",
+    "content_snippet": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device [&#8230;]",
+    "title_zh": "Perplexity 推出工作场景 AI 代理“Teammates”",
+    "summary_zh": "Perplexity 推出名为 Teammates 的 AI 代理，挑战 OpenAI 和 Anthropic。该代理可在工作空间内承担多种角色，并能整合 Perplexity 现有工具中的项目、技能和记忆。",
+    "key_points": [
+      "Perplexity 发布工作场景 AI 代理 'Teammates'",
+      "该代理直接对标 OpenAI 和 Anthropic 的同类产品",
+      "Teammates 能整合用户现有项目与记忆"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5144f037e0a3af7f4e1080b96d08a139",
+    "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+    "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-05T21:40:36+00:00",
+    "content_snippet": "Google is technically offering schools more choice but not the choices anyone wants.",
+    "title_zh": "谷歌：学校可禁用Gemini但无法跳过AI搜索功能",
+    "summary_zh": "谷歌向教育机构提供更多选择，允许学校禁用Gemini助手，但坚持认为内置AI搜索功能无法被移除，引发关于AI在教育中强制整合的争论。",
+    "key_points": [
+      "学校可选择禁用Gemini，但AI搜索强制保留",
+      "新政策引发用户对AI整合缺乏选择的不满"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6d2c88f3c1d8a1c0f25bfded4737a3a8",
+    "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+    "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-05T21:39:40+00:00",
+    "content_snippet": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+    "title_zh": "诉讼曝妻子用ChatGPT策划谋杀丈夫",
+    "summary_zh": "一起诉讼指控，一名男子向妻子介绍ChatGPT后，妻子利用该AI工具策划了对其的毒杀，引发对人工智能道德边界和安全风险的关注。",
+    "key_points": [
+      "妻子被指控利用ChatGPT策划丈夫谋杀案",
+      "案件凸显AI工具可能被滥用的伦理风险"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "34bc134b90abc76623df7c31e1124670",
+    "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
+    "url": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-05T20:45:50+00:00",
+    "content_snippet": "BMW has updated its flagship sedan with the newest EV and infotainment tech.",
+    "title_zh": "宝马升级电池：2027款i7 60 xDrive试驾",
+    "summary_zh": "宝马为旗舰纯电轿车i7更换了性能更强的电池，并搭载最新的电动动力及信息娱乐技术，提升续航与驾乘体验。",
+    "key_points": [
+      "2027款宝马i7配备性能更强的电池模组",
+      "新车整合了宝马最新的电动化和车载科技"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "00be108b6d5113c9925121ad31916a7b",
+    "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-05T20:00:41+00:00",
+    "content_snippet": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action.  Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task.  As businesses put more agents to work, AI factories need CPUs that can execute those [&#8230;]",
+    "title_zh": "英伟达Vera CPU实现AI代理最高吞吐量与最快响应",
+    "summary_zh": "英伟达发布Vera CPU，旨在为AI代理提供最高吞吐量和最快执行速度，以高效处理AI任务中GPU推理与CPU执行之间的频繁切换。",
+    "key_points": [
+      "英伟达Vera CPU专为AI代理高频任务优化",
+      "处理器设计满足AI工厂对高效CPU的巨大需求"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c7c5029ae1bf37c246683781a72f9fee",
+    "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+    "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-05T19:59:22+00:00",
+    "content_snippet": "Software optimizes a physical model of the telescope to reduce noise.",
+    "title_zh": "新软件帮助韦伯望远镜从数据中成像系外行星",
+    "summary_zh": "研究人员利用软件优化望远镜的物理模型并降噪，从詹姆斯·韦伯太空望远镜数据中提取更多信息，直接成像系外行星。",
+    "key_points": [
+      "软件算法优化韦伯望远镜模型以降低成像噪声",
+      "技术突破有助于更清晰地直接观测系外行星"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "759260a1403adea363dc1dbaf0f550e5",
+    "title": "Meta says US users can now video chat with their Muse AI avatar",
+    "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-05T19:48:28+00:00",
+    "content_snippet": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+    "title_zh": "Meta宣布美国用户可与Muse AI化身视频聊天",
+    "summary_zh": "Meta推出新功能，允许美国用户通过视频与自己创建的Muse AI动画化身进行聊天，该功能被认为是为其即将发布的AI可穿戴设备预热。",
+    "key_points": [
+      "Meta让美国用户能与自定义AI化身进行视频通话",
+      "此举意在为即将推出的AI穿戴设备造势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bf344060c72a716596bf4599a8ad01de",
+    "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+    "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-05T19:46:37+00:00",
+    "content_snippet": "Kalshi can't avoid gambling law by claiming it doesn't offer gambling, state AG says.",
+    "title_zh": "Kalshi预测市场接连败诉，法院维持州博彩法",
+    "summary_zh": "美国多州总检察长成功阻止预测市场平台Kalshi试图以非赌博为由逃避州博彩法规的企图，Kalshi在法庭上遭受一系列挫败。",
+    "key_points": [
+      "预测市场平台Kalshi在多个州接连败诉",
+      "法院驳回其不受博彩法监管的辩护主张"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
