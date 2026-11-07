@@ -191,5 +191,102 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "de5173d6888fec1aff86f2d3097cef9e",
+    "title": "CrowdGPT - A collaborative AI model",
+    "url": "https://www.reddit.com/r/artificial/comments/1xqj621/crowdgpt_a_collaborative_ai_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-07T22:48:41+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello, i'm currently creating <strong>CrowdGPT</strong>, which is a project that aims at creating the first opensource, 100% free LLM (Large Language Model) without any datacenters or server farms. </p> <p>It relies on users to contribute using their own GPU, in exchange they get ownership on the LLM model they train. It proposes a new paradigm in AI where all the training of a LLM is 100% open, sort of more ecological and where all the data used to train it is ",
+    "title_zh": "CrowdGPT - 一个协作式的 AI 模型",
+    "summary_zh": "CrowdGPT 项目旨在创建首个开源、完全免费的大型语言模型，不依赖数据中心或服务器群，而是利用用户贡献的 GPU 算力进行分布式训练。",
+    "key_points": [
+      "利用用户 GPU 算力构建分布式训练网络",
+      "目标是创建完全免费、开源的大型语言模型",
+      "不依赖传统数据中心或服务器群"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "598608c65e3b226161ddc79795f0e72b",
+    "title": "What does it actually mean to “learn how to use AI”?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xqievd/what_does_it_actually_mean_to_learn_how_to_use_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-07T22:13:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>These days, everywhere you look, someone is telling you to “learn how to use AI.”<br /> As much as I agree with the statement, I struggle to understand what actually learning AI is supposed to mean.<br /> For someone who’s already working in a particular industry, it makes sense. You identify a problem, figure out how AI can help, and learn through applying it.<br /> But what about someone who’s just starting out, without a job or a specific professional use cas",
+    "title_zh": "\"学会使用 AI\"到底意味着什么？",
+    "summary_zh": "文章探讨了在当今时代\"学会使用 AI\"的具体含义，指出对于不同行业的从业者，其内涵和所需技能可能各不相同，引发对这一流行概念的深入思考。",
+    "key_points": [
+      "探讨\"学会使用 AI\"在不同行业中的具体含义",
+      "指出该概念缺乏明确定义，令人困惑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f4f061dd3e2b5811d70ee91e0123e6d3",
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-07T21:17:08+00:00",
+    "content_snippet": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "title_zh": "美国情报备忘录显示：科技公司高管被招募监视英伟达 CEO",
+    "summary_zh": "TechCrunch 报道，一份美国情报备忘录显示，中国某科技公司的一名女性高管被招募，以监视英伟达CEO黄仁勋。",
+    "key_points": [
+      "美国情报备忘录指称商业间谍活动",
+      "中国科技高管被招募监视英伟达 CEO",
+      "事件涉及中美科技竞争与国家安全"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4960f3edf089b129668760168715c5ba",
+    "title": "Combinatorial Optimization with Pointer Networks: Theory, Benchmarks, and Limitations [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xqgg4v/combinatorial_optimization_with_pointer_networks/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-07T20:44:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone,</p> <p>This is the first article I’ve decided to share publicly. I'm really interested in solving combinatorial optimization problems using machine learning, and this is the opening piece in what will hopefully become a broader series exploring this domain.</p> <p>This part focuses on the classical <strong>Pointer Network</strong> architecture trained via Reinforcement Learning (REINFORCE). It shows how neural models can construct high-quality, n",
+    "title_zh": "使用指针网络进行组合优化：理论、基准与局限性",
+    "summary_zh": "一篇关于使用指针网络解决组合优化问题的研究论文，探讨了其理论基础、基准测试表现及存在的局限性，是一个系列研究的开篇之作。",
+    "key_points": [
+      "研究指针网络在组合优化问题中的应用",
+      "探讨其理论基础、基准测试和局限性",
+      "作为系列研究的开篇，聚焦机器学习与运筹学交叉"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
