@@ -701,5 +701,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f6acd4f812e04530dc54c4a00f265a4e",
+    "title": "ICLR27: Received a review that seems to be for an entirely different paper. Has anyone experienced this? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpzqjy/iclr27_received_a_review_that_seems_to_be_for_an/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-07T06:40:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Got my reviews yesterday, and honestly, I'm starting to question the credibility of the entire review process.</p> <p>One of the reviewers seems to have submitted a review for a completely different paper. And I don't mean they misunderstood our method or missed the main contribution. Their entire paper summary describes a completely different research problem, method, and set of experiments. It has practically nothing to do with our submission, yet they went ah",
+    "title_zh": "ICLR27 审稿乌龙：收到完全针对另一篇论文的评审意见，用户质疑审稿流程可信度",
+    "summary_zh": "一位研究者为 ICLR 2027 提交的论文收到了审稿意见，但其中一位审稿人的评价内容似乎完全针对另一篇论文，而非本文。该研究者因此公开质疑整个学术会议审稿流程的可信度，并在 Reddit 上询问是否有其他人有过类似经历。",
+    "key_points": [
+      "ICLR2027 审稿人疑似提交了针对另一篇论文的评审意见",
+      "研究者因此公开质疑学术会议审稿流程的公正性和可靠性",
+      "事件在 Reddit 引发关于同行评审质量问题的共鸣和讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
