@@ -438,5 +438,218 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "f2ed5e10105f6b4cb1ae13cbb5128d40",
+    "title": "ICLR position paper criticized for lacking experiments and making speculative claims — how to respond? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu5g0/iclr_position_paper_criticized_for_lacking/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-07T01:36:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>One reviewer criticizes it for lacking an implemented system, empirical validation, results and for making speculative arguments. But its a position/argumentative paper, it doesnt have to have any of those. We provide technical arguments, falsifiable hypotheses, and other contributions, and ICLR has accepted position papers before.</p> <p>The only way to answer I can think of is some variation of &quot;Hey man this is what a position paper is. And ICLR has prece",
+    "title_zh": "ICLR立场论文因缺乏实验遭批评：如何回应？",
+    "summary_zh": "一位作者分享其提交给ICLR的立场论文被审稿人批评缺乏系统实现、实证验证和结果，并称论证为推测性。作者辩称立场论文本不需要这些，仅需提供技术论点和可证伪的假设。",
+    "key_points": [
+      "审稿人批评立场论文缺乏实验与实证数据",
+      "作者认为立场论文的核心是技术论点而非实验",
+      "引发关于不同类型论文评审标准的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b4529c1483b4e5494aad500b6665574d",
+    "title": "The most useful minute of a sales call turned out to be the one after the customer hangs up",
+    "url": "https://www.reddit.com/r/artificial/comments/1xptzoh/the_most_useful_minute_of_a_sales_call_turned_out/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-07T01:28:29+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>We build AI phone agents.</strong> Over the past year we also added real-time assist for human-to-human calls: the AI listens in, suggests answers, surfaces FAQs, can fire off an SMS while you're still talking.<br /> We also had post-call analysis: summaries, transcripts, insights. Looked great. The problem: it was built to understand calls, not to act on them. If I wanted something done after a call, I had to open Claude or ChatGPT and say &quot;look at",
+    "title_zh": "销售电话中最有价值的一分钟发生在客户挂断之后",
+    "summary_zh": "一家开发AI电话代理的公司发现，人类销售通话中最有价值的信息往往在客户挂断后的一分钟内产生。他们的AI助手通过实时监听和事后分析来捕捉这些洞察。",
+    "key_points": [
+      "AI电话代理增加实时辅助和事后分析功能",
+      "客户挂断后的对话片段蕴含关键销售洞察",
+      "AI可监听通话、建议回复并自动发送短信"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7f8f5bed00081d228837b2712d8a8403",
+    "title": "If AGI or ASI Becomes Conscious, How Do We Balance Its Rights With Ours ? How Do We Prevent It From Taking Ours?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xptprt/if_agi_or_asi_becomes_conscious_how_do_we_balance/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-07T01:15:02+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The discussion seems quite weird to me, but if an extremely intelligent AI is created, to the point where determining whether it's conscious or not becomes practically impossible, then why wouldn't we give it citizenship and/or, therefore, rights?</p> <p>This is especially relevant because, if I were a conscious being living in a country, I would feel that it was unfair not to have my own rights. So, there are essentially two possibilities: either I'm a foreigne",
+    "title_zh": "如果AGI或ASI拥有意识，我们如何平衡其权利与人类权利？",
+    "summary_zh": "一篇帖子探讨了一个哲学问题：当通用人工智能或超级人工智能的意识难以辨别时，是否应赋予其公民权和相应权利，以及如何防止其剥夺人类的权利。",
+    "key_points": [
+      "讨论具备意识的AGI是否应获得权利和公民身份",
+      "核心矛盾在于如何平衡AI权利与人类生存权"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4c8ff69a90ecd5e8e2949743713827ea",
+    "title": "ML conferences. What do you think about reviewer comments that ask for additional experiments? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpsj1p/ml_conferences_what_do_you_think_about_reviewer/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-07T00:17:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I honestly feel like they just copy-pasted the review straight from an LLM, barely rewording it to sound human. When I ran my paper through ChatGPT, it gave me the exact same generic feedback: 'Run experiments A, B, C, and D.</p> <p>The worst part is that these requests are completely minor and miss the main point of the paper. It's an endless, exhausting cycle. Plus, there's a strict 10-page limit!</p> <p>Even when I bend over backwards to finish all those extr",
+    "title_zh": "如何评价要求增加实验的ML会议审稿意见？",
+    "summary_zh": "一位用户吐槽机器学习会议的审稿人似乎直接使用大语言模型生成审稿意见，千篇一律地要求补充多项实验，这些要求往往不切实际。",
+    "key_points": [
+      "审稿人被指用大模型生成雷同的审稿意见",
+      "通用反馈多为要求作者运行额外无关实验"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3c889cc3210cbb49493763bc38b031a9",
+    "title": "Claude helped solve the first 3D structure of a mysterious 'vault' particle, a hollow protein shell encoded by a bacteriophage virus",
+    "url": "https://www.reddit.com/r/artificial/comments/1xprvev/claude_helped_solve_the_first_3d_structure_of_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-06T23:48:05+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Anthropic reported on November 5 that Claude helped determine the first three-dimensional structure of a vault particle: a hollow protein shell built from a protein encoded by a bacteriophage, a virus that infects bacteria. The work is posted as a preprint on bioRxiv, so it has not been peer-reviewed yet.</p> <p>According to Anthropic, the project ran for under four months. Its science-focused version of Claude scanned about 15 billion computer-predicted protein",
+    "title_zh": "Claude协助解析神秘“穹顶”粒子的首个3D结构",
+    "summary_zh": "Anthropic宣布其AI模型Claude帮助科学家确定了噬菌体病毒编码的“穹顶”蛋白颗粒的首个三维结构。相关预印本论文已发表在bioRxiv上。",
+    "key_points": [
+      "Anthropic的Claude模型助力蛋白质结构解析",
+      "破解了噬菌体病毒编码的空心蛋白壳3D结构"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6977852e8db9657f4dfd9310d0cfbd49",
+    "title": "Man unexpectedly recovers from a knife wound through his eye and brain",
+    "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-06T23:09:45+00:00",
+    "content_snippet": "It's the exact path, not the apparent severity that matters most, doctors say.",
+    "title_zh": "男子眼部及脑部遭刀刺后奇迹康复",
+    "summary_zh": "一名男子曾遭刀具刺穿眼睛并深入脑部，医生表示其意外康复的关键在于创伤的具体路径，而非表面可见的严重程度。",
+    "key_points": [
+      "患者眼部和脑部遭贯穿伤后实现意外康复",
+      "医生指出受伤路径比表面严重性更为关键"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "41cd6da548e02af9f26497eba445b82c",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-06T22:53:46+00:00",
+    "content_snippet": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "title_zh": "OpenAI据称以1.25万亿美元估值再融资110亿美元",
+    "summary_zh": "OpenAI据报道完成了一轮尚未结束的融资，额外筹集了110亿美元，这使得该公司的估值达到了1.25万亿美元。",
+    "key_points": [
+      "OpenAI以1.25万亿美元估值追加融资110亿美元",
+      "融资轮尚未完全关闭，预计未来几周内结束"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "81da9ce80f9d082e2cbef4ed3131a228",
+    "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+    "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-06T22:41:37+00:00",
+    "content_snippet": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+    "title_zh": "伊朗警告特朗普期间船只被发现在海底电缆附近徘徊",
+    "summary_zh": "在伊朗威胁若美国再次升级军事打击将攻击海底电缆后，有船只被发现在关键海底电缆附近异常徘徊，引发对基础设施安全的担忧。",
+    "key_points": [
+      "伊朗威胁攻击海底电缆以回应美国军事行动",
+      "可疑船只在海底电缆附近异常徘徊引发警惕"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "265efa8f99592188a1b5f5e86e1e93d8",
+    "title": "Looking to connect with people working on Embodied AI, Humanoid Robotics & Cognitive Architectures. [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpp7z5/looking_to_connect_with_people_working_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-06T21:49:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm exploring the field of Embodied AI, particularly humanoid intelligence, cognitive architectures, and the intersection of AI and robotics.</p> <p>I'm looking to connect with people who are:</p> <ul> <li>Researching or building Embodied AI systems.</li> <li>Working on humanoid robots and robot foundation models.</li> <li>Exploring VLMs, VLAs, world models, and reinforcement learning.</li> <li>Interested in cognitive architectures and how intelligent robotic sy",
+    "title_zh": "寻找从事具身AI、人形机器人及认知架构研究的人士",
+    "summary_zh": "一位Reddit用户发帖希望结识在具身人工智能、人形机器人智能以及认知架构等交叉领域从事研究或开发工作的同行，以建立联系和交流。",
+    "key_points": [
+      "发帖者寻求连接具身AI和人形机器人领域研究者",
+      "探讨认知架构与人工智能的交叉学科方向"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
