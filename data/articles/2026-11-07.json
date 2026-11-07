@@ -651,5 +651,55 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "58f43920e76e168d1a055c4b596d85b5",
+    "title": "ICLR27 math and stats paper review experience [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xpvtxt/iclr27_math_and_stats_paper_review_experience_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-07T03:02:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>For people who had papers submitted to ICLR that are applied theory style. For example, 60- 70% theory with some experiments at the end. What was your review experience like for ICLR27?</p> <p>We got a score of 222, on the probabilistic methods track.</p> <p>All 3 reviewers attacked our novelty and asked for additional experiments. Not a single word was mentioned about our theory, which is our biggest contribution. One outright said he didn't understand this pap",
+    "title_zh": "ICLR27 数学与统计学论文评审经验讨论 [D]",
+    "summary_zh": "Reddit 用户分享 ICLR27 会议中应用理论类论文的评审经历，该类论文以60-70%理论加上部分实验为特点，作者在概率方法方向获得了222分，并询问社区成员的评审体验。",
+    "key_points": [
+      "作者在概率方法方向获得了 222 分的评审分数",
+      "讨论针对理论为主、实验为辅的应用理论类论文",
+      "帖子旨在收集 ICLR27 社区的评审经验反馈"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bfdaf195a235ade150c92aa42215e96b",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-07T01:40:28+00:00",
+    "content_snippet": "The deal highlights the challenges of developing massive AI data centers.",
+    "title_zh": "Crusoe 将陷入困境的怀俄明数据中心项目出售给谷歌",
+    "summary_zh": "Crusoe 公司将其在怀俄明州陷入困境的数据中心项目出售给了 Google，这笔交易凸显了开发大规模 AI 数据中心所面临的巨大挑战。",
+    "key_points": [
+      "Crusoe 将怀俄明州的数据中心项目出售给 Google",
+      "交易反映出建设大规模 AI 数据中心的难度",
+      "项目此前已陷入困境"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
