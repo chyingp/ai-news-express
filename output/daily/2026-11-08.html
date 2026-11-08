@@ -9,18 +9,21 @@
 <body>
   <header>
     <h1>AI 新闻速递 · 日报</h1>
-    <p class="subtitle">2026-11-08 · 共 5 条资讯</p>
+    <p class="subtitle">2026-11-08 · 共 13 条资讯</p>
   </header>
 
   
   <div class="daily-header">
     <h2>今日要点</h2>
     <div class="stats">
-      <span>5 条资讯</span>
-      <span>0 条突发</span>
-      <span>2 个信源</span>
+      <span>13 条资讯</span>
+      <span>2 条突发</span>
+      <span>3 个信源</span>
     </div>
-    <div class="daily-overview">资讯分布：产品动态 3 条、行业政策 2 条。</div>
+    <div class="daily-overview">今日有 2 条重要资讯：
+• Physical Superintelligence公司宣布，其内部研究系统运行Anthropic的非公开模型，耗时三天完成了对Aaronson-Ambainis猜想的完整证明，该猜想自2008年提出以来悬而未决，并由Lean工具验证了每一步推理。
+• TechCrunch 报道，一份美国情报备忘录显示，中国某科技公司的一名女性高管被招募，以监视英伟达CEO黄仁勋。
+资讯分布：行业政策 5 条、产品动态 3 条、研究论文 2 条。</div>
   </div>
   
 
@@ -29,6 +32,12 @@
     
     <button data-category="产品动态">产品动态</button>
     
+    <button data-category="开源项目">开源项目</button>
+    
+    <button data-category="技术教程">技术教程</button>
+    
+    <button data-category="研究论文">研究论文</button>
+    
     <button data-category="行业政策">行业政策</button>
     
   </div>
@@ -36,8 +45,54 @@
   
   <ol class="article-list">
     
-    <li class="article-item" data-category="行业政策">
+    <li class="article-item breaking" data-category="研究论文">
       <span class="article-rank">1</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xqlg8p/an_ai_system_just_proved_an_18yearold_quantum/" target="_blank" rel="noopener">AI系统证明18年量子猜想，形式化验证工具Lean全程核验</a>
+          <div class="article-title-original">An AI system just proved an 18-year-old quantum conjecture — and Lean checked every step</div>
+          
+        </div>
+        
+        <p class="article-summary">Physical Superintelligence公司宣布，其内部研究系统运行Anthropic的非公开模型，耗时三天完成了对Aaronson-Ambainis猜想的完整证明，该猜想自2008年提出以来悬而未决，并由Lean工具验证了每一步推理。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">研究论文</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★★</span>
+          <time class="article-time" datetime="2026-11-08T00:38:24+00:00" title="2026-11-08 08:38"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item breaking" data-category="行业政策">
+      <span class="article-rank">2</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/" target="_blank" rel="noopener">美国情报备忘录显示：科技公司高管被招募监视英伟达 CEO</a>
+          <div class="article-title-original">Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</div>
+          
+        </div>
+        
+        <p class="article-summary">TechCrunch 报道，一份美国情报备忘录显示，中国某科技公司的一名女性高管被招募，以监视英伟达CEO黄仁勋。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">TechCrunch AI</span>
+          <span class="tag">行业政策</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★☆</span>
+          <time class="article-time" datetime="2026-11-07T21:17:08+00:00" title="2026-11-08 05:17"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">3</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -59,8 +114,100 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="开源项目">
+      <span class="article-rank">4</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xqj621/crowdgpt_a_collaborative_ai_model/" target="_blank" rel="noopener">CrowdGPT - 一个协作式的 AI 模型</a>
+          <div class="article-title-original">CrowdGPT - A collaborative AI model</div>
+          
+        </div>
+        
+        <p class="article-summary">CrowdGPT 项目旨在创建首个开源、完全免费的大型语言模型，不依赖数据中心或服务器群，而是利用用户贡献的 GPU 算力进行分布式训练。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">开源项目</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-07T22:48:41+00:00" title="2026-11-08 06:48"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">2</span>
+      <span class="article-rank">5</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xqievd/what_does_it_actually_mean_to_learn_how_to_use_ai/" target="_blank" rel="noopener">&#34;学会使用 AI&#34;到底意味着什么？</a>
+          <div class="article-title-original">What does it actually mean to “learn how to use AI”?</div>
+          
+        </div>
+        
+        <p class="article-summary">文章探讨了在当今时代&#34;学会使用 AI&#34;的具体含义，指出对于不同行业的从业者，其内涵和所需技能可能各不相同，引发对这一流行概念的深入思考。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-07T22:13:27+00:00" title="2026-11-08 06:13"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="研究论文">
+      <span class="article-rank">6</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/MachineLearning/comments/1xqgg4v/combinatorial_optimization_with_pointer_networks/" target="_blank" rel="noopener">使用指针网络进行组合优化：理论、基准与局限性</a>
+          <div class="article-title-original">Combinatorial Optimization with Pointer Networks: Theory, Benchmarks, and Limitations [P]</div>
+          
+        </div>
+        
+        <p class="article-summary">一篇关于使用指针网络解决组合优化问题的研究论文，探讨了其理论基础、基准测试表现及存在的局限性，是一个系列研究的开篇之作。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">研究论文</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-07T20:44:34+00:00" title="2026-11-08 04:44"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">7</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xqelh8/he_said_googles_ai_was_conscious_but_what_was_it/" target="_blank" rel="noopener">他说谷歌的AI有意识，但这AI对他做了什么？</a>
+          <div class="article-title-original">He said Google’s AI was conscious. But what was it doing to his mind?</div>
+          
+        </div>
+        
+        <p class="article-summary">探讨一名用户声称谷歌AI具有意识的心理和认知影响，文章关注其个人体验及精神状态的变化。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-07T19:24:01+00:00" title="2026-11-08 03:24"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">8</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -83,7 +230,7 @@
     </li>
     
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">3</span>
+      <span class="article-rank">9</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -106,7 +253,7 @@
     </li>
     
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">4</span>
+      <span class="article-rank">10</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -128,8 +275,54 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="技术教程">
+      <span class="article-rank">11</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xqd3rt/how_ai_describes_itself/" target="_blank" rel="noopener">AI如何描述自己</a>
+          <div class="article-title-original">How AI describes itself</div>
+          
+        </div>
+        
+        <p class="article-summary">一篇关于人工智能系统自我描述方式的Reddit帖子，可能涉及AI的自我认知或用户对其行为的有趣观察。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">技术教程</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-11-07T18:20:56+00:00" title="2026-11-08 02:20"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="技术教程">
+      <span class="article-rank">12</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/MachineLearning/comments/1xqcl2h/can_i_become_an_mlai_engineer_with_a_bs/" target="_blank" rel="noopener">拥有数学与数据科学学士学位而非计算机科学学位，我能成为ML/AI工程师吗？</a>
+          <div class="article-title-original">Can I become an ML/AI Engineer with a BS Mathematics and Data Science degree instead of Computer Science? [D]</div>
+          
+        </div>
+        
+        <p class="article-summary">一位巴基斯坦学生询问数学与数据科学学士学位是否足以开启ML/AI工程师职业生涯，并希望专攻深度学习与大语言模型。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">技术教程</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-11-07T17:59:30+00:00" title="2026-11-08 01:59"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">5</span>
+      <span class="article-rank">13</span>
       <div class="article-content">
         <div class="article-title">
           

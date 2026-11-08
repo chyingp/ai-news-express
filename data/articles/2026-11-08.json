@@ -288,5 +288,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "e1b41ff3661d84d8408dcb1797a5582a",
+    "title": "An AI system just proved an 18-year-old quantum conjecture — and Lean checked every step",
+    "url": "https://www.reddit.com/r/artificial/comments/1xqlg8p/an_ai_system_just_proved_an_18yearold_quantum/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-08T00:38:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Physical Superintelligence (PSI) announced on November 6 that an internal research system running instances of a non-public Anthropic model produced a complete proof of the Aaronson–Ambainis conjecture — a quantum-computing question open since 2008 — on the third day of a run. The Lean proof assistant accepted the proof, and the system then improved the result twice, with Lean re-checking each version. The paper and the Lean 4 formalization are public.</p> <p>Th",
+    "title_zh": "AI系统证明18年量子猜想，形式化验证工具Lean全程核验",
+    "summary_zh": "Physical Superintelligence公司宣布，其内部研究系统运行Anthropic的非公开模型，耗时三天完成了对Aaronson-Ambainis猜想的完整证明，该猜想自2008年提出以来悬而未决，并由Lean工具验证了每一步推理。",
+    "key_points": [
+      "AI系统用三天时间证明了自2008年悬而未决的Aaronson-Ambainis量子猜想",
+      "证明过程使用了Anthropic的非公开模型，并由形式化验证工具Lean全程核验",
+      "这标志着AI在理论科学研究中取得重大突破，展示了辅助数学证明的潜力"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
