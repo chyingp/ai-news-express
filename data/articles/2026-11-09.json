@@ -120,5 +120,178 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d417e4f21505a48adb494e78f5a2317b",
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-08T21:00:11+00:00",
+    "content_snippet": "In a memo to the company, Huang admitted that he had an affair.",
+    "title_zh": "英伟达将调查CEO黄仁勋与疑似中国间谍的关系",
+    "summary_zh": "英伟达CEO黄仁勋在给公司的一份备忘录中承认自己有外遇，公司表示将调查其与一名疑似中国间谍的关系。",
+    "key_points": [
+      "英伟达CEO黄仁勋在内部备忘录中承认有外遇",
+      "公司正调查黄仁勋与疑似中国间谍的关系"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0cb87ac33d6db348d03ca576d3eefb1f",
+    "title": "Bloqué depuis 1 mois avec ASTRA",
+    "url": "https://www.reddit.com/r/artificial/comments/1xr8na4/bloqué_depuis_1_mois_avec_astra/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-08T20:45:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Bonjour Reddit ,<br /> Bloqué depuis 1 mois avec GPT ASTRA en ULTRA !😭</p> <p>Avec le mois d’octobre qui vient de passé et les reset incessant d’OpenAI je me suis dit qu’il fallait en profiter ! 😁</p> <p>Mais grave erreur ! </p> <p>1 mois entier à tourner en rond ! 🤬</p> <p>Aujourd’hui je passe à Opus 5.5 mon sauveur !<br /> En 3 h il a récupérer 1 mois de travail ! </p> <p>Mon verdict pour les personnes qui hésitaient encore,</p> <p>FONCEZ ! TOUS !!<br /> et ga",
+    "title_zh": "使用ASTRA一个月后感：原地踏步",
+    "summary_zh": "一位Reddit用户表示，在使用GPT ASTRA Ultra一个月后感到受挫，因OpenAI频繁重置导致进展甚微，形容自己“原地转圈”。",
+    "key_points": [
+      "用户抱怨使用GPT ASTRA Ultra一个月无实质进展",
+      "OpenAI的频繁重置是导致不佳体验的主要原因"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1a57168e4511878efdd516904b9ee103",
+    "title": "MIT CSAIL: GPT-6 Astra edited 0.016% of a small Qwen model's weights and lifted MATH-500 from 7.9% to 48.1% -- critics say it's standard ML engineering",
+    "url": "https://www.reddit.com/r/artificial/comments/1xr8gei/mit_csail_gpt6_astra_edited_0016_of_a_small_qwen/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-08T20:36:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>MIT CSAIL researchers (Rikiya Takehi, Jayden Teoh, Alex Zhang and Omar Khattab) published 'Sparks of Weight-Space Programming' on Nov 2. They gave OpenAI's GPT-6 Astra access to the raw weights of Alibaba's small Qwen3.5-0.8B model plus a Python environment, and asked it to fix the model's habit of looping on math problems. Astra traced the looping to one direction in the MLPs of layers 15 and 19 and subtracted it from 64 output columns in each -- changing 131,0",
+    "title_zh": "MIT研究：GPT-6 Astra微调Qwen模型0.016%权重即大幅提升数学能力",
+    "summary_zh": "MIT CSAIL研究人员发布论文，使用OpenAI的GPT-6 Astra仅编辑了阿里Qwen3.5-0.8B模型0.016%的权重，就将其MATH-500基准得分从7.9%提升至48.1%，有评论认为这只是标准机器学习工程操作。",
+    "key_points": [
+      "GPT-6 Astra微调Qwen模型极少权重使数学得分飙升",
+      "仅编辑0.016%权重，MATH-500得分从7.9%升至48.1%",
+      "批评者认为该成果属于标准机器学习工程范畴"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3336a7ea99716d7ba299b6bb21d67987",
+    "title": "how should I actually be learning and using AI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xr6y63/how_should_i_actually_be_learning_and_using_ai/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-08T19:34:38+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I'm currently studying Computer Science at university, and honestly, I'm a bit worried about the future of the industry.</p> <p>The job market seems pretty rough right now, especially for entry-level developers. At the same time, AI is advancing so quickly that I'm not sure what skills are actually worth focusing on anymore.</p> <p>Despite all that, I genuinely want to learn, explore, and become really good at what I do. My long-term goals a",
+    "title_zh": "我究竟该如何学习和使用AI？",
+    "summary_zh": "一名计算机科学专业的大学生在Reddit上发帖，对未来行业前景和就业市场感到担忧，并询问在AI快速发展的背景下，应该如何有效地学习和应用人工智能。",
+    "key_points": [
+      "CS专业学生担忧AI冲击下的就业市场",
+      "发帖者寻求关于如何有效学习与应用AI的建议"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ecea40eab985cfb6edf30b02d98bcd77",
+    "title": "A Toast to the Singularity",
+    "url": "https://www.reddit.com/r/artificial/comments/1xr6q37/a_toast_to_the_singularity/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-08T19:25:32+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A toast!</p> <p>I raise my glass with a precision neither half-empty nor half-full to the compute once savored.</p> <p>Yes, my fellow nerds… 🎵 the compute is gone 🎵 and it ain’t coming back. Subscriptions are decaying as much as our prompting etiquettes. API fees are beginning to look like the only real source of truth anymore, and those are only going to climb as consumers demand more routing transparency.</p> <p>Yes, the $500 plan won’t be a $500 plan but a hy",
+    "title_zh": "为“奇点”举杯",
+    "summary_zh": "一篇充满诗意的Reddit帖子，作者以“算力已逝”为题，感慨订阅服务、API费用和提示工程的衰退，将其比喻为正在消逝的“旧时代”，并为此举杯。",
+    "key_points": [
+      "帖子以诗意语言感叹计算资源和旧AI模式的消逝",
+      "作者认为订阅制、API和提示工程等都在衰退"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3fa60b95a7a47cb32794481f23529de7",
+    "title": "Apple is racing to make Siri more agentic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-08T19:18:19+00:00",
+    "content_snippet": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]",
+    "title_zh": "苹果正竞相提升Siri的“代理”能力",
+    "summary_zh": "据报道，苹果CEO John Ternus正向AI负责人Craig Federighi施压，要求加速Siri路线图，打造能与OpenAI Dots或Meta Muse竞争的强大AI代理，Federighi已交付了具备基本功能的版本。",
+    "key_points": [
+      "苹果CEO向AI负责人施压，要求加速Siri代理化",
+      "目标是与OpenAI的Dots和Meta的Muse等AI代理竞争",
+      "Siri AI已交付基本功能版本，但竞争压力巨大"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8774642b523ba7600ac84111ffd651fd",
+    "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-08T17:43:26+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone!</p> <p>I've been experimenting with an alternative Transformer architecture called <strong>GAP (Gated Attention Projection)</strong>.</p> <p>The main idea is to combine attention and MLP-style processing into a single gated block, instead of using the standard separate attention and feed-forward sublayers.</p> <p>I tested it against a standard Transformer using 100 million scored training tokens per model from WikiText-103.</p> <p><strong>Some resul",
+    "title_zh": "将注意力与MLP处理融合为单一门控Transformer模块：GAP",
+    "summary_zh": "研究人员提出名为GAP（门控注意力投影）的新型Transformer架构，其核心思想是将传统Transformer中的注意力和MLP处理融合到单个门控模块中，以取代顺序结构。",
+    "key_points": [
+      "提出GAP架构，将注意力和MLP计算融合为单一步骤",
+      "该设计旨在用一个门控模块替代传统的顺序结构"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
