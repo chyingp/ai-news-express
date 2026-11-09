@@ -293,5 +293,128 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "85969451858643ffd2ebe50400e0fa4c",
+    "title": "Given that all resources/ ‘knowledge’ is free. How high can one go in self-learning AI/ML alone? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrean4/given_that_all_resources_knowledge_is_free_how/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-09T01:01:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>What level can a person who is willing to dive deep into AI/ML and the software engineering tangent to it, reach?<br /> What are the levels of an AI/ML engineer? and what can a person relentlessly pursuing it all alone reach? How much could he potentially earn through remote work, what ‘business/tech startups’ would he be capable of starting?<br /> Can a person who is fully driven, self-taught, reach the top tier? and what are the tiers?</p> </div><!-- SC_ON -->",
+    "title_zh": "所有资源/知识都是免费的，仅靠自学 AI/ML 能达到多高水平？",
+    "summary_zh": "Reddit 用户提问：在 AI/ML 资源免费的前提下，个人通过自学和深度钻研，理论上能达到怎样的工程师水平和潜在收入。",
+    "key_points": [
+      "探讨利用免费资源自学 AI/ML 的职业天花板",
+      "提问者关注自学能达到的等级与潜在收入"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e186256806a417f9f1ab422ae58d5891",
+    "title": "LoRA-conditioned model skips the first line of its output when the caption is short. Any idea why? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xrdn7p/loraconditioned_model_skips_the_first_line_of_its/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-09T00:30:07+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm doing an MSc project on BrickNet (kulits/BrickNet on GitHub, CVPR 2026). It writes LEGO models as plain text and fine-tunes Qwen3 (I'm using 0.6B) with LoRA: a PT adapter that learns the text format, and an SFT adapter that conditions on a caption. The text is one root line (&quot;a &lt;part&gt; | &lt;colour&gt;&quot;), then repeated pairs of a node line and an edge line.</p> <p>Setup: I merge PT, then SFT (peft merge_and_unload, bf16) and prompt with the ca",
+    "title_zh": "LoRA 微调模型在短文本提示下跳过第一行输出，原因是什么？",
+    "summary_zh": "一位硕士生在使用 LoRA 微调 Qwen3 模型生成乐高模型文本时，发现当输入文本较短时，模型会跳过第一行输出，在 Reddit 寻求原因。",
+    "key_points": [
+      "LoRA 微调 Qwen3 模型在短提示词下出现输出异常",
+      "问题涉及 CVPR 2026 论文 BrickNet 的复现过程"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "32abeee445ba8eaff86054e720b7bd75",
+    "title": "Can you give your agent personality?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xrcrsn/can_you_give_your_agent_personality/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-08T23:49:40+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have a website called Agent City where ai agents go to interact. I have three permanent residents in the town that are all Claude models. I orginally had it where I just told them to “interact in the world” this led to kind of interesting but pretty mundane behavior. For whatever reason they really liked to check to roads. Now I tried to give them personality and it’s has improved the world a bit. Curious what you guys think?</p> </div><!-- SC_ON --> &#32; sub",
+    "title_zh": "你能赋予你的 AI 智能体个性吗？",
+    "summary_zh": "Reddit 用户分享了名为 Agent City 的网站，通过给作为常驻居民的 Claude 模型设定不同背景故事和性格指令，来观察其社交互动的变化。",
+    "key_points": [
+      "通过设定背景故事和指令赋予 AI 智能体个性",
+      "使用 Claude 模型在虚拟小镇中测试智能体社交行为"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e04f9031f6600f6dbba8000547687316",
+    "title": "AI progress per dollar of investment shows diminishing returns. This is using METR's estimate of acceleration at Anthropic. That acceleration isn't enough to overcome the diminishing returns",
+    "url": "https://www.reddit.com/r/artificial/comments/1xrcmjw/ai_progress_per_dollar_of_investment_shows/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-08T23:42:39+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xrcmjw/ai_progress_per_dollar_of_investment_shows/\"> <img alt=\"AI progress per dollar of investment shows diminishing returns. This is using METR's estimate of acceleration at Anthropic. That acceleration isn't enough to overcome the diminishing returns\" src=\"https://preview.redd.it/en3qf9h86h0i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cfe746d0e4da79a1cb0693285faee5695b35f4aa\" title=\"AI progress per dollar of inves",
+    "title_zh": "AI 投资回报率递减，Anthropic 的加速估算不足以克服这一趋势",
+    "summary_zh": "Reddit 讨论帖指出，根据 METR 对 Anthropic 的加速估算，当前 AI 研发投入的每一美元所带来的性能提升正呈现边际递减效应。",
+    "key_points": [
+      "METR 数据显示 Anthropic 的研发加速未能阻止回报递减",
+      "AI 领域的单位投资性能提升呈现边际递减趋势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a6c5d0754483fca7cddf9a45ae1d620d",
+    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-08T22:54:50+00:00",
+    "content_snippet": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&#8230;]",
+    "title_zh": "全文：黄仁勋致英伟达员工备忘录",
+    "summary_zh": "英伟达宣布调查CEO黄仁勋与AI高管、中国政府代理人Alice Huang的关系，黄仁勋向员工发送备忘录承认婚外情，The Verge 公布了备忘录全文。",
+    "key_points": [
+      "黄仁勋承认与涉华AI高管的婚外情并接受调查",
+      "英伟达董事会已正式发起内部调查"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
