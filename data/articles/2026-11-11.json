@@ -1022,5 +1022,301 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "49cf590dc337a5b9783a096a67f0d800",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-12T00:00:00+00:00",
+    "content_snippet": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "title_zh": "Gilbert + Tobin 利用 AI 重新思考法律业务",
+    "summary_zh": "OpenAI 博客采访了 Gilbert + Tobin 律所 CEO Sam Nickless，探讨该律所如何应用人工智能技术来改造法律服务与业务模式。",
+    "key_points": [
+      "澳大利亚律所 Gilbert + Tobin 借助 AI 革新法律业务",
+      "CEO Sam Nickless 分享 AI 在法律行业的应用实践",
+      "OpenAI 官方博客发布该客户案例采访"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "31107968827ec21bdc26fa291e789889",
+    "title": "Anthropic Reveals IPO Price as AI Market Jitters Grow",
+    "url": "https://www.reddit.com/r/artificial/comments/1xt2t5n/anthropic_reveals_ipo_price_as_ai_market_jitters/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-10T23:59:01+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xt2t5n/anthropic_reveals_ipo_price_as_ai_market_jitters/\"> <img alt=\"Anthropic Reveals IPO Price as AI Market Jitters Grow\" src=\"https://external-preview.redd.it/rRYGbkazVNWB0zR885aZsxX6mU0mNfFohxkjAyiyg2w.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c72a51f122ad3dc3b7cf5fa65c539cb9637eb6b\" title=\"Anthropic Reveals IPO Price as AI Market Jitters Grow\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I saw the price ",
+    "title_zh": "Anthropic 公布 IPO 发行价，AI 市场紧张情绪加剧",
+    "summary_zh": "Anthropic 公司正式公布了其首次公开募股的发行价格，此时正值 AI 行业市场出现波动和担忧情绪之际。",
+    "key_points": [
+      "Anthropic 正式公布其 IPO 发行价",
+      "发布时机正值 AI 市场担忧情绪加剧"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "048bca2e530e78900b8d75c04d42d82d",
+    "title": "Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift for open-source maintainers tired of flood of junk reports",
+    "url": "https://www.reddit.com/r/artificial/comments/1xt2iwq/linus_torvalds_says_that_ai_fixes_drove_most_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-10T23:46:23+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xt2iwq/linus_torvalds_says_that_ai_fixes_drove_most_of/\"> <img alt=\"Linus Torvalds says that AI fixes drove most of the progress in latest Linux kernel — BPF saw more AI-written fixes than bug reports, possibly indicating a tidal shift for open-source maintainers tired of flood of junk reports\" src=\"https://external-preview.redd.it/XXTSp0XtFp5NiXcXJynlEJQvib0J7H37DdEPMg4yjaU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=",
+    "title_zh": "Linus Torvalds 称 AI 修复驱动了最新 Linux 内核的大部分进展",
+    "summary_zh": "Linus Torvalds 表示，最新版 Linux 内核的进展主要来自 AI 生成的代码修复，其中 BPF 子系统收到的 AI 修复数量超过了人类提交的漏洞报告。这可能标志着开源维护领域的一次重大转变。",
+    "key_points": [
+      "Linus Torvalds 指出 Linux 内核进展主要由 AI 修复驱动",
+      "BPF 的 AI 修复数量首次超过收到的漏洞报告",
+      "此举或改变开源维护者处理低质量报告的模式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bda5dbd0e90087c95f4e9b87ba70dae1",
+    "title": "Seagate's new hybrid drive raises some old questions",
+    "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-10T23:30:56+00:00",
+    "content_snippet": "The FireCuda Forge revisits an old idea, with some familiar questions.",
+    "title_zh": "希捷新混合硬盘引发旧问题",
+    "summary_zh": "希捷推出了名为 FireCuda Forge 的新款混合硬盘，重新采用了 SSD 与 HDD 结合的旧方案，同时也带来了此前该类型产品遭遇过的一些质疑。",
+    "key_points": [
+      "希捷发布 FireCuda Forge 新型固态机械混合硬盘",
+      "产品概念类似于旧方案，面临兼容性与性能旧问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1ded0562be1c7f4d4fe386680803d984",
+    "title": "Gemini Notebook Privacy Concerns",
+    "url": "https://www.reddit.com/r/artificial/comments/1xt1vs9/gemini_notebook_privacy_concerns/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-10T23:18:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I have been working with Claude to help me to improve coding on GDScript. I'm thinking about using Gemini Notebook to work on my GDD and world building. But I'm afraid to put my texts on it. </p> <p>I don't want to feed IA with my work. I know they say that Gemini Notebook is closed and don't feed IA. But I'm not sure about it. Can someone that usualy work with Gemini Notebook tell me about your thoughts about privacy? </p> </div><!-- SC_ON --> &#32; submitted b",
+    "title_zh": "Gemini Notebook 隐私担忧引讨论",
+    "summary_zh": "Reddit 用户在使用 Gemini Notebook 处理游戏策划文档时，对将个人创作文本输入 AI 工具的数据隐私和内容保护问题表示担忧。",
+    "key_points": [
+      "用户担心向 Gemini Notebook 提交文本会泄露创作内容",
+      "讨论聚焦于 Google AI 工具的数据使用与隐私政策"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b4fded694ec2a27ca782ac5840987115",
+    "title": "Generative AI is everywhere and here is the stats",
+    "url": "https://www.reddit.com/r/artificial/comments/1xt1p6u/generative_ai_is_everywhere_and_here_is_the_stats/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-10T23:10:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Tik Tok (2026) </p> <p>60% of a new account's Tiktok feed was AI slop. </p> <p>Source: Kapwing <a href=\"https://www.kapwing.com/resources/the-tiktok-ai-slop-report\">https://www.kapwing.com/resources/the-tiktok-ai-slop-report</a></p> <p>Youtube (2025) </p> <p>21-33% of YouTube’s feed may consist of AI slop or brainrot videos. </p> <p>Source: Kapwing </p> <p><a href=\"https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos\">https://www.",
+    "title_zh": "数据显示生成式 AI 内容已无处不在",
+    "summary_zh": "Reddit 帖子汇总了多项统计数据，显示 TikTok 新账号信息流中 60% 为 AI 低质内容，YouTube 有 21-33%，表明生成式 AI 内容在网络中已广泛渗透。",
+    "key_points": [
+      "TikTok 新号信息流中 60% 均为 AI 生成的低质内容",
+      "YouTube 等主流平台 AI 生成内容占比达 21-33%",
+      "统计数据揭示生成式 AI 在网络中的大规模渗透"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "516b83d1b61551ea9d181328f9c8ad42",
+    "title": "The US military seems to be getting nervous about the launch supply crunch",
+    "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-10T23:02:39+00:00",
+    "content_snippet": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+    "title_zh": "美军对太空发射运力紧缩感到紧张",
+    "summary_zh": "美国军方官员表示，目前的太空发射资源极其紧张且符合早前预测，正对此状况感到不安。",
+    "key_points": [
+      "美军表示太空发射运力目前严重受限",
+      "该状况符合军方此前的预测"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6904b35e4757872c672e4ad69e9e855b",
+    "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+    "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-10T22:35:01+00:00",
+    "content_snippet": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+    "title_zh": "Amazon 推出 AI 安防无人机与机器人，Ring 摄像头迈向移动化",
+    "summary_zh": "亚马逊发布了集成 AI 功能的 Ring 安防无人机和机器人，使安防摄像头摆脱固定限制走向移动化，新产品计划于 2026 年底至 2027 年初上市。",
+    "key_points": [
+      "亚马逊发布搭载 AI 的 Ring 移动安防无人机与机器人",
+      "产品计划在 2026 年底至 2027 年初上市"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0a7294d7139bca036b59a661660735a7",
+    "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+    "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-10T21:55:26+00:00",
+    "content_snippet": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+    "title_zh": "美民主党反对 FCC 安插共和党人计划并调查主席 Carr",
+    "summary_zh": "美国民主党人反对向联邦通信委员会增补共和党委员的计划，并着手对现任主席 Carr 展开调查，指责提名人在相关议题上回避提问。",
+    "key_points": [
+      "民主党反对 FCC 增加共和党委员的计划",
+      "民主党启动对 FCC 主席 Carr 的质询调查",
+      "被提名人被指控回避相关提问"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "24b56e0e82fbea849eeb064f729be715",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-10T21:08:52+00:00",
+    "content_snippet": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "title_zh": "OpenAI 收购 Sonder 创始人创立的旅游初创公司 Odessia",
+    "summary_zh": "OpenAI 收购了由知名短租公司 Sonder 创始人创办的旅游初创企业 Odessia，该公司尚未透露其在旅游领域的具体规划。",
+    "key_points": [
+      "OpenAI 收购旅游初创公司 Odessia",
+      "Odessia 由知名短租品牌 Sonder 创始人创立",
+      "OpenAI 暂未公布收购后的旅游业务计划"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eb94be6281ea48201ee445eb0d2ef732",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-10T20:52:13+00:00",
+    "content_snippet": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "title_zh": "纽约州AI安全法生效，OpenAI和Anthropic面临新监管",
+    "summary_zh": "纽约州即将执行全面的AI安全法律，要求OpenAI和Anthropic等主要AI开发商进行注册，披露安全实践并报告关键事件，否则将面临罚款。",
+    "key_points": [
+      "纽约州开始执行全面AI安全法",
+      "主要AI开发商须注册并披露安全措施",
+      "未报告关键事件将面临罚款处罚"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5e903e9b7ca7917578b63734a77e8e21",
+    "title": "What happens to mathematics when AI becomes an oracle?",
+    "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-10T20:30:01+00:00",
+    "content_snippet": "Mathematician Steven Strogatz discusses his new book, <em>Big Math: The Hidden Codes That Run Our World</em>.",
+    "title_zh": "当AI成为神谕，数学将何去何从？",
+    "summary_zh": "数学家Steven Strogatz在其新书讨论中探讨了当AI能够提供数学答案时，数学领域的研究和学习方式可能发生的根本性变化。",
+    "key_points": [
+      "数学家探讨AI作为数学解答工具的影响",
+      "讨论新书《Big Math: The Hidden Codes That Run Our World》",
+      "AI可能改变数学研究与学习方式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
