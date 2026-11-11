@@ -1318,5 +1318,78 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "9e141bc068a526b943e7b6b709a6de96",
+    "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+    "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-11T03:00:20+00:00",
+    "content_snippet": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+    "title_zh": "AI 如何幫助回收業者將混合廢棄物轉化為可再利用材料",
+    "summary_zh": "NVIDIA 博客介紹利用視覺 AI 與機器人技術，從傳送帶上的舊衣物、瓶罐等混合可回收物中自動挑選出有價值的材料，已成功將數千噸廢棄物從掩埋場轉移。",
+    "key_points": [
+      "視覺 AI 與機器人結合，自動分揀傳送帶上的混合回收物",
+      "技術已從垃圾掩埋場轉移數千噸廢棄物"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "42aed615fdb97b541e9b4c7910078d3a",
+    "title": "Alternatives for custom GPTs",
+    "url": "https://www.reddit.com/r/artificial/comments/1xt6eja/alternatives_for_custom_gpts/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-11T02:45:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am a heavy user of custom GPTs that I have set up using PDF books and research papers that I frequently refer to in my work.</p> <p>Since OpenAI announced that custom GPTs would need to be converted into plugins, I have been looking for alternatives to maintain the same functionality, as my files far exceed the size limit imposed on plugins.</p> <p>I would like to know whether there are other AI agents that could provide similar functionality or whether there ",
+    "title_zh": "自定義 GPT 替代方案探討",
+    "summary_zh": "一位 Reddit 用戶因 OpenAI 宣佈自定義 GPT 需轉為插件而尋求替代方案，以便繼續使用基於 PDF 書籍和研究論文設定的自定義 GPT 進行工作。",
+    "key_points": [
+      "OpenAI 要求自定義 GPT 轉為插件，引發使用者尋求替代方案",
+      "使用者主要依賴自定義 GPT 查詢工作相關的 PDF 書籍與論文"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b7ea64788e003499390b27a6ac57a062",
+    "title": "The fundamental limitations of large language models may be a barrier to achieving true AGI and ASI?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xt4e1u/the_fundamental_limitations_of_large_language/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-11T01:09:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The fundamental limitations of large language models and statistical pattern-matching algorithms may be a barrier to achieving true AGI and ASI?</p> <p>We may need a radically different architecture in order to achieve full AGI as well as machine consciousness/sentience?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DoublePassRadiator\"> /u/DoublePassRadiator </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial",
+    "title_zh": "大型語言模型的根本局限性可能成為實現真正 AGI 的障礙",
+    "summary_zh": "Reddit 討論認為，大型語言模型基於統計模式匹配的根本局限性，可能阻礙其邁向真正的通用人工智慧（AGI）與超級人工智慧（ASI），或許需要全新架構才能實現機器意識。",
+    "key_points": [
+      "質疑 LLM 的統計模式匹配本質無法達成 AGI/ASI",
+      "提出需要全新架構以實現真正機器意識與感知能力"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
