@@ -556,5 +556,381 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "514b502da5e28df4a3f6da738c22c943",
+    "title": "Jensen Huang accused of having another affair — with a Nvidia exec",
+    "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-11T23:17:05+00:00",
+    "content_snippet": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+    "title_zh": "黄仁勋被曝与英伟达高管另有一段婚外情",
+    "summary_zh": "继承认与一名被指为中国间谍的女性有染后，英伟达CEO黄仁勋再被指控与公司内部一名下属存在另一段婚外情，面临新的舆论压力。",
+    "key_points": [
+      "黄仁勋继间谍门后再被曝与英伟达下属有染",
+      "最新指控使其陷入更深个人道德危机"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f269105f8f6e68e1bb34309759d65ce8",
+    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+    "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-11T22:44:36+00:00",
+    "content_snippet": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
+    "title_zh": "消息称英伟达董事会准备罢免黄仁勋",
+    "summary_zh": "据华尔街日报报道，由于《纽约时报》曝光了黄仁勋的第二起婚外情指控，英伟达董事会正计划解除其首席执行官职务。",
+    "key_points": [
+      "英伟达董事会拟因婚外情丑闻罢免黄仁勋",
+      "解雇决定紧随其第二起婚外情指控曝光"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b4842c1a376be40e86bba38751112d2a",
+    "title": "When a deadline is missed, how do you rebuild the closing timeline",
+    "url": "https://www.reddit.com/r/artificial/comments/1xtvnd2/when_a_deadline_is_missed_how_do_you_rebuild_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-11T22:25:50+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Every closing carries a dozen-plus deadlines (inspection, financing, appraisal, earnest money, closing itself), and a lot of files get tracked in a spreadsheet that gets updated after showings. That system works right up until an addendum moves a date or a contingency gets extended, and then the spreadsheet and the executed contract disagree without anyone noticing.</p> <p>So I'm curious how people actually rebuild the timeline after a miss. Do you go back to th",
+    "title_zh": "当错过截止日期时，如何重建交割时间表？",
+    "summary_zh": "一篇关于项目管理中如何应对错过截止日期的讨论帖，涉及房地产交易中的检查、融资等环节的时间表重建方法。",
+    "key_points": [
+      "讨论房地产交易中错过截止日期后如何重建时间表",
+      "内容与AI技术领域无直接关联"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "83da9b53efb28e984614b56f04d8f77f",
+    "title": "How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xtvipb/how_should_authors_handle_a_suspected/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-11T22:20:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm curious how ACs and experienced authors think about this.</p> <p><strong>My situation:</strong> one ICLR reviewer gave a 2 with confidence 1. The other reviewers gave 3 with confidence 3. Pangram flags the review as 100% AI. I know detectors aren't proof on their own, but there are other signs too: all three listed weaknesses concern material deep in the appendix.</p> <p>I'll respond to every point in the rebuttal regardless. <strong>My questions:</strong></",
+    "title_zh": "作者在ICLR遇到疑似AI生成的审稿意见时应如何处理？",
+    "summary_zh": "一位ICLR投稿者发现一份低置信度审稿意见被检测为100% AI生成，向社区咨询是应报告给领域主席还是直接反驳。",
+    "key_points": [
+      "ICLR审稿意见被检测为完全AI生成引发讨论",
+      "投稿者求教如何正确处理可疑的AI审稿"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a3a0c9996cbe1c5ad36edbf42e91053e",
+    "title": "United won’t let your AI agent book your flight",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-11T21:54:21+00:00",
+    "content_snippet": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
+    "title_zh": "美联航将禁止AI代理预订机票",
+    "summary_zh": "美联航以隐私和监管问题为由，宣布将不允许用户使用个人AI助手预订航班，目前尚未发现大量此类尝试。",
+    "key_points": [
+      "美联航禁止AI代理订票，引隐私和监管担忧",
+      "其他企业如Ticketmaster也有类似限制观察"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a3021aed4f333fe927c30c9be5a8322d",
+    "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-11T21:42:54+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Heya roboticists and mind minders ~</p> <p>I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017–2026). Added paper TLDRs, project pages, code, arXiv links, task chips, summary stats, research trends, and more!!</p> <p>Trying to make robot learning research more accessible for the community - might build an open source autoresearch capability on top of it later</p> <p>If you see something that's missing or want to a",
+    "title_zh": "开发者构建10年CoRL论文探索工具，收录超2100篇",
+    "summary_zh": "一位开发者创建了一个覆盖2017至2026年机器人学习顶会CoRL的论文浏览器，提供摘要、代码链接和研究趋势等功能。",
+    "key_points": [
+      "开源工具索引超2100篇CoRL机器人学论文",
+      "提供论文摘要、代码、趋势等多维度分析"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c3c23fe97aae0cc6ed2fb44d5183fb74",
+    "title": "Blind test of 32 ElevenLabs Voice Library voices for audiobooks (125 paid listeners, 1,122 judgments): \"professional\" voices no better than instant clones, popularity predicts nothing, louder voices win",
+    "url": "https://www.reddit.com/r/artificial/comments/1xtuiq3/blind_test_of_32_elevenlabs_voice_library_voices/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-11T21:40:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We needed a defensible way to pick narrator voices from the Voice Library (5,000+ English narration voices, no quality signal), so we ran a paid blind test.</p> <p><strong>Setup:</strong> 32 voices stratified across gender, age, accent, tier (professional vs instant clone) and usage; the same 30-second first-person nonfiction passage; identical <code>eleven_v4</code> settings for every voice; 128 pairs in a connected design; 125 paid US listeners, 1,122 forced-c",
+    "title_zh": "盲测显示ElevenLabs专业语音并不优于即时克隆",
+    "summary_zh": "一项涉及125名付费听众的盲测发现，在有声书配音中，ElevenLabs的专业语音库效果与即时克隆语音无显著差异，声音响度反成优势。",
+    "key_points": [
+      "ElevenLabs有声书语音盲测：专业与克隆无差异",
+      "声音响度成为听众偏好的主要因素"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b749a843620395d5527345ede299c818",
+    "title": "Why the data center you dread might never even be built",
+    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-11T20:15:15+00:00",
+    "content_snippet": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]",
+    "title_zh": "你担心的数据中心可能永远建不起来",
+    "summary_zh": "数据中心建设热潮正面临严重现实障碍，包括地方反对、审批延迟和电力短缺，大量已宣布的项目可能无法落地。",
+    "key_points": [
+      "数据中心建设受阻于地方反对和电力短缺",
+      "大量已宣布项目面临无法落地的风险"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9498e9f0a87c07c6b43e26e325f78269",
+    "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+    "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-11T20:02:14+00:00",
+    "content_snippet": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]",
+    "title_zh": "蓝色浪潮后，反对声和行政障碍如何迟滞数据中心",
+    "summary_zh": "播客探讨即便在大选之后，地方社区的反对和监管瓶颈仍在持续阻碍数据中心的快速发展。",
+    "key_points": [
+      "地方反对和审批延迟持续拖累数据中心建设",
+      "大选后行业面临的官僚障碍并未减少"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "546c365caa1bad2dd9d9476677eed90d",
+    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-11T19:54:00+00:00",
+    "content_snippet": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+    "title_zh": "CoreWeave靠客户预付和短合同为AI增长筹资",
+    "summary_zh": "为支持AI增长，云计算公司CoreWeave正越来越多地要求客户预付款、以特定合同借贷，并转向可能导致更高价格的短期交易。",
+    "key_points": [
+      "CoreWeave要求客户预付并转向短期合同筹资",
+      "新融资策略旨在支撑其AI云服务增长"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1ecbde63ddfc6fb65fab200f6bbacae6",
+    "title": "AI which has no restrictions??",
+    "url": "https://www.reddit.com/r/artificial/comments/1xtrouh/ai_which_has_no_restrictions/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-11T19:49:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>any thing which has no restrictions and can feed all my curiosity?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Green-Hat0001\"> /u/Green-Hat0001 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xtrouh/ai_which_has_no_restrictions/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1xt",
+    "title_zh": "有没有没有任何限制的AI？",
+    "summary_zh": "用户发帖询问是否存在一个没有任何限制、能完全满足其好奇心的AI。",
+    "key_points": [
+      "用户寻求毫无限制的AI以满足好奇心"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cb653d7999c61312abe999e17509434e",
+    "title": "GitHub - tailot/LingoLOGOS: Grammar-driven engine for language analysis and generation IA or/and chip/s",
+    "url": "https://www.reddit.com/r/artificial/comments/1xtrkqh/github_tailotlingologos_grammardriven_engine_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-11T19:44:40+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xtrkqh/github_tailotlingologos_grammardriven_engine_for/\"> <img alt=\"GitHub - tailot/LingoLOGOS: Grammar-driven engine for language analysis and generation IA or/and chip/s\" src=\"https://external-preview.redd.it/5ELva4cLbko9WrAT7NFNpdIG76RUGUZ49WAyhsWak1k.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=29b1815654d6b33a87d8124545c2c7e34915a231\" title=\"GitHub - tailot/LingoLOGOS: Grammar-driven engine for language analysis an",
+    "title_zh": "GitHub - tailot/LingoLOGOS：用于语言分析和生成的语法驱动引擎",
+    "summary_zh": "一个名为LingoLOGOS的语法驱动引擎开源项目，旨在进行语言分析和生成，可能与AI或芯片相关。",
+    "key_points": [
+      "开源语法引擎可用于语言分析和生成"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "69792f3c808437d7b258bec4f45bc408",
+    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+    "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-11T19:34:55+00:00",
+    "content_snippet": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+    "title_zh": "英国Fractile公司获7.2亿美元融资，在AI芯片竞赛中领先一步",
+    "summary_zh": "英国芯片公司Fractile完成7.2亿美元融资，成为专用AI芯片领域资金最雄厚的企业之一。",
+    "key_points": [
+      "Fractile获7.2亿美元巨额融资",
+      "成为专用AI芯片赛道的主要参与者"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7f7a4d618d2d171e2241f63df6a42222",
+    "title": "Anthropic says a key AI safety alarm has been triggered, days before its IPO",
+    "url": "https://www.reddit.com/r/artificial/comments/1xtr9oc/anthropic_says_a_key_ai_safety_alarm_has_been/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-11T19:32:58+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xtr9oc/anthropic_says_a_key_ai_safety_alarm_has_been/\"> <img alt=\"Anthropic says a key AI safety alarm has been triggered, days before its IPO\" src=\"https://external-preview.redd.it/FnSsoE978YIrS4Juvx4pRhUYmvnHGmcK3Kspi0clGBQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd1c0c5348c0113f50c8b58aac4ef4085b56095d\" title=\"Anthropic says a key AI safety alarm has been triggered, days before its IPO\" /> </a> </td><td> &#32; s",
+    "title_zh": "Anthropic称IPO前夕关键AI安全警报被触发",
+    "summary_zh": "在首次公开募股前几天，Anthropic公司的关键AI安全警报被触发，引发外界关注。",
+    "key_points": [
+      "Anthropic在IPO前夕触发关键AI安全警报",
+      "事件可能对公司上市进程产生影响"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d9ab5c088fc68f533ee13ab708d17a5c",
+    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+    "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-11T19:22:22+00:00",
+    "content_snippet": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+    "title_zh": "美国国会将传唤黄仁勋就涉嫌中国间谍事件作出回应",
+    "summary_zh": "美国众议院共和党人要求英伟达CEO黄仁勋就涉嫌与中国间谍的关系进行闭门简报，限时周三前回应。",
+    "key_points": [
+      "国会传唤黄仁勋就涉华间谍指控作证",
+      "要求其在周三前出席闭门简报会"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "754bc1d4ea24daffcc2544960f46886e",
+    "title": "Nvidia-Backed Fireworks AI Notifies Customers of Its Second Hack in Weeks",
+    "url": "https://www.reddit.com/r/artificial/comments/1xtqiah/nvidiabacked_fireworks_ai_notifies_customers_of/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-11T19:04:52+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xtqiah/nvidiabacked_fireworks_ai_notifies_customers_of/\"> <img alt=\"Nvidia-Backed Fireworks AI Notifies Customers of Its Second Hack in Weeks\" src=\"https://external-preview.redd.it/xs5NrtucgCaom8fXkR_UdNEjQaczx3ERzYUrnzmlkR0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71ef2c00b90d6a304b00e6b2e4467117fc263fd1\" title=\"Nvidia-Backed Fireworks AI Notifies Customers of Its Second Hack in Weeks\" /> </a> </td><td> &#32; submi",
+    "title_zh": "英伟达投资的Fireworks AI通知客户数周内第二次遭黑客攻击",
+    "summary_zh": "由英伟达投资的AI公司Fireworks AI通知客户，公司在数周内遭遇了第二次黑客入侵事件。",
+    "key_points": [
+      "Fireworks AI在数周内连续遭黑客攻击",
+      "该公司由英伟达投资，已通知客户"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
