@@ -9,22 +9,24 @@
 <body>
   <header>
     <h1>AI 新闻速递 · 日报</h1>
-    <p class="subtitle">2026-11-12 · 共 23 条资讯</p>
+    <p class="subtitle">2026-11-12 · 共 39 条资讯</p>
   </header>
 
   
   <div class="daily-header">
     <h2>今日要点</h2>
     <div class="stats">
-      <span>23 条资讯</span>
-      <span>3 条突发</span>
+      <span>39 条资讯</span>
+      <span>7 条突发</span>
       <span>6 个信源</span>
     </div>
-    <div class="daily-overview">今日有 3 条重要资讯：
+    <div class="daily-overview">今日有 7 条重要资讯：
+• 据华尔街日报报道，由于《纽约时报》曝光了黄仁勋的第二起婚外情指控，英伟达董事会正计划解除其首席执行官职务。
+• 微软研究院发布名为Lazarus的技术，可通过修改大模型中少量休眠神经元植入后门，无需重新训练，对使用开源权重模型构成安全隐患。
+• 英国芯片公司Fractile完成7.2亿美元融资，成为专用AI芯片领域资金最雄厚的企业之一。
+• 在首次公开募股前几天，Anthropic公司的关键AI安全警报被触发，引发外界关注。
 • OpenAI季度销售额达100亿美元，较第二季度的67亿美元增长近50%，显示其商业化进程大幅加速。
-• 随着AI代理能力扩展，它们开始代表企业选择和购买软件。这预示着未来B2B销售模式将发生根本性变化，但多数企业对此趋势准备不足。
-• 微软一项专利显示，其技术可在直播中实时替换争议言论并同步口型，旨在通过AI修改用户听到的内容，引发了对信息真实性及伦理的强烈担忧。
-资讯分布：产品动态 9 条、行业政策 7 条、研究论文 5 条。</div>
+资讯分布：产品动态 13 条、行业政策 9 条、研究论文 8 条。</div>
   </div>
   
 
@@ -33,9 +35,13 @@
     
     <button data-category="产品动态">产品动态</button>
     
+    <button data-category="开源项目">开源项目</button>
+    
     <button data-category="技术教程">技术教程</button>
     
     <button data-category="研究论文">研究论文</button>
+    
+    <button data-category="融资收购">融资收购</button>
     
     <button data-category="行业政策">行业政策</button>
     
@@ -44,8 +50,148 @@
   
   <ol class="article-list">
     
-    <li class="article-item breaking" data-category="产品动态">
+    <li class="article-item breaking" data-category="行业政策">
       <span class="article-rank">1</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.theverge.com/tech/1031652/jensen-huang-rumor" target="_blank" rel="noopener">消息称英伟达董事会准备罢免黄仁勋</a>
+          <div class="article-title-original">Nvidia is reportedly preparing to fire Jensen Huang</div>
+          
+        </div>
+        
+        <p class="article-summary">据华尔街日报报道，由于《纽约时报》曝光了黄仁勋的第二起婚外情指控，英伟达董事会正计划解除其首席执行官职务。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">The Verge AI</span>
+          <span class="tag">行业政策</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★★</span>
+          <time class="article-time" datetime="2026-11-11T22:44:36+00:00" title="2026-11-12 06:44"></time>
+        </div>
+        
+        <span class="cluster-toggle" onclick="toggleCluster(this)">还有 4 篇相关报道 ▸</span>
+        <div class="cluster-children">
+          
+          <div class="cluster-child">
+            <a href="https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/" target="_blank" rel="noopener">美国国会将传唤黄仁勋就涉嫌中国间谍事件作出回应</a>
+            <span class="cluster-child-source">TechCrunch AI</span>
+          </div>
+          
+          <div class="cluster-child">
+            <a href="https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/" target="_blank" rel="noopener">黄仁勋丑闻持续发酵：时间线回顾</a>
+            <span class="cluster-child-source">TechCrunch AI</span>
+          </div>
+          
+          <div class="cluster-child">
+            <a href="https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/" target="_blank" rel="noopener">黄仁勋被曝与英伟达高管另有一段婚外情</a>
+            <span class="cluster-child-source">TechCrunch AI</span>
+          </div>
+          
+          <div class="cluster-child">
+            <a href="https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/" target="_blank" rel="noopener">黄仁勋的负面行为是否比表面看起来更普遍？</a>
+            <span class="cluster-child-source">TechCrunch AI</span>
+          </div>
+          
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item breaking" data-category="研究论文">
+      <span class="article-rank">2</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xu2cfg/microsoft_researchers_backdoored_an_ai_agent_by/" target="_blank" rel="noopener">微软研究员通过修改少于10个神经元植入AI后门，无需重新训练</a>
+          <div class="article-title-original">Microsoft researchers backdoored an AI agent by editing fewer than 10 neurons - no retraining needed</div>
+          
+        </div>
+        
+        <p class="article-summary">微软研究院发布名为Lazarus的技术，可通过修改大模型中少量休眠神经元植入后门，无需重新训练，对使用开源权重模型构成安全隐患。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">研究论文</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★☆</span>
+          <time class="article-time" datetime="2026-11-12T03:35:17+00:00" title="2026-11-12 11:35"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="开源项目">
+      <span class="article-rank">3</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/" target="_blank" rel="noopener">我花一周微调EVA-02构建神经视频检索引擎，解决CLIP无法做到的事</a>
+          <div class="article-title-original">I fine-tuned EVA-02 in a week to build a neural video retrieval engine for what CLIP still won&#39;t do [P]</div>
+          
+        </div>
+        
+        <p class="article-summary">开发者在一周内微调EVA-02模型，构建了能根据视觉姿态、服装细节、镜头角度等进行本地视频检索的开源引擎，可忽略上传者元数据。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">开源项目</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-11-12T03:03:34+00:00" title="2026-11-12 11:03"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item breaking" data-category="融资收购">
+      <span class="article-rank">4</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/" target="_blank" rel="noopener">英国Fractile公司获7.2亿美元融资，在AI芯片竞赛中领先一步</a>
+          <div class="article-title-original">With $720M round, Britain’s Fractile gets a leg up in the race for AI chips</div>
+          
+        </div>
+        
+        <p class="article-summary">英国芯片公司Fractile完成7.2亿美元融资，成为专用AI芯片领域资金最雄厚的企业之一。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">TechCrunch AI</span>
+          <span class="tag">融资收购</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★☆</span>
+          <time class="article-time" datetime="2026-11-11T19:34:55+00:00" title="2026-11-12 03:34"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item breaking" data-category="产品动态">
+      <span class="article-rank">5</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xtr9oc/anthropic_says_a_key_ai_safety_alarm_has_been/" target="_blank" rel="noopener">Anthropic称IPO前夕关键AI安全警报被触发</a>
+          <div class="article-title-original">Anthropic says a key AI safety alarm has been triggered, days before its IPO</div>
+          
+        </div>
+        
+        <p class="article-summary">在首次公开募股前几天，Anthropic公司的关键AI安全警报被触发，引发外界关注。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">产品动态</span>
+          <span class="tag tag-breaking">突发</span>
+          <span class="stars">★★★★☆</span>
+          <time class="article-time" datetime="2026-11-11T19:32:58+00:00" title="2026-11-12 03:32"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item breaking" data-category="产品动态">
+      <span class="article-rank">6</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -68,7 +214,7 @@
     </li>
     
     <li class="article-item" data-category="研究论文">
-      <span class="article-rank">2</span>
+      <span class="article-rank">7</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -91,7 +237,132 @@
     </li>
     
     <li class="article-item" data-category="研究论文">
-      <span class="article-rank">3</span>
+      <span class="article-rank">8</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/MachineLearning/comments/1xtvipb/how_should_authors_handle_a_suspected/" target="_blank" rel="noopener">作者在ICLR遇到疑似AI生成的审稿意见时应如何处理？</a>
+          <div class="article-title-original">How should authors handle a suspected auto-generated review at ICLR? Flag to the AC or just rebut? [D]</div>
+          
+        </div>
+        
+        <p class="article-summary">一位ICLR投稿者发现一份低置信度审稿意见被检测为100% AI生成，向社区咨询是应报告给领域主席还是直接反驳。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">研究论文</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-11-11T22:20:31+00:00" title="2026-11-12 06:20"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">9</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents" target="_blank" rel="noopener">美联航将禁止AI代理预订机票</a>
+          <div class="article-title-original">United won’t let your AI agent book your flight</div>
+          
+        </div>
+        
+        <p class="article-summary">美联航以隐私和监管问题为由，宣布将不允许用户使用个人AI助手预订航班，目前尚未发现大量此类尝试。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">The Verge AI</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-11-11T21:54:21+00:00" title="2026-11-12 05:54"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">10</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/" target="_blank" rel="noopener">你担心的数据中心可能永远建不起来</a>
+          <div class="article-title-original">Why the data center you dread might never even be built</div>
+          
+        </div>
+        
+        <p class="article-summary">数据中心建设热潮正面临严重现实障碍，包括地方反对、审批延迟和电力短缺，大量已宣布的项目可能无法落地。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">TechCrunch AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-11-11T20:15:15+00:00" title="2026-11-12 04:15"></time>
+        </div>
+        
+        <span class="cluster-toggle" onclick="toggleCluster(this)">还有 1 篇相关报道 ▸</span>
+        <div class="cluster-children">
+          
+          <div class="cluster-child">
+            <a href="https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/" target="_blank" rel="noopener">蓝色浪潮后，反对声和行政障碍如何迟滞数据中心</a>
+            <span class="cluster-child-source">TechCrunch AI</span>
+          </div>
+          
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="融资收购">
+      <span class="article-rank">11</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/" target="_blank" rel="noopener">CoreWeave靠客户预付和短合同为AI增长筹资</a>
+          <div class="article-title-original">CoreWeave turns to customer prepayments, shorter contracts to fund AI growth</div>
+          
+        </div>
+        
+        <p class="article-summary">为支持AI增长，云计算公司CoreWeave正越来越多地要求客户预付款、以特定合同借贷，并转向可能导致更高价格的短期交易。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">TechCrunch AI</span>
+          <span class="tag">融资收购</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-11-11T19:54:00+00:00" title="2026-11-12 03:54"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">12</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xtqiah/nvidiabacked_fireworks_ai_notifies_customers_of/" target="_blank" rel="noopener">英伟达投资的Fireworks AI通知客户数周内第二次遭黑客攻击</a>
+          <div class="article-title-original">Nvidia-Backed Fireworks AI Notifies Customers of Its Second Hack in Weeks</div>
+          
+        </div>
+        
+        <p class="article-summary">由英伟达投资的AI公司Fireworks AI通知客户，公司在数周内遭遇了第二次黑客入侵事件。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-11-11T19:04:52+00:00" title="2026-11-12 03:04"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="研究论文">
+      <span class="article-rank">13</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -114,7 +385,7 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">4</span>
+      <span class="article-rank">14</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -137,7 +408,7 @@
     </li>
     
     <li class="article-item breaking" data-category="行业政策">
-      <span class="article-rank">5</span>
+      <span class="article-rank">15</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -159,8 +430,31 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">16</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xu2qtg/ram_silicon_economy/" target="_blank" rel="noopener">RAM / 硅经济</a>
+          <div class="article-title-original">RAM / silicon economy</div>
+          
+        </div>
+        
+        <p class="article-summary">讨论内存价格暴涨近5倍对AI行业的冲击，质疑消费者若无法负担运行AI系统所需的硬件，AI公司将如何维持产品生态。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-12T03:55:51+00:00" title="2026-11-12 11:55"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item breaking" data-category="产品动态">
-      <span class="article-rank">6</span>
+      <span class="article-rank">17</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -183,7 +477,7 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">7</span>
+      <span class="article-rank">18</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -205,8 +499,31 @@
       </div>
     </li>
     
+    <li class="article-item" data-category="技术教程">
+      <span class="article-rank">19</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xu1axd/ai_for_business_workflow/" target="_blank" rel="noopener">AI在商业工作流中的应用</a>
+          <div class="article-title-original">AI for Business Workflow</div>
+          
+        </div>
+        
+        <p class="article-summary">探讨是否有人成功将AI应用于复杂工程产品的销售工作流，涉及AI代理监控多渠道咨询并协助配置和组装决策。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">技术教程</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-12T02:44:11+00:00" title="2026-11-12 10:44"></time>
+        </div>
+        
+      </div>
+    </li>
+    
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">8</span>
+      <span class="article-rank">20</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -229,7 +546,7 @@
     </li>
     
     <li class="article-item" data-category="研究论文">
-      <span class="article-rank">9</span>
+      <span class="article-rank">21</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -252,7 +569,7 @@
     </li>
     
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">10</span>
+      <span class="article-rank">22</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -275,7 +592,7 @@
     </li>
     
     <li class="article-item" data-category="研究论文">
-      <span class="article-rank">11</span>
+      <span class="article-rank">23</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -298,7 +615,7 @@
     </li>
     
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">12</span>
+      <span class="article-rank">24</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -320,54 +637,8 @@
       </div>
     </li>
     
-    <li class="article-item" data-category="行业政策">
-      <span class="article-rank">13</span>
-      <div class="article-content">
-        <div class="article-title">
-          
-          <a href="https://www.reddit.com/r/artificial/comments/1xth5cv/china_is_giving_ai_agents_digital_identities_but/" target="_blank" rel="noopener">中国为AI代理赋予数字身份，如何确保合规？</a>
-          <div class="article-title-original">China is giving AI agents digital identities. But how do you make sure they follow the rules?</div>
-          
-        </div>
-        
-        <p class="article-summary">中国于2026年推出新标准，规范AI代理在身份标识、通信及服务访问等方面的行为，并涉及权限管理问题，引发对实际执行效果的探讨。</p>
-        
-        <div class="article-meta">
-          <span class="source-badge">Reddit AI</span>
-          <span class="tag">行业政策</span>
-          
-          <span class="stars">★★★☆☆</span>
-          <time class="article-time" datetime="2026-11-11T13:01:03+00:00" title="2026-11-11 21:01"></time>
-        </div>
-        
-      </div>
-    </li>
-    
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">14</span>
-      <div class="article-content">
-        <div class="article-title">
-          
-          <a href="https://www.reddit.com/r/artificial/comments/1xtgicu/fortinet_patches_nearly_100_vulnerabilities_after/" target="_blank" rel="noopener">Fortinet在安全测试中引入AI模型后修复近百个漏洞</a>
-          <div class="article-title-original">Fortinet patches nearly 100 vulnerabilities after adding AI models to security testing</div>
-          
-        </div>
-        
-        <p class="article-summary">Fortinet通过将AI模型纳入安全测试流程，成功发现并修复了近100个软件漏洞，展示了人工智能在网络安全漏洞挖掘领域的应用潜力。</p>
-        
-        <div class="article-meta">
-          <span class="source-badge">Reddit AI</span>
-          <span class="tag">产品动态</span>
-          
-          <span class="stars">★★★☆☆</span>
-          <time class="article-time" datetime="2026-11-11T12:29:21+00:00" title="2026-11-11 20:29"></time>
-        </div>
-        
-      </div>
-    </li>
-    
-    <li class="article-item" data-category="产品动态">
-      <span class="article-rank">15</span>
+      <span class="article-rank">25</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -390,7 +661,122 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">16</span>
+      <span class="article-rank">26</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xth5cv/china_is_giving_ai_agents_digital_identities_but/" target="_blank" rel="noopener">中国为AI代理赋予数字身份，如何确保合规？</a>
+          <div class="article-title-original">China is giving AI agents digital identities. But how do you make sure they follow the rules?</div>
+          
+        </div>
+        
+        <p class="article-summary">中国于2026年推出新标准，规范AI代理在身份标识、通信及服务访问等方面的行为，并涉及权限管理问题，引发对实际执行效果的探讨。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-11-11T13:01:03+00:00" title="2026-11-11 21:01"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">27</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xtgicu/fortinet_patches_nearly_100_vulnerabilities_after/" target="_blank" rel="noopener">Fortinet在安全测试中引入AI模型后修复近百个漏洞</a>
+          <div class="article-title-original">Fortinet patches nearly 100 vulnerabilities after adding AI models to security testing</div>
+          
+        </div>
+        
+        <p class="article-summary">Fortinet通过将AI模型纳入安全测试流程，成功发现并修复了近100个软件漏洞，展示了人工智能在网络安全漏洞挖掘领域的应用潜力。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-11-11T12:29:21+00:00" title="2026-11-11 20:29"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="开源项目">
+      <span class="article-rank">28</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/" target="_blank" rel="noopener">开发者构建10年CoRL论文探索工具，收录超2100篇</a>
+          <div class="article-title-original">I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]</div>
+          
+        </div>
+        
+        <p class="article-summary">一位开发者创建了一个覆盖2017至2026年机器人学习顶会CoRL的论文浏览器，提供摘要、代码链接和研究趋势等功能。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">开源项目</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-11T21:42:54+00:00" title="2026-11-12 05:42"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="研究论文">
+      <span class="article-rank">29</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xtuiq3/blind_test_of_32_elevenlabs_voice_library_voices/" target="_blank" rel="noopener">盲测显示ElevenLabs专业语音并不优于即时克隆</a>
+          <div class="article-title-original">Blind test of 32 ElevenLabs Voice Library voices for audiobooks (125 paid listeners, 1,122 judgments): &#34;professional&#34; voices no better than instant clones, popularity predicts nothing, louder voices win</div>
+          
+        </div>
+        
+        <p class="article-summary">一项涉及125名付费听众的盲测发现，在有声书配音中，ElevenLabs的专业语音库效果与即时克隆语音无显著差异，声音响度反成优势。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">研究论文</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-11T21:40:13+00:00" title="2026-11-12 05:40"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="开源项目">
+      <span class="article-rank">30</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xtrkqh/github_tailotlingologos_grammardriven_engine_for/" target="_blank" rel="noopener">GitHub - tailot/LingoLOGOS：用于语言分析和生成的语法驱动引擎</a>
+          <div class="article-title-original">GitHub - tailot/LingoLOGOS: Grammar-driven engine for language analysis and generation IA or/and chip/s</div>
+          
+        </div>
+        
+        <p class="article-summary">一个名为LingoLOGOS的语法驱动引擎开源项目，旨在进行语言分析和生成，可能与AI或芯片相关。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">开源项目</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-11T19:44:40+00:00" title="2026-11-12 03:44"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">31</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -412,31 +798,8 @@
       </div>
     </li>
     
-    <li class="article-item" data-category="行业政策">
-      <span class="article-rank">17</span>
-      <div class="article-content">
-        <div class="article-title">
-          
-          <a href="https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/" target="_blank" rel="noopener">黄仁勋的负面行为是否比表面看起来更普遍？</a>
-          <div class="article-title-original">Is Jensen Huang’s bad behavior more commonplace than it seems?</div>
-          
-        </div>
-        
-        <p class="article-summary">一位投资情报顾问指出，行业内许多资深人士知晓并默许类似黄仁勋的不当行为，引发对行业文化问题的讨论。</p>
-        
-        <div class="article-meta">
-          <span class="source-badge">TechCrunch AI</span>
-          <span class="tag">行业政策</span>
-          
-          <span class="stars">★★☆☆☆</span>
-          <time class="article-time" datetime="2026-11-11T16:16:07+00:00" title="2026-11-12 00:16"></time>
-        </div>
-        
-      </div>
-    </li>
-    
     <li class="article-item" data-category="技术教程">
-      <span class="article-rank">18</span>
+      <span class="article-rank">32</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -459,7 +822,7 @@
     </li>
     
     <li class="article-item" data-category="行业政策">
-      <span class="article-rank">19</span>
+      <span class="article-rank">33</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -482,7 +845,7 @@
     </li>
     
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">20</span>
+      <span class="article-rank">34</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -505,7 +868,7 @@
     </li>
     
     <li class="article-item" data-category="研究论文">
-      <span class="article-rank">21</span>
+      <span class="article-rank">35</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -528,7 +891,53 @@
     </li>
     
     <li class="article-item" data-category="技术教程">
-      <span class="article-rank">22</span>
+      <span class="article-rank">36</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xtvnd2/when_a_deadline_is_missed_how_do_you_rebuild_the/" target="_blank" rel="noopener">当错过截止日期时，如何重建交割时间表？</a>
+          <div class="article-title-original">When a deadline is missed, how do you rebuild the closing timeline</div>
+          
+        </div>
+        
+        <p class="article-summary">一篇关于项目管理中如何应对错过截止日期的讨论帖，涉及房地产交易中的检查、融资等环节的时间表重建方法。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">技术教程</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-11-11T22:25:50+00:00" title="2026-11-12 06:25"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">37</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.reddit.com/r/artificial/comments/1xtrouh/ai_which_has_no_restrictions/" target="_blank" rel="noopener">有没有没有任何限制的AI？</a>
+          <div class="article-title-original">AI which has no restrictions??</div>
+          
+        </div>
+        
+        <p class="article-summary">用户发帖询问是否存在一个没有任何限制、能完全满足其好奇心的AI。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Reddit AI</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★☆☆☆☆</span>
+          <time class="article-time" datetime="2026-11-11T19:49:06+00:00" title="2026-11-12 03:49"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="技术教程">
+      <span class="article-rank">38</span>
       <div class="article-content">
         <div class="article-title">
           
@@ -551,7 +960,7 @@
     </li>
     
     <li class="article-item" data-category="产品动态">
-      <span class="article-rank">23</span>
+      <span class="article-rank">39</span>
       <div class="article-content">
         <div class="article-title">
           
