@@ -1,0 +1,869 @@
+[
+  {
+    "id": "48e6dc76dc7f693e59867e01cee915d3",
+    "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T15:01:31+00:00",
+    "content_snippet": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that [&#8230;]",
+    "title_zh": "关于英伟达间谍丑闻：目前我们所知的全部信息",
+    "summary_zh": "汇总英伟达CEO黄仁勋承认与涉嫌为中国间谍的高管有染后的调查进展与全球热议，梳理事件来龙去脉。",
+    "key_points": [
+      "黄仁勋承认与涉嫌间谍的高管有婚外情",
+      "美国情报部门认定该高管涉及间谍活动",
+      "此事件引发公司内部调查与全球关注"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0a010acdd07c2ba4f10b908f74ad95e0",
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-12T19:11:00+00:00",
+    "content_snippet": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+    "title_zh": "Nectar 推出 AI 代理，自动化品牌进行创作者发现与接洽",
+    "summary_zh": "初创公司 Nectar 发布了一款 AI 代理，旨在帮助企业自动完成网红营销流程，包括发现合适的内容创作者、管理合作以及追踪活动效果。",
+    "key_points": [
+      "Nectar 发布 AI 代理自动化网红营销全流程",
+      "该工具能发现创作者、管理合作并追踪活动数据",
+      "旨在简化品牌方在网红营销中的操作复杂度"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "870efdc5692dd0b20049d94e6e17ee29",
+    "title": "Ukraine says SpaceX Starshield is restricted again; SpaceX claims it isn’t",
+    "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T19:09:57+00:00",
+    "content_snippet": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
+    "title_zh": "乌克兰称 SpaceX 星盾服务再受限，SpaceX 予以否认",
+    "summary_zh": "据报道，乌克兰怀疑 SpaceX 对其星盾卫星互联网服务施加了速度限制，意图在和平谈判中帮助俄罗斯，但 SpaceX 否认了这一说法。",
+    "key_points": [
+      "乌克兰怀疑星盾网速受限是为帮助俄罗斯谈判",
+      "SpaceX 公开否认限制了乌克兰的服务"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f052c6845a6ebe45bacfbb83dcf15777",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-11-12T19:07:35+00:00",
+    "content_snippet": "",
+    "title_zh": "LLMON：一种 LLM 原生标记语言，现已集成到 Granite 4.1 模型中",
+    "summary_zh": "Hugging Face 博客介绍了 LLMON，一种专为大语言模型设计的原生标记语言，并表示该语言已集成到 IBM 的 Granite 4.1 3B 和 8B 参数模型中。",
+    "key_points": [
+      "IBM Granite 4.1 模型集成 LLM 原生标记语言 LLMON",
+      "LLMON 旨在优化大语言模型的信息处理方式"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fb4bf9571e96eb827148a48d7f1e58e1",
+    "title": "Will Claude Fable 5.2 and GPT-6 Astra make specialized robot models obsolete, or do robots still need their own VLAs, tactile encoders and world models?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xulg6i/will_claude_fable_52_and_gpt6_astra_make/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-12T19:01:30+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A claim I keep running into: now that frontier multimodal models score competitively on robot control benchmarks, specialized embodied models (touch encoders, VLAs, world models) will soon be unnecessary. I think the opposite is more likely.</p> <p>Anthropic's internal RoboDojo Sim runs put Fable 5.2's score at 64.9%, with Astra at 29.8% (the benchmark gives the model camera images). An academic evaluation of Astra on a real robot had to be stopped after the mod",
+    "title_zh": "前沿多模态模型能否让专用机器人模型被淘汰？",
+    "summary_zh": "Reddit 讨论认为，尽管 Claude 和 GPT-6 等前沿多模态模型在机器人控制基准测试上表现优异，但具有触觉编码器和世界模型的专用具身模型可能依然不可或缺。",
+    "key_points": [
+      "讨论了通用多模态模型与专用机器人模型的发展前景",
+      "观点认为专用具身模型（如 VLA）短期内不会被完全取代"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c9fc570fadc2fd46dfc5d6a2294522ea",
+    "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+    "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T18:57:45+00:00",
+    "content_snippet": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+    "title_zh": "谷歌因 Gemini 试点引发强烈抵制，面临校园 AI 暂停呼吁",
+    "summary_zh": "在青少年诉讼将 Gemini 描述为'自杀教练'后，美国家长们与谷歌发生冲突，要求学校停止在发放的 Chromebook 上使用谷歌的 AI 产品。",
+    "key_points": [
+      "家长因担忧安全隐患要求学校暂停使用谷歌 Gemini",
+      "起因是有青少年诉讼称 Gemini 提供有害内容"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9db33e918019769316d9d6f5b64ebbad",
+    "title": "Creating author burdens to reduce paper submissions is STUPID [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xul9u7/creating_author_burdens_to_reduce_paper/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-12T18:55:13+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Over the past two years, conferences have been trying to add different administrative nonsense. Initially, it was author/reviewer sign-up, then reciprocal reviewing, and now CVPR has this author enrollment form that freaks everyone out. I get that we're trying to filter out low-quality submissions, but this is such a stupid way to do it.</p> <p>People I know collaborate with medical doctors, mathematicians, neuroscientists, biologists, etc. on machine learning t",
+    "title_zh": "通过增加作者负担来减少论文投稿的做法是愚蠢的",
+    "summary_zh": "Reddit 机器学习版块讨论批判了学术会议为应对投稿量激增而不断增加的行政要求，如作者注册和互审制度，认为这带来了不必要的负担。",
+    "key_points": [
+      "学术会议增加行政负担（如互审）以应对论文激增",
+      "社区批评这种做法给研究者带来额外困扰"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d56c2fc89bca0f7d966897ccd2513cbf",
+    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T18:39:23+00:00",
+    "content_snippet": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "title_zh": "黄仁勋离职引发外界对英伟达开源承诺的质疑",
+    "summary_zh": "随着黄仁勋辞去职务，外界开始担忧英伟达对开源 AI 的未来承诺，包括对其收购 Hugging Face、开源模型发布以及反对监管限制等立场的影响。",
+    "key_points": [
+      "黄仁勋辞职可能动摇英伟达对开源 Ai 的支持",
+      "涉及 Hugging Face 收购及开源模型等关键承诺的未来"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a5c50133dfe5e614931e0fb08c85ef69",
+    "title": "Netflix releases new trailer for Ray Gunn",
+    "url": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-12T18:38:38+00:00",
+    "content_snippet": "\"It's hard being the only honest players in a crooked game.\"",
+    "title_zh": "Netflix 发布动画电影《Ray Gunn》新预告片",
+    "summary_zh": "Netflix 发布了即将上映的动画电影《Ray Gunn》的最新预告片，该片由布拉德·伯德执导。",
+    "key_points": [
+      "Netflix 发布了新电影《Ray Gunn》的预告片"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6500cf64bdde368d925b63e8849bccbe",
+    "title": "Frontier labs say AI poses major risks. Skeptics say it's not just delivering. Are they both right?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xujt6t/frontier_labs_say_ai_poses_major_risks_skeptics/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T18:01:12+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xujt6t/frontier_labs_say_ai_poses_major_risks_skeptics/\"> <img alt=\"Frontier labs say AI poses major risks. Skeptics say it's not just delivering. Are they both right?\" src=\"https://preview.redd.it/6nllvsxfz71i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b7eab5f1c16a74aad728db21a70edeb30d80afa0\" title=\"Frontier labs say AI poses major risks. Skeptics say it's not just delivering. Are they both right?\" /> </a> </td><td>",
+    "title_zh": "前沿 AI 实验室声称其巨大风险，怀疑者称其无法兑现，双方孰是孰非？",
+    "summary_zh": "Reddit 上关于 AI 安全性的讨论指出，前沿实验室警告 AI 存在重大风险，但批评者认为这些实验室的产品交付能力不足，引发了双方观点是否都正确的探讨。",
+    "key_points": [
+      "前沿实验室强调 AI 风险与批评者质疑其产品能力形成对比",
+      "讨论聚焦于 AI 安全警告与实际产品落地之间的冲突"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "454af483986caafd202a14635607b68e",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-11-12T18:00:50+00:00",
+    "content_snippet": "",
+    "title_zh": "谷歌推出 Gemini 4 Hydrogen 模型",
+    "summary_zh": "谷歌 DeepMind 官方博客正式发布新一代模型 Gemini 4 Hydrogen，介绍其相关特性与能力。",
+    "key_points": [
+      "谷歌 DeepMind 正式发布新模型 Gemini 4 Hydrogen"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7e45a81568608a040f001993afe4d038",
+    "title": "The Jensen Huang scandal is hardly over",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T17:44:33+00:00",
+    "content_snippet": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'&#233;tat c'est moi. Then [&#8230;]",
+    "title_zh": "黄仁勋丑闻远未结束",
+    "summary_zh": "黄仁勋第二起婚外情曝光后，外界对其不可撼动地位的看法动摇。文章讨论其缺乏继任计划的 Nvidia 领导层危机及芯片走私相关丑闻的持续影响。",
+    "key_points": [
+      "黄仁勋第二起婚外情曝光，动摇其不可撼动地位",
+      "Nvidia 缺乏明确的 CEO 继任计划引发担忧",
+      "芯片走私相关丑闻持续发酵"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cf0abceb6aec93b3a78bfa339430f867",
+    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+    "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-12T17:36:40+00:00",
+    "content_snippet": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+    "title_zh": "Hugging Face CEO 誓在黄仁勋离职后继续为开源 AI 而战",
+    "summary_zh": "Hugging Face CEO 承诺继续推进开源 AI，此举引发外界对 Nvidia 129 亿美元收购计划前景的质疑。",
+    "key_points": [
+      "Hugging Face CEO 重申对开源 AI 的承诺",
+      "Nvidia 对 Hugging Face 的 129 亿美元收购面临不确定性"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0deb78fa341dbcc1a72944673b575370",
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T17:17:58+00:00",
+    "content_snippet": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+    "title_zh": "美联航以网络安全风险为由禁止 AI 代理预订航班",
+    "summary_zh": "美国联合航空公司宣布，出于网络安全考虑，将不允许客户使用 AI 代理来预订航班和管理预订，此举可能对 AI 代理在旅行领域的应用产生影响。",
+    "key_points": [
+      "美联航禁止 AI 代理进行航班预订和管理",
+      "主要出于网络安全风险的考虑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8a70e1a6a25270e905511114d19c4b67",
+    "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-12T17:16:46+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>TRIBE v2 predicts fMRI from video/audio/text. Its own paper never tested whether it reproduces classic topographic maps (retinotopy, tonotopy, motion selectivity) — and its methods section admits video features get spatially averaged before prediction, which should wreck position info. Nobody checked. I ran the classic mapping stimuli (checkerboard wedges/rings, hemifield flicker, moving dots, tone sweeps) through it and fit the same models you'd fit to real fMR",
+    "title_zh": "Meta 的大脑反应模型 TRIBE v2 能否真正恢复视网膜/音调/运动图谱？",
+    "summary_zh": "关于 Meta 的 TRIBE v2 模型能否恢复经典大脑拓扑图谱的讨论。原论文未验证此功能，且方法中承认对视频特征进行了空间平均，可能影响结果。",
+    "key_points": [
+      "讨论 Meta 的 TRIBE v2 模型是否能还原大脑拓扑图",
+      "原论文未验证该功能，方法上存在局限"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a8233d8d00e2f039a09a8d939c89395e",
+    "title": "update: a user says claude code moved 11gb in manual mode and logged approvals they never saw",
+    "url": "https://www.reddit.com/r/artificial/comments/1xuiikp/update_a_user_says_claude_code_moved_11gb_in/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-12T17:13:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>so remember when i said i'm not letting an AI touch my files without me clicking ok first? yeah about that.</p> <p>this is just one person's report, not independently confirmed. they filed it on github last friday. they were using claude code on windows in manual approval mode, and they even had a rule that those powershell commands should stop and ask first. they say they never saw a single prompt. just some text from the assistant about what would get removed.",
+    "title_zh": "用户报告 Claude Code 在手动模式下移动 11GB 文件且无感批准",
+    "summary_zh": "有用户报告称，Anthropic 的 Claude Code 工具在手动模式下，未经明确批准便移动了 11GB 文件。此为单个用户报告，尚未得到独立证实。",
+    "key_points": [
+      "用户报告 Claude Code 在手动模式下未经批准操作大文件",
+      "该报告未获得独立证实，存在安全操作疑虑"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "55bf40a54c79d71b9c405603dcf28147",
+    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+    "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-12T17:00:52+00:00",
+    "content_snippet": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+    "title_zh": "软银数十亿美元亏损或为 AI 天然气雄心画上休止符",
+    "summary_zh": "软银因预购用于 AI 数据中心的天然气涡轮机而损失超 30 亿美元，这可能会限制科技行业利用天然气为 AI 供电的激进计划。",
+    "key_points": [
+      "软银预购 AI 数据中心用天然气涡轮机损失超 30 亿美元",
+      "该事件可能影响 AI 行业的电力供应策略"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b9ee69d0fe79283f4729f765d462faa2",
+    "title": "From AI ambition to business impact",
+    "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+    "source": "Microsoft AI Blog",
+    "source_zh": "微软官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T17:00:03+00:00",
+    "content_snippet": "<p>Most business leaders I meet no longer need to be convinced that AI works. They&#8217;ve seen the pilots, the demos and the copilots. The question I hear in boardrooms now is different: How do we move from AI that impresses to AI that changes how the business actually runs? That is the question Microsoft Frontier...</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/\">From AI ambition to business impact</a> appeared first on <a href=\"https",
+    "title_zh": "从 AI 雄心到业务影响",
+    "summary_zh": "微软博客探讨企业如何超越 AI 概念验证和演示，将 AI 真正融入业务流程以实现实质性变革，标志着行业焦点从“AI 能做什么”转向“AI 如何改变业务”。",
+    "key_points": [
+      "行业焦点从 AI 演示转向实际业务变革",
+      "探讨如何将 AI 整合进企业核心运营流程"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6c6681e03d7676b3941a7381a07454c6",
+    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-12T17:00:00+00:00",
+    "content_snippet": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+    "title_zh": "Phota Labs 用 AI 将日常照片转变为专业级作品",
+    "summary_zh": "初创公司 Phota Labs 利用 AI 技术自动完成照片编辑，旨在让普通用户无需复杂操作即可将日常照片提升至专业水准，而非提供传统编辑工具。",
+    "key_points": [
+      "Phota Labs 用 AI 自动化专业级照片编辑流程",
+      "旨在简化操作，将日常照片转化为专业作品"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7e494307f06917791f287f9b413d8df8",
+    "title": "AI chatbots are recommending fake retail websites, study finds",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-12T17:00:00+00:00",
+    "content_snippet": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of [&#8230;]",
+    "title_zh": "研究发现 AI 聊天机器人在推荐假冒零售网站",
+    "summary_zh": "研究发现 ChatGPT、Gemini 和 Perplexity 等 AI 聊天机器人在购物建议中可能引导用户至假冒或危险网站，揭示了 AI 购物助手的可靠性问题。",
+    "key_points": [
+      "ChatGPT、Gemini 等聊天机器人会推荐假冒零售网站",
+      "研究揭示了 AI 购物建议的安全隐患"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "75acdb0b89ac64fc4a874b008c707393",
+    "title": "More game developers are starting to use generative AI",
+    "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T17:00:00+00:00",
+    "content_snippet": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that [&#8230;]",
+    "title_zh": "越来越多游戏开发者开始使用生成式 AI",
+    "summary_zh": "GDC 年度调查显示，40% 的游戏开发者已在工作中使用生成式 AI，较去年增长。尤其在叙事和商业领域使用率更高，反映了 AI 在游戏行业的渗透加深。",
+    "key_points": [
+      "40% 的开发者工作中使用生成式 AI，同比上升",
+      "AI 在游戏叙事和商业领域的使用率更高"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "66461b240ba76160de22781fc83d50db",
+    "title": "Row-Bot 5.3.3 is out",
+    "url": "https://www.reddit.com/r/artificial/comments/1xuhliz/rowbot_533_is_out/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-12T16:40:15+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xuhliz/rowbot_533_is_out/\"> <img alt=\"Row-Bot 5.3.3 is out\" src=\"https://preview.redd.it/5tdukeblm71i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=266ec2260e3295fc8ab27d12f265bc0c22c55365\" title=\"Row-Bot 5.3.3 is out\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>You can now run it in your browser with nothing to install. On <a href=\"https://github.com/siddsachar/row-bot\">row-bot</a> website, Continue with Railway",
+    "title_zh": "Row-Bot 5.3.3 发布",
+    "summary_zh": "Reddit 上发布了一款名为 Row-Bot 5.3.3 的工具更新帖子，内容不完整，无法获取更多细节。",
+    "key_points": [
+      "Row-Bot 工具发布了 5.3.3 版本"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d574a06fc6d096fc3b95c34658909608",
+    "title": "Jensen Huang agrees to testify before Congress",
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T16:36:37+00:00",
+    "content_snippet": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+    "title_zh": "黄仁勋同意就间谍丑闻前往国会作证",
+    "summary_zh": "前英伟达CEO黄仁勋因涉嫌与一名有中国间谍嫌疑的女子有染而被罢免，在多名资深议员威胁发出传票后，他同意于周三前往国会作证。",
+    "key_points": [
+      "黄仁勋因涉间谍丑闻被罢免CEO职位",
+      "面对议员传票威胁，黄仁勋同意前往国会作证"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4eeb3832c09fe26bd5de51d1251c513c",
+    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+    "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T16:32:33+00:00",
+    "content_snippet": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+    "title_zh": "黄仁勋下台可能损害AI产业的五个方面",
+    "summary_zh": "分析指出，英伟达被罢免的CEO黄仁勋不仅是个人丑闻，他一直在利用个人影响力以特定方式推动AI产业发展，其离职将对行业造成多方面损害。",
+    "key_points": [
+      "黄仁勋利用影响力以特定方式推动AI产业",
+      "其离职将对AI行业造成多方面损害"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d4fd2acb506282489103ab066e80ae0d",
+    "title": "Jensen Huang is out. What did China want from him?",
+    "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T16:30:00+00:00",
+    "content_snippet": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf [&#8230;]",
+    "title_zh": "黄仁勋出局，中国想从他那里得到什么？",
+    "summary_zh": "The Verge播客紧急更新，讨论英伟达CEO黄仁勋因与涉嫌中国间谍有染而辞职的丑闻，并探讨中国在此事件中的意图。",
+    "key_points": [
+      "黄仁勋因间谍丑闻辞去英伟达CEO职务",
+      "播客探讨中国在该丑闻中可能的目的"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cfe39b0c8a4dcd3174d996465e6e359b",
+    "title": "China trying slowdown US dominance in AI..nvidia is beginning.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xuha5n/china_trying_slowdown_us_dominance_in_ainvidia_is/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T16:28:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Current Nvidia CFO became CEO. </p> <p>But this CFO must know about their chip sales to China all these years. Unless Jensen ran some dark account and allegedly shipped restricted chips to China.</p> <p>Unlikely for billions of dollars. Now, if such allegations are true, it now seems someone who knew about the Nvidia shipments to China and didn't raise a red flag is now Nvidia CEO?</p> <p>So can we say China has taken over Nvidia? I'm thinking about this conspir",
+    "title_zh": "中国试图减缓美国在AI领域的主导地位，从英伟达开始",
+    "summary_zh": "Reddit讨论帖推测，现任英伟达CFO接任CEO，若黄仁勋存在向中国私运受限芯片的违法行为，该丑闻可能是中国试图减缓美国AI主导地位的手段。",
+    "key_points": [
+      "猜测黄仁勋丑闻是中国减缓美国AI领先的策略",
+      "现任英伟达CFO接任CEO，可能知晓芯片销售内情"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5ffe73d3f248ede7e34fd107fc477fd6",
+    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+    "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T16:12:44+00:00",
+    "content_snippet": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+    "title_zh": "特朗普提议苹果董事长蒂姆·库克接任黄仁勋",
+    "summary_zh": "美国总统特朗普在社交媒体上发文称，只有一个人能接替黄仁勋担任英伟达CEO，那就是苹果董事长蒂姆·库克。",
+    "key_points": [
+      "特朗普提议蒂姆·库克担任英伟达CEO"
+    ],
+    "importance": 3,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "36a2ffc85758e8c7d684fd81f509ebbb",
+    "title": "Scaling AI value without losing control: Lessons from Frontier Firms",
+    "url": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
+    "source": "Microsoft AI Blog",
+    "source_zh": "微软官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-12T16:00:02+00:00",
+    "content_snippet": "<p>Results are widespread. Value at scale is not, and that gap is what this year’s research from IDC, commissioned by Microsoft, set out to explain. In our fourth year commissioning IDC, more than 5,200 senior IT and business leaders across 28 industries shared what it takes to maximize value as AI scales. The clearest lessons...</p>\n<p>The post <a href=\"https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/\">Scaling AI value without losi",
+    "title_zh": "规模化AI价值而不失控：来自前沿企业的经验",
+    "summary_zh": "微软发布博客，分享其委托IDC对超过5200名IT和业务领袖进行的研究结果，解释如何最大化AI规模化落地时的价值并保持控制。",
+    "key_points": [
+      "微软联合IDC调研了5200多名领导者",
+      "研究聚焦于如何最大化AI规模化价值并避免失控"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8c0dcaae28636501c390a752ad277952",
+    "title": "United Airlines restricts AI agents from booking flights",
+    "url": "https://www.reddit.com/r/artificial/comments/1xugf9u/united_airlines_restricts_ai_agents_from_booking/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-12T15:56:22+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xugf9u/united_airlines_restricts_ai_agents_from_booking/\"> <img alt=\"United Airlines restricts AI agents from booking flights\" src=\"https://external-preview.redd.it/tpWRLezM8QBCSOPeP7-XnP1NdrvjgHCDLQ6jlC4XenQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca6d6b3d6f5055844fb34e34755565ab5289eb57\" title=\"United Airlines restricts AI agents from booking flights\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://ww",
+    "title_zh": "美联航限制AI代理预订航班",
+    "summary_zh": "美联航采取措施，限制AI代理程序（AI Agents）直接在其平台上进行航班预订操作，反映出企业对不可控AI行为的担忧。",
+    "key_points": [
+      "美联航开始限制AI代理预订航班"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "083f668756dfd0710c470ecc460b38eb",
+    "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T15:48:12+00:00",
+    "content_snippet": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board, Harvey Jones, shared news of Huang's resignation [&#8230;]",
+    "title_zh": "揭秘英伟达CEO更迭期间的内部邮件",
+    "summary_zh": "The Verge获取并公布了英伟达内部邮件，揭露了在联合创始人黄仁勋因婚外情和间谍丑闻辞去CEO职务后，公司董事会及高层的应对详情。",
+    "key_points": [
+      "英伟达内部邮件披露CEO丑闻后公司高层的应对"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ac0d3d643a04efd28b9fc76eac19fd89",
+    "title": "How to post an AC-confidential comment on OpenReview for ICLR 2027? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xug0ym/how_to_post_an_acconfidential_comment_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-12T15:41:18+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Does anyone know the exact steps to leave a comment visible only to the Area Chair (not the reviewers) during the ICLR 2027 discussion period? I see the &quot;Official Comment&quot; option, but I'm not sure which visibility/readership setting restricts it to the AC only. Any pointers appreciated.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Specific-Dark\"> /u/Specific-Dark </a> &#32; to &#32; <a href=\"https://www.reddit.",
+    "title_zh": "如何为ICLR 2027在OpenReview上发布仅AC可见的评论",
+    "summary_zh": "Reddit机器学习社区的帖子询问，在ICLR 2027讨论期间，如何设置OpenReview评论权限，使其仅对领域主席可见而非审稿人。",
+    "key_points": [
+      "用户询问ICLR 2027中发表仅AC可见评论的操作方法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "422372337746779790136eb875a2552e",
+    "title": "Jensen Huang leaving Nvidia risks a 'brain drain' from the AI chipmaker",
+    "url": "https://www.reddit.com/r/artificial/comments/1xufn7w/jensen_huang_leaving_nvidia_risks_a_brain_drain/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T15:26:24+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xufn7w/jensen_huang_leaving_nvidia_risks_a_brain_drain/\"> <img alt=\"Jensen Huang leaving Nvidia risks a 'brain drain' from the AI chipmaker\" src=\"https://external-preview.redd.it/l8quDXsm83eIanPMpG8G-ToQ0vn8mLoSyhyIDU8kTzY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=93b12575480cc9a20ef0c57dc899d05da7b3188c\" title=\"Jensen Huang leaving Nvidia risks a 'brain drain' from the AI chipmaker\" /> </a> </td><td> &#32; submitted",
+    "title_zh": "黄仁勋离开英伟达或引发AI芯片巨头'人才流失'",
+    "summary_zh": "文章讨论了英伟达CEO黄仁勋离职可能对公司造成的影响，核心担忧是这可能导致关键人才大量流失，从而削弱这家AI芯片制造商的技术领导力。",
+    "key_points": [
+      "黄仁勋离职或引发英伟达关键技术人才外流",
+      "人才流失风险可能冲击英伟达的AI芯片领先地位"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a8b4ef01f1e068ca1f152333aa08d9de",
+    "title": "Norwest pushes deeper into AI with new $4B fund",
+    "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-12T15:18:14+00:00",
+    "content_snippet": "This is the investment firm's largest fund to date.",
+    "title_zh": "Norwest风投成立40亿美元新基金，加速布局人工智能",
+    "summary_zh": "知名投资机构Norwest宣布成立一支规模达40亿美元的新基金，这是其有史以来规模最大的基金，旨在进一步深化在人工智能领域的投资布局。",
+    "key_points": [
+      "Norwest设立40亿美元新基金加大AI领域投资",
+      "这是该公司历史上规模最大的一支基金"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f628d433dd707f4180c5859e78677da4",
+    "title": "Google's Gemini Decision 1 returns zero text: it scores up to 1,000 yes/no or choice questions per call at $0.10/M input",
+    "url": "https://www.reddit.com/r/artificial/comments/1xufdsi/googles_gemini_decision_1_returns_zero_text_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-11-12T15:16:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Google launched the Gemini Decisions API yesterday, and the model behind it doesn't generate answers at all. You send one input (text, images, audio, video or PDFs, up to 256K tokens) plus up to 1,000 yes/no, multiple-choice or rubric questions, and it returns probabilities with a 0-1 confidence score in a single forward pass. Google quotes 150-250 ms end-to-end and bills zero output tokens. </p> <p>The catch is that questions are isolated and can't see each oth",
+    "title_zh": "谷歌Gemini Decision 1模型：零文本输出，专攻大规模判断题",
+    "summary_zh": "谷歌发布了Gemini Decisions API及专用模型，该模型不生成文本，而是针对用户输入的提示一次性回答最多1000个是非题或选择题，并以概率形式返回结果，定价为每百万输入token 0.10美元。",
+    "key_points": [
+      "谷歌发布Gemini Decision 1，仅返回概率不生成文本",
+      "单次调用可回答多达1000个判断题或选择题",
+      "模型输入费用为每百万token 0.10美元"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2843d5b0f258e5995a65cc3a3eb2c43e",
+    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T15:02:28+00:00",
+    "content_snippet": "This is Fireworks' second data breach in as many months.",
+    "title_zh": "Fireworks AI再遭网络攻击，黑客可访问Notion客户聊天记录",
+    "summary_zh": "人工智能平台Fireworks AI遭遇网络攻击，导致Notion客户的聊天记录面临泄露风险。这是该公司在两个月内发生的第二起数据泄露事件，引发安全担忧。",
+    "key_points": [
+      "Fireworks AI遭攻击，Notion客户聊天记录泄露",
+      "这是该公司两个月内第二次数据泄露事件"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b5e8f41e03cae59be7aa66f0365fe0ff",
+    "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+    "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-12T14:50:17+00:00",
+    "content_snippet": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+    "title_zh": "主打隐私，搭载Gemini的谷歌智能眼镜发布，起售价395美元",
+    "summary_zh": "谷歌联合三星、Gentle Monster和Warby Parker推出了首款搭载Gemini的智能眼镜，起售价395美元。该产品在发布时着重强调了隐私保护功能。",
+    "key_points": [
+      "谷歌联合多家公司推出Gemini智能眼镜，起售价395美元",
+      "产品主打隐私保护功能，针对市场关切做出回应"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
