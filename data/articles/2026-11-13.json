@@ -1163,5 +1163,153 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "372b4517a3bd82874c4eb917da4bb8be",
+    "title": "AI for beginners",
+    "url": "https://www.reddit.com/r/artificial/comments/1xuuh4n/ai_for_beginners/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-13T01:13:42+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><strong>What confused you most when you started learning AI?</strong><br /> I work in IT and kept finding explainers that assume you already know the jargon, so I’m writing an illustrated guide for complete beginners. Here’s one diagram from it: AI contains machine learning, which contains deep learning, and chatbots sit in a small corner. Does this explain it clearly, or would you change something? Happy to share more chapters if anyone’s interested.</p> </div>",
+    "title_zh": "AI初学者指南：从零开始理解人工智能",
+    "summary_zh": "一位IT从业者因现有AI学习资源专业术语过多，无法满足真正初学者的需求，决定编写一本面向零基础读者的图解指南。文章分享了其中一张说明AI包含关系的基础图表，并邀请社区分享学习困惑。",
+    "key_points": [
+      "初学者因学习材料充斥行话而难以入门，需要从零开始的引导",
+      "作者计划编写面向完全初学者的图解AI指南，并分享了一张概念图",
+      "文章旨在通过社区反馈了解AI学习者的常见困惑"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8f90ee80710e8de811a6099b3f064456",
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T22:42:51+00:00",
+    "content_snippet": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "title_zh": "民主党启动对英伟达调查，就黄仁勋与特朗普的“密谋”发出严厉信函",
+    "summary_zh": "美国民主党国会议员正式对英伟达展开调查，并致信公司CEO黄仁勋，质疑其与特朗普政府的交易以及向中国销售芯片的合规性，这是间谍事件曝光后的第二起调查。",
+    "key_points": [
+      "民主党国会对英伟达对华芯片销售及与特朗普政府交易启动调查",
+      "这是自英伟达涉嫌间谍事件新闻曝光后，发起的第二起相关调查",
+      "议员在信中严厉批评黄仁勋的"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "37feba6fef9d392ba57d04fe6daaa99c",
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T22:28:47+00:00",
+    "content_snippet": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+    "title_zh": "FAA 在全美空域推广 AI 工具以缓解空中交通拥堵",
+    "summary_zh": "美国联邦航空管理局（FAA）将其 AI 咨询工具扩展至全美空域，用于优化空中交通流量。虽然航空公司对该工具表示赞扬，但空中交通管制员工会表示未参与其开发过程。",
+    "key_points": [
+      "FAA 将 AI 工具推广至全美以管理空中交通拥堵",
+      "航空公司对该 AI 工具表示认可和赞扬",
+      "空中交通管制员工会未参与该 AI 系统的开发"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3896780f30628465e8c4b7e7bed7612e",
+    "title": "Muse can now place calls to US businesses — if you pay",
+    "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-12T22:22:28+00:00",
+    "content_snippet": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+    "title_zh": "Muse 现可向美国企业拨打电话——但需付费",
+    "summary_zh": "Muse 的人工智能助手新增了向美国企业拨打电话的功能，但该服务并非免费，用户需要付费才能使用。",
+    "key_points": [
+      "Muse AI 新增对美国企业的外拨电话功能",
+      "该功能为付费服务",
+      "旨在自动化处理与企业的通话任务"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eb8759c5368c2753f42fb76b04589388",
+    "title": "A United Nations survey last year found that as many as 80% of people in [China] support data center construction. At least two-thirds of Chinese people use AI in their day-to-day life, as many embrace the technology and the infrastructure behind it",
+    "url": "https://www.reddit.com/r/artificial/comments/1xuqml7/a_united_nations_survey_last_year_found_that_as/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-12T22:22:20+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xuqml7/a_united_nations_survey_last_year_found_that_as/\"> <img alt=\"A United Nations survey last year found that as many as 80% of people in [China] support data center construction. At least two-thirds of Chinese people use AI in their day-to-day life, as many embrace the technology and the infrastructure behind it\" src=\"https://external-preview.redd.it/lQBSZ9gPDMiiEzNuN9o4sjjuFI9kxtyhcS_tguOsdgw.png?width=640&amp;crop=smar",
+    "title_zh": "联合国调查显示八成中国人支持数据中心建设，三分之二日常使用AI",
+    "summary_zh": "一项联合国调查显示，高达80%的中国受访者支持数据中心建设，同时至少三分之二的中国人在日常生活中使用人工智能技术。调查反映了中国公众对AI基础设施的广泛接纳度。",
+    "key_points": [
+      "高达80%的中国受访者支持数据中心建设",
+      "至少三分之二的中国人在日常生活中使用AI",
+      "调查由联合国在去年进行，结果反映公众态度"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9a4263a4db8a225476288045ed1711e0",
+    "title": "Google’s new Gemini model is better at understanding complicated questions",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-11-12T21:55:32+00:00",
+    "content_snippet": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google [&#8230;]",
+    "title_zh": "谷歌新Gemini模型能更好地理解复杂问题",
+    "summary_zh": "谷歌发布Gemini 4 Hydrogen模型，该模型擅长分解包含多部分、难以理解的拼写错误或高度具体请求的复杂问题，并能逐一回答。",
+    "key_points": [
+      "新模型Gemini 4 Hydrogen擅长处理多部分和包含拼写错误的复杂提问",
+      "该模型能将复杂问题分解并逐一回应，提升回答的准确性和帮助性",
+      "此模型已开始上线可用"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
