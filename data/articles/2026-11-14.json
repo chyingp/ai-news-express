@@ -749,5 +749,56 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3bcb8ca81cbad6cd6d0d656f7520970c",
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T18:40:30+00:00",
+    "content_snippet": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+    "title_zh": "中国最强大的AI模型使用了被禁的英伟达芯片——嘿，Jensen！",
+    "summary_zh": "最新研究显示，中国最顶尖的AI模型是在被美国出口管制的英伟达芯片上训练出来的，这对限制政策效果提出了质疑。",
+    "key_points": [
+      "中国最先进AI模型被证实使用禁运的英伟达芯片训练",
+      "研究结果对美国芯片出口管制政策构成直接挑战",
+      "凸显高端芯片获取与AI竞争力之间的紧密联系"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia",
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "47fe10f34135b164b804ec3f9a5990e2",
+    "title": "Hugging Face just announced a new engine to run AI models locally",
+    "url": "https://www.reddit.com/r/artificial/comments/1xvfls3/hugging_face_just_announced_a_new_engine_to_run/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-13T18:27:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xvfls3/hugging_face_just_announced_a_new_engine_to_run/\"> <img alt=\"Hugging Face just announced a new engine to run AI models locally\" src=\"https://external-preview.redd.it/R39JXAZ22J9YrRAZVf6AEp-tYtO9zwg7bftDkTpOSSE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=983d9bd2d91e44131a306c3f105f7f0915de4656\" title=\"Hugging Face just announced a new engine to run AI models locally\" /> </a> </td><td> &#32; submitted by &#32; <a",
+    "title_zh": "Hugging Face发布新引擎，可在本地运行AI模型",
+    "summary_zh": "Hugging Face推出了一款新的本地AI模型运行引擎，旨在简化用户在个人设备上部署和使用大型语言模型的过程。",
+    "key_points": [
+      "Hugging Face发布新工具，推动AI模型在本地设备运行",
+      "该引擎旨在降低用户本地使用大模型的技术门槛",
+      "顺应隐私保护和本地推理需求增长的趋势"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
