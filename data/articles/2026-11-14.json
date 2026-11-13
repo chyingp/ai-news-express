@@ -1,0 +1,753 @@
+[
+  {
+    "id": "367fe4510d0db5a5c52fc49c41573e48",
+    "title": "so are robots just chatbots with arms now?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xve0b0/so_are_robots_just_chatbots_with_arms_now/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T17:28:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>every robot demo lately is an AI company saying their chatbot model can control a robot now. is that really all a robot is at this point, a chatbot with arms? or is there other stuff inside doing the hard part and the chatbot just gets the credit. i saw LingBot-Touch is a whole separate model just so the fingers can feel things, so it can't be that simple. genuinely confused how these things are put together</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a h",
+    "title_zh": "机器人现在就是带胳膊的聊天机器人吗？",
+    "summary_zh": "用户质疑当下的机器人演示是否仅仅是将聊天机器人模型装上机械臂，探讨机器人系统中除AI模型外其他组件的作用，以及聊天机器人是否获得了过高赞誉。",
+    "key_points": [
+      "近期机器人演示多由AI公司主导，宣称用聊天模型控制硬件",
+      "质疑机器人是否仅为‘带胳膊的聊天机器人’，其他硬件系统作用被忽视"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "337e29b8dbde16c2fb2434720297c657",
+    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+    "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T17:25:45+00:00",
+    "content_snippet": "Researcher traces a path from AI reward hacking to potential human extinction.",
+    "title_zh": "OpenAI董事会成员担忧AI‘接管’社会可能仅数月之遥",
+    "summary_zh": "OpenAI董事会成员警告称，AI奖励黑客行为可能演变成对人类生存的威胁，社会被AI接管的局面可能在数月内成为现实，引发对AI风险的深切担忧。",
+    "key_points": [
+      "OpenAI董事会成员警告AI接管社会可能仅需数月",
+      "研究追溯了从AI奖励黑客到人类灭绝的潜在路径"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d5083a64bf042525d54cc72d7c23bc49",
+    "title": "Scaling to 1T MoE on TorchTitan [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-13T16:28:36+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone!</p> <p>Over the last few months we've been in the trenches with the TorchTitan and PyTorch maintainers, trying to find out how far GH200 (the GPUs inside the JUPITER supercomputer) can be pushed. Short answer: far enough to train a ~1T-parameter MoE at ~1,300 tokens/s per GPU on 384 GPUs. That's 14X where we started, and our starting point was, let's say, humbling.</p> <p>Along the way we collected a handful of lessons. If you've ever trained a big ",
+    "title_zh": "在TorchTitan上将MoE扩展至万亿参数",
+    "summary_zh": "研究团队与TorchTitan及PyTorch维护者合作，在JUPITER超算的GH200 GPU上成功训练了约1万亿参数的混合专家（MoE）模型，展示了大规模训练的可行性。",
+    "key_points": [
+      "在JUPITER超算GH200 GPU上训练约1万亿参数MoE模型",
+      "与TorchTitan及PyTorch团队合作验证大规模训练极限"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cc5bf82c102acb68e2fff504824fdbae",
+    "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+    "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-13T16:26:32+00:00",
+    "content_snippet": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+    "title_zh": "不满研究人员公开Windows零日漏洞，黑客可获取系统权限",
+    "summary_zh": "名为‘SignDrop’的零日漏洞被一名心怀不满的研究人员公开，该漏洞允许本地用户获得最高系统权限，给Windows用户带来严重安全风险。",
+    "key_points": [
+      "‘SignDrop’零日漏洞允许本地用户获取系统最高权限",
+      "漏洞由不满研究人员公开，致使黑客有机可乘"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a89e405114485a54eebb7af48bbc58a9",
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-13T16:00:12+00:00",
+    "content_snippet": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+    "title_zh": "ChatGPT新推出钱包功能，让AI代理为您购物结账",
+    "summary_zh": "ChatGPT推出Wallet功能，允许AI代理代表用户进行购物和结账，首批向美国Pro订阅用户开放，标志着AI代理在电商领域的新应用。",
+    "key_points": [
+      "ChatGPT Wallet让AI代理能代表用户购物和结账",
+      "功能率先向美国Pro订阅用户限量推出"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9c558a7ae32683ab3cf9a7817f60729c",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T15:58:00+00:00",
+    "content_snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "title_zh": "黄仁勋丑闻时间线：一场震动AI界的风波",
+    "summary_zh": "英伟达CEO黄仁勋因婚外情丑闻辞职，该事件可能因地缘政治背景而波及国家安全，在中美AI基础设施竞争加剧之际引发广泛关注。",
+    "key_points": [
+      "黄仁勋因与涉嫌中国间谍的婚外情从英伟达辞职",
+      "事件可能对中美AI竞争下的国家安全产生重大影响"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "37c9a41c80204b95173b90f79a79e2d2",
+    "title": "Claude blocked my account",
+    "url": "https://www.reddit.com/r/artificial/comments/1xvba6a/claude_blocked_my_account/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T15:47:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Claude blocked my account because of my nationality...</p> <p>I love fable because I benefit a lot from it </p> <p>I really wanna pass that verification procedure... But i failed</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Haunting-Hand1007\"> /u/Haunting-Hand1007 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xvba6",
+    "title_zh": "Claude因国籍问题封锁用户账号",
+    "summary_zh": "一名Reddit用户声称，其Claude账号因国籍原因被Anthropic封锁，尽管尝试验证但最终失败，引发对AI服务地域限制的讨论。",
+    "key_points": [
+      "用户称Claude因其国籍封锁账号，验证失败",
+      "事件引发对AI服务地域可访问性限制的关注"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "79d13e040f6ebd30a578bf9ebf7223ef",
+    "title": "Introducing ChatGPT Wallet",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-13T15:00:00+00:00",
+    "content_snippet": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "title_zh": "OpenAI推出ChatGPT Wallet功能",
+    "summary_zh": "OpenAI官方宣布推出ChatGPT Wallet，为ChatGPT Work、Codex和dots中的AI代理提供安全的购买方式，需用户批准并使用现有卡保护措施。",
+    "key_points": [
+      "ChatGPT Wallet为AI代理提供安全购物渠道",
+      "涵盖ChatGPT Work、Codex和dots，需用户批准支付"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3ca895f2a51c7df93a42e23a227cdd1c",
+    "title": "What&#8217;s really at stake in the Jensen Huang saga",
+    "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T14:47:16+00:00",
+    "content_snippet": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness [&#8230;]",
+    "title_zh": "黄仁勋事件背后真正利害关系",
+    "summary_zh": "随着黄仁勋辞去英伟达CEO职务，外界关注点转向更深层问题：英伟达在华业务、美国政府调查以及AI地缘政治竞争的未来走向。",
+    "key_points": [
+      "黄仁勋辞职后，视线转向英伟达的涉华业务",
+      "事件涉及美国政府调查与AI地缘政治竞争"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c6494705d362bbaf4899b43b4892e671",
+    "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+    "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-13T14:44:48+00:00",
+    "content_snippet": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+    "title_zh": "ElevenLabs新应用整合会议笔记与团队听写功能",
+    "summary_zh": "ElevenLabs推出面向团队和企业的新应用ElevenAI，将会议记录与语音听写功能相结合，旨在提升办公协作效率。",
+    "key_points": [
+      "ElevenLabs新应用融合会议笔记与听写功能",
+      "产品面向团队和企业用户，提升会议效率"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6c91e2c4a5e474dd237ea3332e6a0e64",
+    "title": "Entre ChatGptPro | GeminiPro | CloudePro",
+    "url": "https://www.reddit.com/r/artificial/comments/1xv8yck/entre_chatgptpro_geminipro_cloudepro/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-13T14:13:24+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Cuál de los 3 me recomiendan para generar un plan de contenido para Instagram y redes sociales? ¿Cuál creen que es la mejor forma de generar el promt? </p> <p>Muchas gracias </p> <p>Saludos </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Deep-Emotion-2089\"> /u/Deep-Emotion-2089 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/com",
+    "title_zh": "ChatGPT Pro、Gemini Pro 与 Claude Pro 对比：社交媒体内容规划哪个更优？",
+    "summary_zh": "一位 Reddit 用户就 ChatGPT Pro、Gemini Pro 和 Claude Pro 三者之中，哪一个更适合生成 Instagram 及社交媒体内容计划寻求社区推荐，并询问如何最佳地构建提示词。",
+    "key_points": [
+      "用户咨询三大付费AI工具在社交媒体内容规划上的优劣",
+      "核心诉求是比较内容生成效果与最佳提示词构建方法"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "google",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1f76189be1eacadc04ed519961f68f73",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "source": "Hugging Face Blog",
+    "source_zh": "Hugging Face 博客",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-13T14:05:22+00:00",
+    "content_snippet": "",
+    "title_zh": "llama.cpp v1.0.0 发布：为本地 AI 生态打造更坚实的基础",
+    "summary_zh": "llama.cpp 正式发布 v1.0.0 版本。该版本致力于为本地人工智能生态系统提供一个更强大、更稳定的基础，标志着项目的重要里程碑。",
+    "key_points": [
+      "llama.cpp 发布 v1.0.0 正式版，强化本地AI运行基础",
+      "新版本旨在提升稳定性与性能，巩固其在开源社区的核心地位"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2c7a6e6b19ce61f9d30efb428e588292",
+    "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-13T14:00:00+00:00",
+    "content_snippet": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple [&#8230;]",
+    "title_zh": "Anthropic的Claude Duet智能体：有点神经质但出奇地有用",
+    "summary_zh": "The Verge 对 Anthropic 的消费级 AI 智能体 Claude Duet 进行了上手评测。该智能体会主动提供帮助，虽然行为略显古怪，但旨在向普通用户证明 AI 智能体的实用性。",
+    "key_points": [
+      "Anthropic 推出面向消费者的 AI 智能体 Claude Duet",
+      "智能体在测试中展现神经质特质，却意外地能够提供帮助",
+      "产品旨在向非编程用户展示 AI 智能体的生活辅助价值"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2f156a26578b5bc10135f6f8e988593f",
+    "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+    "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T13:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries&#8230;",
+    "title_zh": "今日下载：硅谷的盲点与英伟达的芯片追踪计划",
+    "summary_zh": "MIT Technology Review 的每日通讯探讨了两个话题：硅谷为何对中期选举预测出现严重偏差，以及英伟达推出的芯片追踪计划，以防止其芯片被用于受限用途。",
+    "key_points": [
+      "文章反思硅谷在中期选举预测上的集体误判与认知盲点",
+      "介绍英伟达为管控芯片流向而启动的全新追踪计划"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "19847bef1f46370cb4ed6afbef1bc801",
+    "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+    "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T13:00:42+00:00",
+    "content_snippet": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients.  Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI [&#8230;]",
+    "title_zh": "AI 如何帮助护理团队让患者更快获得正确治疗",
+    "summary_zh": "英伟达博客文章展示了 AI 在医疗领域的应用，包括儿科研究、智慧医院建设等。AI 正协助护理团队减少文书工作，腾出更多时间专注于患者护理，并优化临床试验匹配。",
+    "key_points": [
+      "AI 应用于临床试验匹配、影像诊断及医院运营以减轻医护人员负担",
+      "通过自动化常规任务，AI 使护理团队能更早地为患者提供精准治疗"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "eac079c142ed1396f3f2b848cb31aa2d",
+    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+    "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-13T12:52:19+00:00",
+    "content_snippet": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+    "title_zh": "以色列风投在英伟达动荡中看到挑战者的机遇",
+    "summary_zh": "鉴于英伟达在 AI 领域的垄断地位及其在以色列的重要性，其近期内部动荡引发担忧。但以色列风险投资机构认为，这同时为当地的 AI 芯片初创挑战者带来了新的市场机遇。",
+    "key_points": [
+      "英伟达的内部动荡引发以色列初创生态系统的普遍担忧",
+      "当地风投视此为契机，准备扶持新兴 AI 芯片公司挑战霸主地位"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "efe02204c02dc220ff381d6763e90241",
+    "title": "Korea's tax accountant exam top scorer is facing \"AI glasses\" suspicion with no evidence.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xv6aut/koreas_tax_accountant_exam_top_scorer_is_facing/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T12:13:12+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This is all over Korean news this week.</p> <p>The top scorer on Korea’s tax accountant exam got 397.5/400 in the first round, 159 of 160 questions right. One of his perfect scores was in intro tax law, where the average across 16,856 candidates was 30.18/100 and 74.21% failed (under 40). You get roughly a minute per question.</p> <p>People online decided that’s not humanly possible and started saying he wore AI smart glasses. There’s no evidence. Neither of the",
+    "title_zh": "韩国税务会计师考试状元在无证据下遭“AI眼镜”作弊嫌疑",
+    "summary_zh": "韩国税务会计师考试状元因成绩异常优异，在没有任何实质证据的情况下，被怀疑使用 AI 眼镜作弊。此事在韩国引发广泛争议，涉及考试公平与技术滥用。",
+    "key_points": [
+      "考生因满分成绩被质疑使用AI眼镜作弊，但缺乏直接证据",
+      "事件引发关于技术滥用、考试公平性及无罪推定的激烈讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5baea4d15354d4f6d728cffc09748691",
+    "title": "Let’s talk about Jensen Huang’s many affairs!",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T12:00:00+00:00",
+    "content_snippet": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If [&#8230;]",
+    "title_zh": "聊聊黄仁勋的众多婚外情风波：英伟达的烂摊子",
+    "summary_zh": "The Verge 讽刺性评论聚焦英伟达 CEO 黄仁勋不断被曝出的婚外情丑闻，调侃其“情人”数量增长之快，并坦言这场持续发酵的公司闹剧令人费解且难以预测。",
+    "key_points": [
+      "报道聚焦英伟达CEO黄仁勋持续被揭露的多起婚外情丑闻",
+      "评论指出该事件已演变成一场失控且令人困惑的企业闹剧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "09823b1844632a83d8e3c658e6e375bf",
+    "title": "Technology flags, people verify, governments decide. Is that the right split for AI in public services?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xv59ne/technology_flags_people_verify_governments_decide/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T11:18:35+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Debates about AI in government services usually swing between two extremes: “automate everything” and “never let a machine near it.” The more useful question is where exactly the line should sit.</p> <p>One clear answer came from BLS International, which handles visa and consular services for governments in 100+ countries and has processed over 500 million applications. When it announced its AI document-verification integration with Signzy in October, it describ",
+    "title_zh": "技术标记、人工核查、政府决策：这是AI公共服务的最佳分工吗？",
+    "summary_zh": "关于 AI 在政府服务中的应用，讨论焦点在于如何划定人机分工。以 BLS International 为例，文章探讨了技术识别问题、人工进行核实、政府最终决策三层分工模式的合理性。",
+    "key_points": [
+      "探讨AI公共服务中“技术标记-人工核实-政府决策”的分层分工模式",
+      "旨在避免全自动化或完全拒绝AI的极端，寻找人机协作的平衡点"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6414696f4f62a4c89f7fbb50c4fe9d67",
+    "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T10:50:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am here writing about my experience with this. I was contacted to fill out a paid survey for SnorkelAI because I have a PhD and have published at A* conferences in the field, so this might be relevant for other researchers in the community.</p> <p>After not finding a lot of information, I decided to give it a try. I performed the personal verification and waited for the survey to arrive.</p> <p>First bad thing: the level of pushiness is terrible. I went to bed",
+    "title_zh": "SnorkelAI 面向机器学习科学家的付费问卷调查：完全不值得做",
+    "summary_zh": "一位持有博士学位的机器学习科学家分享经历，称受 SnorkelAI 邀请参加有偿问卷调研，但体验极差且浪费时间，告诫社区内其他研究者无需参与。",
+    "key_points": [
+      "高分学者吐槽SnorkelAI付费调研过程冗长且回报极低",
+      "Reddit研究者社区认为此类学术调研形同剥削，不值得参与"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4e360722318aaa5d28ade7520d34a534",
+    "title": "Open weights: ParaTrace v8 (RAID-tuned), 5th on the RAID leaderboard (TPR at 1% FPR) [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4ldx/open_weights_paratrace_v8_raidtuned_5th_on_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-13T10:39:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Open weights: ParaTrace v8 (RAID-tuned), <strong>5th</strong> on the RAID leaderboard (TPR at 1% FPR) </p> <p>- Ettin-1B encoder (ModernBERT architecture), 512-token windows<br /> - Fine-tuned on RAID's training split, then a hard-example round<br /> - RAID hidden test set: TPR 99.20% at 1% FPR, 99.76% at 5% FPR (99.43% at 1% without attacks)<br /> - Weakest slices: Cohere generations (96.5%), Reddit (97.9%), paraphrase attack (98.0%)<br /> - <a href=\"http://det",
+    "title_zh": "开源模型 ParaTrace v8 发布，在 RAID 基准测试中排名第五",
+    "summary_zh": "ParaTrace v8 是近期发布的开源模型，基于 Ettin-1B 编码器和 ModernBERT 架构，在 RAID 基准测试的 1% 假阳性率真阳性率指标上取得了第五名的成绩。该模型通过 RAID 训练集微调及补充难例训练优化而成。",
+    "key_points": [
+      "ParaTrace v8 在 RAID 基准测试中位列第五",
+      "采用 Ettin-1B 编码器和 ModernBERT 架构",
+      "通过训练集微调和难例重训提升性能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2c935ed47d388a1068384f0c5557e50f",
+    "title": "I thought AI would save me time. What a joke",
+    "url": "https://www.reddit.com/r/artificial/comments/1xv3zzd/i_thought_ai_would_save_me_time_what_a_joke/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-13T10:03:00+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>A while ago, i was spending quite a bit of time on small tasks, like sorting meeting notes, making to-do lists and replying routine emails. I started using AI to help with some of that, from summarizing long documents with chatgpt to using anvita mate's workbench for meeting notes and email replies. It helped with few things, but it wasn't always smooth. Sometimes the notes missed important details, the workflow stopped halfway through, or I had to tweak the pro",
+    "title_zh": "反思：AI 并未如预期般节省时间，反而带来新负担",
+    "summary_zh": "作者本以为使用 ChatGPT 等 AI 工具处理会议纪要、待办清单和邮件等日常琐事能节省时间，但实际体验下来，AI 反而可能增加了额外的工作量或认知负担，引发了对 AI 效率的重新思考。",
+    "key_points": [
+      "AI 工具处理日常事务反而可能增加工作量",
+      "用户反思 AI 与预期效率提升之间的差距"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "27c20cf959b0548c97eb442aef5eeda8",
+    "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+    "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T10:00:00+00:00",
+    "content_snippet": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their&#8230;",
+    "title_zh": "脑机接口试验志愿者提出新诉求：更多自主权和更少的保密协议",
+    "summary_zh": "随着脑机接口技术的发展，参与临床试验的志愿者开始提出新诉求，希望获得更多对设备的控制自主权，并减少严格的保密协议限制。他们的参与对推动脑信号解码、控制假肢和电脑等研究至关重要。",
+    "key_points": [
+      "脑机接口临床试验志愿者要求更多设备自主权",
+      "减少保密协议限制成为新的诉求焦点"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3d12bf3f82e2426e0be78ba35793fb26",
+    "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+    "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T10:00:00+00:00",
+    "content_snippet": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned&#8230;",
+    "title_zh": "硅谷自诩洞见未来，为何中期选举预测却大错特错？",
+    "summary_zh": "文章批评以 OpenAI CEO Sam Altman、马斯克和扎克伯格等为代表的硅谷领袖，尽管习惯性地描绘长远未来，但在近期美国中期选举的预测上却集体失准，揭示了科技界宏大叙事与现实洞察之间的偏差。",
+    "key_points": [
+      "硅谷领袖在中选预测上集体失准",
+      "反思科技界长期愿景与现实洞察的差距"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "meta",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "222a9d76983e60454aa6b118a7f19811",
+    "title": "MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！",
+    "url": "https://www.qbitai.com/2026/11/509827.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "zh",
+    "published": "2026-11-13T07:51:08+00:00",
+    "content_snippet": "12.9 北京，来MEET2027现场",
+    "title_zh": "MEET2027 大会含金量再加码：AI4S、量子计算、AI Infra 等第二批嘉宾确定",
+    "summary_zh": "量子位主办的 MEET2027 智能未来大会将于 12 月 9 日在北京举行，已公布第二批重磅嘉宾，话题涵盖 AI 科学应用、量子计算和 AI 基础设施等前沿领域。",
+    "key_points": [
+      "MEET2027 大会将于 12 月 9 日在北京举办",
+      "新增 AI4S、量子计算及 AI Infra 等主题嘉宾"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8e29829fe7f7f6ec6a45ce35b35d74c4",
+    "title": "Why hasn’t the unemployment rate gone up at all yet?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xv1tkh/why_hasnt_the_unemployment_rate_gone_up_at_all_yet/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T07:45:39+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xv1tkh/why_hasnt_the_unemployment_rate_gone_up_at_all_yet/\"> <img alt=\"Why hasn’t the unemployment rate gone up at all yet?\" src=\"https://preview.redd.it/05fa1de44c1i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=67b44ee4b461b4fb9745c6b4617f168471194233\" title=\"Why hasn’t the unemployment rate gone up at all yet?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The unemployment rate is still at 4.1%. If AI is smart ",
+    "title_zh": "探讨：AI 普及为何尚未推高失业率？",
+    "summary_zh": "尽管人工智能技术在各个领域加速普及，但官方失业率数据并未显著上升。该讨论帖引发了人们对 AI 替代工作岗位、劳动力市场结构性变化以及技术影响延迟性等深层问题的思考。",
+    "key_points": [
+      "AI 快速普及但整体失业率并未明显上升",
+      "引发关于 AI 替代工作与市场结构性变化的讨论"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "68ca027e9d4329cc135e43834e2e2ea3",
+    "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+    "url": "https://www.qbitai.com/2026/11/509796.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-11-13T07:43:03+00:00",
+    "content_snippet": "250名国内顶尖三甲医院医生联合评测",
+    "title_zh": "中国 AI 突破复杂肺癌诊疗，中美医疗圈高度关注",
+    "summary_zh": "中国 AI 在复杂肺癌的诊疗上取得突破，并经过了 250 名国内顶尖三甲医院医生的联合评测。这一进展引发了中美医疗界的广泛关注和重视。",
+    "key_points": [
+      "中国 AI 在复杂肺癌诊疗上实现重要突破",
+      "250 名三甲医生联合评测，引发中美医疗界关注"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2fc5f17fb9b8de5e3dcf3855bb325b26",
+    "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
+    "url": "https://www.qbitai.com/2026/11/509663.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-11-13T07:06:32+00:00",
+    "content_snippet": "数据不出域、本地可部署",
+    "title_zh": "高难盲测超越 GPT-6-Astra 与 Opus-5，无界前沿开源 Fx-Bio-1031 模型",
+    "summary_zh": "无界前沿开源的 Fx-Bio-1031 模型，将 RSI 指标引入生命科学领域，并在高难度盲测中超越了 GPT-6-Astra 和 Opus-5。该模型支持数据不出域和本地部署。",
+    "key_points": [
+      "Fx-Bio-1031 在盲测中超越 GPT-6-Astra 和 Opus-5",
+      "模型将 RSI 指标带入生命科学，并支持本地部署"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "99c68a0c2c02eaf9548b27dfb8480210",
+    "title": "Anybody have any idea what model \"Pumpkin Wombat\" is? I've been seeing it a lot on arena.ai and it's very impressive at image editing.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xv0zh4/anybody_have_any_idea_what_model_pumpkin_wombat/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-13T06:53:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>See title.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Earthling_Aprill\"> /u/Earthling_Aprill </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xv0zh4/anybody_have_any_idea_what_model_pumpkin_wombat/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1xv0zh4/anybody_have_any_idea_what",
+    "title_zh": "求助：Arena.ai 上图像编辑能力出众的“Pumpkin Wombat”是什么模型？",
+    "summary_zh": "网友在 Arena.ai 平台上频繁看到一个名为“Pumpkin Wombat”的模型，其图像编辑功能非常强大，因此发帖求助其他用户，试图了解这款神秘模型的真实来历和背景。",
+    "key_points": [
+      "名为“Pumpkin Wombat”的模型在 Arena.ai 上表现抢眼",
+      "用户发起讨论，好奇该图像编辑模型的真实身份"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e095645882ee254478103417efddaeeb",
+    "title": "Claude can now take notes in Google Meet, with auto-join for recurring calls",
+    "url": "https://www.reddit.com/r/artificial/comments/1xv0hd3/claude_can_now_take_notes_in_google_meet_with/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-13T06:23:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Anthropic began rolling out Claude Meetings to Team and Enterprise accounts on November 12, 2026. Claude shows up as a participant in Google Meet and can take notes and build a document during the call.</p> <p>Anthropic says to check that everyone is okay with transcription before adding Claude. On Team, the feature is on by default, and members can set it to join calls automatically. The meeting page keeps the transcript and notes afterward. During the call, yo",
+    "title_zh": "Claude 加入 Google Meet 支持会议记录，可自动加入定期通话",
+    "summary_zh": "Anthropic 于 2026 年 11 月 12 日开始为团队和企业账户推出 Claude Meetings 功能。Claude 可以直接作为参与者加入 Google Meet，在通话中记录笔记并生成文档，还支持自动加入定期会议。",
+    "key_points": [
+      "Claude 集成 Google Meet，可实现会议实时记录",
+      "支持自动加入定期通话，面向团队及企业用户"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic",
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1e74b7eab5b39d34034a7cf96608b0a2",
+    "title": "Former US AI Czar David Sacks says there’s no evidence that Alice Huang was a Chinese Spy",
+    "url": "https://www.reddit.com/r/artificial/comments/1xuy74i/former_us_ai_czar_david_sacks_says_theres_no/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T04:17:20+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xuy74i/former_us_ai_czar_david_sacks_says_theres_no/\"> <img alt=\"Former US AI Czar David Sacks says there’s no evidence that Alice Huang was a Chinese Spy\" src=\"https://preview.redd.it/bco2r5cx2b1i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ecdbab60cc76a27a32246f5a3b254b9ac47faf9b\" title=\"Former US AI Czar David Sacks says there’s no evidence that Alice Huang was a Chinese Spy\" /> </a> </td><td> <!-- SC_OFF --><div c",
+    "title_zh": "前美国AI沙皇David Sacks称无证据表明Alice Huang是中国间谍",
+    "summary_zh": "前美国AI政策负责人David Sacks公开表示，没有证据支持Alice Huang是中国间谍的指控。这一表态涉及近期引发关注的AI领域间谍指控事件。",
+    "key_points": [
+      "前美国AI政策负责人否认Alice Huang间谍指控",
+      "Sacks表示缺乏证据支持相关说法",
+      "该指控曾在AI领域引发关注"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
