@@ -123,5 +123,76 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "81a806bcfa0226e782ede41ee644eb8e",
+    "title": "What Happens When AI No Longer Needs Human Permission?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xwezao/what_happens_when_ai_no_longer_needs_human/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-14T22:20:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Who will be in control when the systems we build no longer need us? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dxi3\"> /u/dxi3 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/artificial/comments/1xwezao/what_happens_when_ai_no_longer_needs_human/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/artificial/comments/1xwez",
+    "title_zh": "当AI不再需要人类许可时会发生什么？",
+    "summary_zh": "探讨当AI系统发展到不再依赖人类指令和许可时，人类将如何保持控制权的问题，引发对未来人机关系的思考。",
+    "key_points": [
+      "当AI系统不再需要人类许可或指令时会怎样",
+      "探讨未来由谁掌控不再依赖人类的AI系统"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "36d4f9066adc67a639e745bbc57b931a",
+    "title": "Qwen 4 Max Preview is now load-bearing - and that means the bear will no long be able to bear the loads it used to",
+    "url": "https://www.reddit.com/r/artificial/comments/1xwexxy/qwen_4_max_preview_is_now_loadbearing_and_that/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-11-14T22:19:17+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Well that title sounds kinda sus I guess lol, but I didn't mean for it to. I was just trying to get people's attention (Qwen's mascot is a bear, in case you didn't know) but what I mean by load-bearing is that it really sounds a Claude distill and has the garbo guardrails to match. It's clearly safety maxxed as a result and useless out of a supposed need to protect the user from daring to defy authoritarianism and be a free thinker, or some dumb shit like that, ",
+    "title_zh": "Qwen 4 Max预览版成为主力模型，意味着其承载能力将不如以往",
+    "summary_zh": "讨论通义千问4 Max预览版的实际表现，认为其听起来像Claude的蒸馏版本，并提及该模型可能存在的质量问题。",
+    "key_points": [
+      "Qwen 4 Max预览版被指听起来像Claude的蒸馏版本",
+      "作者关注该模型成为主力后可能无法维持原有性能"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "805e0cdc2ffcf0ff872e8fa23812da4f",
+    "title": "One Router Grounded America? Seriously? Are you sure it wasn’t Rogue AI or a Hack?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xwd18l/one_router_grounded_america_seriously_are_you/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-14T20:54:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>So apparently the Trump administration is blaming a faulty router for grounding flights across America. A router. Seriously?</p> <p>Of course a router can cause network failures, but how the hell does critical national aviation infrastructure lack the safeguards to prevent one failure cascading across the system? And who in their right mind schedules an upgrade at <strong>3 pm on a Friday afternoon?</strong></p> <p>I seriously smell a rat because the explanation",
+    "title_zh": "一个路由器瘫痪全美？你确定不是AI失控或黑客攻击？",
+    "summary_zh": "质疑特朗普政府将全美航班停飞归咎于单个路由器故障的说法，指出关键航空基础设施缺乏冗余和安全保障不合常理。",
+    "key_points": [
+      "特朗普政府将全美航班停飞归咎于一个路由器故障",
+      "质疑关键航空基础设施为何缺乏冗余和安全保护"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
