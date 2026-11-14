@@ -1118,5 +1118,53 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "3c175e8e3dc63f2798bb7aec5f97294b",
+    "title": "What's the most boring task you'd hand to an agent if it actually worked?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xvqnst/whats_the_most_boring_task_youd_hand_to_an_agent/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-14T02:15:47+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I'm building AIPass, an open-source multi-agent system that runs on your own Linux machine — 18 agents, they wake up in the evening, check email, fix bugs, optimise stuff, all from your phone with no cloud account.</p> <p>But I'm curious what <em>you'd</em> actually use it for.</p> <p>Not the sexy demo stuff. The boring, repetitive, &quot;I hate doing this every week&quot; stuff.</p> <p>For me it was: triaging email, keeping docs honest when the code changes, an",
+    "title_zh": "如果智能体真的有效，你最想把手头什么无聊任务交给它？",
+    "summary_zh": "Reddit用户发起讨论，询问大家最想自动化哪些无聊任务。发帖者正在构建一个名为AIPass的开源多智能体系统，支持在本地Linux机器上运行，声称能处理邮件、修复Bug等。",
+    "key_points": [
+      "开发者正构建开源多智能体系统AIPass，可本地运行",
+      "系统包含18个智能体，可处理邮件、修复Bug等任务"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "097cc2941fb5f80620e3297c69c16b7e",
+    "title": "Mark Zuckerberg wants AI walking around your home, do you? | BBC News",
+    "url": "https://www.reddit.com/r/artificial/comments/1xvq2xe/mark_zuckerberg_wants_ai_walking_around_your_home/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-14T01:46:12+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xvq2xe/mark_zuckerberg_wants_ai_walking_around_your_home/\"> <img alt=\"Mark Zuckerberg wants AI walking around your home, do you? | BBC News\" src=\"https://external-preview.redd.it/LjcgFsTPoLN5xl2sg8M7ToJLxznSh5OGmhOERtyzbAQ.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c983a7976c9ead9d14c45f511894af85b345a536\" title=\"Mark Zuckerberg wants AI walking around your home, do you? | BBC News\" /> </a> </td><td> <!-- SC_OFF --><d",
+    "title_zh": "马克·扎克伯格希望AI走进你的家，你怎么看？",
+    "summary_zh": "BBC报道，Meta首席执行官马克·扎克伯格表达了希望AI机器人能在家中自由活动的愿景。该新闻引发了Reddit网友对隐私、安全及实际用途的讨论。",
+    "key_points": [
+      "扎克伯格希望未来AI机器人能在家中自主活动",
+      "相关观点在Reddit引发对隐私和实用性的广泛讨论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
