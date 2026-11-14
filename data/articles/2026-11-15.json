@@ -1,0 +1,100 @@
+[
+  {
+    "id": "0cbeb6f4f7fa764ab182e84d816567bf",
+    "title": "AI Incest: What happens when AI trains on AI-generated content, generation after generation?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xw7ytx/ai_incest_what_happens_when_ai_trains_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-14T17:25:11+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I recently started thinking about this.</p> <p>Imagine:</p> <ol> <li>An AI model is trained on human-generated data.</li> <li>It generates millions of pieces of content.</li> <li>The next generation of AI models trains on that content.</li> <li>Those models generate even more content.</li> <li>The process repeats indefinitely.</li> </ol> <p>What happens after 10, 20, or 100 generations?</p> <p>Could we gradually lose information diversity, rare knowledge, unconv",
+    "title_zh": "AI近亲繁殖：当AI反复用自己生成的内容训练会发生什么？",
+    "summary_zh": "文章探讨了AI模型训练数据闭环的潜在风险：若下一代模型大量使用上一代AI生成的内容进行训练，经过多代迭代后，可能导致模型性能退化、输出质量下降或多样性丧失等问题。",
+    "key_points": [
+      "AI反复训练AI生成内容或导致模型退化",
+      "探讨多代迭代训练对输出质量的负面影响",
+      "引发对训练数据来源和模型进化路径的担忧"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2445820bf9ab24388af9e4f81e92f3ad",
+    "title": "Should short-horizon price forecasting papers benchmark against market-implied forecasts, not just naive baselines? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xw6fk9/should_shorthorizon_price_forecasting_papers/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-14T16:23:34+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>been reading a bunch of papers on short term crypto and commodity price forecasting (transformers, LSTMs, the usual). almost all of them compare against ARIMA, a random walk, maybe a simple LSTM, and report a better RMSE.</p> <p>what i rarely see is a comparison against what the market already expects. options implied vol for the range, or a crowd forecast where people put money on outcomes. those already use alot of public info, so beating a random walk doesnt ",
+    "title_zh": "短线价格预测论文是否应对比市场隐含预测而非简单基准？",
+    "summary_zh": "一篇讨论机器学习在短期加密与商品价格预测中评估方法的帖子。批评现有论文仅对比ARIMA等简单基准，指出应增加与期权/期货市场隐含预测等更具实用价值的对比，以验证真实有效性。",
+    "key_points": [
+      "批评现有研究仅对比弱基准而忽略市场真实预测",
+      "主张论文应与期权、期货隐含的预测进行对比",
+      "聚焦加密和商品价格预测的实证评估方法"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1f06199075ed70bdab72f0631fd662a1",
+    "title": "Could AI handle public transit information calls?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xw6eqj/could_ai_handle_public_transit_information_calls/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-14T16:22:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>During service disruptions people are calling about delays, missed connections, route changes and whether theres another bus or train coming</p> <p>And the information can change every few minutes</p> <p>The phone part seems doable with tools like Elevenlabs or Bland, but I'd want it connected directly to the transit system's live updates before trusting it with arrival times.</p> <p>Giving someone an outdated ETA is probably worse than telling them there's no c",
+    "title_zh": "AI能否处理公共交通信息查询电话？",
+    "summary_zh": "讨论AI用于应对公共交通服务中断时信息咨询的可行性。面对实时变化的延迟和路线调整信息，AI语音应答在技术上看似可行，但仍面临实时数据整合等挑战。",
+    "key_points": [
+      "AI语音技术有潜力应对公交中断咨询场景",
+      "实时数据更新与准确反馈是主要难点",
+      "探讨Elevenlabs等工具在公共服务中的应用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e906ce588cf4c1c43c6e4bcd1414ae05",
+    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-14T15:00:00+00:00",
+    "content_snippet": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on [&#8230;]",
+    "title_zh": "曾解雇Sam Altman的OpenAI董事称仍无法信任AI公司CEO",
+    "summary_zh": "OpenAI前董事会成员Helen Toner接受专访，重提解雇Altman事件，强调AI企业对安全和责任的承诺无法仅依赖CEO个人意愿，呼吁加强外部监管与治理结构。",
+    "key_points": [
+      "前董事Helen Toner重申对AI公司治理的担忧",
+      "主张不能轻信CEO个人承诺保障AI安全",
+      "呼吁建立更严格的行业外部监管机制"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  }
+]
