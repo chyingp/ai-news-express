@@ -800,5 +800,323 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a6f30096638ac51f82d3ee4da7345855",
+    "title": "Did AI ground US flights? DHS is looking at the FAA's new AI tool",
+    "url": "https://www.reddit.com/r/artificial/comments/1xvnyzp/did_ai_ground_us_flights_dhs_is_looking_at_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-14T00:04:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The FAA halted flights nationwide on Friday, its first full ground stop since January 2023, days after expanding its SMART AI air traffic tool across the country. Transportation Secretary Sean Duffy blamed</p> <p> a communication issue at all Air Route Traffic Control Centers, and Homeland Security's Markwayne Mullin said of SMART: &quot;We're looking at that.&quot; The tool's maker, Air Space Intelligence, says the stop &quot;is</p> <p> not based on or a result",
+    "title_zh": "AI 导致美国航班停飞？国土安全部正调查 FAA 新 AI 工具",
+    "summary_zh": "FAA 在全国范围内停飞航班，这是自 2023 年 1 月以来的首次全面地面停飞，发生在 SMART AI 空管工具全面推广数天后。交通部长将其归咎于通信问题，国土安全部已介入调查。",
+    "key_points": [
+      "FAA 刚全面推广 SMART AI 工具后即发生全国航班停飞",
+      "交通部长归咎于通信问题，国土安全部已展开调查",
+      "这是美国自 2023 年初以来首次全国性地面停飞事件"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "c80bccd69cd362d712ce5b1f74857308",
+    "title": "Back Propagation [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xvnob6/back_propagation_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-13T23:52:21+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone I am currently studying neural network development in graduate school and I’m having a hard time conceptualizing the stages of training. I understand that forward propagation is how we calculate the output given input but in terms of how we adjust weights during backpropagation, it’s not very intuitive to me. Does anyone have a good suggestion for how to visualize this to make it more intuitive? Cheers!</p> </div><!-- SC_ON --> &#32; submitted by ",
+    "title_zh": "反向传播 [讨论]",
+    "summary_zh": "一位研究生在学习神经网络开发时，对训练阶段的原理感到困惑，特别是理解前向传播后，如何调整权重这一部分，在社区中寻求帮助。",
+    "key_points": [
+      "研究生对神经网络训练中反向传播的原理感到困惑",
+      "寻求关于权重调整方法的社区讨论与帮助"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4f9a42ba49f57bbe167504b02cae2acf",
+    "title": "Amazon has a plan to index the world’s online shopping data",
+    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-13T23:49:11+00:00",
+    "content_snippet": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
+    "title_zh": "亚马逊计划索引全球在线购物数据，打造'世界产品图谱'",
+    "summary_zh": "亚马逊计划建立一个包含互联网上所有产品销售数据的数据库，即使是非亚马逊销售的产品。该项目称为'世界产品图谱'，旨在防止消费者离开亚马逊去其他地方搜索商品信息。",
+    "key_points": [
+      "亚马逊计划索引所有在线商品数据，包括非自营商品",
+      "项目名为'世界产品图谱'，旨在巩固其购物入口地位",
+      "通过提供全面信息降低用户转向其他平台搜索的意愿"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8d23e88a0f9bcd333c45ee5c9d8e313b",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-13T22:43:00+00:00",
+    "content_snippet": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "title_zh": "黄仁勋离职对 AI 初创融资造成巨大冲击，VC 和创始人深感忧虑",
+    "summary_zh": "黄仁勋执掌英伟达期间，向 AI 初创公司投入了数百亿美元。在他不再掌舵后，创始人及风投机构普遍预计，未来将面临更小额的支票和更低的估值。",
+    "key_points": [
+      "黄仁勋曾主导英伟达对 AI 初创的数百亿美元投资",
+      "他的离职使风投和创始人预期融资额和估值将缩水",
+      "可能对 AI 初创融资环境产生重大负面影响"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a95e82df724a6b172e9468a8bb64c47a",
+    "title": "ICML 2027 Changes [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xvkxbj/icml_2027_changes_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-13T21:53:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Just read the ICML 2027 CFP and it looks like they’re trying to tackle the submission explosion in a reasonable way. Under the new two-stage process, the area chair decides whether a paper goes to full review, and any proposed first-stage rejection has to be confirmed by a senior area chair. Authors get a short justification by Feb 23. On top of that, nobody can be on more than 20 submissions, every paper has to name a reciprocal reviewer from its author list (m",
+    "title_zh": "ICML 2027 审稿机制变革 [讨论]",
+    "summary_zh": "ICML 2027 采用新的两阶段审稿流程，由领域主席决定论文是否进入完整评审，任何第一阶段拒稿需经另一位主席确认，旨在应对投稿量的爆炸式增长。",
+    "key_points": [
+      "ICML 2027 引入两阶段审稿，由领域主席初筛论文",
+      "第一阶段拒稿需另一位主席确认，以应对投稿激增"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d70a2858dbd22f63f202ad7e373c2976",
+    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+    "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-13T21:20:47+00:00",
+    "content_snippet": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+    "title_zh": "FAA 将 AI 空管建议系统扩展至全美空域以管理交通拥堵",
+    "summary_zh": "FAA 将其用于管理空中交通拥堵的 AI 建议工具扩展到整个美国空域。航空公司对此表示赞赏，但空中交通管制员工会表示未参与其中。",
+    "key_points": [
+      "FAA 的 AI 工具已扩展至全美空域用于管理空中交通",
+      "航空公司赞扬该工具，但管制员工会未参与开发",
+      "此举与近期全国航班停飞事件在时间上前后关联"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "60dd809503c1006c6801330ac96674a1",
+    "title": "I have trained a model to predict my blood sugar [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-13T20:48:25+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/\"> <img alt=\"I have trained a model to predict my blood sugar [P]\" src=\"https://preview.redd.it/atpxfrf2uf1i1.png?width=140&amp;height=96&amp;auto=webp&amp;s=6f880a1b98ac33fb1f1a592e19e02ce8ac3ae5b2\" title=\"I have trained a model to predict my blood sugar [P]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I have trained a custom 31,253 parameter encoder-onl",
+    "title_zh": "我训练了一个模型来预测自己的血糖水平 [项目]",
+    "summary_zh": "一位用户分享了自己训练机器学习模型来预测血糖水平的个人项目，展示了模型效果的可视化图表。",
+    "key_points": [
+      "个人项目展示：训练模型预测自身血糖水平",
+      "分享了预测效果的可视化图表"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b5d8e3ece75ef596902018d0ae9ee3a6",
+    "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-13T20:45:10+00:00",
+    "content_snippet": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
+    "title_zh": "ChatGPT Wallet 上线，允许 OpenAI 的 Dots 代理为你购物",
+    "summary_zh": "OpenAI 为其 Dots AI 代理平台推出 ChatGPT Wallet。该钱包首先向符合条件的美国 ChatGPT Pro 用户推出，支持使用特定信用卡，使 AI 代理能代表用户进行购买。",
+    "key_points": [
+      "OpenAI 推出 ChatGPT Wallet，赋能 AI 代理完成购买",
+      "率先向美国成年 ChatGPT Pro 用户开放",
+      "标志着 AI 代理向自主交易迈出重要一步"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "efe8625eeb86b89964799abdf0fb9699",
+    "title": "OpenAI is so convinced that LLMs will become brains for robots that it has disbanded its robotics team",
+    "url": "https://www.reddit.com/r/artificial/comments/1xvivdy/openai_is_so_convinced_that_llms_will_become/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-13T20:32:27+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xvivdy/openai_is_so_convinced_that_llms_will_become/\"> <img alt=\"OpenAI is so convinced that LLMs will become brains for robots that it has disbanded its robotics team\" src=\"https://preview.redd.it/ydrml86wwf1i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c25712a47ee08a94858a1edd31d06ea9f3281b78\" title=\"OpenAI is so convinced that LLMs will become brains for robots that it has disbanded its robotics team\" /> </a> </td><",
+    "title_zh": "OpenAI 深信大模型将成为机器人'大脑'，已解散机器人团队",
+    "summary_zh": "OpenAI 因深信大语言模型足以作为机器人的核心'大脑'，决定解散其专门的机器人研究团队，显示其将完全押注于大模型路径。",
+    "key_points": [
+      "OpenAI 解散机器人团队，认为 LLM 将是机器人的大脑",
+      "表明公司战略完全转向以 LLM 为核心的路径",
+      "放弃传统机器人研发，押注大模型赋能"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "80446c0a468ad815fd856009549f594f",
+    "title": "This AI finds patterns in visual brain activity and turns them into pictures",
+    "url": "https://www.reddit.com/r/artificial/comments/1xvissf/this_ai_finds_patterns_in_visual_brain_activity/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-13T20:29:33+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xvissf/this_ai_finds_patterns_in_visual_brain_activity/\"> <img alt=\"This AI finds patterns in visual brain activity and turns them into pictures\" src=\"https://external-preview.redd.it/1OUP9IvnXtCshk_NTBs5YpLHyn6l2sKbVqfo_Mmm2bY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=97a471c58e210c4362dc7774de9df1e9ddda0ae6\" title=\"This AI finds patterns in visual brain activity and turns them into pictures\" /> </a> </td><td> <!-- ",
+    "title_zh": "这项 AI 技术能识别大脑视觉活动模式并将其转化为图像",
+    "summary_zh": "一种新型 AI 技术可以通过分析大脑中的视觉活动模式，将其重新构建为对应的图像，实现了从脑活动中解码视觉信息。",
+    "key_points": [
+      "AI 可分析大脑视觉活动模式并重构图像",
+      "实现了从脑信号到视觉内容的直接解码"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "38cc50aa2fb032f230495d8708ceade6",
+    "title": "\"We are deeply sorry\" Microsoft apologizes for major outage that knocked Outlook, Teams, and Microsoft 365 offline for 24 hours – insists it wasn't AI that caused it",
+    "url": "https://www.reddit.com/r/artificial/comments/1xvinch/we_are_deeply_sorry_microsoft_apologizes_for/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-13T20:23:20+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xvinch/we_are_deeply_sorry_microsoft_apologizes_for/\"> <img alt=\"&quot;We are deeply sorry&quot; Microsoft apologizes for major outage that knocked Outlook, Teams, and Microsoft 365 offline for 24 hours – insists it wasn't AI that caused it\" src=\"https://external-preview.redd.it/53xdW0GXkuPs1uANWMdY4vL7yZiDAutULEaK-DK17d0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=34c57f71d2397025b6d291757eb2b50d45c2c045\" title=\"&quot",
+    "title_zh": "\"我们深表歉意\"，微软为Outlook、Teams等重大服务中断致歉，坚称并非AI导致",
+    "summary_zh": "微软为持续24小时的大规模服务中断公开致歉，该事件导致Outlook、Teams和Microsoft 365等核心服务离线。微软在道歉中明确否认了人工智能是此次中断原因的说法。",
+    "key_points": [
+      "微软就长达24小时的大规模服务中断公开致歉",
+      "受影响服务包括Outlook、Teams和Microsoft 365",
+      "微软官方否认此次中断由人工智能引发"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "26d265ce671c85ecacf438c524bb2969",
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-13T19:37:57+00:00",
+    "content_snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "title_zh": "AI智能体初创公司LangChain估值达30亿美元",
+    "summary_zh": "AI智能体初创公司LangChain宣布其估值已达30亿美元。该公司透露，其模型和平台无关的智能体管理工具LangSmith目前已拥有7000家客户。",
+    "key_points": [
+      "LangChain完成新一轮融资，估值飙升至30亿美元",
+      "其核心产品LangSmith已吸引7000家客户",
+      "公司专注于构建模型与平台无关的AI智能体管理工具"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e7682ddceef8f6ffc91e3dfeb406b0dc",
+    "title": "Thinking Machines Lab releases Inkling 2 Small weights under Apache 2.0 — 594B MoE, top open-weights model on DesignArena",
+    "url": "https://www.reddit.com/r/artificial/comments/1xvhgst/thinking_machines_lab_releases_inkling_2_small/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-13T19:37:10+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Thinking Machines Lab updated its Inkling 2 Small announcement yesterday (Nov 12): the model's weights are now downloadable on Hugging Face under an Apache 2.0 license, about a week after launch. The model initially shipped with closed weights on Tinker while external safety testing and red-teaming finished.</p> <p>The details: a 594B-parameter Mixture-of-Experts model with 17B active parameters, image inputs and variable effort. TML reports an Artificial Analys",
+    "title_zh": "Thinking Machines Lab发布Inkling 2 Small模型权重，采用Apache 2.0许可",
+    "summary_zh": "Thinking Machines Lab宣布，其5940亿参数混合专家模型Inkling 2 Small的权重现已在Hugging Face平台开放下载，并采用Apache 2.0开源许可证。该模型在发布约一周后开放了权重，并在DesignArena上名列前茅。",
+    "key_points": [
+      "Inkling 2 Small为594B参数的MoE模型，权重现已开源",
+      "模型采用Apache 2.0许可证，可在Hugging Face下载",
+      "该模型是DesignArena上表现最佳的开放权重模型之一"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
