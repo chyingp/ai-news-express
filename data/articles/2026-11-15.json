@@ -296,5 +296,79 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a07e7f8c2db0cc78702d13521587210c",
+    "title": "With 42k submissions to ICLR, do you think the acceptance rate will stay the same? [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwqxwj/with_42k_submissions_to_iclr_do_you_think_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-15T09:05:22+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Given the massive jump to 42,000 submissions this year, I’m curious how people think the program chairs will handle the acceptance rate. Will they stick to the usual ~26-28% (meaning ~11k+ accepted papers), or will they cap the total number of accepted papers due to venue/reviewer constraints and drop the acceptance rate significantly?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/This_One_3612\"> /u/This_One_3612 </a> &#3",
+    "title_zh": "ICLR提交量激增至4.2万，录用率将何去何从？",
+    "summary_zh": "Reddit上关于ICLR 2026的讨论，面对今年激增至4.2万篇的论文提交量，社区成员在探讨会议主席将如何调整录用率，是维持约26-28%的比例还是限制录用论文总数。",
+    "key_points": [
+      "ICLR 2026收到4.2万篇投稿，数量大幅增长",
+      "社区讨论录用率将维持比例还是设置录用数上限",
+      "关注点在于会议如何平衡学术质量与参与规模"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ed89581da309d33de4b6a7356f4e54ff",
+    "title": "Not all AI sounds human.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xwo2iz/not_all_ai_sounds_human/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-15T06:08:09+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xwo2iz/not_all_ai_sounds_human/\"> <img alt=\"Not all AI sounds human.\" src=\"https://external-preview.redd.it/JsCiQOkMggtd8ttFr_A13sQ8lhsKskyNjOvGNyabRN8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d93e379bac352de2ce9fe9992e73c502bf416170\" title=\"Not all AI sounds human.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/galratner\"> /u/galratner </a> &#32; to &#32; <a href=\"https://www.reddi",
+    "title_zh": "并非所有AI听起来都像人类",
+    "summary_zh": "一篇Reddit帖子指出，并非所有人工智能的声音或表达方式都向拟人化靠拢，探讨了AI在语音和交互设计上的多样性，强调非人化声音在某些场景下的适用性。",
+    "key_points": [
+      "探讨AI语音设计的多样性，不局限于模仿人类",
+      "强调非拟人化AI声音在特定应用中的价值",
+      "引发关于AI拟人化程度与用户偏好关系的讨论"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1254c2900ca20a70564d6f5f019f7249",
+    "title": "LongMemEval-S: 96.0% with the official judge, and what top-5 vs top-20 retrieval changes [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwnloh/longmemevals_960_with_the_official_judge_and_what/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-15T05:40:25+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>We ran all 500 LongMemEval-S questions through our memory retrieval (Papr) using the official answer prompt and the unmodified gpt-4o-2024-08-06 judge. Per-question answers and judge labels are public, so the official metrics script reproduces the numbers.</p> <p><strong>Results</strong></p> <p>For comparison, Chronos reports 95.6% using full context and multi-turn agents, Hindsight reports 94.6% at 43.6k tokens per question (with a different judge), and gbrain ",
+    "title_zh": "LongMemEval-S：使用官方评测器达到96.0%准确率及检索策略变更分析",
+    "summary_zh": "该项目在LongMemEval-S长文本记忆基准测试中，使用Papr检索方法和GPT-4o评测器，取得了96.0%的高分，并分析了Top-5与Top-20检索策略对结果的影响。",
+    "key_points": [
+      "在LongMemEval-S基准上实现96.0%准确率",
+      "使用自研Papr记忆检索和GPT-4o作为评测器",
+      "对比了Top-5与Top-20检索策略的性能差异"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
