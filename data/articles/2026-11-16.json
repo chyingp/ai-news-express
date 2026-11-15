@@ -264,5 +264,271 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "552380634fd8bd017f45c4362ff1c3c5",
+    "title": "Question about governments bailouts",
+    "url": "https://www.reddit.com/r/artificial/comments/1xxaco3/question_about_governments_bailouts/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-15T23:42:38+00:00",
+    "content_snippet": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/theepi_pillodu\"> /u/theepi_pillodu </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /> <span><a href=\"https://www.reddit.com/r/smallstreetbets/comments/1xx9xns/now_sure_where_to_ask_this_question_about/?share_id=By3zVj-sA0qc7X6h7Vg7C&amp;utm_content=1&amp;utm_medium=ios_app&amp;utm_name=ioscss&amp;utm_source=share&amp;utm_term=1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/a",
+    "title_zh": "关于政府救助的提问",
+    "summary_zh": "Reddit用户就政府是否应救助AI公司提出问题，讨论帖链接至小型投资板块，内容较为零散。",
+    "key_points": [
+      "Reddit用户发起关于政府救助AI公司的讨论",
+      "帖子内容指向小型投资相关板块"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "22756b5773130bd071ae30f2a8a7c1eb",
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-15T23:30:00+00:00",
+    "content_snippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "title_zh": "印度芯片初创公司Bharat Semi获2400万美元种子轮融资，瞄准全球AI传感器市场",
+    "summary_zh": "印度初创公司Bharat Semi宣布获得2400万美元种子轮融资，其AI传感器技术已获得包括通用原子公司在内的设计订单。",
+    "key_points": [
+      "获得2400万美元种子轮融资",
+      "已获通用原子公司等AI传感器设计订单",
+      "目标市场为全球AI传感器领域"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a7fc0c88df7c2e07f700b34ed11b1749",
+    "title": "Hands-on ML Orchestration Tutorial with Airflow3 [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxa13x/handson_ml_orchestration_tutorial_with_airflow3_p/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-15T23:28:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>It's available in <a href=\"https://github.com/fmgs31/MLOpsAirflow3Tutorial\">English </a>and <a href=\"https://github.com/fmgs31/MLOpsAirflow3Tutorial/blob/main/README_ES.md\">Spanish</a>. </p> <p>A couple of months ago I was looking for a good ML orchestration tutorial, and I found Made With ML's <a href=\"https://madewithml.com/courses/mlops/orchestration/\">orchestration lesson</a>, part of its full MLOps tutorial. There were only two problems. First, it was writt",
+    "title_zh": "使用Airflow3的机器学习编排实践教程",
+    "summary_zh": "一个开源项目提供基于Airflow3的机器学习编排教程，包含英文和西班牙语版本，旨在帮助开发者掌握MLOps实践。",
+    "key_points": [
+      "提供基于Airflow3的MLOps实践教程",
+      "项目在GitHub开源并支持多语言"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "fca8d0139b5c2bcfe14f88e3e3836632",
+    "title": "Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx9za4/anyone_working_in_aml_transaction_monitoring/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-15T23:25:39+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p> <p>I’m a data analyst on a financial crime team, and I’m trying to get a machine learning project started to improve how we handle AML (anti-money laundering) work. I’d love to hear from anyone who works in transaction monitoring, customer screening, or sanctions/PEP screening and has used ML in practice.</p> <p>Some context: like most teams in this space, we rely mostly on rule-based systems, which generate a lot of false positives and take up ",
+    "title_zh": "寻求在反洗钱/交易监控中使用机器学习的建议",
+    "summary_zh": "一位金融犯罪团队的数据分析师发帖，希望了解如何将机器学习应用于反洗钱、交易监控和制裁筛查等工作。",
+    "key_points": [
+      "金融分析师寻求AML领域的机器学习应用经验",
+      "涉及交易监控、客户筛查等具体场景"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1495b820fd4df4e0846a51523c7180a5",
+    "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+    "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-15T23:11:54+00:00",
+    "content_snippet": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+    "title_zh": "火神火箭发射失败，对SpaceX竞争对手造成重大打击",
+    "summary_zh": "联合发射联盟的火神火箭在发射中失败，这是该公司20年来的首次全面任务失败，重挫挑战SpaceX的努力。",
+    "key_points": [
+      "联合发射联盟20年来首次全面任务失败",
+      "火神火箭发射失败，打击SpaceX竞争者"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "df3e44b99410d919ee7f29ed52f9668c",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-15T22:00:01+00:00",
+    "content_snippet": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "title_zh": "向在格点上定义标准模型迈进一步",
+    "summary_zh": "OpenAI发布博客，介绍使用GPT-6 Astra将一个非微扰格点定义标准模型的构想转化为详细证明的过程。",
+    "key_points": [
+      "提出标准模型的候选非微扰格点定义",
+      "GPT-6 Astra协助将构想转化为详细证明"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e1f75517207ad798601e155052dd8093",
+    "title": "Our new blog for science",
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "source": "OpenAI Blog",
+    "source_zh": "OpenAI 官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-15T22:00:00+00:00",
+    "content_snippet": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "title_zh": "我们全新的科学博客",
+    "summary_zh": "OpenAI宣布推出科学博客，用于分享研究人员使用AI推进科学发现的新成果、实用方法和第一手经验。",
+    "key_points": [
+      "OpenAI推出专门分享AI科学发现的博客",
+      "内容涵盖新发现、实用方法和研究案例"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b95b24505d9f9fa9c0d989f70263a48a",
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-15T21:56:35+00:00",
+    "content_snippet": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+    "title_zh": "黄仁勋的坏消息对AI行业也是个坏消息吗？",
+    "summary_zh": "TechCrunch分析认为，由于英伟达在AI产业的核心地位，其CEO黄仁勋遭遇的负面消息可能波及整个AI行业。",
+    "key_points": [
+      "讨论黄仁勋的负面消息对AI行业的影响",
+      "英伟达在AI生态中处于核心地位"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f9c1d7e341d320cfa4c6b1dc7db0a423",
+    "title": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen! | TechCrunch",
+    "url": "https://www.reddit.com/r/artificial/comments/1xx4t46/exportbanned_nvidia_chips_are_behind_chinas_most/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-15T19:46:39+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xx4t46/exportbanned_nvidia_chips_are_behind_chinas_most/\"> <img alt=\"Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen! | TechCrunch\" src=\"https://external-preview.redd.it/SJUSCNPO71K6W1wXthypQQeKGpEgsb2rJzN-59v3YFU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c260725e9ba9226bc1aaf7d33b50021d790288c\" title=\"Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh",
+    "title_zh": "中国最强AI模型背后采用英伟达出口禁售芯片",
+    "summary_zh": "报道指出中国最强大的一些AI模型是在受到出口限制的英伟达芯片上训练的，引发对出口管制的讨论。",
+    "key_points": [
+      "中国顶尖AI模型使用了受出口限制的英伟达芯片",
+      "技术获取挑战出口管制政策"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "46b2575de6ef9337daa09784631d05d4",
+    "title": "Weight-space programming: an LLM edited another model's weights directly and lifted its math score from 7.9% to 48.1%",
+    "url": "https://www.reddit.com/r/artificial/comments/1xx4kit/weightspace_programming_an_llm_edited_another/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-15T19:37:03+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>MIT researchers (Rikiya Takehi, Jayden Teoh, Alex Zhang, Omar Khattab) had OpenAI's GPT-6 Astra edit the weights of a small Qwen model directly -- no gradient descent, no training data. Astra found the pattern behind the model's habit of repeating itself until it ran out of context, and removed it. The edit touched about 0.016% of the weights; the model's math score went from 7.9% to 48.1%.</p> <p>Three papers on the method landed on arXiv on November 6 (e.g. ar",
+    "title_zh": "权重空间编程：LLM直接编辑另一个模型权重，数学得分从7.9%提升至48.1%",
+    "summary_zh": "MIT研究人员使用GPT-6 Astra直接编辑一个小型模型的权重，在没有梯度下降的情况下，大幅提升了其数学推理能力。",
+    "key_points": [
+      "GPT-6 Astra直接编辑模型权重，无需传统训练",
+      "模型数学得分从7.9%大幅提升至48.1%"
+    ],
+    "importance": 5,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bc766627e4a1f87cbc53067d67c749e4",
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-15T19:15:43+00:00",
+    "content_snippet": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [&#8230;]",
+    "title_zh": "英伟达间谍丑闻后，美国国会欲收紧 AI 芯片出口管制",
+    "summary_zh": "在涉及英伟达前 CEO 黄仁勋的疑似中国间谍丑闻曝光后，美国国会两党议员正共同推动立法，意图进一步收紧对华 AI 芯片的出口规则。",
+    "key_points": [
+      "英伟达前 CEO 牵涉中国间谍丑闻，引发出口管制收紧",
+      "美国两党议员均支持通过新法案加大芯片出口限制"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
