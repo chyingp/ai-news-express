@@ -1,0 +1,245 @@
+[
+  {
+    "id": "1386ea496b852d7be463422dba6955df",
+    "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-15T17:38:16+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/\"> <img alt=\"[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]\" src=\"https://preview.redd.it/rcfmbufjbt1i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb94cd5c7154432ca325d4a90c7f47f572c063c3\" title=\"[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: train",
+    "title_zh": "Meta FAIR与NYU研究：解耦多模态视觉编码，发现编码器预训练非必需但视觉专属参数不可或缺",
+    "summary_zh": "Meta FAIR和纽约大学通过训练200多个多模态大语言模型，探究视觉编码机制。研究发现，视觉编码器的预训练并非必要，但模型中专属的视觉参数对于性能至关重要。",
+    "key_points": [
+      "训练200+多模态模型，解耦视觉编码机制",
+      "发现视觉编码器预训练是可选的",
+      "但模型中视觉专属参数仍不可或缺"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4ceceb784e90454f1968b2a1acdbde72",
+    "title": "Building an AI product? Who’s testing it before your users get their hands on it?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xx0u39/building_an_ai_product_whos_testing_it_before/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-15T17:10:24+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xx0u39/building_an_ai_product_whos_testing_it_before/\"> <img alt=\"Building an AI product? Who’s testing it before your users get their hands on it?\" src=\"https://preview.redd.it/eh01w3kq6t1i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1272cda03e5874fdb19122f2b8381a6a0667c9a\" title=\"Building an AI product? Who’s testing it before your users get their hands on it?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"ht",
+    "title_zh": "构建AI产品：在用户使用前，谁在为它进行测试？",
+    "summary_zh": "文章探讨AI产品开发流程中的测试环节，关注在最终用户接触产品前，应由谁、如何对AI产品进行充分测试，以确保产品的可靠性和用户体验，引发社区对AI产品质量保障的讨论。",
+    "key_points": [
+      "探讨AI产品上线前的测试责任归属",
+      "关注产品可靠性与用户体验保障"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "80fdb8ca1f94e8979c8b70e3092a8d09",
+    "title": "A project of Cadence, developed by Pragma Research, brought to life via a talking parrot [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xx06ig/a_project_of_cadence_developed_by_pragma_research/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-15T16:45:14+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://cadence.floatingpragma.ai/\">https://cadence.floatingpragma.ai/</a></p> <p><a href=\"https://github.com/muellerberndt/cadence\">https://github.com/muellerberndt/cadence</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/harrydong\"> /u/harrydong </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/MachineLearning/\"> r/MachineLearning </a> <br /> <span><a href=\"https://x.com/muellerberndt/status/21219042770945",
+    "title_zh": "Pragma Research开发的Cadence项目：通过一只会说话的鹦鹉实现原型交互",
+    "summary_zh": "文章介绍了Pragma Research开发的名为Cadence的项目，该项目通过一个会说话的鹦鹉角色作为交互界面，将技术原型以生动有趣的方式呈现，并提供了体验和开源代码链接。",
+    "key_points": [
+      "展示Cadence项目及其鹦鹉交互界面",
+      "提供项目体验地址与GitHub开源代码"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "38ffafe35d1dc835f686c6e8e852f549",
+    "title": "made up 9 software brands and asked chatgpt and google ai mode for each one's price and founder, to see if they'd invent answers. 18 answers, none invented",
+    "url": "https://www.reddit.com/r/artificial/comments/1xwzvr9/made_up_9_software_brands_and_asked_chatgpt_and/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-15T16:33:31+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Everyone's complaining ai just makes stuff up (commonly: &quot;hallucinates&quot;) and in public scoreboards they range from 1.8% to 77% based on what they're testing, etc. </p> <p>so we wondered if either one of them would invent something in a simple, verifiable question. </p> <p>We made up 9 names of software companies (zero product found with a google search for any of them) </p> <p>and Oct 19th queried both chatgpt and google ai mode (ie: google's chat answ",
+    "title_zh": "测试AI幻觉：向ChatGPT和谷歌AI询问虚构软件品牌信息，两者均未编造答案",
+    "summary_zh": "为测试AI的幻觉问题，作者编造了9个软件品牌，并询问ChatGPT和谷歌AI模式其价格和创始人。测试结果显示，两个AI模型均未编造任何信息，所有18个回答都未出现虚构内容。",
+    "key_points": [
+      "用虚构品牌测试ChatGPT和谷歌AI的幻觉",
+      "18个问题中未出现任何编造答案",
+      "实际表现优于公开幻觉率基准"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "90a9f67423bce4c2bf36eb6a43c4c010",
+    "title": "Marimba: a System One model for speech [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwzsm4/marimba_a_system_one_model_for_speech_r/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-15T16:30:09+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Marimba is like Jev, but for audio.</p> <p>I built it to be fast and lightweight, and to return typed decisions about speech: yes/no, a choice, or a score.</p> <p>It runs on a frozen Qwen3-ASR-0.6B. Word and language questions use zero-shot scores from the ASR decoder's hypotheses, followed by calibration. Small readouts on the frozen encoder handle voice activity, turn endings, speaker changes and speaker count.</p> <p><a href=\"https://huggingface.co/charcot-ai",
+    "title_zh": "Marimba：用于语音的“系统一”快速决策模型",
+    "summary_zh": "Marimba是一个轻量级、快速的语音处理模型，类似于图像领域的Jev。它基于冻结的Qwen3-ASR-0.6B模型运行，专门用于返回关于语音的类型化决策，如是/否、选择或评分。",
+    "key_points": [
+      "Marimba是快速轻量的语音决策模型",
+      "基于Qwen3-ASR-0.6B运行，返回类型化判断",
+      "专注于是/否、选择和评分等决策"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "242bd6a4224b1bdc99513b76e1598e34",
+    "title": "What does this graph tell us about the scalability of AI",
+    "url": "https://www.reddit.com/r/artificial/comments/1xwyun3/what_does_this_graph_tell_us_about_the/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-15T15:52:30+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xwyun3/what_does_this_graph_tell_us_about_the/\"> <img alt=\"What does this graph tell us about the scalability of AI\" src=\"https://external-preview.redd.it/USShiSquRN5-Yib6YeW951Qst7fU9ESTp69edhNseI8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=61cd77b52e7d1370d48f4e64e17598943b7e690b\" title=\"What does this graph tell us about the scalability of AI\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.c",
+    "title_zh": "图表揭示了AI可扩展性的哪些信息？",
+    "summary_zh": "文章通过一张图表，引发社区对AI模型扩展性规律的讨论。探讨当前计算资源、模型规模与性能提升之间的关系，以及这种扩展方式在未来是否可持续。",
+    "key_points": [
+      "围绕一张图表讨论AI可扩展性规律",
+      "探讨模型规模、计算量与性能的关系"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6125683c1708e68ada31c390a801b4ae",
+    "title": "Meituan open-sourced LongCat-2.5, a 1.6T agent model, and the only deploy guide is for Huawei NPUs, not Nvidia",
+    "url": "https://www.reddit.com/r/artificial/comments/1xwx2hc/meituan_opensourced_longcat25_a_16t_agent_model/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-15T14:37:57+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Meituan just released the LongCat-2.5 weights under MIT: 1.6T total parameters, about 48B active per token, with text, image and video input. On their own table it scores 88.4 on Terminal Bench v2.1, right next to Claude Opus 5 at 89.1. </p> <p>On the harder Terminal Bench v4.0 the gap opens up: 38.5 vs 53.9 for Opus 5. The catch if you want to self-host is that the model card only documents NPU deployment, with no Nvidia path yet. As someone who builds small we",
+    "title_zh": "美团开源LongCat-2.5：1.6万亿参数智能体模型，部署指南仅针对华为NPU",
+    "summary_zh": "美团发布并开源了拥有1.6万亿总参数、48B活跃参数的智能体模型LongCat-2.5，性能接近Claude Opus 5。其官方部署指南仅针对华为NPU而非英伟达GPU，引发关注。",
+    "key_points": [
+      "美团开源1.6T参数LongCat-2.5模型",
+      "性能接近Claude Opus 5（Terminal Bench）",
+      "官方仅提供华为NPU部署指南，不支持英伟达"
+    ],
+    "importance": 4,
+    "is_breaking": false,
+    "companies": [
+      "huawei"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ce787c1af2f38c735d077109c876e96d",
+    "title": "Building with AI is now easier but trust takes further testing.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xwwrm0/building_with_ai_is_now_easier_but_trust_takes/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-15T14:24:54+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xwwrm0/building_with_ai_is_now_easier_but_trust_takes/\"> <img alt=\"Building with AI is now easier but trust takes further testing.\" src=\"https://external-preview.redd.it/CSYO4wr5dX-i8lBlHFmu1dDy2O49rTE_GmtXHyg_P2Y.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=22247d26eac58391ed43c768b082d3bf3f331963\" title=\"Building with AI is now easier but trust takes further testing.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p",
+    "title_zh": "AI构建虽更简单，但建立信任仍需严格测试",
+    "summary_zh": "文章指出，尽管构建AI应用的门槛已大幅降低，但要让用户信任这些系统，开发者和企业仍需进行更深入、更严格的测试，以确保其稳定性和安全性。",
+    "key_points": [
+      "AI开发工具简化，应用构建门槛降低",
+      "强调构建用户信任需要更深入的测试"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "677a8358b40af2be87b0e52e07f49636",
+    "title": "Are AI leaderboards even worth taking seriously anymore?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xwwdhv/are_ai_leaderboards_even_worth_taking_seriously/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-15T14:07:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Every time a new AI leaderboard drops theres suddenly a different model being called the best in the world and then you check another benchmark and the rankings are completely different. Gemini has been doing well in general chat rankings while Claude has been strong in coding, so apparently the best AI depends on which website you happen to open that morning.</p> <p>Kalshi even has a market on which AI model finishes November at number one and it got me thinkin",
+    "title_zh": "AI基准排行榜还值得认真看待吗？",
+    "summary_zh": "文章质疑AI模型排行榜的可信度，指出不同榜单排名差异巨大，例如Gemini和Claude在不同评测维度上表现不一。认为当前基准测试可能无法全面反映模型真实能力，引发对其价值的讨论。",
+    "key_points": [
+      "质疑AI排行榜因不同基准结果矛盾而缺乏公信力",
+      "指出Gemini、Claude等模型排名随基准变动"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4a3a41acd4748529654c070b999c1961",
+    "title": "I don't think double-blind review systems work [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-15T13:00:15+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Reviewers can see the authors’ names and affiliations in many cases, making this system closer to single-blind review than double-blind review.</p> <p>I have personally witnessed cases where student reviewers rejected other researchers’ papers in an attempt to increase the chances of their own papers being accepted.</p> <p>Furthermore, can we really expect fair and unbiased evaluations of papers from well-connected research labs with extensive academic networks?",
+    "title_zh": "我认为双盲评审系统行不通",
+    "summary_zh": "发帖者认为在机器学习领域的论文评审中，双盲评审经常失效。评审者常能通过多种方式推断作者身份和机构，导致该系统在实践上更接近单盲评审，影响了公平性。",
+    "key_points": [
+      "指出ML领域双盲评审常因信息泄露失效",
+      "评审者可能识别作者身份，影响公平性"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
