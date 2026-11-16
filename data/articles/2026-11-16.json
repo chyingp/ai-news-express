@@ -530,5 +530,205 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "66cf4a506fef104a3fff06d99ed62229",
+    "title": "Top Institutions for Artificial Intelligence & Image Processing (Top 2% Scientists List) [N]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxf0r6/top_institutions_for_artificial_intelligence/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-16T03:28:51+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MachineLearning/comments/1xxf0r6/top_institutions_for_artificial_intelligence/\"> <img alt=\"Top Institutions for Artificial Intelligence &amp; Image Processing (Top 2% Scientists List) [N]\" src=\"https://external-preview.redd.it/KFpQLx3Ph5DBdfaWutZJ4wuJEfKEKfeTV609D_AI5YI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6218a6afab4195d2167a2702bcec61e88fbfea11\" title=\"Top Institutions for Artificial Intelligence &amp; Image Processing (Top 2% Scie",
+    "title_zh": "人工智能与图像处理顶尖机构（全球前2%科学家榜单）",
+    "summary_zh": "基于全球前2%科学家榜单，公布了在人工智能与图像处理领域表现最顶尖的研究机构排名。",
+    "key_points": [
+      "基于全球前2%科学家榜单进行机构排名",
+      "聚焦人工智能与图像处理交叉学科领域",
+      "为评估研究实力提供数据参考"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3e553b1fd45252971b953b972c5c6db5",
+    "title": "An AI's notes for its next attempt told it to repeat the move that lost the game",
+    "url": "https://www.reddit.com/r/artificial/comments/1xxe7ie/an_ais_notes_for_its_next_attempt_told_it_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-16T02:47:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>One developer let LLMs play The Money Spider, a 1988 detective gamebook, and watched what happened when they could retry.</p> <p>One route involves a hot-air balloon. Landing sounds sensible, but it means missing a clue needed about ten decisions later. By the time the game tells you you've lost, the balloon is long gone.</p> <p>The developer tried replacing the full history of previous attempts with notes the model wrote for itself. One model identified the mis",
+    "title_zh": "AI的自我复盘笔记竟让它重蹈覆辙",
+    "summary_zh": "开发者让大语言模型玩解谜游戏并允许重试，但模型在失败后记录的“经验教训”却导致其在下一次尝试中重复了同样的致命错误。",
+    "key_points": [
+      "大模型在解谜游戏中失败后记录的笔记无效",
+      "模型在重试时重复了导致失败的关键动作",
+      "揭示了大语言模型在推理与自省能力上的局限"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "74c2539a197400ce2810876123a432b8",
+    "title": "Apple launches new app to study how people use AI for health",
+    "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-16T01:30:00+00:00",
+    "content_snippet": "Apple's new app for a study will answer everyday medical questions",
+    "title_zh": "苹果推出新应用研究人们如何使用AI来管理健康",
+    "summary_zh": "苹果发布了一款新应用，旨在通过研究了解用户如何利用AI工具解答日常医疗问题，以改善AI健康工具的效果。该研究将与临床AI平台OpenEvidence合作进行。",
+    "key_points": [
+      "苹果启动新研究项目分析用户与AI健康工具的交互",
+      "与临床AI平台OpenEvidence合作进行",
+      "旨在提升AI在医疗领域回应的实用性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cac14dbf1b1ad3347464dae233e30504",
+    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+    "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-16T01:26:56+00:00",
+    "content_snippet": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [&#8230;]",
+    "title_zh": "苹果新研究致力于提升AI健康工具的有效性",
+    "summary_zh": "苹果宣布与临床AI平台OpenEvidence合作开展一项新研究，旨在深入了解人们如何与对话式AI健康工具交互，并评估这些工具回复的实际有用性。",
+    "key_points": [
+      "苹果与OpenEvidence合作研究AI健康工具",
+      "评估对话式AI在健康咨询中的实际有效性",
+      "目标是提升医疗AI工具的回复质量和实用价值"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f8a9499d52cc824df10b049f76943dd4",
+    "title": "OpenAI Foundation Board Member: \"AI Accidents Will Soon Become the Leading Cause of Death for Humanity\" — BigGo Finance",
+    "url": "https://www.reddit.com/r/artificial/comments/1xxc7ah/openai_foundation_board_member_ai_accidents_will/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-16T01:08:43+00:00",
+    "content_snippet": "<table> <tr><td> <a href=\"https://www.reddit.com/r/artificial/comments/1xxc7ah/openai_foundation_board_member_ai_accidents_will/\"> <img alt=\"OpenAI Foundation Board Member: &quot;AI Accidents Will Soon Become the Leading Cause of Death for Humanity&quot; — BigGo Finance\" src=\"https://external-preview.redd.it/bAIc9KCAY9cBUi3gHZzAG-ybzKNENXM6tKqYxdXCKB8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=772aa5e4146270da671e82d8d5f922d60ab982d6\" title=\"OpenAI Foundation Board Member: &quot;AI Accide",
+    "title_zh": "OpenAI基金会董事：AI事故将很快成为人类死亡的主要原因",
+    "summary_zh": "一位OpenAI基金会董事会成员发出严厉警告，认为随着人工智能的发展失控，由AI引发的事故可能很快就会超越其他因素，成为导致人类死亡的首要原因。",
+    "key_points": [
+      "OpenAI基金会董事对AI安全发出极度悲观的预测",
+      "断言AI事故将很快成为人类死亡的主要原因",
+      "凸显了AI领域高层对潜在生存风险的深切担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1f2341cfde06411283c9680060294026",
+    "title": "Social Simulation with LLMs - From Proxies to Population (CFP @ AAAI'27) Due Nov. 20 [R]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xxc63w/social_simulation_with_llms_from_proxies_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-16T01:07:01+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Say you simulate a population of LLM agents and get polarization, norm formation or an information cascade. How do you know the population produced it, and not the prompt, the base model or something memorized from pretraining?</p> <p>That attribution problem is the focus of the 3rd Workshop on Social Simulation with LLMs (Social Sim’27), held at AAAI-27 in Montréal (Feb 22 or 23, 2027).</p> <p>We’re looking for work on three axes:</p> <ul> <li><strong>Populatio",
+    "title_zh": "基于LLM的社会模拟：从代理到群体（AAAI'27征稿）",
+    "summary_zh": "AAAI 2027研讨会征稿，关注使用大语言模型进行社会模拟时的归因问题，探讨如何区分模拟结果是由人口特征、提示词还是模型本身的预训练记忆造成的。",
+    "key_points": [
+      "征集关于大模型社会模拟可信度的研究论文",
+      "核心挑战是区分模拟结果的各种干扰因素",
+      "截稿日期为2026年11月20日"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9dd81e666d4764f55300f798a766d258",
+    "title": "The jagged edge of the AI boom — Stanford HAI on why AI's gains are so uneven",
+    "url": "https://www.reddit.com/r/artificial/comments/1xxbzrh/the_jagged_edge_of_the_ai_boom_stanford_hai_on/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-16T00:58:49+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Stanford HAI has a new piece on the 'jagged edge' of the AI boom: the gains are real, but they are wildly uneven. Some people and industries are transformed overnight; others see little change, or get the downsides first. The boom is not a rising tide — it is a jagged edge, and where you stand on it matters more than the average.</p> <p>That framing feels right. We keep arguing about whether AI is 'good' or 'bad' in the aggregate, when the honest answer is that ",
+    "title_zh": "AI繁荣的锯齿边缘：斯坦福HAI解析AI收益为何如此不均",
+    "summary_zh": "斯坦福大学以人为本人工智能研究所指出，当前的AI繁荣并非普惠的浪潮，其收益极不均衡，呈现“锯齿边缘”特征，部分行业一夜巨变，而其他领域却变化甚微甚至首先遭遇负面影响。",
+    "key_points": [
+      "AI繁荣带来的收益在不同行业和个人间分配极不均衡",
+      "部分领域和人群可能首先承受AI的负面影响",
+      "指出AI发展不是普涨浪潮，而是起伏剧烈的锯齿边缘"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0f487767749ac9836ff4f202c08bcb39",
+    "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+    "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-16T00:00:28+00:00",
+    "content_snippet": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai [&#8230;]",
+    "title_zh": "AI Day首尔盛会汇聚韩国行业领袖、初创公司及开发者社区",
+    "summary_zh": "英伟达在首尔举办的AI Day活动吸引了超2000名与会者，旨在连接韩国在物理AI和AI智能体领域的行业领袖、初创公司和开发者。英伟达机器人部门副总裁在大会上强调了韩国的优势。",
+    "key_points": [
+      "英伟达在韩国举办AI Day，超2000人参会",
+      "聚焦物理AI与AI智能体技术",
+      "英伟达高管称赞韩国是AI领域的优势地区"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
