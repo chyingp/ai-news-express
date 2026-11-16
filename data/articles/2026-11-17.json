@@ -950,5 +950,79 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bf8f9d15a6c6411bf0f49eb3615afd0d",
+    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+    "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-16T22:58:27+00:00",
+    "content_snippet": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+    "title_zh": "由埃里克·特朗普支持的机器人战士初创公司拖欠工资，面临倒闭",
+    "summary_zh": "一家曾获埃里克·特朗普支持的机器人初创企业因资金耗尽而拖欠员工工资，此前还被曝出CEO挪用公司资金购买豪宅，公司可能即将倒闭。",
+    "key_points": [
+      "该公司由埃里克·特朗普支持，现已拖欠员工工资",
+      "CEO曾挪用公司资金购买豪宅，引发财务危机",
+      "公司面临倒闭风险，凸显治理与资金管理问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "121439385f51b6a7d3fe7f0b0d1e4f10",
+    "title": "Sharing an AI workflow should mean more than sharing the prompt",
+    "url": "https://www.reddit.com/r/artificial/comments/1xy3mkd/sharing_an_ai_workflow_should_mean_more_than/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-16T22:40:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>You can hand someone a prompt and the right files but still leave out half the stuff they need to know. Say it pulls open issues into a weekly engineering update. You know which tickets are stale and that 'done' sometimes means merged but not deployed, so you account for that without thinking much about it. A coworker running the same workflow might take the output at face value.</p> <p>At work we have this platform for finance and whatever else it does but then",
+    "title_zh": "分享AI工作流的意义应超越分享提示词本身",
+    "summary_zh": "文章探讨在分享AI工作流时，仅提供提示词和文件是不够的，还需包含上下文、隐含规则和边界条件等完整流程信息，才能真正让他人复现和使用。",
+    "key_points": [
+      "仅分享提示词和文件无法传达完整的AI工作流",
+      "需包含上下文、隐含假设和边缘案例等隐性知识",
+      "强调分享完整流程对团队协作和效率提升至关重要"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "8172f7237e0f7511f800dcb93610b990",
+    "title": "Three small failures combined to take down Microsoft 365",
+    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-16T21:56:39+00:00",
+    "content_snippet": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+    "title_zh": "三个小故障叠加致微软365全球宕机",
+    "summary_zh": "微软披露，一个隐藏的软件错误、不寻常的流量转移和容量缩减这三个独立的小问题相互作用，最终引发了影响全球的微软365服务大规模中断。",
+    "key_points": [
+      "隐藏软件错误是宕机的初始诱因",
+      "流量异常转移与容量缩减加剧了故障",
+      "三个小问题级联导致全球性服务中断"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
