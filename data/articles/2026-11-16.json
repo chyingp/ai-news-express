@@ -730,5 +730,29 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "02e1256c48aa50fb003b445853150c09",
+    "title": "Yay or Nah",
+    "url": "https://www.reddit.com/r/artificial/comments/1xxg6jh/yay_or_nah/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-16T04:30:51+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This I my multi agent harness. I use It all day every day. Ill keep it short. Would you use it. </p> <p>The face </p> <p><a href=\"https://github.com/AIOSAI/baud\">https://github.com/AIOSAI/baud</a></p> <p>The harness</p> <p><a href=\"https://github.com/AIOSAI/AIPass\">https://github.com/AIOSAI/AIPass</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AIOSAI\"> /u/AIOSAI </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/art",
+    "title_zh": "Yay or Nah",
+    "summary_zh": "发布者介绍了一个日常使用的多智能体框架，并附上相关开源项目链接，询问社区是否愿意使用。",
+    "key_points": [
+      "发布者分享个人高频使用的多智能体框架",
+      "附带了名为baud和AIPass的开源项目链接",
+      "核心目的是向社区征集使用意愿反馈"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
