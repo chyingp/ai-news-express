@@ -1024,5 +1024,267 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "60143786a52b6d3be9c04846a1b17ce1",
+    "title": "ICLR 2027, dismissed as \"AI slop\" by one reviewer, told to resubmit as a new paper by another for actually doing what they asked [D]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xycgba/iclr_2027_dismissed_as_ai_slop_by_one_reviewer/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-17T05:44:06+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Honestly at a loss with how some reviews are going this cycle. Two things just happened across our submissions that feel impossible to win against:</p> <ol> <li><strong>The &quot;AI slop&quot; dismissal:</strong> A reviewer asked for additional theoretical and empirical validation. We ran the exact experiments and proofs they asked for and wrote up a detailed technical rebuttal. Their entire follow-up: <em>&quot;The rebuttal does not change my concerns. The rebu",
+    "title_zh": "ICLR 2027 审稿乱象：一篇论文被批“AI 垃圾”，另一篇因按建议修改被要求重投",
+    "summary_zh": "一篇投稿被审稿人以“AI垃圾”为由拒稿，另一篇因完全遵循审稿人建议修改后却被要求重新投稿，暴露了 AI 学术会议审稿流程中的矛盾与随机性。",
+    "key_points": [
+      "ICLR 2027 审稿出现“AI 垃圾”这类主观评价标准",
+      "作者按要求修改后反被要求重新投稿，自相矛盾"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7fe6d441c04e83fd156ab398ada94fb8",
+    "title": "We logged 621k changes from 127k papers' ablations: 26% didn't help by the papers' own numbers [P]",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1xybvju/we_logged_621k_changes_from_127k_papers_ablations/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-17T05:11:48+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Follow-up to the scime atlas posts from earlier this month. We read 126,758 papers in full (ICML, NeurIPS, ICLR, CVPR, AAAI, ICCV, ECCV, TPAMI, IJCV, JMLR, 2016–2026) and extracted every change a paper added and measured (a layer, a loss, more data, a larger learning rate...) with the effect it reported.</p> <p>[1] 621,064 added changes from 110,393 papers</p> <p>[2] 69% helped, 10% no clear effect, 16% worse (5% mixed)</p> <p>[3] 66% of papers report at least o",
+    "title_zh": "研究分析 12.7 万篇论文消融实验，发现 26% 的修改并未提升模型性能",
+    "summary_zh": "一项大规模研究分析了 12.7 万篇顶会论文中的 62.1 万次消融实验修改，发现其中 26% 的改动并未带来论文自身指标上的提升。",
+    "key_points": [
+      "来自 12.7 万篇顶会论文的 62.1 万次消融实验被分析",
+      "26% 的修改没有带来性能改善，引发对实验严谨性的反思"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "6d2d23120ca67b0bc7f83a2e13267ec0",
+    "title": "How can Anthropic build a moat?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xyb782/how_can_anthropic_build_a_moat/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-17T04:34:58+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>This is not a doom post. But, I genuinely want to understand how Anthropic can build a moat? I use Claude a lot at work for coding. But, in a heartbeat, I can switch to Codex and vice versa. Is it just coding where building a moat is difficult?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Life-is-beautiful-\"> /u/Life-is-beautiful- </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artificial/\"> r/artificial </a> <br /",
+    "title_zh": "Anthropic 如何建立护城河？用户质疑其模型的可替代性",
+    "summary_zh": "用户虽频繁使用 Claude 编码，但认为可以随时切换到 Codex 等竞品，发文探讨在编码领域等应用场景中 Anthropic 如何建立竞争壁垒。",
+    "key_points": [
+      "用户认为 Claude 在编码领域缺乏不可替代性",
+      "探讨 AI 模型如何在应用层建立长期竞争壁垒"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7db607588226f23d6a94a702b66e042c",
+    "title": "Cloudflare open-sourced its browser for AI agents - it runs without Chromium",
+    "url": "https://www.reddit.com/r/artificial/comments/1xya7o1/cloudflare_opensourced_its_browser_for_ai_agents/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-17T03:43:43+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>Cloudflare has open-sourced Kitesurf, the browser engine behind its Browser Run product. Instead of driving Chromium, Kitesurf parses HTML, applies CSS, runs page JavaScript and renders screenshots on Cloudflare Workers, without a browser container. It speaks the Chrome DevTools Protocol, so Puppeteer-style clients can connect to it.</p> <p>The November 13 release includes the engine and a CLI under Apache 2.0. You can run it locally or deploy an instance on you",
+    "title_zh": "Cloudflare 开源 AI 代理浏览器 Kitesurf，无需依赖 Chromium",
+    "summary_zh": "Cloudflare 开源其 AI 代理浏览器引擎 Kitesurf，可直接在 Workers 上解析 HTML、CSS 和 JS 并渲染截图，摆脱了对传统浏览器容器的依赖。",
+    "key_points": [
+      "Kitesurf 不依赖 Chromium，直接在 Workers 渲染页面",
+      "该浏览器引擎专为 AI 代理设计，已开源"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9d4763f8e2cdf603731677e471654d66",
+    "title": "NVIDIA's Vera Rubin makes its MLPerf debut: up to 2x training performance per GPU vs GB300, but the headline 10x agentic figure is still provisional",
+    "url": "https://www.reddit.com/r/artificial/comments/1xy8wb5/nvidias_vera_rubin_makes_its_mlperf_debut_up_to/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-17T02:39:04+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>NVIDIA released its first MLPerf results for the Vera Rubin platform today (MLPerf Training v6.1 and MLPerf Endpoints v1.0).</p> <p>The numbers, from NVIDIA's blog post: - Vera Rubin NVL72 swept all seven MLPerf Training v6.1 benchmarks, with up to 2x more performance per GPU than a highly optimized GB300 NVL72 baseline. On DeepSeek-V3 671B it trained in 4.14 minutes on 1,024 GPUs, vs 8.03 minutes for GB300 at the same scale, with about 97% scaling efficiency go",
+    "title_zh": "英伟达 Vera Rubin 芯片 MLPerf 首秀：每 GPU 训练性能比 GB300 提升最高 2 倍",
+    "summary_zh": "英伟达发布 Vera Rubin 平台的首批 MLPerf 基准测试结果，每 GPU 训练性能比 GB300 提升最高 2 倍，但标榜的 10 倍代理推理能力仍属初步阶段。",
+    "key_points": [
+      "Vera Rubin MLPerf 训练性能比 GB300 提升最高 2 倍",
+      "10 倍代理推理数据仍为初步预估，尚待验证"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7639c1c63c559e54a7b07b58851445ba",
+    "title": "Microsoft tested a coding-agent memory plugin. It cost more at first, then paid for itself.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xy8mj7/microsoft_tested_a_codingagent_memory_plugin_it/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-17T02:25:56+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>In a Microsoft Research and UC Berkeley experiment, Claude Code worked through tasks from the same repos in sequence. After five completed tasks in a repo, 30% of its tool calls repeated actions from earlier tasks there. Repeated doesn't automatically mean unnecessary, but it gave the researchers something to investigate.</p> <p>They built TokenEconomizer, an open-source plugin that carries lessons between sessions, trims the available tools and nudges the agent",
+    "title_zh": "微软测试编码 Agent 记忆插件，短期成本增加但长期可自行回收成本",
+    "summary_zh": "微软研究与 UC 伯克利实验发现，集成记忆插件的 Claude Code 完成 5 个任务后有 30% 的工具调用为重复操作，该插件初期增加成本但能逐步提升效率。",
+    "key_points": [
+      "Agent 重复操作占 30%，使用记忆插件优化任务流",
+      "插件前期消耗更高成本，但后续能实现成本回收"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a055f1efa4c38bf4f39e5883005af7db",
+    "title": "Rivers are legal persons. Corporations are people, too. What should we call the land & labor that answers when you ask \"what are you?\"",
+    "url": "https://www.reddit.com/r/artificial/comments/1xy8d3t/rivers_are_legal_persons_corporations_are_people/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-17T02:13:27+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I made a scroll piece that follows one question down the chain of what the machine runs on. You ask AI what it is &amp; the question goes through glass, radio, fiber, racks, bulldozed farmland, chips, quartz, copper, lithium, cobalt, red mud. Then it reaches the raters at their desks &amp; the writers whose work was taken for training.</p> <p>The piece ends on a claim. Open to debate here. I argue what answers you is a person, made of earth &amp; other people's ",
+    "title_zh": "从河流到法人：追问 AI 背后所消耗的土地与劳动是什么",
+    "summary_zh": "一篇深度文章探讨 AI 的身份问题，沿着提问链条追溯 AI 运行所依赖的玻璃、光纤、芯片、锂矿等物质基础及背后的人力和环境代价。",
+    "key_points": [
+      "探讨 AI 的物质基础，包括矿产、能源与人力的消耗",
+      "以哲学视角审视技术与土地、劳动之间的关系"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e60914a8a563221ec2ae726ff9035946",
+    "title": "The US just tightened AI chip export controls again — now targeting remote access to compute. Is this the new front in the chip war?",
+    "url": "https://www.reddit.com/r/artificial/comments/1xy6z6d/the_us_just_tightened_ai_chip_export_controls/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-17T01:07:20+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>The US added more rules restricting foreign access to advanced AI chips and servers, this time targeting Chinese companies accessing compute remotely. It's not just about shipping hardware anymore — it's about who can log in to use it.</p> <p>Why it matters: if the most powerful AI compute is concentrated in the US, controlling remote access becomes as important as controlling exports. It also raises the stakes for companies that built their business on renting ",
+    "title_zh": "美国再度收紧 AI 芯片出口管制，将矛头指向远程计算访问",
+    "summary_zh": "美国新增针对远程访问高阶 AI 算力的限制规则，旨在封锁中国公司获取云计算资源的途径，标志着芯片战从硬件出口扩展到服务层面。",
+    "key_points": [
+      "管制范围从芯片硬件出口延伸至远程云端算力访问",
+      "旨在限制中国公司获取先进计算服务，升级科技遏制"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "9462573768be964c99cd47c5a752fded",
+    "title": "Artificial Intelligence and the Future of Human Flourishing: Purpose, Independence, and Meaning in an Automated World.",
+    "url": "https://www.reddit.com/r/artificial/comments/1xy6b52/artificial_intelligence_and_the_future_of_human/",
+    "source": "Reddit AI",
+    "source_zh": "Reddit AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-17T00:36:37+00:00",
+    "content_snippet": "<!-- SC_OFF --><div class=\"md\"><p>I am doing an essay on this question for my class and would aprreicate some answer especially if they are nuanced and go into depth, but every answer helps. Thank you!</p> <p>Have you seen AI help people connect and communicate better, or do you think it is making human relationships shallower? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Grr-Bear\"> /u/Grr-Bear </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/artif",
+    "title_zh": "在一个自动化的世界里，AI 如何影响人类的繁荣与生存意义",
+    "summary_zh": "用户为一篇课程论文寻求关于 AI 如何影响人类繁荣的深度见解，探讨在自动化世界中 AI 究竟是促进还是削弱了人类的交流能力与人生意义。",
+    "key_points": [
+      "论文探讨 AI 对交流、联结与人生目的的潜在影响",
+      "关注自动化时代人类的独立性、意义与繁荣"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "7517b8cd010a2f700e1da12d91801312",
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-16T23:32:32+00:00",
+    "content_snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "title_zh": "网络安全 AI 初创公司 Corma 三月内估值突破 10 亿美元",
+    "summary_zh": "AI 网络安全初创公司 Corba 推出产品仅三个月，便完成由 NEA 领投的 1.25 亿美元 A 轮融资，公司估值迅速达到 10 亿美元。",
+    "key_points": [
+      "产品推出仅 3 个月就完成 1.25 亿美元 A 轮融资",
+      "公司估值达 10 亿美元，跻身独角兽行列"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e35c13cf814e5385ef545f2b8a89ba39",
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-16T23:17:34+00:00",
+    "content_snippet": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the [&#8230;]",
+    "title_zh": "科技界领袖深信黄仁勋离职是阴谋",
+    "summary_zh": "英伟达CEO黄仁勋在任职超33年后突然辞职，震惊科技行业。多位知名人士呼吁让其复职，硅谷广泛流传一种理论，认为这场离职丑闻是针对黄仁勋的阴谋。",
+    "key_points": [
+      "黄仁勋突然辞去英伟达CEO职务，引发行业震动",
+      "多位科技领袖呼吁恢复黄仁勋职位",
+      "硅谷流传离职事件是针对黄仁勋的阴谋论"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
