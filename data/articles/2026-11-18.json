@@ -923,5 +923,179 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "a5b2e1c3e893605eb2767bc9a3545291",
+    "title": "Satya Nadella says he’s AGI-pilled now",
+    "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-17T23:41:18+00:00",
+    "content_snippet": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked [&#8230;]",
+    "title_zh": "Satya Nadella称自己已“AGI信仰充值”，认为AGI将重塑经济政治结构",
+    "summary_zh": "微软CEO萨提亚·纳德拉表示他已接受AGI将带来深远变革的观点，特别是在经济结构层面，并探讨了围绕AGI的政治经济学组织方式可能发生的惊人转变。",
+    "key_points": [
+      "纳德拉认为AGI将在经济层面引发结构性剧变",
+      "他关注围绕AGI的政治经济学组织形态将如何改变"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "74fa1f5e6e2f7677cffaf75aa820312a",
+    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+    "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "开源项目",
+    "language": "en",
+    "published": "2026-11-17T23:04:35+00:00",
+    "content_snippet": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+    "title_zh": "英伟达称黄仁勋离职后开源AI战略保持不变",
+    "summary_zh": "在黄仁勋突然离职后，英伟达临时CEO重申公司将坚持开源AI战略，并继续推进收购Hugging Face的计划。",
+    "key_points": [
+      "英伟达临时CEO重申开源AI战略不变",
+      "收购Hugging Face计划持续推进"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5ea469280783a69cc4f77f7e674de033",
+    "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+    "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-17T22:32:16+00:00",
+    "content_snippet": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+    "title_zh": "数百网站向访客投放恶意软件组合包",
+    "summary_zh": "大规模恶意攻击通过优化平台向数百个网站的访客分发恶意软件，包含加密货币盗窃载荷和iOS漏洞利用程序，威胁严重。",
+    "key_points": [
+      "恶意软件通过优化平台传播至数百网站",
+      "载荷包含加密货币盗取工具和iOS漏洞利用"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "50f33a0b80680afa2bf474d8ffb4043c",
+    "title": "SEC reportedly investigating Nvidia amid Huang exit",
+    "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-17T21:48:07+00:00",
+    "content_snippet": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+    "title_zh": "黄仁勋离职之际，SEC据报对英伟达展开调查",
+    "summary_zh": "据华尔街日报报道，美国证券交易委员会（SEC）在CEO黄仁勋承认与所谓中国间谍有染并离职后，启动了对英伟达的调查。",
+    "key_points": [
+      "黄仁勋承认与所谓中国间谍有染并离职",
+      "SEC正式启动对英伟达的调查"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1755d378df15e48be9e6d9c6bf2c5dce",
+    "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+    "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-17T21:40:59+00:00",
+    "content_snippet": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang [&#8230;]",
+    "title_zh": "英伟达Q3财报达标 对黄仁勋事件避而不谈",
+    "summary_zh": "英伟达临时CEO科莱特·克雷斯公布了第三季度财报，业绩符合预期，但在电话会议中起初完全未提及前CEO黄仁勋的离职及回归风波。",
+    "key_points": [
+      "英伟达Q3财报业绩达标",
+      "财报电话会初期避谈黄仁勋离职与回归风波"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cb376b92586c68a31d1eb937714d908f",
+    "title": "Google joins the tech outage trend by announcing it’s not having one",
+    "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-17T21:34:50+00:00",
+    "content_snippet": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+    "title_zh": "谷歌加入科技宕机潮，但宣布自己一切正常",
+    "summary_zh": "在全球科技服务接连出现故障的趋势中，谷歌做出罕见举动，主动发布声明确认Gmail等服务运行正常，试图安抚用户情绪。",
+    "key_points": [
+      "谷歌主动声明Gmail等服务无故障",
+      "此举在全球科技宕机潮中显得格外突出"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a1592a2be395aeb6f2bc967491bb7c83",
+    "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+    "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-17T21:00:55+00:00",
+    "content_snippet": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and [&#8230;]",
+    "title_zh": "连Sam Altman也难逃Instagram上的AI深度伪造",
+    "summary_zh": "Instagram上AI深度伪造内容泛滥，连Meta首席AI官等高管和OpenAI的Sam Altman也成为伪造对象，凸显了平台治理难题。",
+    "key_points": [
+      "Meta首席AI官及Sam Altman均成深度伪造目标",
+      "Instagram充斥着AI生成的虚假内容，治理问题严峻"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta",
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
