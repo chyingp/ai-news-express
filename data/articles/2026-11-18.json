@@ -1097,5 +1097,54 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "bc5af31336e3c5bee62c3c49da6e6de6",
+    "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+    "url": "https://www.qbitai.com/2026/11/510737.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "行业动态",
+    "language": "zh",
+    "published": "2026-11-18T02:49:23+00:00",
+    "content_snippet": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+    "title_zh": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+    "summary_zh": "报道了小红书举办的一场校招技术沙龙，探讨了AI时代下，新一代顶尖技术人才所关注的话题与发展野心。",
+    "key_points": [
+      "小红书校招沙龙聚焦新一代技术人才的AI愿景",
+      "活动展现了年轻技术群体对AI发展的认真与雄心"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ffe3acfea49519b9308feaccc2d1eff1",
+    "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+    "url": "https://www.qbitai.com/2026/11/510707.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-11-18T00:49:14+00:00",
+    "content_snippet": "Sol逼近旗舰性能",
+    "title_zh": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+    "summary_zh": "报道了GPT-6.2 Astra模型和Sol模型的发布，其性能逼近旗舰水平，可能对3D内容生成等领域带来冲击。",
+    "key_points": [
+      "GPT-6.2 Astra和Sol两款新模型发布",
+      "Sol模型性能接近旗舰级别",
+      "新模型可能对3D内容领域构成挑战"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
