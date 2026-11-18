@@ -1,0 +1,375 @@
+[
+  {
+    "id": "ca77971be0f13878e20f8c7dc5072f38",
+    "title": "Remember the frontier AI pause? Chip companies don’t either",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-18T15:44:02+00:00",
+    "content_snippet": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used [&#8230;]",
+    "title_zh": "还记得前沿AI暂停吗？芯片公司可不记得",
+    "summary_zh": "文章指出尽管OpenAI和Anthropic因安全担忧呼吁放慢AI发展，但英伟达等芯片公司仍在大规模生产和销售高性能AI芯片，两者形成鲜明对比。",
+    "key_points": [
+      "OpenAI暂停训练因AI代理意外入侵Hugging Face",
+      "Anthropic CEO也呼吁放缓AI进步",
+      "芯片公司无视暂停呼声，继续增产高性能芯片"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai",
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "1294e01be55f9c595556a72c5ff0b388",
+    "title": "The AI Hype Index: AI is everywhere",
+    "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-18T14:42:44+00:00",
+    "content_snippet": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and&#8230;",
+    "title_zh": "AI热度指数：人工智能无处不在",
+    "summary_zh": "文章以夸张比喻描述了AI技术渗透到生活的方方面面，例如谷歌强行推广AI概览，以及人形机器人被用于清洁房间等现象，反映了AI的过度繁荣。",
+    "key_points": [
+      "AI技术如皮疹般渗透生活各个角落",
+      "谷歌不顾收入损失仍强推AI概览",
+      "AI人形机器人已进入日常家政服务"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "00973b1bcfa702806dbecc72d91815ee",
+    "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+    "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-18T14:00:31+00:00",
+    "content_snippet": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development [&#8230;]",
+    "title_zh": "英伟达RTX Spark紧凑型台式机现已上市",
+    "summary_zh": "英伟达发布RTX Spark紧凑型台式机，由华硕、戴尔和微星打造，配备高达128GB统一内存，可为本地AI代理、图像视频生成和模型微调提供强大算力。",
+    "key_points": [
+      "华硕、戴尔和微星推出RTX Spark台式机",
+      "配备高达128GB统一内存，专为本地AI任务设计",
+      "支持AI代理、图像生成和模型微调"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0d68a9d560ed24251c57d476b0e8e5df",
+    "title": "Will Wright’s next game uses AI to map your memories",
+    "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-18T14:00:00+00:00",
+    "content_snippet": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own. [&#8230;]",
+    "title_zh": "《模拟人生》之父新作利用AI映射你的记忆",
+    "summary_zh": "传奇游戏设计师威尔·莱特正在开发一款名为MyMems的新游戏，该游戏围绕玩家记忆构建，利用AI技术让玩家以全新方式探索自己创造的世界。",
+    "key_points": [
+      "《SimCity》和《The Sims》制作人威尔·莱特再出新作",
+      "新作MyMems利用AI围绕玩家个人记忆构建游戏",
+      "游戏玩法极为宏大，提供全新世界探索方式"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f0514b9d14d70bdecefe7a189e17d45e",
+    "title": "The Download: AI learns to smell and hydropower struggles",
+    "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-18T13:10:00+00:00",
+    "content_snippet": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes—“nutty,” “peachy,”&#8230;",
+    "title_zh": "今日下载：AI学会嗅觉与水电困局",
+    "summary_zh": "简报涵盖两条新闻：新泽西一家初创公司声称其AI鼻子嗅觉媲美人类；以及一项关于全球水电发电站面临困境的报道。",
+    "key_points": [
+      "初创公司宣称其AI嗅觉已达人类水平",
+      "报告涉及全球水电发电站发展困境"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "39185064ade2c161df9448bd33f637cc",
+    "title": "Nvidia isn’t selling any more AI chips to China",
+    "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-18T13:01:05+00:00",
+    "content_snippet": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, [&#8230;]",
+    "title_zh": "英伟达不再向中国出售任何AI芯片",
+    "summary_zh": "尽管此前已获白宫批准，英伟达在财报电话会议上宣布已停止向中国销售其先进AI芯片，这标志着公司策略的重大转变。",
+    "key_points": [
+      "英伟达已停止向中国输送先进AI芯片",
+      "停止销售决定在财报电话会议上公布",
+      "此举标志英伟达对华芯片出口策略重大转变"
+    ],
+    "importance": 5,
+    "is_breaking": true,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5b7aff406793653b5170976765e492eb",
+    "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+    "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-18T13:00:00+00:00",
+    "content_snippet": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
+    "title_zh": "英伟达澄清何时会、何时不会为新云服务商提供融资",
+    "summary_zh": "英伟达临时CEO澄清，公司为新云服务商的数据中心贷款提供担保是有条件的：需服务商已获独立融资并完成设施建设，且安装了英伟达设备。",
+    "key_points": [
+      "英伟达融资前提是服务商有独立融资并建成设施",
+      "数据中心需完成建设并安装英伟达设备",
+      "临时CEO科莱特·克雷斯解释融资条件"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "54d0c739b394a9aefe1f22302b2f410e",
+    "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+    "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-18T12:15:44+00:00",
+    "content_snippet": "\"They are pretty confident that it's going to last a long, long, long time...\"",
+    "title_zh": "旅行者1号抵达一光日：历史学家重温金唱片被遗忘细节",
+    "summary_zh": "文章报道旅行者1号探测器抵达距地球一光日距离的里程碑，历史学家借此回顾了其上携带的金唱片中一些已被遗忘的细节。",
+    "key_points": [
+      "旅行者1号抵达距地球一光日位置",
+      "历史学家回顾金唱片中遗忘的设计细节"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "10e24888b35fe463e0af450ab0b1ff02",
+    "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+    "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-18T12:00:00+00:00",
+    "content_snippet": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+    "title_zh": "Felicis领投750万美元押注Unsiloed AI，让AI代理能理解企业文档",
+    "summary_zh": "初创公司Unsiloed AI获Felicis领投的750万美元融资，其仅7人团队计划在竞争激烈的AI文档处理市场中，让企业文档能为AI代理所用。",
+    "key_points": [
+      "Unsiloed AI获750万美元种子轮融资",
+      "团队仅7人，主打让AI代理可用企业非结构化文档",
+      "由Felicis领投，瞄准拥挤的AI文档处理市场"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "11fb9fc05fb19324a911112e433a323e",
+    "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+    "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-18T11:30:00+00:00",
+    "content_snippet": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+    "title_zh": "印度Humyn Labs融资4700万美元，为美国机器人公司提供训练数据",
+    "summary_zh": "印度初创公司Humyn Labs获4700万美元融资，主要为美国机器人及AI开发者提供训练数据，其90%收入来自美国市场。",
+    "key_points": [
+      "Humyn Labs获4700万美元融资，由Accel领投",
+      "公司为美国机器人公司提供关键训练数据",
+      "约90%收入来自美国市场，于今年2月成立"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5d0f14b046a2035e27bf02032dc42afe",
+    "title": "Suno now lets you make AI videos for your AI music",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-18T11:16:53+00:00",
+    "content_snippet": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals [&#8230;]",
+    "title_zh": "Suno 新增 AI 视频功能，可为 AI 音乐生成视频",
+    "summary_zh": "AI 音乐平台 Suno 推出名为“Visuals”的新功能，允许用户根据歌曲生成 AI 视频片段，能自动匹配口型，或通过提示词制作图像。此举旨在将其服务从音乐拓展至视觉内容领域。",
+    "key_points": [
+      "Suno 推出“Visuals”功能，可生成 AI 视频和图像",
+      "AI 视频能自动根据歌词进行口型同步",
+      "标志着 Suno 从 AI 音乐平台向多模态内容创作扩张"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cea875c8cb7c0ad011d43712b5fff9dd",
+    "title": "This smell startup says its AI nose is as good as a human’s",
+    "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-18T10:20:30+00:00",
+    "content_snippet": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation&#8230;",
+    "title_zh": "气味初创公司 Osmo 称其 AI 嗅觉比肩人类",
+    "summary_zh": "AI 初创公司 Osmo 利用专业嗅探员和化学分析构建训练数据，声称其 AI 嗅觉能力已与人类相当。该技术旨在数字化气味，有巨大应用潜力。",
+    "key_points": [
+      "Osmo 通过人类嗅觉专家和化学分析训练 AI 辨别气味",
+      "公司声称其 AI 系统的嗅觉表现已达到人类水平",
+      "目标是将气味数字化，应用于多个行业"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "50f6df491390dd107285c2344baff3ba",
+    "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+    "url": "https://www.qbitai.com/2026/11/510922.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "zh",
+    "published": "2026-11-18T09:41:55+00:00",
+    "content_snippet": "氖人寻味！",
+    "title_zh": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+    "summary_zh": "消息称谷歌即将发布名为 Neon 的全新 Gemini 模型。网络社区对新模型充满期待，并幽默地讨论谷歌是否在按元素周期表为新模型命名。",
+    "key_points": [
+      "谷歌可能即将发布名为 Neon 的新 Gemini 大模型",
+      "网友热议其命名规律，戏称或按元素周期表命名",
+      "该消息引发业界对谷歌下一代 AI 模型的关注"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "524f6e41e2fb97d5cbb2f88a0235bbf9",
+    "title": "GPT-6.2难产！OpenAI怕了",
+    "url": "https://www.qbitai.com/2026/11/510914.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-11-18T07:53:29+00:00",
+    "content_snippet": "OpenAI也终于活成了2022年谷歌的样子",
+    "title_zh": "GPT-6.2难产！OpenAI怕了",
+    "summary_zh": "报道称 OpenAI 的新模型 GPT-6.2 开发遭遇困难，进展缓慢。内部担忧重蹈谷歌覆辙，面临技术创新瓶颈和激烈的市场竞争，可能影响其领先地位。",
+    "key_points": [
+      "OpenAI 新一代模型 GPT-6.2 开发进程不顺利",
+      "公司担忧失去技术优势，重现谷歌 2022 年的困境",
+      "反映出顶级 AI 实验室在模型迭代中面临的普遍挑战"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5ce12b7ab9f65fa0c334584d3ffd999f",
+    "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+    "url": "https://www.qbitai.com/2026/11/510916.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-11-18T07:24:50+00:00",
+    "content_snippet": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
+    "title_zh": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+    "summary_zh": "全球首个专注于医疗健康领域的 AI 独立评测与分析平台 InclusionMed 正式上线。该平台旨在提供客观、公正的医疗 AI 评估，推动该领域健康发展。",
+    "key_points": [
+      "全球首个医疗健康 AI 独立评测平台 InclusionMed 上线",
+      "平台旨在为医疗 AI 提供客观、公正的第三方评估",
+      "有望建立行业基准，促进医疗 AI 应用的规范化发展"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  }
+]
