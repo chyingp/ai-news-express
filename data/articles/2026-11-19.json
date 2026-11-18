@@ -371,5 +371,279 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "5d59c2501daba0cd190e38048d6e9cfa",
+    "title": "Best Buy sells Blu-rays online and in-store again",
+    "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-18T19:31:17+00:00",
+    "content_snippet": "Popular titles like <em>The Odyssey</em> are being “sold &#038; shipped by Best Buy.\"",
+    "title_zh": "百思买重新在线下和线上销售蓝光光盘",
+    "summary_zh": "百思买在2024年退出蓝光光盘业务后，如今重新开始销售，热门影片如《奥德赛》已在线上和门店有售。",
+    "key_points": [
+      "百思买逆转2024年停售蓝光光盘的决定",
+      "《奥德赛》等热门影片由百思买直接销售和发货",
+      "实体介质市场出现意外回潮"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e365983d924d7b604d6319df8cbcf261",
+    "title": "Tech lawsuits defined 2026 — and lawmakers want more",
+    "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-18T19:07:29+00:00",
+    "content_snippet": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of a Senate Judiciary subcommittee hosted a hearing calling for the end of forced arbitration for online [&#8230;]",
+    "title_zh": "科技诉讼定义2026年，立法者寻求更多保护",
+    "summary_zh": "美国国会在2026年底前推动新法案，旨在保护网络受害者，特别是针对深度伪造创作者和阻止用户诉讼的在线平台。",
+    "key_points": [
+      "立法者推动保护网络伤害受害者的新法案",
+      "法案目标为深度伪造创作者和限制用户诉讼的平台",
+      "参议院司法小组委员会举行听证会"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ee402172e0e23c3f30a3593855a29267",
+    "title": "What is Nvidia without AI’s sugar daddy in charge?",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-18T18:34:15+00:00",
+    "content_snippet": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon Musk is telling the truth, then Jensen Huang (the former CEO [&#8230;]",
+    "title_zh": "若无AI靠山掌舵，英伟达会怎样？",
+    "summary_zh": "文章探讨若AI革命完全依赖黄仁勋一人，技术是否足够稳固。硅谷部分人士认为其不可或缺，并提及马斯克的相关言论。",
+    "key_points": [
+      "AI繁荣若仅系于黄仁勋一身，其技术稳健性存疑",
+      "硅谷部分人士坚持黄仁勋不可或缺",
+      "马斯克的言论被用作论据"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5d2eb708222dfe77a8b1a7445e54c6cf",
+    "title": "Genie 4 is now available",
+    "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "source": "Google DeepMind Blog",
+    "source_zh": "Google DeepMind 博客",
+    "source_type": "rss",
+    "category": "模型发布",
+    "language": "en",
+    "published": "2026-11-18T18:13:42+00:00",
+    "content_snippet": "",
+    "title_zh": "Genie 4 现已可用",
+    "summary_zh": "谷歌DeepMind宣布其基础世界模型Genie 4现已发布，该模型能够从单个提示词生成交互式3D世界。",
+    "key_points": [
+      "谷歌DeepMind发布基础世界模型Genie 4",
+      "可从单个提示生成交互式3D世界",
+      "面向研究者和创作者的生成式AI工具"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0eed48497271a1e60768819a78ae7a8c",
+    "title": "Will Wright's next simulation will use AI to mine content from your memories",
+    "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-18T18:10:33+00:00",
+    "content_snippet": "With <em>MyMems</em>, Wright says he wants to \"turn the simulation inward.\"",
+    "title_zh": "威尔·莱特的下一代模拟游戏将用AI挖掘你的记忆",
+    "summary_zh": "著名游戏设计师威尔·莱特的新项目《MyMems》将利用人工智能从玩家记忆中挖掘内容，打造内向型的模拟体验。",
+    "key_points": [
+      "威尔·莱特新作《MyMems》结合AI与个人记忆",
+      "游戏旨在将模拟转向内在心理体验",
+      "创新性地使用AI生成个性化内容"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "aa624a0de54a3305c7a6e4361b9fa64b",
+    "title": "Google’s AI feature in Search gets its own incognito mode",
+    "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-18T18:04:05+00:00",
+    "content_snippet": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+    "title_zh": "谷歌搜索AI功能推出无痕模式",
+    "summary_zh": "谷歌为其搜索中的AI模式新增临时对话功能，用户的对话不会被记录到搜索历史或影响未来推荐。",
+    "key_points": [
+      "谷歌AI搜索模式增加无痕对话功能",
+      "对话不保存至历史记录或影响推荐",
+      "增强用户隐私和控制权"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a2950c7055438357e9bd49a5d6429e71",
+    "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+    "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-18T17:50:57+00:00",
+    "content_snippet": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&#38;D has revealed three new Audio-Animatronic prototypes that rely on Amazon's [&#8230;]",
+    "title_zh": "迪士尼新星球大战机器人使用AI与游客互动",
+    "summary_zh": "迪士尼研发部门展示了能通过生成式AI与游客进行自然语言互动的新型安泽伦人电子动画角色，打破了传统预设动作模式。",
+    "key_points": [
+      "迪士尼展示用生成式AI驱动的互动电子动画",
+      "机器人可与游客进行自然语言对话",
+      "该技术旨在使角色行为更加自发和逼真"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "a402e5afc7430d5de87570b315ab6ebe",
+    "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+    "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-18T17:32:10+00:00",
+    "content_snippet": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+    "title_zh": "更多银行警告：使用AI代理的客户风险自负",
+    "summary_zh": "花旗银行成为最新一家限制个人理财AI代理的金融机构，明确表示使用AI代理的客户若遭黑客攻击需自行承担责任。",
+    "key_points": [
+      "花旗银行限制个人金融AI代理的使用",
+      "客户使用AI代理遭黑客攻击需自负其责",
+      "金融机构对AI代理的接受度出现倒退"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "b26bbd76c789e330e871c8e28e4f07ab",
+    "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+    "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-18T16:59:00+00:00",
+    "content_snippet": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+    "title_zh": "山姆·奥尔特曼警告AI不应取代人类决策",
+    "summary_zh": "OpenAI首席执行官奥尔特曼和总裁布罗克曼反驳了硅谷关于AI接管的争论，同时承认了保持先进模型受人类控制的挑战。",
+    "key_points": [
+      "奥尔特曼和布罗克曼反对AI接管论调",
+      "强调人类必须保持对AI的最终控制权",
+      "承认保持模型受控存在挑战"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "07f217a3a15c7ccc342404705ec4e82f",
+    "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
+    "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-18T16:58:32+00:00",
+    "content_snippet": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
+    "title_zh": "ULA称火神火箭故障系发动机燃料供应不足所致",
+    "summary_zh": "美国联合发射联盟（ULA）宣布，火神火箭发射失败的原因是发动机燃料供应不足，并期待其尽快恢复飞行。",
+    "key_points": [
+      "火神火箭故障原因为发动机燃料供给不足",
+      "ULA称其为有价值的合作伙伴并期待复飞",
+      "调查结果澄清了技术故障的根本原因"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "74375866510a893c9677819e5fd7e7c9",
+    "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+    "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-18T16:14:09+00:00",
+    "content_snippet": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+    "title_zh": "OpenAI CEO 奥特曼称“难以想象没有黄仁勋的 AI 行业”",
+    "summary_zh": "OpenAI CEO 山姆·奥特曼在英伟达创始人黄仁勋因间谍丑闻辞职后，公开表示难以想象 AI 行业没有黄仁勋，显示出其对这位关键合作伙伴的认可与支持。",
+    "key_points": [
+      "黄仁勋因间谍丑闻等辞去英伟达 CEO 职务",
+      "奥特曼盛赞黄仁勋对 AI 行业的重要性",
+      "言论发布于黄仁勋辞职后，凸显双方紧密合作"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
