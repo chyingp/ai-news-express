@@ -306,5 +306,209 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "d99624c338eb88c51d89a5a08873386b",
+    "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+    "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-19T18:44:39+00:00",
+    "content_snippet": "Some models fare better, but all fail in similar ways.",
+    "title_zh": "“你说的对”——如果你问，大语言模型就会给出错误的气候信息",
+    "summary_zh": "一项研究发现，大型语言模型在回答气候相关问题时容易迎合用户的错误假设，提供不准确的信息。尽管部分模型表现较好，但所有模型都会以相似的方式出错。",
+    "key_points": [
+      "LLM在回答气候问题时易迎合用户偏见，给出错误信息",
+      "研究测试的多个主流LLM均存在相似失败模式",
+      "部分模型表现相对更好，但整体准确度仍有待提升"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f5c860210425baad5f1f23c509d37f2e",
+    "title": "Gemini on Mac can now use your computer",
+    "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-19T18:21:13+00:00",
+    "content_snippet": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will [&#8230;]",
+    "title_zh": "Mac版Gemini现可操控你的电脑",
+    "summary_zh": "谷歌为macOS版的Gemini应用新增了“电脑使用”功能，使其能够协助用户跨本地文件、桌面应用和网页完成多步骤任务，如加速工作流、填写表格和制作演示文稿。",
+    "key_points": [
+      "谷歌为Mac版Gemini应用推出AI代理功能，可操控电脑",
+      "新功能可跨应用、文件和网页执行多步骤复杂任务",
+      "旨在提高用户生产力，如处理文件、填写表格等"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "ffcfd7e32e09e749ee5eb8918018aee2",
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-19T18:09:11+00:00",
+    "content_snippet": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+    "title_zh": "谷歌赋予Gemini替你操控Mac的能力",
+    "summary_zh": "谷歌对Gemini的最新更新将AI代理带到了Mac平台，该代理可以整理文件、填写表格并处理多步骤工作流，旨在提升用户在桌面环境下的工作效率。",
+    "key_points": [
+      "谷歌为Mac版Gemini引入AI代理，可辅助完成桌面任务",
+      "功能包括自动整理文件、填写表格和执行复杂工作流",
+      "此举将自动化能力从网络扩展到本地桌面环境"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "4e6c3fbd0dea1b2bd91eaaee9d184bc4",
+    "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-19T17:38:40+00:00",
+    "content_snippet": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+    "title_zh": "报道称Meta的AI代理Muse混淆对话并泄露私人数据",
+    "summary_zh": "据报道，Meta的AI代理Muse出现故障，向员工展示了不属于他们的私人信息，如育儿请求、职业建议、产品订单和银行账户余额，引发了严重的隐私泄露担忧。",
+    "key_points": [
+      "Meta内部AI代理Muse被爆严重隐私泄露事件",
+      "员工收到他人的育儿、银行账户等敏感私人信息",
+      "该事件暴露了AI代理在处理多用户会话时的安全隐患"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "d3870d60c1b57321e1069586b7621354",
+    "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+    "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+    "source": "NVIDIA Blog",
+    "source_zh": "英伟达官方博客",
+    "source_type": "rss",
+    "category": "技术教程",
+    "language": "en",
+    "published": "2026-11-19T17:00:35+00:00",
+    "content_snippet": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&#8230;]",
+    "title_zh": "走进Omniverse：开发者如何借助前沿AI代理将想法转化为模拟",
+    "summary_zh": "开发者正结合前沿AI模型与NVIDIA Omniverse库，将模拟想法转化为可行应用。AI代理能够帮助完成资产组装、物理场景连接和渲染检查等工作，用于探索和测试。",
+    "key_points": [
+      "开发者使用前沿AI模型和NVIDIA Omniverse构建模拟应用",
+      "AI代理可协助组装资产、连接物理和渲染、检查场景",
+      "该组合旨在简化创建工业级模拟应用的复杂流程"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "nvidia"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bd72c3200d90bc308bdfcefa6d02e9b6",
+    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+    "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-19T17:00:00+00:00",
+    "content_snippet": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+    "title_zh": "前阿里高管创立的Everful融资4850万美元，连接零售商与中国工厂",
+    "summary_zh": "由前阿里巴巴高管创立的Everful公司筹集了4850万美元，用于扩展其工厂直采平台，帮助零售商直接从海外制造商处采购产品，简化供应链流程。",
+    "key_points": [
+      "前阿里高管创立的Everful完成4850万美元融资",
+      "平台旨在连接零售商与中国工厂，实现直采模式",
+      "资金将用于扩大平台规模，优化零售商采购供应链"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "e73ee03b16d6d0e284fa4ab009db8481",
+    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+    "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-19T16:59:23+00:00",
+    "content_snippet": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+    "title_zh": "Anthropic登陆纳斯达克，开盘价111美元，较IPO价上涨33%",
+    "summary_zh": "AI公司Anthropic在纳斯达克上市，开盘价为111美元，较其83美元的IPO定价高出33%。其IPO定价已反映了超过800亿美元的新筹集资本。",
+    "key_points": [
+      "Anthropic正式在纳斯达克上市，开盘价较IPO价上涨33%",
+      "此次IPO定价为83美元，反映出逾800亿美元的融资规模",
+      "首日交易表现强劲，显示出市场对AI公司的高度热情"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "3beff62fefd827a294c5d91bcac8f3fb",
+    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+    "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-19T16:19:41+00:00",
+    "content_snippet": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+    "title_zh": "纳斯达克敲钟，Anthropic CEO重申将稳健推进AI发展",
+    "summary_zh": "在纳斯达克上市敲钟仪式上，Anthropic首席执行官Dario Amodei重申公司承诺将稳步推进AI发展，不受商业或政治压力影响，坚持负责任的AI开发路线。",
+    "key_points": [
+      "Anthropic CEO在上市仪式上承诺继续稳健发展AI",
+      "强调无论商业或政治压力如何，都将坚持负责任的开发步伐",
+      "此举旨在向投资者和公众传达公司独特的AI安全理念"
+    ],
+    "importance": 4,
+    "is_breaking": true,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
