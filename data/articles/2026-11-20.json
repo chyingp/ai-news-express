@@ -759,5 +759,31 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "15417601d21a9662c5461051f25d207f",
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-20T00:56:01+00:00",
+    "content_snippet": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "title_zh": "苹果或正研发可在Mac上运行的AI代理",
+    "summary_zh": "据报道，苹果正在开发自己的AI代理，该代理可直接在Mac电脑上运行，旨在与Meta Muse、Instinct、Claude和OpenAI Dots等竞品抗衡。",
+    "key_points": [
+      "苹果正在研发AI代理软件，可直接在Mac上本地运行",
+      "该代理旨在与Meta、OpenAI等公司的类似产品竞争",
+      "此举显示苹果正加速布局端侧AI助理领域"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "apple"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
