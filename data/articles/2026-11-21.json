@@ -96,5 +96,175 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "fab35115c8894b13052cb591d8608aa8",
+    "title": "Google's latest search page redesign drops the search button, adds AI sidebar",
+    "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-20T21:58:29+00:00",
+    "content_snippet": "Google search is making it even easier to access AI tools on the search page.",
+    "title_zh": "谷歌搜索页面重新设计：取消搜索按钮，新增AI侧边栏",
+    "summary_zh": "谷歌对搜索页面进行重大设计更新，移除了传统的搜索按钮，并在页面侧边新增AI工具侧边栏，旨在让用户更便捷地使用AI功能。",
+    "key_points": [
+      "谷歌搜索页面移除传统搜索按钮",
+      "新增AI工具侧边栏以整合AI功能",
+      "改版旨在提高用户对AI工具的访问便利性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5652e6a0a79ec65e344ab58d5d73802e",
+    "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+    "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-20T21:47:10+00:00",
+    "content_snippet": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+    "title_zh": "Meta 因 AI 数据中心排放创纪录，重新考虑 2030 年净零排放目标",
+    "summary_zh": "Meta 因 AI 数据中心导致排放量激增至历史新高，正在重新评估其 2030 年净零排放承诺，这引发了业界对其他科技公司是否会效仿的关切。",
+    "key_points": [
+      "AI 数据中心导致 Meta 温室气体排放创下历史新高",
+      "Meta 正重新评估其 2030 年净零排放目标",
+      "此举引发对科技行业气候承诺可行性的担忧"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "718dc2db66a106fb86a93a474a3db287",
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-20T20:59:08+00:00",
+    "content_snippet": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+    "title_zh": "研究人员在AI供应链中植入200万条金丝雀数据，隐私灾难浮出水面",
+    "summary_zh": "研究人员通过在提示词中植入可追踪的唯一秘密信息，证明用户数据在AI供应链中无法保障隐私，大量秘密数据被意外暴露。",
+    "key_points": [
+      "实验通过200万条金丝雀数据验证AI供应链存在严重隐私泄露",
+      "用户输入的秘密数据会在AI训练或推理流程中被暴露",
+      "测试证实当前AI系统无法有效保障数据隐私安全"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "2ef5eb9bccbe0c033a1278246c9bf7f9",
+    "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+    "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-20T20:26:33+00:00",
+    "content_snippet": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+    "title_zh": "NASA 新月球计划初具雏形，但关键问题犹存",
+    "summary_zh": "NASA 正在制定新的月球探索方案，虽已取得进展但仍在就部分技术细节进行辩论和推敲，计划的具体实施路径和最终形态仍存在不确定性。",
+    "key_points": [
+      "NASA 新登月计划仍在进行内部技术讨论与辩论",
+      "计划初步成形，但主要问题尚未达成最终共识"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "cc0a4dad659b5596f9be4bdfa50c4d83",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-20T19:53:41+00:00",
+    "content_snippet": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "title_zh": "Spotify创始人投资AI研究者的聚变能源初创公司",
+    "summary_zh": "Spotify创始人Daniel Ek投资了由AI研究者创立的聚变能源初创公司Europa Fusion，该公司致力于开发聚变能源技术，旨在利用AI加速清洁能源的突破。",
+    "key_points": [
+      "Spotify创始人Daniel Ek支持AI研究者创立的Europa Fusion",
+      "该初创公司利用AI技术推进聚变能源开发"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "222362b750f84a44c5a2cbf65c874edb",
+    "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+    "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-20T19:52:59+00:00",
+    "content_snippet": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
+    "title_zh": "美国监狱获准干扰违禁手机信号，CTIA警告可能殃及周边",
+    "summary_zh": "美国联邦通信委员会批准了一项新规，允许州立和地方监狱使用信号干扰技术来阻断囚犯的违禁手机。无线通信行业组织CTIA对此提出反对，称测试显示干扰范围可远至2.5英里（约4公里），会影响监狱外无辜民众的正常通信。",
+    "key_points": [
+      "FCC新规允许监狱使用信号干扰器对付囚犯违禁手机",
+      "CTIA警告干扰测试显示影响范围可达2.5英里外",
+      "新规引发监狱安全需求与公众通信权利之间的冲突"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f509e696672e071432ea86627c3eb49c",
+    "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-20T19:32:08+00:00",
+    "content_snippet": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+    "title_zh": "AI 宣称破解了167年历史的黎曼猜想，人类数学家也宣称做到",
+    "summary_zh": "近期数学界同时出现两项声称证明黎曼猜想的成果：一个来自AI驱动的研究，另一个来自人类数学家，引发广泛关注和震惊。该猜想是数学史上最著名的未解难题之一。",
+    "key_points": [
+      "AI驱动的研究成果宣称证明了黎曼猜想这一百年数学难题",
+      "人类数学家同期也公布了竞争性的证明成果",
+      "两项证明均需经过严格的同行评审以验证其正确性"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
