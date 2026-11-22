@@ -22,5 +22,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "772a602107cad2ee0d2e7ec2299ca0b5",
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-22T21:14:07+00:00",
+    "content_snippet": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "title_zh": "OpenAI 首席科学家对限制 AI 发展提出思考",
+    "summary_zh": "OpenAI 首席科学家认为，要对 AI 发展设置速度限制，首先需要就如何衡量发展速度达成共识。文章探讨了建立 AI 发展安全护栏的关键前提与衡量标准问题。",
+    "key_points": [
+      "OpenAI 首席科学家探讨如何为 AI 发展设立速度限制",
+      "强调确立 AI 发展速度的统一衡量标准是必要前提",
+      "观点涉及 AI 安全治理与行业规范的确立"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "openai"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
