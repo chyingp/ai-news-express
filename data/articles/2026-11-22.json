@@ -96,5 +96,77 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "eb4221432c79aedee3f0363070c8ce31",
+    "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+    "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-21T22:12:41+00:00",
+    "content_snippet": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+    "title_zh": "影评：《哥斯拉减零》跻身真正出色的续集之列",
+    "summary_zh": "本篇为电影评论，介绍导演山崎贵让哥斯拉对阵其最强大敌手之一的续集，认为其提升了系列水准。",
+    "key_points": [
+      "影片让哥斯拉对阵系列最强宿敌之一",
+      "导演山崎贵成功提升了续集制作水准",
+      "影评认为该片是出色的续集作品"
+    ],
+    "importance": 1,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f8ce89f0a31be533e3b307c1bcb16ddd",
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-21T21:37:10+00:00",
+    "content_snippet": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "title_zh": "Signal限制手机截图，应对AI监控的“生存威胁”",
+    "summary_zh": "Signal正在其安卓和iOS应用中限制用户的截图能力，以应对人工智能监控带来的所谓“生存威胁”，增强通讯隐私保护。",
+    "key_points": [
+      "Signal限制安卓与iOS端的截图功能以增强隐私",
+      "此举旨在直接对抗AI监控带来的生存威胁",
+      "这是加密通讯应用应对AI时代风险的最新举措"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "0a2e9e2641fc4aa3c0356be5c9099921",
+    "title": "The UN fails to agree on rules regulating ‘killer robots’",
+    "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-21T20:03:37+00:00",
+    "content_snippet": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the [&#8230;]",
+    "title_zh": "联合国未能就“杀手机器人”监管规则达成一致",
+    "summary_zh": "在日内瓦举行的联合国会议中，各国外交官未能就自主武器的使用规则达成一致，仅同意“开始讨论选项”，谈判进程基本无果而终。",
+    "key_points": [
+      "联合国会议未能就监管自主武器达成一致",
+      "各方仅同意开始讨论未来的潜在选项",
+      "谈判在历经一周后仍基本毫无成果"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
