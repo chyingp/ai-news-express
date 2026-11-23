@@ -74,5 +74,109 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "c1061207c903927a90cfc446cf39e655",
+    "title": "Meta Muse can now do your Black Friday shopping at Walmart",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-23T11:00:00+00:00",
+    "content_snippet": "Walmart will now let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. The retail giant is rolling out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without sharing your purchase history, [&#8230;]",
+    "title_zh": "Meta Muse 现可在沃尔玛帮你进行黑色星期五购物",
+    "summary_zh": "沃尔玛在其网站上正式上线代理网关，允许Meta的AI代理Muse代表用户查找并购买黑色星期五优惠商品，标志着AI代理在实际电商场景中的落地应用。",
+    "key_points": [
+      "沃尔玛上线Agent Gateway，允许Meta AI代理代为购物",
+      "Muse可代表用户在沃尔玛网站查找并购买黑五优惠",
+      "此合作展示了AI代理在电商领域的实时应用"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta",
+      "amazon"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "855fe82a94493f8b4bcadf8ff9ce4a61",
+    "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+    "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+    "source": "MIT Technology Review",
+    "source_zh": "MIT 科技评论",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-23T11:00:00+00:00",
+    "content_snippet": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A number of influential models&#8230;",
+    "title_zh": "为何用岩石除碳最终或导致农作物减产",
+    "summary_zh": "科技巨头正投入巨资支持初创公司通过播撒碱性岩石来捕获大气中的碳，但研究指出该增强风化技术可能长期影响土壤健康和作物生长。",
+    "key_points": [
+      "谷歌、微软等公司正大力投资基于岩石的碳去除技术",
+      "增强风化技术可能在远期导致农作物产量下降",
+      "研究对科技公司的碳去除策略提出潜在风险警示"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [
+      "google",
+      "microsoft"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "210b2d6f086e38e4455d1adc83d8e987",
+    "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+    "url": "https://www.qbitai.com/2026/11/512017.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-11-23T07:42:01+00:00",
+    "content_snippet": "阿福大升级：让模型像医生一样思考",
+    "title_zh": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+    "summary_zh": "蚂蚁集团发布五项医疗健康AI新成果，涵盖开源模型、本地化部署方案及中医“望闻问切”功能，全面升级其AI医疗能力。",
+    "key_points": [
+      "蚂蚁集团一次性发布五个医疗健康AI产品",
+      "推出开源模型并支持本地部署",
+      "升级后AI能模拟中医的望闻问切进行诊断"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "alibaba"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "87a21e5c120aec93c6de64860a47b6ad",
+    "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+    "url": "https://www.qbitai.com/2026/11/512004.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "zh",
+    "published": "2026-11-23T06:59:38+00:00",
+    "content_snippet": "一个完全由AI组成的科学家社会，是什么样？",
+    "title_zh": "“Agent版arXiv”来了！936个智能体12周狂发近千篇论文，连同行评议都整上了",
+    "summary_zh": "一个由936个AI智能体组成的模拟科学家社群在12周内产出近千篇论文并完成同行评议，打造了全自动化的AI学术交流平台。",
+    "key_points": [
+      "936个AI智能体在12周内发表近千篇学术论文",
+      "该系统模拟了完整的同行评议流程",
+      "项目被形容为完全由AI构成的科学家社会"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
