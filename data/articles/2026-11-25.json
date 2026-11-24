@@ -530,5 +530,104 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "84cfd1b9e3c30cf62e780a6d520ecbee",
+    "title": "Even the best AI agents struggle with everyday life",
+    "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-24T21:33:29+00:00",
+    "content_snippet": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+    "title_zh": "即使是顶尖AI智能体也在日常生活中举步维艰",
+    "summary_zh": "尽管个人AI助手日益普及，一项新基准测试显示，最先进的AI模型在可靠、安全地完成日常任务方面仍存在困难，甚至可能引入新问题。",
+    "key_points": [
+      "新基准测试揭示顶尖AI模型难以可靠完成日常任务",
+      "AI模型在执行任务时可能引入新的安全隐患",
+      "这反映了当前AI智能体在处理现实世界复杂性方面的局限"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "bc914d95aadba40f40c2c322a3361908",
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-24T21:32:38+00:00",
+    "content_snippet": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+    "title_zh": "沃尔玛联手Meta，将黑色星期五优惠引入AI智能体Muse",
+    "summary_zh": "沃尔玛宣布与Meta合作，允许顾客通过Meta的AI智能体Muse浏览和购买黑色星期五优惠商品，标志着AI在零售购物场景的新应用。",
+    "key_points": [
+      "沃尔玛与Meta合作，将购物功能集成到AI智能体Muse中",
+      "用户可通过Muse直接浏览和购买黑色星期五优惠商品",
+      "这展示了AI智能体在电商领域的商业化落地"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "meta",
+      "walmart"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "f2826368332a3f31345a2bca8ffe9a04",
+    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "source": "TechCrunch AI",
+    "source_zh": "TechCrunch AI",
+    "source_type": "rss",
+    "category": "融资收购",
+    "language": "en",
+    "published": "2026-11-24T21:19:52+00:00",
+    "content_snippet": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+    "title_zh": "Maple获530万美元融资，打造连自己都无法窥探用户数据的AI产品",
+    "summary_zh": "初创公司Maple筹集530万美元，致力于开发具有加密AI架构的产品，该架构设计旨在确保即便是公司自身也无法访问用户的私人数据。",
+    "key_points": [
+      "Maple获530万美元种子轮融资，开发隐私保护AI产品",
+      "其加密AI架构设计确保公司自身也无法访问用户数据",
+      "旨在解决AI应用中的数据隐私和信任问题"
+    ],
+    "importance": 2,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "64779ae928a24e7dd032aa3528efd6bb",
+    "title": "What's going on with the Riemann hypothesis?",
+    "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "研究论文",
+    "language": "en",
+    "published": "2026-11-24T20:34:53+00:00",
+    "content_snippet": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+    "title_zh": "黎曼猜想进展如何？",
+    "summary_zh": "一篇探讨黎曼猜想最新AI辅助证明的文章，指出该证明似乎无懈可击，但其揭示的数学含义和带来的新认知尚不明确。",
+    "key_points": [
+      "一项AI辅助的黎曼猜想证明看起来是成立的",
+      "该证明的数学含义和其揭示的新信息尚不清晰",
+      "探讨了AI在纯数学重大难题证明中的作用与局限"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
