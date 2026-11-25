@@ -445,5 +445,55 @@
     ],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "6d162717023fa73f184296db1d33e2af",
+    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "source": "The Verge AI",
+    "source_zh": "The Verge AI",
+    "source_type": "rss",
+    "category": "行业政策",
+    "language": "en",
+    "published": "2026-11-25T21:51:26+00:00",
+    "content_snippet": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come [&#8230;]",
+    "title_zh": "谷歌为定制AI视频信息流申请专利，描绘娱乐未来惨淡图景",
+    "summary_zh": "谷歌曾为名为My Channel的系统申请专利，该系统利用用户数据生成个性化AI视频与广告。该专利虽已被驳，但谷歌可能上诉或重新提交，引发对未来娱乐内容深陷自动化和个性化操控的担忧。",
+    "key_points": [
+      "谷歌拟用AI根据用户数据生成个性化视频信息流",
+      "系统名为My Channel，会自动插入定制化广告",
+      "该专利申请已被驳回，但谷歌可能继续推进"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "google"
+    ],
+    "processed": true,
+    "proc_version": 1
+  },
+  {
+    "id": "5a6739f0ad08f6f05159ae5e04ca8a08",
+    "title": "Google search alternative Kagi launches Gmail rival",
+    "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+    "source": "Ars Technica",
+    "source_zh": "Ars Technica",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "en",
+    "published": "2026-11-25T20:57:09+00:00",
+    "content_snippet": "The pitch is an unusual combination of privacy promises and AI features.",
+    "title_zh": "谷歌搜索替代品Kagi推出Gmail竞品",
+    "summary_zh": "付费搜索引擎Kagi推出电子邮件服务Kagi Mail，作为Gmail的隐私友好型替代品。该服务结合了无广告、无追踪的隐私承诺与AI辅助功能，试图在邮件市场挑战谷歌。",
+    "key_points": [
+      "Kagi发布邮件服务，主打隐私保护与AI功能结合",
+      "该服务定位为Gmail的直接竞争对手",
+      "提供无广告、无追踪体验，作为付费订阅的一部分"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [],
+    "processed": true,
+    "proc_version": 1
   }
 ]
