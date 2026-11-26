@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 日报 · 2026-11-27</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>AI 新闻速递 · 日报</h1>
+    <p class="subtitle">2026-11-27 · 共 3 条资讯</p>
+  </header>
+
+  
+  <div class="daily-header">
+    <h2>今日要点</h2>
+    <div class="stats">
+      <span>3 条资讯</span>
+      <span>0 条突发</span>
+      <span>2 个信源</span>
+    </div>
+    <div class="daily-overview">资讯分布：行业政策 1 条、产品动态 1 条、行业动态 1 条。</div>
+  </div>
+  
+
+  <div class="filters">
+    <button class="active" data-category="all">全部</button>
+    
+    <button data-category="产品动态">产品动态</button>
+    
+    <button data-category="行业动态">行业动态</button>
+    
+    <button data-category="行业政策">行业政策</button>
+    
+  </div>
+
+  
+  <ol class="article-list">
+    
+    <li class="article-item" data-category="行业政策">
+      <span class="article-rank">1</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/" target="_blank" rel="noopener">英伟达暂停向东南亚运送芯片</a>
+          <div class="article-title-original">Nvidia hits pause on chip shipments to Southeast Asia</div>
+          
+        </div>
+        
+        <p class="article-summary">英伟达已通知制造合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚运送服务器，原因是美国加大力度阻止人工智能芯片流入中国。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">TechCrunch AI</span>
+          <span class="tag">行业政策</span>
+          
+          <span class="stars">★★★★☆</span>
+          <time class="article-time" datetime="2026-11-26T20:03:54+00:00" title="2026-11-27 04:03"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="产品动态">
+      <span class="article-rank">2</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/" target="_blank" rel="noopener">福特发布GT41赛车，目标再夺勒芒冠军</a>
+          <div class="article-title-original">Ford unveils the GT41 as it hopes to win Le Mans again</div>
+          
+        </div>
+        
+        <p class="article-summary">福特发布新型GT41原型赛车，并计划于2027年参加世界耐力锦标赛，寄望于再次赢得勒芒24小时耐力赛。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">Ars Technica</span>
+          <span class="tag">产品动态</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-26T18:00:29+00:00" title="2026-11-27 02:00"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="行业动态">
+      <span class="article-rank">3</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/" target="_blank" rel="noopener">GTA VI证明效率并非美德</a>
+          <div class="article-title-original">Grand Theft Auto VI proves why efficiency isn’t a virtue</div>
+          
+        </div>
+        
+        <p class="article-summary">在Anthropic上市的同一天，精雕细琢的电子游戏《侠盗猎车手VI》成为史上最成功的娱乐产品发布之一，文章借此探讨效率与精心打磨的价值对比。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">TechCrunch AI</span>
+          <span class="tag">行业动态</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-26T16:00:00+00:00" title="2026-11-27 00:00"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+  </ol>
+  
+
+  <footer>
+    <p><a href="../index.html" style="color: var(--accent);">← 返回首页</a></p>
+    <p style="margin-top: 8px;">AI 新闻速递 · 由 Claude API 提供智能处理</p>
+  </footer>
+
+  <script>
+    document.querySelector('.filters').addEventListener('click', function(e) {
+      if (e.target.tagName !== 'BUTTON') return;
+      document.querySelectorAll('.filters button').forEach(function(b) { b.classList.remove('active'); });
+      e.target.classList.add('active');
+      var cat = e.target.dataset.category;
+      document.querySelectorAll('.article-item').forEach(function(item) {
+        item.style.display = (cat === 'all' || item.dataset.category === cat) ? '' : 'none';
+      });
+    });
+
+    function toggleCluster(el) {
+      var children = el.nextElementSibling;
+      if (children.classList.contains('open')) {
+        children.classList.remove('open');
+        el.textContent = el.textContent.replace('▾', '▸');
+      } else {
+        children.classList.add('open');
+        el.textContent = el.textContent.replace('▸', '▾');
+      }
+    }
+    function updateTimeAgo() {
+      document.querySelectorAll('time.article-time[datetime]').forEach(function(el) {
+        var dt = new Date(el.getAttribute('datetime'));
+        if (isNaN(dt)) return;
+        var diff = (Date.now() - dt.getTime()) / 1000;
+        if (diff < 60) el.textContent = '刚刚';
+        else if (diff < 3600) el.textContent = Math.floor(diff / 60) + ' 分钟前';
+        else if (diff < 86400) el.textContent = Math.floor(diff / 3600) + ' 小时前';
+        else if (diff < 604800) el.textContent = Math.floor(diff / 86400) + ' 天前';
+        else el.textContent = el.getAttribute('title') || '';
+      });
+    }
+    updateTimeAgo();
+    setInterval(updateTimeAgo, 60000);
+  </script>
+</body>
+</html>
