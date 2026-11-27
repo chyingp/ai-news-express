@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 日报 · 2026-11-28</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header>
+    <h1>AI 新闻速递 · 日报</h1>
+    <p class="subtitle">2026-11-28 · 共 2 条资讯</p>
+  </header>
+
+  
+  <div class="daily-header">
+    <h2>今日要点</h2>
+    <div class="stats">
+      <span>2 条资讯</span>
+      <span>0 条突发</span>
+      <span>2 个信源</span>
+    </div>
+    <div class="daily-overview">资讯分布：研究论文 1 条、技术教程 1 条。</div>
+  </div>
+  
+
+  <div class="filters">
+    <button class="active" data-category="all">全部</button>
+    
+    <button data-category="技术教程">技术教程</button>
+    
+    <button data-category="研究论文">研究论文</button>
+    
+  </div>
+
+  
+  <ol class="article-list">
+    
+    <li class="article-item" data-category="研究论文">
+      <span class="article-rank">1</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/" target="_blank" rel="noopener">尖端假肢如何帮助探究人类心智</a>
+          <div class="article-title-original">How cutting-edge prosthetics can help probe the human mind</div>
+          
+        </div>
+        
+        <p class="article-summary">文章讲述亚历山大·戴维森因受伤瘫痪并失去左手的经历，以及他后来如何成为创伤治疗师。研究人员利用他使用的尖端仿生手，开辟了一条探索人类心智奥秘的全新途径。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">MIT 科技评论</span>
+          <span class="tag">研究论文</span>
+          
+          <span class="stars">★★★☆☆</span>
+          <time class="article-time" datetime="2026-11-27T10:00:00+00:00" title="2026-11-27 18:00"></time>
+        </div>
+        
+        <span class="cluster-toggle" onclick="toggleCluster(this)">还有 1 篇相关报道 ▸</span>
+        <div class="cluster-children">
+          
+          <div class="cluster-child">
+            <a href="https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/" target="_blank" rel="noopener">The Download：35 岁以下创新者提名已开放，仿生手打开一扇了解大脑的窗口</a>
+            <span class="cluster-child-source">MIT 科技评论</span>
+          </div>
+          
+        </div>
+        
+      </div>
+    </li>
+    
+    <li class="article-item" data-category="技术教程">
+      <span class="article-rank">2</span>
+      <div class="article-content">
+        <div class="article-title">
+          
+          <a href="https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini" target="_blank" rel="noopener">Android 的 DIY 小部件：一场气氛编程的趣味实验</a>
+          <div class="article-title-original">Android’s DIY widgets are a bit of vibe-coding fun</div>
+          
+        </div>
+        
+        <p class="article-summary">文章以安卓系统通过 Gemini 创建自定义小部件为例，介绍了一种轻松随意的“气氛编程”玩法。作者希望小部件能实时显示公交车到达时间，展示了 AI 辅助下的个性化手机功能探索。</p>
+        
+        <div class="article-meta">
+          <span class="source-badge">The Verge AI</span>
+          <span class="tag">技术教程</span>
+          
+          <span class="stars">★★☆☆☆</span>
+          <time class="article-time" datetime="2026-11-27T14:00:00+00:00" title="2026-11-27 22:00"></time>
+        </div>
+        
+      </div>
+    </li>
+    
+  </ol>
+  
+
+  <footer>
+    <p><a href="../index.html" style="color: var(--accent);">← 返回首页</a></p>
+    <p style="margin-top: 8px;">AI 新闻速递 · 由 Claude API 提供智能处理</p>
+  </footer>
+
+  <script>
+    document.querySelector('.filters').addEventListener('click', function(e) {
+      if (e.target.tagName !== 'BUTTON') return;
+      document.querySelectorAll('.filters button').forEach(function(b) { b.classList.remove('active'); });
+      e.target.classList.add('active');
+      var cat = e.target.dataset.category;
+      document.querySelectorAll('.article-item').forEach(function(item) {
+        item.style.display = (cat === 'all' || item.dataset.category === cat) ? '' : 'none';
+      });
+    });
+
+    function toggleCluster(el) {
+      var children = el.nextElementSibling;
+      if (children.classList.contains('open')) {
+        children.classList.remove('open');
+        el.textContent = el.textContent.replace('▾', '▸');
+      } else {
+        children.classList.add('open');
+        el.textContent = el.textContent.replace('▸', '▾');
+      }
+    }
+    function updateTimeAgo() {
+      document.querySelectorAll('time.article-time[datetime]').forEach(function(el) {
+        var dt = new Date(el.getAttribute('datetime'));
+        if (isNaN(dt)) return;
+        var diff = (Date.now() - dt.getTime()) / 1000;
+        if (diff < 60) el.textContent = '刚刚';
+        else if (diff < 3600) el.textContent = Math.floor(diff / 60) + ' 分钟前';
+        else if (diff < 86400) el.textContent = Math.floor(diff / 3600) + ' 小时前';
+        else if (diff < 604800) el.textContent = Math.floor(diff / 86400) + ' 天前';
+        else el.textContent = el.getAttribute('title') || '';
+      });
+    }
+    updateTimeAgo();
+    setInterval(updateTimeAgo, 60000);
+  </script>
+</body>
+</html>
