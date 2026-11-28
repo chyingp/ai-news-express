@@ -72,5 +72,31 @@
     "companies": [],
     "processed": true,
     "proc_version": 1
+  },
+  {
+    "id": "072dff35f67a5c25605060bec28989c5",
+    "title": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+    "url": "https://www.qbitai.com/2026/11/513428.html",
+    "source": "量子位",
+    "source_zh": "量子位",
+    "source_type": "rss",
+    "category": "产品动态",
+    "language": "zh",
+    "published": "2026-11-28T05:54:46+00:00",
+    "content_snippet": "这种大模型现做的即时交互工具，能不能来一波知识付费？",
+    "title_zh": "亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛",
+    "summary_zh": "前特斯拉AI总监卡帕西利用Anthropic的Claude模型快速制作了一款即时交互的“美国版《文明》”游戏，引发网友在全球范围内进行接力游玩和热议，展示了大型语言模型在快速生成交互式应用方面的潜力。",
+    "key_points": [
+      "卡帕西用Claude快速搓出即时交互策略游戏",
+      "网友自发形成全球接力赛，引爆社交网络",
+      "示范大模型快速构建交互应用的潜力"
+    ],
+    "importance": 3,
+    "is_breaking": false,
+    "companies": [
+      "anthropic"
+    ],
+    "processed": true,
+    "proc_version": 1
   }
 ]
